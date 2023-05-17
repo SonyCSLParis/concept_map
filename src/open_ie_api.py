@@ -1,3 +1,9 @@
+# -----------------------------------------------------------
+# python file to run the stanford ie api
+#
+# (C)
+# -----------------------------------------------------------
+
 from __future__ import print_function
 
 import os
