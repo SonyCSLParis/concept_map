@@ -1,4 +1,0 @@
-Section, requires, board
-suspension, modify, suspension
-principal, modify, suspension
-school, provide, student

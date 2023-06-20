@@ -1,2 +1,0 @@
-principals, issue, permits
-principal, find, requirements
