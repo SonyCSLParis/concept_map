@@ -1,0 +1,138 @@
+<html><head><title>HIT</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script></head><body><form name="mturk_form" method="post" id="mturk_form" action="https://www.mturk.com/mturk/externalSubmit"><input type="hidden" value="" name="assignmentId" id="assignmentId" /><!-- Bootstrap v3.0.3 -->
+<link href="https://s3.amazonaws.com/mturk-public/bs30/css/bootstrap.min.css" rel="stylesheet" />
+<link href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet" />
+<section class="container" id="Other" style="margin-bottom:15px; padding: 10px 10px; font-family: Verdana, Geneva, sans-serif; color:#333333; font-size:0.9em;">
+<div class="row col-xs-12 col-md-12"><!-- Instructions -->
+<div class="panel panel-primary">
+<div class="panel-heading"><strong>Instructions</strong>&nbsp;&nbsp;<a id="toggle" onclick="$('#ins-panel').toggle();" style="color:#fff">(hide/show)</a></div>
+
+<div class="panel-body" id="ins-panel">
+<p>You will see a topic and five statements. Imagine you want to learn something about the topic. How useful would the statements be for you?</p>
+
+<p>Order the statements by their importance for the topic. Use drag-and-drop to arrange them by decreasing importance from left to right.</p>
+
+<p style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">Please note:</p>
+
+<ul id="instruction-list" style="font-family: Verdana, Geneva, sans-serif; font-size: 11.7px;">
+	<li style="margin-bottom: 5px;"><strong>Do not judge</strong>&nbsp;the statements&nbsp;<strong>based on prior knowledge</strong>. If you already knew something, this&nbsp;should not influence your answer.</li>
+	<li style="margin-bottom: 5px;"><strong>Prefer more general statements</strong>&nbsp;over more specific statements.
+	<ul>
+		<li style="margin-bottom: 5px;">Example Topic:&nbsp;<em>coal mining accidents in China</em></li>
+		<li style="margin-bottom: 5px;">Statement 1:&nbsp;<em>3294 people were killed in 1283 accidents in China in 2012&nbsp;</em>&nbsp;&nbsp;</li>
+		<li style="margin-bottom: 5px;">Statement 2:&nbsp;<em>8 people were killed in an explosion last week</em>&nbsp;&nbsp; --> &nbsp; 1 should be left of 2</li>
+	</ul>
+	</li>
+	<li style="margin-bottom: 5px;">Prefer statements that you can fully&nbsp;<strong>understand without&nbsp;context</strong>&nbsp;other than the given topic.
+	<ul>
+		<li style="margin-bottom: 5px;">Negative example:&nbsp;<em>these events demonstrated the high risks &nbsp;&nbsp;</em>--> &nbsp; unclear which "these events" are, not possible to determine importance, place right</li>
+	</ul>
+	</li>
+	<li style="margin-bottom: 5px;"><strong>Ignore grammatical</strong>&nbsp;<strong>and punctuation</strong>&nbsp;errors as well as&nbsp;<strong>unnatural or unfluent wording</strong>&nbsp;of&nbsp;the statements. They were automatically extracted from text. This should not influence your importance judgement (as long as you can still understand what the statement says).</li>
+	<li style="margin-bottom: 5px;">The judgements you have to make are subjective and there is no correct answer. We are interested in your opinion. However, to identify and handle workers that do not pay attention to the task, some HITs indeed contain&nbsp;items with an obvious single correct answer.&nbsp;<strong>Please do the task properly!</strong></li>
+</ul>
+</div>
+</div>
+<!-- End Instructions --><!-- Content Body -->
+
+<section>
+<p><strong>Topic:</strong></p>
+
+<p><strong>students loans without credit history</strong><br />
+&nbsp;</p>
+
+<div style="overflow:hidden;margin-bottom:30px;">
+<p>Please move the statements to the upper box and order them by their importance for the given topic.</p>
+
+<p>If you cannot decide for two statements&nbsp;which one is more important (e.g. both completely unrelated to the topic)&nbsp;please leave them in their original order.</p>
+
+<p><span style="float:left"><em>most important</em></span><span style="float:right"><em>least important</em></span></p>
+
+<ul class="connectedSortable" id="target">
+</ul>
+
+<p>(If the boxes are big, they might break into two rows. Then, the leftmost box in the first row is most important, the righmost in the second row is least important.)</p>
+
+<p>Available statements:</p>
+
+<ul class="connectedSortable" id="source">
+	<li class="ui-state-default" id="s1">A co-borrower<br />
+	<em>can be</em><br />
+	any adult</li>
+	<li class="ui-state-default" id="s2">pupil aid<br />
+	<em>offered by</em><br />
+	the U.S. Department of Schooling</li>
+	<li class="ui-state-default" id="s3">No reasonable business<br />
+	<em>wants to</em><br />
+	lend unsecured money to borrowers</li>
+	<li class="ui-state-default" id="s4">the gorilla<br />
+	<em>will turn into</em><br />
+	King Kong</li>
+	<li class="ui-state-default" id="s5">Others<br />
+	<em>offer</em><br />
+	Masters</li>
+</ul>
+</div>
+
+<p><label>Comments </label> <input class="form-control" name="comments" size="120" type="text" /></p>
+<input name="id" type="hidden" value="1018-680" /> <input name="id" type="hidden" value="1018-269" /> <input name="id" type="hidden" value="1018-89" /> <input name="id" type="hidden" value="1018-691" /> <input name="id" type="hidden" value="1018-134" /> <input id="r1" name="r1" type="hidden" value="0" /> <input id="r2" name="r2" type="hidden" value="0" /> <input id="r3" name="r3" type="hidden" value="0" /> <input id="r4" name="r4" type="hidden" value="0" /> <input id="r5" name="r5" type="hidden" value="0" /></section>
+</div>
+</section>
+<!-- End Content Body --><!-- close container --><script src="https://code.jquery.com/jquery-1.12.4.js"></script><script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script><script>
+$( function() {
+    var updateRanking =  function(evt, ui) {
+           // update ranking
+           $("[id^=r]").attr('value',0);
+           lis = $('#target li');
+           ranking = '';
+           for(var i=0; i<lis.length; i++) {
+              var id = lis[i].id.substr(1);
+              $('#r'+id).attr('value',i+1);
+              ranking += id + ' ';
+           }
+           console.log(ranking);
+           // update button
+           if(lis.length == 5) {
+              $('#submitButton').attr('disabled',false);
+           } else {
+              $('#submitButton').attr('disabled',true);
+           }
+    }
+	$( "#source, #target" ).sortable({
+		connectWith: ".connectedSortable",
+        receive: updateRanking,
+        stop: updateRanking
+	}).disableSelection();
+    $('#submitButton').attr('disabled',true);
+} );
+</script>
+<style type="text/css">fieldset {
+    padding: 10px;
+    background:#fbfbfb;
+    border-radius:5px;
+    margin-bottom:5px;
+}
+table {
+    margin-bottom: 25px;
+}
+#source, #target {
+    font-size:1em; 
+	border: 1px solid #eee;
+	list-style-type: none;
+	margin: 0;
+	padding: 5px 0 0 0;
+    width: 100%;
+    overflow: hidden;
+}
+#target {
+	min-height: 150px;
+}
+#source li, #target li {
+	margin: 0 5px 5px 5px;
+	padding: 5px;
+    font-size:1em; 
+	max-width: 200px;
+    text-align: center;
+	float: left;
+}
+</style>
+<p class="text-center"><input type="submit" id="submitButton" class="btn btn-primary" value="Submit" /></p></form><script language="Javascript">turkSetAssignmentID();</script></body></html>

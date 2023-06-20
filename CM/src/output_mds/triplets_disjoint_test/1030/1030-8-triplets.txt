@@ -1,0 +1,5 @@
+student, given, credit
+he, had, absence
+she, had, absence
+her, having, privilege
+teacher, penalize, student

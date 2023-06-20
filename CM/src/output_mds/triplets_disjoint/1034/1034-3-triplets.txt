@@ -1,0 +1,4 @@
+all, provide, children
+that, give, parents
+that, give, opportunity
+Explorers, offers, camps

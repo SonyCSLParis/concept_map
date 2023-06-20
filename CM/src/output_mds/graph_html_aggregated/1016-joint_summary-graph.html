@@ -1,0 +1,271 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 600px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+             #config {
+                 float: left;
+                 width: 400px;
+                 height: 600px;
+             }
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+            <div id="config"></div>
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "child", "label": "child", "shape": "dot"}, {"color": "#97c2fc", "id": "experiencing", "label": "experiencing", "shape": "dot"}, {"color": "#97c2fc", "id": "he", "label": "he", "shape": "dot"}, {"color": "#97c2fc", "id": "need", "label": "need", "shape": "dot"}, {"color": "#97c2fc", "id": "you", "label": "you", "shape": "dot"}, {"color": "#97c2fc", "id": "avoid", "label": "avoid", "shape": "dot"}, {"color": "#97c2fc", "id": "children", "label": "children", "shape": "dot"}, {"color": "#97c2fc", "id": "reach", "label": "reach", "shape": "dot"}, {"color": "#97c2fc", "id": "has", "label": "has", "shape": "dot"}, {"color": "#97c2fc", "id": "get", "label": "get", "shape": "dot"}, {"color": "#97c2fc", "id": "Results", "label": "Results", "shape": "dot"}, {"color": "#97c2fc", "id": "found", "label": "found", "shape": "dot"}, {"color": "#97c2fc", "id": "parents", "label": "parents", "shape": "dot"}, {"color": "#97c2fc", "id": "ages", "label": "ages", "shape": "dot"}, {"color": "#97c2fc", "id": "Solution", "label": "Solution", "shape": "dot"}, {"color": "#97c2fc", "id": "offers", "label": "offers", "shape": "dot"}, {"color": "#97c2fc", "id": "group", "label": "group", "shape": "dot"}, {"color": "#97c2fc", "id": "tackles", "label": "tackles", "shape": "dot"}, {"color": "#97c2fc", "id": "she", "label": "she", "shape": "dot"}, {"color": "#97c2fc", "id": "gives", "label": "gives", "shape": "dot"}, {"color": "#97c2fc", "id": "issues", "label": "issues", "shape": "dot"}, {"color": "#97c2fc", "id": "disrupt", "label": "disrupt", "shape": "dot"}, {"color": "#97c2fc", "id": "learn", "label": "learn", "shape": "dot"}, {"color": "#97c2fc", "id": "who", "label": "who", "shape": "dot"}, {"color": "#97c2fc", "id": "have", "label": "have", "shape": "dot"}, {"color": "#97c2fc", "id": "ones", "label": "ones", "shape": "dot"}, {"color": "#97c2fc", "id": "we", "label": "we", "shape": "dot"}, {"color": "#97c2fc", "id": "investigated", "label": "investigated", "shape": "dot"}, {"color": "#97c2fc", "id": "We", "label": "We", "shape": "dot"}, {"color": "#97c2fc", "id": "studied", "label": "studied", "shape": "dot"}, {"color": "#97c2fc", "id": "remember", "label": "remember", "shape": "dot"}, {"color": "#97c2fc", "id": "needs", "label": "needs", "shape": "dot"}, {"color": "#97c2fc", "id": "tell", "label": "tell", "shape": "dot"}, {"color": "#97c2fc", "id": "allow", "label": "allow", "shape": "dot"}, {"color": "#97c2fc", "id": "they", "label": "they", "shape": "dot"}, {"color": "#97c2fc", "id": "lost", "label": "lost", "shape": "dot"}, {"color": "#97c2fc", "id": "mother", "label": "mother", "shape": "dot"}, {"color": "#97c2fc", "id": "put", "label": "put", "shape": "dot"}, {"color": "#97c2fc", "id": "require", "label": "require", "shape": "dot"}, {"color": "#97c2fc", "id": "establish", "label": "establish", "shape": "dot"}, {"color": "#97c2fc", "id": "I", "label": "I", "shape": "dot"}, {"color": "#97c2fc", "id": "give", "label": "give", "shape": "dot"}, {"color": "#97c2fc", "id": "publication", "label": "publication", "shape": "dot"}, {"color": "#97c2fc", "id": "constitute", "label": "constitute", "shape": "dot"}, {"color": "#97c2fc", "id": "information", "label": "information", "shape": "dot"}, {"color": "#97c2fc", "id": "replace", "label": "replace", "shape": "dot"}, {"color": "#97c2fc", "id": "that", "label": "that", "shape": "dot"}, {"color": "#97c2fc", "id": "takes", "label": "takes", "shape": "dot"}, {"color": "#97c2fc", "id": "saliva", "label": "saliva", "shape": "dot"}, {"color": "#97c2fc", "id": "wash", "label": "wash", "shape": "dot"}, {"color": "#97c2fc", "id": "sheet", "label": "sheet", "shape": "dot"}, {"color": "#97c2fc", "id": "provides", "label": "provides", "shape": "dot"}, {"color": "#97c2fc", "id": "Centre", "label": "Centre", "shape": "dot"}, {"color": "#97c2fc", "id": "affect", "label": "affect", "shape": "dot"}, {"color": "#97c2fc", "id": "Problems", "label": "Problems", "shape": "dot"}, {"color": "#97c2fc", "id": "Caregivers", "label": "Caregivers", "shape": "dot"}, {"color": "#97c2fc", "id": "reported", "label": "reported", "shape": "dot"}, {"color": "#97c2fc", "id": "watching", "label": "watching", "shape": "dot"}, {"color": "#97c2fc", "id": "made", "label": "made", "shape": "dot"}, {"color": "#97c2fc", "id": "book", "label": "book", "shape": "dot"}, {"color": "#97c2fc", "id": "instructions", "label": "instructions", "shape": "dot"}, {"color": "#97c2fc", "id": "Other", "label": "Other", "shape": "dot"}, {"color": "#97c2fc", "id": "Causes", "label": "Causes", "shape": "dot"}, {"color": "#97c2fc", "id": "reclaim", "label": "reclaim", "shape": "dot"}, {"color": "#97c2fc", "id": "Study", "label": "Study", "shape": "dot"}, {"color": "#97c2fc", "id": "suggests", "label": "suggests", "shape": "dot"}, {"color": "#97c2fc", "id": "It", "label": "It", "shape": "dot"}, {"color": "#97c2fc", "id": "take", "label": "take", "shape": "dot"}, {"color": "#97c2fc", "id": "settled", "label": "settled", "shape": "dot"}, {"color": "#97c2fc", "id": "change", "label": "change", "shape": "dot"}, {"color": "#97c2fc", "id": "doing", "label": "doing", "shape": "dot"}, {"color": "#97c2fc", "id": "do", "label": "do", "shape": "dot"}, {"color": "#97c2fc", "id": "re", "label": "re", "shape": "dot"}, {"color": "#97c2fc", "id": "baby", "label": "baby", "shape": "dot"}, {"color": "#97c2fc", "id": "learned", "label": "learned", "shape": "dot"}, {"color": "#97c2fc", "id": "Program", "label": "Program", "shape": "dot"}, {"color": "#97c2fc", "id": "Set", "label": "Set", "shape": "dot"}, {"color": "#97c2fc", "id": "accommodate", "label": "accommodate", "shape": "dot"}, {"color": "#97c2fc", "id": "assure", "label": "assure", "shape": "dot"}, {"color": "#97c2fc", "id": "this", "label": "this", "shape": "dot"}, {"color": "#97c2fc", "id": "indicate", "label": "indicate", "shape": "dot"}, {"color": "#97c2fc", "id": "sleep", "label": "sleep", "shape": "dot"}, {"color": "#97c2fc", "id": "complicate", "label": "complicate", "shape": "dot"}, {"color": "#97c2fc", "id": "getting", "label": "getting", "shape": "dot"}, {"color": "#97c2fc", "id": "prevent", "label": "prevent", "shape": "dot"}, {"color": "#97c2fc", "id": "outgrow", "label": "outgrow", "shape": "dot"}, {"color": "#97c2fc", "id": "it", "label": "it", "shape": "dot"}, {"color": "#97c2fc", "id": "Sleep", "label": "Sleep", "shape": "dot"}, {"color": "#97c2fc", "id": "Predict", "label": "Predict", "shape": "dot"}, {"color": "#97c2fc", "id": "researchers", "label": "researchers", "shape": "dot"}, {"color": "#97c2fc", "id": "examined", "label": "examined", "shape": "dot"}, {"color": "#97c2fc", "id": "pass", "label": "pass", "shape": "dot"}, {"color": "#97c2fc", "id": "discuss", "label": "discuss", "shape": "dot"}, {"color": "#97c2fc", "id": "problems", "label": "problems", "shape": "dot"}, {"color": "#97c2fc", "id": "produce", "label": "produce", "shape": "dot"}, {"color": "#97c2fc", "id": "inhales", "label": "inhales", "shape": "dot"}, {"color": "#97c2fc", "id": "neck", "label": "neck", "shape": "dot"}, {"color": "#97c2fc", "id": "overextended", "label": "overextended", "shape": "dot"}, {"color": "#97c2fc", "id": "had", "label": "had", "shape": "dot"}, {"color": "#97c2fc", "id": "stop", "label": "stop", "shape": "dot"}, {"color": "#97c2fc", "id": "manage", "label": "manage", "shape": "dot"}, {"color": "#97c2fc", "id": "experiences", "label": "experiences", "shape": "dot"}, {"color": "#97c2fc", "id": "master", "label": "master", "shape": "dot"}, {"color": "#97c2fc", "id": "studies", "label": "studies", "shape": "dot"}, {"color": "#97c2fc", "id": "compared", "label": "compared", "shape": "dot"}, {"color": "#97c2fc", "id": "having", "label": "having", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"from": "child", "label": "anxiety", "to": "experiencing"}, {"from": "he", "label": "support", "to": "need"}, {"from": "you", "label": "lot", "to": "avoid"}, {"from": "children", "label": "age", "to": "reach"}, {"from": "child", "label": "problem", "to": "has"}, {"from": "children", "label": "amount", "to": "get"}, {"from": "Results", "label": "support", "to": "found"}, {"from": "parents", "label": "one", "to": "ages"}, {"from": "Solution", "label": "solutions", "to": "offers"}, {"from": "group", "label": "rest", "to": "get"}, {"from": "Solution", "label": "obstacles", "to": "tackles"}, {"from": "she", "label": "tools", "to": "gives"}, {"from": "issues", "label": "sleep", "to": "disrupt"}, {"from": "child", "label": "skill", "to": "learn"}, {"from": "who", "label": "characteristics", "to": "have"}, {"from": "ones", "label": "impact", "to": "have"}, {"from": "we", "label": "effects", "to": "investigated"}, {"from": "We", "label": "process", "to": "studied"}, {"from": "child", "label": "what", "to": "remember"}, {"from": "child", "label": "nap", "to": "needs"}, {"from": "parents", "label": "difference", "to": "tell"}, {"from": "you", "label": "him", "to": "allow"}, {"from": "they", "label": "individuality", "to": "lost"}, {"from": "mother", "label": "child", "to": "put"}, {"from": "children", "label": "sleep", "to": "require"}, {"from": "child", "label": "habits", "to": "establish"}, {"from": "I", "label": "child", "to": "give"}, {"from": "I", "label": "daughter", "to": "have"}, {"from": "she", "label": "problem", "to": "has"}, {"from": "publication", "label": "practice", "to": "constitute"}, {"from": "information", "label": "advice", "to": "replace"}, {"from": "that", "label": "minutes", "to": "takes"}, {"from": "saliva", "label": "some", "to": "wash"}, {"from": "sheet", "label": "information", "to": "provides"}, {"from": "Centre", "label": "outcomes", "to": "affect"}, {"from": "Problems", "label": "outcomes", "to": "affect"}, {"from": "Caregivers", "label": "rates", "to": "reported"}, {"from": "watching", "label": "sleep", "to": "disrupt"}, {"from": "children", "label": "TV", "to": "have"}, {"from": "who", "label": "living", "to": "made"}, {"from": "book", "label": "step", "to": "offers"}, {"from": "instructions", "label": "rest", "to": "get"}, {"from": "Other", "label": "III", "to": "Causes"}, {"from": "parents", "label": "dreams", "to": "reclaim"}, {"from": "Study", "label": "link", "to": "suggests"}, {"from": "who", "label": "sleep", "to": "get"}, {"from": "they", "label": "kindergarten", "to": "reach"}, {"from": "It", "label": "time", "to": "take"}, {"from": "they", "label": "child", "to": "settled"}, {"from": "you", "label": "habits", "to": "change"}, {"from": "you", "label": "what", "to": "doing"}, {"from": "you", "label": "that", "to": "do"}, {"from": "he", "label": "rest", "to": "has"}, {"from": "he", "label": "sleep", "to": "needs"}, {"from": "Solution", "label": "parents", "to": "provides"}, {"from": "they", "label": "that", "to": "re"}, {"from": "baby", "label": "associations", "to": "learned"}, {"from": "Program", "label": "Call", "to": "Set"}, {"from": "We", "label": "time", "to": "have"}, {"from": "We", "label": "schedules", "to": "accommodate"}, {"from": "they", "label": "opportunity", "to": "have"}, {"from": "that", "label": "time", "to": "assure"}, {"from": "this", "label": "problem", "to": "indicate"}, {"from": "child", "label": "help", "to": "need"}, {"from": "children", "label": "Problems", "to": "sleep"}, {"from": "that", "label": "picture", "to": "complicate"}, {"from": "children", "label": "amount", "to": "getting"}, {"from": "they", "label": "parents", "to": "prevent"}, {"from": "children", "label": "habit", "to": "outgrow"}, {"from": "it", "label": "potential", "to": "has"}, {"from": "who", "label": "sleep", "to": "getting"}, {"from": "Sleep", "label": "ADHD", "to": "Predict"}, {"from": "researchers", "label": "patterns", "to": "examined"}, {"from": "they", "label": "germs", "to": "pass"}, {"from": "you", "label": "this", "to": "discuss"}, {"from": "problems", "label": "movements", "to": "produce"}, {"from": "child", "label": "movements", "to": "inhales"}, {"from": "neck", "label": "Hyperactivity", "to": "overextended"}, {"from": "child", "label": "sleep", "to": "have"}, {"from": "I", "label": "nose", "to": "had"}, {"from": "it", "label": "me", "to": "stop"}, {"from": "parents", "label": "problems", "to": "manage"}, {"from": "experiences", "label": "problems", "to": "sleep"}, {"from": "children", "label": "training", "to": "master"}, {"from": "parents", "label": "concerns", "to": "have"}, {"from": "studies", "label": "degree", "to": "compared"}, {"from": "that", "label": "association", "to": "examined"}, {"from": "you", "label": "concerns", "to": "have"}, {"from": "child", "label": "difficulties", "to": "having"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": true
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -50,
+            "springConstant": 0.08,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+                  // if this network requires displaying the configure window,
+                  // put it in its div
+                  options.configure["container"] = document.getElementById("config");
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

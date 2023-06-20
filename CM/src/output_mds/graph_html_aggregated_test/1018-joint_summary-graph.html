@@ -1,0 +1,176 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+             #config {
+                 float: left;
+                 width: 400px;
+                 height: 600px;
+             }
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+            <div id="config"></div>
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "loans", "label": "loans", "shape": "dot"}, {"color": "#97c2fc", "id": "cosigner", "label": "cosigner", "shape": "dot"}, {"color": "#97c2fc", "id": "student", "label": "student", "shape": "dot"}, {"color": "#97c2fc", "id": "loan", "label": "loan", "shape": "dot"}, {"color": "#97c2fc", "id": "who", "label": "who", "shape": "dot"}, {"color": "#97c2fc", "id": "students", "label": "students", "shape": "dot"}, {"color": "#97c2fc", "id": "you", "label": "you", "shape": "dot"}, {"color": "#97c2fc", "id": "education", "label": "education", "shape": "dot"}, {"color": "#97c2fc", "id": "this", "label": "this", "shape": "dot"}, {"color": "#97c2fc", "id": "correction", "label": "correction", "shape": "dot"}, {"color": "#97c2fc", "id": "it", "label": "it", "shape": "dot"}, {"color": "#97c2fc", "id": "payment", "label": "payment", "shape": "dot"}, {"color": "#97c2fc", "id": "Process", "label": "Process", "shape": "dot"}, {"color": "#97c2fc", "id": "Application", "label": "Application", "shape": "dot"}, {"color": "#97c2fc", "id": "parent", "label": "parent", "shape": "dot"}, {"color": "#97c2fc", "id": "they", "label": "they", "shape": "dot"}, {"color": "#97c2fc", "id": "more", "label": "more", "shape": "dot"}, {"color": "#97c2fc", "id": "grant", "label": "grant", "shape": "dot"}, {"color": "#97c2fc", "id": "versatility", "label": "versatility", "shape": "dot"}, {"color": "#97c2fc", "id": "funding", "label": "funding", "shape": "dot"}, {"color": "#97c2fc", "id": "Easy", "label": "Easy", "shape": "dot"}, {"color": "#97c2fc", "id": "reduction", "label": "reduction", "shape": "dot"}, {"color": "#97c2fc", "id": "history", "label": "history", "shape": "dot"}, {"color": "#97c2fc", "id": "report", "label": "report", "shape": "dot"}, {"color": "#97c2fc", "id": "information", "label": "information", "shape": "dot"}, {"color": "#97c2fc", "id": "forbearance", "label": "forbearance", "shape": "dot"}, {"color": "#97c2fc", "id": "progress", "label": "progress", "shape": "dot"}, {"color": "#97c2fc", "id": "Representatives", "label": "Representatives", "shape": "dot"}, {"color": "#97c2fc", "id": "advice", "label": "advice", "shape": "dot"}, {"color": "#97c2fc", "id": "impact", "label": "impact", "shape": "dot"}, {"color": "#97c2fc", "id": "responsibility", "label": "responsibility", "shape": "dot"}, {"color": "#97c2fc", "id": "Plus", "label": "Plus", "shape": "dot"}, {"color": "#97c2fc", "id": "cash", "label": "cash", "shape": "dot"}, {"color": "#97c2fc", "id": "I", "label": "I", "shape": "dot"}, {"color": "#97c2fc", "id": "that", "label": "that", "shape": "dot"}, {"color": "#97c2fc", "id": "me", "label": "me", "shape": "dot"}, {"color": "#97c2fc", "id": "years", "label": "years", "shape": "dot"}, {"color": "#97c2fc", "id": "options", "label": "options", "shape": "dot"}, {"color": "#97c2fc", "id": "check", "label": "check", "shape": "dot"}, {"color": "#97c2fc", "id": "Loans", "label": "Loans", "shape": "dot"}, {"color": "#97c2fc", "id": "Parents", "label": "Parents", "shape": "dot"}, {"color": "#97c2fc", "id": "option", "label": "option", "shape": "dot"}, {"color": "#97c2fc", "id": "we", "label": "we", "shape": "dot"}, {"color": "#97c2fc", "id": "notification", "label": "notification", "shape": "dot"}, {"color": "#97c2fc", "id": "Students", "label": "Students", "shape": "dot"}, {"color": "#97c2fc", "id": "908", "label": "908", "shape": "dot"}, {"color": "#97c2fc", "id": "what", "label": "what", "shape": "dot"}, {"color": "#97c2fc", "id": "credit", "label": "credit", "shape": "dot"}, {"color": "#97c2fc", "id": "borrower", "label": "borrower", "shape": "dot"}, {"color": "#97c2fc", "id": "decision", "label": "decision", "shape": "dot"}, {"color": "#97c2fc", "id": "score", "label": "score", "shape": "dot"}, {"color": "#97c2fc", "id": "Department", "label": "Department", "shape": "dot"}, {"color": "#97c2fc", "id": "which", "label": "which", "shape": "dot"}, {"color": "#97c2fc", "id": "she", "label": "she", "shape": "dot"}, {"color": "#97c2fc", "id": "percent", "label": "percent", "shape": "dot"}, {"color": "#97c2fc", "id": "lot", "label": "lot", "shape": "dot"}, {"color": "#97c2fc", "id": "School", "label": "School", "shape": "dot"}, {"color": "#97c2fc", "id": "money", "label": "money", "shape": "dot"}, {"color": "#97c2fc", "id": "Total", "label": "Total", "shape": "dot"}, {"color": "#97c2fc", "id": "cost", "label": "cost", "shape": "dot"}, {"color": "#97c2fc", "id": "This", "label": "This", "shape": "dot"}, {"color": "#97c2fc", "id": "abilities", "label": "abilities", "shape": "dot"}, {"color": "#97c2fc", "id": "lender", "label": "lender", "shape": "dot"}, {"color": "#97c2fc", "id": "lenders", "label": "lenders", "shape": "dot"}, {"color": "#97c2fc", "id": "by", "label": "by", "shape": "dot"}, {"color": "#97c2fc", "id": "schools", "label": "schools", "shape": "dot"}, {"color": "#97c2fc", "id": "mode", "label": "mode", "shape": "dot"}, {"color": "#97c2fc", "id": "sense", "label": "sense", "shape": "dot"}, {"color": "#97c2fc", "id": "Loan", "label": "Loan", "shape": "dot"}, {"color": "#97c2fc", "id": "limits", "label": "limits", "shape": "dot"}, {"color": "#97c2fc", "id": "Graduates", "label": "Graduates", "shape": "dot"}, {"color": "#97c2fc", "id": "20", "label": "20", "shape": "dot"}, {"color": "#97c2fc", "id": "graduates", "label": "graduates", "shape": "dot"}, {"color": "#97c2fc", "id": "You", "label": "You", "shape": "dot"}, {"color": "#97c2fc", "id": "card", "label": "card", "shape": "dot"}, {"color": "#97c2fc", "id": "checks", "label": "checks", "shape": "dot"}, {"color": "#97c2fc", "id": "debt", "label": "debt", "shape": "dot"}, {"color": "#97c2fc", "id": "parents", "label": "parents", "shape": "dot"}, {"color": "#97c2fc", "id": "school", "label": "school", "shape": "dot"}, {"color": "#97c2fc", "id": "10", "label": "10", "shape": "dot"}, {"color": "#97c2fc", "id": "8", "label": "8", "shape": "dot"}, {"color": "#97c2fc", "id": "Government", "label": "Government", "shape": "dot"}, {"color": "#97c2fc", "id": "interest", "label": "interest", "shape": "dot"}, {"color": "#97c2fc", "id": "College", "label": "College", "shape": "dot"}, {"color": "#97c2fc", "id": "Office", "label": "Office", "shape": "dot"}, {"color": "#97c2fc", "id": "rate", "label": "rate", "shape": "dot"}, {"color": "#97c2fc", "id": "rates", "label": "rates", "shape": "dot"}, {"color": "#97c2fc", "id": "Types", "label": "Types", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"from": "loans", "label": "require", "to": "cosigner"}, {"from": "student", "label": "repay", "to": "loan"}, {"from": "who", "label": "require", "to": "students"}, {"from": "you", "label": "finished", "to": "education"}, {"from": "you", "label": "require", "to": "loans"}, {"from": "this", "label": "give", "to": "correction"}, {"from": "it", "label": "aid", "to": "you"}, {"from": "you", "label": "have", "to": "payment"}, {"from": "Process", "label": "submit", "to": "Application"}, {"from": "students", "label": "submit", "to": "Application"}, {"from": "parent", "label": "find", "to": "cosigner"}, {"from": "they", "label": "charge", "to": "more"}, {"from": "students", "label": "supply", "to": "grant"}, {"from": "loans", "label": "give", "to": "versatility"}, {"from": "you", "label": "need", "to": "funding"}, {"from": "Easy", "label": "sent", "to": "reduction"}, {"from": "students", "label": "have", "to": "history"}, {"from": "report", "label": "contains", "to": "information"}, {"from": "you", "label": "taken", "to": "forbearance"}, {"from": "you", "label": "making", "to": "progress"}, {"from": "Representatives", "label": "provide", "to": "advice"}, {"from": "student", "label": "takes", "to": "impact"}, {"from": "you", "label": "remember", "to": "responsibility"}, {"from": "you", "label": "borrow", "to": "Plus"}, {"from": "information", "label": "have", "to": "impact"}, {"from": "you", "label": "need", "to": "cash"}, {"from": "I", "label": "find", "to": "loan"}, {"from": "that", "label": "approve", "to": "me"}, {"from": "I", "label": "have", "to": "years"}, {"from": "I", "label": "have", "to": "options"}, {"from": "loans", "label": "require", "to": "check"}, {"from": "you", "label": "borrowed", "to": "Loans"}, {"from": "Parents", "label": "have", "to": "option"}, {"from": "who", "label": "borrowed", "to": "Loans"}, {"from": "they", "label": "borrowed", "to": "loans"}, {"from": "we", "label": "send", "to": "notification"}, {"from": "Students", "label": "receive", "to": "908"}, {"from": "students", "label": "afford", "to": "what"}, {"from": "you", "label": "take", "to": "loan"}, {"from": "you", "label": "do", "to": "that"}, {"from": "students", "label": "have", "to": "credit"}, {"from": "borrower", "label": "tell", "to": "you"}, {"from": "decision", "label": "tell", "to": "you"}, {"from": "score", "label": "pursue", "to": "options"}, {"from": "students", "label": "pursue", "to": "options"}, {"from": "Department", "label": "reports", "to": "which"}, {"from": "she", "label": "have", "to": "loans"}, {"from": "percent", "label": "has", "to": "lot"}, {"from": "School", "label": "receives", "to": "money"}, {"from": "Total", "label": "exceed", "to": "cost"}, {"from": "Loans", "label": "exceed", "to": "cost"}, {"from": "This", "label": "affect", "to": "abilities"}, {"from": "you", "label": "have", "to": "credit"}, {"from": "we", "label": "determine", "to": "that"}, {"from": "lender", "label": "review", "to": "score"}, {"from": "lenders", "label": "use", "to": "that"}, {"from": "by", "label": "denied", "to": "Loans"}, {"from": "we", "label": "remind", "to": "schools"}, {"from": "mode", "label": "provide", "to": "information"}, {"from": "cosigner", "label": "provide", "to": "information"}, {"from": "that", "label": "giving", "to": "loans"}, {"from": "mode", "label": "provide", "to": "sense"}, {"from": "Loan", "label": "have", "to": "limits"}, {"from": "Graduates", "label": "borrow", "to": "20"}, {"from": "graduates", "label": "borrow", "to": "that"}, {"from": "Parents", "label": "borrow", "to": "money"}, {"from": "You", "label": "use", "to": "card"}, {"from": "that", "label": "require", "to": "checks"}, {"from": "you", "label": "pay", "to": "debt"}, {"from": "you", "label": "build", "to": "history"}, {"from": "Loans", "label": "take", "to": "loan"}, {"from": "parents", "label": "take", "to": "loan"}, {"from": "school", "label": "costs", "to": "10"}, {"from": "student", "label": "receiving", "to": "8"}, {"from": "Government", "label": "pay", "to": "interest"}, {"from": "you", "label": "graduate", "to": "College"}, {"from": "you", "label": "have", "to": "score"}, {"from": "You", "label": "contact", "to": "Office"}, {"from": "they", "label": "offer", "to": "students"}, {"from": "they", "label": "offer", "to": "rate"}, {"from": "rates", "label": "goes", "to": "Types"}, {"from": "school", "label": "offers", "to": "what"}, {"from": "school", "label": "offers", "to": "you"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": true
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -50,
+            "springConstant": 0.08,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+                  // if this network requires displaying the configure window,
+                  // put it in its div
+                  options.configure["container"] = document.getElementById("config");
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
