@@ -1,0 +1,3 @@
+parents, place, children
+Council, put, girl
+parents, have, access

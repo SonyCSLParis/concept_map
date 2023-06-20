@@ -1,0 +1,271 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 600px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+             #config {
+                 float: left;
+                 width: 400px;
+                 height: 600px;
+             }
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+            <div id="config"></div>
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "fathers", "label": "fathers", "shape": "dot"}, {"color": "#97c2fc", "id": "do", "label": "do", "shape": "dot"}, {"color": "#97c2fc", "id": "You", "label": "You", "shape": "dot"}, {"color": "#97c2fc", "id": "get", "label": "get", "shape": "dot"}, {"color": "#97c2fc", "id": "children", "label": "children", "shape": "dot"}, {"color": "#97c2fc", "id": "doing", "label": "doing", "shape": "dot"}, {"color": "#97c2fc", "id": "others", "label": "others", "shape": "dot"}, {"color": "#97c2fc", "id": "thinking", "label": "thinking", "shape": "dot"}, {"color": "#97c2fc", "id": "attended", "label": "attended", "shape": "dot"}, {"color": "#97c2fc", "id": "kids", "label": "kids", "shape": "dot"}, {"color": "#97c2fc", "id": "they", "label": "they", "shape": "dot"}, {"color": "#97c2fc", "id": "I", "label": "I", "shape": "dot"}, {"color": "#97c2fc", "id": "see", "label": "see", "shape": "dot"}, {"color": "#97c2fc", "id": "know", "label": "know", "shape": "dot"}, {"color": "#97c2fc", "id": "child", "label": "child", "shape": "dot"}, {"color": "#97c2fc", "id": "talks", "label": "talks", "shape": "dot"}, {"color": "#97c2fc", "id": "that", "label": "that", "shape": "dot"}, {"color": "#97c2fc", "id": "help", "label": "help", "shape": "dot"}, {"color": "#97c2fc", "id": "shyness", "label": "shyness", "shape": "dot"}, {"color": "#97c2fc", "id": "isolating", "label": "isolating", "shape": "dot"}, {"color": "#97c2fc", "id": "you", "label": "you", "shape": "dot"}, {"color": "#97c2fc", "id": "ask", "label": "ask", "shape": "dot"}, {"color": "#97c2fc", "id": "We", "label": "We", "shape": "dot"}, {"color": "#97c2fc", "id": "have", "label": "have", "shape": "dot"}, {"color": "#97c2fc", "id": "parents", "label": "parents", "shape": "dot"}, {"color": "#97c2fc", "id": "navigate", "label": "navigate", "shape": "dot"}, {"color": "#97c2fc", "id": "got", "label": "got", "shape": "dot"}, {"color": "#97c2fc", "id": "say", "label": "say", "shape": "dot"}, {"color": "#97c2fc", "id": "who", "label": "who", "shape": "dot"}, {"color": "#97c2fc", "id": "need", "label": "need", "shape": "dot"}, {"color": "#97c2fc", "id": "we", "label": "we", "shape": "dot"}, {"color": "#97c2fc", "id": "spend", "label": "spend", "shape": "dot"}, {"color": "#97c2fc", "id": "school", "label": "school", "shape": "dot"}, {"color": "#97c2fc", "id": "plays", "label": "plays", "shape": "dot"}, {"color": "#97c2fc", "id": "husband", "label": "husband", "shape": "dot"}, {"color": "#97c2fc", "id": "wanted", "label": "wanted", "shape": "dot"}, {"color": "#97c2fc", "id": "learn", "label": "learn", "shape": "dot"}, {"color": "#97c2fc", "id": "require", "label": "require", "shape": "dot"}, {"color": "#97c2fc", "id": "find", "label": "find", "shape": "dot"}, {"color": "#97c2fc", "id": "expand", "label": "expand", "shape": "dot"}, {"color": "#97c2fc", "id": "use", "label": "use", "shape": "dot"}, {"color": "#97c2fc", "id": "it", "label": "it", "shape": "dot"}, {"color": "#97c2fc", "id": "matter", "label": "matter", "shape": "dot"}, {"color": "#97c2fc", "id": "playing", "label": "playing", "shape": "dot"}, {"color": "#97c2fc", "id": "Blog", "label": "Blog", "shape": "dot"}, {"color": "#97c2fc", "id": "values", "label": "values", "shape": "dot"}, {"color": "#97c2fc", "id": "excuse", "label": "excuse", "shape": "dot"}, {"color": "#97c2fc", "id": "erode", "label": "erode", "shape": "dot"}, {"color": "#97c2fc", "id": "teaching", "label": "teaching", "shape": "dot"}, {"color": "#97c2fc", "id": "takes", "label": "takes", "shape": "dot"}, {"color": "#97c2fc", "id": "officials", "label": "officials", "shape": "dot"}, {"color": "#97c2fc", "id": "sent", "label": "sent", "shape": "dot"}, {"color": "#97c2fc", "id": "said", "label": "said", "shape": "dot"}, {"color": "#97c2fc", "id": "mean", "label": "mean", "shape": "dot"}, {"color": "#97c2fc", "id": "reasons", "label": "reasons", "shape": "dot"}, {"color": "#97c2fc", "id": "include", "label": "include", "shape": "dot"}, {"color": "#97c2fc", "id": "he", "label": "he", "shape": "dot"}, {"color": "#97c2fc", "id": "used", "label": "used", "shape": "dot"}, {"color": "#97c2fc", "id": "has", "label": "has", "shape": "dot"}, {"color": "#97c2fc", "id": "confront", "label": "confront", "shape": "dot"}, {"color": "#97c2fc", "id": "fail", "label": "fail", "shape": "dot"}, {"color": "#97c2fc", "id": "burns", "label": "burns", "shape": "dot"}, {"color": "#97c2fc", "id": "adults", "label": "adults", "shape": "dot"}, {"color": "#97c2fc", "id": "bullies", "label": "bullies", "shape": "dot"}, {"color": "#97c2fc", "id": "given", "label": "given", "shape": "dot"}, {"color": "#97c2fc", "id": "It", "label": "It", "shape": "dot"}, {"color": "#97c2fc", "id": "feel", "label": "feel", "shape": "dot"}, {"color": "#97c2fc", "id": "meet", "label": "meet", "shape": "dot"}, {"color": "#97c2fc", "id": "them", "label": "them", "shape": "dot"}, {"color": "#97c2fc", "id": "enter", "label": "enter", "shape": "dot"}, {"color": "#97c2fc", "id": "flown", "label": "flown", "shape": "dot"}, {"color": "#97c2fc", "id": "put", "label": "put", "shape": "dot"}, {"color": "#97c2fc", "id": "chose", "label": "chose", "shape": "dot"}, {"color": "#97c2fc", "id": "me", "label": "me", "shape": "dot"}, {"color": "#97c2fc", "id": "pick", "label": "pick", "shape": "dot"}, {"color": "#97c2fc", "id": "which", "label": "which", "shape": "dot"}, {"color": "#97c2fc", "id": "destroyed", "label": "destroyed", "shape": "dot"}, {"color": "#97c2fc", "id": "develop", "label": "develop", "shape": "dot"}, {"color": "#97c2fc", "id": "actions", "label": "actions", "shape": "dot"}, {"color": "#97c2fc", "id": "They", "label": "They", "shape": "dot"}, {"color": "#97c2fc", "id": "set", "label": "set", "shape": "dot"}, {"color": "#97c2fc", "id": "setting", "label": "setting", "shape": "dot"}, {"color": "#97c2fc", "id": "Marco", "label": "Marco", "shape": "dot"}, {"color": "#97c2fc", "id": "initiate", "label": "initiate", "shape": "dot"}, {"color": "#97c2fc", "id": "made", "label": "made", "shape": "dot"}, {"color": "#97c2fc", "id": "percent", "label": "percent", "shape": "dot"}, {"color": "#97c2fc", "id": "experience", "label": "experience", "shape": "dot"}, {"color": "#97c2fc", "id": "Institute", "label": "Institute", "shape": "dot"}, {"color": "#97c2fc", "id": "take", "label": "take", "shape": "dot"}, {"color": "#97c2fc", "id": "publication", "label": "publication", "shape": "dot"}, {"color": "#97c2fc", "id": "constitute", "label": "constitute", "shape": "dot"}, {"color": "#97c2fc", "id": "information", "label": "information", "shape": "dot"}, {"color": "#97c2fc", "id": "replace", "label": "replace", "shape": "dot"}, {"color": "#97c2fc", "id": "Role", "label": "Role", "shape": "dot"}, {"color": "#97c2fc", "id": "done", "label": "done", "shape": "dot"}, {"color": "#97c2fc", "id": "keep", "label": "keep", "shape": "dot"}, {"color": "#97c2fc", "id": "can", "label": "can", "shape": "dot"}, {"color": "#97c2fc", "id": "girl", "label": "girl", "shape": "dot"}, {"color": "#97c2fc", "id": "makes", "label": "makes", "shape": "dot"}, {"color": "#97c2fc", "id": "give", "label": "give", "shape": "dot"}, {"color": "#97c2fc", "id": "keeping", "label": "keeping", "shape": "dot"}, {"color": "#97c2fc", "id": "Adults", "label": "Adults", "shape": "dot"}, {"color": "#97c2fc", "id": "friends", "label": "friends", "shape": "dot"}, {"color": "#97c2fc", "id": "tell", "label": "tell", "shape": "dot"}, {"color": "#97c2fc", "id": "veteran", "label": "veteran", "shape": "dot"}, {"color": "#97c2fc", "id": "brings", "label": "brings", "shape": "dot"}, {"color": "#97c2fc", "id": "Parker", "label": "Parker", "shape": "dot"}, {"color": "#97c2fc", "id": "Climb", "label": "Climb", "shape": "dot"}, {"color": "#97c2fc", "id": "desire", "label": "desire", "shape": "dot"}, {"color": "#97c2fc", "id": "program", "label": "program", "shape": "dot"}, {"color": "#97c2fc", "id": "provides", "label": "provides", "shape": "dot"}, {"color": "#97c2fc", "id": "did", "label": "did", "shape": "dot"}, {"color": "#97c2fc", "id": "urge", "label": "urge", "shape": "dot"}, {"color": "#97c2fc", "id": "son", "label": "son", "shape": "dot"}, {"color": "#97c2fc", "id": "attends", "label": "attends", "shape": "dot"}, {"color": "#97c2fc", "id": "play", "label": "play", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"from": "fathers", "label": "lot", "to": "do"}, {"from": "You", "label": "sense", "to": "get"}, {"from": "children", "label": "what", "to": "doing"}, {"from": "others", "label": "what", "to": "thinking"}, {"from": "children", "label": "pre", "to": "attended"}, {"from": "kids", "label": "pre", "to": "attended"}, {"from": "they", "label": "parties", "to": "do"}, {"from": "I", "label": "that", "to": "see"}, {"from": "I", "label": "anyone", "to": "know"}, {"from": "child", "label": "that", "to": "talks"}, {"from": "that", "label": "child", "to": "help"}, {"from": "shyness", "label": "him", "to": "isolating"}, {"from": "you", "label": "parents", "to": "ask"}, {"from": "We", "label": "information", "to": "have"}, {"from": "parents", "label": "waters", "to": "navigate"}, {"from": "you", "label": "child", "to": "have"}, {"from": "We", "label": "answers", "to": "got"}, {"from": "I", "label": "things", "to": "say"}, {"from": "who", "label": "it", "to": "need"}, {"from": "they", "label": "confidence", "to": "have"}, {"from": "we", "label": "fun", "to": "have"}, {"from": "you", "label": "which", "to": "say"}, {"from": "they", "label": "homework", "to": "doing"}, {"from": "children", "label": "majority", "to": "spend"}, {"from": "school", "label": "role", "to": "plays"}, {"from": "husband", "label": "something", "to": "wanted"}, {"from": "children", "label": "Hebrew", "to": "learn"}, {"from": "children", "label": "results", "to": "have"}, {"from": "that", "label": "interactions", "to": "require"}, {"from": "children", "label": "way", "to": "find"}, {"from": "you", "label": "ways", "to": "expand"}, {"from": "you", "label": "technology", "to": "use"}, {"from": "it", "label": "much", "to": "matter"}, {"from": "kids", "label": "games", "to": "playing"}, {"from": "Blog", "label": "opinions", "to": "values"}, {"from": "you", "label": "behavior", "to": "excuse"}, {"from": "that", "label": "esteem", "to": "erode"}, {"from": "you", "label": "child", "to": "teaching"}, {"from": "it", "label": "time", "to": "takes"}, {"from": "officials", "label": "letter", "to": "sent"}, {"from": "you", "label": "latter", "to": "said"}, {"from": "it", "label": "fluency", "to": "mean"}, {"from": "reasons", "label": "shy", "to": "include"}, {"from": "he", "label": "child", "to": "used"}, {"from": "child", "label": "parents", "to": "has"}, {"from": "child", "label": "situations", "to": "confront"}, {"from": "who", "label": "children", "to": "fail"}, {"from": "it", "label": "me", "to": "burns"}, {"from": "adults", "label": "what", "to": "do"}, {"from": "bullies", "label": "what", "to": "do"}, {"from": "parents", "label": "what", "to": "do"}, {"from": "who", "label": "sense", "to": "given"}, {"from": "It", "label": "opportunity", "to": "given"}, {"from": "they", "label": "meeting", "to": "feel"}, {"from": "they", "label": "friend", "to": "meet"}, {"from": "them", "label": "room", "to": "enter"}, {"from": "who", "label": "nest", "to": "flown"}, {"from": "school", "label": "boy", "to": "put"}, {"from": "I", "label": "school", "to": "chose"}, {"from": "me", "label": "school", "to": "pick"}, {"from": "you", "label": "that", "to": "put"}, {"from": "which", "label": "esteem", "to": "destroyed"}, {"from": "children", "label": "shyness", "to": "develop"}, {"from": "actions", "label": "disability", "to": "have"}, {"from": "They", "label": "disability", "to": "have"}, {"from": "he", "label": "problems", "to": "has"}, {"from": "child", "label": "stress", "to": "have"}, {"from": "we", "label": "playdates", "to": "set"}, {"from": "we", "label": "possibility", "to": "setting"}, {"from": "Marco", "label": "play", "to": "initiate"}, {"from": "kids", "label": "you", "to": "see"}, {"from": "you", "label": "presentation", "to": "made"}, {"from": "percent", "label": "feelings", "to": "experience"}, {"from": "Institute", "label": "responsibility", "to": "take"}, {"from": "publication", "label": "practice", "to": "constitute"}, {"from": "information", "label": "advice", "to": "replace"}, {"from": "Role", "label": "what", "to": "do"}, {"from": "you", "label": "what", "to": "do"}, {"from": "you", "label": "all", "to": "done"}, {"from": "I", "label": "that", "to": "ask"}, {"from": "you", "label": "eye", "to": "keep"}, {"from": "you", "label": "whatever", "to": "can"}, {"from": "girl", "label": "friend", "to": "makes"}, {"from": "you", "label": "things", "to": "give"}, {"from": "them", "label": "trait", "to": "develop"}, {"from": "parents", "label": "secrets", "to": "keeping"}, {"from": "others", "label": "predisposition", "to": "have"}, {"from": "Adults", "label": "strategies", "to": "use"}, {"from": "friends", "label": "you", "to": "tell"}, {"from": "veteran", "label": "experience", "to": "brings"}, {"from": "Parker", "label": "experience", "to": "brings"}, {"from": "Climb", "label": "difference", "to": "makes"}, {"from": "desire", "label": "difference", "to": "makes"}, {"from": "program", "label": "that", "to": "provides"}, {"from": "you", "label": "that", "to": "did"}, {"from": "I", "label": "you", "to": "urge"}, {"from": "son", "label": "school", "to": "attends"}, {"from": "son", "label": "more", "to": "play"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": true
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.01,
+            "damping": 0.4,
+            "gravitationalConstant": -50,
+            "springConstant": 0.08,
+            "springLength": 100
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+                  // if this network requires displaying the configure window,
+                  // put it in its div
+                  options.configure["container"] = document.getElementById("config");
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

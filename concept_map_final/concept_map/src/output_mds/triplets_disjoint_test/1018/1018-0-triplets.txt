@@ -1,0 +1,3 @@
+loans, require, cosigner
+student, repay, loan
+who, require, students

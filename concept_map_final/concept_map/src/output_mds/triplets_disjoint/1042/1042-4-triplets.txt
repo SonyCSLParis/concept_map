@@ -1,0 +1,2 @@
+parents, offered, place
+children, have, opportunity

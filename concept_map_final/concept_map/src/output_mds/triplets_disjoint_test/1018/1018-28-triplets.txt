@@ -1,0 +1,2 @@
+school, costs, 10,000
+student, receiving, 8,000
