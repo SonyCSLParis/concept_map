@@ -1,5 +1,6 @@
 import os
 from settings import *
+from extract_triplets import extract_triplets
 
 def extract_triplets_from_summaries(parent_folder_path, output_folder_path):
     for folder_name in os.listdir(parent_folder_path):
@@ -96,7 +97,14 @@ def extract_triplets_from_single_txt(parent_folder_path, output_folder_path):
                 text = file.read()
 
             triplets = extract_triplets_from_text(text)
+            triplets_rebel = extract_triplets(text)  # REBEL
 
             with open(output_file_path, "w") as output_file:
                 for triplet in triplets:
                     output_file.write(f"{triplet[0]}, {triplet[1]}, {triplet[2]}\n")
+                
+                for info in triplets_rebel:
+                    output_file.write(f"{info['head']}, {info['type']}, {info['tail']}\n")
+
+            
+            
