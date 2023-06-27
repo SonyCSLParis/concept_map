@@ -1,0 +1,3 @@
+(0.35084420927498844, '"Our new Middle School will be the only Montessori program of its kind in New Hampshire, and we are certain that parents and students alike with be thrilled with what the program has to offer."')
+(0.33192477478528953, 'Montessori School to launch middle school program Hollis Montessori School announced in March it will launch a middle school program for the 2011-12 school year.')
+(0.31723101593972175, 'A limited number of students entering seventh grade will be accepted for Fall 2011, and previous Montessori experience is not required.')

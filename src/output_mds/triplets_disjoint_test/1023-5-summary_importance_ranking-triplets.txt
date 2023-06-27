@@ -1,0 +1,16 @@
+0.2770692307273903, known, In 
+0.2770692307273903, known, to 
+0.2770692307273903, known, out 
+0.2770692307273903, known, 0.25089667863585186
+that, rang, Parentline
+perpetrator, known, In 
+perpetrator, known, to 
+perpetrator, known, out 
+perpetrator, known, 0.25089667863585186
+perpetrator, known, to victim 2,967
+focus, is, on 
+we, believe, known
+we, believe, is
+we, believe, engage
+we, believe, findings
+working, is, measure

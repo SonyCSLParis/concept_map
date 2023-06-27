@@ -1,6 +1,0 @@
-Locator, locate, programs
-parents, locate, programs
-site, provides, information
-that, enables, parents
-PBS, provides, parents
-PBS, provides, parents

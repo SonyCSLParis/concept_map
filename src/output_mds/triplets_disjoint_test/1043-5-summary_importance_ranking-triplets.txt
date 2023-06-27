@@ -1,0 +1,13 @@
+Parents, Need, What
+Parents, Need, Know
+Kids, Learn, Read
+child, is, able
+he, learning, components
+he, learning, 0.3312064616390469
+he, learning, assessed
+he, learning, 0.3296872096725131
+he, learning, taught
+child, becomes, reader
+he, assessed, by
+by, assessed, by
+Students, taught, read

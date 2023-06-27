@@ -1,0 +1,3 @@
+(0.3441268592167131, 'They will be more likely to speak to you about cyberbullying or online harassment if there is an ongoing dinner-table conversation about online safety issues.')
+(0.3376928602000115, 'One way to start a family conversation about online safety is for parents to enter into a family online safety contract with their kids.')
+(0.31818028058327547, 'If a child is the victim of cyberbullying or online harassment, parents can take steps ranging from providing love and support to the child and talking with school counselors to reporting the abuse to law enforcement authorities.')

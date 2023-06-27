@@ -1,0 +1,3 @@
+(0.3376351131339594, 'Teachers can: Let parents know how and when they can contact the school and the teacher.')
+(0.3358657140773273, 'It is important for parents and teachers to remember that they know the child in different contexts and that each may be unaware of what the child is like in the other context.')
+(0.32649917278871277, 'Children also get the sense that education is really important when they see their parents involved with their teachers and their school.')

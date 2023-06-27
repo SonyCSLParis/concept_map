@@ -1,0 +1,3 @@
+(0.46511615458001815, 'The fact that the mean scores on the CPRS\x96R:L for children with FASD/trauma were in the clinically significant range in 8 of 14 behavioral categories strongly suggests that these extreme behaviors are actually typical for children with trauma/FASD.')
+(0.46511615458001804, 'The impact of trauma on child development.')
+(0.06976769083996354, 'A.')

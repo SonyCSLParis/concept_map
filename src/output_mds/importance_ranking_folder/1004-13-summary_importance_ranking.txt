@@ -1,0 +1,3 @@
+(0.36137034296541726, 'Depression in children often coexists along with other mental health problems such as anxiety, bipolar disorder and disruptive behavior disorders.')
+(0.32174467277335106, 'Eating disorders such as anorexia or bulimia nervosa may be linked to depression.')
+(0.3168849842612308, 'Other psychological and social factors.')

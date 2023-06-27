@@ -1,0 +1,10 @@
+employee, cause, inflicted
+employee, cause, be
+employee, cause, means
+punishment, inflicted, upon 
+punishment, inflicted, as 
+Employees, be, subject
+Employees, be, as 
+who, violate, provisions
+term, means, conduct
+that, causes, harm

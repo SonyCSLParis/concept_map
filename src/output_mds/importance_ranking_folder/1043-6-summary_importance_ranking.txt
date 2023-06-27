@@ -1,0 +1,5 @@
+(0.20000000000000004, '(j649.58 Parent-Teacher) http://www.nifl.gov/partnershipforreading/publications/html/parent_guides/birth_to_pre.html')
+(0.20000000000000004, '(j155.413 Parent-Teacher)')
+(0.2, 'Hirsh-Pasek, Kathy.')
+(0.2, 'A good resource for parents that includes important information on how children learn to read and write, tips on what you can do with babies and young children to help them become readers, ideas for books to read, and organizations to contact for more help or information.')
+(0.2, '"Articles for Educators."')

@@ -1,0 +1,4 @@
+(0.33426070753735826, 'That means that the only punishment that I will have available to me as a school will be the loss of student Internet privileges.')
+(0.3227792637566921, 'I think that students might need to be guided in this because most of the blogs they would naturally be drawn to might not meet any of the criteria for a really good blog.')
+(0.29534098108689466, "And if you don't, will your comment and/or post be deleted?")
+(0.04761904761905476, 'M:')

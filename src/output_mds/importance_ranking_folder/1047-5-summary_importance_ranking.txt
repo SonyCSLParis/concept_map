@@ -1,0 +1,6 @@
+(0.17817466082093908, 'A collection of Internet accessible information resources in the fields related to Special Education.')
+(0.17317583369519185, 'Special Education Resources on the Internet (SERI) http://seriweb.com/')
+(0.16666666666666666, '[Retrieved July 31, 2006]')
+(0.166525062602446, '(Source: Library of Congress Subject Headings) Used For : Exceptional children - Education Broader Term : Related Terms : Attention Deficit Disordered Children \x96 Education Autistic children \x96 Education Blind \x96 Education Children with disabilities \x96 Education Deaf \x96 Education Exceptional children \x96 Education Gifted children \x96 Education Handicapped children \x96 Education Hearing impaired \x96 Education Learning disabilities Learning disabled children \x96 Education Mentally handicapped \x96 Education Reference sources located at the Information-Reference Section, 2nd floor: INTERNET WEBSITES Cybernook, Ground floor; Graduate corners, 2nd and 3rd floors)')
+(0.16327975081960922, 'The leading website on learning disabilities, learning disorders and differences.')
+(0.15217802539514697, 'Provides support to people with learning disabilities to parents, teachers and other professionals.')

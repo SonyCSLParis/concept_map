@@ -1,0 +1,3 @@
+(0.3420238647055078, 'Depression in Seniors Some people have the mistaken idea that it is normal for the elderly to feel depressed.')
+(0.3385002709322787, 'They recognize that some symptoms may be side effects of medication the older person is taking for a physical problem, or they may be caused by a co-occurring illness.')
+(0.319475864362213, 'Many women also face additional stresses such as responsibilities both at work and home, single parenthood, and caring for children and for aging parents.')

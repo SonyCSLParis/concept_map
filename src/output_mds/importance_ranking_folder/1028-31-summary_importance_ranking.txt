@@ -1,0 +1,3 @@
+(0.34436765092799176, 'What can you do to help?')
+(0.34405502825708695, 'You as a parent might also get help from talking to a therapist on your own.')
+(0.311577320814921, 'These factors are: How severe the trauma is How the parents react to the trauma How close or far away the child is from the trauma Children and teens that go through the most severe traumas tend to have the highest levels of PTSD symptoms.')

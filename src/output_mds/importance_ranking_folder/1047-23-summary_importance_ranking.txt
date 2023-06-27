@@ -1,0 +1,3 @@
+(0.3618671751932993, 'Minority Students in Special and Gifted Education.')
+(0.3258962216449573, 'Committee on Minority Representation in Special Education, Editors, National Research Council.')
+(0.312236603161743, 'Many children have two or more exceptionalities, and may well be both TAG and Special Education.')

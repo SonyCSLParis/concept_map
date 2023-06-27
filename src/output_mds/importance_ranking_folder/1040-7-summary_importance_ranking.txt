@@ -1,0 +1,3 @@
+(0.3521762558252182, "If you haven't been diagnosed with a learning disability and think you have one, tell your teacher, parents, or guardian.")
+(0.3400618379217148, "And if you have ADHD, there's a pretty good chance that you may also have a learning disability.")
+(0.3077619062530668, "There's no one test for ADHD, so diagnosis can involve talking with you, checking your school records, and doing a physical exam to rule out other possible causes for your symptoms.")

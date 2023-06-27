@@ -1,2 +1,0 @@
-that, require, checks
-student, get, loan

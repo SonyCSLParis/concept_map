@@ -1,0 +1,10 @@
+school, costs, 10,000
+student, receiving, 8,000
+student, receiving, from 
+Loan, be, 2,000
+Loan, be, 0.33333333333333337
+loans, are, enough
+parents, take, be
+parents, take, loan
+parents, take, 0.3333333333333333
+it, 's, debt

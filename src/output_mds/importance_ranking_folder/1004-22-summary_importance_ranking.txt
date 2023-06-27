@@ -1,0 +1,3 @@
+(0.35579997488165455, 'If you are a child or teen and have these feelings, talk with your parents, an adult friend, or your doctor right away to get some help.')
+(0.32422017291685645, "That is why it is very important to tell your child's doctor about any family history of bipolar disorder and to watch your child closely for signs of manic behavior.")
+(0.3199798522014887, 'Children and teens who have a parent with depression are more likely to develop depression than children with parents who are not depressed.')

@@ -1,0 +1,3 @@
+(0.33706506416953014, "This program gives you information such as what sites your child visits, how long they are online, who they're talking to, and what information they're sharing with others.")
+(0.3323701763953467, 'Safety Tips for Parents, Teachers and Teens NetSmartz has a list of teen online safety tips for both home and school.')
+(0.3305647594351226, 'Their "Control, Education, Choice" guidebook teaches parents how to keep their family safe on the Web.')

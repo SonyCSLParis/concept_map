@@ -1,0 +1,4 @@
+all, applied, in 
+hierarchy, is, consistent
+hierarchy, is, employ
+Schools, employ, hierarchy

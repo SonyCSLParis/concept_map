@@ -1,0 +1,3 @@
+(0.33919700653847507, 'The American Academy of Child and Adolescent Psychiatry opposes the use of corporal punishment and supports legislation outlawing its use.')
+(0.3339546280206862, 'The immediate aims of such punishment are usually to halt the offense, prevent its recurrence and set an example for others.')
+(0.3268483654408383, "In corporal punishment, the adult usually hits various parts of the child's body with a hand, or with canes, paddles, yardsticks, belts, or other objects expected to cause pain and fear.")

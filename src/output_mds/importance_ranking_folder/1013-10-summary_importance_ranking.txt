@@ -1,0 +1,3 @@
+(0.3439301863206286, 'Al though we can give you some pointers for finding a good Montessori school for your child, we are not a substitute for the research you can do in your own community.')
+(0.33886165344625035, "If you are interested in starting a Montessori school in The United States, practical and extensive information on this subject is available from The North American Montessori Teachers' Association.")
+(0.31720816023312126, 'Many Montessori schools were begun by parents who were concerned that their own children have a good educational experience.')

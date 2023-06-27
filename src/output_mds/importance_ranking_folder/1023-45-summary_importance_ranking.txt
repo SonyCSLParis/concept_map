@@ -1,0 +1,3 @@
+(0.3516619780179336, 'What action should schools take to try and prevent and resolve bullying?')
+(0.33403698934850495, 'List the incidents, describe the effect on your child and the steps you and the school have taken to try and sort the problem out.')
+(0.3143010326335614, "Children with a Special Educational Need (SEN) or disability may experience particular forms of bullying such as: manipulative bullying - where a child is controlling another conditional friendship - where a child thinks someone is being their friend, but friendliness alternates with bullying exploitative bullying - where features of a child's condition are used to bully them.")

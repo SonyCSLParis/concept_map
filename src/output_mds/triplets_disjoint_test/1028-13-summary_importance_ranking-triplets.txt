@@ -1,0 +1,7 @@
+predictor, is, income
+predictor, is, 0.3261475800272331
+family, is, to 
+family, is, able
+that, encourages, learning
+parents, involved, in 
+students, have, grades

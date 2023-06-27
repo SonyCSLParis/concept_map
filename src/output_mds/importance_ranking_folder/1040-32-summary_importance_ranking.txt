@@ -1,0 +1,3 @@
+(0.33546535127126814, 'These difficulties might be the result of a learning disability.')
+(0.3328525941696573, 'There are many disabilities that are related to learning disabilities.')
+(0.3316820545590742, 'In Tier 3, students who continue to have difficulty, despite the Tier 2 intervention, undergo a comprehensive evaluation.')

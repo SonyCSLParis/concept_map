@@ -1,6 +1,0 @@
-child, has, disease
-she, has, depression
-some, overlap, symptoms
-who, have, depression
-child, has, disease
-he, have, depression

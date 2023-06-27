@@ -1,0 +1,12 @@
+0.34223100142913415, found, has
+0.34223100142913415, found, 0.3330744977522649
+manner, has, effect
+parents, handle, in 
+parents, handle, conflicts
+children, feel, secure
+analogy, is, think
+Cummings, said, found
+Cummings, said, is
+Cummings, said, 0.3246945008186005
+researchers, found, led
+conflict, led, to 

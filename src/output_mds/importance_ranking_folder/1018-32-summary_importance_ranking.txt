@@ -1,0 +1,3 @@
+(0.3479251208398124, 'Private Loans Private educational loans are available from private lenders for students whose cost of attendance has not been met through other federal loans or if a student is not eligible for federal student loans.')
+(0.3355657756272971, 'Students that are eligible for federal loans can receive an additional $908 in federal loans, most likely Federal Graduate PLUS loans, to offset these fees.')
+(0.31650910353289013, 'Students must choose if they want to fund their education with a Graduate PLUS loan OR a private (alternative) loan to cover their cost of attendance NOT covered with federal Stafford and/or Perkins loans.')

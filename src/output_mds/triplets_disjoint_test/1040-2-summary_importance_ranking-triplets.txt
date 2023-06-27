@@ -1,0 +1,15 @@
+0.35134959606652283, are, general
+0.35134959606652283, are, 0.3254485536405005
+0.35134959606652283, are, find
+Individuals, are, general
+Individuals, are, 0.3254485536405005
+Individuals, are, find
+Methods, find, range
+Methods, find, theories
+Methods, find, are
+Parents, find, range
+Parents, find, theories
+Parents, find, are
+0.32320185029297643, are, different
+methods, are, different
+by, used, by

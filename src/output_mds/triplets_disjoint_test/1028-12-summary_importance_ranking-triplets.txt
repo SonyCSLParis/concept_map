@@ -1,0 +1,11 @@
+0.35382774976661807, charged, without 
+0.35382774976661807, charged, with 
+minor, leaves, house
+parents, charged, without 
+parents, charged, with 
+adult, is, charged
+adult, is, subject
+adult, is, 0.3166823173662008
+adult, is, head
+Davis, head, Boosters
+Davis, head, as 

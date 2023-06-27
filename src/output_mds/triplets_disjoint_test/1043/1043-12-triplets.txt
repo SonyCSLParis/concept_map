@@ -1,5 +1,0 @@
-Sign, Use, Contact
-Library, Ask, Tests
-service, provides, assistance
-Help, provides, assistance
-Subjects, include, Math

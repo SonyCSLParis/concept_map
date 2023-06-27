@@ -144,7 +144,7 @@ trove-classifiers==2023.5.2
 typer==0.7.0
 thinc==  8.1.10
 typing_extensions == 4.6.3
-urllib3  == 2.0.3
+urllib3  ==  1.26.16
 wasabi== 1.1.2
 wcwidth ==  0.2.6
 tzdata==2023.3

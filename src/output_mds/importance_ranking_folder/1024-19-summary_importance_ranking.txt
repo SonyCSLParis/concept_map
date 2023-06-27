@@ -1,0 +1,3 @@
+(0.33431262548230845, 'Talk to your child about their online behavior and discuss "cyber bullying" directly with them.')
+(0.3342813312976399, "If your child is the victim, you might not ever know about the problem because you are unable to see your child's reaction to hurtful material if they are in their bedroom.")
+(0.3314060432200512, 'It is also important to set up Internet use guidelines with your child.')

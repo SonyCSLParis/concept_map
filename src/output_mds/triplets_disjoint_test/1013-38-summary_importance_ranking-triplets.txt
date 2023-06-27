@@ -1,0 +1,8 @@
+Certificate, states, approved
+states, defines, Montessori
+states, defines, as 
+school, approved, operate
+center, holds, Certificate
+0.32574395256716865, defines, Montessori
+0.32574395256716865, defines, as 
+that, based, on 

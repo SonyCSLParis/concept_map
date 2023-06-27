@@ -1,0 +1,3 @@
+(0.35056772965062727, 'If the student has been diagnosed with a learning disability that he or she will stuggle with for the rest of their lives, and this learning disability requires that you not follow the normal grades, then choose Special Ed as his or her grade level.')
+(0.3501619041300572, 'If the student simply has a learning difficulty, one which will be overcome with time, the he or she is not Special Ed.')
+(0.299270366219315, 'If there is some abnormality in this process it will reflect in what we refer to as a learning disorder and must be treated as such.')

@@ -1,0 +1,3 @@
+(0.34872914680821837, "This information is made available in the report 'The marketing of unhealthy foods to Children in Europe' Subsequent phases of the project, which ended in October 2006, built on the outcome of the data collection and analysis done in the first phase and looked at policy options available to prevent child obesity.")
+(0.3257033537788059, 'In the 20 countries involved in the project, information on food industry practices with regard to food marketing to children was collected.')
+(0.3255674994129757, 'The aim of the project is to contribute to reducing the obesity epidemic and associated avoidable chronic diseases such as cardiovascular diseases, among children and young people.')

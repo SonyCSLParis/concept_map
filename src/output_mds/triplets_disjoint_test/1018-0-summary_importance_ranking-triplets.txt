@@ -1,0 +1,9 @@
+who, require, students
+who, require, have
+loans, require, cosigner
+loans, require, guarantee
+loans, require, 0.31826218947799134
+student, repay, loan
+student, fails, do
+Grants, add, to 
+you, need, turn

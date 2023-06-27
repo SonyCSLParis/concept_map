@@ -1,0 +1,12 @@
+version, allowed, participate
+version, allowed, 0.33210262208856955
+version, allowed, reported
+version, allowed, reported
+teenagers, participate, in 
+parents, participate, in 
+who, completed, Parenting
+Mullis, reported, change
+Mullis, reported, scales
+Boccella, reported, showed
+parents, showed, confidence
+parents, showed, compared 

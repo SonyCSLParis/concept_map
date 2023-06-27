@@ -1,0 +1,4 @@
+(0.2726098610175405, 'The following policy on tardiness was adopted by the Board of Education and may be found in the Policy Manual: Training for punctuality is a joint function of the home and the school in preparation for later life in the industrial, business, or professional world.')
+(0.2675626826021228, 'This tardiness is to be noted in the school register and on his record card except in cases of approved tardiness for religious obligations, in which cases the school must be notified in writing the day before the tardiness occurs.')
+(0.25752209747933297, 'Any pupil who is tardy will be required to present a note or tardiness form as required by the school, signed by the parent and stating the date and reason for the tardiness.')
+(0.2023053589010036, 'Tardiness Policy (8053)')

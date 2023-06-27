@@ -1,0 +1,3 @@
+(0.343420369678001, 'Spriggs is not the only student managing credit before graduation.')
+(0.3420931381967944, "She said she won't have student loans to pay off after graduation, so a credit card is her way of building credit.")
+(0.3144864921252041, 'Add that to the average of $25,000 in student loan debt, and that twenty percent has a lot on their hands.')

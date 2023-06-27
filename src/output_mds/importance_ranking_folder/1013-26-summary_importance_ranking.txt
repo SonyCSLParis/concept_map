@@ -1,0 +1,3 @@
+(0.3588631121407032, 'The opportunity was to engage in an alternative learning program.')
+(0.3370034564251607, 'Enrolling in an alternative learning program has broadened my horizons and changed my perspectives on what are truly the best methods for learning.')
+(0.30413343143413546, 'If you would like to be part of our Intern Queen High School Ambassador program, then comment below!')

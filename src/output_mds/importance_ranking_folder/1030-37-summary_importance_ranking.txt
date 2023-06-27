@@ -1,0 +1,3 @@
+(0.34280383868017467, 'The respect in which the school is held by parents and the wider community.')
+(0.338760516577856, 'Positive Behaviour Policy Positive Behaviour is the system and ethos in a school which aims to cultivate in our children an acceptance of responsibility for their own decisions and behaviour and also to accept the consequences for their actions.')
+(0.3184356447419694, "Teachers will use only those punishments or sanctions which are appropriate to the individual child's needs and circumstances.")

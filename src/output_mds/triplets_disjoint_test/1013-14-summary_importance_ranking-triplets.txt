@@ -1,0 +1,5 @@
+balance, teaches, child
+balance, teaches, have
+balance, teaches, 0.3331084629577576
+difference, is, What
+centers, found, across 

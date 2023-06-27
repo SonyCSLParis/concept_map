@@ -1,0 +1,3 @@
+(0.3426377319199238, 'What does this story have to do with conflict?')
+(0.3359978748812183, 'What does this story have to do with conflict or violence in the world?')
+(0.3213643931988577, 'What do they have to do with conflict and violence?')

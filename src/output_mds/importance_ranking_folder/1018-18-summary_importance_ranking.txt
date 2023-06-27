@@ -1,0 +1,3 @@
+(0.3576707771434886, 'There are also unsubsidized Stafford Loans but the student would be responsible for the loan and the interest as soon as the loan is paid out.')
+(0.3442254375612501, 'With the Stafford Loan, the loan is subsidized which means that the United States Federal Government will pay off the interest on the loan until you graduate College.')
+(0.29810378529526116, 'There are Graduated Payments that start off with a lower rate and then increase over the years these loans are to be repaid from 12 to 30 years.')

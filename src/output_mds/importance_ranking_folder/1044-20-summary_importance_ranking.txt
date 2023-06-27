@@ -1,0 +1,3 @@
+(0.3602179406688866, 'Diabetes: Obese children are more than twice as likely to have diabetes when compared to normal weight kids.')
+(0.32114232128058945, 'Q: What are the health consequences for obese children?')
+(0.3186397380505238, 'Dr. Sylvia: There appear to be a variety of factors that all contribute to this epidemic problem.')

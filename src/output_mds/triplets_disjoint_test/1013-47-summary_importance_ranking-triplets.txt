@@ -1,0 +1,7 @@
+school, assists, process
+school, assists, is
+child, find, that
+child, find, in 
+Montessori, is, word
+Montessori, is, 0.3228497035954514
+you, Are, school

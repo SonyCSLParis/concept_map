@@ -1,0 +1,3 @@
+(0.3409917618007229, 'Causes of Obesity in Children The problem of obesity arises from inactive lifestyles, unhealthy eating habits, and genetic predisposition for having weight problems.')
+(0.3368839415832024, 'Prevention and Treatment of Childhood Obesity Controllable factors of childhood obesity include physical activity level and healthy eating habits.')
+(0.32212429661607433, 'The immediate goal with a child who has a weight problem is not to lose the weight but to try and stagnate gaining more weight and to instill healthier habits of eating and physical activity.')

@@ -1,0 +1,3 @@
+(0.3582744218219624, 'As a result of some of this early training, we see more and more children who seem to be able to read, so many in fact, that many people are beginning to say that early reading is no longer a sign that a child is gifted.')
+(0.3435778831062215, 'That, however, is just the beginning of what children need to be able to do in order to learn how to read.')
+(0.298147695071816, 'But parents of gifted kids know that their children may have been thinking logically about those issues even before they were 6.')

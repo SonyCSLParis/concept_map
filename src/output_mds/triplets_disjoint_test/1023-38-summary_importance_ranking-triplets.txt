@@ -1,0 +1,3 @@
+article, points, are
+article, points, plan
+children, are, victims

@@ -1,0 +1,3 @@
+(0.3473371311406982, 'A Montessori school assists this very natural process and removes the obstacles that the child may find in his path.')
+(0.32981316526385035, 'Montessori is a word that has commonly come to be associated with the education of very young children.')
+(0.3228497035954514, 'Are you a Montessori school?')
