@@ -1,10 +1,6 @@
 roles, are, important
-roles, are, elected
-roles, are, 0.31989972095730534
 governor, elected, by
 governor, elected, represent
 by, elected, by
 by, elected, represent
 school, have, PTA
-website, has, are
-website, has, advice

@@ -1,6 +1,6 @@
 parent, lives, with 
 child, lives, with 
-parent, live, with 
+child, live, with 
 who, pays, support
 you, make, After 
 you, make, sure
@@ -10,8 +10,10 @@ they, are, with
 they, are, B.
 you, are, parent
 rules, are, same
+rules, are, in 
+rules, are, in households D.
+you, remember, are
 you, remember, supply
-you, remember, is
 One, is, work
 parents, provide, for 
 parents, provide, during 

@@ -1,6 +1,3 @@
-Library, supports, TOWARD 
-Library, supports, families
-Library, supports, incorporate
 Library, adds, What
 Library, adds, for 
 adds, is, focus

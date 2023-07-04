@@ -4,6 +4,5 @@ cost, met, through
 student, is, eligible
 Students, receive, 908
 Students, receive, in 
-Students, receive, 0.31650910353289013
 that, are, eligible
 they, want, fund

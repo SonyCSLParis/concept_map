@@ -1,11 +1,3 @@
 program, gives, you
 program, gives, information
-program, gives, 0.3323701763953467
-they, are, online
-they, talking, to 
-they, sharing, information
-they, sharing, with 
-NetSmartz, has, list
-guidebook, teaches, gives
-guidebook, teaches, parents
-guidebook, teaches, keep
+program, gives, visits

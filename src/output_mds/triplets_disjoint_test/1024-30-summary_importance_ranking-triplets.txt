@@ -1,8 +1,5 @@
 it, is, important
 it, is, take
-it, is, 0.3241391560702997
-it, is, be
-it, is, 0.3219799402121123
 they, known, to 
 you, feel, be
 it, be, productive
@@ -12,8 +9,3 @@ policy, is, in
 policy, is, at 
 parent, want, At 
 parent, want, contact
-it, is, is
-it, is, want
-it, is, case
-it, is, arise
-children, learnt, be

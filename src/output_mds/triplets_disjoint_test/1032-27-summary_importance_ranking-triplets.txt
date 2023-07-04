@@ -1,15 +1,5 @@
-evaluation, conducted, In 
-CBT, is, approach
-Course, cause, conducted
-Course, cause, distress
-Course, cause, 0.32258128309078254
-Course, cause, express
 anxiety, is, mechanism
-disorders, cause, conducted
-disorders, cause, distress
-disorders, cause, 0.32258128309078254
-disorders, cause, express
-Children, suffering, from 
+Children, express, concern
 suffering, express, concern
 that, happen, to 
 that, happen, in 

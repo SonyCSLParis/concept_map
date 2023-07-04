@@ -1,15 +1,5 @@
 purpose, is, play
 library, is, open
-Area, enhanced, by
-by, enhanced, by
-reading, is, fun
-SHOWING, are, most
-SHOWING, are, of programs Readers
-SHOWING, are, for learners Readers
-Teaching, is, enhanced
-Teaching, is, are
-Teaching, is, collection
-by, produced, by
-Library, is, enhanced
-Library, is, are
+library, is, of programs Readers
+library, is, for learners Readers
 Library, is, collection

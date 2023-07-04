@@ -1,7 +1,2 @@
-0.34005948128547714, permit, districts
-0.34005948128547714, permit, identify
-who, are, gifted
-they, have, access
 Section, directs, districts
-Section, directs, adopt
 that, include, assessment

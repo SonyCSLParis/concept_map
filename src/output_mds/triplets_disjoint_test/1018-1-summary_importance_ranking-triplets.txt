@@ -1,12 +1,3 @@
-parent, find, cosigner
-parent, find, are
-student, become, eligible
-student, become, 0.3334719008408961
-student, become, 0.3258490171787197
 They, have, to
 they, be, able
-they, charge, more
-limits, target, supply
-students, supply, grant
-rates, are, in 
 These, are, loans

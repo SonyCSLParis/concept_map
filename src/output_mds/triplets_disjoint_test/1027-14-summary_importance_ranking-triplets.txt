@@ -1,7 +1,1 @@
-0.366931850051892, includes, In 
-0.366931850051892, includes, assessments
-0.366931850051892, includes, 0.32862032886146636
-program, includes, In 
-program, includes, assessments
-program, includes, 0.32862032886146636
 Many, are, available

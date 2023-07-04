@@ -1,14 +1,5 @@
-0.3493437486394081, gave, details
-0.3493437486394081, gave, 0.3263563418006774
-0.3493437486394081, gave, 0.3242999095599147
-report, gave, details
-report, gave, 0.3263563418006774
-report, gave, 0.3242999095599147
-by, conducted, by
-which, suggests, found
-rate, found, in 
 It, been, since 
-It, been, emerged
+depression, emerged, been
 depression, emerged, as 
 It, found, is
 that, consumed, amounts

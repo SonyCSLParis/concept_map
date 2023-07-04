@@ -1,6 +1,2 @@
 booklet, contains, activities
 booklet, contains, for
-booklet, contains, Department
-booklet, contains, booklet
-PUBS, ask, for 
-PUBS, ask, for # 6609-

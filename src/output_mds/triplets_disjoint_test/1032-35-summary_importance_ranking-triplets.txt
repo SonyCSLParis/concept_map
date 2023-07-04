@@ -1,11 +1,5 @@
-histories, shows, parents
-histories, shows, tell
-histories, shows, Help
-Last, shows, parents
-Last, shows, tell
-Last, shows, Help
 book, is, at 
-it, offers, information
-fears, begin, on 
+it, offers, parents
+it, offers, on
 Child, Conquer, Anxiety
 Child, Conquer, by 

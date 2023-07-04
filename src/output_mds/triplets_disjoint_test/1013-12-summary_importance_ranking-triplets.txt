@@ -1,17 +1,16 @@
 Programs, collected, data
 Programs, collected, from 
-Programs, collected, 0.33722157294156835
 survey, collected, data
 survey, collected, from 
-survey, collected, 0.33722157294156835
 by, conducted, by
 by, conducted, in 
+by, conducted, from 25 McNichols
+by, conducted, of districts McNichols
+by, conducted, at time McNichols
 source, is, For 
 source, is, School
-which, comes, from 
 Programs, made, of 
 Programs, made, in 
-preschools, have, is
+preschools, have, made
 preschools, have, 3-
-classes, have, collected
-classes, have, graders
+classes, have, have

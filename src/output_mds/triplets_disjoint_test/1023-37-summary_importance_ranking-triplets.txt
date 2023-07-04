@@ -1,8 +1,5 @@
 Headmaster, notify, parents
 Headmaster, notify, about 
-Headmaster, notify, 0.33253167761151425
-Retaliation, provides, information
-Retaliation, provides, during 
 who, reports, Bullying
 Reporting, report, to 
 that, be, Bullying

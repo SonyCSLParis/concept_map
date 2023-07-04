@@ -1,11 +1,7 @@
 programs, use, mediation
 programs, use, as 
-programs, use, 0.2587369760073944
 Institute, provides, programs
-Institute, provides, 0.24303896819509385
-teachers, model, methods
-0.23337804801228568, work, with 
-0.23337804801228568, work, in 
+group, teaches, students
 class, teaches, students
 they, use, program
 mediators, work, with 

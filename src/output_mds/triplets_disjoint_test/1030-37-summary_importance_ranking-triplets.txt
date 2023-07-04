@@ -3,8 +3,6 @@ school, held, by
 by, held, in 
 by, held, by
 Behaviour, is, system
-Behaviour, is, 0.3184356447419694
-Behaviour, is, use
 which, aims, cultivate
 Teachers, use, punishments
 which, are, appropriate

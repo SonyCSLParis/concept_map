@@ -1,15 +1,11 @@
 you, choose, books
-you, want, ask
-you, want, 0.34085960546693994
-you, find, books
 articles, give, you
 articles, give, ideas
 you, encourage, that
 you, encourage, daughter
 you, encourage, improve
+One, is, give
 One, is, instill
-One, is, 0.3159926857278805
-One, is, be
 you, give, daughter
 These, be, books
 child, is, interested

@@ -1,7 +1,5 @@
 use, supported, by
-use, supported, 0.3362678088090461
 by, supported, by
-by, supported, 0.3362678088090461
 It, underscores, need
 that, change, environment
 that, change, in 

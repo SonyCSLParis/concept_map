@@ -1,11 +1,7 @@
 PBS, provides, parents
 PBS, provides, with 
-PBS, provides, 0.32986359162547013
-PBS, provides, Locator
-PBS, provides, Through 
 site, provides, information
 that, enables, parents
 that, enables, help
 children, become, readers
 children, become, at 
-parents, locate, programs

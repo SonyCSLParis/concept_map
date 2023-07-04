@@ -1,16 +1,6 @@
 members, tell, Scout
 members, tell, do
-members, tell, 0.25577210235870707
-members, tell, build
-members, tell, Emphasize
-members, tell, is
 he, do, best
 he, 's, remain
-leaders, build, In 
-leaders, build, culture
-leaders, build, through 
-leaders, build, 0.248489735484086
 reporting, is, mandatory
 That, is, cool
-he, told, tell
-he, told, them

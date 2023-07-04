@@ -1,11 +1,4 @@
 Individuals, be, paranoid
-Individuals, be, 0.33333333333333326
-Individuals, be, causes
-Individuals, be, 0.33333333333333326
 Alcohol, causes, complications
 Alcohol, causes, on definition COA
 Alcohol, causes, of children COA
-Foundation, defines, dependence
-Foundation, defines, as 
-parent, drinks, much
-drinking, interferes, with 

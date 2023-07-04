@@ -1,6 +1,3 @@
-Description, create, atmosphere
-Description, create, 0.3262688954061607
-guide, contains, with 
 guide, aims, help
 Studies, show, be
 teens, be, at 

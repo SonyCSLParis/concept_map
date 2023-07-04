@@ -1,9 +1,6 @@
-0.33690659520748717, Make, clear
-0.33690659520748717, Make, hope
-0.33690659520748717, Make, give
+', Make, clear
+\x95, Make, clear
 resorting, is, acceptable
-resorting, is, at 
-resorting, is, at 
 We, hope, continue
 you, continue, learn
 learning, is, important

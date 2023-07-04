@@ -1,13 +1,1 @@
 children, outgrow, AD
-it, recur, in 
-it, recur, in 
-0.33586040305039594, found, doubled
-0.33586040305039594, found, ride
-having, doubled, for 
-having, doubled, risk
-0.3247672100159919, ride, During 
-0.3247672100159919, ride, bus
-0.3247672100159919, ride, to 
-children, ride, During 
-children, ride, bus
-children, ride, to 

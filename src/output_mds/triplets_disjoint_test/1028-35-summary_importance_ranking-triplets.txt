@@ -1,12 +1,8 @@
 data, showed, had
-data, showed, showed
-data, showed, received
 students, had, level
-students, had, compared 
 results, showed, had
 by, conducted, by
 students, had, level
 who, received, program
 Students, received, sessions
 Students, received, during 
-Students, received, 0.17439672793751734

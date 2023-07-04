@@ -2,7 +2,8 @@ survey, collected, data
 survey, collected, from 
 by, conducted, by
 by, conducted, in 
+by, conducted, from 25 McNichols
+by, conducted, of districts McNichols
+by, conducted, at time McNichols
 Results, indicate, averaged
-Results, indicate, Programs
 number, averaged, 233
-number, averaged, with 

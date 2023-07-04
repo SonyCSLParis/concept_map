@@ -1,9 +1,4 @@
-0.3586505712291048, are, resources
-0.3586505712291048, are, are
-0.3586505712291048, are, 0.2965383607984696
 Available, are, resources
-Available, are, are
-Available, are, 0.2965383607984696
 Resources, are, available
 Network, advances, field
 Network, advances, by 

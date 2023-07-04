@@ -1,10 +1,11 @@
 you, do, What
 you, do, help
-You, get, as 
 You, get, help
 You, get, from 
-factors, are, do
+parent, get, help
+parent, get, from 
 factors, are, is
+factors, are, tend
 trauma, is, severe
 trauma, is, react
 parents, react, to 

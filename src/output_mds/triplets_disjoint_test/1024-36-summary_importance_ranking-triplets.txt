@@ -1,17 +1,5 @@
-0.2775938028270033, include, provide
-0.2775938028270033, include, 0.2574326214980937
-0.2775938028270033, include, have
-Places, include, provide
-Places, include, 0.2574326214980937
-Places, include, have
+schools, act, include
 schools, act, on 
-service, provide, act
-service, provide, mechanism
-sites, provide, act
-sites, provide, mechanism
-messages, contain, form
-you, report, this
-you, report, to 
 this, be, useful
 they, have, be
 they, have, To 
@@ -20,8 +8,6 @@ they, have, To
 they, take, help
 police, help, are
 police, help, stand
-police, help, 0.22837840273295557
-police, help, call
 you, know, cyberbullied
 kind, happen, in 
 you, call, helpline

@@ -1,6 +1,2 @@
-school, assume, forced
-parents, forced, child
 definition, describe, child
-needs, fit, in 
-0.3158320485335694, is, school
 school, is, school

@@ -1,12 +1,2 @@
-Studies, employed, design
-Studies, employed, with 
-who, had, children
-who, had, with 
-0.3336286256970977, responded, As 
-0.3336286256970977, responded, with 
-0.3336286256970977, responded, Effects
-0.3336286256970977, responded, by Lang 1997
-parents, responded, As 
-parents, responded, with 
-parents, responded, Effects
-parents, appear, have
+which, persisted, in studies 1997
+which, persisted, by Lang 1997

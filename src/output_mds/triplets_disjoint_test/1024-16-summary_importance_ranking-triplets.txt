@@ -1,11 +1,10 @@
+Tips, click, Talk
 link, provides, information
 link, provides, Stop
 link, provides, tips
 link, provides, on 
-link, provides, 0.10782413598101631
-link, provides, resources
-link, provides, 0.0820958729786776
 sheet, gives, information
+sheet, gives, about 
 I, Do, What
 I, Do, Harassed
 Child, Harassed, In 

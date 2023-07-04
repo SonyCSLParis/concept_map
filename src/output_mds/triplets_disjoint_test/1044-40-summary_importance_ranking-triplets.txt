@@ -1,10 +1,6 @@
 parents, place, children
 parents, place, at 
 parents, place, through 
-it, is, right
-it, is, step
-it, is, 0.3332231955894772
-it, is, 0.32283598681331194
 parents, have, access
 Council, put, girl
 Council, put, into 

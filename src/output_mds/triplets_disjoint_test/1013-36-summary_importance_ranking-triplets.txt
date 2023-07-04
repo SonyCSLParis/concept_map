@@ -1,4 +1,4 @@
 mission, is, encourage
-mission, is, include
 schools, include, nursery
-AMS, is, organization
+AMS, is, non
+AMS, is, -

@@ -1,8 +1,0 @@
-use, used, by
-use, used, in 
-use, used, condoned
-by, used, by
-by, used, in 
-by, used, condoned
-by, defined, by
-by, supported, by

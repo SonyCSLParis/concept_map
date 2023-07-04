@@ -1,9 +1,5 @@
-mode, provide, you
-mode, provide, information
-mode, provide, 0.32854417332155855
 cosigner, provide, you
 cosigner, provide, information
-cosigner, provide, 0.32854417332155855
 that, giving, loans
 that, giving, without 
 mode, provide, sense

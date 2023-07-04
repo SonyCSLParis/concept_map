@@ -1,15 +1,6 @@
 efforts, help, develop
-attitudes, resist, pressure
+efforts, help, attitudes
 that, favor, being
-knowledge, includes, help
-knowledge, includes, resist
-knowledge, includes, array
-knowledge, includes, 0.3444220701404565
-knowledge, includes, 0.2985264204551863
-that, help, them
-that, help, avoid
-that, affect, all
-that, affect, throughout 
 Changing, help, reduce
 people, develop, problems
 that, are, legal

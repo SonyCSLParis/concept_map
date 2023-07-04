@@ -1,9 +1,3 @@
-loans, give, you
-loans, give, versatility
-loans, give, 0.3318580123918096
-you, need, funding
-you, have, complete
-Loan, have, give
 Loan, have, limits
 ®, help, pay
 I, 'm, at 

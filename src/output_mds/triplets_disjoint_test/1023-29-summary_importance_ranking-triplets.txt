@@ -1,6 +1,5 @@
 parents, expect, do
 personnel, informed, about 
-personnel, informed, try
 who, victimized, by
 by, victimized, by
 child, is, victim

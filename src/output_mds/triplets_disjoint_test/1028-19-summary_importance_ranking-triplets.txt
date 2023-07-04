@@ -1,14 +1,3 @@
 order, is, consistent
-order, is, 0.3358489108304869
-order, is, 0.3087269695662696
-order, is, become
 Facts, indicate, begin
 children, begin, use
-researchers, observed, teens
-marijuana, is, first
-helping, become, In 
-helping, become, successful
-children, become, In 
-children, become, successful
-them, form, bonds
-them, form, with 

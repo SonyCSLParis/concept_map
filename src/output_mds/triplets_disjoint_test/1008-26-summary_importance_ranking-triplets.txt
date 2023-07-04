@@ -1,7 +1,3 @@
 Students, analyze, environment
-Students, analyze, 0.3205360421853938
-Students, analyze, identify
-children, begin, By 
-children, begin, acquire
 Students, identify, is
 what, is, positive

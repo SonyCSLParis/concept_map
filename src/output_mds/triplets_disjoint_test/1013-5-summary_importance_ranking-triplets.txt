@@ -1,7 +1,4 @@
 school, is, school
-school, is, is
 which, follows, teachings
-Montessori, is, approach
-Montessori, is, 0.3258195707998196
 classrooms, designed, in 
 which, allows, for 

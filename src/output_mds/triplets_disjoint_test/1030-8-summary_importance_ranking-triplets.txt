@@ -1,7 +1,5 @@
 teacher, penalize, student
 teacher, penalize, beyond 
-teacher, penalize, be
-Power, be, responsibility
 Board, be, responsibility
 discipline, be, responsibility
 student, given, credit

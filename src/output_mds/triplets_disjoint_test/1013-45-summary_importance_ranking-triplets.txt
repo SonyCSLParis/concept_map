@@ -1,9 +1,7 @@
 training, is, something
-training, is, 0.34855728217387716
 who, is, help
 It, includes, training
-it, is, is
+it, is, includes
 it, is, preparation
-it, is, focused
-0.29933426597143004, focused, on 
+study, focused, on 
 by, conducted, by

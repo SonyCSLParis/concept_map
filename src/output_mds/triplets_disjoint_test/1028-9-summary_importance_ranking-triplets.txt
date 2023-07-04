@@ -1,6 +1,4 @@
 services, are, services
-services, are, 0.34595472250587117
-services, are, are
 children, entering, care
 children, entering, in 
 sample, reviewed, by

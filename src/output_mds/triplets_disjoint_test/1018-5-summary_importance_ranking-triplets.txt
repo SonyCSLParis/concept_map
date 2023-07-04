@@ -1,11 +1,5 @@
 you, have, score
-cosigner, make, eligible
-cosigner, make, be
-cosigner, make, is
-0.3393297830151731, be, In 
-0.3393297830151731, be, able
 you, be, In 
 you, be, able
 you, have, score
-0.3080623805402202, is, likely
 inquiries, is, likely

@@ -3,10 +3,5 @@ parent, tells, child
 parent, tells, do
 child, choose, by 
 demands, pushed, upon 
-styles, create, frustration
 They, tell, children
 They, tell, do
-they, try, turn
-they, try, make
-they, provide, children
-they, provide, with 

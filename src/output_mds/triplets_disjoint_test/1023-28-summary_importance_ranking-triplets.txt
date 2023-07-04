@@ -1,16 +1,10 @@
 child, engaged, in 
-setting, Try, find
-setting, Try, is
-setting, Try, is
 child, is, likely
-0.2455912108843659, is, unacceptable
-0.2455912108843659, is, 0.24155243952313968
 Parents, need, What
 Parents, need, know
+child, has, need
 child, has, right
 that, is, free
 child, understand, distress
 child, understand, importance
 victims, feel, Stress
-that, have, level
-that, involves, caring

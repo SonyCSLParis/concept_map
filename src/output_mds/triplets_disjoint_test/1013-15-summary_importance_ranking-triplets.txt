@@ -1,10 +1,3 @@
 goal, is, open
-goal, is, 0.3264201749130303
-goal, is, be
-goal, is, for education laboratory
-goal, is, in beauty laboratory
-goal, is, of Nature laboratory
 dream, is, create
-continuation, started, in 
-continuation, started, at 
 This, be, school

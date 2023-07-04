@@ -1,11 +1,7 @@
 Day, took, place
 Day, took, in 
-Day, took, 0.33301448181993626
-Initiative, launched, in 
-Initiative, launched, until 
 children, exposed, to 
-children, exposed, on 
-generations, start, exploring
+children, exposed, in 
 location, stop, mum
 location, stop, from 
 I, doing, what

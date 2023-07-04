@@ -1,15 +1,11 @@
 maximum, is, 138,500
-maximum, is, borrow
-maximum, is, 0.22361366482347889
-maximum, is, borrow
 graduates, borrow, that
 graduates, borrow, for 
+Parents, borrow, is
 Parents, borrow, money
 Parents, borrow, on 
 Parents, borrow, through 
 parent, applies, for 
-student, qualify, for 
 loans, are, in 
-student, is, in 
-student, is, by 
 Graduates, borrow, 20,500
+Graduates, borrow, exceed

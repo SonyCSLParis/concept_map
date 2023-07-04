@@ -1,7 +1,6 @@
 Center, completed, survey
-Center, completed, From 
-Church, teaches, completed
+Church, teaches, From 
 Church, teaches, violence
 Church, teaches, in 
-Church, teaches, verified
+teaches, fails, treat
 offices, verified, used

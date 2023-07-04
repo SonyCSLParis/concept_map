@@ -1,11 +1,2 @@
-thinking, is, According 
-thinking, is, tool
-thinking, is, 0.3323007522087389
-thinking, is, 0.329050738334013
-thinking, is, forwarded
 sexter, send, message
 sexter, send, to 
-sexter, send, for 
-message, forwarded, to 
-message, forwarded, from 
-message, forwarded, across 

@@ -1,7 +1,5 @@
 staff, identified, In 
 staff, identified, have
-staff, identified, 0.3310913324447193
-staff, identified, 0.32162300038041713
 students, have, strategies
 we, decided, use
 which, designed, by

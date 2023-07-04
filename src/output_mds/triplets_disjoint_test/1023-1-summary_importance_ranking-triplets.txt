@@ -1,5 +1,3 @@
-Victims, need, build
-victim, try, need
+Do, need, build
 victim, try, talk
-victim, try, walk
 students, express, thoughts

@@ -1,12 +1,2 @@
-0.3590250568051614, provide, parents
-0.3590250568051614, provide, with 
-0.3590250568051614, provide, 0.3239385848535769
-0.3590250568051614, provide, enacted
-0.3590250568051614, provide, 0.3170363583412611
-0.3590250568051614, provide, abolished
-who, use, punishment
-who, use, in 
-who, beaten, including 
-who, beaten, in 
-punishment, abolished, Given 
-punishment, abolished, in 
+ban, adopted, Until 
+ban, enacted, Until 

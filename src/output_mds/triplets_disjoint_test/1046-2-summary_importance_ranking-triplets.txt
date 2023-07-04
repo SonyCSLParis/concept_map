@@ -1,12 +1,5 @@
-0.35042005713448166, indicate, have
-0.35042005713448166, indicate, speak
-0.35042005713448166, indicate, 0.3061787916649618
 percent, indicate, have
-percent, indicate, speak
-percent, indicate, 0.3061787916649618
 they, have, time
+they, have, for children Institute
 parents, have, reasons
 number, speak, have
-Partnership, suggests, indicate
-Partnership, suggests, develop
-members, develop, compact

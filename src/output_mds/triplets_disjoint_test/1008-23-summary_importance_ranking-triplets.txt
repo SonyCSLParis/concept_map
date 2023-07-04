@@ -1,5 +1,1 @@
-0.46511615458001837, is, one
-0.46511615458001837, is, 0.06976769083996354
 teachers, are, adults
-position, is, one
-position, is, 0.06976769083996354

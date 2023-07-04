@@ -1,6 +1,4 @@
-0.3498737528959313, be, issue
-0.3498737528959313, be, 0.33357731764908505
-0.3498737528959313, be, 0.31654892945498336
+Bullies, be, issue
 you, teach, child
 you, teach, deal
 GCs, redeemed, for 

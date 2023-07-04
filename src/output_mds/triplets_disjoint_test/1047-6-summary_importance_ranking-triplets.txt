@@ -1,7 +1,5 @@
 book, is, opener
-book, is, 0.33338434114438453
 Parents, understand, 's
 what, 's, behind 
 what, 's, with 
-Parents, be, is
 Parents, be, able
