@@ -84,7 +84,7 @@ def perform_coreference_resolution(input_folder, output_folder):
             output_file_path = os.path.join(output_folder, filename)
 
             with open(output_file_path, 'w') as file:
-                file.write(doc)
+                file.write(doc.text)
 
             print(f"Coreference resolution completed for {filename}. Output saved to {output_file_path}")
 

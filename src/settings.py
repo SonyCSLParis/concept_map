@@ -30,8 +30,8 @@ OUTPUT_DIR_TRIPLETS_DISJOINT = os.path.join(OUTPUT_DIR + '/triplets_disjoint')
 OUTPUT_DIR_TRIPLETS_DISJOINT_TEST = os.path.join(OUTPUT_DIR + '/triplets_disjoint_test')
 SUMMARIES = os.path.join(OUTPUT_DIR + '/summary-multiple-doc')
 
-SUMMARIES_TRAIN = os.path.join(OUTPUT_DIR + '/summary_train')
-SUMMARIES_TEST = os.path.join(OUTPUT_DIR + '/summary_test')
+SUMMARIES_TRAIN = os.path.join(SUMMARIES + '/summary_train')
+SUMMARIES_TEST = os.path.join(SUMMARIES + '/summary_test')
 
 OUTPUT_DIR_TRIPLETS_AGGREGATE = os.path.join(OUTPUT_DIR + '/triplets_aggregate')
 OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST = os.path.join(OUTPUT_DIR + '/triplets_aggregate_test')
