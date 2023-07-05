@@ -1,1 +1,0 @@
-PLay Site - Play against human opponents at this Java game site with chat. You can set the level of difficulty by deciding how many moves (from one to ten) the computer can think ahead. You can set the level of difficulty by deciding how many moves (from one to ten) the computer can think ahead.
