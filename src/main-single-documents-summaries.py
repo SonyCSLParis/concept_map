@@ -9,9 +9,9 @@ if __name__ == '__main__':
     ### 2.1. TRAIN
 
     # generate summaries
-    parent_folder_path = WIKIPEDIA_TRAIN_DIR
-    output_folder_path = OUTPUT_DIR_SUMMARIES
-    summarize_folder(parent_folder_path, output_folder_path)
+    # parent_folder_path = WIKIPEDIA_TRAIN_DIR
+    # output_folder_path = OUTPUT_DIR_SUMMARIES
+    # summarize_folder(parent_folder_path, output_folder_path)
 
     # coref
     parent_folder_path = OUTPUT_DIR_SUMMARIES
@@ -19,9 +19,9 @@ if __name__ == '__main__':
     perform_coreference_resolution(parent_folder_path, output_folder_path)
 
     # sentence importances
-    parent_folder_path = OUTPUT_DIR_COREF
-    output_folder_path = OUTPUT_IMPORTANCE_RANKING
-    process_parent_folder(parent_folder_path, output_folder_path)
+    # parent_folder_path = OUTPUT_DIR_COREF
+    # output_folder_path = OUTPUT_IMPORTANCE_RANKING
+    # process_parent_folder(parent_folder_path, output_folder_path)
 
     # extract triplets from summaries
     #  parent_folder_path = OUTPUT_IMPORTANCE_RANKING

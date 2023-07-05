@@ -13,11 +13,21 @@ if __name__ == '__main__':
 
     ### 1.1. TRAIN
 
+## ----------------------------------------------------------
+
     #generate summaries
     parent_folder_path = CMAP_TRAIN_DIR
-    summarize_subfolders(parent_folder_path)
+    output_folder_path = SUMMARIES_TRAIN
+    summarize_subfolders(parent_folder_path,output_folder_path)
+    summarize_subfolders(CMAP_TEST_DIR,SUMMARIES_TRAIN)
 
-   #  parent_folder_path = SUMMARIES
+    #coref
+    parent_folder_path = SUMMARIES_TRAIN
+    output_folder_path = OUTPUT_DIR_COREF
+    perform_coreference_resolution(parent_folder_path, output_folder_path)
+
+    #importance ranking
+   #  parent_folder_path = OUTPUT_DIR_SUMMARIES
    #  output_folder_path = IMPORTANCE_RANKING
    #  process_parent_folder(parent_folder_path,output_folder_path)
 
@@ -38,14 +48,21 @@ if __name__ == '__main__':
 
     ### 1.2. TEST
 
+## ----------------------------------------------------------
+
     # generate summaries
     # parent_folder_path = CMAP_TEST_DIR
-    # output_folder_path = SUMMARIES
+    # output_folder_path = SUMMARIES_TEST
     # summarize_subfolders(parent_folder_path,output_folder_path)
-    # summarize_subfolders(CMAP_TEST_DIR,SUMMARIES)
+    # summarize_subfolders(CMAP_TEST_DIR,SUMMARIES_TEST)
+
+    # coref
+    # parent_folder_path = SUMMARIES_TEST
+    # output_folder_path = OUTPUT_DIR_COREF
+    # perform_coreference_resolution(parent_folder_path, output_folder_path)
 
     # sentence importances
-    #  parent_folder_path = SUMMARIES
+    #  parent_folder_path = OUTPUT_DIR_COREF
     #  output_folder_path = IMPORTANCE_RANKING
     #  process_parent_folder(parent_folder_path,output_folder_path)
 
@@ -64,7 +81,9 @@ if __name__ == '__main__':
     # output_folder_path = OUTPUT_DIR_GRAPH_TEST
     # generate_graph_from_txt_files(folder_path, output_folder_path)
 
-    ### 1.3. METEOR AND ROUGE
+## ----------------------------------------------------------
+
+### 1.3. METEOR AND ROUGE
 
     # input_folder_path = OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST
     # gold_folder_path = CMAP_FINAL_TEST_DIR
