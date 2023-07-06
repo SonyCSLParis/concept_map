@@ -1,7 +1,8 @@
 from summary_generation import *
 from coref import *
 from importance_ranking import *
-
+from settings import *
+from concept_maps_construction import *
 ### ----------------------------------------------------------  SINGLE DOCUMNET SUMMARISATION ----------------------------------------------------------
 
 if __name__ == '__main__':
@@ -14,9 +15,9 @@ if __name__ == '__main__':
     # summarize_folder(parent_folder_path, output_folder_path)
 
     # coref
-    parent_folder_path = OUTPUT_DIR_SUMMARIES
-    output_folder_path = OUTPUT_DIR_COREF
-    perform_coreference_resolution(parent_folder_path, output_folder_path)
+    # parent_folder_path = OUTPUT_DIR_SUMMARIES
+    # output_folder_path = OUTPUT_DIR_COREF
+    # perform_coreference_resolution(parent_folder_path, output_folder_path)
 
     # sentence importances
     # parent_folder_path = OUTPUT_DIR_COREF
@@ -29,6 +30,6 @@ if __name__ == '__main__':
     #  extract_triplets_from_summaries(parent_folder_path, output_folder_path)
 
     # generate graph
-    #  folder_path = OUTPUT_DIR_SINGLE_DOC_DISJOINT
-    #  output_folder_path = OUTPUT_DIR_GRAPH_SINGLE_DOC
-    #  generate_graph_from_txt_files(folder_path, output_folder_path)
+     folder_path = OUTPUT_DIR_SINGLE_DOC_DISJOINT
+     output_folder_path = OUTPUT_DIR_GRAPH_SINGLE_DOC
+     generate_graph_from_txt_files(folder_path, output_folder_path)
