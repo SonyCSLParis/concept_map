@@ -6,6 +6,8 @@ from concept_maps_construction import *
 from evaluation_test_set import *
 from coref import *
 from importance_ranking import *
+from dbpedia_entity_extraction import extract_dbpedia_entities
+from text_iri_merging import merge_text_iri
 
 ### ---------------------------------------------------------- MULTIDOCUMENT SUMMARISATION ----------------------------------------------------------
 
@@ -22,9 +24,14 @@ if __name__ == '__main__':
     summarize_subfolders(CMAP_TEST_DIR,SUMMARIES_TRAIN)
 
     #coref
-    parent_folder_path = SUMMARIES_TRAIN
-    output_folder_path = OUTPUT_DIR_COREF
-    perform_coreference_resolution(parent_folder_path, output_folder_path)
+    # parent_folder_path = SUMMARIES_TRAIN
+    # output_folder_path = OUTPUT_DIR_COREF
+    # perform_coreference_resolution(parent_folder_path, output_folder_path)
+
+    # dbpedia entities
+    parent_folder_path = OUTPUT_DIR_SUMMARIES
+    output_folder_path = OUTPUT_DIR_DB_ENTITY
+    extract_dbpedia_entities(parent_folder_path, output_folder_path)
 
     #importance ranking
    #  parent_folder_path = OUTPUT_DIR_SUMMARIES

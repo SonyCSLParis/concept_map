@@ -43,6 +43,8 @@ OUTPUT_DIR_GRAPH_TEST = os.path.join(OUTPUT_DIR + '/graph_html_aggregated_test')
 OUTPUT_DIR_CONCEPT_MAPS = os.path.join(OUTPUT_DIR + '/concept_maps_visualisation')
 OUTPUT_DIR_EVALUATION_CSV = os.path.join(OUTPUT_DIR + '/evaluation_csv')
 
+OUTPUT_DIR_DB_ENTITY = os.path.join(OUTPUT_DIR, 'db_entities')
+
 # SINGLES
 
 OUTPUT_DIR_SINGLE_DOC = os.path.join(SRC_DIR + '/output_single_documents')
@@ -51,6 +53,8 @@ OUTPUT_DIR_GRAPH_SINGLE_DOC = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/graph_html_
 OUTPUT_DIR_COREF = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/coref')
 OUTPUT_DIR_SUMMARIES = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/summaries')
 OUTPUT_IMPORTANCE_RANKING = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/single_importance_ranking_folder')
+OUTPUT_DIR_SINGLE_DB_ENTITY = os.path.join(OUTPUT_DIR_SINGLE_DOC, 'db_entities')
+OUTPUT_DIR_SINGLE_DOC_DISJOINT_WITH_IRIS = os.path.join(OUTPUT_DIR_SINGLE_DOC, 'triplets_disjoint_with_iris')
 
 list_dir = [DATA_DIR, OUTPUT_DIR_SINGLE_DOC_DISJOINT, OUTPUT_DIR_GRAPH_SINGLE_DOC, OUTPUT_DIR_TRIPLETS_DISJOINT_TEST,
             OUTPUT_DIR_EVALUATION_CSV, OUTPUT_IMPORTANCE_RANKING, OUTPUT_DIR_SUMMARIES,

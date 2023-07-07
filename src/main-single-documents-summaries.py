@@ -3,6 +3,8 @@ from coref import *
 from importance_ranking import *
 from settings import *
 from concept_maps_construction import *
+from dbpedia_entity_extraction import extract_dbpedia_entities
+from text_iri_merging import merge_text_iri
 ### ----------------------------------------------------------  SINGLE DOCUMNET SUMMARISATION ----------------------------------------------------------
 
 if __name__ == '__main__':
@@ -19,6 +21,11 @@ if __name__ == '__main__':
     # output_folder_path = OUTPUT_DIR_COREF
     # perform_coreference_resolution(parent_folder_path, output_folder_path)
 
+    # dbpedia entities
+    # parent_folder_path = OUTPUT_DIR_SUMMARIES
+    # output_folder_path = OUTPUT_DIR_SINGLE_DB_ENTITY
+    # extract_dbpedia_entities(parent_folder_path, output_folder_path)
+
     # sentence importances
     # parent_folder_path = OUTPUT_DIR_COREF
     # output_folder_path = OUTPUT_IMPORTANCE_RANKING
@@ -29,7 +36,13 @@ if __name__ == '__main__':
     #  output_folder_path = OUTPUT_DIR_SINGLE_DOC_DISJOINT
     #  extract_triplets_from_summaries(parent_folder_path, output_folder_path)
 
+    # integrate IRIs into triplets
+    parent_folder_path = OUTPUT_DIR_SINGLE_DOC_DISJOINT
+    mapping_folder_path = OUTPUT_DIR_SINGLE_DB_ENTITY
+    output_folder_path = OUTPUT_DIR_SINGLE_DOC_DISJOINT_WITH_IRIS
+    merge_text_iri(parent_folder_path, mapping_folder_path, output_folder_path)
+
     # generate graph
-     folder_path = OUTPUT_DIR_SINGLE_DOC_DISJOINT
-     output_folder_path = OUTPUT_DIR_GRAPH_SINGLE_DOC
-     generate_graph_from_txt_files(folder_path, output_folder_path)
+    # folder_path = OUTPUT_DIR_SINGLE_DOC_DISJOINT
+    # output_folder_path = OUTPUT_DIR_GRAPH_SINGLE_DOC
+    # generate_graph_from_txt_files(folder_path, output_folder_path)
