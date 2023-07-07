@@ -32,6 +32,8 @@ SUMMARIES = os.path.join(OUTPUT_DIR + '/summary-multiple-doc')
 
 SUMMARIES_TRAIN = os.path.join(SUMMARIES + '/summary_train')
 SUMMARIES_TEST = os.path.join(SUMMARIES + '/summary_test')
+SUMMARIES_TRAIN_GPT = os.path.join(SUMMARIES + '/summary_train_GPT')
+SUMMARIES_TEST_GPT = os.path.join(SUMMARIES + '/summary_test_GPT')
 
 OUTPUT_DIR_TRIPLETS_AGGREGATE = os.path.join(OUTPUT_DIR + '/triplets_aggregate')
 OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST = os.path.join(OUTPUT_DIR + '/triplets_aggregate_test')
@@ -42,6 +44,7 @@ OUTPUT_DIR_GRAPH_TEST = os.path.join(OUTPUT_DIR + '/graph_html_aggregated_test')
 
 OUTPUT_DIR_CONCEPT_MAPS = os.path.join(OUTPUT_DIR + '/concept_maps_visualisation')
 OUTPUT_DIR_EVALUATION_CSV = os.path.join(OUTPUT_DIR + '/evaluation_csv')
+OUTPUT_DIR_COREF_MULTIPLE = os.path.join(OUTPUT_DIR + '/coref')
 
 OUTPUT_DIR_DB_ENTITY = os.path.join(OUTPUT_DIR, 'db_entities')
 
@@ -52,6 +55,7 @@ OUTPUT_DIR_SINGLE_DOC_DISJOINT = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/triplets
 OUTPUT_DIR_GRAPH_SINGLE_DOC = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/graph_html_aggregated_test')
 OUTPUT_DIR_COREF = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/coref')
 OUTPUT_DIR_SUMMARIES = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/summaries')
+OUTPUT_DIR_SUMMARIES_GPT = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/summary_train_GPT')
 OUTPUT_IMPORTANCE_RANKING = os.path.join(OUTPUT_DIR_SINGLE_DOC + '/single_importance_ranking_folder')
 OUTPUT_DIR_SINGLE_DB_ENTITY = os.path.join(OUTPUT_DIR_SINGLE_DOC, 'db_entities')
 OUTPUT_DIR_SINGLE_DOC_DISJOINT_WITH_IRIS = os.path.join(OUTPUT_DIR_SINGLE_DOC, 'triplets_disjoint_with_iris')
@@ -59,7 +63,8 @@ OUTPUT_DIR_SINGLE_DOC_DISJOINT_WITH_IRIS = os.path.join(OUTPUT_DIR_SINGLE_DOC, '
 list_dir = [DATA_DIR, OUTPUT_DIR_SINGLE_DOC_DISJOINT, OUTPUT_DIR_GRAPH_SINGLE_DOC, OUTPUT_DIR_TRIPLETS_DISJOINT_TEST,
             OUTPUT_DIR_EVALUATION_CSV, OUTPUT_IMPORTANCE_RANKING, OUTPUT_DIR_SUMMARIES,
             OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST, OUTPUT_DIR_GRAPH_TEST, OUTPUT_DIR,
-            IMPORTANCE_RANKING, SUMMARIES_TRAIN, SUMMARIES_TEST]
+            IMPORTANCE_RANKING, SUMMARIES_TRAIN_GPT, OUTPUT_DIR_SUMMARIES_GPT, SUMMARIES_TEST_GPT, SUMMARIES_TRAIN,
+            SUMMARIES_TEST]
 
 for x in list_dir:
     if not os.path.exists(x):
