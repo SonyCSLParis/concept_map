@@ -4,11 +4,14 @@ from settings import *
 
 
 def get_token_from_index(doc, index):
-    try:
-        token = doc[index]
+    token = doc[index]
+
+    if type(token)==str:
+        return token
+    else :
         return token.text
-    except IndexError:
-        return None
+    # except IndexError:
+    #     return None
 
 
 def append_if_not_found(list_of_lists, value):
