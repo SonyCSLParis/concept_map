@@ -1,5 +1,0 @@
-resources, assist, parents
-resources, assist, with 
-Center, is, source
-Center, is, source
-right, is, underpinning

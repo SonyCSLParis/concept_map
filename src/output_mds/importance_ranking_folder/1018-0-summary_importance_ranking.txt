@@ -1,3 +1,0 @@
-(0.3446599993610273, 'In addition to these federal student loans, there are some private lenders in the market who do not require students to have a strong credit history check and cosigners when applying for student loans.')
-(0.337077811160981, 'However, most student loans also require a cosigner to guarantee that the borrowing student will repay the loan, or that the co-signer will step in to pay the loan in case the student fails to do so.')
-(0.31826218947799134, 'Grants and scholarships also add to your financial aid package, but even so, you may still need to turn to private loans and that too without cosigners.')

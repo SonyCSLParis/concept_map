@@ -1,7 +1,0 @@
-Children, turn, have
-parent, tells, child
-parent, tells, do
-child, choose, by 
-demands, pushed, upon 
-They, tell, children
-They, tell, do

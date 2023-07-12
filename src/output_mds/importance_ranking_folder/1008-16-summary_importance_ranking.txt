@@ -1,6 +1,0 @@
-(0.1957126109119632, 'The parent the child lives with most of the time                  C.')
-(0.19107273764698, 'The parent the child does not live with most of the time                  D.')
-(0.17322573953407014, 'The parent who pays the most child support 2.')
-(0.1657212621739952, "After your divorce you should make sure that:                  A. your children have a good time when they are with you                  B. you are the 'good' parent and the other parent is the 'bad' one                  C. the rules are the same in both households                  D. you remember to supply your kids with both love and discipline Chapter 5 (5A)")
-(0.15827245893269123, 'One of the most important ways parents can provide for the needs of their children during a divorce is to work out a parenting plan.')
-(0.11599519080030007, "Children's Developmental Stages All children are affected by divorce.")

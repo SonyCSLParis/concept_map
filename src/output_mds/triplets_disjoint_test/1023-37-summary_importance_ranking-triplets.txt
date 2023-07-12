@@ -1,5 +1,0 @@
-Headmaster, notify, parents
-Headmaster, notify, about 
-who, reports, Bullying
-Reporting, report, to 
-that, be, Bullying

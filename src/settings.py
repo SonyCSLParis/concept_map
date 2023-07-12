@@ -19,7 +19,7 @@ CMAP_DIR = os.path.join(DATA_DIR + '/CMapSummaries')
 CMAP_TEST_DIR = os.path.join(CMAP_DIR + '/test')
 CMAP_TEST_GPT = os.path.join(CMAP_DIR + '/chat-gpt-test')
 
-CMAP_FINAL_TEST_DIR = os.path.join(CMAP_TEST_DIR + '/test_cmap')
+CMAP_FINAL_TEST_DIR = os.path.join(CMAP_TEST_DIR + '/final_test')
 
 CMAP_TRAIN_DIR = os.path.join(CMAP_DIR + '/train')
 
@@ -38,6 +38,8 @@ SUMMARIES_TEST_GPT = os.path.join(SUMMARIES + '/summary_test_GPT')
 OUTPUT_DIR_TRIPLETS_AGGREGATE = os.path.join(OUTPUT_DIR + '/triplets_aggregate')
 OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST = os.path.join(OUTPUT_DIR + '/triplets_aggregate_test')
 IMPORTANCE_RANKING = os.path.join(OUTPUT_DIR + '/importance_ranking_folder')
+IMPORTANCE_RANKING_TEST = os.path.join(IMPORTANCE_RANKING + '/test')
+IMPORTANCE_RANKING_TRAIN = os.path.join(IMPORTANCE_RANKING + '/train')
 
 OUTPUT_DIR_GRAPH = os.path.join(OUTPUT_DIR + '/graph_html_aggregated')
 OUTPUT_DIR_GRAPH_TEST = os.path.join(OUTPUT_DIR + '/graph_html_aggregated_test')
@@ -45,6 +47,8 @@ OUTPUT_DIR_GRAPH_TEST = os.path.join(OUTPUT_DIR + '/graph_html_aggregated_test')
 OUTPUT_DIR_CONCEPT_MAPS = os.path.join(OUTPUT_DIR + '/concept_maps_visualisation')
 OUTPUT_DIR_EVALUATION_CSV = os.path.join(OUTPUT_DIR + '/evaluation_csv')
 OUTPUT_DIR_COREF_MULTIPLE = os.path.join(OUTPUT_DIR + '/coref')
+OUTPUT_DIR_COREF_MULTIPLE_TEST = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/test')
+OUTPUT_DIR_COREF_MULTIPLE_TRAIN = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/train')
 
 OUTPUT_DIR_DB_ENTITY = os.path.join(OUTPUT_DIR, 'db_entities')
 

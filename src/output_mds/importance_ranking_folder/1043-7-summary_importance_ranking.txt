@@ -1,4 +1,0 @@
-(0.2639369752037908, 'This web site provides an annotated list of publications of interest to parents about the topic of family involvement in education.')
-(0.25436374087842273, 'I Am Your Child http://www.iamyourchild.org/ This is a site that provides information about early childhood development and about resources for parents and caregivers.')
-(0.24596113069170616, 'This site also provides activities that parents can do with their children to help young children learn about language.')
-(0.2357381532260802, 'Family Involvement in Education http://www.ed.gov/pubs/parents/pfie.html')

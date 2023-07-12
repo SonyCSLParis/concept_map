@@ -1,4 +1,0 @@
-(0.2523547345997273, 'The interventions did not address nutrition, activity, or weight.')
-(0.25235473459972724, '\x97 Childhood obesity alone is not a child protection concern, nor is failure to control weight.')
-(0.25, '(July 15, 2010)')
-(0.24529053080054525, 'The new study led by Laurie Miller Brotman, PhD, professor of Child and Adolescent Psychiatry and Director of the Center for Early Childhood Health and Development at the NYU Child Study Center investigated whether early family intervention that was effective for parents of children with behavior problems, resulted in lower rates of obesity.')

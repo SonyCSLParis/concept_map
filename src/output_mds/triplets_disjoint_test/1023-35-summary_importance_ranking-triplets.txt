@@ -1,5 +1,0 @@
-student, required, provide
-progress, made, in 
-letter, sent, to 
-process, is, clear
-it, provides, structure

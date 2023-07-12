@@ -1,3 +1,0 @@
-(0.3333333333333333, 'Individuals in DTs can also be paranoid.')
-(0.33333333333333326, 'Alcohol causes several cardiovascular complications and is responsible for about 15% of all cases of hypertension and most of the cases of cardiomyopathy.')
-(0.33333333333333326, "4 Based on a child-centered definition of children of alcoholics (COA), the Children of Alcoholics Foundation defines alcohol dependence as the child's perception that a parent drinks too much and that drinking interferes with the child's life.")

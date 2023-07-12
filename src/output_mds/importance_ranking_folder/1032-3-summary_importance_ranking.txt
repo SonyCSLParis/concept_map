@@ -1,5 +1,0 @@
-(0.2643504125228914, 'Some children are predisposed to anxiety and manifest symptoms as early as 2 years of age.')
-(0.24203128567700952, 'Children whose learning disorders are not diagnosed often get the idea that they are "incomplete, and no one can help."')
-(0.23302556970878446, 'Additional assistance in the field of adolescent anxiety and other adolescence problems, can be gained by contacting associations such as the NYU Child Study Center at 212-263-6622 or NYC-Parents in Action at 212-987-9629.')
-(0.2244481537780615, 'Encourage these kids not to compare themselves to their classmates, but to work towards their personal best.')
-(0.036144578313253024, '#')

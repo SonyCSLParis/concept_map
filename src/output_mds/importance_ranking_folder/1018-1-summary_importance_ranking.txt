@@ -1,3 +1,0 @@
-(0.3406790819803844, 'If a parent loan is not approved, the parent can either find a good credit cosigner, or the student can become eligible for a higher loan amount (up to the limit of an independent student).')
-(0.3334719008408961, "They have to or they would not be able to get students, because they: charge more than the federal financial aid limits on grants and loans target low income students and families supply no institutional grant or scholarship money Typically, these schools' rates are in line with the average price for second or third tier private schools.")
-(0.3258490171787197, 'These are sometimes student loans without cosigner.')

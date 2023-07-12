@@ -1,4 +1,0 @@
-(0.2747409432996817, 'For the most part, children and teens with GAD worry about the same things that their peers worry about - they just worry more and more often .')
-(0.24586261020048283, "Avoidance/procrastination (avoid going to school because of worries about parents being harmed while they are away; procrastinating homework so that they don't have a lot of time to worry about whether it was well done)")
-(0.24421790716880545, 'That is, your child might have GAD if he or she is worrying more than others would, and if he or she cannot stop worrying once it has started.')
-(0.2351785393310304, 'Does GAD look Different in Young Children vs.')

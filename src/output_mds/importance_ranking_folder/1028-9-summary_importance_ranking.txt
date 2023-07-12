@@ -1,3 +1,0 @@
-(0.34936398227336785, 'The services listed below are the most common services offered to caretakers with children entering longer-term foster care in Clackamas County.')
-(0.34595472250587117, 'This random sample of cases is reviewed by trained researchers to determine the following family characteristics: the reasons children enter foster care, the level of vulnerability of children, severity of maltreatment, the problems of the parents, the problems of the children, barriers to returning children home, and the services offered to children and their families.')
-(0.3046812952207604, 'There are some parental characteristics that are more pervasive with severe child maltreatment than with less severe forms of child maltreatment.')

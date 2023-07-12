@@ -1,3 +1,0 @@
-(0.33333333333333337, 'So if school costs $10,000 per year and the student is receiving $8,000 from other sources, the maximum PLUS Loan would be $2,000.')
-(0.33333333333333337, "PLUS Loans If Stafford and Perkins loans aren't enough, the student's parents may take out an additional loan known as the PLUS Loan.")
-(0.3333333333333333, "Now it's debt for college education.")
