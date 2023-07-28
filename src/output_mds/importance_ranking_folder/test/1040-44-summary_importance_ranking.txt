@@ -1,0 +1,3 @@
+(0.33394803987493143, 'You need to know that about 50 percent of people with LD will also have one or more related disorders .')
+(0.3331312218375498, "It 's not an eye problem , it 's a language processing problem , so teaching language processing skills is the most important part of treatment .")
+(0.3329207382875184, 'Most colleges make special accommodations for students with dyslexia , offering students trained tutors , learning aids , computer software , reading assignments on tape , and special arrangements for exams .')

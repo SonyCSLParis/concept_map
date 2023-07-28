@@ -1,0 +1,3 @@
+(0.33439872359029355, '`` What is 13 like your first year of high school ?')
+(0.3341809490773965, 'Amanda , 13 1/2 , is not one of the `` in `` kids whom everyone wants to sit next to .')
+(0.3314203273323096, "`` What 's wrong with me , `` Amanda 's wondering , `` and how will I deal with the anxiety of the first day ?")

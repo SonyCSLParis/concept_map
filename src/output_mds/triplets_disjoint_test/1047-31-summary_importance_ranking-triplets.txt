@@ -1,5 +1,4 @@
 article, describes, events
 that, shaped, education
-report, examines, involvement
-report, examines, in 
-report, examines, since 
+Announcement, examines, report
+Announcement, examines, gifted

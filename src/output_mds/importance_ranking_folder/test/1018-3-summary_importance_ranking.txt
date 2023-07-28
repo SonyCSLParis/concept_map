@@ -1,0 +1,3 @@
+(0.35619510759026374, 'It is extremely difficult for a student with poor credit history to get a loan.')
+(0.33154021805818673, 'A: Students with a bad credit history can apply for loans that do not require credit checks.')
+(0.312264674351549, 'What is the purpose of this program?')

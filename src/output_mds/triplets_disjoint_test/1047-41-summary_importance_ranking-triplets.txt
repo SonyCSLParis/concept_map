@@ -1,8 +1,6 @@
 citizens, held, liable
-liabilities, monitored, held
-liabilities, monitored, by
-by, monitored, held
-by, monitored, by
+liabilities, be, held
+liabilities, be, citizens
 Parties, agree, directed
 education, directed, to 
 We, understand, exceptionalities

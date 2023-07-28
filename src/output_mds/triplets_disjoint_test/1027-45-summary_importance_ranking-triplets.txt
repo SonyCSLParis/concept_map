@@ -1,12 +1,8 @@
-by, Offered, by
-Resources, becomes, Take
-Resources, becomes, difficult
-Resources, becomes, for 
-monitoring, becomes, Take
-monitoring, becomes, difficult
-monitoring, becomes, for 
 You, Need, Have
 GetNetWise, is, project
 that, provides, resources
 that, provides, for 
 that, includes, guidelines
+monitoring, becomes, difficult
+monitoring, becomes, for 
+by, Offered, by

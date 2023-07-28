@@ -13,8 +13,7 @@ def compute_metrics(input_folder_path, gold_folder_path, output_folder_path):
 
     for input_file_name in input_files:
         file_number = input_file_name.split("-")[0]
-        for input_file_name_x in gold_files:
-            gold_file_name = f"{file_number}-cmap.txt"
+        gold_file_name = f"{file_number}-cmap.txt"
 
         input_file_path = os.path.join(input_folder_path, input_file_name)
         gold_file_path = os.path.join(gold_folder_path, gold_file_name)
@@ -42,16 +41,16 @@ def compute_metrics(input_folder_path, gold_folder_path, output_folder_path):
                     'ROUGE-L': rougeL
                 })
 
-    output_file_path = os.path.join(output_folder_path, "metrics.csv")
+        output_file_path = os.path.join(output_folder_path, "metrics_second_pipeline_lexrank_summary.csv")
 
-    with open(output_file_path, "w", newline="") as csvfile:
-        fieldnames = ['File', 'METEOR', 'ROUGE-1', 'ROUGE-2', 'ROUGE-L']
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        with open(output_file_path, "w", newline="") as csvfile:
+            fieldnames = ['File', 'METEOR', 'ROUGE-1', 'ROUGE-2', 'ROUGE-L']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-        writer.writeheader()
-        writer.writerows(metrics)
+            writer.writeheader()
+            writer.writerows(metrics)
 
-    print(f"Metrics computed and saved in: {output_file_path}")
+        print(f"Metrics computed and saved in: {output_file_path}")
 
 
 def aggregate_txt_files(parent_folder, output_folder):

@@ -1,4 +1,5 @@
 majority, offer, program
+schools, offer, program
 research, ensure, making
 you, making, choice
 you, looking, for 
@@ -6,5 +7,5 @@ it, is, important
 it, is, keep
 by, run, by
 This, is, way
-school, be, environment
+school, school, environment
 that, suit, needs

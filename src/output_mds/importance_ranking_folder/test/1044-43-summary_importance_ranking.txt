@@ -1,0 +1,7 @@
+(0.1575868324042427, 'Overweight or obese children are more likely to remain obese as adolescents and become overweight or obese adults .')
+(0.15052086549279514, 'More children are becoming overweight and obese .')
+(0.14500475293886664, 'Obesity in children - causes - Better Health Channel < /a > < br/ >')
+(0.14285714285714285, "open '' >")
+(0.14180563209770775, 'Potential health problems for obese children include : Type 2 diabetes - while this condition is most commonly seen in adults , it is now also being diagnosed in children Eating disorders such as bulimia or binge eating Orthopaedic disorders - problems with foot structure Liver problems , including fatty liver Respiratory disorders , such as blocked airways and restrictions in the chest wall , which cause breathlessness during exercise Sleep apnoea - this is a condition that causes difficulty breathing when sleeping .')
+(0.14152863009566344, 'Obesity in childhood leads to obesity in adulthood')
+(0.12069614411358154, "If you would like to link to this fact sheet on your website , simply copy the code below and add code to your page : < a href= '' http : //www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Obesity_in_children ?")

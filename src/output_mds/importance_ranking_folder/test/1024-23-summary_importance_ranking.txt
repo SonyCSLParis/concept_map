@@ -1,0 +1,5 @@
+(0.2143324556341924, '[kids; parents] want to learn the signs of bullying and positive ways to cope with their feelings [kids; parents]')
+(0.20133645293489763, 'A free e-book , The Bully , is available online for kids ( [kids; parents] parents )')
+(0.2, '( October 26 , 2010 )')
+(0.19380234290269277, '`` States and school districts also have a responsibility under Section 504 , Title II , and the Individuals with Disabilities Education Act ( IDEA ) , which is enforced by OSERS , to ensure that a free appropriate public education ( FAPE ) is made available to eligible students with disabilities .')
+(0.1905287485282171, 'Prohibited Disability Harassment , letter from the Office for Civil Rights ( OCR ) and the Office of Special Education and Rehabilitative Services ( OSERS ) in the U.S. Department of Education .')

@@ -1,0 +1,3 @@
+(0.3489155277389373, 'If there is more than one child in the household , this provides opportunities for growth and learning how to relate and get along with each other .')
+(0.32983747971335325, 'How do you decide if it will work for your child ?')
+(0.3212469925477092, 'With no quantifiable method of proof that parents child is learning , some parents feel out of control .')

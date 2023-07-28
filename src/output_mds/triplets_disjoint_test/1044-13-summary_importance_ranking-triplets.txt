@@ -3,6 +3,8 @@ that, found, be
 children, be, overweight
 %, have, meal
 %, eats, fruits
-%, consume, have
 %, consume, food
 %, consume, as 
+%, drink, have
+%, drink, cups
+%, drink, eat

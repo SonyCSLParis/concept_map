@@ -5,7 +5,5 @@ I, tell, What
 I, tell, parents
 tell, is, is
 testing, is, foundation
-He\, learn, something
-he, learn, something
-it, was, gone
-Pastrano, says, learn
+He, 's, smart
+He, learn, something

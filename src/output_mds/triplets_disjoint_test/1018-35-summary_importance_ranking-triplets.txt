@@ -1,5 +1,7 @@
-Parents, have, option
-who, borrowed, Loans
-who, borrowed, from 
+Parents, Loan, option
+Parents, borrowed, who
+Parents, borrowed, Loans
+Parents, borrowed, from 
+loans, were, loans
 we, allowed, by
 by, allowed, by

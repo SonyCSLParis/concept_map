@@ -1,8 +1,10 @@
 programs, use, mediation
 programs, use, as 
-Institute, provides, programs
 group, teaches, students
+group, teaches, use
 class, teaches, students
-they, use, program
+class, teaches, use
+students, use, program
 mediators, work, with 
 mediators, work, in 
+Institute, provides, programs

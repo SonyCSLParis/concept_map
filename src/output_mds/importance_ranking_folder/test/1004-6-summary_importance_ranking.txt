@@ -1,0 +1,3 @@
+(0.33333333333333337, 'Symptoms of depression in Children The symptoms of depression in children and adolescents are similar to adults .')
+(0.3333333333333333, 'Registered Charity Number 271028 .')
+(0.3333333333333333, 'If a child or adolescent is abusing substances it would be a good idea to have substances evaluated for depression .')

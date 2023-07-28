@@ -5,4 +5,5 @@ student, is, eligible
 Students, receive, 908
 Students, receive, in 
 that, are, eligible
-they, want, fund
+Students, choose, want
+Students, want, fund

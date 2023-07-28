@@ -1,10 +1,12 @@
-Tips, click, Talk
 link, provides, information
 link, provides, Stop
 link, provides, tips
-link, provides, on 
-sheet, gives, information
-sheet, gives, about 
+parents, talk, with 
+parents, talk, child
 I, Do, What
 I, Do, Harassed
 Child, Harassed, In 
+sheet, gives, information
+sheet, gives, about 
+child, bullied, Facts
+child, bullied, for 

@@ -1,0 +1,4 @@
+(0.2534882673282207, 'For more information about how you can get involved, please contact the school directly by email or phone.')
+(0.2532399640881072, 'following school updates through our website, parent information board and our school wide quarterly newsletter.')
+(0.25, '(SchoolZone coming soon)')
+(0.243271768583672, 'We look forward to collaborating with you in support of student learning and public education.')

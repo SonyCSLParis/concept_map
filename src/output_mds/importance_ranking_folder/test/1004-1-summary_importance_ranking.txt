@@ -1,0 +1,4 @@
+(0.28934950978223983, 'This eMedTV page gives an overview of depression and ADHD in children , noting some symptoms of each condition , as well as symptoms seen in children with both conditions .')
+(0.27497083749114304, "Depression in Children Browse eMedTV 's wide range of articles related to depression in children including topics such as depression and adhd in children , treatment of childhood depression , and symptoms of depression in children .")
+(0.2247615411770502, 'Web page provides detailed information about childhood depression , including page types , symptoms , diagnosis , and treatment .')
+(0.21091811154956663, 'This eMedTV')

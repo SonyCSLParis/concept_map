@@ -1,2 +1,3 @@
 individual, has, number
+individual, has, factors
 they, be, prone

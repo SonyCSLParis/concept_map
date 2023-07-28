@@ -1,15 +1,8 @@
-schools, act, include
+Places, include, act
 schools, act, on 
 this, be, useful
-they, have, be
-they, have, To 
-they, have, policies
-they, have, To 
-they, take, help
-police, help, are
 police, help, stand
 you, know, cyberbullied
 kind, happen, in 
 you, call, helpline
 you, call, on 
-you, call, on 1800 1800

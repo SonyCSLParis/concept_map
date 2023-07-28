@@ -1,0 +1,3 @@
+(0.34761753377222876, 'The foundations of literacy are laid down very early for children ; these foundations do not just begin when a child begins formal schooling .')
+(0.33176811192244654, 'When [ parents ; caregivers ] and child parents ; caregivers ] talk child a child , [ parents ; caregivers ] are beginning that child on the road to reading .')
+(0.32061435430532453, "Learning to read well is vital for children 's success in school .")

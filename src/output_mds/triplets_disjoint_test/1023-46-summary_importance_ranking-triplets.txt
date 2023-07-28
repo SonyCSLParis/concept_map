@@ -1,6 +1,7 @@
 members, tell, Scout
-members, tell, do
-he, do, best
-he, 's, remain
-reporting, is, mandatory
+members, tell, he
+members, tell, live
+he, live, to 
+commissioner, remain, in 
+reporting, is, adults
 That, is, cool

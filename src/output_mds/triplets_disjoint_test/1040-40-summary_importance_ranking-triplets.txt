@@ -1,7 +1,11 @@
+student, has, difficulty
+Ed, overcome, which
+Ed, overcome, with 
 student, diagnosed, with 
 he, stuggle, with 
 he, stuggle, for 
-student, has, difficulty
+she, stuggle, with 
+she, stuggle, for 
 it, reflect, in 
 we, refer, to 
 we, refer, as 

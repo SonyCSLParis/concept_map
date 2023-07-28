@@ -1,5 +1,4 @@
 purpose, is, play
+library, is, is
 library, is, open
-library, is, of programs Readers
-library, is, for learners Readers
 Library, is, collection

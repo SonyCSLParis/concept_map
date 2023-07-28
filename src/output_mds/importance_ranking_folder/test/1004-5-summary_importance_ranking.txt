@@ -1,0 +1,3 @@
+(0.34513710269486764, "Symptoms of depression can be related to events in a child or teen's life such as loss of a family member, family discord, or neglect or abuse.")
+(0.3283489703167479, 'Current research suggests that there are processes begun in early infancy create persistently abnormal reactions to stress that contribute to the development of depression throughout life.')
+(0.3265139269883841, 'For most children and adolescents, having symptoms of depression is temporary.')

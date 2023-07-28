@@ -1,5 +1,6 @@
-She, has, group
-she, used, play
+child, has, group
+child, has, used
+child, used, play
 you, listened, to 
 you, understand, feels
-she, feels, about 
+child, feels, about 

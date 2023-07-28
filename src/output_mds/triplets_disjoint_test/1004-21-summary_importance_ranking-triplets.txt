@@ -2,6 +2,6 @@ rates, are, higher
 who, are, caretaker
 child, is, younger
 parent, becomes, depressed
-it, isn\'t, possible
-it, isn\'t, immunize
+parent, is, possible
+parent, is, immunize
 by, affected, by

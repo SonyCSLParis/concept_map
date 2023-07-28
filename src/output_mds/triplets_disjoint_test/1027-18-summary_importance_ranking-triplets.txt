@@ -1,3 +1,4 @@
+NetSmartz, has, list
 program, gives, you
-program, gives, information
+program, gives, parents
 program, gives, visits

@@ -1,0 +1,3 @@
+(0.35718499873590037, 'Actually, the phobia name for Phobia of Parents is called soceraphobia .')
+(0.3271140405559434, 'Does the thought of parents-in-law make you nauseous?')
+(0.3157009607081554, 'We don\'t actually "treat".')

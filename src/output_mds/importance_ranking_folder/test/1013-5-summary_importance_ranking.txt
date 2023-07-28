@@ -1,0 +1,3 @@
+(0.347210578436281, 'Answer : A Montessori school is a school which follows the teachings of Dr. Maria Montessori .')
+(0.32696985076389984, 'More than an approach to education , Montessori is an approach to life .')
+(0.3258195707998196, 'Montessori classrooms are designed in a multi-age mix from toddlers through adolescents which allows for both individual and social development .')

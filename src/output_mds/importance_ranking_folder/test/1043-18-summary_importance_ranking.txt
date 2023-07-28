@@ -1,0 +1,3 @@
+(0.3460365396455808, 'Probably the child is not reading as well as the parents and teachers thought child was in the early grades .')
+(0.34233084386298446, 'And this may well have to do with the fact that students are students forced into reading and writing comprehension in early elementary school the way they are students almost all other schools .')
+(0.3116326164914344, 'It is true that there is little consciousness about this outside of Waldorf .')

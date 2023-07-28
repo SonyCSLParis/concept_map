@@ -1,0 +1,3 @@
+(0.3433655341813262, 'A lot of children and adolescents experience some of the symptoms of depression.')
+(0.3310391090269321, 'Seek information and get help for your child because all too often, depression in children and adolescents is a silent killer.')
+(0.32559535679174145, 'Ultimately, I recommend that parents seek help from a qualified mental health professional who can conduct a proper assessment of the child.')

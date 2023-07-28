@@ -1,8 +1,11 @@
-palpitations, sweating/, flushing
-most, is, mild
 person, is, anxious
 Anxiety, manifest, as 
+tension, shaking/, trembling
+palpitations, sweating/, flushing
+most, is, mild
 GAD, affects, %
 GAD, affects, at 
 GAD, affects, in 
+GAD, affects, children
 attacks, include, symptoms
+Sources, include, fear

@@ -1,0 +1,3 @@
+(0.34890883138907264, 'The best way to start dealing with an anxiety disorder is to learn more about disorder and how disorder is treated .')
+(0.33448614909066576, 'Obsessive-compulsive disorder ( OCD ) is a potentially disabling anxiety disorder .')
+(0.3166050195202614, 'Yet disorder is one of the least studied and most misunderstood of all the anxiety disorders .')

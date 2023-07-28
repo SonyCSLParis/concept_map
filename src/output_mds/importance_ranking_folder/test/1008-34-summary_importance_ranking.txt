@@ -1,0 +1,3 @@
+(0.3507555768166106, 'Ask the children what children think the solution is and , if solution is reasonable , support children solution .')
+(0.3336700353009652, 'Is there jealousy or rivalry between your children ?')
+(0.31557438788242403, 'At the end of any issue , have your child apologize to the other .')

@@ -1,7 +1,7 @@
+Council, have, access
 parents, place, children
 parents, place, at 
 parents, place, through 
-parents, have, access
 Council, put, girl
 Council, put, into 
 she, was, overweight

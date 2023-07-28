@@ -1,0 +1,4712 @@
+
+
+
+
+
+
+
+Lesson 6: Pattern Matching: Organic Molecules
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pattern Matching: Organic Molecules
+
+
+Grade Level
+
+Prospective and Practicing K-8 Teachers; may be adapted 
+	for use in elementary classes.
+Time
+
+
+Exercises 1-3 take approximately 2 1/2 hours. 
+
+To Ponder
+
+
+1.
+What are living things made of?  Sugar and spice and everything nice?  Snips and
+snails and puppy dog tails?
+
+
+2.
+Living things are different from non-living things, aren't they?  Does
+that mean that they are made from different kinds of atoms than those in
+non-living things?  Different kinds of molecules?
+
+
+3.
+There may be as many as 10,000 different kinds of molecules in a living thing. 
+But are there a few common patterns? A few common functions?
+
+
+
+
+Supplies
+
+
+
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+
+
+
+
+
+Objectives
+
+
+Once you have completed these exercises you should be able
+to: 
+
+
+1.
+Know what an organic molecule  is and how it differs from an inorganic molecule .
+
+
+2.
+Identify the major classes of organic molecules.
+
+
+3.
+Identify the distinguishing features of each class of molecules.
+
+
+4.
+Given a typical example of an organic molecule, identify the class to which it belongs.
+
+
+5.
+Know where you are likely to find organic molecules.
+
+
+6.
+Appreciate the prevalence and value of patterns in biology.
+
+
+
+
+BackgroundInformation
+
+
+Pattern Matching
+Studying science is in many ways like piecing together a puzzle.  For this
+reason, pattern matching is an important skill.  Biologists are constantly
+looking for significant patterns in nature.  Even biological molecules are
+pattern matchers.  Biological enzymes are a good example - each enzyme typically
+recognizes one and only one type of molecule or pair of molecules.  
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+
+
+
+
+
+Exercise 1
+Identifying Categories of Biological Molecules
+
+Background Information
+
+
+1.
+The objects you will be sorting are basic building blocks
+(subunits) of common macromolecules in living things.  Do
+NOT refer to your books during this exercise.  Use your own
+judgment in doing the sorting.
+
+To Do
+
+2.
+Remove from your book the first five pages of molecules only
+ (Part I, 5 pages)  Do not remove the second set of
+unlabeled molecules (Part II) or the set of labeled molecules (Part III).
+
+
+
+
+3.
+Cut the one set of the unlabeled molecules (Part I) that you
+have removed from your book.  Cut each page along the dividing lines to produce 9
+cards per page for the first four pages  and 6 cards on the fifth page for a
+total of 42 cards.  
+
+
+
+4.
+Organize the 42 cards into groups based upon structural similarities.  Pay special attention to: 
+
+the elements (CHNOPS) in the molecule, 
+		the shape of the molecule,
+		patterns within the molecule, and 
+		the ends of the molecule.  
+
+
+
+Question
+
+5.
+How many groups of molecules do you have?  _____ Compare your categories with
+those of your team mates.  
+
+Describe
+
+6.
+In Table 2, describe each group of molecules and its distinguishing features.
+ You will probably have five to eleven or so categories.  This table provides
+spaces for up to eleven types.  Please do not feel any particular need to use all
+eleven categories, and also feel free to create more categories if you feel it is
+necessary.  Ignore the last column, 'Type of Molecules', until you get to
+Exercise 2. 
+Table 2.  Molecular Groups and
+this Characteristics
+
+Sketch of MoleculeAtoms PresentKey Features# in GroupType of Molecule
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+Exercise 2
+
+Interpreting Molecular Structures
+
+BackgroundInformation
+
+
+Chemists and other scientists use a variety of representational
+styles or conventions for drawing molecules, and they shift easily between them.
+
+
+Review the following molecule descriptions with your peers, checking your groups
+of molecules against the organizations here and at the same time (a) learn a bit
+about how to read and interpret molecular formulas and (b) learn about the
+different groups of organic molecules.
+
+Group 1
+
+Amino Acids - Building Blocks of Proteins
+
+
+Background Information
+
+
+1.
+Amino acids are the building blocks of
+proteins - molecules that play many important roles in the body
+(including muscle structure, hormones,
+antibodies, hemoglobin for carrying oxygen,
+other transport proteins for carrying molecules across cell
+membranes, toxins, and chemical messengers in
+the nervous system). 
+
+
+2.
+Figure 1 shows a "generic" amino acid. Another (more compact) way to represent the same molecule is 
+"NH3+ - CHR - COO-" or "NH3+ - CHR - COOH".
+Figure 1. "Generic" Amino Acid
+
+
+
+
+3.
+The "-N-C-C-" in the center of the molecule is known as its
+backbone  and is a defining feature of amino acids.  The
+backbones are linked together in a linear chain when amino acids are combined to
+form a protein.  A typical protein chain may contain 150 - 1000 or more amino
+acids.
+Figure 2.  Protein Backbone
+
+
+Questions
+
+4.
+In Figure 3, below, which group is positively charged? ____  The charge
+exists  because the nitrogen has formed four bonds instead of the usual three (a
+covalent bond with carbon, a covalent bond with each of two hydrogen atoms, and a
+hydrogen bond with a positively charged hydrogen ion).  The hydrogen ion is
+easily lost and gained via dynamic transitions.  The "NH3+" group is
+known as an amine group.
+
+
+
+5.
+Are the bonds between the nitrogen and the hydrogen atoms shown in Figure 1? 
+____  Explain.
+
+
+
+6.
+In Figure 3, what atom is negatively charged? _____  The negative charge
+arises when a hydroxyl group ("-OH") gives up a positively charged hydrogen atom
+("H+"), leaving the negatively charged oxygen atom ("O-").  The entire group, "-
+COOH" or "-COO-", is known as a carboxyl group.  The
+amine and carboxyl groups and the
+"N-C-C-" backbone are defining features of amino acids. 
+
+
+
+
+7.
+Are the bonds between the carbon and oxygen atoms shown here? ____  Explain.
+
+
+
+8.
+Each amino acid has a different side group that is represented by "R" in
+Figures 1 and 2.  Two amino acids with their particular side groups are shown
+below. 
+Figure 3.  Side Groups in Asparagine & Valine
+
+
+To Do
+
+9.
+Draw three other amino acids below:  Look at Organic Molecules III to find
+the name of each molecule and label accordingly.
+Drawing 1.  Draw Three Additional Amino Acids
+
+
+ 
+ 
+ 
+
+
+Questions
+
+10.
+There are 20 common amino acids.  How many do you have in your set?  ____  
+
+
+
+11.
+Can you name three different functions performed by proteins in your body?
+
+To Do
+
+12.
+Paste your amino acids here and label each one (refer to the molecules in
+Organic Molecules III or to your text for help).
+Drawing 2. Paste & Label the Amino
+Acids in Your Molecule Set
+
+ 
+
+
+Questions
+
+13.
+Can you name some amino acids you have heard of before and indicate where you heard of them?
+
+
+
+14.
+Which of the CHNOPS elements are contained in all amino
+acids?  _____________  In addition, two important amino acids,
+methionine and cysteine, also contain
+sulfur and can be phosphorylated. 
+
+
+
+15.
+To review, what is the major class of organic molecules described in this
+section? _____________  
+
+
+
+16.
+What are the subunits or building blocks of this class of molecules?  _____________  
+
+
+
+17.
+How many different kinds of these subunits are commonly found in the body? ________  
+
+
+
+18.
+How many different proteins do you think can be built from this number of
+subunits?  Explain your reasoning.
+
+
+
+
+Group 2
+
+Steroids - Type of Lipid
+Multiple Ring Structures
+
+Background Information
+
+
+1.
+Organic chemists use many shortcuts in drawing complex molecules.  They often
+do not include the letter C for carbon, for example.  In the molecule below,
+there is a carbon atom (not drawn in most cases) at every point of each of the
+four rings and in the side chain.
+
+
+2.
+ Cholesterol, shown below, is a steroid. 
+Steroids are one type of molecule in the class of compounds
+known as lipids.  Cholesterol plays an important role in
+membrane formation. 
+Figure 4. Cholesterol
+
+
+To Do
+
+3.
+The bonds between the carbons are shown.  In all but one case the carbon
+atoms are connected to one another by a single bond (one pair of shared
+electrons).  In one ring there are two carbon atoms connected by a double bond. 
+Draw an arrow to point at the double bond in the drawing.
+
+
+
+4.
+To further simplify this drawing, none of the hydrogen atoms have been drawn.
+ However, since you know that each carbon atom forms four bonds, you can fill in
+all the missing hydrogen atoms.  Please do so now.
+
+Question
+
+5.
+Several carbons in the molecule already have four bonds and so will have no
+additional atoms (such as hydrogen) added.  How many of these did you find? 
+_____ 
+
+To Do
+
+6.
+Paste your steroids below, label each one by referring to part III, and draw
+in the hydrogen atoms.  Compare your drawings with those of your
+teammates.
+Drawing 3.  Paste & Label Your Steroids
+
+ 
+
+
+
+
+Group 3
+
+Fatty Acids - Building Blocks of Fats and Oils
+Long Hydrocarbon Chains
+
+Background Information
+
+
+1.
+You should have some long hydrocarbon chains with a
+carboxyl group at one end.  One of the defining features of
+these hydrocarbon chains is the absence of oxygen except in one carboxyl group at
+one end of the molecule.
+
+
+2.
+These hydrocarbon
+chains are fatty
+acids.  Fatty
+acids are the building blocks of oils and
+fats, which are also known as
+lipids.  There are similarly,
+two fatty acids in each of the
+millions of phospholipids that make up your
+cell membranes.
+Figure 5.   Three Representations of a Fatty Acid (lauric acid)
+
+
+
+
+3.
+Fatty acids that contain no double bonds are saturated .  An unsaturated fatty acid contains one or more double bonds
+(Figure 6).
+Figure 6.  Unsaturated Fatty Acid (oleic acid)
+
+
+
+
+4.
+Fats are the most concentrated energy source in our diets, furnishing about
+2.5 times the energy that sugar does, gram for gram.  We store energy for future
+use in fats.  Fats also insulate and protect the body and many internal
+organs.
+
+
+
+5.
+Fats make up about 40% of the American diet, although nutritionists recommend
+no more than 30%.  Nutritionists also recommend lowering the proportion of
+saturated fats and increasing the proportion of
+polyunsaturated fats to reduce heart disease and
+artherosclerosis. 
+
+Question
+
+6.
+How many fatty acids do you have in your collection? ___  
+		How many are saturated? ___  
+		How many are monounsaturated? ___
+
+To Do
+
+7.
+Paste your fatty acids below.  Label each fatty acid and underneath it draw
+an alternative representation as shown in Figure 5 above.
+Drawing 4.  Paste & Label Your Fatty Acids
+
+ 
+
+Question
+
+8.
+Are fats and oils polar or non-polar? _________
+Explain your reasoning.
+
+
+
+9.
+Are fatty acids, fats and oils water soluble?  Explain.
+
+Review
+
+10.
+The membranes of cells and organelles are made of
+phospholipids.  Phospholipids are amphipathic
+molecules that have a polar phosphate group at one end and two non polar
+fatty acids at the other, held together by a glycerol molecule.  Look at a
+phospholipid in your book.
+
+
+
+
+Group 4
+
+Sugars - Building Blocks of Carbohydrates
+Sugars - Building Blocks of Carbohydrates
+
+Background Information
+
+
+1.
+Sugars are the building blocks of carbohydrates.  They are literally hydrates
+of carbon, having the general formula
+"Cn(H2O)n".  Sugars are burned (oxidized) to
+release energy in cellular respiration and they play an
+important role in homeostasis.  Your body maintains the level of
+the sugar glucose in your blood within a very narrow range. 
+Glucose is the immediate source of energy for your cells.
+
+
+
+
+2.
+Sugars occur as ring structures.  There are monosaccharides
+(single rings), disaccharides (double rings), and larger.  In
+solution, single rings can dynamically change from straight chains to rings and
+back to straight chains.  A straight chain sugar is shown below
+(Figure 6).  Notice that every carbon has an oxygen attached to it.
+Figure 7. Straight Chain Representation of a Sugar (ribulose)
+
+
+
+Question
+
+3.
+How many straight chain sugars do you have in your set?
+
+
+
+4.
+Are sugar molecules polar? ______  If so, what causes the polarity?
+
+
+
+5.
+Based on what you know so far, which of the CHNOPS elements are contained in
+sugars?  ______________ 
+
+
+
+6.
+How many single ring monosaccharides are in your molecule set?  _____  
+
+
+
+7.
+How many disaccharides are in your molecule set?  ____
+
+To Do
+
+8.
+One of the disaccharides is common table sugar.  Draw its structure below.
+Drawing 5.  Common table sugar (sucrose)
+ 
+
+Background Information
+
+
+9.
+Sugars can be joined together in long chains to form macromolecules called
+starch, cellulose, and
+glycogen (animal starch).  Starch (in plants)
+and glycogen (in animals) are easily broken down into sugars for
+energy.  Cellulose, on the other hand, which is made in plants,
+can be broken down only by a few organisms in the world (primarily the bacteria
+in the guts of termites).  Yet all three types of macromolecules
+are made of long chains of sugar, and cellulose differs only by a small change in
+the connecting bond between each pair of sugars.
+
+To Do
+
+10.
+In the space below, paste all your sugars, including straight chain
+sugars, monosaccharides, and
+disaccharides.  Label each molecule.
+Drawing 6.  Sugars
+ 
+
+
+Question
+
+11.
+Do all sugars have an oxygen attached to every carbon? __________
+
+
+
+
+Group 5
+
+Nucleic Acids
+Single and Double Ring Molecules Containing Nitrogen
+
+Background Information
+
+
+1.
+So far we have identified three of the four major classes of molecules in living things: 
+
+proteins and their subunits amino acids,
+lipids including fats and
+oils with their subunits, fatty acids, and
+steroids,
+carbohydrates, including starch,
+cellulose, and glycogen (animal starch) with
+their subunits, sugars.
+
+
+
+
+
+2.
+Proteins, lipids and
+carbohydrates are all recognized as major food groups as well as
+major classes of molecules.  
+
+
+
+3.
+In contrast, nucleic acids, the fourth and last major group
+of molecules, is not a major food group.  Nucleic acids include two kinds of
+molecules, RNA (ribonucleic acid) and
+DNA (deoxyribonucleic acid), and their
+subunits.
+
+
+
+4.
+In most organisms, DNA contains the genetic blueprint for
+the organism and is reproduced in its entirety in every cell of its body. 
+RNA helps to translate the information in DNA
+into the production of thousands of different kinds of proteins,
+which in turn control development of the organism.
+
+
+
+5.
+Each nucleotide or complete subunit of a nucleic acid has
+three parts, a nitrogenous base, a five-carbon
+sugar, and 1 to 3 phosphate groups (Figure
+8).
+Figure 8.  Parts of a Nucleotide (uracil triphosphate)
+
+
+
+
+
+6.
+The nitrogenous bases consist of single or double rings, and
+each ring contains two nitrogens.  DNA contains four nitrogenous
+bases: adenine (A) and guanine
+(G), each with double rings, and cytosine 
+(C), and thymine (T), with
+single rings.  RNA contains three of these, A,
+G, and C, and a fourth base,
+uracil (U).
+
+
+
+7.
+How many nitrogenous bases do you have?  Paste and label them below.
+Drawing 7.  Paste & Label
+Nitrogenous Bases
+ 
+
+
+
+
+8.
+A nitrogenous base is combined with a five-carbon
+sugar, either ribose (for RNA) or
+deoxyribose (for DNA), as shown below. The arrows in Figure 9
+point to the single structural difference between ribose and
+deoxyribose.
+Figure 9. Ribose and Deoxyribose
+
+
+To Do
+
+9.
+How many molecules do you have that contain both a nitrogenous
+base and a five-carbon sugar?  ____  These are called
+nucleosides.  Paste and label them on the next
+page.
+Drawing 8.  Paste & Label
+Nitrogenous Base & Sugar Molecules 
+(nucleosides) Below
+ 
+
+
+
+10.
+Nucleosides can combine with one, two or three
+phosphates.  The greater the number of phosphates, the greater
+the energy contained in the molecule.  Adenine triphosphate
+(ATP) is not only a major subunit of DNA and
+RNA, but also is a major energy carrier in living systems.  How
+many nitrogenous bases do you have that are combined with a
+sugar and one or more phosphates?  _____  Paste and label them
+below.
+
+Drawing 9.  Paste & Label
+Nucleoside Mono-, Di-, & Triphosphates Below
+ 
+
+
+
+
+11.
+In summary, which of the CHNOPS elements are contained in nucleic acids? _____________________ 
+
+
+
+12.
+The nucleotides from which nucleic acids are synthesized contain what three
+parts?  _____________________ _____________________ _____________________
+
+
+
+
+13.
+The four nitrogenous bases in DNA are: ____________ ____________  ____________  ____________ 								 
+
+
+
+
+14.
+The four nitrogenous bases in RNA are: ____________ ____________  ____________  ____________ 																		 
+
+
+
+
+
+Exercise 3
+Summary
+
+
+
+1.
+Organic molecules are carbon-based, whereas
+inorganic molecules are not.
+
+Predict
+
+2.
+There are four major classes of organic:
+
+proteins - the workhorses (enzymes, hormones, carriers, etc.) of the cells
+lipids - energy storage & protection, hormones, cholesterol , phospholipids (membrane structure)
+carbohydrates - energy carriers, structural units
+nucleic acids - genetic information
+
+
+Table 3. Summary Organic Molecules
+
+Class Building Blocks Macromolecules Atoms
+Proteins Amino Acids Enzymes, Hormones CHONS 
+    Identifier Proteins  
+    Carrier Proteins  
+    Hemoglobin  
+    Antibodies  
+    Spindle Fibers, etc.  
+Lipids Fatty Acids Steroids CHO
+  Glycerol Oils
+Waxes  
+Carbohydrates Sugars Starches CHO 
+    Cellulose  
+Nucleic Acids Nucleotides DNA, RNA CHONP
+
+
+
+
+3.
+Each class of macromolecules is built up from subunits. 
+Except for cellulose, they are easily assembled and
+disassembled.
+
+
+
+
+4.
+One type of subunit can be converted into another through biochemical
+reactions in the body.
+
+
+
+5.
+Function follows structure.  A small change in structure can lead to a
+big change in function.
+
+
+
+6.
+The elements in living things, including CHNOPS and about 25 others, all
+occur in the non-living as well as the living world.  Carbon, for example, is
+found in diamonds and graphite, carbon dioxide, and gasoline as well as living
+things.
+
+
+
+
+7.
+Life is highly organized.  Organization requires a continuous investment of
+energy.  Energy is stored in the bonds of molecules.  Each type of bond contains
+a different amount of energy (Table 4).
+
+
+
+
+8.
+The body manages energy carefully, transferring it from one molecule to
+another, driving synthetic reactions with it, making changes in small incremental
+steps, and releasing some energy as heat.
+Table 4.  Bond Energies in Organic Molecules
+
+Type of Bond Bond Energy per Molecule
+(kilo calories)
+C - C 82.6
+C - O 85.5
+C - H 98.7
+O - H 110.6
+C = O 176.0
+C - N 72.8
+N - H 93.4
+
+
+
+
+Organic Molecules I
+(Five Pages)
+Cut these five sheets into cards
+
+
+
+
+
+
+
+
+Organic Molecules II
+(Five Pages Identical to Previous Ones)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+Organic Molecules III
+(Five Pages Identical to Previous Ones 
+But With Names Added For Reference)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+
+SupplementaryResources
+
+
+Griffiths, A. K, & Preston, K. R. (1992). Grade-12 students'
+misconceptions relating to fundamental characteristics of atoms and molecules.
+Journal of Research in Science Teaching (29) n6, p611-28.
+(EJ458310).
+
+Hardwicke, A. J. (1995). Using molecular models to teach chemistry. Part I:
+Modeling molecules. School Science Review (77) n278, p 59-64.
+(EJ520774).
+
+Hoehn, R. G. (1991). Making models of chemical compounds. Science Activities (28) n4, p23-25. (EJ447768). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lesson 6: Pattern Matching: Organic Molecules
+  __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://www.biologylessons.sdsu.edu:80/ta/classes/lab6/lab6.html","20030225112722","http://web.archive.org/","web","/_static/",
+	      "1046172442");
+Lesson 6: Pattern Matching: Organic Molecules
+
+
+
+
+
+
+
+
+
+
+
+
+Pattern Matching: Organic Molecules
+
+
+Grade Level
+
+Prospective and Practicing K-8 Teachers; may be adapted 
+	for use in elementary classes.
+Time
+
+
+Exercises 1-3 take approximately 2 1/2 hours. 
+
+To Ponder
+
+
+1.
+What are living things made of?  Sugar and spice and everything nice?  Snips and
+snails and puppy dog tails?
+
+
+2.
+Living things are different from non-living things, aren't they?  Does
+that mean that they are made from different kinds of atoms than those in
+non-living things?  Different kinds of molecules?
+
+
+3.
+There may be as many as 10,000 different kinds of molecules in a living thing. 
+But are there a few common patterns? A few common functions?
+
+
+
+
+Supplies
+
+
+
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+
+
+
+
+
+Objectives
+
+
+Once you have completed these exercises you should be able
+to: 
+
+
+1.
+Know what an organic molecule  is and how it differs from an inorganic molecule .
+
+
+2.
+Identify the major classes of organic molecules.
+
+
+3.
+Identify the distinguishing features of each class of molecules.
+
+
+4.
+Given a typical example of an organic molecule, identify the class to which it belongs.
+
+
+5.
+Know where you are likely to find organic molecules.
+
+
+6.
+Appreciate the prevalence and value of patterns in biology.
+
+
+
+
+BackgroundInformation
+
+
+Pattern Matching
+Studying science is in many ways like piecing together a puzzle.  For this
+reason, pattern matching is an important skill.  Biologists are constantly
+looking for significant patterns in nature.  Even biological molecules are
+pattern matchers.  Biological enzymes are a good example - each enzyme typically
+recognizes one and only one type of molecule or pair of molecules.  
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+
+
+
+
+
+Exercise 1
+Identifying Categories of Biological Molecules
+
+Background Information
+
+
+1.
+The objects you will be sorting are basic building blocks
+(subunits) of common macromolecules in living things.  Do
+NOT refer to your books during this exercise.  Use your own
+judgment in doing the sorting.
+
+To Do
+
+2.
+Remove from your book the first five pages of molecules only
+ (Part I, 5 pages)  Do not remove the second set of
+unlabeled molecules (Part II) or the set of labeled molecules (Part III).
+
+
+
+
+3.
+Cut the one set of the unlabeled molecules (Part I) that you
+have removed from your book.  Cut each page along the dividing lines to produce 9
+cards per page for the first four pages  and 6 cards on the fifth page for a
+total of 42 cards.  
+
+
+
+4.
+Organize the 42 cards into groups based upon structural similarities.  Pay special attention to: 
+
+the elements (CHNOPS) in the molecule, 
+		the shape of the molecule,
+		patterns within the molecule, and 
+		the ends of the molecule.  
+
+
+
+Question
+
+5.
+How many groups of molecules do you have?  _____ Compare your categories with
+those of your team mates.  
+
+Describe
+
+6.
+In Table 2, describe each group of molecules and its distinguishing features.
+ You will probably have five to eleven or so categories.  This table provides
+spaces for up to eleven types.  Please do not feel any particular need to use all
+eleven categories, and also feel free to create more categories if you feel it is
+necessary.  Ignore the last column, 'Type of Molecules', until you get to
+Exercise 2. 
+Table 2.  Molecular Groups and
+this Characteristics
+
+Sketch of MoleculeAtoms PresentKey Features# in GroupType of Molecule
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+Exercise 2
+
+Interpreting Molecular Structures
+
+BackgroundInformation
+
+
+Chemists and other scientists use a variety of representational
+styles or conventions for drawing molecules, and they shift easily between them.
+
+
+Review the following molecule descriptions with your peers, checking your groups
+of molecules against the organizations here and at the same time (a) learn a bit
+about how to read and interpret molecular formulas and (b) learn about the
+different groups of organic molecules.
+
+Group 1
+
+Amino Acids - Building Blocks of Proteins
+
+
+Background Information
+
+
+1.
+Amino acids are the building blocks of
+proteins - molecules that play many important roles in the body
+(including muscle structure, hormones,
+antibodies, hemoglobin for carrying oxygen,
+other transport proteins for carrying molecules across cell
+membranes, toxins, and chemical messengers in
+the nervous system). 
+
+
+2.
+Figure 1 shows a "generic" amino acid. Another (more compact) way to represent the same molecule is 
+"NH3+ - CHR - COO-" or "NH3+ - CHR - COOH".
+Figure 1. "Generic" Amino Acid
+
+
+
+
+3.
+The "-N-C-C-" in the center of the molecule is known as its
+backbone  and is a defining feature of amino acids.  The
+backbones are linked together in a linear chain when amino acids are combined to
+form a protein.  A typical protein chain may contain 150 - 1000 or more amino
+acids.
+Figure 2.  Protein Backbone
+
+
+Questions
+
+4.
+In Figure 3, below, which group is positively charged? ____  The charge
+exists  because the nitrogen has formed four bonds instead of the usual three (a
+covalent bond with carbon, a covalent bond with each of two hydrogen atoms, and a
+hydrogen bond with a positively charged hydrogen ion).  The hydrogen ion is
+easily lost and gained via dynamic transitions.  The "NH3+" group is
+known as an amine group.
+
+
+
+5.
+Are the bonds between the nitrogen and the hydrogen atoms shown in Figure 1? 
+____  Explain.
+
+
+
+6.
+In Figure 3, what atom is negatively charged? _____  The negative charge
+arises when a hydroxyl group ("-OH") gives up a positively charged hydrogen atom
+("H+"), leaving the negatively charged oxygen atom ("O-").  The entire group, "-
+COOH" or "-COO-", is known as a carboxyl group.  The
+amine and carboxyl groups and the
+"N-C-C-" backbone are defining features of amino acids. 
+
+
+
+
+7.
+Are the bonds between the carbon and oxygen atoms shown here? ____  Explain.
+
+
+
+8.
+Each amino acid has a different side group that is represented by "R" in
+Figures 1 and 2.  Two amino acids with their particular side groups are shown
+below. 
+Figure 3.  Side Groups in Asparagine & Valine
+
+
+To Do
+
+9.
+Draw three other amino acids below:  Look at Organic Molecules III to find
+the name of each molecule and label accordingly.
+Drawing 1.  Draw Three Additional Amino Acids
+
+
+ 
+ 
+ 
+
+
+Questions
+
+10.
+There are 20 common amino acids.  How many do you have in your set?  ____  
+
+
+
+11.
+Can you name three different functions performed by proteins in your body?
+
+To Do
+
+12.
+Paste your amino acids here and label each one (refer to the molecules in
+Organic Molecules III or to your text for help).
+Drawing 2. Paste & Label the Amino
+Acids in Your Molecule Set
+
+ 
+
+
+Questions
+
+13.
+Can you name some amino acids you have heard of before and indicate where you heard of them?
+
+
+
+14.
+Which of the CHNOPS elements are contained in all amino
+acids?  _____________  In addition, two important amino acids,
+methionine and cysteine, also contain
+sulfur and can be phosphorylated. 
+
+
+
+15.
+To review, what is the major class of organic molecules described in this
+section? _____________  
+
+
+
+16.
+What are the subunits or building blocks of this class of molecules?  _____________  
+
+
+
+17.
+How many different kinds of these subunits are commonly found in the body? ________  
+
+
+
+18.
+How many different proteins do you think can be built from this number of
+subunits?  Explain your reasoning.
+
+
+
+
+Group 2
+
+Steroids - Type of Lipid
+Multiple Ring Structures
+
+Background Information
+
+
+1.
+Organic chemists use many shortcuts in drawing complex molecules.  They often
+do not include the letter C for carbon, for example.  In the molecule below,
+there is a carbon atom (not drawn in most cases) at every point of each of the
+four rings and in the side chain.
+
+
+2.
+ Cholesterol, shown below, is a steroid. 
+Steroids are one type of molecule in the class of compounds
+known as lipids.  Cholesterol plays an important role in
+membrane formation. 
+Figure 4. Cholesterol
+
+
+To Do
+
+3.
+The bonds between the carbons are shown.  In all but one case the carbon
+atoms are connected to one another by a single bond (one pair of shared
+electrons).  In one ring there are two carbon atoms connected by a double bond. 
+Draw an arrow to point at the double bond in the drawing.
+
+
+
+4.
+To further simplify this drawing, none of the hydrogen atoms have been drawn.
+ However, since you know that each carbon atom forms four bonds, you can fill in
+all the missing hydrogen atoms.  Please do so now.
+
+Question
+
+5.
+Several carbons in the molecule already have four bonds and so will have no
+additional atoms (such as hydrogen) added.  How many of these did you find? 
+_____ 
+
+To Do
+
+6.
+Paste your steroids below, label each one by referring to part III, and draw
+in the hydrogen atoms.  Compare your drawings with those of your
+teammates.
+Drawing 3.  Paste & Label Your Steroids
+
+ 
+
+
+
+
+Group 3
+
+Fatty Acids - Building Blocks of Fats and Oils
+Long Hydrocarbon Chains
+
+Background Information
+
+
+1.
+You should have some long hydrocarbon chains with a
+carboxyl group at one end.  One of the defining features of
+these hydrocarbon chains is the absence of oxygen except in one carboxyl group at
+one end of the molecule.
+
+
+2.
+These hydrocarbon
+chains are fatty
+acids.  Fatty
+acids are the building blocks of oils and
+fats, which are also known as
+lipids.  There are similarly,
+two fatty acids in each of the
+millions of phospholipids that make up your
+cell membranes.
+Figure 5.   Three Representations of a Fatty Acid (lauric acid)
+
+
+
+
+3.
+Fatty acids that contain no double bonds are saturated .  An unsaturated fatty acid contains one or more double bonds
+(Figure 6).
+Figure 6.  Unsaturated Fatty Acid (oleic acid)
+
+
+
+
+4.
+Fats are the most concentrated energy source in our diets, furnishing about
+2.5 times the energy that sugar does, gram for gram.  We store energy for future
+use in fats.  Fats also insulate and protect the body and many internal
+organs.
+
+
+
+5.
+Fats make up about 40% of the American diet, although nutritionists recommend
+no more than 30%.  Nutritionists also recommend lowering the proportion of
+saturated fats and increasing the proportion of
+polyunsaturated fats to reduce heart disease and
+artherosclerosis. 
+
+Question
+
+6.
+How many fatty acids do you have in your collection? ___  
+		How many are saturated? ___  
+		How many are monounsaturated? ___
+
+To Do
+
+7.
+Paste your fatty acids below.  Label each fatty acid and underneath it draw
+an alternative representation as shown in Figure 5 above.
+Drawing 4.  Paste & Label Your Fatty Acids
+
+ 
+
+Question
+
+8.
+Are fats and oils polar or non-polar? _________
+Explain your reasoning.
+
+
+
+9.
+Are fatty acids, fats and oils water soluble?  Explain.
+
+Review
+
+10.
+The membranes of cells and organelles are made of
+phospholipids.  Phospholipids are amphipathic
+molecules that have a polar phosphate group at one end and two non polar
+fatty acids at the other, held together by a glycerol molecule.  Look at a
+phospholipid in your book.
+
+
+
+
+Group 4
+
+Sugars - Building Blocks of Carbohydrates
+Sugars - Building Blocks of Carbohydrates
+
+Background Information
+
+
+1.
+Sugars are the building blocks of carbohydrates.  They are literally hydrates
+of carbon, having the general formula
+"Cn(H2O)n".  Sugars are burned (oxidized) to
+release energy in cellular respiration and they play an
+important role in homeostasis.  Your body maintains the level of
+the sugar glucose in your blood within a very narrow range. 
+Glucose is the immediate source of energy for your cells.
+
+
+
+
+2.
+Sugars occur as ring structures.  There are monosaccharides
+(single rings), disaccharides (double rings), and larger.  In
+solution, single rings can dynamically change from straight chains to rings and
+back to straight chains.  A straight chain sugar is shown below
+(Figure 6).  Notice that every carbon has an oxygen attached to it.
+Figure 7. Straight Chain Representation of a Sugar (ribulose)
+
+
+
+Question
+
+3.
+How many straight chain sugars do you have in your set?
+
+
+
+4.
+Are sugar molecules polar? ______  If so, what causes the polarity?
+
+
+
+5.
+Based on what you know so far, which of the CHNOPS elements are contained in
+sugars?  ______________ 
+
+
+
+6.
+How many single ring monosaccharides are in your molecule set?  _____  
+
+
+
+7.
+How many disaccharides are in your molecule set?  ____
+
+To Do
+
+8.
+One of the disaccharides is common table sugar.  Draw its structure below.
+Drawing 5.  Common table sugar (sucrose)
+ 
+
+Background Information
+
+
+9.
+Sugars can be joined together in long chains to form macromolecules called
+starch, cellulose, and
+glycogen (animal starch).  Starch (in plants)
+and glycogen (in animals) are easily broken down into sugars for
+energy.  Cellulose, on the other hand, which is made in plants,
+can be broken down only by a few organisms in the world (primarily the bacteria
+in the guts of termites).  Yet all three types of macromolecules
+are made of long chains of sugar, and cellulose differs only by a small change in
+the connecting bond between each pair of sugars.
+
+To Do
+
+10.
+In the space below, paste all your sugars, including straight chain
+sugars, monosaccharides, and
+disaccharides.  Label each molecule.
+Drawing 6.  Sugars
+ 
+
+
+Question
+
+11.
+Do all sugars have an oxygen attached to every carbon? __________
+
+
+
+
+Group 5
+
+Nucleic Acids
+Single and Double Ring Molecules Containing Nitrogen
+
+Background Information
+
+
+1.
+So far we have identified three of the four major classes of molecules in living things: 
+
+proteins and their subunits amino acids,
+lipids including fats and
+oils with their subunits, fatty acids, and
+steroids,
+carbohydrates, including starch,
+cellulose, and glycogen (animal starch) with
+their subunits, sugars.
+
+
+
+
+
+2.
+Proteins, lipids and
+carbohydrates are all recognized as major food groups as well as
+major classes of molecules.  
+
+
+
+3.
+In contrast, nucleic acids, the fourth and last major group
+of molecules, is not a major food group.  Nucleic acids include two kinds of
+molecules, RNA (ribonucleic acid) and
+DNA (deoxyribonucleic acid), and their
+subunits.
+
+
+
+4.
+In most organisms, DNA contains the genetic blueprint for
+the organism and is reproduced in its entirety in every cell of its body. 
+RNA helps to translate the information in DNA
+into the production of thousands of different kinds of proteins,
+which in turn control development of the organism.
+
+
+
+5.
+Each nucleotide or complete subunit of a nucleic acid has
+three parts, a nitrogenous base, a five-carbon
+sugar, and 1 to 3 phosphate groups (Figure
+8).
+Figure 8.  Parts of a Nucleotide (uracil triphosphate)
+
+
+
+
+
+6.
+The nitrogenous bases consist of single or double rings, and
+each ring contains two nitrogens.  DNA contains four nitrogenous
+bases: adenine (A) and guanine
+(G), each with double rings, and cytosine 
+(C), and thymine (T), with
+single rings.  RNA contains three of these, A,
+G, and C, and a fourth base,
+uracil (U).
+
+
+
+7.
+How many nitrogenous bases do you have?  Paste and label them below.
+Drawing 7.  Paste & Label
+Nitrogenous Bases
+ 
+
+
+
+
+8.
+A nitrogenous base is combined with a five-carbon
+sugar, either ribose (for RNA) or
+deoxyribose (for DNA), as shown below. The arrows in Figure 9
+point to the single structural difference between ribose and
+deoxyribose.
+Figure 9. Ribose and Deoxyribose
+
+
+To Do
+
+9.
+How many molecules do you have that contain both a nitrogenous
+base and a five-carbon sugar?  ____  These are called
+nucleosides.  Paste and label them on the next
+page.
+Drawing 8.  Paste & Label
+Nitrogenous Base & Sugar Molecules 
+(nucleosides) Below
+ 
+
+
+
+10.
+Nucleosides can combine with one, two or three
+phosphates.  The greater the number of phosphates, the greater
+the energy contained in the molecule.  Adenine triphosphate
+(ATP) is not only a major subunit of DNA and
+RNA, but also is a major energy carrier in living systems.  How
+many nitrogenous bases do you have that are combined with a
+sugar and one or more phosphates?  _____  Paste and label them
+below.
+
+Drawing 9.  Paste & Label
+Nucleoside Mono-, Di-, & Triphosphates Below
+ 
+
+
+
+
+11.
+In summary, which of the CHNOPS elements are contained in nucleic acids? _____________________ 
+
+
+
+12.
+The nucleotides from which nucleic acids are synthesized contain what three
+parts?  _____________________ _____________________ _____________________
+
+
+
+
+13.
+The four nitrogenous bases in DNA are: ____________ ____________  ____________  ____________ 								 
+
+
+
+
+14.
+The four nitrogenous bases in RNA are: ____________ ____________  ____________  ____________ 																		 
+
+
+
+
+
+Exercise 3
+Summary
+
+
+
+1.
+Organic molecules are carbon-based, whereas
+inorganic molecules are not.
+
+Predict
+
+2.
+There are four major classes of organic:
+
+proteins - the workhorses (enzymes, hormones, carriers, etc.) of the cells
+lipids - energy storage & protection, hormones, cholesterol , phospholipids (membrane structure)
+carbohydrates - energy carriers, structural units
+nucleic acids - genetic information
+
+
+Table 3. Summary Organic Molecules
+
+Class Building Blocks Macromolecules Atoms
+Proteins Amino Acids Enzymes, Hormones CHONS 
+    Identifier Proteins  
+    Carrier Proteins  
+    Hemoglobin  
+    Antibodies  
+    Spindle Fibers, etc.  
+Lipids Fatty Acids Steroids CHO
+  Glycerol Oils
+Waxes  
+Carbohydrates Sugars Starches CHO 
+    Cellulose  
+Nucleic Acids Nucleotides DNA, RNA CHONP
+
+
+
+
+3.
+Each class of macromolecules is built up from subunits. 
+Except for cellulose, they are easily assembled and
+disassembled.
+
+
+
+
+4.
+One type of subunit can be converted into another through biochemical
+reactions in the body.
+
+
+
+5.
+Function follows structure.  A small change in structure can lead to a
+big change in function.
+
+
+
+6.
+The elements in living things, including CHNOPS and about 25 others, all
+occur in the non-living as well as the living world.  Carbon, for example, is
+found in diamonds and graphite, carbon dioxide, and gasoline as well as living
+things.
+
+
+
+
+7.
+Life is highly organized.  Organization requires a continuous investment of
+energy.  Energy is stored in the bonds of molecules.  Each type of bond contains
+a different amount of energy (Table 4).
+
+
+
+
+8.
+The body manages energy carefully, transferring it from one molecule to
+another, driving synthetic reactions with it, making changes in small incremental
+steps, and releasing some energy as heat.
+Table 4.  Bond Energies in Organic Molecules
+
+Type of Bond Bond Energy per Molecule
+(kilo calories)
+C - C 82.6
+C - O 85.5
+C - H 98.7
+O - H 110.6
+C = O 176.0
+C - N 72.8
+N - H 93.4
+
+
+
+
+Organic Molecules I
+(Five Pages)
+Cut these five sheets into cards
+
+
+
+
+
+
+
+
+Organic Molecules II
+(Five Pages Identical to Previous Ones)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+Organic Molecules III
+(Five Pages Identical to Previous Ones 
+But With Names Added For Reference)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+
+SupplementaryResources
+
+
+Griffiths, A. K, & Preston, K. R. (1992). Grade-12 students'
+misconceptions relating to fundamental characteristics of atoms and molecules.
+Journal of Research in Science Teaching (29) n6, p611-28.
+(EJ458310).
+
+Hardwicke, A. J. (1995). Using molecular models to teach chemistry. Part I:
+Modeling molecules. School Science Review (77) n278, p 59-64.
+(EJ520774).
+
+Hoehn, R. G. (1991). Making models of chemical compounds. Science Activities (28) n4, p23-25. (EJ447768). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pattern Matching: Organic Molecules
+
+
+Grade Level
+
+Prospective and Practicing K-8 Teachers; may be adapted 
+	for use in elementary classes.
+Time
+
+
+Exercises 1-3 take approximately 2 1/2 hours. 
+
+To Ponder
+
+
+1.
+What are living things made of?  Sugar and spice and everything nice?  Snips and
+snails and puppy dog tails?
+
+
+2.
+Living things are different from non-living things, aren't they?  Does
+that mean that they are made from different kinds of atoms than those in
+non-living things?  Different kinds of molecules?
+
+
+3.
+There may be as many as 10,000 different kinds of molecules in a living thing. 
+But are there a few common patterns? A few common functions?
+
+
+
+
+Supplies
+
+
+
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+
+
+
+
+
+Objectives
+
+
+Once you have completed these exercises you should be able
+to: 
+
+
+1.
+Know what an organic molecule  is and how it differs from an inorganic molecule .
+
+
+2.
+Identify the major classes of organic molecules.
+
+
+3.
+Identify the distinguishing features of each class of molecules.
+
+
+4.
+Given a typical example of an organic molecule, identify the class to which it belongs.
+
+
+5.
+Know where you are likely to find organic molecules.
+
+
+6.
+Appreciate the prevalence and value of patterns in biology.
+
+
+
+
+BackgroundInformation
+
+
+Pattern Matching
+Studying science is in many ways like piecing together a puzzle.  For this
+reason, pattern matching is an important skill.  Biologists are constantly
+looking for significant patterns in nature.  Even biological molecules are
+pattern matchers.  Biological enzymes are a good example - each enzyme typically
+recognizes one and only one type of molecule or pair of molecules.  
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+
+
+
+
+
+Exercise 1
+Identifying Categories of Biological Molecules
+
+Background Information
+
+
+1.
+The objects you will be sorting are basic building blocks
+(subunits) of common macromolecules in living things.  Do
+NOT refer to your books during this exercise.  Use your own
+judgment in doing the sorting.
+
+To Do
+
+2.
+Remove from your book the first five pages of molecules only
+ (Part I, 5 pages)  Do not remove the second set of
+unlabeled molecules (Part II) or the set of labeled molecules (Part III).
+
+
+
+
+3.
+Cut the one set of the unlabeled molecules (Part I) that you
+have removed from your book.  Cut each page along the dividing lines to produce 9
+cards per page for the first four pages  and 6 cards on the fifth page for a
+total of 42 cards.  
+
+
+
+4.
+Organize the 42 cards into groups based upon structural similarities.  Pay special attention to: 
+
+the elements (CHNOPS) in the molecule, 
+		the shape of the molecule,
+		patterns within the molecule, and 
+		the ends of the molecule.  
+
+
+
+Question
+
+5.
+How many groups of molecules do you have?  _____ Compare your categories with
+those of your team mates.  
+
+Describe
+
+6.
+In Table 2, describe each group of molecules and its distinguishing features.
+ You will probably have five to eleven or so categories.  This table provides
+spaces for up to eleven types.  Please do not feel any particular need to use all
+eleven categories, and also feel free to create more categories if you feel it is
+necessary.  Ignore the last column, 'Type of Molecules', until you get to
+Exercise 2. 
+Table 2.  Molecular Groups and
+this Characteristics
+
+Sketch of MoleculeAtoms PresentKey Features# in GroupType of Molecule
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+Exercise 2
+
+Interpreting Molecular Structures
+
+BackgroundInformation
+
+
+Chemists and other scientists use a variety of representational
+styles or conventions for drawing molecules, and they shift easily between them.
+
+
+Review the following molecule descriptions with your peers, checking your groups
+of molecules against the organizations here and at the same time (a) learn a bit
+about how to read and interpret molecular formulas and (b) learn about the
+different groups of organic molecules.
+
+Group 1
+
+Amino Acids - Building Blocks of Proteins
+
+
+Background Information
+
+
+1.
+Amino acids are the building blocks of
+proteins - molecules that play many important roles in the body
+(including muscle structure, hormones,
+antibodies, hemoglobin for carrying oxygen,
+other transport proteins for carrying molecules across cell
+membranes, toxins, and chemical messengers in
+the nervous system). 
+
+
+2.
+Figure 1 shows a "generic" amino acid. Another (more compact) way to represent the same molecule is 
+"NH3+ - CHR - COO-" or "NH3+ - CHR - COOH".
+Figure 1. "Generic" Amino Acid
+
+
+
+
+3.
+The "-N-C-C-" in the center of the molecule is known as its
+backbone  and is a defining feature of amino acids.  The
+backbones are linked together in a linear chain when amino acids are combined to
+form a protein.  A typical protein chain may contain 150 - 1000 or more amino
+acids.
+Figure 2.  Protein Backbone
+
+
+Questions
+
+4.
+In Figure 3, below, which group is positively charged? ____  The charge
+exists  because the nitrogen has formed four bonds instead of the usual three (a
+covalent bond with carbon, a covalent bond with each of two hydrogen atoms, and a
+hydrogen bond with a positively charged hydrogen ion).  The hydrogen ion is
+easily lost and gained via dynamic transitions.  The "NH3+" group is
+known as an amine group.
+
+
+
+5.
+Are the bonds between the nitrogen and the hydrogen atoms shown in Figure 1? 
+____  Explain.
+
+
+
+6.
+In Figure 3, what atom is negatively charged? _____  The negative charge
+arises when a hydroxyl group ("-OH") gives up a positively charged hydrogen atom
+("H+"), leaving the negatively charged oxygen atom ("O-").  The entire group, "-
+COOH" or "-COO-", is known as a carboxyl group.  The
+amine and carboxyl groups and the
+"N-C-C-" backbone are defining features of amino acids. 
+
+
+
+
+7.
+Are the bonds between the carbon and oxygen atoms shown here? ____  Explain.
+
+
+
+8.
+Each amino acid has a different side group that is represented by "R" in
+Figures 1 and 2.  Two amino acids with their particular side groups are shown
+below. 
+Figure 3.  Side Groups in Asparagine & Valine
+
+
+To Do
+
+9.
+Draw three other amino acids below:  Look at Organic Molecules III to find
+the name of each molecule and label accordingly.
+Drawing 1.  Draw Three Additional Amino Acids
+
+
+ 
+ 
+ 
+
+
+Questions
+
+10.
+There are 20 common amino acids.  How many do you have in your set?  ____  
+
+
+
+11.
+Can you name three different functions performed by proteins in your body?
+
+To Do
+
+12.
+Paste your amino acids here and label each one (refer to the molecules in
+Organic Molecules III or to your text for help).
+Drawing 2. Paste & Label the Amino
+Acids in Your Molecule Set
+
+ 
+
+
+Questions
+
+13.
+Can you name some amino acids you have heard of before and indicate where you heard of them?
+
+
+
+14.
+Which of the CHNOPS elements are contained in all amino
+acids?  _____________  In addition, two important amino acids,
+methionine and cysteine, also contain
+sulfur and can be phosphorylated. 
+
+
+
+15.
+To review, what is the major class of organic molecules described in this
+section? _____________  
+
+
+
+16.
+What are the subunits or building blocks of this class of molecules?  _____________  
+
+
+
+17.
+How many different kinds of these subunits are commonly found in the body? ________  
+
+
+
+18.
+How many different proteins do you think can be built from this number of
+subunits?  Explain your reasoning.
+
+
+
+
+Group 2
+
+Steroids - Type of Lipid
+Multiple Ring Structures
+
+Background Information
+
+
+1.
+Organic chemists use many shortcuts in drawing complex molecules.  They often
+do not include the letter C for carbon, for example.  In the molecule below,
+there is a carbon atom (not drawn in most cases) at every point of each of the
+four rings and in the side chain.
+
+
+2.
+ Cholesterol, shown below, is a steroid. 
+Steroids are one type of molecule in the class of compounds
+known as lipids.  Cholesterol plays an important role in
+membrane formation. 
+Figure 4. Cholesterol
+
+
+To Do
+
+3.
+The bonds between the carbons are shown.  In all but one case the carbon
+atoms are connected to one another by a single bond (one pair of shared
+electrons).  In one ring there are two carbon atoms connected by a double bond. 
+Draw an arrow to point at the double bond in the drawing.
+
+
+
+4.
+To further simplify this drawing, none of the hydrogen atoms have been drawn.
+ However, since you know that each carbon atom forms four bonds, you can fill in
+all the missing hydrogen atoms.  Please do so now.
+
+Question
+
+5.
+Several carbons in the molecule already have four bonds and so will have no
+additional atoms (such as hydrogen) added.  How many of these did you find? 
+_____ 
+
+To Do
+
+6.
+Paste your steroids below, label each one by referring to part III, and draw
+in the hydrogen atoms.  Compare your drawings with those of your
+teammates.
+Drawing 3.  Paste & Label Your Steroids
+
+ 
+
+
+
+
+Group 3
+
+Fatty Acids - Building Blocks of Fats and Oils
+Long Hydrocarbon Chains
+
+Background Information
+
+
+1.
+You should have some long hydrocarbon chains with a
+carboxyl group at one end.  One of the defining features of
+these hydrocarbon chains is the absence of oxygen except in one carboxyl group at
+one end of the molecule.
+
+
+2.
+These hydrocarbon
+chains are fatty
+acids.  Fatty
+acids are the building blocks of oils and
+fats, which are also known as
+lipids.  There are similarly,
+two fatty acids in each of the
+millions of phospholipids that make up your
+cell membranes.
+Figure 5.   Three Representations of a Fatty Acid (lauric acid)
+
+
+
+
+3.
+Fatty acids that contain no double bonds are saturated .  An unsaturated fatty acid contains one or more double bonds
+(Figure 6).
+Figure 6.  Unsaturated Fatty Acid (oleic acid)
+
+
+
+
+4.
+Fats are the most concentrated energy source in our diets, furnishing about
+2.5 times the energy that sugar does, gram for gram.  We store energy for future
+use in fats.  Fats also insulate and protect the body and many internal
+organs.
+
+
+
+5.
+Fats make up about 40% of the American diet, although nutritionists recommend
+no more than 30%.  Nutritionists also recommend lowering the proportion of
+saturated fats and increasing the proportion of
+polyunsaturated fats to reduce heart disease and
+artherosclerosis. 
+
+Question
+
+6.
+How many fatty acids do you have in your collection? ___  
+		How many are saturated? ___  
+		How many are monounsaturated? ___
+
+To Do
+
+7.
+Paste your fatty acids below.  Label each fatty acid and underneath it draw
+an alternative representation as shown in Figure 5 above.
+Drawing 4.  Paste & Label Your Fatty Acids
+
+ 
+
+Question
+
+8.
+Are fats and oils polar or non-polar? _________
+Explain your reasoning.
+
+
+
+9.
+Are fatty acids, fats and oils water soluble?  Explain.
+
+Review
+
+10.
+The membranes of cells and organelles are made of
+phospholipids.  Phospholipids are amphipathic
+molecules that have a polar phosphate group at one end and two non polar
+fatty acids at the other, held together by a glycerol molecule.  Look at a
+phospholipid in your book.
+
+
+
+
+Group 4
+
+Sugars - Building Blocks of Carbohydrates
+Sugars - Building Blocks of Carbohydrates
+
+Background Information
+
+
+1.
+Sugars are the building blocks of carbohydrates.  They are literally hydrates
+of carbon, having the general formula
+"Cn(H2O)n".  Sugars are burned (oxidized) to
+release energy in cellular respiration and they play an
+important role in homeostasis.  Your body maintains the level of
+the sugar glucose in your blood within a very narrow range. 
+Glucose is the immediate source of energy for your cells.
+
+
+
+
+2.
+Sugars occur as ring structures.  There are monosaccharides
+(single rings), disaccharides (double rings), and larger.  In
+solution, single rings can dynamically change from straight chains to rings and
+back to straight chains.  A straight chain sugar is shown below
+(Figure 6).  Notice that every carbon has an oxygen attached to it.
+Figure 7. Straight Chain Representation of a Sugar (ribulose)
+
+
+
+Question
+
+3.
+How many straight chain sugars do you have in your set?
+
+
+
+4.
+Are sugar molecules polar? ______  If so, what causes the polarity?
+
+
+
+5.
+Based on what you know so far, which of the CHNOPS elements are contained in
+sugars?  ______________ 
+
+
+
+6.
+How many single ring monosaccharides are in your molecule set?  _____  
+
+
+
+7.
+How many disaccharides are in your molecule set?  ____
+
+To Do
+
+8.
+One of the disaccharides is common table sugar.  Draw its structure below.
+Drawing 5.  Common table sugar (sucrose)
+ 
+
+Background Information
+
+
+9.
+Sugars can be joined together in long chains to form macromolecules called
+starch, cellulose, and
+glycogen (animal starch).  Starch (in plants)
+and glycogen (in animals) are easily broken down into sugars for
+energy.  Cellulose, on the other hand, which is made in plants,
+can be broken down only by a few organisms in the world (primarily the bacteria
+in the guts of termites).  Yet all three types of macromolecules
+are made of long chains of sugar, and cellulose differs only by a small change in
+the connecting bond between each pair of sugars.
+
+To Do
+
+10.
+In the space below, paste all your sugars, including straight chain
+sugars, monosaccharides, and
+disaccharides.  Label each molecule.
+Drawing 6.  Sugars
+ 
+
+
+Question
+
+11.
+Do all sugars have an oxygen attached to every carbon? __________
+
+
+
+
+Group 5
+
+Nucleic Acids
+Single and Double Ring Molecules Containing Nitrogen
+
+Background Information
+
+
+1.
+So far we have identified three of the four major classes of molecules in living things: 
+
+proteins and their subunits amino acids,
+lipids including fats and
+oils with their subunits, fatty acids, and
+steroids,
+carbohydrates, including starch,
+cellulose, and glycogen (animal starch) with
+their subunits, sugars.
+
+
+
+
+
+2.
+Proteins, lipids and
+carbohydrates are all recognized as major food groups as well as
+major classes of molecules.  
+
+
+
+3.
+In contrast, nucleic acids, the fourth and last major group
+of molecules, is not a major food group.  Nucleic acids include two kinds of
+molecules, RNA (ribonucleic acid) and
+DNA (deoxyribonucleic acid), and their
+subunits.
+
+
+
+4.
+In most organisms, DNA contains the genetic blueprint for
+the organism and is reproduced in its entirety in every cell of its body. 
+RNA helps to translate the information in DNA
+into the production of thousands of different kinds of proteins,
+which in turn control development of the organism.
+
+
+
+5.
+Each nucleotide or complete subunit of a nucleic acid has
+three parts, a nitrogenous base, a five-carbon
+sugar, and 1 to 3 phosphate groups (Figure
+8).
+Figure 8.  Parts of a Nucleotide (uracil triphosphate)
+
+
+
+
+
+6.
+The nitrogenous bases consist of single or double rings, and
+each ring contains two nitrogens.  DNA contains four nitrogenous
+bases: adenine (A) and guanine
+(G), each with double rings, and cytosine 
+(C), and thymine (T), with
+single rings.  RNA contains three of these, A,
+G, and C, and a fourth base,
+uracil (U).
+
+
+
+7.
+How many nitrogenous bases do you have?  Paste and label them below.
+Drawing 7.  Paste & Label
+Nitrogenous Bases
+ 
+
+
+
+
+8.
+A nitrogenous base is combined with a five-carbon
+sugar, either ribose (for RNA) or
+deoxyribose (for DNA), as shown below. The arrows in Figure 9
+point to the single structural difference between ribose and
+deoxyribose.
+Figure 9. Ribose and Deoxyribose
+
+
+To Do
+
+9.
+How many molecules do you have that contain both a nitrogenous
+base and a five-carbon sugar?  ____  These are called
+nucleosides.  Paste and label them on the next
+page.
+Drawing 8.  Paste & Label
+Nitrogenous Base & Sugar Molecules 
+(nucleosides) Below
+ 
+
+
+
+10.
+Nucleosides can combine with one, two or three
+phosphates.  The greater the number of phosphates, the greater
+the energy contained in the molecule.  Adenine triphosphate
+(ATP) is not only a major subunit of DNA and
+RNA, but also is a major energy carrier in living systems.  How
+many nitrogenous bases do you have that are combined with a
+sugar and one or more phosphates?  _____  Paste and label them
+below.
+
+Drawing 9.  Paste & Label
+Nucleoside Mono-, Di-, & Triphosphates Below
+ 
+
+
+
+
+11.
+In summary, which of the CHNOPS elements are contained in nucleic acids? _____________________ 
+
+
+
+12.
+The nucleotides from which nucleic acids are synthesized contain what three
+parts?  _____________________ _____________________ _____________________
+
+
+
+
+13.
+The four nitrogenous bases in DNA are: ____________ ____________  ____________  ____________ 								 
+
+
+
+
+14.
+The four nitrogenous bases in RNA are: ____________ ____________  ____________  ____________ 																		 
+
+
+
+
+
+Exercise 3
+Summary
+
+
+
+1.
+Organic molecules are carbon-based, whereas
+inorganic molecules are not.
+
+Predict
+
+2.
+There are four major classes of organic:
+
+proteins - the workhorses (enzymes, hormones, carriers, etc.) of the cells
+lipids - energy storage & protection, hormones, cholesterol , phospholipids (membrane structure)
+carbohydrates - energy carriers, structural units
+nucleic acids - genetic information
+
+
+Table 3. Summary Organic Molecules
+
+Class Building Blocks Macromolecules Atoms
+Proteins Amino Acids Enzymes, Hormones CHONS 
+    Identifier Proteins  
+    Carrier Proteins  
+    Hemoglobin  
+    Antibodies  
+    Spindle Fibers, etc.  
+Lipids Fatty Acids Steroids CHO
+  Glycerol Oils
+Waxes  
+Carbohydrates Sugars Starches CHO 
+    Cellulose  
+Nucleic Acids Nucleotides DNA, RNA CHONP
+
+
+
+
+3.
+Each class of macromolecules is built up from subunits. 
+Except for cellulose, they are easily assembled and
+disassembled.
+
+
+
+
+4.
+One type of subunit can be converted into another through biochemical
+reactions in the body.
+
+
+
+5.
+Function follows structure.  A small change in structure can lead to a
+big change in function.
+
+
+
+6.
+The elements in living things, including CHNOPS and about 25 others, all
+occur in the non-living as well as the living world.  Carbon, for example, is
+found in diamonds and graphite, carbon dioxide, and gasoline as well as living
+things.
+
+
+
+
+7.
+Life is highly organized.  Organization requires a continuous investment of
+energy.  Energy is stored in the bonds of molecules.  Each type of bond contains
+a different amount of energy (Table 4).
+
+
+
+
+8.
+The body manages energy carefully, transferring it from one molecule to
+another, driving synthetic reactions with it, making changes in small incremental
+steps, and releasing some energy as heat.
+Table 4.  Bond Energies in Organic Molecules
+
+Type of Bond Bond Energy per Molecule
+(kilo calories)
+C - C 82.6
+C - O 85.5
+C - H 98.7
+O - H 110.6
+C = O 176.0
+C - N 72.8
+N - H 93.4
+
+
+
+
+Organic Molecules I
+(Five Pages)
+Cut these five sheets into cards
+
+
+
+
+
+
+
+
+Organic Molecules II
+(Five Pages Identical to Previous Ones)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+Organic Molecules III
+(Five Pages Identical to Previous Ones 
+But With Names Added For Reference)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+
+SupplementaryResources
+
+
+Griffiths, A. K, & Preston, K. R. (1992). Grade-12 students'
+misconceptions relating to fundamental characteristics of atoms and molecules.
+Journal of Research in Science Teaching (29) n6, p611-28.
+(EJ458310).
+
+Hardwicke, A. J. (1995). Using molecular models to teach chemistry. Part I:
+Modeling molecules. School Science Review (77) n278, p 59-64.
+(EJ520774).
+
+Hoehn, R. G. (1991). Making models of chemical compounds. Science Activities (28) n4, p23-25. (EJ447768). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pattern Matching: Organic Molecules
+
+
+Grade Level
+
+Prospective and Practicing K-8 Teachers; may be adapted 
+	for use in elementary classes.
+Time
+
+
+Exercises 1-3 take approximately 2 1/2 hours. 
+
+To Ponder
+
+
+1.
+What are living things made of?  Sugar and spice and everything nice?  Snips and
+snails and puppy dog tails?
+
+
+2.
+Living things are different from non-living things, aren't they?  Does
+that mean that they are made from different kinds of atoms than those in
+non-living things?  Different kinds of molecules?
+
+
+3.
+There may be as many as 10,000 different kinds of molecules in a living thing. 
+But are there a few common patterns? A few common functions?
+
+
+
+
+Supplies
+
+
+
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+
+
+
+
+
+Objectives
+
+
+Once you have completed these exercises you should be able
+to: 
+
+
+1.
+Know what an organic molecule  is and how it differs from an inorganic molecule .
+
+
+2.
+Identify the major classes of organic molecules.
+
+
+3.
+Identify the distinguishing features of each class of molecules.
+
+
+4.
+Given a typical example of an organic molecule, identify the class to which it belongs.
+
+
+5.
+Know where you are likely to find organic molecules.
+
+
+6.
+Appreciate the prevalence and value of patterns in biology.
+
+
+
+
+BackgroundInformation
+
+
+Pattern Matching
+Studying science is in many ways like piecing together a puzzle.  For this
+reason, pattern matching is an important skill.  Biologists are constantly
+looking for significant patterns in nature.  Even biological molecules are
+pattern matchers.  Biological enzymes are a good example - each enzyme typically
+recognizes one and only one type of molecule or pair of molecules.  
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+
+
+
+
+
+Exercise 1
+Identifying Categories of Biological Molecules
+
+Background Information
+
+
+1.
+The objects you will be sorting are basic building blocks
+(subunits) of common macromolecules in living things.  Do
+NOT refer to your books during this exercise.  Use your own
+judgment in doing the sorting.
+
+To Do
+
+2.
+Remove from your book the first five pages of molecules only
+ (Part I, 5 pages)  Do not remove the second set of
+unlabeled molecules (Part II) or the set of labeled molecules (Part III).
+
+
+
+
+3.
+Cut the one set of the unlabeled molecules (Part I) that you
+have removed from your book.  Cut each page along the dividing lines to produce 9
+cards per page for the first four pages  and 6 cards on the fifth page for a
+total of 42 cards.  
+
+
+
+4.
+Organize the 42 cards into groups based upon structural similarities.  Pay special attention to: 
+
+the elements (CHNOPS) in the molecule, 
+		the shape of the molecule,
+		patterns within the molecule, and 
+		the ends of the molecule.  
+
+
+
+Question
+
+5.
+How many groups of molecules do you have?  _____ Compare your categories with
+those of your team mates.  
+
+Describe
+
+6.
+In Table 2, describe each group of molecules and its distinguishing features.
+ You will probably have five to eleven or so categories.  This table provides
+spaces for up to eleven types.  Please do not feel any particular need to use all
+eleven categories, and also feel free to create more categories if you feel it is
+necessary.  Ignore the last column, 'Type of Molecules', until you get to
+Exercise 2. 
+Table 2.  Molecular Groups and
+this Characteristics
+
+Sketch of MoleculeAtoms PresentKey Features# in GroupType of Molecule
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+Exercise 2
+
+Interpreting Molecular Structures
+
+BackgroundInformation
+
+
+Chemists and other scientists use a variety of representational
+styles or conventions for drawing molecules, and they shift easily between them.
+
+
+Review the following molecule descriptions with your peers, checking your groups
+of molecules against the organizations here and at the same time (a) learn a bit
+about how to read and interpret molecular formulas and (b) learn about the
+different groups of organic molecules.
+
+Group 1
+
+Amino Acids - Building Blocks of Proteins
+
+
+Background Information
+
+
+1.
+Amino acids are the building blocks of
+proteins - molecules that play many important roles in the body
+(including muscle structure, hormones,
+antibodies, hemoglobin for carrying oxygen,
+other transport proteins for carrying molecules across cell
+membranes, toxins, and chemical messengers in
+the nervous system). 
+
+
+2.
+Figure 1 shows a "generic" amino acid. Another (more compact) way to represent the same molecule is 
+"NH3+ - CHR - COO-" or "NH3+ - CHR - COOH".
+Figure 1. "Generic" Amino Acid
+
+
+
+
+3.
+The "-N-C-C-" in the center of the molecule is known as its
+backbone  and is a defining feature of amino acids.  The
+backbones are linked together in a linear chain when amino acids are combined to
+form a protein.  A typical protein chain may contain 150 - 1000 or more amino
+acids.
+Figure 2.  Protein Backbone
+
+
+Questions
+
+4.
+In Figure 3, below, which group is positively charged? ____  The charge
+exists  because the nitrogen has formed four bonds instead of the usual three (a
+covalent bond with carbon, a covalent bond with each of two hydrogen atoms, and a
+hydrogen bond with a positively charged hydrogen ion).  The hydrogen ion is
+easily lost and gained via dynamic transitions.  The "NH3+" group is
+known as an amine group.
+
+
+
+5.
+Are the bonds between the nitrogen and the hydrogen atoms shown in Figure 1? 
+____  Explain.
+
+
+
+6.
+In Figure 3, what atom is negatively charged? _____  The negative charge
+arises when a hydroxyl group ("-OH") gives up a positively charged hydrogen atom
+("H+"), leaving the negatively charged oxygen atom ("O-").  The entire group, "-
+COOH" or "-COO-", is known as a carboxyl group.  The
+amine and carboxyl groups and the
+"N-C-C-" backbone are defining features of amino acids. 
+
+
+
+
+7.
+Are the bonds between the carbon and oxygen atoms shown here? ____  Explain.
+
+
+
+8.
+Each amino acid has a different side group that is represented by "R" in
+Figures 1 and 2.  Two amino acids with their particular side groups are shown
+below. 
+Figure 3.  Side Groups in Asparagine & Valine
+
+
+To Do
+
+9.
+Draw three other amino acids below:  Look at Organic Molecules III to find
+the name of each molecule and label accordingly.
+Drawing 1.  Draw Three Additional Amino Acids
+
+
+ 
+ 
+ 
+
+
+Questions
+
+10.
+There are 20 common amino acids.  How many do you have in your set?  ____  
+
+
+
+11.
+Can you name three different functions performed by proteins in your body?
+
+To Do
+
+12.
+Paste your amino acids here and label each one (refer to the molecules in
+Organic Molecules III or to your text for help).
+Drawing 2. Paste & Label the Amino
+Acids in Your Molecule Set
+
+ 
+
+
+Questions
+
+13.
+Can you name some amino acids you have heard of before and indicate where you heard of them?
+
+
+
+14.
+Which of the CHNOPS elements are contained in all amino
+acids?  _____________  In addition, two important amino acids,
+methionine and cysteine, also contain
+sulfur and can be phosphorylated. 
+
+
+
+15.
+To review, what is the major class of organic molecules described in this
+section? _____________  
+
+
+
+16.
+What are the subunits or building blocks of this class of molecules?  _____________  
+
+
+
+17.
+How many different kinds of these subunits are commonly found in the body? ________  
+
+
+
+18.
+How many different proteins do you think can be built from this number of
+subunits?  Explain your reasoning.
+
+
+
+
+Group 2
+
+Steroids - Type of Lipid
+Multiple Ring Structures
+
+Background Information
+
+
+1.
+Organic chemists use many shortcuts in drawing complex molecules.  They often
+do not include the letter C for carbon, for example.  In the molecule below,
+there is a carbon atom (not drawn in most cases) at every point of each of the
+four rings and in the side chain.
+
+
+2.
+ Cholesterol, shown below, is a steroid. 
+Steroids are one type of molecule in the class of compounds
+known as lipids.  Cholesterol plays an important role in
+membrane formation. 
+Figure 4. Cholesterol
+
+
+To Do
+
+3.
+The bonds between the carbons are shown.  In all but one case the carbon
+atoms are connected to one another by a single bond (one pair of shared
+electrons).  In one ring there are two carbon atoms connected by a double bond. 
+Draw an arrow to point at the double bond in the drawing.
+
+
+
+4.
+To further simplify this drawing, none of the hydrogen atoms have been drawn.
+ However, since you know that each carbon atom forms four bonds, you can fill in
+all the missing hydrogen atoms.  Please do so now.
+
+Question
+
+5.
+Several carbons in the molecule already have four bonds and so will have no
+additional atoms (such as hydrogen) added.  How many of these did you find? 
+_____ 
+
+To Do
+
+6.
+Paste your steroids below, label each one by referring to part III, and draw
+in the hydrogen atoms.  Compare your drawings with those of your
+teammates.
+Drawing 3.  Paste & Label Your Steroids
+
+ 
+
+
+
+
+Group 3
+
+Fatty Acids - Building Blocks of Fats and Oils
+Long Hydrocarbon Chains
+
+Background Information
+
+
+1.
+You should have some long hydrocarbon chains with a
+carboxyl group at one end.  One of the defining features of
+these hydrocarbon chains is the absence of oxygen except in one carboxyl group at
+one end of the molecule.
+
+
+2.
+These hydrocarbon
+chains are fatty
+acids.  Fatty
+acids are the building blocks of oils and
+fats, which are also known as
+lipids.  There are similarly,
+two fatty acids in each of the
+millions of phospholipids that make up your
+cell membranes.
+Figure 5.   Three Representations of a Fatty Acid (lauric acid)
+
+
+
+
+3.
+Fatty acids that contain no double bonds are saturated .  An unsaturated fatty acid contains one or more double bonds
+(Figure 6).
+Figure 6.  Unsaturated Fatty Acid (oleic acid)
+
+
+
+
+4.
+Fats are the most concentrated energy source in our diets, furnishing about
+2.5 times the energy that sugar does, gram for gram.  We store energy for future
+use in fats.  Fats also insulate and protect the body and many internal
+organs.
+
+
+
+5.
+Fats make up about 40% of the American diet, although nutritionists recommend
+no more than 30%.  Nutritionists also recommend lowering the proportion of
+saturated fats and increasing the proportion of
+polyunsaturated fats to reduce heart disease and
+artherosclerosis. 
+
+Question
+
+6.
+How many fatty acids do you have in your collection? ___  
+		How many are saturated? ___  
+		How many are monounsaturated? ___
+
+To Do
+
+7.
+Paste your fatty acids below.  Label each fatty acid and underneath it draw
+an alternative representation as shown in Figure 5 above.
+Drawing 4.  Paste & Label Your Fatty Acids
+
+ 
+
+Question
+
+8.
+Are fats and oils polar or non-polar? _________
+Explain your reasoning.
+
+
+
+9.
+Are fatty acids, fats and oils water soluble?  Explain.
+
+Review
+
+10.
+The membranes of cells and organelles are made of
+phospholipids.  Phospholipids are amphipathic
+molecules that have a polar phosphate group at one end and two non polar
+fatty acids at the other, held together by a glycerol molecule.  Look at a
+phospholipid in your book.
+
+
+
+
+Group 4
+
+Sugars - Building Blocks of Carbohydrates
+Sugars - Building Blocks of Carbohydrates
+
+Background Information
+
+
+1.
+Sugars are the building blocks of carbohydrates.  They are literally hydrates
+of carbon, having the general formula
+"Cn(H2O)n".  Sugars are burned (oxidized) to
+release energy in cellular respiration and they play an
+important role in homeostasis.  Your body maintains the level of
+the sugar glucose in your blood within a very narrow range. 
+Glucose is the immediate source of energy for your cells.
+
+
+
+
+2.
+Sugars occur as ring structures.  There are monosaccharides
+(single rings), disaccharides (double rings), and larger.  In
+solution, single rings can dynamically change from straight chains to rings and
+back to straight chains.  A straight chain sugar is shown below
+(Figure 6).  Notice that every carbon has an oxygen attached to it.
+Figure 7. Straight Chain Representation of a Sugar (ribulose)
+
+
+
+Question
+
+3.
+How many straight chain sugars do you have in your set?
+
+
+
+4.
+Are sugar molecules polar? ______  If so, what causes the polarity?
+
+
+
+5.
+Based on what you know so far, which of the CHNOPS elements are contained in
+sugars?  ______________ 
+
+
+
+6.
+How many single ring monosaccharides are in your molecule set?  _____  
+
+
+
+7.
+How many disaccharides are in your molecule set?  ____
+
+To Do
+
+8.
+One of the disaccharides is common table sugar.  Draw its structure below.
+Drawing 5.  Common table sugar (sucrose)
+ 
+
+Background Information
+
+
+9.
+Sugars can be joined together in long chains to form macromolecules called
+starch, cellulose, and
+glycogen (animal starch).  Starch (in plants)
+and glycogen (in animals) are easily broken down into sugars for
+energy.  Cellulose, on the other hand, which is made in plants,
+can be broken down only by a few organisms in the world (primarily the bacteria
+in the guts of termites).  Yet all three types of macromolecules
+are made of long chains of sugar, and cellulose differs only by a small change in
+the connecting bond between each pair of sugars.
+
+To Do
+
+10.
+In the space below, paste all your sugars, including straight chain
+sugars, monosaccharides, and
+disaccharides.  Label each molecule.
+Drawing 6.  Sugars
+ 
+
+
+Question
+
+11.
+Do all sugars have an oxygen attached to every carbon? __________
+
+
+
+
+Group 5
+
+Nucleic Acids
+Single and Double Ring Molecules Containing Nitrogen
+
+Background Information
+
+
+1.
+So far we have identified three of the four major classes of molecules in living things: 
+
+proteins and their subunits amino acids,
+lipids including fats and
+oils with their subunits, fatty acids, and
+steroids,
+carbohydrates, including starch,
+cellulose, and glycogen (animal starch) with
+their subunits, sugars.
+
+
+
+
+
+2.
+Proteins, lipids and
+carbohydrates are all recognized as major food groups as well as
+major classes of molecules.  
+
+
+
+3.
+In contrast, nucleic acids, the fourth and last major group
+of molecules, is not a major food group.  Nucleic acids include two kinds of
+molecules, RNA (ribonucleic acid) and
+DNA (deoxyribonucleic acid), and their
+subunits.
+
+
+
+4.
+In most organisms, DNA contains the genetic blueprint for
+the organism and is reproduced in its entirety in every cell of its body. 
+RNA helps to translate the information in DNA
+into the production of thousands of different kinds of proteins,
+which in turn control development of the organism.
+
+
+
+5.
+Each nucleotide or complete subunit of a nucleic acid has
+three parts, a nitrogenous base, a five-carbon
+sugar, and 1 to 3 phosphate groups (Figure
+8).
+Figure 8.  Parts of a Nucleotide (uracil triphosphate)
+
+
+
+
+
+6.
+The nitrogenous bases consist of single or double rings, and
+each ring contains two nitrogens.  DNA contains four nitrogenous
+bases: adenine (A) and guanine
+(G), each with double rings, and cytosine 
+(C), and thymine (T), with
+single rings.  RNA contains three of these, A,
+G, and C, and a fourth base,
+uracil (U).
+
+
+
+7.
+How many nitrogenous bases do you have?  Paste and label them below.
+Drawing 7.  Paste & Label
+Nitrogenous Bases
+ 
+
+
+
+
+8.
+A nitrogenous base is combined with a five-carbon
+sugar, either ribose (for RNA) or
+deoxyribose (for DNA), as shown below. The arrows in Figure 9
+point to the single structural difference between ribose and
+deoxyribose.
+Figure 9. Ribose and Deoxyribose
+
+
+To Do
+
+9.
+How many molecules do you have that contain both a nitrogenous
+base and a five-carbon sugar?  ____  These are called
+nucleosides.  Paste and label them on the next
+page.
+Drawing 8.  Paste & Label
+Nitrogenous Base & Sugar Molecules 
+(nucleosides) Below
+ 
+
+
+
+10.
+Nucleosides can combine with one, two or three
+phosphates.  The greater the number of phosphates, the greater
+the energy contained in the molecule.  Adenine triphosphate
+(ATP) is not only a major subunit of DNA and
+RNA, but also is a major energy carrier in living systems.  How
+many nitrogenous bases do you have that are combined with a
+sugar and one or more phosphates?  _____  Paste and label them
+below.
+
+Drawing 9.  Paste & Label
+Nucleoside Mono-, Di-, & Triphosphates Below
+ 
+
+
+
+
+11.
+In summary, which of the CHNOPS elements are contained in nucleic acids? _____________________ 
+
+
+
+12.
+The nucleotides from which nucleic acids are synthesized contain what three
+parts?  _____________________ _____________________ _____________________
+
+
+
+
+13.
+The four nitrogenous bases in DNA are: ____________ ____________  ____________  ____________ 								 
+
+
+
+
+14.
+The four nitrogenous bases in RNA are: ____________ ____________  ____________  ____________ 																		 
+
+
+
+
+
+Exercise 3
+Summary
+
+
+
+1.
+Organic molecules are carbon-based, whereas
+inorganic molecules are not.
+
+Predict
+
+2.
+There are four major classes of organic:
+
+proteins - the workhorses (enzymes, hormones, carriers, etc.) of the cells
+lipids - energy storage & protection, hormones, cholesterol , phospholipids (membrane structure)
+carbohydrates - energy carriers, structural units
+nucleic acids - genetic information
+
+
+Table 3. Summary Organic Molecules
+
+Class Building Blocks Macromolecules Atoms
+Proteins Amino Acids Enzymes, Hormones CHONS 
+    Identifier Proteins  
+    Carrier Proteins  
+    Hemoglobin  
+    Antibodies  
+    Spindle Fibers, etc.  
+Lipids Fatty Acids Steroids CHO
+  Glycerol Oils
+Waxes  
+Carbohydrates Sugars Starches CHO 
+    Cellulose  
+Nucleic Acids Nucleotides DNA, RNA CHONP
+
+
+
+
+3.
+Each class of macromolecules is built up from subunits. 
+Except for cellulose, they are easily assembled and
+disassembled.
+
+
+
+
+4.
+One type of subunit can be converted into another through biochemical
+reactions in the body.
+
+
+
+5.
+Function follows structure.  A small change in structure can lead to a
+big change in function.
+
+
+
+6.
+The elements in living things, including CHNOPS and about 25 others, all
+occur in the non-living as well as the living world.  Carbon, for example, is
+found in diamonds and graphite, carbon dioxide, and gasoline as well as living
+things.
+
+
+
+
+7.
+Life is highly organized.  Organization requires a continuous investment of
+energy.  Energy is stored in the bonds of molecules.  Each type of bond contains
+a different amount of energy (Table 4).
+
+
+
+
+8.
+The body manages energy carefully, transferring it from one molecule to
+another, driving synthetic reactions with it, making changes in small incremental
+steps, and releasing some energy as heat.
+Table 4.  Bond Energies in Organic Molecules
+
+Type of Bond Bond Energy per Molecule
+(kilo calories)
+C - C 82.6
+C - O 85.5
+C - H 98.7
+O - H 110.6
+C = O 176.0
+C - N 72.8
+N - H 93.4
+
+
+
+
+Organic Molecules I
+(Five Pages)
+Cut these five sheets into cards
+
+
+
+
+
+
+
+
+Organic Molecules II
+(Five Pages Identical to Previous Ones)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+Organic Molecules III
+(Five Pages Identical to Previous Ones 
+But With Names Added For Reference)
+Save these sheets in your notebook for future use.
+
+
+
+
+
+
+
+
+
+SupplementaryResources
+
+
+Griffiths, A. K, & Preston, K. R. (1992). Grade-12 students'
+misconceptions relating to fundamental characteristics of atoms and molecules.
+Journal of Research in Science Teaching (29) n6, p611-28.
+(EJ458310).
+
+Hardwicke, A. J. (1995). Using molecular models to teach chemistry. Part I:
+Modeling molecules. School Science Review (77) n278, p 59-64.
+(EJ520774).
+
+Hoehn, R. G. (1991). Making models of chemical compounds. Science Activities (28) n4, p23-25. (EJ447768). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pattern Matching: Organic Molecules
+
+
+Grade Level
+
+Prospective and Practicing K-8 Teachers; may be adapted 
+	for use in elementary classes.
+Time
+
+
+Exercises 1-3 take approximately 2 1/2 hours. 
+
+To Ponder
+
+
+1.
+What are living things made of?  Sugar and spice and everything nice?  Snips and
+snails and puppy dog tails?
+
+
+2.
+Living things are different from non-living things, aren't they?  Does
+that mean that they are made from different kinds of atoms than those in
+non-living things?  Different kinds of molecules?
+
+
+3.
+There may be as many as 10,000 different kinds of molecules in a living thing. 
+But are there a few common patterns? A few common functions?
+
+
+
+
+Supplies
+
+
+
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+
+
+
+
+
+Objectives
+
+
+Once you have completed these exercises you should be able
+to: 
+
+
+1.
+Know what an organic molecule  is and how it differs from an inorganic molecule .
+
+
+2.
+Identify the major classes of organic molecules.
+
+
+3.
+Identify the distinguishing features of each class of molecules.
+
+
+4.
+Given a typical example of an organic molecule, identify the class to which it belongs.
+
+
+5.
+Know where you are likely to find organic molecules.
+
+
+6.
+Appreciate the prevalence and value of patterns in biology.
+
+
+
+
+BackgroundInformation
+
+
+Pattern Matching
+Studying science is in many ways like piecing together a puzzle.  For this
+reason, pattern matching is an important skill.  Biologists are constantly
+looking for significant patterns in nature.  Even biological molecules are
+pattern matchers.  Biological enzymes are a good example - each enzyme typically
+recognizes one and only one type of molecule or pair of molecules.  
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+
+
+
+
+
+Exercise 1
+Identifying Categories of Biological Molecules
+
+Background Information
+
+
+1.
+The objects you will be sorting are basic building blocks
+(subunits) of common macromolecules in living things.  Do
+NOT refer to your books during this exercise.  Use your own
+judgment in doing the sorting.
+
+To Do
+
+2.
+Remove from your book the first five pages of molecules only
+ (Part I, 5 pages)  Do not remove the second set of
+unlabeled molecules (Part II) or the set of labeled molecules (Part III).
+
+
+
+
+3.
+Cut the one set of the unlabeled molecules (Part I) that you
+have removed from your book.  Cut each page along the dividing lines to produce 9
+cards per page for the first four pages  and 6 cards on the fifth page for a
+total of 42 cards.  
+
+
+
+4.
+Organize the 42 cards into groups based upon structural similarities.  Pay special attention to: 
+
+the elements (CHNOPS) in the molecule, 
+		the shape of the molecule,
+		patterns within the molecule, and 
+		the ends of the molecule.  
+
+
+
+Question
+
+5.
+How many groups of molecules do you have?  _____ Compare your categories with
+those of your team mates.  
+
+Describe
+
+6.
+In Table 2, describe each group of molecules and its distinguishing features.
+ You will probably have five to eleven or so categories.  This table provides
+spaces for up to eleven types.  Please do not feel any particular need to use all
+eleven categories, and also feel free to create more categories if you feel it is
+necessary.  Ignore the last column, 'Type of Molecules', until you get to
+Exercise 2. 
+Table 2.  Molecular Groups and
+this Characteristics
+
+Sketch of MoleculeAtoms PresentKey Features# in GroupType of Molecule
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+
+
+
+Exercise 2
+
+Interpreting Molecular Structures
+
+BackgroundInformation
+
+
+Chemists and other scientists use a variety of representational
+styles or conventions for drawing molecules, and they shift easily between them.
+
+
+Review the following molecule descriptions with your peers, checking your groups
+of molecules against the organizations here and at the same time (a) learn a bit
+about how to read and interpret molecular formulas and (b) learn about the
+different groups of organic molecules.
+
+Group 1
+
+Amino Acids - Building Blocks of Proteins
+
+
+Background Information
+
+
+1.
+Amino acids are the building blocks of
+proteins - molecules that play many important roles in the body
+(including muscle structure, hormones,
+antibodies, hemoglobin for carrying oxygen,
+other transport proteins for carrying molecules across cell
+membranes, toxins, and chemical messengers in
+the nervous system). 
+
+
+2.
+Figure 1 shows a "generic" amino acid. Another (more compact) way to represent the same molecule is 
+"NH3+ - CHR - COO-" or "NH3+ - CHR - COOH".
+Figure 1. "Generic" Amino Acid
+
+
+
+
+3.
+The "-N-C-C-" in the center of the molecule is known as its
+backbone  and is a defining feature of amino acids.  The
+backbones are linked together in a linear chain when amino acids are combined to
+form a protein.  A typical protein chain may contain 150 - 1000 or more amino
+acids.
+Figure 2.  Protein Backbone
+
+
+Questions
+
+4.
+In Figure 3, below, which group is positively charged? ____  The charge
+exists  because the nitrogen has formed four bonds instead of the usual three (a
+covalent bond with carbon, a covalent bond with each of two hydrogen atoms, and a
+hydrogen bond with a positively charged hydrogen ion).  The hydrogen ion is
+easily lost and gained via dynamic transitions.  The "NH3+" group is
+known as an amine group.
+
+
+
+5.
+Are the bonds between the nitrogen and the hydrogen atoms shown in Figure 1? 
+____  Explain.
+
+
+
+6.
+In Figure 3, what atom is negatively charged? _____  The negative charge
+arises when a hydroxyl group ("-OH") gives up a positively charged hydrogen atom
+("H+"), leaving the negatively charged oxygen atom ("O-").  The entire group, "-
+COOH" or "-COO-", is known as a carboxyl group.  The
+amine and carboxyl groups and the
+"N-C-C-" backbone are defining features of amino acids. 
+
+
+
+
+7.
+Are the bonds between the carbon and oxygen atoms shown here? ____  Explain.
+
+
+
+8.
+Each amino acid has a different side group that is represented by "R" in
+Figures 1 and 2.  Two amino acids with their particular side groups are shown
+below. 
+Figure 3.  Side Groups in Asparagine & Valine
+
+
+To Do
+
+9.
+Draw three other amino acids below:  Look at Organic Molecules III to find
+the name of each molecule and label accordingly.
+Drawing 1.  Draw Three Additional Amino Acids
+
+
+ 
+ 
+ 
+
+
+Questions
+
+10.
+There are 20 common amino acids.  How many do you have in your set?  ____  
+
+
+
+11.
+Can you name three different functions performed by proteins in your body?
+
+To Do
+
+12.
+Paste your amino acids here and label each one (refer to the molecules in
+Organic Molecules III or to your text for help).
+Drawing 2. Paste & Label the Amino
+Acids in Your Molecule Set
+
+ 
+
+
+Questions
+
+13.
+Can you name some amino acids you have heard of before and indicate where you heard of them?
+
+
+
+14.
+Which of the CHNOPS elements are contained in all amino
+acids?  _____________  In addition, two important amino acids,
+methionine and cysteine, also contain
+sulfur and can be phosphorylated. 
+
+
+
+15.
+To review, what is the major class of organic molecules described in this
+section? _____________  
+
+
+
+16.
+What are the subunits or building blocks of this class of molecules?  _____________  
+
+
+
+17.
+How many different kinds of these subunits are commonly found in the body? ________  
+
+
+
+18.
+How many different proteins do you think can be built from this number of
+subunits?  Explain your reasoning.
+
+
+
+
+Group 2
+
+Steroids - Type of Lipid
+Multiple Ring Structures
+
+Background Information
+
+
+1.
+Organic chemists use many shortcuts in drawing complex molecules.  They often
+do not include the letter C for carbon, for example.  In the molecule below,
+there is a carbon atom (not drawn in most cases) at every point of each of the
+four rings and in the side chain.
+
+
+2.
+ Cholesterol, shown below, is a steroid. 
+Steroids are one type of molecule in the class of compounds
+known as lipids.  Cholesterol plays an important role in
+membrane formation. 
+Figure 4. Cholesterol
+
+
+To Do
+
+3.
+The bonds between the carbons are shown.  In all but one case the carbon
+atoms are connected to one another by a single bond (one pair of shared
+electrons).  In one ring there are two carbon atoms connected by a double bond. 
+Draw an arrow to point at the double bond in the drawing.
+
+
+
+4.
+To further simplify this drawing, none of the hydrogen atoms have been drawn.
+ However, since you know that each carbon atom forms four bonds, you can fill in
+all the missing hydrogen atoms.  Please do so now.
+
+Question
+
+5.
+Several carbons in the molecule already have four bonds and so will have no
+additional atoms (such as hydrogen) added.  How many of these did you find? 
+_____ 
+
+To Do
+
+6.
+Paste your steroids below, label each one by referring to part III, and draw
+in the hydrogen atoms.  Compare your drawings with those of your
+teammates.
+Drawing 3.  Paste & Label Your Steroids
+
+ 
+
+
+
+
+Group 3
+
+Fatty Acids - Building Blocks of Fats and Oils
+Long Hydrocarbon Chains
+
+Background Information
+
+
+1.
+You should have some long hydrocarbon chains with a
+carboxyl group at one end.  One of the defining features of
+these hydrocarbon chains is the absence of oxygen except in one carboxyl group at
+one end of the molecule.
+
+
+2.
+These hydrocarbon
+chains are fatty
+acids.  Fatty
+acids are the building blocks of oils and
+fats, which are also known as
+lipids.  There are similarly,
+two fatty acids in each of the
+millions of phospholipids that make up your
+cell membranes.
+Figure 5.   Three Representations of a Fatty Acid (lauric acid)
+
+
+
+
+3.
+Fatty acids that contain no double bonds are saturated .  An unsaturated fatty acid contains one or more double bonds
+(Figure 6).
+Figure 6.  Unsaturated Fatty Acid (oleic acid)
+
+
+
+
+4.
+Fats are the most concentrated energy source in our diets, furnishing about
+2.5 times the energy that sugar does, gram for gram.  We store energy for future
+use in fats.  Fats also insulate and protect the body and many internal
+organs.
+
+
+
+5.
+Fats make up about 40% of the American diet, although nutritionists recommend
+no more than 30%.  Nutritionists also recommend lowering the proportion of
+saturated fats and increasing the proportion of
+polyunsaturated fats to reduce heart disease and
+artherosclerosis. 
+
+Question
+
+6.
+How many fatty acids do you have in your collection? ___  
+		How many are saturated? ___  
+		How many are monounsaturated? ___
+
+To Do
+
+7.
+Paste your fatty acids below.  Label each fatty acid and underneath it draw
+an alternative representation as shown in Figure 5 above.
+Drawing 4.  Paste & Label Your Fatty Acids
+
+ 
+
+Question
+
+8.
+Are fats and oils polar or non-polar? _________
+Explain your reasoning.
+
+
+
+9.
+Are fatty acids, fats and oils water soluble?  Explain.
+
+Review
+
+10.
+The membranes of cells and organelles are made of
+phospholipids.  Phospholipids are amphipathic
+molecules that have a polar phosphate group at one end and two non polar
+fatty acids at the other, held together by a glycerol molecule.  Look at a
+phospholipid in your book.
+
+
+
+
+Group 4
+
+Sugars - Building Blocks of Carbohydrates
+Sugars - Building Blocks of Carbohydrates
+
+Background Information
+
+
+1.
+Sugars are the building blocks of carbohydrates.  They are literally hydrates
+of carbon, having the general formula
+"Cn(H2O)n".  Sugars are burned (oxidized) to
+release energy in cellular respiration and they play an
+important role in homeostasis.  Your body maintains the level of
+the sugar glucose in your blood within a very narrow range. 
+Glucose is the immediate source of energy for your cells.
+
+
+
+
+2.
+Sugars occur as ring structures.  There are monosaccharides
+(single rings), disaccharides (double rings), and larger.  In
+solution, single rings can dynamically change from straight chains to rings and
+back to straight chains.  A straight chain sugar is shown below
+(Figure 6).  Notice that every carbon has an oxygen attached to it.
+Figure 7. Straight Chain Representation of a Sugar (ribulose)
+
+
+
+Question
+
+3.
+How many straight chain sugars do you have in your set?
+
+
+
+4.
+Are sugar molecules polar? ______  If so, what causes the polarity?
+
+
+
+5.
+Based on what you know so far, which of the CHNOPS elements are contained in
+sugars?  ______________ 
+
+
+
+6.
+How many single ring monosaccharides are in your molecule set?  _____  
+
+
+
+7.
+How many disaccharides are in your molecule set?  ____
+
+To Do
+
+8.
+One of the disaccharides is common table sugar.  Draw its structure below.
+Drawing 5.  Common table sugar (sucrose)
+ 
+
+Background Information
+
+
+9.
+Sugars can be joined together in long chains to form macromolecules called
+starch, cellulose, and
+glycogen (animal starch).  Starch (in plants)
+and glycogen (in animals) are easily broken down into sugars for
+energy.  Cellulose, on the other hand, which is made in plants,
+can be broken down only by a few organisms in the world (primarily the bacteria
+in the guts of termites).  Yet all three types of macromolecules
+are made of long chains of sugar, and cellulose differs only by a small change in
+the connecting bond between each pair of sugars.
+
+To Do
+
+10.
+In the space below, paste all your sugars, including straight chain
+sugars, monosaccharides, and
+disaccharides.  Label each molecule.
+Drawing 6.  Sugars
+ 
+
+
+Question
+
+11.
+Do all sugars have an oxygen attached to every carbon? __________
+
+
+
+
+Group 5
+
+Nucleic Acids
+Single and Double Ring Molecules Containing Nitrogen
+
+Background Information
+
+
+1.
+So far we have identified three of the four major classes of molecules in living things: 
+
+proteins and their subunits amino acids,
+lipids including fats and
+oils with their subunits, fatty acids, and
+steroids,
+carbohydrates, including starch,
+cellulose, and glycogen (animal starch) with
+their subunits, sugars.
+
+
+
+
+
+2.
+Proteins, lipids and
+carbohydrates are all recognized as major food groups as well as
+major classes of molecules.  
+
+
+
+3.
+In contrast, nucleic acids, the fourth and last major group
+of molecules, is not a major food group.  Nucleic acids include two kinds of
+molecules, RNA (ribonucleic acid) and
+DNA (deoxyribonucleic acid), and their
+subunits.
+
+
+
+4.
+In most organisms, DNA contains the genetic blueprint for
+the organism and is reproduced in its entirety in every cell of its body. 
+RNA helps to translate the information in DNA
+into the production of thousands of different kinds of proteins,
+which in turn control development of the organism.
+
+
+
+5.
+Each nucleotide or complete subunit of a nucleic acid has
+three parts, a nitrogenous base, a five-carbon
+sugar, and 1 to 3 phosphate groups (Figure
+8).
+Figure 8.  Parts of a Nucleotide (uracil triphosphate)
+
+
+
+
+
+6.
+The nitrogenous bases consist of single or double rings, and
+each ring contains two nitrogens.  DNA contains four nitrogenous
+bases: adenine (A) and guanine
+(G), each with double rings, and cytosine 
+(C), and thymine (T), with
+single rings.  RNA contains three of these, A,
+G, and C, and a fourth base,
+uracil (U).
+
+
+
+7.
+How many nitrogenous bases do you have?  Paste and label them below.
+Drawing 7.  Paste & Label
+Nitrogenous Bases
+ 
+
+
+
+
+8.
+A nitrogenous base is combined with a five-carbon
+sugar, either ribose (for RNA) or
+deoxyribose (for DNA), as shown below. The arrows in Figure 9
+point to the single structural difference between ribose and
+deoxyribose.
+Figure 9. Ribose and Deoxyribose
+
+
+To Do
+
+9.
+How many molecules do you have that contain both a nitrogenous
+base and a five-carbon sugar?  ____  These are called
+nucleosides.  Paste and label them on the next
+page.
+Drawing 8.  Paste & Label
+Nitrogenous Base & Sugar Molecules 
+(nucleosides) Below
+ 
+
+
+
+10.
+Nucleosides can combine with one, two or three
+phosphates.  The greater the number of phosphates, the greater
+the energy contained in the molecule.  Adenine triphosphate
+(ATP) is not only a major subunit of DNA and
+RNA, but also is a major energy carrier in living systems.  How
+many nitrogenous bases do you have that are combined with a
+sugar and one or more phosphates?  _____  Paste and label them
+below.
+
+Drawing 9.  Paste & Label
+Nucleoside Mono-, Di-, & Triphosphates Below
+ 
+
+
+
+
+11.
+In summary, which of the CHNOPS elements are contained in nucleic acids? _____________________ 
+
+
+
+12.
+The nucleotides from which nucleic acids are synthesized contain what three
+parts?  _____________________ _____________________ _____________________
+
+
+
+
+13.
+The four nitrogenous bases in DNA are: ____________ ____________  ____________  ____________ 								 
+
+
+
+
+14.
+The four nitrogenous bases in RNA are: ____________ ____________  ____________  ____________ 																		 
+
+
+
+
+
+Exercise 3
+Summary
+
+
+
+1.
+Organic molecules are carbon-based, whereas
+inorganic molecules are not.
+
+Predict
+
+2.
+There are four major classes of organic:
+
+proteins - the workhorses (enzymes, hormones, carriers, etc.) of the cells
+lipids - energy storage & protection, hormones, cholesterol , phospholipids (membrane structure)
+carbohydrates - energy carriers, structural units
+nucleic acids - genetic information
+
+
+Table 3. Summary Organic Molecules
+
+Class Building Blocks Macromolecules Atoms
+Proteins Amino Acids Enzymes, Hormones CHONS 
+    Identifier Proteins  
+    Carrier Proteins  
+    Hemoglobin  
+    Antibodies  
+    Spindle Fibers, etc.  
+Lipids Fatty Acids Steroids CHO
+  Glycerol Oils
+Waxes  
+Carbohydrates Sugars Starches CHO 
+    Cellulose  
+Nucleic Acids Nucleotides DNA, RNA CHONP
+
+
+
+
+3.
+Each class of macromolecules is built up from subunits. 
+Except for cellulose, they are easily assembled and
+disassembled.
+
+
+
+
+4.
+One type of subunit can be converted into another through biochemical
+reactions in the body.
+
+
+
+5.
+Function follows structure.  A small change in structure can lead to a
+big change in function.
+
+
+
+6.
+The elements in living things, including CHNOPS and about 25 others, all
+occur in the non-living as well as the living world.  Carbon, for example, is
+found in diamonds and graphite, carbon dioxide, and gasoline as well as living
+things.
+
+
+
+
+7.
+Life is highly organized.  Organization requires a continuous investment of
+energy.  Energy is stored in the bonds of molecules.  Each type of bond contains
+a different amount of energy (Table 4).
+
+
+
+
+8.
+The body manages energy carefully, transferring it from one molecule to
+another, driving synthetic reactions with it, making changes in small incremental
+steps, and releasing some energy as heat.
+Table 4.  Bond Energies in Organic Molecules
+
+Type of Bond Bond Energy per Molecule
+(kilo calories)
+C - C 82.6
+C - O 85.5
+C - H 98.7
+O - H 110.6
+C = O 176.0
+C - N 72.8
+N - H 93.4
+
+
+
+
+
+
+Pattern Matching: Organic Molecules
+
+Pattern Matching: Organic Molecules
+Pattern Matching: Organic MoleculesPattern Matching: Organic Molecules
+Grade Level
+
+Prospective and Practicing K-8 Teachers; may be adapted 
+	for use in elementary classes.
+Grade LevelGrade LevelGrade LevelProspective and Practicing K-8 Teachers; may be adapted 
+	for use in elementary classes.Time
+
+
+Exercises 1-3 take approximately 2 1/2 hours. Time
+TimeTime
+Exercises 1-3 take approximately 2 1/2 hours. 
+To Ponder
+
+
+1.
+What are living things made of?  Sugar and spice and everything nice?  Snips and
+snails and puppy dog tails?
+To Ponder
+To PonderTo Ponder
+1.
+What are living things made of?  Sugar and spice and everything nice?  Snips and
+snails and puppy dog tails?
+
+2.
+Living things are different from non-living things, aren't they?  Does
+that mean that they are made from different kinds of atoms than those in
+non-living things?  Different kinds of molecules?2.
+Living things are different from non-living things, aren't they?  Does
+that mean that they are made from different kinds of atoms than those in
+non-living things?  Different kinds of molecules?different
+
+3.
+There may be as many as 10,000 different kinds of molecules in a living thing. 
+But are there a few common patterns? A few common functions?3.
+There may be as many as 10,000 different kinds of molecules in a living thing. 
+But are there a few common patterns? A few common functions?
+
+
+
+
+
+
+Supplies
+
+
+
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+Supplies
+SuppliesSupplies
+
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+           Cutout molecules (in lab manual)
+Glue
+Scissors (one pair per student)
+
+
+
+
+
+
+
+Objectives
+
+
+Once you have completed these exercises you should be able
+to: Objectives
+ObjectivesObjectives
+Once you have completed these exercises you should be able
+to:  
+
+1.
+Know what an organic molecule  is and how it differs from an inorganic molecule .1.Know what an organic molecule  is and how it differs from an inorganic molecule .organic moleculeorganic moleculeinorganic moleculeinorganic molecule
+
+2.
+Identify the major classes of organic molecules.2.Identify the major classes of organic molecules.
+
+3.
+Identify the distinguishing features of each class of molecules.3.Identify the distinguishing features of each class of molecules.
+
+4.
+Given a typical example of an organic molecule, identify the class to which it belongs.4.Given a typical example of an organic molecule, identify the class to which it belongs.
+
+5.
+Know where you are likely to find organic molecules.5.Know where you are likely to find organic molecules.
+
+6.
+Appreciate the prevalence and value of patterns in biology.6.Appreciate the prevalence and value of patterns in biology.
+
+
+
+
+
+
+BackgroundInformation
+
+
+Pattern Matching
+Studying science is in many ways like piecing together a puzzle.  For this
+reason, pattern matching is an important skill.  Biologists are constantly
+looking for significant patterns in nature.  Even biological molecules are
+pattern matchers.  Biological enzymes are a good example - each enzyme typically
+recognizes one and only one type of molecule or pair of molecules.  
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+BackgroundInformation
+BackgroundInformationBackgroundInformation
+Pattern Matching
+Studying science is in many ways like piecing together a puzzle.  For this
+reason, pattern matching is an important skill.  Biologists are constantly
+looking for significant patterns in nature.  Even biological molecules are
+pattern matchers.  Biological enzymes are a good example - each enzyme typically
+recognizes one and only one type of molecule or pair of molecules.  
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+Pattern MatchingPattern Matching
+
+Table 1 reviews the CHNOPS atoms found in living organisms and some of their
+properties. These atoms also occur in non-living things. As you work, notice if
+the atoms in your molecules follow the indicated bonding patterns.
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+Table 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]Table 1.  CHNOPS: Common Elements
+in Living ThingsTable 1.  CHNOPS: Common Elements
+in Living Things
+
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]
+Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of Bonds
+C carbon 6 12 4
+H hydrogen 1 1 1
+N nitrogen 7 14 3
+O oxygen 8 16 2
+P phosphorus 15 30 5
+S sulfur 16 32 2, [4, 6]Abbreviation
+Name Atomic
+Number Atomic
+Weight Usual # of BondsAbbreviationAbbreviationNameNameAtomic
+NumberAtomic
+NumberAtomic
+WeightAtomic
+WeightUsual # of BondsUsual # of BondsC carbon 6 12 4CCcarbon6124H hydrogen 1 1 1HHhydrogen111N nitrogen 7 14 3NNnitrogen7143O oxygen 8 16 2OOoxygen8162P phosphorus 15 30 5PPphosphorus15305S sulfur 16 32 2, [4, 6]SSsulfur16322, [4, 6]
+
+
+
+
+
+
+Exercise 1
+Identifying Categories of Biological Molecules

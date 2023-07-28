@@ -1,0 +1,4 @@
+(0.2792762289088714, 'The study examined the impact of a 12-week trial of Cool Kids Outreach ( Outreach materials based on the Cool Kids anxiety program ) for parents of children with anxiety disorders .')
+(0.2553063537471376, 'The Cool Kids program has been rated by the CEBC in the area of : Anxiety Treatment ( Child & amp ; Adolescent ) .')
+(0.2540904811278668, 'Participants were randomized to one of three groups : group treatment ( Cool Kids ) , bibliotherapy ( Cool Kids Outreach ) Outreach and to waitlist .')
+(0.21132693621612408, 'Location / Institution : Macquarie University Anxiety Research Unit Summary : ( To include comparison groups , outcomes , measures , notable limitations )')

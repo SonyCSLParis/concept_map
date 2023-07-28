@@ -1,0 +1,3 @@
+(0.34476787671740267, "While the Internet can be a unique educational and recreational resource for children , it 's important that kids learn how to use this powerful tool safely and responsibly .")
+(0.3346495881547294, 'The goal of this Web site is to empower [children; parents; teachers] , [children; parents; teachers] and [children; parents; teachers] to prevent cyber crime through knowledge of the law , [children; parents; teachers] rights and how to avoid misuse of the Internet .')
+(0.3205825351278676, 'As Internet connections vary , it may take some time for your computer to download the file .')

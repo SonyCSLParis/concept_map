@@ -1,0 +1,3 @@
+(0.3429748009111081, '`` This site provides learning tools site K-12 students , parents , and teachers .')
+(0.332879036491482, 'The resources on this site can be adapted site use with parents who have reading difficulties or to help parents who have children with learning differences .')
+(0.32414616259740914, "This Web site is a part of NCLD 's ( National Center for Learning Disabilities ) initiative to provide parents , educators , health-care professional and advocates with information to help build early literacy skills by integrating emergent literacy screening and learning activities into routine early childhood education , child-care and parenting practices . ''")

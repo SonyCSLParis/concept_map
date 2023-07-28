@@ -1,1 +1,2 @@
-teachers, are, adults
+teachers, are, teachers
+adults, be, aware

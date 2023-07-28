@@ -1,0 +1,3 @@
+(0.34489937153743677, 'Like other private schools, most independently owned Montessori schools are funded by tuition revenue.')
+(0.337560050994835, 'Teachers in public Montessori schools have a dual responsibility.')
+(0.3175405774677276, 'Some schools offer all levels of learning, from infant/toddler through the secondary (high school) level.')

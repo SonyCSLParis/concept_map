@@ -1,0 +1,3 @@
+(0.3627747474175377, "If children do n't have time , then you must tell children one is important to you and you need the time .")
+(0.3324625797198259, 'Some children have depression because no one has the time to talk with children .')
+(0.30476267286263625, 'If you have any problems with any of these websites or you feel websites content should not be on this website , send us an e-mail : info @ A-Better-Child.org .')

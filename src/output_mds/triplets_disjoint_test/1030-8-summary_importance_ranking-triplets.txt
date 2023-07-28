@@ -1,10 +1,11 @@
 teacher, penalize, student
 teacher, penalize, beyond 
 Board, be, responsibility
-discipline, be, responsibility
-student, given, credit
+principal, given, credit
 he, fails, do
 she, fails, do
-he, had, absence
-she, had, absence
+he, had, principal
+she, had, principal
 her, having, privilege
+her, having, making
+Corporal, making, work

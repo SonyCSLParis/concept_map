@@ -1,7 +1,5 @@
 Center, has, articles
 site, has, articles
-site, has, from Center GT
-site, has, on Gifted GT
+page, intended, be
 Site, has, lots
 site, has, lots
-page, intended, be

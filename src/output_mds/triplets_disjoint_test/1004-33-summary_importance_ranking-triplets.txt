@@ -1,7 +1,8 @@
 Factors, is, evidence
-percent, have, disorder
-percent, have, before 
+Factors, is, percent
 who, commit, suicide
+who, commit, disorder
+who, commit, before 
 research, found, are
 children, are, likely
 children, experience, disorder
