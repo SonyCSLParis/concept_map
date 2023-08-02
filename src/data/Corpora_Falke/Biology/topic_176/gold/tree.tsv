@@ -1,0 +1,14 @@
+tree	$HYPERNYM	bark
+tree	$HYPERNYM	fruit
+tree	$HYPERNYM	leaf
+tree	$HYPERNYM	nut
+tree	$HYPERNYM	seed
+tree	$HYPONYM	plant
+tree	$HYPONYM	producer
+tree	$HYPONYM	angiosperm
+tree	$HYPONYM	flowering plant
+tree	$HYPERNYM	flower
+tree	$HYPERNYM	leaves
+tree	$HYPERNYM	branches
+tree	$HYPERNYM	trunk
+tree	$HYPERNYM	roots

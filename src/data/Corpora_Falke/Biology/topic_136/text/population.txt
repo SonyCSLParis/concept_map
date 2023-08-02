@@ -1,0 +1,36 @@
+A population is a summation of all the organisms of the same group or species, which live in a particular geographical area, and have the capability of interbreeding.
+In ecology, the population of a certain species in a certain area is estimated using the Lincoln Index. The area that is used to define a sexual population is defined as the area where inter-breeding is potentially possible between any pair within the area. The probability of interbreeding is greater than the probability of cross-breeding with individuals from other areas. Under normal conditions, breeding is substantially more common within the area than across the border.
+In sociology, population refers to a collection of humans. Demography is a social science which entails the statistical study of human populations. This article refers mainly to human population.
+
+
+In population genetics a sexual population is a set of organisms in which any pair of members can breed together. This means that they can regularly exchange gametes to produce normally-fertile offspring, and such a breeding group is also known therefore as a gamodeme. This also implies that all members belong to the same of species, such as humans. If the gamodeme is very large (theoretically, approaching infinity), and all gene alleles are uniformly distributed by the gametes within it, the gamodeme is said to be panmictic. Under this state, allele (gamete) frequencies can be converted to genotype (zygote) frequencies by expanding an appropriate quadratic equation, as shown by Sir Ronald Fisher in his establishment of quantitative genetics.
+This seldom occurs in nature: localisation of gamete exchange – through dispersal limitations, or preferential mating, or cataclysm, or other cause – may lead to small actual gamodemes which exchange gametes reasonably uniformly within themselves, but are virtually separated from their neighbouring gamodemes. However, there may be low frequencies of exchange with these neighbours. This may be viewed as the breaking up of a large sexual population (panmictic) into smaller overlapping sexual populations. This failure of panmixia leads to two important changes in overall population structure: (1) the component gamodemes vary (through gamete sampling) in their allele frequencies when compared with each other and with the theoretical panmictic original (this is known as dispersion, and its details can be estimated using expansion of an appropriate binomial equation); and (2) the level of homozygosity rises in the entire collection of gamodemes. The overall rise in homozygosity is quantified by the inbreeding coefficient (f or φ). Note that all homozygotes are increased in frequency – both the deleterious and the desirable. The mean phenotype of the gamodemes collection is lower than that of the panmictic "original" – which is known as inbreeding depression. It is most important to note, however, that some dispersion lines will be superior to the panmictic original, while some will be about the same, and some will be inferior. The probabilities of each can be estimated from those binomial equations. In plant and animal breeding, procedures have been developed which deliberately utilise the effects of dispersion (such as line breeding, pure-line breeding, back-crossing). It can be shown that dispersion-assisted selection leads to the greatest genetic advance (ΔG = change in the phenotypic mean), and is much more powerful than selection acting without attendant dispersion. This is so for both allogamous (random fertilization) and autogamous (self-fertilization) gamodemes.
+
+
+Human population control is the practice of altering the rate of growth of a human population. Historically, human population control has been implemented with the goal of increasing the rate of population growth. In the period from the 1950s to the 1980s, concerns about global population growth and its effects on poverty, environmental degradation and political stability led to efforts to reduce population growth rates. While population control can involve measures that improve people's lives by giving them greater control of their reproduction, a few programmes, most notably the Chinese government's one-child per family policy, have resorted to coercive measures.
+In the 1970s, tension grew between population control advocates and women's health activists who advanced women's reproductive rights as part of a human rights-based approach. Growing opposition to the narrow population control focus led to a significant change in population control policies in the early 1980s.
+
+
+Community (ecology)
+List of countries by population
+Lists of organisms by population
+
+
+UNFPA, The United Nations Population Fund
+United Nations Population Division
+CICRED homepage a platform for interaction between research centres and international organizations, such as the United Nations Population Division, UNFPA, WHO and FAO.
+Current World Population
+NECSP HomePage
+Overpopulation
+Population Matters
+Population Reference Bureau (2005). Retrieved 13 February 2005.
+Population World: Population of World. Retrieved 13 February 2004.
+SIEDS, Italian Society of Economics Demography and Statistics
+United Nations Economic Commission for Europe – Official Web Site
+World Population Counter, and separate regions.
+WorldPopClock.com. (French)
+Populations du monde. (French)
+OECD population data
+Understanding the World Today Reports about world and regional population trends
+Lee, Ronald Demos (2008). "Population". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267.
+

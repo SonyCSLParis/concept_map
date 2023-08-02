@@ -1,0 +1,16 @@
+Guanosine-5'-triphosphate (GTP) is a purine nucleoside triphosphate. It can act as a substrate for the synthesis of RNA during the transcription process or DNA during DNA replication. Its structure is similar to that of the guanine nucleobase, the only difference being that nucleotides like GTP have a ribose sugar and three phosphates, with the nucleobase attached to the 1' and the triphosphate moiety attached to the 5' carbons of the ribose.
+It also has the role of a source of energy or an activator of substrates in metabolic reactions, like that of ATP, but more specific. It is used as a source of energy for protein synthesis and gluconeogenesis.
+GTP is essential to signal transduction, in particular with G-proteins, in second-messenger mechanisms where it is converted to guanosine diphosphate (GDP) through the action of GTPases.
+
+
+During microtubule polymerization, each heterodimer formed by an alpha and a beta tubulin molecule carries two GTP molecules, and the GTP is hydrolyzed to GDP when the tubulin dimers are added to the plus end of the growing microtubule. Such GTP hydrolysis is not mandatory for microtubule formation, but it appears that only GDP-bound tubulin molecules are able to depolymerize. Thus, a GTP-bound tubulin serves as a cap at the tip of microtubule to protect from depolymerization; and, once the GTP is hydrolyzed, the microtubule begins to depolymerize and shrink rapidly.
+
+
+In the cell, GTP is synthesised through many processes including:
+as a byproduct of the Succinyl-CoA to Succinate conversion catalysed by the Succinyl-CoA synthetase enzyme as part of the Krebs cycle;
+through exchanges of phosphate groups from ATP molecules by the Nucleoside-diphosphate kinase, an enzyme tasked with maintaining an equilibrium between the concentrations of different nucleoside triphosphates.
+
+
+Cyclic guanosine triphosphate (cGTP) helps cyclic adenosine monophosphate (cAMP) activate cyclic nucleotide-gated ion channels in the olfactory system.
+
+

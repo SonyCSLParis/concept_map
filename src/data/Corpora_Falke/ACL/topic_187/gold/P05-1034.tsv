@@ -1,0 +1,17 @@
+target language
+parser
+dependency parser
+phrasal translation
+statistical machine translation
+smt models
+sentence
+tree-based ordering model
+phrasal smt
+source language
+decoder
+target sentence
+source-language
+word segmentation
+source dependency parse
+unsupervised word alignment component
+syntactic information

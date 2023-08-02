@@ -1,0 +1,9 @@
+eukaryote	contain	organelle
+eukaryote	have	nucleus
+eukaryote	contain	mitochondria
+eukaryote	$HYPONYM	cell
+eukaryote	have	cytoplasm
+eukaryote	$HYPERNYM	animal cell
+eukaryote	$HYPERNYM	plant cell
+eukaryote	$HYPERNYM	fungal cell
+eukaryote	is divided into	chromosome

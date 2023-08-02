@@ -12,6 +12,14 @@ SRC_DIR = os.path.join(ROOT_DIR + '/src')
 DATA_DIR = os.path.join(SRC_DIR + '/data')
 # print(DATA_DIR)
 
+# corpora Falke
+CORPORA_FALKE = os.path.join(DATA_DIR + '/Corpora_Falke')
+ACL = os.path.join(CORPORA_FALKE + '/ACL')
+BIOLOGY = os.path.join(CORPORA_FALKE + '/Biology')
+BIOLOGY = os.path.join(CORPORA_FALKE + '/Wiki')
+
+# other corpora
+
 WIKIPEDIA = os.path.join(DATA_DIR + '/wikipedia')
 WIKIPEDIA_TRAIN_DIR = os.path.join(WIKIPEDIA + '/train')
 

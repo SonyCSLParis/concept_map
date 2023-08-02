@@ -1,0 +1,8 @@
+predator	$HYPERNYM	hawk
+predator	$HYPERNYM	mountain lion
+predator	$HYPERNYM	owl
+predator	$HYPERNYM	skunk
+predator	$HYPERNYM	snake
+predator	$HYPERNYM	spider
+predator	$HYPERNYM	turtle
+predator	feeds on	prey

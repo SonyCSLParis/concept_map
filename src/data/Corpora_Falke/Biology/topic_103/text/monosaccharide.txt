@@ -1,0 +1,39 @@
+Monosaccharides (from Greek monos: single, sacchar: sugar), also called simple sugars, are the most basic units of carbohydrates. They are fundamental units of carbohydrates and cannot be further hydrolised to simpler compounds. The general formula is CnH
+2nOn. They are the simplest form of sugar and are usually colorless, water-soluble,and crystalline solids. Some monosaccharides have a sweet taste. Examples of monosaccharides include glucose (dextrose), fructose (levulose) and galactose. Monosaccharides are the building blocks of disaccharides (such as sucrose and lactose) and polysaccharides (such as cellulose and starch). Further, each carbon atom that supports a hydroxyl group (so, all of the carbons except for the primary and terminal carbon) is chiral, giving rise to a number of isomeric forms, all with the same chemical formula. For instance, galactose and glucose are both aldohexoses, but have different physical structures and chemical properties.
+
+
+With few exceptions (e.g., deoxyribose), monosaccharides have this chemical formula: Cx(H2O)y, where conventionally x ≥ 3. Monosaccharides can be classified by the number x of carbon atoms they contain: diose (2) triose (3) tetrose (4), pentose (5), hexose (6), heptose (7), and so on.
+The most important monosaccharide, glucose, is a hexose. Examples of heptoses include the ketoses mannoheptulose and sedoheptulose. Monosaccharides with eight or more carbons are rarely observed as they are quite unstable.
+
+
+Two monosaccharides with equivalent molecular graphs (same chain length and same carbonyl position) may still be distinct stereoisomers, whose molecules differ in the three-dimensional arrangement of the bonds of certain atoms. This happens only if the molecule contains a stereogenic center, specifically a carbon atom that is chiral (connected to four distinct molecular sub-structures). Those four bonds can have any of two configurations in space distinguished by their handedness. In a simple open-chain monosaccharide, every carbon is chiral except the first and the last atoms of the chain, and (in ketoses) the carbon with the keto group.
+For example, the triketose H(CHOH)(C=O)(CHOH)H (glycerone, dihydroxyacetone) has no stereogenic center, and therefore exists as a single stereoisomer. The other triose, the aldose H(C=O)(CHOH)2H (glyceraldehyde), has one chiral carbon — the central one, number 2 — which is bonded to groups −H, −OH, −C(OH)H2, and −(C=O)H. Therefore, it exists as two stereoisomers whose molecules are mirror images of each other (like a left and a right glove). Monosaccharides with four or more carbons may contain multiple chiral carbons, so they typically have more than two stereoisomers. The number of distinct stereoisomers with the same diagram is bounded by 2c, where c is the total number of chiral carbons.
+The Fischer projection is a systematic way of drawing the skeletal formula of an acyclic monosaccharide so that the handedness of each chiral carbon is well specified. Each stereoisomer of a simple open-chain monosaccharide can be identified by the positions (right or left) in the Fischer diagram of the chiral hydroxyls (the hydroxyls attached to the chiral carbons).
+Most stereoisomers are themselves chiral (distinct from their mirror images). In the Fischer projection, two mirror-image isomers differ by having the positions of all chiral hydroxyls reversed right-to-left. Mirror-image isomers are chemically identical in non-chiral environments, but usually have very different biochemical properties and occurrences in nature.
+While most stereoisomers can be arranged in pairs of mirror-image forms, there are some non-chiral stereoisomers that are identical to their mirror images, in spite of having chiral centers. This happens whenever the molecular graph is symmetrical, as in the 3-ketopentoses H(CHOH)2(CO)(CHOH)2H, and the two halves are mirror images of each other. In that case, mirroring is equivalent to a half-turn rotation. For this reason, there are only three distinct 3-ketopentose stereoisomers, even though the molecule has two chiral carbons.
+Distinct stereoisomers that are not mirror-images of each other usually have different chemical properties, even in non-chiral environments. Therefore, each mirror pair and each non-chiral stereoisomer may be given a specific monosaccharide name. For example, there are 16 distinct aldohexose stereoisomers, but the name "glucose" means a specific pair of mirror-image aldohexoses. In the Fischer projection, one of the two glucose isomers has the hydroxyl at left on C3, and at right on C4 and C5; while the other isomer has the reversed pattern. These specific monosaccharide names have conventional three-letter abbreviations, like "Glu" for glucose and "Thr" for threose.
+Generally, a monosaccharide with n asymmetrical carbons has 2n stereoisomers. The number of open chain stereoisomers for an aldose monosaccharide is larger by one than that of a ketose monosaccharide of the same length. Every ketose will have 2(n−3) stereoisomers where n > 2 is the number of carbons. Every aldose will have 2(n−2) stereoisomers where n > 2 is the number of carbons. These are also referred to as epimers which have the different arrangement of −OH and −H groups at the asymmetric or chiral carbon atoms (this does not apply to those carbons having the carbonyl functional group).
+
+
+A monosaccharide often switches from the acyclic (open-chain) form to a cyclic form, through a nucleophilic addition reaction between the carbonyl group and one of the hydroxyls of the same molecule. The reaction creates a ring of carbon atoms closed by one bridging oxygen atom. The resulting molecule has an hemiacetal or hemiketal group, depending on whether the linear form was an aldose or a ketose. The reaction is easily reversed, yielding the original open-chain form.
+In these cyclic forms, the ring usually has 5 or 6 atoms. These forms are called furanoses and pyranoses, respectively — by analogy with furan and pyran, the simplest compounds with the same carbon-oxygen ring (although they lack the double bonds of these two molecules). For example, the aldohexose glucose may form a hemiacetal linkage between the hydroxyl on carbon 1 and the oxygen on carbon 4, yielding a molecule with a 5-membered ring, called glucofuranose. The same reaction can take place between carbons 1 and 5 to form a molecule with a 6-membered ring, called glucopyranose. Cyclic forms with a 7-atom ring (the same of oxepane), rarely encountered, are called heptoses.
+
+
+For many monosaccharides (including glucose), the cyclic forms predominate, in the solid state and in solutions, and therefore the same name commonly is used for the open- and closed-chain isomers. Thus, for example, the term "glucose" may signify glucofuranose, glucopyranose, the open-chain form, or a mixture of the three.
+Cyclization creates a new stereogenic center at the carbonyl-bearing carbon. The −OH group that replaces the carbonyl's oxygen may end up in two distinct positions relative to the ring's midplane. Thus each open-chain monosaccharide yields two cyclic isomers (anomers), denoted by the prefixes α- and β-. The molecule can change between these two forms by a process called mutarotation, that consists in a reversal of the ring-forming reaction followed by another ring formation.
+
+
+A large number of biologically important modified monosaccharides exist:
+Amino sugars such as:
+Galactosamine
+Glucosamine
+Sialic acid
+N-Acetylglucosamine
+
+
+Reducing sugar
+Sugar acid
+Sugar alcohol
+Disaccharide
+
+

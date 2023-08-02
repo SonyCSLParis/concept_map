@@ -1,0 +1,116 @@
+1 In t roduct ion
+This p~ttter (!OltCelltl'3I,(!s (ill l;h(! tllld(wst3.1tdillg proc(!ss of l;he verbal (!xtn'essiolls ('OlWerllillg it[)olt|; space. ()lit, can easily inla.gilw ~11(} (h> scribed worM fl'om the vcrbM expressions. We l'(!gltl'([ the iltgerpl'('.~0.Lit)ll of ({(!s(rriptiolts ;US ;~11
+;tcLiv(! process, t;IIM, is t}m proc(~ss of I'(R:OlIS|il'lt{'- t,ion ()flt s i tuat ion which tim st)eak(w intended. In this process, tree will use many kinds of infitrma-
+Lion. The natm'a} bulgu~ge descr ipt i tms conta in st)Ill(} of th(~lll, itltd it, is vm'y illl])ort, allL to extl'itct and use t}mnl, but they are not enough. Among t}tem, inforntat ion about the configm'at, ion of the wor}d ill (rim's illlltge plays ;tit inl[)Ol'tltltt, rote.
+W(! h3,v(. ~ lllltd(! itIl (iXpCl'itil(?ll[,itl (!Olllplltcl" in 'ogrmn SPHINT (fl,r "'S}'atial Repres(,'ntI~tion
+INTtwttrt~ter'), whi('h takes spatial (tescrii)tions wrigtelt ill ,]itl)itll(!,q(L I'{',COllS|.I'/ICt,8 3-dillt(~Itsit)lllt].
+nto(l(~l of the wm'}d, and t)llI;plltS thc ct)rl'(}Spollding inlitge on tht~ graphic disp}ay.
+In this palter. We (h~scrib(~ t, lw overvi(,*w of this syst, enl.
+The esscn('(~ of our approach is its fo}}ows: a ~[(qillillg of thP llal(l(';ll lktll{4111tg(' rxl)rrssions ILs the constraints among tit(' sl)atiM era;ties
+• lmagv r('l>r('srntation of Ill(, worhl as a collection of tit(' lmram('trrizvd entili(,s
+• int(,rl)rrting tit(, qualit;ttiv,, r(qations as tit(' mlttWt'il'a[ ('ottstr~lilHs KltlOtlg lilt' p;tr;tttt(qt)t's
+• Pot(qttbfl (ql(.'rgy fun('tions for lhr vague const raitll ~,
+• l'~xtracting, thr procedur(, of the ro('onstrll('tiol; froltt lit(' itatttral lallgtlag(' (,xl)t't,ssiotls
+• Su('('essive refinement mul modification of tit(' worhl model.
+We regard the worm its ml i~ssembly of the spatial ent, iti(~s, and r(q)resent each ent i ty a.s the
+(:onfltimd;i[m of its pl 'ototylm lind the real wdues t)}" il:s t)itl';ttlltlt,(!l',q. W(! [n'eplu'e the gl'ap}tic object, s corr(!sponding to tim prototypes. Each graphic (d)ject is represented by the parameters prescr ib ing the detai ls of it. The pa, rametcrs prescribe its }ot:ation, or ientat ion, and extmd,.
+Now the t~sk becomes to gen(,'rate the graph ic objects corresponding to the described entit ies
+}tll(| to (|(!tCl'lllill(? th(~ p}Ll.'itltl(!tCl' values pres(tl'ibing thmn.
+AcrEs DE COLING-92, NANTES, 23-28 Aour 1992 1 2 7 9 PROC. OF COLING-92, NANTES, AUG. 23-28, 1992
+*ynt~etic rule diction ~ry object dictlonary ~emal~tic rub"
+@172: ......
+of objel cls }pltranletric reprenel~
+~ (Ioeal) min imum '1 ...... ' ............ I
+~)t~ t pu t Image
+Figure 1: The Overview of the Experi lnental System SPRINT
+It is difficult to deter,nine the tmrameter values directly front the natural language descriptions.
+beeattse of the I)artiality of the information and tim vagueness about the sttatial rehttions alnollg tile entities. So. at first, we extract such information as the qual itat ive spatial constraints among the spatial attr ibutes of the entities, and then.
+interpret these COllstrailltS alld calcuhtte the t>a: ranleter values. This process is shown in figure 1.
+Given ~ text, SPR INT makes a sm'faee ease structure using the lexical information. Each ent ity is described ms a noltlt. Next, SPR INT extracts spatial constraints about the entit ies by analyzing the related words in the case. structure. At this time. SPR INT also extracts the sequence of the information references fl'om the lexical mtbrmation as dependencies, which are used as cues in the calculation of the paranwters.
+At the next stage, the extracted qual i tat ive constraints are intertn'eted as the nmnerical constraints among the e,ltity paranletc.rs. These nul l lerical COllstrailltS :4re repl 'esented }kS the COlllbinatiolt of the primit ive constraints. Tit(! tmten - tial energy function is one of such primitives, and this is an efficient method to treat the vagllelteSS in the constraints. Other primit ives are the tot mlogical constraints and the regions. The potent ia l energy flmction is a kind of the cost fllnetiolls which t~tkes all related paranmters and output the ('()st. The less the wthm of the potential (mergy flmction, the more credit the combinatiml of the gemnetric parameters gains. Using the gradient descendent method, the solution with nl ininnnn cost is calculated. The t)otcntial (mc.rgy flmction 1)rovides a means for accmnulat ing f l 'om fragnmntal'y infornuttion. (Tit(; bas ic i(te~ of the pote,lt ial ene.rgy fm|etion is reported in
+[4].1
+3 The Example
+Suptlose that the fi)llowing sentences are the inputs to SPR INT .
+(1) Fill V~i0 'Dq,~E~at , f I .g ;0%b/oo J (There is a fount;tin at the center of till, Yalnmshita Park.)
+(2) [,f I*a) & ~_ 70~,65v,[$ ia)~a) l rq~. 5 ~:)klll)lt,~ ~& ~ &:0~ ~ 70. j (Front that place, you can sec Hikawa-maru (a slfip) Iwyond the fence of the park.)
+(3) V).k JIl .,ic ~ ,~i N l,: l~. "q" ') "./47 V - g: / : o "C ~)5o j (There is a marine tOwl.r to tit(. right hand of Hikawa-mm'u.)
+Frmn these sentences, SPR INT gets the surfttee eR.se str lwt l t res a, ttd interprel, s each eOllltection in tit(! structures to extr;u:t sp;ttial cons t ra ints . Tit(; ext.racled constraints in this example is shown in table 1.
+Then SPR INT calculates the entity parameter vahles based Oll these COllstrailltS llSillg potential c.nergy flmctions. The exanq)le of the t)l)- tentiM energy fllllctioll is showlt ill figm'e 2. This is one which is used to calculate the location of the ship. In this figure, the line repre.sents the edge of the park. and the thither side of the line me;ms the inside of the t)ark. Finally SPR INT draw a world image (m the graphic display. This is shown in figure 3.
+4 The Ana lys i s o f the V iew
+In the bunt I~xanlple. the treatment of the view is vm'y important. Usually an ob.s(wver sees the world ~md notices how the world is. If you did
+Ilot klloW which directiol~ the observer sees. yell wouM not dete,'mine the directi(m "'to the right" alia (,(mid llOt illlagille wll(!r(! the tower is. Allother way to (tetern|ine the direction "'to the
+AcrEs DE COLING-92, NANTES, 23-28 AOt)r 1992 1 2 8 0 P~OC. OF COLING-92, NANTEs, AUG. 23-28. 1992
+Tab le ]: '[ 'he Exta 'acted Sl)al:ial (? .nstra in l :s
+• The Spatial Eutitivs in the World ganmshita Park (a park), il i~,ttntaill. ;t fl,ncc, Ilikawa-malu (a ship), a lllD.lilll' tliwl'l (a IOW('I)
+• The l/ehttiow, alllOltg tlw l':ntilics
+Iota/i/m( Fmlnt ain )--Ileal{ ('cnt ~'1{ Park ) ). inside( region( l 'alk ) ) local ion( }':y,' lloint )=near(locat ion( l"oultl ain ) ). o,llsid.'(l egion( l"ou nt ain ) ) local iolx( l"cncc)=at (]mundaiy(l c~ion( l'at k) )) orient alton{ View) =h'onl( h)('ali(m( Ey(,q)oiut ). t o(h)cation(Fenc(.)) hwation(Am>l)oint)-hint(,l(Fenc(,. Eycqmint ), location(Ship) location(Towel )=right(Shill. Eye l)Omt )
+Park = TwlJ-dilncllSiOllal legion (a kind of Gromtd)
+Fomltain = Thic(,-dimensiomd object with \Vatel
+Font*. = Throe dilnvnsional objvct al tilt' |)oundary of the two-dinlonsiomtl region
+Shill = Tlnev-dinwllSiolml object (a kind of V,,- hich, on \Valet)
+To',ve, = Thrce-dinu'u~,iollal M~jvct (a kind of Building)
+• The General World Klmwh.dgv
+Ally two ohjvc/s CllllliOl o('t'llpy the S}llll( placc al the s~Ull(* tiHle.
+Evcly object is undel tit(' law of glavitation {i.v it nmst SUlqmlted mdoss a special reason)
+Every object has its plausibl,' t.xlent
+Ther,' I'xists a diStall('(' scale act'oldillp, to the exteltt.
+F igure 2: The Exlunpl(~ of the l 'o l ;mdial Energy
+Fmwt ion
+(L __ 2::: - - ~ . \ l:ion
+'l'M~h, 2: T lw Basic ( :ons l ra in l s f rom I;he Eye l'oinl:
+• constrain the ,'y¢ point hy lit,' iminl of "ol~sm- Vii/i/ill" COllstraill I}lo ailll point by tit(' itillled elltity
+• COllstrahl Ihl' vip'w Ily tlw eye lloint
+• collstl'ailt the view by Ilw aim lmilH
+,J coustrain the view by Ihe ,,ye direction righl:'" is t,o cal('uhtl:e i l only f rom t;he orienl, al;ion of i:he ship. l)ul we: do m~l: lh ink it is usual . Thi.~ lllC}Llts t;[t~L[ ILl[It' sp~d,ial inut,e,,~ rl!fh!('l;s l:[lC hist l l ry
+,:d' l;]w illi'cr(utcl~, and t.}w ('(Hl.%l;lllC|.l!d itn;tgc is used ag.~tin I.o Ulldl!t'st mid file next; ,qt!ll~,(tllC/L St, SPt l . IN'F also lias to
+• I)ltl'SllO of IIw eye ll,fint o[ the o])sct'ver.
+• sot tho ;'it",'," of the ohm'rvvr from tlw eyo lmim.
+• infer tlw spatial c,mtigura¢ion from 111,, view.
+For ~his s;tkc, w,~ lnOdt~led t.hc v iew of t.}w ob server as one of t;lw spat:ia[ et~l,it:ies, which has lhc ey~ imin l , I,hc a im point:. ~tliil the eye dire/" l ion. lu this mwl;i/m, we itlladyzt! tho descr ip l : ions aboltI; v iew in &'/:alia.
+At f irst, w(~ detin,~ the relal i , m a lmul "'seN" as f . l lows:
+"There is no vis ible obsl:acles bid:wccn t.hc eye po int mid the a imed ent.il:y."
+The constra int .s about tht, eye tminl:, eye dire(:- t.ion, and t:h/', itilll point, comes IJt'Olll t:his detinil ion.
+Th,~ silulth~.st ci~se is shown in table 2. For
+/!XallI|)l/~, t,]wre ILl'(? 5 ClHl,qIl'l~illt.S t.O t,h/~ S/!llt.nce [ ~{liiJ']j~l$~ (j) c b C 4l/'3' C, .It: e) E L & V -- ¢)%1
+ACI'ES DE COLING-92. NANTES, 23-28 AOt~'l 1992 1 28 I I'ROC. OF COLING-92. NANTES, AUG. 23-28, 1992
+~. 7a ] (You can see a tower north from tile station square. )
+(C) star t - point (View 1 )=Eye-point 1
+(D) end-point (Viewl)=Ainl-point 1
+(El direction(View1 ).=Nor th
+If the eye tloint has its own direct(ira, the 5th
+(!Ollst, r~i l l t ill '2 [)eCOllle.N ;~ relative one llased Oil the direction of the eye t)oint. For example, to
+~ To] (If you get a('ross the crossroad, You can sec a tower to the right hand.) the. constraint (13)
+~t)ove l ice(l i l ies
+(E') direction(view 1)=t o-t he-right (viewpoint 2) which means the (lireetiml "'to tit(.' r ight" is determined by the direction of tile eye of the observer.
+In this case tile observer get across the crossroad and no other information is obt~dned, so tile directiml of tim eye is determined as the same ~m that of the transfm" of the observer.
+There are the cases where the directi(m of the eye changes l'UllOllg the t ra l l s fe r . I l l sl letl closes, the last eye direction must be calculated ~meording to the intermediate eh~mges. So the change point is imt, ~md it nle(liates the change of the direction of the tralmfer. The necessary COllStl'ttitlts are as follows:
+$ COllStrailll 0.b(lut Ill(' IrallSf('r before the ehal lge
+• ('onstrain( 0.l)ollt tile transfer after Ill(, ( 'hallge
+Fro' example, there are 5 constraints for the sentence [ t~?:~ ~/i!~)r~ 70 j (turn left at the crossroad).
+(C) end-point (Transfi, r-vector 1) =Changepoint1
+(D) star tpoint (Transfer-veetor2)=Changepointl
+(E l direct ioll{Trausferreel or2 )= t otheleft (Transfiu'- veer or 1 )
+Figure 4: The View hltert)retati ,m of the Transfer with the Inter lnediate Change
+The direction of the eye after the change is same
+~Ls the diructioll of the' tl'~ulsf't~r-vector2. For examph~, the sentence V'l'rF-~'~),i~I?-~" ;5 L , ,~P- l : # r ] _ ? )~,~ )5 ] (If you turn left at the crossroad, you can see a tower to the right h~md.) is interpreted as in figure 4. hi this case, the directiml "to the right" is calculated Kom the last direction of the eye.
+the Sellte, ltee, howe.ver, olle llllty think this is not tlle Sallle its he/she imagine becmlse in this intel]) l 'etltt. ioI l the obse, l'vel' ('gll see the tower (IV(,~ll before the crossroad. The sentence "If you turn left....'" seems to imply tlu~t "unti l you turn left at tile Cr(lssro3(l , yOll Cglll lOt see 3, tower yet." and this is not ill the case of the logical sense.
+Of course this iv not Mways true,. Suppose the s i tuat ion where you see a t(lwer now ~md arc toM the last se.utcnce (llrotlably in English you say not "a tower" /)ut "'the tower"), this will be the c~me of the integration of the several views. Sll the addit ional pragmatic constraints are strongly influen(:ed by the puri)ose of the utterance,.
+Anyway if you do not want to see a towm' t)efore the crossroad, one of the solutions to this problem is like this: put some obstacle on the view of tit(: observer 1)efore the crossroad, that means put it between the p()int of the observer and the tower. In this ease, till the observer turn at tile corller, there is llO way to kllow the locati(m of the tower, so no way to trot the obstacle.
+Tile interpretat ion ~u'eor(ling to this solution is showll in figure 5.
+()lie ()f the other soluti lms is that you know
+AcrEs DE COLING-92, NAMES, 23-28 ^ ot~'r 1992 1 2 8 2 PROC. OF COLING-92, N^NI'ES, AUG. 23-28, 1992
+72__ - :~ z(_ ~
+/ , / .__,a,.. /7 llS(~ tili(~lll }Lq IX ol)stacle.
+This kind . f "ilwisil)le' sit:uation must, tm discussed with respect t:o the read world and the daily language use.
+From the lmrc l inguistic point of view, A. Herskovits [1] analyzed locativ(~ expr(~ssi(ms in English. As for constructing a ('Oml)uter model, conventional logic fMls short of ore" tmrpose.
+Anlong the formulations based Imrely on C()llVellt ioual logic, n,ost, t,ypical is slot-til ler ret)resen~a-
+|,ion such as a tbrmulal:ion by Gordon Nowtk ,It"
+[2]. Tlmre also is a work |,y D. Waltz[3]. i1 is however hlu'd to draw logical c(mchmion out. of a set of axioms which ll iay involve predicates vague and to get a reusable model of the world toni|gunction.
+Ore' apln'oach allows both cont, ii luous and dist :o i i l ; i i l l IO l iS f l l n tq , iO l l8 go l'(!pl'(}Sell~, spatiM COlistxMnts, so that the prot)abil ity changes eit:lwr contimumsly and discontilmously.
+jective, it seems imtiossil)le to construct a model for the worhl without smnc kind of subjective.
+6 Conc lus ions contains a lot of hm'd issues, and some liroblems related to this work are mentioned tMow.
+ln'esenl;~d,i(m of the image,
+Our progr~tm makes ~t internal
+3-(lin,ensional model of the world, but the t)i't!Selii:~ttioil t)iI l,lio s(!rt!t!ii is now llHtiill~tlly done. which means that. tim camera posit ion fin' t.he computm' graphics is lnmmltlly decided (it is usmdly a bird's-eye view). How to iiresellt tht! iilI;erllld (!oiifigura, tiOll ~ts an image is a flu'thin' prot)lem.
+* inl:egration of the iuiti;d image.
+if ;dl tim model is t:onstrut:l;rx[ b~me.d Oll fill(~ wn'bal inf'ol'nt;tl, itm, how to give the init ial v3.h i ( !s o f the t)0,ritl i lt~|;(:i,q effectively t}(}(:t)llie,~ the t)roblenl. If the tim reconstruction tiegins wii:h an initial image, the inl.egration of t, hat inmge aim the verbM inforniation is the other tiroblein. (Proll,d)ly the init ial ilmtge is also vague.) the verbal eXl)l'ession in tim world model, and making a model of l:he visual disappearance.

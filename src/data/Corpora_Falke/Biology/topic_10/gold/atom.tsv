@@ -1,0 +1,12 @@
+atom	belongs to	element
+atom	is constituent unit of	matter
+atom	is called	ion
+atom	is composed of	electron
+atom	has	proton
+atom	form	molecule
+atom	has	atomic number
+neutron	in	atom
+atom	$HYPERNYM	carbon atom
+atom	$HYPERNYM	hydrogen atom
+atom	$HYPERNYM	oxygen atom
+atom	are	isotope

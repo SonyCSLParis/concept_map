@@ -1,0 +1,26 @@
+Biological organization is the hierarchy of complex biological structures and systems that define life using a reductionistic approach. The traditional hierarchy, as detailed below, extends from atoms to biospheres. The higher levels of this scheme are often referred to as the ecological organization concept, or as a field, hierarchical ecology.
+Each level in the hierarchy represents an increase in organizational complexity, with each "object" being primarily composed of the previous level's basic unit. The basic principle behind the organization is the concept of emergence—the properties and functions found at a hierarchical level are not present and irrelevant at the lower levels.
+Organization furthermore is the high degree of order of an organism (in comparison to general objects). Ideally, individual organisms of the same species have the same arrangement of the same structures. For example, the typical human has a torso with two legs at the bottom and two arms on the sides and a head on top. It is extremely rare (and usually impossible, due to physiological and biomechanical factors) to find a human that has all of these structures but in a different arrangement.
+The biological organization of life is a fundamental premise for numerous areas of scientific research, particularly in the medical sciences. Without this necessary degree of organization, it would be much more difficult—and likely impossible—to apply the study of the effects of various physical and chemical phenomena to diseases and physiology (body function). For example, fields such as cognitive and behavioral neuroscience could not exist if the brain was not composed of specific types of cells, and the basic concepts of pharmacology could not exist if it was not known that a change at the cellular level can affect an entire organism. These applications extend into the ecological levels as well. For example, DDT's direct inseciticidal effect occurs at the subcellular level, but affects higher levels up to and including multiple ecosystems. Theoretically, a change in one atom could change the entire biosphere.
+
+
+Evans, F. C. (1951), "Ecology and urban areal research", Scientific Monthly (73) 
+Evans, F. C. (1956), Ecosystem as basic unit in ecology 
+Griswold, Joseph G.; McDaniel, Nichole (Spring 2006), "Module 1:Overview and Hierarchy of Life", Progressions (New York, New York) 7 (3), ISSN 1539-1752 
+Huggett, R. J. (1999). "Ecosphere, biosphere, or Gaia? What to call the global ecosystem. ECOLOGICAL SOUNDING". Global Ecology and Biogeography 8 (6): 425–431. doi:10.1046/j.1365-2699.1999.00158.x. ISSN 1466-822X. 
+Jordan, F.; Jørgensen, S. E. (2012), Models of the Ecological Hierarchy: From Molecules to the Ecosphere, ISBN 9780444593962 
+Margalef, R. (1975), External factors and ecosystem stability, doi:10.1007/BF02505181 
+O'Neill, R. V. (1986), A Hierarchical Concept of Ecosystems, ISBN 0691084378 
+Pavé, Alain (2006), "Biological and Ecological Systems Hierarchical Organization", in Pumain, D., Hierarchy in Natural and Social Sciences, New York, New York: Springer-Verlag, ISBN 978-1-4020-4126-6 
+Postlethwait, John H.; Hopson, Janet L. (2006), Modern Biology, Holt, Rinehart and Winston, ISBN 0-03-065178-6 
+Pumain, D. (2006), Hierarchy in Natural and Social Sciences, ISBN 978-1-4020-4127-3 
+Simon, H. A. (1969), "The architecture of complexity", The Sciences of the Artificial, Cambridge, MA: MIT Press 
+Solomon, Eldra P.; Berg, Linda R.; Martin, Diana W. (2002), Biology (6th ed.), Brooks/Cole, ISBN 0-534-39175-3, LCCN 2001095366 
+Wicken, J. S.; Ulanowicz, R. E. (1988), On quantifying hierarchical connections in ecology, doi:10.1016/0140-1750(88)90066-8 
+
+
+ Cell physiology (in Human Physiology) at Wikibooks
+ Characteristics of life and the nature of molecules (in General Biology) at Wikibooks
+ Organization within the biosphere (in Ecology) at Wikibooks
+2011's theoretical/mathematical discussion.
+
