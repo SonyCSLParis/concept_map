@@ -16,7 +16,10 @@ DATA_DIR = os.path.join(SRC_DIR + '/data')
 CORPORA_FALKE = os.path.join(DATA_DIR + '/Corpora_Falke')
 ACL = os.path.join(CORPORA_FALKE + '/ACL')
 BIOLOGY = os.path.join(CORPORA_FALKE + '/Biology')
-BIOLOGY = os.path.join(CORPORA_FALKE + '/Wiki')
+WIKI = os.path.join(CORPORA_FALKE + '/Wiki')
+WIKI_TRAIN = os.path.join(WIKI + '/train')
+WIKI_TEST = os.path.join(WIKI + '/test')
+WIKI_FINAL_TEST_DIR = os.path.join(WIKI_TEST + '/final_test')
 
 # other corpora
 
@@ -35,30 +38,53 @@ CMAP_TRAIN_DIR = os.path.join(CMAP_DIR + '/train')
 
 OUTPUT_DIR = os.path.join(SRC_DIR + '/output_mds')
 OUTPUT_DIR_TRIPLETS_DISJOINT = os.path.join(OUTPUT_DIR + '/triplets_disjoint')
+OUTPUT_DIR_TRIPLETS_DISJOINT_WIKI = os.path.join(OUTPUT_DIR + '/triplets_disjoint_wiki')
+
 OUTPUT_DIR_TRIPLETS_DISJOINT_TEST = os.path.join(OUTPUT_DIR + '/triplets_disjoint_test')
+OUTPUT_DIR_TRIPLETS_DISJOINT_TEST_WIKI = os.path.join(OUTPUT_DIR + '/triplets_disjoint_test_wiki')
+
 SUMMARIES = os.path.join(OUTPUT_DIR + '/summary-multiple-doc')
 
 SUMMARIES_TRAIN = os.path.join(SUMMARIES + '/summary_train')
+SUMMARIES_TRAIN_WIKI = os.path.join(SUMMARIES + '/summary_train_wiki')
+
 SUMMARIES_TEST = os.path.join(SUMMARIES + '/summary_test')
+SUMMARIES_TEST_WIKI = os.path.join(SUMMARIES + '/summary_test_wiki')
+
 SUMMARIES_TRAIN_GPT = os.path.join(SUMMARIES + '/summary_train_GPT')
 SUMMARIES_TEST_GPT = os.path.join(SUMMARIES + '/summary_test_GPT')
+SUMMARIES_TEST_GPT_WIKI = os.path.join(SUMMARIES + '/summary_test_GPT_wiki')
 
 OUTPUT_DIR_TRIPLETS_AGGREGATE = os.path.join(OUTPUT_DIR + '/triplets_aggregate')
+OUTPUT_DIR_TRIPLETS_AGGREGATE_WIKI = os.path.join(OUTPUT_DIR + '/triplets_aggregate_wiki')
 OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST = os.path.join(OUTPUT_DIR + '/triplets_aggregate_test')
+OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST_WIKI = os.path.join(OUTPUT_DIR + '/triplets_aggregate_test_wiki')
+
 IMPORTANCE_RANKING = os.path.join(OUTPUT_DIR + '/importance_ranking_folder')
 IMPORTANCE_RANKING_TEST = os.path.join(IMPORTANCE_RANKING + '/test')
+IMPORTANCE_RANKING_TEST_WIKI = os.path.join(IMPORTANCE_RANKING + '/test_wiki')
 IMPORTANCE_RANKING_TRAIN = os.path.join(IMPORTANCE_RANKING + '/train')
+IMPORTANCE_RANKING_TRAIN_WIKI = os.path.join(IMPORTANCE_RANKING + '/train_wiki')
 
 OUTPUT_DIR_GRAPH = os.path.join(OUTPUT_DIR + '/graph_html_aggregated')
 OUTPUT_DIR_GRAPH_TEST = os.path.join(OUTPUT_DIR + '/graph_html_aggregated_test')
+OUTPUT_DIR_GRAPH_TEST_WIKI = os.path.join(OUTPUT_DIR + '/graph_html_aggregated_test_wiki')
+
+OUTPUT_DIR_GRAPH_WIKI = os.path.join(OUTPUT_DIR + '/graph_html_aggregated_wiki')
 
 OUTPUT_DIR_CONCEPT_MAPS = os.path.join(OUTPUT_DIR + '/concept_maps_visualisation')
 OUTPUT_DIR_EVALUATION_CSV = os.path.join(OUTPUT_DIR + '/evaluation_csv')
+OUTPUT_DIR_EVALUATION_CSV_WIKI = os.path.join(OUTPUT_DIR + '/evaluation_csv_wiki')
+
 OUTPUT_DIR_COREF_MULTIPLE = os.path.join(OUTPUT_DIR + '/coref')
 OUTPUT_DIR_COREF_MULTIPLE_TEST = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/test')
+OUTPUT_DIR_COREF_MULTIPLE_TEST_WIKI = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/test_wiki')
+
 OUTPUT_DIR_COREF_MULTIPLE_TRAIN = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/train')
+OUTPUT_DIR_COREF_MULTIPLE_TRAIN_WIKI = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/train_wiki')
 
 OUTPUT_DIR_DB_ENTITY = os.path.join(OUTPUT_DIR, 'db_entities')
+OUTPUT_DIR_DB_ENTITY_WIKI = os.path.join(OUTPUT_DIR, 'db_entities_wiki')
 
 # SINGLES
 
@@ -76,7 +102,10 @@ list_dir = [DATA_DIR, OUTPUT_DIR_SINGLE_DOC_DISJOINT, OUTPUT_DIR_GRAPH_SINGLE_DO
             OUTPUT_DIR_EVALUATION_CSV, OUTPUT_IMPORTANCE_RANKING, OUTPUT_DIR_SUMMARIES,
             OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST, OUTPUT_DIR_GRAPH_TEST, OUTPUT_DIR,
             IMPORTANCE_RANKING, SUMMARIES_TRAIN_GPT, OUTPUT_DIR_SUMMARIES_GPT, SUMMARIES_TEST_GPT, SUMMARIES_TRAIN,
-            SUMMARIES_TEST]
+            SUMMARIES_TEST, IMPORTANCE_RANKING_TEST_WIKI, WIKI_FINAL_TEST_DIR, OUTPUT_DIR_COREF_MULTIPLE_TEST_WIKI, SUMMARIES_TEST_WIKI,
+            SUMMARIES_TEST_GPT_WIKI, SUMMARIES_TRAIN_WIKI, OUTPUT_DIR_GRAPH_WIKI, OUTPUT_DIR_TRIPLETS_AGGREGATE_WIKI,
+            OUTPUT_DIR_TRIPLETS_DISJOINT_WIKI, OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST_WIKI, OUTPUT_DIR_GRAPH_TEST_WIKI,
+            OUTPUT_DIR_DB_ENTITY_WIKI, OUTPUT_DIR_TRIPLETS_DISJOINT_TEST_WIKI, IMPORTANCE_RANKING_TRAIN_WIKI]
 
 for x in list_dir:
     if not os.path.exists(x):
