@@ -22,6 +22,53 @@ def compute_metrics(input_folder_path, gold_folder_path, output_folder_path):
     metrics = []
 
     input_files = [f for f in os.listdir(input_folder_path) if f.endswith(".txt")]
+    gold_files = [f for f in os.listdir(gold_folder_path) if f.endswith("-cmap.txt")]
+
+    for input_file_name in input_files:
+        file_number = input_file_name.split("-")[0]
+        gold_file_name = f"{file_number}-cmap.txt"
+
+        input_file_path = os.path.join(input_folder_path, input_file_name)
+        gold_file_path = os.path.join(gold_folder_path, gold_file_name)
+
+        with open(input_file_path, "r") as input_file, open(gold_file_path, "r") as gold_file:
+                input_text = input_file.read().strip()
+                gold_text = gold_file.read().strip()
+
+                hypothesis_tokens = word_tokenize(input_text)
+                reference_tokens = word_tokenize(gold_text)
+
+                meteor = meteor_score([reference_tokens], hypothesis_tokens)
+
+                scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+                scores = scorer.score(input_text, gold_text)
+                rouge1 = scores['rouge1'].fmeasure
+                rouge2 = scores['rouge2'].fmeasure
+                rougeL = scores['rougeL'].fmeasure
+
+                metrics.append({
+                    'File': input_file_name,
+                    'METEOR': meteor,
+                    'ROUGE-1': rouge1,
+                    'ROUGE-2': rouge2,
+                    'ROUGE-L': rougeL
+                })
+
+        output_file_path = os.path.join(output_folder_path, "metrics_second_pipeline_lexrank_summary.csv")
+
+        with open(output_file_path, "w", newline="") as csvfile:
+            fieldnames = ['File', 'METEOR', 'ROUGE-1', 'ROUGE-2', 'ROUGE-L']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            writer.writeheader()
+            writer.writerows(metrics)
+
+        print(f"Metrics computed and saved in: {output_file_path}")
+
+def compute_metrics_falke(input_folder_path, gold_folder_path, output_folder_path):
+    metrics = []
+
+    input_files = [f for f in os.listdir(input_folder_path) if f.endswith(".txt")]
 
     # gold_files = [f for f in os.listdir(gold_folder_path) if f.endswith(".cmap")]
 

@@ -106,7 +106,7 @@ if __name__ == '__main__':
     input_folder_path = OUTPUT_DIR_TRIPLETS_AGGREGATE_TEST_WIKI
     gold_folder_path = WIKI_TEST
     output_folder_path = OUTPUT_DIR_EVALUATION_CSV_WIKI
-    compute_metrics(input_folder_path, gold_folder_path, output_folder_path)
+    compute_metrics_falke(input_folder_path, gold_folder_path, output_folder_path)
 
     # # METEOR AND ROUGE CHATGPT
     # input_folder_path = SUMMARIES
