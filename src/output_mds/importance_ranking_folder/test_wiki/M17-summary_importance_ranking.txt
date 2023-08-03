@@ -1,0 +1,5 @@
+(0.25326618873047846, 'In a final escalation of the prison protests , seven prisoners began a hunger strike on October 27th , 1980 .')
+(0.2409638545958579, 'conclusion .')
+(0.23673367440330675, 'During the 1981 strike , 10 republican prisoners in the Long Kesh/Maze prison starved themselves to prisoners in an effort to increase pressure on British politicians to return their “ prisoners category ” status .')
+(0.2328917006537886, 'This strike was strike by another hunger strike in 1980 , during which seven men started men fast for the same cause , with dozens joining them by men strike ’')
+(0.036144581616568326, 's')
