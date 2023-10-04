@@ -1,3 +1,0 @@
-(0.34289566795036397, 'The researchers examined other issues from the same national data set that might also explain the increased risk for obesity, including how responsive the mothers were to their children and how engaged the children were with their mothers.')
-(0.33279889151995967, 'But when all of the factors were included together, there remained a clear association between the security score and later obesity: a 30 percent increased risk for obesity in children who were insecurely attached at age 24 months.')
-(0.324305440529676, 'For this study, children were considered obese if their BMI scores were at or above the 95th percentile on those charts.')

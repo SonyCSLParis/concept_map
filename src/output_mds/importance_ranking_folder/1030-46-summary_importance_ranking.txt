@@ -1,2 +1,0 @@
-(0.5, 'In B.C. A B.C.')
-(0.5, 'A review of the research.')

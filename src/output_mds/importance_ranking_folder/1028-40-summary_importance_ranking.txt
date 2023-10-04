@@ -1,3 +1,0 @@
-(0.33333333333333337, 'Programs for families of troubled teens Brief Strategic Family Therapy (BSFT) is a family therapy program designed for families with youth between the ages of 6 and 17 who are exhibiting behavior problems and/or are at risk for drug abuse.')
-(0.3333333333333333, 'In A.E.')
-(0.3333333333333333, 'An experimental evaluation of the program found that BSFT significantly reduced conduct disorders among teens whose families had received BSFT, compared to those who did not receive the program, as well as reduced drug use among 60% of the teens who had been smoking marijuana at the start of the program (Santisteban et al., 2003).')

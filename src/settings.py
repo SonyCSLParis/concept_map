@@ -37,7 +37,8 @@ CMAP_TRAIN_DIR = os.path.join(CMAP_DIR + '/train')
 # MDS
 
 OUTPUT_DIR = os.path.join(SRC_DIR + '/output_mds')
-OUTPUT_DIR_TRIPLETS_DISJOINT = os.path.join(OUTPUT_DIR + '/triplets_disjoint')
+OUTPUT_DIR_PREPROCESS = os.path.join(OUTPUT_DIR + '/pre_process')
+
 OUTPUT_DIR_TRIPLETS_DISJOINT_WIKI = os.path.join(OUTPUT_DIR + '/triplets_disjoint_wiki')
 
 OUTPUT_DIR_TRIPLETS_DISJOINT_TEST = os.path.join(OUTPUT_DIR + '/triplets_disjoint_test')
@@ -80,7 +81,6 @@ OUTPUT_DIR_COREF_MULTIPLE = os.path.join(OUTPUT_DIR + '/coref')
 OUTPUT_DIR_COREF_MULTIPLE_TEST = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/test')
 OUTPUT_DIR_COREF_MULTIPLE_TEST_WIKI = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/test_wiki')
 
-OUTPUT_DIR_COREF_MULTIPLE_TRAIN = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/train')
 OUTPUT_DIR_COREF_MULTIPLE_TRAIN_WIKI = os.path.join(OUTPUT_DIR_COREF_MULTIPLE + '/train_wiki')
 
 OUTPUT_DIR_DB_ENTITY = os.path.join(OUTPUT_DIR, 'db_entities')

@@ -1,5 +1,0 @@
-(0.22045711989652583, 'This eight page publication offers advice to parents on what they can do about bullying.')
-(0.21625130226338518, 'This 12-page publication offers advice to educators on what they can do about bullying.')
-(0.2114212213536204, 'Bullying: What Parents Can Do About It (pdf)')
-(0.20566167929969043, 'Bullying: What Educators Can Do About It (pdf)')
-(0.14620867718677827, 'This fact sheet offers suggestions on how parents can deal with and avoid tantrums and whining.')

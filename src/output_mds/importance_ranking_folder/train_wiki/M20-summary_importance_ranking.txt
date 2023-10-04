@@ -1,0 +1,3 @@
+(0.3523054183208473, 'Hunyad Castle Castle an example of a spooky , gothic castle .')
+(0.3523054183208473, 'Hunyad Castle Castle an example of a spooky , gothic castle .')
+(0.29538916335830506, "Many cathedrals in Europe are 'gothic ' , and Malbork Castle is an example of gothic architecture .")

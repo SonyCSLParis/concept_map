@@ -1,4 +1,0 @@
-(0.263741539917848, 'Psychotherapy is also useful in older patients who cannot or will not take medication.')
-(0.2547451883286373, 'Recent research suggests that brief psychotherapy (talk therapies that help a person in day-to-day relationships or in learning to counter the distorted negative thinking that commonly accompanies depression) is effective in reducing symptoms in short-term depression in older persons who are medically ill.')
-(0.25206744636869033, 'They recognize that some symptoms may be side effects of medication the older person is taking for a physical problem, or they may be caused by a co-occurring illness.')
-(0.22944582538482441, 'What kind of therapy will the child have?')

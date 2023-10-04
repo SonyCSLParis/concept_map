@@ -1,3 +1,0 @@
-(0.3536646529670028, 'To have a student loan processed, you must complete and submit to the Financial Aid Office a Direct Loan Acceptance Form.')
-(0.3462653875679713, 'You must also contact the Financial Aid Office to determine if funds must be returned to the federal aid programs and to complete required loan exit counseling.')
-(0.30006995946502585, 'If you are 270 days late on your scheduled payment, you are in default on your loan agreement, and it will be assumed that you do not intend to repay your loan.')

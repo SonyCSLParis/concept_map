@@ -1,0 +1,20 @@
+atomic bomb 	 fissile isotope 	 uranium 
+ atomic bomb 	 require 	 uranium-235 
+ atomic bomb 	 succeed 	 world war ii 
+ critical mass 	 need 	 atomic bomb 
+ critical mass 	 	 otto frisch 
+ franklin roosevelt 	 approve 	 manhattan project 
+ klaus fuch 	 hold senior position work closely 	 atomic bomb 
+ manhattan project 	 joint effort build 	 atomic bomb 
+ manhattan project 	 acquire unusually large quantity 	 uranium 
+ manhattan project 	 research development project produce atomic bomb 	 world war ii 
+ maud report 	 emphatically conclude 	 atomic bomb 
+ quebec agreement 	 sign 	 winston churchill 
+ rudolf peierl 	 assess chance develop 	 atomic bomb 
+ rudolf peierl 	 work 	 university birmingham 
+ soviet 	 flee england work 	 manhattan project 
+ tube alloy 	 galvanize american counterpart 	 maud report 
+ uranium 	 create precise physical condition call 	 critical mass 
+ uranium 	 enrich 	 uranium-235 
+ uranium-235 	 require 	 critical mass 
+ winston churchill 	 pool nation resource beat germans secret 	 atomic bomb 

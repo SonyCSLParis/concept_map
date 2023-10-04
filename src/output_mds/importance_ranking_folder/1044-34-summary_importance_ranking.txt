@@ -1,3 +1,0 @@
-(0.34062265354770516, 'Attributes and behaviors were assessed until the child was 5 years old and were then used to predict whether the child would be overweight at 9.5 years.')
-(0.3301789842100894, "It's important to identify risk factors because they may provide a way to alter the child's environment and reduce the chance of becoming overweight,  Agras said.")
-(0.32919836224220467, 'The researchers found that 25 percent of the children were in the 85th percentile of BMI at 9.5 years of age, including 9 percent that were in the 95th percentile.')

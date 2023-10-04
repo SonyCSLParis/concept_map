@@ -1,5 +1,0 @@
-(0.2350872833979935, 'The teacher data showed that students receiving the RHC program had a significantly lower level of antisocial behavior, compared with control group students, and displayed a decreasing growth rate as well.')
-(0.21843547600365065, 'The results from the analyses conducted by Catalano and colleagues (2003) of the teacher data showed that students who received the RHC program had a significantly higher level of commitment to school than the students in the control condition.')
-(0.20762355228833926, 'Students also received booster sessions and group workshops during the middle and high school years.')
-(0.17439672793751734, 'Study 1 School Commitment and Academic Performance')
-(0.16445696037249932, 'Antisocial Behavior')

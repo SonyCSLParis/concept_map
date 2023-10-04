@@ -1,3 +1,0 @@
-(0.34269921298745587, "Teaching test-taking and study skills refers to the student's ability to understand the characteristics and formats of a test, or the test taking situation, to receive a high test score.")
-(0.3294204358399988, "Do you seem to know the answers to a test the night before but can't remember them when taking the test?")
-(0.32788035117254516, 'The situation is test taking.')

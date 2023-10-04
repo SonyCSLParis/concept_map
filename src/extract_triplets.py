@@ -7,6 +7,7 @@ rebel model to extract triples from text
 """
 import pickle
 import argparse
+import os
 import multiprocessing as mp
 from torch.multiprocessing import Pool, set_start_method
 from transformers import pipeline
@@ -20,7 +21,7 @@ def extract_triplets(text):
     """ Extract triplets from text using REBEL model """
     text = triplet_extractor.tokenizer.batch_decode(
         [triplet_extractor(text, return_tensors=True, return_text=False) \
-            [0]["generated_token_ids"]])[0]
+             [0]["generated_token_ids"]])[0]
     triplets, relation, subject, object_ = [], '', '', ''
     text = text.strip()
     current = 'x'
@@ -53,21 +54,23 @@ def extract_triplets(text):
                          'tail': object_.strip()})
     return triplets
 
-if __name__ == '__main__':
-    ap = argparse.ArgumentParser()
-    ap.add_argument('-i', "--input", required=True,
-                    help=".txt file: one line/text")
-    ap.add_argument('-o', "--output", required=True,
-                    help=".pkl file to save output")
-    args_main = vars(ap.parse_args())
 
+def process_file(input_path, output_path):
     multi_pool = Pool(processes=mp.cpu_count())
-    input_list = [x.replace("\n", "") for x in open(
-        args_main["input"], "r", encoding="utf-8").readlines()]
+
+    input_list = [x.replace("\n", "") for x in open(input_path, "r", encoding="utf-8").readlines()]
     predictions = multi_pool.map(extract_triplets, input_list)
-    multi_pool.close()
-    multi_pool.join()
 
     data = {i: {'text': input_list[i], 'triplets': predictions[i]} for i in range(len(input_list))}
-    with open(args_main["output"], "wb") as openfile:
+    with open(output_path, "wb") as openfile:
         pickle.dump(data, openfile)
+
+
+def preprocess_folder(input_folder, output_folder):
+    for root, dirs, files in os.walk(input_folder):
+        for file_name in files:
+            if file_name.endswith(".txt"):
+                input_path = os.path.join(root, file_name)
+                output_path = input_path.replace(input_folder, output_folder).replace(".txt", ".pkl")
+
+                process_file(input_path, output_path)

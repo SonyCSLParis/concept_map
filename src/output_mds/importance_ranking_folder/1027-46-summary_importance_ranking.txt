@@ -1,3 +1,0 @@
-(0.34047619979357013, 'The goal of this Web site is to empower children, parents and teachers to prevent cyber crime through knowledge of the law, their rights and how to avoid misuse of the Internet.')
-(0.33937847273122207, "While the Internet can be a unique educational and recreational resource for children, it's important that kids learn how to use this powerful tool safely and responsibly.")
-(0.320145327475207, 'As Internet connections vary, it may take some time for your computer to download the file.')

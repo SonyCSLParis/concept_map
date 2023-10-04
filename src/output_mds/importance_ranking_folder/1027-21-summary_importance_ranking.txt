@@ -1,4 +1,0 @@
-(0.2879759804898083, 'With the amount of information out there and the ever-changing landscape of the Internet, it can be difficult for parents to keep up.')
-(0.24889718839948743, 'Unfortunately, the Internet can also be a very dangerous place for children looking to play with their "Neopets", study for algebra class, or research a paper for school.')
-(0.24490090026865813, 'There is a wide Internet out there and it is important that parents educate children prior to allowing them to use the computer to access it.')
-(0.21822593084204608, '(London School of Economics January 2002)')

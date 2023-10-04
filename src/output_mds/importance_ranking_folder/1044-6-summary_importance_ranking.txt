@@ -1,3 +1,0 @@
-(0.3333333333333333, 'Mix it up.')
-(0.3333333333333333, 'Make sure to do at least 10 minutes of activity at a time, shorter bursts of activity will not have the same health benefits.')
-(0.3333333333333333, 'Child Care gives the support providers need by providing tools and resources for healthy eating and active living in child care centers and homes.')

@@ -1,3 +1,0 @@
-(0.337880891825716, 'The Certificate of Approval issued to a Montessori School states that the school is approved to operate a "nonpublic Montessori educational program."')
-(0.33637515560711506, 'Yes, if the child care center holds a Certificate of Approval from the Maryland State Board of Education to operate a nonpublic Montessori educational program.')
-(0.32574395256716865, 'The Code of Maryland Regulations 13A.09.09.02B (11) defines "Montessori" as an educational program that is based on the educational philosophy of Dr. Maria Montessori as reflected in the qualifications of the teachers, written curriculum, instructional methods, and materials and equipment used to implement the instructional program.')

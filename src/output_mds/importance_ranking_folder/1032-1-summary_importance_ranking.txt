@@ -1,3 +1,0 @@
-(0.35205584550182223, 'Separation anxiety disorder (SAD) is a common anxiety disorder in children that is distinguished by extreme distress and hysterical fits whenever a child is separated from a primary caregiver, may it be a parent, relative or nanny.')
-(0.3342136526974632, "Though these encounters tend to be difficult for the child, this separation anxiety - as it is called, is but a normal part of a child's growth and development.")
-(0.3137305018007138, 'At age 5 months, these infants show anxiety when a stranger is present or when a different person other than their primary caregiver gives care.')
