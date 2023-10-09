@@ -1,4 +1,5 @@
 from settings import *
+from extract_triplets import extract_triplets
 
 def extract_triplets_from_single_txt(file_path):
     with open(file_path, "r") as file:
@@ -38,6 +39,10 @@ def extract_triplets_from_single_txt(file_path):
                         if pobj and left_edge:
                             object_ = ' '.join([token.text] + pobj + right_edge)
                             triplets.append((subject, verb, object_))
+
+                # Adding REBEL triple extraction
+                triplets += extract_triplets(text=sentence.text)
+
     return triplets
 
 def process_folder(input_folder, output_folder):

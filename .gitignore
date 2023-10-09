@@ -130,3 +130,5 @@ dmypy.json
 /venv-martina/
 /.idea/
 .DS_Store
+
+misc/*
