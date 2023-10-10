@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Rule-based triple extraction
+
+For each sentence in the text
+- getting noun phrases
+- optional: filtering pronoun NPs, merging them
+- finding dependency path between each pair of NPS
+- filter and extract in the form (subject, predicate, object)
+"""
 import spacy
 from collections import defaultdict
 
@@ -98,57 +108,67 @@ def convert_path_triple_to_triple(path_triple, map_noun_head_to_text):
     subject_t = map_noun_head_to_text[path_triple[0]]
     predicate_t = ""
     object_t = map_noun_head_to_text[path_triple[-1]]
-    index_verb = [i for i, x in enumerate(path_triple) if x.pos_ == "VERB"][0]
+    index_verb = [i for i, x in enumerate(path_triple) if x.pos_ == "VERB"][-1]
 
     for i, token in enumerate(path_triple):
         if i not in [0, len(path_triple) -1]:
-            if i < index_verb and not token.text in subject_t:
+            if i < index_verb and not token.text in subject_t and not token.pos_ == "VERB":
                 subject_t = f"{subject_t} {token.text}"
-            if i >= index_verb:
+            if i == index_verb:
+                predicate_t = token.text + " " +  \
+                     ' '.join([x.text for x in token.children if \
+                        x.dep_ in ['dobj'] and x.text not in object_t.split(" ")])
+            if i > index_verb:
                 if token.text not in object_t:
                     predicate_t = f"{predicate_t} {token.text}"
 
     return (subject_t.strip(), predicate_t.strip(), object_t.strip())
 
 
+def get_triple_from_text_rb(text, filtering=True, merging=True):
+    """ Extracting triples at sentence level """
+    output = []
+    doc = NLP(text)
+    for sent in doc.sents:
+        # Getting, filtering, merging NPs
+        noun_chunks = list(sent.noun_chunks)
+        noun_chunks = filter_np(noun_phrases=noun_chunks) if filtering else noun_chunks
+
+        if merging:
+            noun_chunks = merge_np(noun_phrases=noun_chunks)
+        else:
+            noun_chunks = [(x.root, x.text) for x in noun_chunks]
+
+        # Dependency path between each pair of noun_chunks in the sentence
+        dep_path = defaultdict(list)
+        for i, t_1 in enumerate(noun_chunks):
+            for t_2 in noun_chunks[i+1:]:
+                curr_path = find_dependency_path(t_1[0], t_2[0])
+                if any(x.pos_ == "VERB" for x in curr_path[1:-1]):
+                    dep_path[t_1[0]].append(curr_path)
+                    dep_path[t_2[0]].append(curr_path)
+        dep_path = {k: sorted(triples, key=len) for k, triples in dep_path.items()}
+
+        # Extract unique dependency path
+        path_triples, text_triples = [], []
+        for path in [x[0] for _, x in dep_path.items() if x]:
+            curr_text = " ".join([y.text for y in path])
+            if curr_text not in text_triples:
+                path_triples.append(path)
+                text_triples.append(curr_text)
+
+        # Convert dependency paths to triples
+        mapping_np = {token: text for (token, text) in noun_chunks}
+        for path in path_triples:
+            triple = convert_path_triple_to_triple(
+                path_triple=path, map_noun_head_to_text=mapping_np)
+            output.append(triple)
+
+    return output
+
+
 if __name__ == '__main__':
     TEXT = "Cellulose was founded in 1838 by the French chemist Anselme Payen, who isolated it from plant matter and determined its chemical formula."
-    DOC = NLP(TEXT)
-    noun_chunks = list(DOC.noun_chunks)
-    print(f"Orig. NPs: {noun_chunks}")
-
-    noun_chunks = filter_np(noun_phrases=noun_chunks)
-    print(f"Filtered NPs: {noun_chunks}")
-
-    noun_chunks = merge_np(noun_phrases=noun_chunks)
-    print(f"Merged NPs: {noun_chunks}")
-    print("==========")
-
-    dep_path = defaultdict(list)
-    for i, t_1 in enumerate(noun_chunks):
-        for t_2 in noun_chunks[i+1:]:
-            curr_path = find_dependency_path(t_1[0], t_2[0])
-            if any(x.pos_ == "VERB" for x in curr_path[1:-1]):
-                dep_path[t_1[0]].append(curr_path)
-                dep_path[t_2[0]].append(curr_path)
-        
-    
-    for k in dep_path:
-        dep_path[k] = sorted(dep_path[k], key=len)
-
-    path_triples, text_triples = [], []
-    for path in [x[0] for _, x in dep_path.items() if x]:
-        curr_text = " ".join([y.text for y in path])
-        if curr_text not in text_triples:
-            path_triples.append(path)
-            text_triples.append(curr_text)
-
-    print(path_triples)
-    print("======")
-
-    mapping_np = {token: text for (token, text) in noun_chunks}
-    for path in path_triples:
-        print(convert_path_triple_to_triple(path_triple=path, map_noun_head_to_text=mapping_np))
-    
-
-
+    TRIPLES = get_triple_from_text_rb(text=TEXT, filtering=True, merging=True)
+    for triple in TRIPLES:
+        print(triple)
