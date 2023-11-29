@@ -1,0 +1,29 @@
+porcelain - http://dbpedia.org/resource/Porcelain
+administration - http://dbpedia.org/resource/Public_administration
+custom duty - http://dbpedia.org/resource/Tariff
+northern india - http://dbpedia.org/resource/North_India
+soldier - http://dbpedia.org/resource/Soldier
+british government - http://dbpedia.org/resource/British_Raj
+british empire - http://dbpedia.org/resource/British_Empire
+dominant - http://dbpedia.org/resource/Dominant-party_system
+east india company - http://dbpedia.org/resource/East_India_Company
+apply pressure - http://dbpedia.org/resource/Apply_Pressure
+military alliance - http://dbpedia.org/resource/Military_alliance
+armed force - http://dbpedia.org/resource/Military
+tea - http://dbpedia.org/resource/Tea
+indian subcontinent - http://dbpedia.org/resource/Indian_subcontinent
+indian rebellion - http://dbpedia.org/resource/Indian_Rebellion_of_1857
+peasant - http://dbpedia.org/resource/Peasant
+trading post - http://dbpedia.org/resource/Fur_trade
+trade route - http://dbpedia.org/resource/Trade_route
+foundation stone - http://dbpedia.org/resource/Cornerstone
+revenue - http://dbpedia.org/resource/Revenue
+catalyst - http://dbpedia.org/resource/Catalysis
+bantam - http://dbpedia.org/resource/Bantamweight
+cultural change - http://dbpedia.org/resource/Culture
+human - http://dbpedia.org/resource/Human_rights
+britain - http://dbpedia.org/resource/British_Empire
+british library - http://dbpedia.org/resource/British_Library
+navy - http://dbpedia.org/resource/Navy
+textile - http://dbpedia.org/resource/Textile_industry
+spice - http://dbpedia.org/resource/Spice_trade

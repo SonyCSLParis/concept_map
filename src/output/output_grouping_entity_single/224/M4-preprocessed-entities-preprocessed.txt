@@ -1,0 +1,62 @@
+migration - http://dbpedia.org/resource/Human_migration
+american river - http://dbpedia.org/resource/American_River
+south america - http://dbpedia.org/resource/South_America
+engender - http://dbpedia.org/resource/Engender
+mexican american war - http://dbpedia.org/resource/Mexican–American_War
+49er - http://dbpedia.org/resource/California_Gold_Rush
+sacramento - http://dbpedia.org/resource/Sacramento_River
+mexico - http://dbpedia.org/resource/Mexico
+turkey - http://dbpedia.org/resource/Turkey
+tax - http://dbpedia.org/resource/Tax
+prospector - http://dbpedia.org/resource/Prospecting
+emigration - http://dbpedia.org/resource/Emigration
+trail - http://dbpedia.org/resource/Trail
+population growth - http://dbpedia.org/resource/Population_growth
+hidalgo - http://dbpedia.org/resource/Hidalgo_(nobility)
+soot - http://dbpedia.org/resource/Soot
+california legislature - http://dbpedia.org/resource/California_State_Legislature
+immigration - http://dbpedia.org/resource/Immigration
+california - http://dbpedia.org/resource/History_of_California
+gold nugget - http://dbpedia.org/resource/Gold_nugget
+wage - http://dbpedia.org/resource/Wage
+westward movement - http://dbpedia.org/resource/Westward_movement
+john sutter - http://dbpedia.org/resource/John_Sutter
+trigger - http://dbpedia.org/resource/Hypnosis
+chinese immigration - http://dbpedia.org/resource/History_of_Chinese_Americans
+panama - http://dbpedia.org/resource/Panama
+demographic - http://dbpedia.org/resource/Demography
+entail - http://dbpedia.org/resource/Fee_tail
+foreign miners tax - http://dbpedia.org/resource/Foreign_Miners'_Tax_Act_of_1850
+news - http://dbpedia.org/resource/News_media
+food - http://dbpedia.org/resource/Food
+sawmill - http://dbpedia.org/resource/Sawmill
+bear - http://dbpedia.org/resource/Bear
+pot - http://dbpedia.org/resource/Pottery
+gold prospector - http://dbpedia.org/resource/Prospecting
+gold - http://dbpedia.org/resource/Gold
+utensil - http://dbpedia.org/resource/Tool
+digitize - http://dbpedia.org/resource/Digitization
+bug - http://dbpedia.org/resource/Software_bug
+chile - http://dbpedia.org/resource/Chile
+agriculturalist - http://dbpedia.org/resource/Agriculture
+ireland - http://dbpedia.org/resource/Ireland
+oregon - http://dbpedia.org/resource/Oregon_Trail
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+immigrant - http://dbpedia.org/resource/Immigration
+san diego - http://dbpedia.org/resource/San_Diego
+guadalupe - http://dbpedia.org/resource/Our_Lady_of_Guadalupe
+miner - http://dbpedia.org/resource/Mining
+harvard university - http://dbpedia.org/resource/Harvard_University
+germany - http://dbpedia.org/resource/Nazi_Germany
+transcontinental railroad - http://dbpedia.org/resource/First_Transcontinental_Railroad
+boredom - http://dbpedia.org/resource/Boredom
+prey - http://dbpedia.org/resource/Predation
+gold mountain - http://dbpedia.org/resource/Jinshan_District
+white americans - http://dbpedia.org/resource/White_Americans
+american company - http://dbpedia.org/resource/Old_American_Company
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+swift - http://dbpedia.org/resource/Swift
+san francisco - http://dbpedia.org/resource/History_of_San_Francisco
+york - http://dbpedia.org/resource/York
+chinese exclusion - http://dbpedia.org/resource/Chinese_Exclusion_Act
+listed - http://dbpedia.org/resource/Initial_public_offering

@@ -1,0 +1,227 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+autonomous rule - http://dbpedia.org/resource/Autonomous_administrative_division
+garrison - http://dbpedia.org/resource/Garrison
+muldoon - http://dbpedia.org/resource/Robert_Muldoon
+liberal - http://dbpedia.org/resource/Liberalism
+feature group - http://dbpedia.org/resource/Feature_group
+golf - http://dbpedia.org/resource/Golf
+adjourn - http://dbpedia.org/resource/Adjournment
+eastern interior - http://dbpedia.org/resource/Eastern_Oregon
+postal route - http://dbpedia.org/resource/Post_road
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
+picnic - http://dbpedia.org/resource/Picnic
+army retreat - http://dbpedia.org/resource/Great_Retreat_(Serbian)
+texans - http://dbpedia.org/resource/Texas
+capital life - http://dbpedia.org/resource/Capital_Life
+newspaper - http://dbpedia.org/resource/Newspaper
+pilgrim - http://dbpedia.org/resource/Pilgrim
+john cummins - http://dbpedia.org/resource/John_Stephen_Cummins
+town church - http://dbpedia.org/resource/Town_Church,_Guernsey
+santa fe railway - http://dbpedia.org/resource/Atchison,_Topeka_and_Santa_Fe_Railway
+mexican army - http://dbpedia.org/resource/Mexican_Army
+barrett - http://dbpedia.org/resource/Stephen_Barrett
+meander - http://dbpedia.org/resource/Meander
+woodland - http://dbpedia.org/resource/Woodland
+log cabin - http://dbpedia.org/resource/Log_cabin
+anglo american - http://dbpedia.org/resource/English_Americans
+bellville - http://dbpedia.org/resource/Bellville_railway_station
+altitude - http://dbpedia.org/resource/Metres_above_sea_level
+gazette - http://dbpedia.org/resource/Gazette
+ferry - http://dbpedia.org/resource/Ferry
+encompass - http://dbpedia.org/resource/Encompass
+austin county - http://dbpedia.org/resource/Austin_County,_Texas
+log house - http://dbpedia.org/resource/Log_cabin
+president - http://dbpedia.org/resource/President_of_the_United_States
+primary school - http://dbpedia.org/resource/Primary_school
+stephen fuller austin - http://dbpedia.org/resource/Stephen_F._Austin
+pioneer era - http://dbpedia.org/resource/American_pioneer
+immigrant - http://dbpedia.org/resource/Immigration
+henry smith - http://dbpedia.org/resource/Henry_Smith_(Texas_governor)
+transport - http://dbpedia.org/resource/Transport
+narrow gauge railway - http://dbpedia.org/resource/Narrow-gauge_railway
+baron de bastrop - http://dbpedia.org/resource/Felipe_Enrique_Neri,_Baron_de_Bastrop
+settler - http://dbpedia.org/resource/Settler
+terrified - http://dbpedia.org/resource/Terrified_(album)
+fish - http://dbpedia.org/resource/Fishing
+monument - http://dbpedia.org/resource/Monument
+westward - http://dbpedia.org/resource/Westward_Television
+bronze - http://dbpedia.org/resource/Bronze
+town - http://dbpedia.org/resource/Town
+sprawl - http://dbpedia.org/resource/Urban_sprawl
+gen. - http://dbpedia.org/resource/Divisional_general
+church school - http://dbpedia.org/resource/Christian_school
+corrie - http://dbpedia.org/resource/Cirque
+turbulence - http://dbpedia.org/resource/Turbulence
+bullinger - http://dbpedia.org/resource/Heinrich_Bullinger
+municipality - http://dbpedia.org/resource/Municipality
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+patron saint - http://dbpedia.org/resource/Patron_saint
+hotel - http://dbpedia.org/resource/Hotel
+oak grove - http://dbpedia.org/resource/Oak_Grove_station
+reform government - http://dbpedia.org/resource/Reform_Government_of_New_Zealand
+counties - http://dbpedia.org/resource/County
+horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman
+provinces - http://dbpedia.org/resource/Provinces_of_the_Philippines
+josiah - http://dbpedia.org/resource/Josiah_Wedgwood
+wood - http://dbpedia.org/resource/Lumber
+historical records - http://dbpedia.org/resource/History
+texas western - http://dbpedia.org/resource/University_of_Texas_at_El_Paso
+galveston - http://dbpedia.org/resource/Port_of_Galveston
+migrant farm worker - http://dbpedia.org/resource/Migrant_worker
+article - http://dbpedia.org/resource/Bratislava
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+road 38 - http://dbpedia.org/resource/Road_38_(Iran)
+tavern - http://dbpedia.org/resource/Tavern
+harper - http://dbpedia.org/resource/Stephen_Harper
+stock - http://dbpedia.org/resource/Livestock
+austin group - http://dbpedia.org/resource/Austin_Group
+protestant - http://dbpedia.org/resource/Protestantism
+ingram - http://dbpedia.org/resource/Ingram_Content_Group
+washington - http://dbpedia.org/resource/George_Washington
+postal system - http://dbpedia.org/resource/Mail
+ray miller - http://dbpedia.org/resource/Ray_Miller_(baseball_manager)
+dissertation - http://dbpedia.org/resource/Thesis
+settlement - http://dbpedia.org/resource/Town
+ph.d. - http://dbpedia.org/resource/Doctor_of_Philosophy
+cotton plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
+houston - http://dbpedia.org/resource/Houston
+station - http://dbpedia.org/resource/Train_station
+post office - http://dbpedia.org/resource/Post_office
+law - http://dbpedia.org/resource/Law
+taxation - http://dbpedia.org/resource/Tax
+organic law - http://dbpedia.org/resource/Organic_law
+glasscock - http://dbpedia.org/resource/Glasscock_County,_Texas
+morton - http://dbpedia.org/resource/Greenock_Morton_F.C.
+gail borden - http://dbpedia.org/resource/Gail_Borden
+mier - http://dbpedia.org/resource/Mier_expedition
+garza - http://dbpedia.org/resource/Matt_Garza
+independent - http://dbpedia.org/resource/Independence
+thesis - http://dbpedia.org/resource/Thesis
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+postmaster - http://dbpedia.org/resource/Postmaster
+teachers college - http://dbpedia.org/resource/Normal_school
+revolution - http://dbpedia.org/resource/French_Revolution
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+colonist - http://dbpedia.org/resource/Settler
+volatile - http://dbpedia.org/resource/Volatile_organic_compound
+site town - http://dbpedia.org/resource/SITE_Town
+colorado - http://dbpedia.org/resource/Colorado_River
+water - http://dbpedia.org/resource/Water_supply
+brenham - http://dbpedia.org/resource/Brenham,_Texas
+governor general - http://dbpedia.org/resource/Governor-general
+petition - http://dbpedia.org/resource/Petition
+mouth - http://dbpedia.org/resource/Estuary
+mexican republic - http://dbpedia.org/resource/First_Mexican_Republic
+columbia - http://dbpedia.org/resource/Cuban_rumba
+colorado river - http://dbpedia.org/resource/Colorado_River
+cattle drive - http://dbpedia.org/resource/Cattle_drive
+gulf - http://dbpedia.org/resource/Gulf_of_Mexico
+october november - http://dbpedia.org/resource/October_November
+sealy - http://dbpedia.org/resource/Sealy_Corporation
+steamboat - http://dbpedia.org/resource/Steamboat
+immigration - http://dbpedia.org/resource/Immigration
+cordovan - http://dbpedia.org/resource/Leather
+san antonio - http://dbpedia.org/resource/San_Antonio
+civil war - http://dbpedia.org/resource/American_Civil_War
+spring - http://dbpedia.org/resource/Mineral_spring
+empresario - http://dbpedia.org/resource/Empresario
+bottomland - http://dbpedia.org/resource/Upland_and_lowland
+masonic - http://dbpedia.org/resource/Freemasonry
+don carlos - http://dbpedia.org/resource/Charles_III_of_Spain
+election - http://dbpedia.org/resource/Election
+rail - http://dbpedia.org/resource/Rail_transport
+function - http://dbpedia.org/resource/Role
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+moseley baker - http://dbpedia.org/resource/Moseley_Baker
+catholic - http://dbpedia.org/resource/Catholic_Church
+bell - http://dbpedia.org/resource/Bell_tower
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+provisional government - http://dbpedia.org/resource/Provisional_government
+land office - http://dbpedia.org/resource/General_Land_Office
+lumber mill - http://dbpedia.org/resource/Sawmill
+sunday school - http://dbpedia.org/resource/Sunday_school
+capital - http://dbpedia.org/resource/Capital_city
+interstate highway 10 - http://dbpedia.org/resource/Interstate_10
+wagon - http://dbpedia.org/resource/Wagon_train
+language - http://dbpedia.org/resource/Ukrainian_language
+texas rangers - http://dbpedia.org/resource/Texas_Ranger_Division
+spring rain - http://dbpedia.org/resource/Spring_Rain_(The_Go-Betweens_song)
+printing - http://dbpedia.org/resource/Printing_press
+blanche - http://dbpedia.org/resource/Blanche_of_Castile
+keelboat - http://dbpedia.org/resource/Keelboat
+stream - http://dbpedia.org/resource/Stream
+burial ground - http://dbpedia.org/resource/Cemetery
+urban - http://dbpedia.org/resource/City
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+noel - http://dbpedia.org/resource/Wiki
+militant - http://dbpedia.org/resource/Military
+bridge - http://dbpedia.org/resource/Bridge
+general store - http://dbpedia.org/resource/General_store
+peter nielsen - http://dbpedia.org/resource/Peter_Nielsen_(footballer)
+confine - http://dbpedia.org/resource/Confine
+trailer - http://dbpedia.org/resource/Mobile_home
+open land - http://dbpedia.org/resource/Open_Land
+surveyor - http://dbpedia.org/resource/Surveying
+grazing - http://dbpedia.org/resource/Pastoralism
+navigation - http://dbpedia.org/resource/Navigability
+free water - http://dbpedia.org/resource/Free_water_clearance
+texas - http://dbpedia.org/resource/Texas
+lavaca river - http://dbpedia.org/resource/Lavaca_River
+family - http://dbpedia.org/resource/Family
+coast - http://dbpedia.org/resource/Gulf_Coast_of_the_United_States
+regular grid - http://dbpedia.org/resource/Regular_grid
+acre - http://dbpedia.org/resource/Acre
+thomas - http://dbpedia.org/resource/THOMAS
+news - http://dbpedia.org/resource/Journalism
+spur - http://dbpedia.org/resource/Branch_line
+friction - http://dbpedia.org/resource/Friction
+bibliography - http://dbpedia.org/resource/Bibliography
+eugene - http://dbpedia.org/resource/Eugene_Porter
+trail - http://dbpedia.org/resource/Trail
+county seat - http://dbpedia.org/resource/County_seat
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+austin - http://dbpedia.org/resource/Austin_College
+branch t. archer - http://dbpedia.org/resource/Branch_T._Archer
+miller - http://dbpedia.org/resource/Gristmill
+itinerant minister - http://dbpedia.org/resource/Itinerant_preacher
+obelisk - http://dbpedia.org/resource/Obelisk
+colony - http://dbpedia.org/resource/Colony
+christopher jackson - http://dbpedia.org/resource/Christopher_Jackson_(actor)
+draft - http://dbpedia.org/resource/Conscription
+charles - http://dbpedia.org/resource/Charles_II_of_England
+wharton - http://dbpedia.org/resource/Winsford
+carrier - http://dbpedia.org/resource/Common_carrier
+barker - http://dbpedia.org/resource/Barker_channel
+noah - http://dbpedia.org/resource/Noah's_Ark
+texas history - http://dbpedia.org/resource/History_of_Texas
+common land - http://dbpedia.org/resource/Common_land
+specific charge - http://dbpedia.org/resource/Mass-to-charge_ratio
+atascosito - http://dbpedia.org/resource/Liberty,_Texas
+san - http://dbpedia.org/resource/Japanese_honorifics
+priest - http://dbpedia.org/resource/Clergy
+dog - http://dbpedia.org/resource/Dog
+blacksmith - http://dbpedia.org/resource/Blacksmith
+republic - http://dbpedia.org/resource/Republic
+fresh water - http://dbpedia.org/resource/Drinking_water
+public education - http://dbpedia.org/resource/State_school
+church - http://dbpedia.org/resource/Catholic_Church
+hispanic - http://dbpedia.org/resource/Hispanic
+governor - http://dbpedia.org/resource/Governor
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+brazos river - http://dbpedia.org/resource/Brazos_River
+m.a. - http://dbpedia.org/resource/Master_of_Arts
+bluff - http://dbpedia.org/resource/Hill
+stephen austin - http://dbpedia.org/resource/Stephen_F._Austin
+wilma - http://dbpedia.org/resource/Hurricane_Wilma
+courthouse - http://dbpedia.org/resource/Courthouse
+julia - http://dbpedia.org/resource/Julia_the_Elder
+plat - http://dbpedia.org/resource/Plat
+evolution - http://dbpedia.org/resource/Evolution
+tariff - http://dbpedia.org/resource/Tariff
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+historical marker - http://dbpedia.org/resource/Texas_Historical_Commission
+runaway scrape - http://dbpedia.org/resource/Runaway_Scrape
+southwestern historical quarterly - http://dbpedia.org/resource/Texas_State_Historical_Association
+autonomous - http://dbpedia.org/resource/Autonomy

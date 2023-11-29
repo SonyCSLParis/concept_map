@@ -1,0 +1,41 @@
+indigestion - http://dbpedia.org/resource/Indigestion
+mercenary - http://dbpedia.org/resource/Mercenary
+sand - http://dbpedia.org/resource/Sand
+slave - http://dbpedia.org/resource/History_of_slavery
+garrison - http://dbpedia.org/resource/Garrison
+pea bean - http://dbpedia.org/resource/Pea_bean
+tax - http://dbpedia.org/resource/Tax
+king richard ii - http://dbpedia.org/resource/Richard_II_of_England
+array - http://dbpedia.org/resource/Array_data_structure
+barley wine - http://dbpedia.org/resource/Barley_wine
+coat - http://dbpedia.org/resource/Fur_clothing
+gilded - http://dbpedia.org/resource/Gilding
+sussex - http://dbpedia.org/resource/Sussex
+manor house - http://dbpedia.org/resource/Manorialism
+fat - http://dbpedia.org/resource/Vegetable_oil
+supply ship - http://dbpedia.org/resource/Cargo_ship
+barrel - http://dbpedia.org/resource/Barrel
+meat - http://dbpedia.org/resource/Lamb_and_mutton
+barricade - http://dbpedia.org/resource/Barricade
+oats - http://dbpedia.org/resource/Oat
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+flour - http://dbpedia.org/resource/Flour
+archer - http://dbpedia.org/resource/Archery
+mast - http://dbpedia.org/resource/Strained_yogurt
+militia - http://dbpedia.org/resource/Militia
+french invasion fleet - http://dbpedia.org/resource/Wolfe_Tone
+english coast - http://dbpedia.org/resource/English_Coast
+french wine - http://dbpedia.org/resource/French_wine
+sluys - http://dbpedia.org/resource/Sluis
+invasion - http://dbpedia.org/resource/Invasion
+egg yolk - http://dbpedia.org/resource/Yolk
+sea sickness - http://dbpedia.org/resource/Motion_sickness
+flanders - http://dbpedia.org/resource/County_of_Flanders
+noble - http://dbpedia.org/resource/Nobility
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+onion - http://dbpedia.org/resource/Onion
+vinegar - http://dbpedia.org/resource/Vinegar
+prepare - http://dbpedia.org/resource/PREPARE
+weather - http://dbpedia.org/resource/Weather
+food - http://dbpedia.org/resource/Fish_as_food
+garlic - http://dbpedia.org/resource/Garlic

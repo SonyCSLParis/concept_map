@@ -1,0 +1,41 @@
+lord family - http://dbpedia.org/resource/Lord_family
+king noble - http://dbpedia.org/resource/Reynard_the_Fox
+ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
+military elite - http://dbpedia.org/resource/Special_forces
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+mount - http://dbpedia.org/resource/Working_animal
+warfare - http://dbpedia.org/resource/Medieval_warfare
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+economy - http://dbpedia.org/resource/Economy
+wood - http://dbpedia.org/resource/Wood
+stone - http://dbpedia.org/resource/Masonry
+stone - http://dbpedia.org/resource/Masonry
+main castle - http://dbpedia.org/resource/Inner_bailey
+brick - http://dbpedia.org/resource/Brick
+brick - http://dbpedia.org/resource/Brick
+wood - http://dbpedia.org/resource/Wood
+norman bailey - http://dbpedia.org/resource/Norman_Bailey_(bass-baritone)
+wood - http://dbpedia.org/resource/Wood
+glass - http://dbpedia.org/resource/Glass
+noble - http://dbpedia.org/resource/Nobility
+peasant - http://dbpedia.org/resource/Peasant
+great tower - http://dbpedia.org/resource/Keep
+defense - http://dbpedia.org/resource/Military
+noble - http://dbpedia.org/resource/Nobility
+moat - http://dbpedia.org/resource/Moat
+noble - http://dbpedia.org/resource/Nobility
+krak des chevaliers - http://dbpedia.org/resource/Krak_des_Chevaliers
+kurds - http://dbpedia.org/resource/Kurds
+fortress - http://dbpedia.org/resource/Castle
+noble - http://dbpedia.org/resource/Nobility
+noble - http://dbpedia.org/resource/Nobility
+moat - http://dbpedia.org/resource/Moat
+defensive ditch - http://dbpedia.org/resource/Ditch_(fortification)
+water - http://dbpedia.org/resource/Water
+siege tower - http://dbpedia.org/resource/Siege_tower
+archer - http://dbpedia.org/resource/Bow_and_arrow
+gate - http://dbpedia.org/resource/Gate
+com4 - http://dbpedia.org/resource/DOS
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)

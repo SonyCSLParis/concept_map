@@ -1,0 +1,62 @@
+republic - http://dbpedia.org/resource/French_First_Republic
+anna - http://dbpedia.org/resource/Indian_anna
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+tariff - http://dbpedia.org/resource/Tariff
+texas - http://dbpedia.org/resource/Texas
+petition - http://dbpedia.org/resource/Petition
+set 3 - http://dbpedia.org/resource/SET_3
+travis - http://dbpedia.org/resource/Travis_Manawa
+rio grande - http://dbpedia.org/resource/Rio_Grande
+john austin - http://dbpedia.org/resource/J._L._Austin
+cannon - http://dbpedia.org/resource/Cannon
+st - http://dbpedia.org/resource/SATB
+die - http://dbpedia.org/resource/Death
+velasco - http://dbpedia.org/resource/Spanish_cruiser_Velasco
+mexicans - http://dbpedia.org/resource/Mexico
+fannin - http://dbpedia.org/resource/James_Fannin
+austin - http://dbpedia.org/resource/Austin_College
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+alcalde - http://dbpedia.org/resource/Alcalde
+immigration - http://dbpedia.org/resource/Immigration
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+february 13 - http://dbpedia.org/resource/February_13
+john moore - http://dbpedia.org/resource/John_Moore_(British_Army_officer)
+lift - http://dbpedia.org/resource/Elevator
+empresario - http://dbpedia.org/resource/Empresario
+washington - http://dbpedia.org/resource/George_Washington
+ltc - http://dbpedia.org/resource/Lieutenant_colonel
+susanna dickinson - http://dbpedia.org/resource/Susanna_Dickinson
+long expedition - http://dbpedia.org/resource/Long_Expedition
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+bear - http://dbpedia.org/resource/Bear
+angelina - http://dbpedia.org/resource/Angelina_River
+erika - http://dbpedia.org/resource/Erika_Mann
+slide - http://dbpedia.org/resource/Slide_guitar
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+primary school - http://dbpedia.org/resource/Primary_school
+houston - http://dbpedia.org/resource/Houston
+secret santa - http://dbpedia.org/resource/Secret_Santa
+goliad - http://dbpedia.org/resource/Goliad_massacre
+mexico city - http://dbpedia.org/resource/Mexico_City
+louisiana - http://dbpedia.org/resource/Louisiana
+win independence - http://dbpedia.org/resource/Republic_of_Texas
+pres - http://dbpedia.org/resource/Pôle_de_recherche_et_d'enseignement_supérieur
+independent - http://dbpedia.org/resource/Independence
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+anahuac - http://dbpedia.org/resource/Valley_of_Mexico
+revolution - http://dbpedia.org/resource/French_Revolution
+texian - http://dbpedia.org/resource/Texians
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+statehood - http://dbpedia.org/resource/U.S._state
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
+treaty 1 - http://dbpedia.org/resource/Treaty_1
+term limit - http://dbpedia.org/resource/Term_limit
+domingo de ugartechea - http://dbpedia.org/resource/Domingo_Ugartechea
+texians - http://dbpedia.org/resource/Texians
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+col - http://dbpedia.org/resource/Mountain_pass
+bahia - http://dbpedia.org/resource/Bahia
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+coahuila - http://dbpedia.org/resource/Coahuila

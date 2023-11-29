@@ -1,0 +1,38 @@
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+luke - http://dbpedia.org/resource/Luke_the_Evangelist
+ancient ireland - http://dbpedia.org/resource/Prehistoric_Ireland
+celtic art - http://dbpedia.org/resource/Celtic_art
+western europe - http://dbpedia.org/resource/Western_Europe
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+iona - http://dbpedia.org/resource/Iona
+st. columba - http://dbpedia.org/resource/Columba
+church - http://dbpedia.org/resource/Catholic_Church
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+monastery - http://dbpedia.org/resource/Monastery
+county meath - http://dbpedia.org/resource/County_Meath
+ireland - http://dbpedia.org/resource/Ireland
+ditch - http://dbpedia.org/resource/Hadrian's_Wall
+water - http://dbpedia.org/resource/Water
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+monastery - http://dbpedia.org/resource/Monastery
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+roman catholic church - http://dbpedia.org/resource/Catholic_Church
+ireland - http://dbpedia.org/resource/Ireland
+trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+archbishop ussher - http://dbpedia.org/resource/James_Ussher
+library - http://dbpedia.org/resource/Biblioteca_Marciana
+hebrew - http://dbpedia.org/resource/Hebrew_language
+cannon - http://dbpedia.org/resource/Cannon
+calfskin - http://dbpedia.org/resource/Calfskin
+amazing - http://dbpedia.org/resource/Earth-616
+saint - http://dbpedia.org/resource/Saint
+christ - http://dbpedia.org/resource/Jesus
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+amazing - http://dbpedia.org/resource/Earth-616
+symbol - http://dbpedia.org/resource/Christian_symbolism
+ribbon - http://dbpedia.org/resource/Ribbon
+square inch - http://dbpedia.org/resource/Square_inch
+magnifying glass - http://dbpedia.org/resource/Magnifying_glass
+angel - http://dbpedia.org/resource/Angel
+kells - http://dbpedia.org/resource/Abbey_of_Kells

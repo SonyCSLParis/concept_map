@@ -1,0 +1,774 @@
+borobudur - http://dbpedia.org/resource/Borobudur
+stupa - http://dbpedia.org/resource/Stupa
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+central java - http://dbpedia.org/resource/Central_Java
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage - http://dbpedia.org/resource/Tradition
+monument - http://dbpedia.org/resource/Monument
+single - http://dbpedia.org/resource/Phonograph_record
+buddhist - http://dbpedia.org/resource/Buddhism
+remarkable - http://dbpedia.org/resource/ReMarkable
+heart - http://dbpedia.org/resource/Heart
+kedu plain - http://dbpedia.org/resource/Kedu_Plain
+volcano - http://dbpedia.org/resource/Volcano
+drama - http://dbpedia.org/resource/Theatre
+borobudur - http://dbpedia.org/resource/Borobudur
+sailendra - http://dbpedia.org/resource/Shailendra_dynasty
+central java - http://dbpedia.org/resource/Central_Java
+hinduism - http://dbpedia.org/resource/Hinduism
+buddhism - http://dbpedia.org/resource/Buddhism
+baffle - http://dbpedia.org/resource/Loudspeaker_enclosure
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+hindu - http://dbpedia.org/resource/Hindus
+buddhist - http://dbpedia.org/resource/Buddhism
+noble - http://dbpedia.org/resource/Nobility
+hindu - http://dbpedia.org/resource/Hindus
+buddhist - http://dbpedia.org/resource/Buddhism
+monument - http://dbpedia.org/resource/Monument
+region - http://dbpedia.org/resource/Region
+borobudur - http://dbpedia.org/resource/Borobudur
+hindu - http://dbpedia.org/resource/Hindus
+prambanan - http://dbpedia.org/resource/Prambanan
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+thread - http://dbpedia.org/resource/Yarn
+borobudur - http://dbpedia.org/resource/Borobudur
+volcanic ash - http://dbpedia.org/resource/Volcanic_ash
+jungle - http://dbpedia.org/resource/Wikipedia
+theory - http://dbpedia.org/resource/Theory
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+islam - http://dbpedia.org/resource/Islam
+volcanic eruption - http://dbpedia.org/resource/Volcano
+folklore - http://dbpedia.org/resource/Folklore
+monument - http://dbpedia.org/resource/Monument
+anglo - http://dbpedia.org/resource/Anglo
+java war - http://dbpedia.org/resource/Java_War
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+british governor - http://dbpedia.org/resource/Governor_of_Hong_Kong
+thomas stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
+mystical - http://dbpedia.org/resource/Mysticism
+semarang - http://dbpedia.org/resource/Semarang
+monument - http://dbpedia.org/resource/Monument
+jungle - http://dbpedia.org/resource/Wikipedia
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+engineer - http://dbpedia.org/resource/Engineer
+jungle - http://dbpedia.org/resource/Wikipedia
+amazing - http://dbpedia.org/resource/Earth-616
+monument - http://dbpedia.org/resource/Monument
+unearth - http://dbpedia.org/resource/Unearth
+raffle - http://dbpedia.org/resource/Raffle
+prambanan - http://dbpedia.org/resource/Prambanan
+ironic - http://dbpedia.org/resource/Irony
+british rule - http://dbpedia.org/resource/British_Empire
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+souvenir - http://dbpedia.org/resource/Souvenir
+hunter - http://dbpedia.org/resource/Hunting
+archaeologist - http://dbpedia.org/resource/Archaeology
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+borobudur - http://dbpedia.org/resource/Borobudur
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+monument - http://dbpedia.org/resource/Monument
+unsteady - http://dbpedia.org/resource/Unsteady_(song)
+drainage - http://dbpedia.org/resource/Drainage
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+borobudur - http://dbpedia.org/resource/Borobudur
+heritage - http://dbpedia.org/resource/Tradition
+borobudur - http://dbpedia.org/resource/Borobudur
+tourist attraction - http://dbpedia.org/resource/Tourism
+relief - http://dbpedia.org/resource/Relief
+stupa - http://dbpedia.org/resource/Stupa
+spawn - http://dbpedia.org/resource/Reproduction
+adorn - http://dbpedia.org/resource/Adorn_(song)
+monument - http://dbpedia.org/resource/Monument
+plea - http://dbpedia.org/resource/Plea_bargain
+monument - http://dbpedia.org/resource/Monument
+access time - http://dbpedia.org/resource/Access_time
+single - http://dbpedia.org/resource/Phonograph_record
+tourist attraction - http://dbpedia.org/resource/Tourism
+borobudur - http://dbpedia.org/resource/Borobudur
+pilgrimage - http://dbpedia.org/resource/Pilgrimage
+indonesian buddhist - http://dbpedia.org/resource/Buddhism_in_Indonesia
+buddhist - http://dbpedia.org/resource/Buddhism
+2006 yogyakarta earthquake - http://dbpedia.org/resource/2006_Yogyakarta_earthquake
+prambanan - http://dbpedia.org/resource/Prambanan
+borobudur - http://dbpedia.org/resource/Borobudur
+eruption - http://dbpedia.org/resource/Volcano
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+borobudur - http://dbpedia.org/resource/Borobudur
+eruption - http://dbpedia.org/resource/Volcano
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+october november - http://dbpedia.org/resource/October_November
+volcanic ash - http://dbpedia.org/resource/Volcanic_ash
+merapi - http://dbpedia.org/resource/Mount_Merapi
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+crater - http://dbpedia.org/resource/Volcanic_crater
+eruption - http://dbpedia.org/resource/Volcano
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+fear - http://dbpedia.org/resource/Fear
+acidic - http://dbpedia.org/resource/Acid
+historic site - http://dbpedia.org/resource/Historic_site
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+ash fall - http://dbpedia.org/resource/Volcanic_ash
+late september - http://dbpedia.org/resource/Late_September
+borobudur - http://dbpedia.org/resource/Borobudur
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+agency - http://dbpedia.org/resource/Institution
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+rehabilitation - http://dbpedia.org/resource/Drug_rehabilitation
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+stone - http://dbpedia.org/resource/Sandstone
+volcanic - http://dbpedia.org/resource/Volcano
+sediment - http://dbpedia.org/resource/Sediment
+plant - http://dbpedia.org/resource/Factory
+tree - http://dbpedia.org/resource/Tree
+temperature - http://dbpedia.org/resource/Atmosphere_of_Earth
+stone - http://dbpedia.org/resource/Sandstone
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+drainage - http://dbpedia.org/resource/Drainage
+clog - http://dbpedia.org/resource/Clog
+slurry - http://dbpedia.org/resource/Slurry
+rain - http://dbpedia.org/resource/Rain
+borobudur - http://dbpedia.org/resource/Borobudur
+kedu plain - http://dbpedia.org/resource/Kedu_Plain
+volcanic - http://dbpedia.org/resource/Volcano
+plain - http://dbpedia.org/resource/Great_Plains
+volcano - http://dbpedia.org/resource/Volcano
+mount sumbing - http://dbpedia.org/resource/Mount_Sumbing
+mount sundoro - http://dbpedia.org/resource/Mount_Sindoro
+mount merbabu - http://dbpedia.org/resource/Mount_Merbabu
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+school holiday - http://dbpedia.org/resource/Academic_year
+calendar - http://dbpedia.org/resource/Calendar
+idul fitri - http://dbpedia.org/resource/Eid_al-Fitr
+candi borobudur - http://dbpedia.org/resource/Borobudur
+prambanan - http://dbpedia.org/resource/Prambanan
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+government park - http://dbpedia.org/resource/Government_Park,_Ontario
+borobudur - http://dbpedia.org/resource/Borobudur
+plane - http://dbpedia.org/resource/Airplane
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+adisucipto international airport - http://dbpedia.org/resource/Adisutjipto_International_Airport
+iata - http://dbpedia.org/resource/International_Air_Transport_Association
+adisumarmo international airport - http://dbpedia.org/resource/Adisumarmo_International_Airport
+iata - http://dbpedia.org/resource/International_Air_Transport_Association
+soc - http://dbpedia.org/resource/System_on_a_chip
+kuala lumpur - http://dbpedia.org/resource/Kuala_Lumpur
+airasia - http://dbpedia.org/resource/AirAsia
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+bit - http://dbpedia.org/resource/Bit
+borobudur - http://dbpedia.org/resource/Borobudur
+bali - http://dbpedia.org/resource/Bali
+jakarta - http://dbpedia.org/resource/Jakarta
+semarang - http://dbpedia.org/resource/Semarang
+achmad yani international airport - http://dbpedia.org/resource/Ahmad_Yani_International_Airport
+iata - http://dbpedia.org/resource/International_Air_Transport_Association
+srg - http://dbpedia.org/resource/Swiss_Broadcasting_Corporation
+batavia air - http://dbpedia.org/resource/Batavia_Air
+air asia - http://dbpedia.org/resource/AirAsia
+kuala lumpur - http://dbpedia.org/resource/Kuala_Lumpur
+borobudur - http://dbpedia.org/resource/Borobudur
+bus - http://dbpedia.org/resource/Bus
+public bus - http://dbpedia.org/resource/Bus
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+trans - http://dbpedia.org/resource/Transgender
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+bus terminal - http://dbpedia.org/resource/Bus_stop
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+bus - http://dbpedia.org/resource/Bus
+rp - http://dbpedia.org/resource/Received_Pronunciation
+bus - http://dbpedia.org/resource/Bus
+borobudur - http://dbpedia.org/resource/Borobudur
+rp - http://dbpedia.org/resource/Received_Pronunciation
+bus conductor - http://dbpedia.org/resource/Bus_conductor
+bus - http://dbpedia.org/resource/Bus
+magelang - http://dbpedia.org/resource/Magelang
+borobudur - http://dbpedia.org/resource/Borobudur
+muntilan - http://dbpedia.org/resource/Muntilan
+hindu temple - http://dbpedia.org/resource/Hindu_temple
+prambanan - http://dbpedia.org/resource/Prambanan
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+bus - http://dbpedia.org/resource/Bus
+terminal - http://dbpedia.org/resource/Airport_terminal
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+indonesians - http://dbpedia.org/resource/Indonesia
+trans - http://dbpedia.org/resource/Transgender
+route 2b - http://dbpedia.org/resource/Quebec_Route_2
+prambanan - http://dbpedia.org/resource/Prambanan
+rp - http://dbpedia.org/resource/Received_Pronunciation
+bus - http://dbpedia.org/resource/Bus
+terminal - http://dbpedia.org/resource/Airport_terminal
+condong - http://dbpedia.org/resource/Condong
+terminal - http://dbpedia.org/resource/Airport_terminal
+condong - http://dbpedia.org/resource/Condong
+maguwo - http://dbpedia.org/resource/Maguwo
+maguwo - http://dbpedia.org/resource/Maguwo
+prambanan - http://dbpedia.org/resource/Prambanan
+minibus - http://dbpedia.org/resource/Minibus
+travel agent - http://dbpedia.org/resource/Travel_agency
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+door door - http://dbpedia.org/resource/Door_Door
+minibus - http://dbpedia.org/resource/Minibus
+rp - http://dbpedia.org/resource/Received_Pronunciation
+good deal - http://dbpedia.org/resource/Good_Deal
+monument - http://dbpedia.org/resource/Monument
+batik - http://dbpedia.org/resource/Batik
+silver - http://dbpedia.org/resource/Silver
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+bus - http://dbpedia.org/resource/Bus
+taxi - http://dbpedia.org/resource/Taxicab
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+borobudur - http://dbpedia.org/resource/Borobudur
+rp - http://dbpedia.org/resource/Received_Pronunciation
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+rp - http://dbpedia.org/resource/Received_Pronunciation
+train - http://dbpedia.org/resource/Train
+station - http://dbpedia.org/resource/Train_station
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+rail - http://dbpedia.org/resource/Rail_transport
+central java - http://dbpedia.org/resource/Central_Java
+west jakarta - http://dbpedia.org/resource/West_Jakarta
+bandung - http://dbpedia.org/resource/Bandung_(drink)
+surabaya - http://dbpedia.org/resource/Surabaya
+station - http://dbpedia.org/resource/Train_station
+taxi - http://dbpedia.org/resource/Taxicab
+bus - http://dbpedia.org/resource/Bus
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+toy train - http://dbpedia.org/resource/Toy_train
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+gate - http://dbpedia.org/resource/Gate
+rp - http://dbpedia.org/resource/Received_Pronunciation
+hotel - http://dbpedia.org/resource/Hotel
+guesthouse - http://dbpedia.org/resource/Inn
+rent - http://dbpedia.org/resource/Renting
+bicycle - http://dbpedia.org/resource/Bicycle
+rp - http://dbpedia.org/resource/Received_Pronunciation
+village - http://dbpedia.org/resource/Village
+borobudur - http://dbpedia.org/resource/Borobudur
+exit sign - http://dbpedia.org/resource/Exit_sign
+maze - http://dbpedia.org/resource/Labyrinth
+souvenir - http://dbpedia.org/resource/Souvenir
+stall - http://dbpedia.org/resource/Market_stall
+borobudur - http://dbpedia.org/resource/Borobudur
+usd - http://dbpedia.org/resource/United_States_dollar
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+work permit - http://dbpedia.org/resource/Work_permit
+relief - http://dbpedia.org/resource/Relief
+rp - http://dbpedia.org/resource/Received_Pronunciation
+european language - http://dbpedia.org/resource/Languages_of_Europe
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+candi borobudur - http://dbpedia.org/resource/Borobudur
+sarong - http://dbpedia.org/resource/Sarong
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+relief - http://dbpedia.org/resource/Relief
+buddha statue - http://dbpedia.org/resource/Buddharupa
+dome - http://dbpedia.org/resource/Dome
+centre platform - http://dbpedia.org/resource/Island_platform
+buddha statue - http://dbpedia.org/resource/Buddharupa
+stupa - http://dbpedia.org/resource/Stupa
+high point - http://dbpedia.org/resource/West_Seattle
+monument - http://dbpedia.org/resource/Monument
+andesite - http://dbpedia.org/resource/Andesite
+stone - http://dbpedia.org/resource/Sandstone
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+kedu plain - http://dbpedia.org/resource/Kedu_Plain
+batu - http://dbpedia.org/resource/Batu_Khan
+candi - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+stone - http://dbpedia.org/resource/Sandstone
+bit - http://dbpedia.org/resource/Bit
+stone - http://dbpedia.org/resource/Sandstone
+sun - http://dbpedia.org/resource/Sunlight
+heat - http://dbpedia.org/resource/Central_heating
+hot work - http://dbpedia.org/resource/Hot_work
+heat - http://dbpedia.org/resource/Central_heating
+tolerance - http://dbpedia.org/resource/Toleration
+water - http://dbpedia.org/resource/Water
+bottled water - http://dbpedia.org/resource/Bottled_water
+coffee - http://dbpedia.org/resource/Coffeehouse
+single - http://dbpedia.org/resource/Phonograph_record
+relief - http://dbpedia.org/resource/Relief
+provenance - http://dbpedia.org/resource/Provenance
+function - http://dbpedia.org/resource/Role
+theory - http://dbpedia.org/resource/Theory
+censor - http://dbpedia.org/resource/Censorship
+relief - http://dbpedia.org/resource/Relief
+buttress - http://dbpedia.org/resource/Buttress
+relief - http://dbpedia.org/resource/Relief
+terrace - http://dbpedia.org/resource/Terraced_house
+terrace - http://dbpedia.org/resource/Terraced_house
+relief - http://dbpedia.org/resource/Relief
+recount - http://dbpedia.org/resource/Election_recount
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+enlightenment - http://dbpedia.org/resource/Enlightenment_in_Buddhism
+relief - http://dbpedia.org/resource/Relief
+gate - http://dbpedia.org/resource/Gate
+clockwise - http://dbpedia.org/resource/Clockwise
+terrace - http://dbpedia.org/resource/Terraced_house
+terrace - http://dbpedia.org/resource/Terraced_house
+plain - http://dbpedia.org/resource/Great_Plains
+relief - http://dbpedia.org/resource/Relief
+lattice - http://dbpedia.org/resource/Latticework
+stupa - http://dbpedia.org/resource/Stupa
+dome - http://dbpedia.org/resource/Dome
+buddha statue - http://dbpedia.org/resource/Buddharupa
+stupa - http://dbpedia.org/resource/Stupa
+chamber - http://dbpedia.org/resource/Room
+stupa - http://dbpedia.org/resource/Stupa
+nirvana - http://dbpedia.org/resource/Nirvana
+loot - http://dbpedia.org/resource/Looting
+monument - http://dbpedia.org/resource/Monument
+terrace - http://dbpedia.org/resource/Terraced_house
+stupa - http://dbpedia.org/resource/Stupa
+buddhist cosmology - http://dbpedia.org/resource/Buddhist_cosmology
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+buddha statue - http://dbpedia.org/resource/Buddharupa
+meditation - http://dbpedia.org/resource/Meditation
+wheel - http://dbpedia.org/resource/Wheel
+dharma - http://dbpedia.org/resource/Dharma
+borobudur - http://dbpedia.org/resource/Borobudur
+recount - http://dbpedia.org/resource/Election_recount
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+nirvana - http://dbpedia.org/resource/Nirvana
+relief - http://dbpedia.org/resource/Relief
+relief - http://dbpedia.org/resource/Relief
+sanskrit - http://dbpedia.org/resource/Sanskrit
+law - http://dbpedia.org/resource/Sharia
+karma - http://dbpedia.org/resource/Karma
+mask - http://dbpedia.org/resource/Mask
+monument - http://dbpedia.org/resource/Monument
+relief - http://dbpedia.org/resource/Relief
+karma - http://dbpedia.org/resource/Karma
+planned parenthood - http://dbpedia.org/resource/Family_planning
+torture - http://dbpedia.org/resource/Torture
+rape - http://dbpedia.org/resource/Rape
+theft - http://dbpedia.org/resource/Theft
+relief - http://dbpedia.org/resource/Relief
+borobudur - http://dbpedia.org/resource/Borobudur
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+lalitavistara - http://dbpedia.org/resource/Lalitavistara_Sūtra
+lord buddha - http://dbpedia.org/resource/Gautama_Buddha
+heaven - http://dbpedia.org/resource/Buddhist_cosmology
+sermon - http://dbpedia.org/resource/Sutra
+prince siddhartha - http://dbpedia.org/resource/Gautama_Buddha
+jatakas - http://dbpedia.org/resource/Jataka_tales
+avadana - http://dbpedia.org/resource/Avadana
+jatakas - http://dbpedia.org/resource/Jataka_tales
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+bear - http://dbpedia.org/resource/Bear
+prince siddhartha - http://dbpedia.org/resource/Gautama_Buddha
+avadana - http://dbpedia.org/resource/Avadana
+jatakas - http://dbpedia.org/resource/Jataka_tales
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+relief - http://dbpedia.org/resource/Relief
+sudhana - http://dbpedia.org/resource/Sudhana
+ultimate truth - http://dbpedia.org/resource/Two_truths_doctrine
+gandavyuha - http://dbpedia.org/resource/Gandavyuha
+avatamsaka sutra - http://dbpedia.org/resource/Avatamsaka_Sutra
+sudhana - http://dbpedia.org/resource/Sudhana
+perfect wisdom - http://dbpedia.org/resource/Prajnaparamita
+sunrise - http://dbpedia.org/resource/Sunrise
+sunrise - http://dbpedia.org/resource/Sunrise
+map - http://dbpedia.org/resource/Map
+manohara - http://dbpedia.org/resource/Manohara
+hotel - http://dbpedia.org/resource/Hotel
+motorbike - http://dbpedia.org/resource/Motorcycle
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+manohara - http://dbpedia.org/resource/Manohara
+hotel - http://dbpedia.org/resource/Hotel
+sleep - http://dbpedia.org/resource/Sleep
+borobudur - http://dbpedia.org/resource/Borobudur
+sunrise - http://dbpedia.org/resource/Sunrise
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+hotel - http://dbpedia.org/resource/Hotel
+rp - http://dbpedia.org/resource/Received_Pronunciation
+indonesians - http://dbpedia.org/resource/Indonesia
+flashlight - http://dbpedia.org/resource/Flashlight
+lift - http://dbpedia.org/resource/Elevator
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+gate - http://dbpedia.org/resource/Gate
+sunrise - http://dbpedia.org/resource/Sunrise
+horde - http://dbpedia.org/resource/Forced_displacement
+sun - http://dbpedia.org/resource/Sunlight
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+reflection - http://dbpedia.org/resource/Introspection
+photography - http://dbpedia.org/resource/Photography
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur archaeological park - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+actual size - http://dbpedia.org/resource/Actual_Size
+borobudur ship - http://dbpedia.org/resource/Borobudur_ship
+maritime - http://dbpedia.org/resource/Sea
+technology - http://dbpedia.org/resource/Technology
+network - http://dbpedia.org/resource/Social_network
+maritime - http://dbpedia.org/resource/Sea
+indian ocean - http://dbpedia.org/resource/Indian_Ocean
+british naval history - http://dbpedia.org/resource/Maritime_history_of_the_United_Kingdom
+philip beale - http://dbpedia.org/resource/Philip_Beale
+borobudur - http://dbpedia.org/resource/Borobudur
+shipping route - http://dbpedia.org/resource/Sea_lane
+cinnamon - http://dbpedia.org/resource/Cinnamon
+model ship - http://dbpedia.org/resource/Ship_model
+space - http://dbpedia.org/resource/Space
+archaeological - http://dbpedia.org/resource/Archaeology
+borobudur - http://dbpedia.org/resource/Borobudur
+relief - http://dbpedia.org/resource/Relief
+borobudur - http://dbpedia.org/resource/Borobudur
+haphazard - http://dbpedia.org/resource/Haphazard_(album)
+law - http://dbpedia.org/resource/Sharia
+karma - http://dbpedia.org/resource/Karma
+relief - http://dbpedia.org/resource/Relief
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+magelang - http://dbpedia.org/resource/Magelang
+volcanic - http://dbpedia.org/resource/Volcano
+kedu plain - http://dbpedia.org/resource/Kedu_Plain
+javanese history - http://dbpedia.org/resource/Java
+buddhist - http://dbpedia.org/resource/Buddhism
+hindu - http://dbpedia.org/resource/Hindus
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+rent - http://dbpedia.org/resource/Renting
+bicycle - http://dbpedia.org/resource/Bicycle
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+candi mendut - http://dbpedia.org/resource/Mendut
+candi mendut - http://dbpedia.org/resource/Mendut
+candi - http://dbpedia.org/resource/Candi_of_Indonesia
+pawon - http://dbpedia.org/resource/Pawon
+rp - http://dbpedia.org/resource/Received_Pronunciation
+candi mendut - http://dbpedia.org/resource/Mendut
+borobudur - http://dbpedia.org/resource/Borobudur
+muntilan - http://dbpedia.org/resource/Muntilan
+candi mendut - http://dbpedia.org/resource/Mendut
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+borobudur - http://dbpedia.org/resource/Borobudur
+monument - http://dbpedia.org/resource/Monument
+relief - http://dbpedia.org/resource/Relief
+mendut - http://dbpedia.org/resource/Mendut
+procession - http://dbpedia.org/resource/Procession
+pawon - http://dbpedia.org/resource/Pawon
+borobudur - http://dbpedia.org/resource/Borobudur
+muntilan - http://dbpedia.org/resource/Muntilan
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+candi - http://dbpedia.org/resource/Candi_of_Indonesia
+pawon - http://dbpedia.org/resource/Pawon
+candi mendut - http://dbpedia.org/resource/Mendut
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+ngawen - http://dbpedia.org/resource/Ngawen
+ngawen - http://dbpedia.org/resource/Ngawen
+village - http://dbpedia.org/resource/Village
+muntilan - http://dbpedia.org/resource/Muntilan
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+borobudur - http://dbpedia.org/resource/Borobudur
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+relief - http://dbpedia.org/resource/Relief
+candi - http://dbpedia.org/resource/Candi_of_Indonesia
+gunung wukir - http://dbpedia.org/resource/Gunung_Wukir
+gunung wukir - http://dbpedia.org/resource/Gunung_Wukir
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+muntilan - http://dbpedia.org/resource/Muntilan
+landmark - http://dbpedia.org/resource/Landmark
+muntilan - http://dbpedia.org/resource/Muntilan
+candi - http://dbpedia.org/resource/Candi_of_Indonesia
+umbul - http://dbpedia.org/resource/Umbul_Temple
+mataram - http://dbpedia.org/resource/Central_Java
+hindu temple - http://dbpedia.org/resource/Hindu_temple
+borobudur - http://dbpedia.org/resource/Borobudur
+late afternoon - http://dbpedia.org/resource/Late_Afternoon
+sunset - http://dbpedia.org/resource/Sunset
+sunset - http://dbpedia.org/resource/Sunset
+mountain west - http://dbpedia.org/resource/Mountain_states
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+moon - http://dbpedia.org/resource/Moon
+borobudur - http://dbpedia.org/resource/Borobudur
+candle - http://dbpedia.org/resource/Candle
+light - http://dbpedia.org/resource/Sunlight
+procession - http://dbpedia.org/resource/Procession
+candi mendut - http://dbpedia.org/resource/Mendut
+borobudur - http://dbpedia.org/resource/Borobudur
+procession - http://dbpedia.org/resource/Procession
+procession - http://dbpedia.org/resource/Procession
+borobudur - http://dbpedia.org/resource/Borobudur
+candi mendut - http://dbpedia.org/resource/Mendut
+versa - http://dbpedia.org/resource/Suzuki_Carry
+june park - http://dbpedia.org/resource/June_Park,_Florida
+borobudur - http://dbpedia.org/resource/Borobudur
+javanese dance - http://dbpedia.org/resource/Javanese_dance
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+open theatre - http://dbpedia.org/resource/The_Open_Theater
+borobudur - http://dbpedia.org/resource/Borobudur
+rp - http://dbpedia.org/resource/Received_Pronunciation
+tout - http://dbpedia.org/resource/Tout
+hassle - http://dbpedia.org/resource/Hassle_Records
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+gate - http://dbpedia.org/resource/Gate
+maze - http://dbpedia.org/resource/Labyrinth
+stall - http://dbpedia.org/resource/Market_stall
+maze - http://dbpedia.org/resource/Labyrinth
+stall turn - http://dbpedia.org/resource/Stall_turn
+exit sign - http://dbpedia.org/resource/Exit_sign
+souvenir - http://dbpedia.org/resource/Souvenir
+pedlar - http://dbpedia.org/resource/Peddler
+lava stone - http://dbpedia.org/resource/Volcanic_rock
+cement - http://dbpedia.org/resource/Plaster
+lava stone - http://dbpedia.org/resource/Volcanic_rock
+stone - http://dbpedia.org/resource/Sandstone
+light - http://dbpedia.org/resource/Sunlight
+concrete - http://dbpedia.org/resource/Concrete
+concrete - http://dbpedia.org/resource/Concrete
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+lava stone - http://dbpedia.org/resource/Volcanic_rock
+cash - http://dbpedia.org/resource/United_States_dollar
+bank negara indonesia - http://dbpedia.org/resource/Bank_Negara_Indonesia
+atm - http://dbpedia.org/resource/Atmosphere
+muntilan - http://dbpedia.org/resource/Muntilan
+muntilan - http://dbpedia.org/resource/Muntilan
+market town - http://dbpedia.org/resource/Market_town
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+magelang - http://dbpedia.org/resource/Magelang
+muntilan - http://dbpedia.org/resource/Muntilan
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+magelang - http://dbpedia.org/resource/Magelang
+transport - http://dbpedia.org/resource/Transport
+borobudur - http://dbpedia.org/resource/Borobudur
+stone - http://dbpedia.org/resource/Sandstone
+borobudur - http://dbpedia.org/resource/Borobudur
+market town - http://dbpedia.org/resource/Market_town
+central java - http://dbpedia.org/resource/Central_Java
+street sense - http://dbpedia.org/resource/Street_Sense_(horse)
+tourism - http://dbpedia.org/resource/Tourism
+village - http://dbpedia.org/resource/Village
+market town - http://dbpedia.org/resource/Market_town
+rely - http://dbpedia.org/resource/Rely_(brand)
+javanese - http://dbpedia.org/resource/Java
+food - http://dbpedia.org/resource/Food
+food - http://dbpedia.org/resource/Food
+javanese - http://dbpedia.org/resource/Java
+muntilan - http://dbpedia.org/resource/Muntilan
+roman catholic - http://dbpedia.org/resource/Catholic_Church
+heritage - http://dbpedia.org/resource/Tradition
+van lith - http://dbpedia.org/resource/Frans_van_Lith
+jesuits - http://dbpedia.org/resource/Society_of_Jesus
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+central java - http://dbpedia.org/resource/Central_Java
+muntilan - http://dbpedia.org/resource/Muntilan
+western slope - http://dbpedia.org/resource/Colorado_Western_Slope
+merapi - http://dbpedia.org/resource/Mount_Merapi
+western slope - http://dbpedia.org/resource/Colorado_Western_Slope
+village - http://dbpedia.org/resource/Village
+muntilan - http://dbpedia.org/resource/Muntilan
+transport - http://dbpedia.org/resource/Transport
+borobudur - http://dbpedia.org/resource/Borobudur
+transport - http://dbpedia.org/resource/Transport
+market - http://dbpedia.org/resource/Marketplace
+transport - http://dbpedia.org/resource/Transport
+semarang - http://dbpedia.org/resource/Semarang
+bus - http://dbpedia.org/resource/Bus
+stone - http://dbpedia.org/resource/Sandstone
+stupa - http://dbpedia.org/resource/Stupa
+relief - http://dbpedia.org/resource/Relief
+bus station - http://dbpedia.org/resource/Bus_station
+hawker - http://dbpedia.org/resource/Peddler
+stall - http://dbpedia.org/resource/Market_stall
+indonesian street food - http://dbpedia.org/resource/Street_food_of_Indonesia
+hotel - http://dbpedia.org/resource/Hotel
+manohara - http://dbpedia.org/resource/Manohara
+restaurant - http://dbpedia.org/resource/Restaurant
+hotel - http://dbpedia.org/resource/Hotel
+standard indonesian - http://dbpedia.org/resource/Indonesian_language
+beautiful view - http://dbpedia.org/resource/Beautiful_View
+borobudur - http://dbpedia.org/resource/Borobudur
+rp - http://dbpedia.org/resource/Received_Pronunciation
+amanjiwo - http://dbpedia.org/resource/Amanjiwo
+food - http://dbpedia.org/resource/Food
+sleep - http://dbpedia.org/resource/Sleep
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+magelang - http://dbpedia.org/resource/Magelang
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+monument - http://dbpedia.org/resource/Monument
+losman - http://dbpedia.org/resource/J._P._Losman
+guesthouse - http://dbpedia.org/resource/Inn
+hotel - http://dbpedia.org/resource/Hotel
+village - http://dbpedia.org/resource/Village
+borobudur - http://dbpedia.org/resource/Borobudur
+south park - http://dbpedia.org/resource/South_Park
+lotus - http://dbpedia.org/resource/Nelumbo_nucifera
+guest house - http://dbpedia.org/resource/Bed_and_breakfast
+medang kamulan - http://dbpedia.org/resource/Medang_Kamulan
+borobudur - http://dbpedia.org/resource/Borobudur
+backpacker - http://dbpedia.org/resource/Backpacking_(hiking)
+budget set - http://dbpedia.org/resource/Budget_set
+lotus - http://dbpedia.org/resource/Nelumbo_nucifera
+borobudur - http://dbpedia.org/resource/Borobudur
+checkout - http://dbpedia.org/resource/Point_of_sale
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+indonesian food - http://dbpedia.org/resource/Indonesian_cuisine
+sunrise - http://dbpedia.org/resource/Sunrise
+borobudur - http://dbpedia.org/resource/Borobudur
+rp - http://dbpedia.org/resource/Received_Pronunciation
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+sunrise - http://dbpedia.org/resource/Sunrise
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+double room - http://dbpedia.org/resource/Double_Room
+rp - http://dbpedia.org/resource/Received_Pronunciation
+family room - http://dbpedia.org/resource/Family_room
+water - http://dbpedia.org/resource/Water
+breakfast - http://dbpedia.org/resource/Breakfast
+balaputradewa - http://dbpedia.org/resource/Balaputra
+borobudur - http://dbpedia.org/resource/Borobudur
+candi - http://dbpedia.org/resource/Candi_of_Indonesia
+pawon - http://dbpedia.org/resource/Pawon
+borobudur - http://dbpedia.org/resource/Borobudur
+rp - http://dbpedia.org/resource/Received_Pronunciation
+hotel - http://dbpedia.org/resource/Hotel
+no2 - http://dbpedia.org/resource/Nitrous_oxide
+family - http://dbpedia.org/resource/Family
+food price - http://dbpedia.org/resource/Food_prices
+rp - http://dbpedia.org/resource/Received_Pronunciation
+manohara - http://dbpedia.org/resource/Manohara
+hotel - http://dbpedia.org/resource/Hotel
+manohara - http://dbpedia.org/resource/Manohara
+borobudur - http://dbpedia.org/resource/Borobudur
+guest house - http://dbpedia.org/resource/Bed_and_breakfast
+friendly - http://dbpedia.org/resource/Exhibition
+resort - http://dbpedia.org/resource/Resort
+hotel - http://dbpedia.org/resource/Hotel
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+landscape - http://dbpedia.org/resource/Landscape
+great room - http://dbpedia.org/resource/Great_room
+air conditioning - http://dbpedia.org/resource/Air_conditioning
+water - http://dbpedia.org/resource/Water
+rp - http://dbpedia.org/resource/Received_Pronunciation
+breakfast - http://dbpedia.org/resource/Breakfast
+borobudur - http://dbpedia.org/resource/Borobudur
+food - http://dbpedia.org/resource/Food
+borobudur - http://dbpedia.org/resource/Borobudur
+rent - http://dbpedia.org/resource/Renting
+rp - http://dbpedia.org/resource/Received_Pronunciation
+rp - http://dbpedia.org/resource/Received_Pronunciation
+tidar - http://dbpedia.org/resource/Tidar,_Bashagard
+hotel - http://dbpedia.org/resource/Hotel
+purworejo - http://dbpedia.org/resource/Purworejo_Regency
+magelang - http://dbpedia.org/resource/Magelang
+magelang - http://dbpedia.org/resource/Magelang
+borobudur - http://dbpedia.org/resource/Borobudur
+internet cafe - http://dbpedia.org/resource/Internet_café
+hotel - http://dbpedia.org/resource/Hotel
+taxi - http://dbpedia.org/resource/Taxicab
+borobudur - http://dbpedia.org/resource/Borobudur
+restaurant - http://dbpedia.org/resource/Restaurant
+rp - http://dbpedia.org/resource/Received_Pronunciation
+borobudur - http://dbpedia.org/resource/Borobudur
+balaputradewa - http://dbpedia.org/resource/Balaputra
+marketing - http://dbpedia.org/resource/Marketing
+hotel - http://dbpedia.org/resource/Hotel
+borobudur - http://dbpedia.org/resource/Borobudur
+swimming pool - http://dbpedia.org/resource/Swimming_pool
+breakfast - http://dbpedia.org/resource/Breakfast
+borobudur - http://dbpedia.org/resource/Borobudur
+amanjiwo - http://dbpedia.org/resource/Amanjiwo
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+amanjiwo - http://dbpedia.org/resource/Amanjiwo
+resort - http://dbpedia.org/resource/Resort
+aman - http://dbpedia.org/resource/Amun
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+resort spa - http://dbpedia.org/resource/Destination_spa
+borobudur - http://dbpedia.org/resource/Borobudur
+dusun - http://dbpedia.org/resource/Dusun_people
+borobudur - http://dbpedia.org/resource/Borobudur
+magelang - http://dbpedia.org/resource/Magelang
+central java - http://dbpedia.org/resource/Central_Java
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+area 5 - http://dbpedia.org/resource/Frenchman_Flat
+fax - http://dbpedia.org/resource/Fax
+resort - http://dbpedia.org/resource/Resort
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+merapi - http://dbpedia.org/resource/Mount_Merapi
+lush - http://dbpedia.org/resource/Lush_3
+teak - http://dbpedia.org/resource/Teak
+travel guide - http://dbpedia.org/resource/Guide_book
+borobudur - http://dbpedia.org/resource/Borobudur
+friendly - http://dbpedia.org/resource/Exhibition
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+town - http://dbpedia.org/resource/Town
+borobudur - http://dbpedia.org/resource/Borobudur
+friendly - http://dbpedia.org/resource/Exhibition
+friendly - http://dbpedia.org/resource/Exhibition
+heritage - http://dbpedia.org/resource/Tradition
+skip - http://dbpedia.org/resource/Dumpster
+early morning - http://dbpedia.org/resource/Early_Morning
+tourist attraction - http://dbpedia.org/resource/Tourism
+monument - http://dbpedia.org/resource/Monument
+audio - http://dbpedia.org/resource/Music
+david - http://dbpedia.org/resource/David
+telephone - http://dbpedia.org/resource/Telephone
+market - http://dbpedia.org/resource/Marketplace
+post office - http://dbpedia.org/resource/Post_office
+area code - http://dbpedia.org/resource/Telephone_numbering_plan
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+ambulance - http://dbpedia.org/resource/Ambulance
+police - http://dbpedia.org/resource/Police
+hindu temple - http://dbpedia.org/resource/Hindu_temple
+prambanan - http://dbpedia.org/resource/Prambanan
+complement - http://dbpedia.org/resource/Complement_system
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+bus - http://dbpedia.org/resource/Bus
+dieng plateau - http://dbpedia.org/resource/Dieng_Plateau
+volcanic - http://dbpedia.org/resource/Volcano
+central java - http://dbpedia.org/resource/Central_Java
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+volcano - http://dbpedia.org/resource/Volcano
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+selo - http://dbpedia.org/resource/Village
+merbabu - http://dbpedia.org/resource/Mount_Merbabu
+merapi - http://dbpedia.org/resource/Mount_Merapi
+merapi - http://dbpedia.org/resource/Mount_Merapi

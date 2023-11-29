@@ -1,0 +1,9 @@
+harringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+high street - http://dbpedia.org/resource/High_Street
+litter bin - http://dbpedia.org/resource/Waste_container
+royal mail - http://dbpedia.org/resource/Royal_Mail
+tottenham cemetery - http://dbpedia.org/resource/Tottenham_Cemetery
+sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
+wood green - http://dbpedia.org/resource/Wood_Green
+station road - http://dbpedia.org/resource/Station_Road,_Swinton
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle

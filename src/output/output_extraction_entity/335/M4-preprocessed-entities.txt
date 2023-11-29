@@ -1,0 +1,170 @@
+spooky - http://dbpedia.org/resource/DJ_Spooky
+dungeon - http://dbpedia.org/resource/Dungeon
+dungeon - http://dbpedia.org/resource/Dungeon
+secret history - http://dbpedia.org/resource/Secret_history
+britain - http://dbpedia.org/resource/United_Kingdom
+london dungeon - http://dbpedia.org/resource/London_Dungeon
+london eye - http://dbpedia.org/resource/London_Eye
+maze - http://dbpedia.org/resource/Labyrinth
+jack - http://dbpedia.org/resource/Jackfruit
+ripper - http://dbpedia.org/resource/Bulldozer
+dungeon - http://dbpedia.org/resource/Dungeon
+york - http://dbpedia.org/resource/York
+edinburgh - http://dbpedia.org/resource/Edinburgh_Castle
+blackpool - http://dbpedia.org/resource/Blackpool
+warwick castle - http://dbpedia.org/resource/Warwick_Castle
+warlock - http://dbpedia.org/resource/Warlock
+murder - http://dbpedia.org/resource/Murder
+crime - http://dbpedia.org/resource/Crime_fiction
+tenby - http://dbpedia.org/resource/Tenby
+myth - http://dbpedia.org/resource/Urban_legend
+light - http://dbpedia.org/resource/Sunlight
+town - http://dbpedia.org/resource/Market_town
+tenby - http://dbpedia.org/resource/Tenby
+south west wales - http://dbpedia.org/resource/South_West_Wales
+pub - http://dbpedia.org/resource/Pub
+town - http://dbpedia.org/resource/Market_town
+tenby - http://dbpedia.org/resource/Tenby
+tenby - http://dbpedia.org/resource/Tenby
+cardiff - http://dbpedia.org/resource/Cardiff
+train - http://dbpedia.org/resource/Train
+cardiff - http://dbpedia.org/resource/Cardiff
+swansea - http://dbpedia.org/resource/Swansea
+glamis castle - http://dbpedia.org/resource/Glamis_Castle
+angus - http://dbpedia.org/resource/Angus_Young
+scotland - http://dbpedia.org/resource/Scotland
+haunted castle - http://dbpedia.org/resource/Haunted_house
+scotland - http://dbpedia.org/resource/Scotland
+glamis - http://dbpedia.org/resource/Glamis
+queen mother - http://dbpedia.org/resource/Queen_mother
+legend - http://dbpedia.org/resource/Legend
+curse - http://dbpedia.org/resource/Curse
+chalice - http://dbpedia.org/resource/Chalice
+earl crawford - http://dbpedia.org/resource/Earl_Crawford
+devil - http://dbpedia.org/resource/Devil
+glamis - http://dbpedia.org/resource/Glamis
+drive north - http://dbpedia.org/resource/Drive_North
+edinburgh - http://dbpedia.org/resource/Edinburgh_Castle
+glasgow - http://dbpedia.org/resource/Glasgow_Central_station
+taxi - http://dbpedia.org/resource/Hackney_carriage
+dundee station - http://dbpedia.org/resource/Dundee_railway_station
+train - http://dbpedia.org/resource/Train
+glasgow - http://dbpedia.org/resource/Glasgow_Central_station
+station - http://dbpedia.org/resource/Train_station
+gaol - http://dbpedia.org/resource/Prison
+belfast - http://dbpedia.org/resource/Belfast
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+gaol - http://dbpedia.org/resource/Prison
+prison - http://dbpedia.org/resource/Prison
+crime - http://dbpedia.org/resource/Crime_fiction
+petty theft - http://dbpedia.org/resource/Theft
+political imprisonment - http://dbpedia.org/resource/Political_prisoner
+gaol - http://dbpedia.org/resource/Prison
+visitor attraction - http://dbpedia.org/resource/Tourist_attraction
+prison - http://dbpedia.org/resource/Prison
+victorian - http://dbpedia.org/resource/Victorian_era
+cell - http://dbpedia.org/resource/Prison_cell
+tunnel - http://dbpedia.org/resource/Tunnel
+gaol - http://dbpedia.org/resource/Prison
+courthouse - http://dbpedia.org/resource/Courthouse
+paranormal - http://dbpedia.org/resource/Paranormal
+gaol - http://dbpedia.org/resource/Prison
+gaol - http://dbpedia.org/resource/Prison
+belfast - http://dbpedia.org/resource/Belfast
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+witch hunt - http://dbpedia.org/resource/Witch-hunt
+lancashire - http://dbpedia.org/resource/Lancashire
+north england - http://dbpedia.org/resource/Northern_England
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+lancashire - http://dbpedia.org/resource/Lancashire
+north manchester - http://dbpedia.org/resource/North_Manchester
+haunted - http://dbpedia.org/resource/Ghost
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+witch trial - http://dbpedia.org/resource/Witch-hunt
+english history - http://dbpedia.org/resource/History_of_England
+crime - http://dbpedia.org/resource/Crime_fiction
+murder - http://dbpedia.org/resource/Murder
+witchcraft - http://dbpedia.org/resource/Witchcraft
+landscape - http://dbpedia.org/resource/Landscape_painting
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+north manchester - http://dbpedia.org/resource/North_Manchester
+public transport - http://dbpedia.org/resource/Public_transport
+whitby - http://dbpedia.org/resource/Whitby
+whitby - http://dbpedia.org/resource/Whitby
+yorkshire - http://dbpedia.org/resource/Yorkshire
+north england - http://dbpedia.org/resource/Northern_England
+whitby - http://dbpedia.org/resource/Whitby
+horror - http://dbpedia.org/resource/Horror_fiction
+count dracula - http://dbpedia.org/resource/Dracula
+author - http://dbpedia.org/resource/Author
+bram - http://dbpedia.org/resource/Bram_Ronnes
+town - http://dbpedia.org/resource/Market_town
+wind - http://dbpedia.org/resource/Windmill
+tour guide - http://dbpedia.org/resource/Tour_guide
+spine - http://dbpedia.org/resource/Bookbinding
+dracula - http://dbpedia.org/resource/Dracula
+whitby - http://dbpedia.org/resource/Whitby
+east york - http://dbpedia.org/resource/East_York
+bus - http://dbpedia.org/resource/Bus
+york - http://dbpedia.org/resource/York
+hope street - http://dbpedia.org/resource/Hope_Street_Platform_railway_station
+shivers - http://dbpedia.org/resource/Shivers_(song)
+liverpool - http://dbpedia.org/resource/Liverpool
+north west england - http://dbpedia.org/resource/North_West_England
+black plague - http://dbpedia.org/resource/Black_Death
+walking tour - http://dbpedia.org/resource/Walking_tour
+hope street - http://dbpedia.org/resource/Hope_Street_Platform_railway_station
+liverpool - http://dbpedia.org/resource/Liverpool
+gothic - http://dbpedia.org/resource/Gothic_fiction
+anglican cathedral - http://dbpedia.org/resource/Liverpool_Cathedral
+bone - http://dbpedia.org/resource/Bone
+ghost buster - http://dbpedia.org/resource/Psychologist
+liverpool - http://dbpedia.org/resource/Liverpool
+north london - http://dbpedia.org/resource/London
+train - http://dbpedia.org/resource/Train
+london euston - http://dbpedia.org/resource/Euston_railway_station
+york - http://dbpedia.org/resource/York
+yorkshire - http://dbpedia.org/resource/Yorkshire
+family - http://dbpedia.org/resource/Family
+spooky - http://dbpedia.org/resource/DJ_Spooky
+earl grey - http://dbpedia.org/resource/Earl_Grey
+nun - http://dbpedia.org/resource/Nun
+york - http://dbpedia.org/resource/York
+maze - http://dbpedia.org/resource/Labyrinth
+audience participation - http://dbpedia.org/resource/Audience
+york - http://dbpedia.org/resource/York
+north london - http://dbpedia.org/resource/London
+train - http://dbpedia.org/resource/Train
+london kings cross - http://dbpedia.org/resource/London_King's_Cross_railway_station
+falstaff - http://dbpedia.org/resource/Falstaff
+stratford - http://dbpedia.org/resource/Stratford-upon-Avon
+avon - http://dbpedia.org/resource/Avon_Products
+stratford - http://dbpedia.org/resource/Stratford-upon-Avon
+avon - http://dbpedia.org/resource/Avon_Products
+william shakespeare - http://dbpedia.org/resource/William_Shakespeare
+falstaff - http://dbpedia.org/resource/Falstaff
+century house - http://dbpedia.org/resource/Century_House,_London
+william rogers - http://dbpedia.org/resource/William_P._Rogers
+shakespearian - http://dbpedia.org/resource/William_Shakespeare
+falstaff - http://dbpedia.org/resource/Falstaff
+truth - http://dbpedia.org/resource/Truth
+tudor - http://dbpedia.org/resource/Tudor_period
+light - http://dbpedia.org/resource/Sunlight
+spooky - http://dbpedia.org/resource/DJ_Spooky
+paranormal - http://dbpedia.org/resource/Paranormal
+stratford - http://dbpedia.org/resource/Stratford-upon-Avon
+avon - http://dbpedia.org/resource/Avon_Products
+west london - http://dbpedia.org/resource/London
+train - http://dbpedia.org/resource/Train
+london marylebone - http://dbpedia.org/resource/Marylebone_station
+steel city - http://dbpedia.org/resource/Steel_City_derby
+sheffield - http://dbpedia.org/resource/Sheffield
+north england - http://dbpedia.org/resource/Northern_England
+ghost story - http://dbpedia.org/resource/Ghost_story
+ghostly tale - http://dbpedia.org/resource/Ghost_story
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+sheffield - http://dbpedia.org/resource/Sheffield
+north london - http://dbpedia.org/resource/London
+train - http://dbpedia.org/resource/Train
+london st pancras - http://dbpedia.org/resource/St_Pancras_railway_station
+visitbritain - http://dbpedia.org/resource/VisitBritain

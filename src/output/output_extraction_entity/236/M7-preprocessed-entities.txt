@@ -1,0 +1,344 @@
+earthquake - http://dbpedia.org/resource/Earthquake
+tyler durden - http://dbpedia.org/resource/Fight_Club
+pepe escobar - http://dbpedia.org/resource/Pepe_Escobar
+sputnik - http://dbpedia.org/resource/Sputnik_1
+news.com - http://dbpedia.org/resource/CNET
+modern history - http://dbpedia.org/resource/Historiography
+brazilian federal police - http://dbpedia.org/resource/Federal_Police_of_Brazil
+sao paulo - http://dbpedia.org/resource/São_Paulo
+dollar - http://dbpedia.org/resource/United_States_dollar
+corruption - http://dbpedia.org/resource/Political_corruption
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+oil - http://dbpedia.org/resource/Petroleum
+petrobras - http://dbpedia.org/resource/Petrobras
+hollywood - http://dbpedia.org/resource/Hollywood
+logic - http://dbpedia.org/resource/Logic
+public prosecutor - http://dbpedia.org/resource/Prosecutor
+car wash - http://dbpedia.org/resource/Car_wash
+lula - http://dbpedia.org/resource/Lula_oil_field
+dodgy - http://dbpedia.org/resource/Dodgy
+kickback scheme - http://dbpedia.org/resource/Kickback_(bribery)
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+petrobras - http://dbpedia.org/resource/Petrobras
+lula - http://dbpedia.org/resource/Lula_oil_field
+ranch - http://dbpedia.org/resource/Ranch
+lecture circuit - http://dbpedia.org/resource/Lecture_circuit
+charity - http://dbpedia.org/resource/Charitable_organization
+lula - http://dbpedia.org/resource/Lula_oil_field
+political animal - http://dbpedia.org/resource/Political_Animal_(radio_show)
+bill clinton - http://dbpedia.org/resource/Bill_Clinton
+gambit - http://dbpedia.org/resource/Gambit
+car wash - http://dbpedia.org/resource/Car_wash
+embezzle - http://dbpedia.org/resource/Embezzlement
+petrobras - http://dbpedia.org/resource/Petrobras
+politician - http://dbpedia.org/resource/Politics
+workers party - http://dbpedia.org/resource/Workers_Party_of_America
+lula - http://dbpedia.org/resource/Lula_oil_field
+lula - http://dbpedia.org/resource/Lula_oil_field
+rascal - http://dbpedia.org/resource/Suzuki_Carry
+informer - http://dbpedia.org/resource/Informant
+strike - http://dbpedia.org/resource/Strike_action
+plea bargain - http://dbpedia.org/resource/Plea_bargain
+hypothesis - http://dbpedia.org/resource/Hypothesis
+smoking gun - http://dbpedia.org/resource/Nixon_White_House_tapes
+lula - http://dbpedia.org/resource/Lula_oil_field
+brazil - http://dbpedia.org/resource/Brazil
+corruption - http://dbpedia.org/resource/Political_corruption
+petrobras - http://dbpedia.org/resource/Petrobras
+president - http://dbpedia.org/resource/President_of_the_United_States
+dilma rousseff - http://dbpedia.org/resource/Dilma_Rousseff
+engineer - http://dbpedia.org/resource/Engineer
+plea bargain - http://dbpedia.org/resource/Plea_bargain
+government leader - http://dbpedia.org/resource/Premier_of_Yukon
+senate - http://dbpedia.org/resource/United_States_Senate
+lula - http://dbpedia.org/resource/Lula_oil_field
+money laundering - http://dbpedia.org/resource/Money_laundering
+corruption - http://dbpedia.org/resource/Political_corruption
+asset - http://dbpedia.org/resource/Asset
+hollywood - http://dbpedia.org/resource/Hollywood
+blitz - http://dbpedia.org/resource/Blitzkrieg
+federal judge - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+sergio moro - http://dbpedia.org/resource/Sérgio_Moro
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+judge - http://dbpedia.org/resource/Judge
+antonio di pietro - http://dbpedia.org/resource/Antonio_Di_Pietro
+notorious - http://dbpedia.org/resource/Notorious_(2009_film)
+mani pulite - http://dbpedia.org/resource/Mani_pulite
+clean hands - http://dbpedia.org/resource/Clean_hands
+moro - http://dbpedia.org/resource/Aldo_Moro
+car wash - http://dbpedia.org/resource/Car_wash
+prosecutor - http://dbpedia.org/resource/Prosecutor
+hollywood - http://dbpedia.org/resource/Hollywood
+blitz - http://dbpedia.org/resource/Blitzkrieg
+lula - http://dbpedia.org/resource/Lula_oil_field
+lula - http://dbpedia.org/resource/Lula_oil_field
+car wash - http://dbpedia.org/resource/Car_wash
+lula - http://dbpedia.org/resource/Lula_oil_field
+federal police - http://dbpedia.org/resource/Federal_Police_of_Brazil
+public ministry - http://dbpedia.org/resource/Ministry_of_Jesus
+hollywood - http://dbpedia.org/resource/Hollywood
+blitz - http://dbpedia.org/resource/Blitzkrieg
+smoking gun - http://dbpedia.org/resource/Nixon_White_House_tapes
+perception - http://dbpedia.org/resource/Perception
+news cycle - http://dbpedia.org/resource/24-hour_news_cycle
+news - http://dbpedia.org/resource/News_media
+lula - http://dbpedia.org/resource/Lula_oil_field
+judge - http://dbpedia.org/resource/Judge
+moro - http://dbpedia.org/resource/Aldo_Moro
+article - http://dbpedia.org/resource/Falklands_War
+magazine - http://dbpedia.org/resource/Magazine
+portuguese - http://dbpedia.org/resource/Portuguese_language
+mani pulite - http://dbpedia.org/resource/Mani_pulite
+magazine - http://dbpedia.org/resource/Magazine
+number 26 - http://dbpedia.org/resource/Pennsylvania_State_Game_Lands_Number_26
+extol - http://dbpedia.org/resource/Extol
+authoritarian - http://dbpedia.org/resource/Authoritarianism
+subversion - http://dbpedia.org/resource/Subversion
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+winger - http://dbpedia.org/resource/Association_football
+mani pulite - http://dbpedia.org/resource/Mani_pulite
+saga - http://dbpedia.org/resource/Transformers
+italian communist party - http://dbpedia.org/resource/Italian_Communist_Party
+pci - http://dbpedia.org/resource/Italian_Communist_Party
+brazil - http://dbpedia.org/resource/Brazil
+angel - http://dbpedia.org/resource/Angel
+cocaine - http://dbpedia.org/resource/Cocaine
+brazilian presidential election - http://dbpedia.org/resource/2014_Brazilian_general_election
+aecio neves - http://dbpedia.org/resource/Aécio_Neves
+single - http://dbpedia.org/resource/Extended_play
+corruption - http://dbpedia.org/resource/Political_corruption
+dodgy - http://dbpedia.org/resource/Dodgy
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+president - http://dbpedia.org/resource/President_of_the_United_States
+fernando henrique cardoso - http://dbpedia.org/resource/Fernando_Henrique_Cardoso
+developmentalist - http://dbpedia.org/resource/Development_economics
+neoliberal - http://dbpedia.org/resource/Neoliberalism
+enforcer - http://dbpedia.org/resource/Crime
+car wash - http://dbpedia.org/resource/Car_wash
+imprint - http://dbpedia.org/resource/Printing
+brazil - http://dbpedia.org/resource/Brazil
+perception - http://dbpedia.org/resource/Perception
+corruption - http://dbpedia.org/resource/Political_corruption
+nationalist - http://dbpedia.org/resource/Nationalism
+washington consensus - http://dbpedia.org/resource/Washington_Consensus
+vassal - http://dbpedia.org/resource/Feudalism
+angel - http://dbpedia.org/resource/Angel
+moro - http://dbpedia.org/resource/Aldo_Moro
+hilt - http://dbpedia.org/resource/Kris
+moro - http://dbpedia.org/resource/Aldo_Moro
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+public opinion - http://dbpedia.org/resource/Public_opinion
+crime - http://dbpedia.org/resource/Crime
+moro - http://dbpedia.org/resource/Aldo_Moro
+prosecutor - http://dbpedia.org/resource/Prosecutor
+farcical - http://dbpedia.org/resource/Farce
+artful dodger - http://dbpedia.org/resource/Artful_Dodger
+serial - http://dbpedia.org/resource/Serialism
+smoking gun - http://dbpedia.org/resource/Nixon_White_House_tapes
+moro - http://dbpedia.org/resource/Aldo_Moro
+brazil - http://dbpedia.org/resource/Brazil
+judicial police - http://dbpedia.org/resource/Law_enforcement_in_France
+hijack - http://dbpedia.org/resource/Piracy
+democracy - http://dbpedia.org/resource/Democracy
+stark - http://dbpedia.org/resource/House_of_Night
+wing - http://dbpedia.org/resource/Wing
+boil - http://dbpedia.org/resource/Boiling
+economy - http://dbpedia.org/resource/Economy
+economic power - http://dbpedia.org/resource/Economic_power
+lula - http://dbpedia.org/resource/Lula_oil_field
+presidential - http://dbpedia.org/resource/President_of_the_United_States
+legend - http://dbpedia.org/resource/Urban_legend
+brazil - http://dbpedia.org/resource/Brazil
+complex society - http://dbpedia.org/resource/Complex_society
+eden - http://dbpedia.org/resource/Garden_of_Eden
+portuguese - http://dbpedia.org/resource/Portuguese_language
+slavery - http://dbpedia.org/resource/Slavery
+permeate - http://dbpedia.org/resource/Permeation
+social relation - http://dbpedia.org/resource/Social_relation
+john vi - http://dbpedia.org/resource/John_VI_of_Portugal
+portugal - http://dbpedia.org/resource/Portugal
+emperor - http://dbpedia.org/resource/Roman_emperor
+brazil - http://dbpedia.org/resource/Brazil
+napoleon - http://dbpedia.org/resource/Napoleon
+invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
+euphemism - http://dbpedia.org/resource/Euphemism
+rape - http://dbpedia.org/resource/Rape
+blind - http://dbpedia.org/resource/Visual_impairment
+prejudice - http://dbpedia.org/resource/Racism
+planet - http://dbpedia.org/resource/Earth
+police - http://dbpedia.org/resource/Police
+weapon - http://dbpedia.org/resource/Arms_trafficking
+concentration - http://dbpedia.org/resource/Internment
+family - http://dbpedia.org/resource/Family
+landscape - http://dbpedia.org/resource/Landscape
+marinho family - http://dbpedia.org/resource/Category:Marinho_family
+brazil - http://dbpedia.org/resource/Brazil
+comprador - http://dbpedia.org/resource/Comprador
+crass - http://dbpedia.org/resource/Crass
+greed - http://dbpedia.org/resource/Greed
+array - http://dbpedia.org/resource/Array_data_structure
+reflection - http://dbpedia.org/resource/Self-reflection
+cadre - http://dbpedia.org/resource/Leninism
+corruption - http://dbpedia.org/resource/Political_corruption
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+petrobras - http://dbpedia.org/resource/Petrobras
+politician - http://dbpedia.org/resource/Politics
+undeniable - http://dbpedia.org/resource/ROH_Undeniable
+goldman sachs - http://dbpedia.org/resource/Goldman_Sachs
+big oil - http://dbpedia.org/resource/Big_Oil
+koch brothers - http://dbpedia.org/resource/Koch_family
+sheldon adelson - http://dbpedia.org/resource/Sheldon_Adelson
+politician - http://dbpedia.org/resource/Politics
+crusade - http://dbpedia.org/resource/Crusades
+corruption - http://dbpedia.org/resource/Political_corruption
+car wash - http://dbpedia.org/resource/Car_wash
+prosecutor - http://dbpedia.org/resource/Prosecutor
+wing - http://dbpedia.org/resource/Wing
+vassal - http://dbpedia.org/resource/Feudalism
+prosecutor - http://dbpedia.org/resource/Prosecutor
+hollywood - http://dbpedia.org/resource/Hollywood
+blitz - http://dbpedia.org/resource/Blitzkrieg
+lula - http://dbpedia.org/resource/Lula_oil_field
+delinquent - http://dbpedia.org/resource/Juvenile_delinquency
+planet - http://dbpedia.org/resource/Earth
+car wash - http://dbpedia.org/resource/Car_wash
+prosecutor - http://dbpedia.org/resource/Prosecutor
+perception - http://dbpedia.org/resource/Perception
+consumption - http://dbpedia.org/resource/Consumerism
+investment credit - http://dbpedia.org/resource/Tax_credit
+brazil - http://dbpedia.org/resource/Brazil
+gdp - http://dbpedia.org/resource/Economic_growth
+industrial sector - http://dbpedia.org/resource/Industry
+mining - http://dbpedia.org/resource/Mining
+recession - http://dbpedia.org/resource/Recession
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+brazil - http://dbpedia.org/resource/Brazil
+mineral - http://dbpedia.org/resource/Mining
+commodity - http://dbpedia.org/resource/Commodity
+benchmark - http://dbpedia.org/resource/Benchmarking
+interest rate - http://dbpedia.org/resource/Interest_rate
+neoliberal - http://dbpedia.org/resource/Neoliberalism
+fiscal adjustment - http://dbpedia.org/resource/Fiscal_adjustment
+economic crisis - http://dbpedia.org/resource/Financial_crisis
+rentier - http://dbpedia.org/resource/Rentier_capitalism
+public debt - http://dbpedia.org/resource/Government_debt
+government budget - http://dbpedia.org/resource/Government_budget
+evaporate - http://dbpedia.org/resource/Evaporation
+public debt - http://dbpedia.org/resource/Government_debt
+inflation - http://dbpedia.org/resource/Inflation
+digit - http://dbpedia.org/resource/Finger
+unemployment - http://dbpedia.org/resource/Unemployment
+spin - http://dbpedia.org/resource/Rotation
+brazil - http://dbpedia.org/resource/Brazil
+toxic - http://dbpedia.org/resource/Poison
+investor - http://dbpedia.org/resource/Investment
+consumption - http://dbpedia.org/resource/Consumerism
+investment - http://dbpedia.org/resource/Investment
+political crisis - http://dbpedia.org/resource/Crisis
+maggot - http://dbpedia.org/resource/Maggot
+racket - http://dbpedia.org/resource/Rackett
+impeachment - http://dbpedia.org/resource/Impeachment
+president rousseff - http://dbpedia.org/resource/Dilma_Rousseff
+regime change - http://dbpedia.org/resource/Regime_change
+wall street - http://dbpedia.org/resource/Wall_Street
+vassal - http://dbpedia.org/resource/Feudalism
+economic crisis - http://dbpedia.org/resource/Financial_crisis
+fuel - http://dbpedia.org/resource/Gasoline
+political crisis - http://dbpedia.org/resource/Crisis
+brics - http://dbpedia.org/resource/BRIC
+left field - http://dbpedia.org/resource/Baseball_field
+lula - http://dbpedia.org/resource/Lula_oil_field
+car wash - http://dbpedia.org/resource/Car_wash
+political animal - http://dbpedia.org/resource/Political_Animal_(radio_show)
+brazil - http://dbpedia.org/resource/Brazil
+rope - http://dbpedia.org/resource/Rope
+purge - http://dbpedia.org/resource/Purge
+legion - http://dbpedia.org/resource/Roman_legion
+lula - http://dbpedia.org/resource/Lula_oil_field
+capital - http://dbpedia.org/resource/Financial_capital
+petrobras - http://dbpedia.org/resource/Petrobras
+embraer - http://dbpedia.org/resource/Embraer
+bndes - http://dbpedia.org/resource/Brazilian_Development_Bank
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+brics - http://dbpedia.org/resource/BRIC
+oligarchic - http://dbpedia.org/resource/Oligarchy
+infrastructure - http://dbpedia.org/resource/Infrastructure
+brazil - http://dbpedia.org/resource/Brazil
+rail - http://dbpedia.org/resource/Rail_transport
+dam - http://dbpedia.org/resource/Mother
+judge - http://dbpedia.org/resource/Judge
+moro - http://dbpedia.org/resource/Aldo_Moro
+corruption - http://dbpedia.org/resource/Political_corruption
+fester - http://dbpedia.org/resource/Uncle_Fester
+brazilian economy - http://dbpedia.org/resource/Economy_of_Brazil
+stark - http://dbpedia.org/resource/House_of_Night
+brazilian economy - http://dbpedia.org/resource/Economy_of_Brazil
+comprador - http://dbpedia.org/resource/Comprador
+plunder - http://dbpedia.org/resource/Embezzlement
+oil - http://dbpedia.org/resource/Petroleum
+brazil - http://dbpedia.org/resource/Brazil
+headache - http://dbpedia.org/resource/Headache
+lula - http://dbpedia.org/resource/Lula_oil_field
+appraisal - http://dbpedia.org/resource/Real_estate_appraisal
+brazil - http://dbpedia.org/resource/Brazil
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+moniz bandeira - http://dbpedia.org/resource/Moniz_Bandeira
+regional power - http://dbpedia.org/resource/Regional_power
+fuel - http://dbpedia.org/resource/Gasoline
+natural resource - http://dbpedia.org/resource/Natural_resource
+oil - http://dbpedia.org/resource/Petroleum
+mineral - http://dbpedia.org/resource/Mining
+brazil - http://dbpedia.org/resource/Brazil
+washington - http://dbpedia.org/resource/George_Washington
+regional integration - http://dbpedia.org/resource/Regional_integration
+mercosur - http://dbpedia.org/resource/Mercosur
+unasur - http://dbpedia.org/resource/Union_of_South_American_Nations
+brics - http://dbpedia.org/resource/BRIC
+petrobras - http://dbpedia.org/resource/Petrobras
+single - http://dbpedia.org/resource/Extended_play
+reserve - http://dbpedia.org/resource/Bank_reserves
+salt deposit - http://dbpedia.org/resource/Salt_mining
+petrobras - http://dbpedia.org/resource/Petrobras
+investment - http://dbpedia.org/resource/Investment
+brazilian gdp - http://dbpedia.org/resource/Economy_of_Brazil
+petrobras - http://dbpedia.org/resource/Petrobras
+salt deposit - http://dbpedia.org/resource/Salt_mining
+technological innovation - http://dbpedia.org/resource/Innovation
+oil - http://dbpedia.org/resource/Petroleum
+water - http://dbpedia.org/resource/Water
+beauty - http://dbpedia.org/resource/Beauty
+drill - http://dbpedia.org/resource/Drill
+oil - http://dbpedia.org/resource/Petroleum
+planet - http://dbpedia.org/resource/Earth
+notorious - http://dbpedia.org/resource/Notorious_(2009_film)
+wing - http://dbpedia.org/resource/Wing
+maggot - http://dbpedia.org/resource/Maggot
+chevron - http://dbpedia.org/resource/Glossary_of_vexillology
+exploitation - http://dbpedia.org/resource/Exploitation_of_labour
+big oil - http://dbpedia.org/resource/Big_Oil
+wing - http://dbpedia.org/resource/Wing
+senate - http://dbpedia.org/resource/United_States_Senate
+petrobras - http://dbpedia.org/resource/Petrobras
+stock - http://dbpedia.org/resource/Stock_market
+engineer - http://dbpedia.org/resource/Engineer
+petrobras - http://dbpedia.org/resource/Petrobras
+big oil - http://dbpedia.org/resource/Big_Oil
+salt deposit - http://dbpedia.org/resource/Salt_mining
+brazil - http://dbpedia.org/resource/Brazil
+global power - http://dbpedia.org/resource/Great_power
+projection - http://dbpedia.org/resource/Psychological_projection
+geopolitically - http://dbpedia.org/resource/Geopolitics
+hollywood - http://dbpedia.org/resource/Hollywood
+blitz - http://dbpedia.org/resource/Blitzkrieg
+car wash - http://dbpedia.org/resource/Car_wash
+brics - http://dbpedia.org/resource/BRIC
+simultaneously attack - http://dbpedia.org/resource/October_2009_Lahore_attacks
+russia - http://dbpedia.org/resource/Russia
+brazil - http://dbpedia.org/resource/Brazil
+universe - http://dbpedia.org/resource/Universe
+wall street - http://dbpedia.org/resource/Wall_Street
+brics - http://dbpedia.org/resource/BRIC
+financial system - http://dbpedia.org/resource/Finance
+casino - http://dbpedia.org/resource/Casino
+capitalism - http://dbpedia.org/resource/Capitalism
+lula - http://dbpedia.org/resource/Lula_oil_field

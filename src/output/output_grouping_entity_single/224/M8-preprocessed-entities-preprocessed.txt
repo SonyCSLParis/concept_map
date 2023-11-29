@@ -1,0 +1,20 @@
+american river - http://dbpedia.org/resource/American_River
+peru - http://dbpedia.org/resource/Peru
+mexico - http://dbpedia.org/resource/Mexico
+continent - http://dbpedia.org/resource/Continent
+germany - http://dbpedia.org/resource/Germany
+immigration - http://dbpedia.org/resource/Immigration
+california - http://dbpedia.org/resource/History_of_California
+sail ship - http://dbpedia.org/resource/Sailing_ship
+environmental problem - http://dbpedia.org/resource/Environmentalism
+news - http://dbpedia.org/resource/News
+native americans - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
+ireland - http://dbpedia.org/resource/Republic_of_Ireland
+gold - http://dbpedia.org/resource/Gold
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+american history - http://dbpedia.org/resource/History_of_the_United_States
+marshall james - http://dbpedia.org/resource/Marshall_James
+wagon - http://dbpedia.org/resource/Conestoga_wagon
+wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+belgium - http://dbpedia.org/resource/Belgium
+strike - http://dbpedia.org/resource/Strike_action

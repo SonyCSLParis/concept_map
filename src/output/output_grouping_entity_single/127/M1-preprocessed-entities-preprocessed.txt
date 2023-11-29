@@ -1,0 +1,9 @@
+mansion - http://dbpedia.org/resource/Mansion
+edinburgh castle - http://dbpedia.org/resource/Edinburgh_Castle
+chess - http://dbpedia.org/resource/Chess
+moat - http://dbpedia.org/resource/Moat
+battlement - http://dbpedia.org/resource/Battlement
+impose - http://dbpedia.org/resource/Impose_(magazine)
+tower - http://dbpedia.org/resource/Keep
+medieval period - http://dbpedia.org/resource/Middle_Ages
+castle howard - http://dbpedia.org/resource/Castle_Howard

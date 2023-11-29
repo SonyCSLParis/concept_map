@@ -1,0 +1,56 @@
+turban - http://dbpedia.org/resource/Turban
+eastern orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+mercenary - http://dbpedia.org/resource/Mercenary
+eastern mediterranean - http://dbpedia.org/resource/Eastern_Mediterranean
+serbian empire - http://dbpedia.org/resource/Serbian_Empire
+western balkans - http://dbpedia.org/resource/Balkans
+islamic land - http://dbpedia.org/resource/Divisions_of_the_world_in_Islam
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+soldier - http://dbpedia.org/resource/Soldier
+muslim - http://dbpedia.org/resource/Muslims
+theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
+turkey - http://dbpedia.org/resource/Turkey
+great wall - http://dbpedia.org/resource/Great_Wall_of_China
+bulgarian empire - http://dbpedia.org/resource/First_Bulgarian_Empire
+catholicism - http://dbpedia.org/resource/Catholic_Church
+sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
+ottoman turks - http://dbpedia.org/resource/Ottoman_Turks
+catholics - http://dbpedia.org/resource/Catholic_Church
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+sultanate - http://dbpedia.org/resource/Sultan
+stress - http://dbpedia.org/resource/Portuguese_language
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+patchwork - http://dbpedia.org/resource/Patchwork
+ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
+rely - http://dbpedia.org/resource/Rely_(brand)
+pope - http://dbpedia.org/resource/Pope
+osman - http://dbpedia.org/resource/Osman_I
+orthodox catholic - http://dbpedia.org/resource/Eastern_Orthodox_Church
+turkish conquest - http://dbpedia.org/resource/Ottoman_wars_in_Europe
+anatolia - http://dbpedia.org/resource/Anatolia
+istanbul - http://dbpedia.org/resource/Istanbul
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+theological - http://dbpedia.org/resource/Catholic_theology
+catholic - http://dbpedia.org/resource/Catholic_Church
+learning objective - http://dbpedia.org/resource/Educational_aims_and_objectives
+john viii palaiologos - http://dbpedia.org/resource/John_VIII_Palaiologos
+turks - http://dbpedia.org/resource/Ottoman_Turks
+florence - http://dbpedia.org/resource/Republic_of_Florence
+asia minor - http://dbpedia.org/resource/Anatolia
+orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+religious belief - http://dbpedia.org/resource/Religion
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+ottoman empire - http://dbpedia.org/resource/Ottoman_Turks
+city - http://dbpedia.org/resource/Municipiu
+church - http://dbpedia.org/resource/Catholic_Church
+papal tiara - http://dbpedia.org/resource/Papal_tiara
+church council - http://dbpedia.org/resource/Ecumenical_council
+mosque - http://dbpedia.org/resource/Mosque
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+orthodox catholics - http://dbpedia.org/resource/Eastern_Orthodox_Church
+turkish - http://dbpedia.org/resource/Ottoman_Empire
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
+ottomans - http://dbpedia.org/resource/Ottoman_(furniture)
+catholic christianity - http://dbpedia.org/resource/Catholic_Church
+civil war - http://dbpedia.org/resource/Civil_war

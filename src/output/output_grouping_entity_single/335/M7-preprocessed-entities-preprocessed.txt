@@ -1,0 +1,41 @@
+misunderstood - http://dbpedia.org/resource/The_Misunderstood
+tarmac - http://dbpedia.org/resource/Tarmacadam
+joe hesketh - http://dbpedia.org/resource/Joe_Hesketh
+education - http://dbpedia.org/resource/Education
+popular culture - http://dbpedia.org/resource/Popular_culture
+intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
+bus route - http://dbpedia.org/resource/Public_transport_bus_service
+trail - http://dbpedia.org/resource/Trail
+folk - http://dbpedia.org/resource/Folklore
+bit - http://dbpedia.org/resource/Bit
+murder - http://dbpedia.org/resource/Murder
+perfume - http://dbpedia.org/resource/Perfume
+atrocious - http://dbpedia.org/resource/Atrocious_(film)
+healer - http://dbpedia.org/resource/Folk_healer
+evil - http://dbpedia.org/resource/Evil
+purgatory - http://dbpedia.org/resource/Purgatory
+tree - http://dbpedia.org/resource/Tree
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+map - http://dbpedia.org/resource/Map
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+pendle witch trials - http://dbpedia.org/resource/Pendle_witches
+horror - http://dbpedia.org/resource/Horror_film
+single - http://dbpedia.org/resource/Phonograph_record
+pendle forest - http://dbpedia.org/resource/Forest_of_Pendle
+revere - http://dbpedia.org/resource/Paul_Revere
+advantage play - http://dbpedia.org/resource/Advantage_gambling
+grim - http://dbpedia.org/resource/Church_grim
+judge - http://dbpedia.org/resource/Judge
+outlook - http://dbpedia.org/resource/Microsoft_Outlook
+magician - http://dbpedia.org/resource/Magic_in_fiction
+pendle - http://dbpedia.org/resource/Pendle_witches
+witch trial - http://dbpedia.org/resource/Witch-hunt
+pub - http://dbpedia.org/resource/Pub
+herbal medicine - http://dbpedia.org/resource/Herbal_medicine
+prepare - http://dbpedia.org/resource/PREPARE
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+harry potter - http://dbpedia.org/resource/Harry_Potter
+witchcraft - http://dbpedia.org/resource/Witchcraft
+weather - http://dbpedia.org/resource/Weather
+culture - http://dbpedia.org/resource/Culture
+church school - http://dbpedia.org/resource/Christian_school

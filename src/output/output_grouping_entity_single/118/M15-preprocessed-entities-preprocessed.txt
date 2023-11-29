@@ -1,0 +1,41 @@
+lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+english heritage - http://dbpedia.org/resource/English_Heritage
+decay - http://dbpedia.org/resource/Urban_decay
+roman fort - http://dbpedia.org/resource/Castra
+family - http://dbpedia.org/resource/Family
+english civil war - http://dbpedia.org/resource/English_Civil_War
+stone - http://dbpedia.org/resource/Stonemasonry
+vipont - http://dbpedia.org/resource/Vieuxpont
+battlement - http://dbpedia.org/resource/Battlement
+lake - http://dbpedia.org/resource/Lake
+thomas - http://dbpedia.org/resource/THOMAS
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+die - http://dbpedia.org/resource/Death
+daily 10 - http://dbpedia.org/resource/The_Daily_10
+defence - http://dbpedia.org/resource/Military
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+nov - http://dbpedia.org/resource/NOV_(gene)
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+parliamentary - http://dbpedia.org/resource/Roundhead
+norman - http://dbpedia.org/resource/Normans
+broom - http://dbpedia.org/resource/Genisteae
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+gentrification - http://dbpedia.org/resource/Gentrification
+bear - http://dbpedia.org/resource/Bear
+telephone - http://dbpedia.org/resource/Telephone
+earl - http://dbpedia.org/resource/Earl
+sept - http://dbpedia.org/resource/Sept
+pallisade - http://dbpedia.org/resource/Palisade
+church - http://dbpedia.org/resource/Church_architecture
+timber - http://dbpedia.org/resource/Timber_framing
+ullswater - http://dbpedia.org/resource/Ullswater
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+river eamont - http://dbpedia.org/resource/River_Eamont
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+roundhead - http://dbpedia.org/resource/Roundhead
+appleby castle - http://dbpedia.org/resource/Appleby_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+cumberland - http://dbpedia.org/resource/Cumberland
+robert bruce - http://dbpedia.org/resource/Robert_the_Bruce

@@ -1,0 +1,171 @@
+stone - http://dbpedia.org/resource/Stone_tool
+nose - http://dbpedia.org/resource/Human_nose
+nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
+double crown - http://dbpedia.org/resource/Pschent
+soldier - http://dbpedia.org/resource/Soldier
+ptolemies - http://dbpedia.org/resource/Ptolemaic_Kingdom
+slave - http://dbpedia.org/resource/Slavery_in_ancient_Rome
+bronze - http://dbpedia.org/resource/Bronze_Age
+die - http://dbpedia.org/resource/Death
+architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+stable - http://dbpedia.org/resource/Stable
+linen - http://dbpedia.org/resource/Linen
+osiris - http://dbpedia.org/resource/Osiris
+commodity - http://dbpedia.org/resource/Commodity
+bodie - http://dbpedia.org/resource/Bodie_Broadus
+farming - http://dbpedia.org/resource/Agriculture_in_ancient_Rome
+unlimited power - http://dbpedia.org/resource/Unlimited_Power
+amenhotep iv - http://dbpedia.org/resource/Akhenaten
+archaic period - http://dbpedia.org/resource/Archaic_Greece
+jewelry maker - http://dbpedia.org/resource/Jewellery_design
+calendar - http://dbpedia.org/resource/Calendar
+weapon - http://dbpedia.org/resource/Weapon
+inundation - http://dbpedia.org/resource/Inundation
+cataracts - http://dbpedia.org/resource/Cataracts_of_the_Nile
+stomach - http://dbpedia.org/resource/Stomach
+agriculture - http://dbpedia.org/resource/Agriculture_in_ancient_Rome
+glean - http://dbpedia.org/resource/Gleaning
+rebirth - http://dbpedia.org/resource/Reincarnation
+mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
+religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
+long river - http://dbpedia.org/resource/Yangtze
+palestine - http://dbpedia.org/resource/History_of_Palestine
+scribe - http://dbpedia.org/resource/Scribe
+western asia - http://dbpedia.org/resource/Western_Asia
+writing instruments - http://dbpedia.org/resource/Writing_implement
+ceramicist - http://dbpedia.org/resource/Pottery
+heretic - http://dbpedia.org/resource/Heresy
+law - http://dbpedia.org/resource/Roman_law
+ms - http://dbpedia.org/resource/Millisecond
+chariot - http://dbpedia.org/resource/Solar_deity
+romans - http://dbpedia.org/resource/Romans_(musician)
+social studies - http://dbpedia.org/resource/Social_studies
+kimberly - http://dbpedia.org/resource/Kimberly_Brady
+delta - http://dbpedia.org/resource/Nile_Delta
+golden age - http://dbpedia.org/resource/Golden_Age
+nile - http://dbpedia.org/resource/Nile
+village - http://dbpedia.org/resource/Village
+water clock - http://dbpedia.org/resource/Water_clock
+polytheistic - http://dbpedia.org/resource/Ancient_Greek_religion
+pharaohs - http://dbpedia.org/resource/Pharaoh
+southwest asia - http://dbpedia.org/resource/Western_Asia
+priest - http://dbpedia.org/resource/Kohen
+aton - http://dbpedia.org/resource/Navigational_aid
+egyptians - http://dbpedia.org/resource/Ancient_Egypt
+sea level - http://dbpedia.org/resource/Sea_level_rise
+curve - http://dbpedia.org/resource/Curve
+murder - http://dbpedia.org/resource/Murder
+heart - http://dbpedia.org/resource/Heart_(symbol)
+stock - http://dbpedia.org/resource/Livestock
+nubia - http://dbpedia.org/resource/Nubia
+sun god - http://dbpedia.org/resource/Ra
+clain - http://dbpedia.org/resource/Clain
+roman occupation - http://dbpedia.org/resource/Roman_Empire
+hieroglyphic - http://dbpedia.org/resource/Egyptian_hieroglyphs
+dash - http://dbpedia.org/resource/Dash
+sun river - http://dbpedia.org/resource/Sun_River
+persians - http://dbpedia.org/resource/Achaemenid_Empire
+wash water - http://dbpedia.org/resource/Wash_Water
+flat roof - http://dbpedia.org/resource/Flat_roof
+egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
+single - http://dbpedia.org/resource/Phonograph_record
+resurrection - http://dbpedia.org/resource/Resurrection
+public welfare - http://dbpedia.org/resource/Welfare
+priesthood - http://dbpedia.org/resource/Kohen
+disk - http://dbpedia.org/resource/Hard_disk_drive
+security - http://dbpedia.org/resource/Security
+wind - http://dbpedia.org/resource/Wind
+outlook - http://dbpedia.org/resource/Microsoft_Outlook
+charter school - http://dbpedia.org/resource/Charter_school
+nile river - http://dbpedia.org/resource/Nile
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+lung - http://dbpedia.org/resource/Chinese_dragon
+kingdom city - http://dbpedia.org/resource/Kingdom_City,_Missouri
+water - http://dbpedia.org/resource/Water
+technology - http://dbpedia.org/resource/Technology
+mathematic - http://dbpedia.org/resource/Mathematics
+bureaucracy - http://dbpedia.org/resource/Bureaucracy
+imperial period - http://dbpedia.org/resource/Roman_Empire
+abstract - http://dbpedia.org/resource/Abstraction
+stone tablet - http://dbpedia.org/resource/Stele
+ptolemaic period - http://dbpedia.org/resource/Ptolemaic_Kingdom
+liver - http://dbpedia.org/resource/Liver
+invade egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
+desert call - http://dbpedia.org/resource/Desert_Call
+imperial province - http://dbpedia.org/resource/Imperial_province
+crop - http://dbpedia.org/resource/Agriculture
+tomb - http://dbpedia.org/resource/Tomb
+sculptor - http://dbpedia.org/resource/Sculpture
+menes - http://dbpedia.org/resource/Menes
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+elevation - http://dbpedia.org/resource/Altitude
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+mastabas - http://dbpedia.org/resource/Mastaba
+funerary monument - http://dbpedia.org/resource/Funerary_art
+food - http://dbpedia.org/resource/Food
+green map - http://dbpedia.org/resource/Green_Map
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+worship god - http://dbpedia.org/resource/Worship_God
+ramses ii - http://dbpedia.org/resource/Ramesses_II
+seti - http://dbpedia.org/resource/Search_for_extraterrestrial_intelligence
+city - http://dbpedia.org/resource/City
+flax - http://dbpedia.org/resource/Flax
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
+dependence - http://dbpedia.org/resource/Correlation_and_dependence
+intestine - http://dbpedia.org/resource/Gastrointestinal_tract
+libyans - http://dbpedia.org/resource/Ancient_Libya
+rain - http://dbpedia.org/resource/Rain
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+soil - http://dbpedia.org/resource/Soil
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+merchant - http://dbpedia.org/resource/Merchant
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+bce - http://dbpedia.org/resource/Common_Era
+spice - http://dbpedia.org/resource/Spice
+jar - http://dbpedia.org/resource/Jar
+red sea - http://dbpedia.org/resource/Red_Sea
+akhenaten - http://dbpedia.org/resource/Akhenaten
+safety - http://dbpedia.org/resource/Occupational_safety_and_health
+egyptian pharaohs - http://dbpedia.org/resource/Pharaoh
+mummification - http://dbpedia.org/resource/Mummy
+syria - http://dbpedia.org/resource/Syria
+family - http://dbpedia.org/resource/Family
+pharonic - http://dbpedia.org/resource/Ancient_Egypt
+split channel - http://dbpedia.org/resource/Split_Channel
+planet - http://dbpedia.org/resource/Earth
+archaeologist - http://dbpedia.org/resource/Archaeology
+amun - http://dbpedia.org/resource/Amun
+pharaoh - http://dbpedia.org/resource/Pharaoh
+egyptian religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
+temple - http://dbpedia.org/resource/Egyptian_temple
+war chariot - http://dbpedia.org/resource/Chariot
+nile delta - http://dbpedia.org/resource/Nile_Delta
+furniture - http://dbpedia.org/resource/Furniture
+palermo stone - http://dbpedia.org/resource/Palermo_Stone
+sun - http://dbpedia.org/resource/Solar_deity
+chamber - http://dbpedia.org/resource/Chamber_tomb
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+map - http://dbpedia.org/resource/Map
+despotic - http://dbpedia.org/resource/Despotism
+literature - http://dbpedia.org/resource/Latin_literature
+pharaonic - http://dbpedia.org/resource/Pharaoh
+farmer - http://dbpedia.org/resource/Agriculture
+king narmer - http://dbpedia.org/resource/Narmer
+civilization - http://dbpedia.org/resource/Civilization
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+invasion - http://dbpedia.org/resource/Invasion
+brain - http://dbpedia.org/resource/Brain
+moon - http://dbpedia.org/resource/Moon
+unification - http://dbpedia.org/resource/Italian_unification
+upper egypt - http://dbpedia.org/resource/Upper_Egypt
+prosper - http://dbpedia.org/resource/Prosper_of_Aquitaine
+stroke - http://dbpedia.org/resource/Stroke
+isis - http://dbpedia.org/resource/Isis
+middle kingdom - http://dbpedia.org/resource/Middle_Francia
+persian - http://dbpedia.org/resource/Persian_language
+tutankhamen - http://dbpedia.org/resource/Tutankhamun
+hieratic - http://dbpedia.org/resource/Hieratic
+central africa - http://dbpedia.org/resource/Central_Africa
+middle class - http://dbpedia.org/resource/Middle_class
+delta river - http://dbpedia.org/resource/Delta_River

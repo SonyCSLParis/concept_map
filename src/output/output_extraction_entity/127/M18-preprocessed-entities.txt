@@ -1,0 +1,58 @@
+stone castle - http://dbpedia.org/resource/Stone_Castle
+tipperary - http://dbpedia.org/resource/County_Tipperary
+build order - http://dbpedia.org/resource/Build_order
+timber - http://dbpedia.org/resource/Timber_framing
+defence - http://dbpedia.org/resource/Military
+defence - http://dbpedia.org/resource/Military
+stone - http://dbpedia.org/resource/Masonry
+defence - http://dbpedia.org/resource/Military
+rock - http://dbpedia.org/resource/Rock_music
+outcrop - http://dbpedia.org/resource/Outcrop
+tower - http://dbpedia.org/resource/Keep
+arrow slit - http://dbpedia.org/resource/Arrowslit
+rely - http://dbpedia.org/resource/Rely_(brand)
+nenagh castle - http://dbpedia.org/resource/Nenagh
+stone mason - http://dbpedia.org/resource/Stonemasonry
+cart - http://dbpedia.org/resource/Cart
+wagon - http://dbpedia.org/resource/Wagon
+building material - http://dbpedia.org/resource/Building_material
+quarryman - http://dbpedia.org/resource/Quarry
+erection - http://dbpedia.org/resource/Erection
+scaffolding - http://dbpedia.org/resource/Scaffolding
+joist - http://dbpedia.org/resource/Joist
+beam - http://dbpedia.org/resource/Bending
+flooring - http://dbpedia.org/resource/Tile
+arrear - http://dbpedia.org/resource/Arrears
+extreme poverty - http://dbpedia.org/resource/Extreme_poverty
+starvation - http://dbpedia.org/resource/Starvation
+tipperary - http://dbpedia.org/resource/County_Tipperary
+administration - http://dbpedia.org/resource/Route_of_administration
+symbol - http://dbpedia.org/resource/Symbol
+rural - http://dbpedia.org/resource/Rural_area
+integral - http://dbpedia.org/resource/Integral
+manufacturing - http://dbpedia.org/resource/Manufacturing
+tipperary - http://dbpedia.org/resource/County_Tipperary
+tipperary - http://dbpedia.org/resource/County_Tipperary
+urban castle - http://dbpedia.org/resource/Urban_castle
+tipperary - http://dbpedia.org/resource/County_Tipperary
+norman - http://dbpedia.org/resource/Normans
+court - http://dbpedia.org/resource/Courtyard
+court - http://dbpedia.org/resource/Courtyard
+peasant - http://dbpedia.org/resource/Peasant
+gunpowder - http://dbpedia.org/resource/Gunpowder
+handgun - http://dbpedia.org/resource/Hand_cannon
+warfare - http://dbpedia.org/resource/Medieval_warfare
+castle building - http://dbpedia.org/resource/Castle_Building
+artillery - http://dbpedia.org/resource/Artillery
+stone - http://dbpedia.org/resource/Masonry
+fortification - http://dbpedia.org/resource/Castle
+cannon - http://dbpedia.org/resource/Cannon
+gun - http://dbpedia.org/resource/Cannon
+artillery - http://dbpedia.org/resource/Artillery
+fort - http://dbpedia.org/resource/Fortification
+country style - http://dbpedia.org/resource/Country_Style
+fortification - http://dbpedia.org/resource/Castle
+nenagh castle - http://dbpedia.org/resource/Nenagh
+bridge castle - http://dbpedia.org/resource/Bridge_castle
+thurles - http://dbpedia.org/resource/Thurles
+farney - http://dbpedia.org/resource/Farney_(barony)

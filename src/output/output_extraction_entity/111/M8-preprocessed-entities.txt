@@ -1,0 +1,52 @@
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+invasion - http://dbpedia.org/resource/Invasion
+noble - http://dbpedia.org/resource/Nobility
+tax - http://dbpedia.org/resource/Tax
+invasion - http://dbpedia.org/resource/Invasion
+noble - http://dbpedia.org/resource/Nobility
+coat - http://dbpedia.org/resource/Fur_clothing
+gilded - http://dbpedia.org/resource/Gilding
+mast - http://dbpedia.org/resource/Strained_yogurt
+food - http://dbpedia.org/resource/Fish_as_food
+meat - http://dbpedia.org/resource/Lamb_and_mutton
+oats - http://dbpedia.org/resource/Oat
+onion - http://dbpedia.org/resource/Onion
+vinegar - http://dbpedia.org/resource/Vinegar
+flour - http://dbpedia.org/resource/Flour
+fat - http://dbpedia.org/resource/Vegetable_oil
+garlic - http://dbpedia.org/resource/Garlic
+pea bean - http://dbpedia.org/resource/Pea_bean
+barley wine - http://dbpedia.org/resource/Barley_wine
+barrel - http://dbpedia.org/resource/Barrel
+egg yolk - http://dbpedia.org/resource/Yolk
+sluys - http://dbpedia.org/resource/Sluis
+flanders - http://dbpedia.org/resource/County_of_Flanders
+mercenary - http://dbpedia.org/resource/Mercenary
+slave - http://dbpedia.org/resource/History_of_slavery
+king richard ii - http://dbpedia.org/resource/Richard_II_of_England
+prepare - http://dbpedia.org/resource/PREPARE
+invasion - http://dbpedia.org/resource/Invasion
+archer - http://dbpedia.org/resource/Archery
+array - http://dbpedia.org/resource/Array_data_structure
+militia - http://dbpedia.org/resource/Militia
+garrison - http://dbpedia.org/resource/Garrison
+barricade - http://dbpedia.org/resource/Barricade
+barricade - http://dbpedia.org/resource/Barricade
+french wine - http://dbpedia.org/resource/French_wine
+barrel - http://dbpedia.org/resource/Barrel
+sand - http://dbpedia.org/resource/Sand
+supply ship - http://dbpedia.org/resource/Cargo_ship
+array - http://dbpedia.org/resource/Array_data_structure
+sussex - http://dbpedia.org/resource/Sussex
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+manor house - http://dbpedia.org/resource/Manorialism
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+invasion - http://dbpedia.org/resource/Invasion
+french invasion fleet - http://dbpedia.org/resource/Wolfe_Tone
+weather - http://dbpedia.org/resource/Weather
+english coast - http://dbpedia.org/resource/English_Coast
+sea sickness - http://dbpedia.org/resource/Motion_sickness
+indigestion - http://dbpedia.org/resource/Indigestion
+sluys - http://dbpedia.org/resource/Sluis
+invasion - http://dbpedia.org/resource/Invasion
+weather - http://dbpedia.org/resource/Weather

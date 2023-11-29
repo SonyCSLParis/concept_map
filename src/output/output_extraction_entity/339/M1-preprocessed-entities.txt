@@ -1,0 +1,37 @@
+article - http://dbpedia.org/resource/Historicity_of_Jesus
+james madison - http://dbpedia.org/resource/James_Madison
+amendment - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
+rehnquist court - http://dbpedia.org/resource/William_Rehnquist
+federalism - http://dbpedia.org/resource/Federalism
+revolution - http://dbpedia.org/resource/Revolution
+revolution - http://dbpedia.org/resource/Revolution
+supreme court - http://dbpedia.org/resource/Supreme_Court_of_Canada
+jurisprudence - http://dbpedia.org/resource/Precedent
+chief justice rehnquist - http://dbpedia.org/resource/William_Rehnquist
+federalism - http://dbpedia.org/resource/Federalism
+federal power - http://dbpedia.org/resource/Federalism
+ashcroft - http://dbpedia.org/resource/John_Ashcroft
+york - http://dbpedia.org/resource/York
+lopez - http://dbpedia.org/resource/Jennifer_Lopez
+printz - http://dbpedia.org/resource/Printz_v._United_States
+alden - http://dbpedia.org/resource/Alden,_New_York
+common rule - http://dbpedia.org/resource/Common_Rule
+federal power - http://dbpedia.org/resource/Federalism
+hook - http://dbpedia.org/resource/Hooking
+strict construction - http://dbpedia.org/resource/Strict_constructionism
+amendment - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
+justice o'connor - http://dbpedia.org/resource/Sandra_Day_O'Connor
+federalism - http://dbpedia.org/resource/Federalism
+revolution - http://dbpedia.org/resource/Revolution
+ashcroft - http://dbpedia.org/resource/John_Ashcroft
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+reserve - http://dbpedia.org/resource/Indian_reserve
+sovereign - http://dbpedia.org/resource/Sovereignty
+james madison - http://dbpedia.org/resource/James_Madison
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+reserve - http://dbpedia.org/resource/Indian_reserve
+object - http://dbpedia.org/resource/Object-oriented_programming
+liberty - http://dbpedia.org/resource/Liberty

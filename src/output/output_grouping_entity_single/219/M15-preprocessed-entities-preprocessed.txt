@@ -1,0 +1,20 @@
+author - http://dbpedia.org/resource/Author
+mexico - http://dbpedia.org/resource/Mexico
+nuclear program - http://dbpedia.org/resource/German_nuclear_weapons_program
+race - http://dbpedia.org/resource/Racing
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+president - http://dbpedia.org/resource/President_of_the_United_States
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+ussr - http://dbpedia.org/resource/Soviet_Union
+american canadian - http://dbpedia.org/resource/American_Canadians
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+apr - http://dbpedia.org/resource/Public_Radio_International
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+checkout - http://dbpedia.org/resource/Point_of_sale
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+great britain - http://dbpedia.org/resource/United_Kingdom
+hardcover - http://dbpedia.org/resource/Hardcover

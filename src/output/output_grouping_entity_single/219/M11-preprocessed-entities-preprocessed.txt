@@ -1,0 +1,198 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
+kt - http://dbpedia.org/resource/TNT_equivalent
+zulu time - http://dbpedia.org/resource/Coordinated_Universal_Time
+normandy - http://dbpedia.org/resource/Normandy_landings
+implosion system - http://dbpedia.org/resource/Nuclear_weapon_design
+john von neumann - http://dbpedia.org/resource/John_von_Neumann
+nuclear technology - http://dbpedia.org/resource/Nuclear_technology
+hms plym - http://dbpedia.org/resource/HMS_Plym_(K271)
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+irish sea - http://dbpedia.org/resource/Irish_Sea
+britain - http://dbpedia.org/resource/United_Kingdom
+plan 4 - http://dbpedia.org/resource/Plan_4
+imperial college london - http://dbpedia.org/resource/Imperial_College_London
+briton - http://dbpedia.org/resource/United_Kingdom
+chief superintendent - http://dbpedia.org/resource/Chief_superintendent
+gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+parsons - http://dbpedia.org/resource/C._A._Parsons_and_Company
+operation crossroads - http://dbpedia.org/resource/Operation_Crossroads
+communication - http://dbpedia.org/resource/Communication
+gravity wave - http://dbpedia.org/resource/Gravity_wave
+secret cabinet - http://dbpedia.org/resource/Shadow_government_(conspiracy)
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+industrial - http://dbpedia.org/resource/Industry
+population density - http://dbpedia.org/resource/Population_density
+coast australia - http://dbpedia.org/resource/Coast_(TV_series)
+bomb threat - http://dbpedia.org/resource/Bomb_threat
+blast wave - http://dbpedia.org/resource/Blast_wave
+metal - http://dbpedia.org/resource/Metal
+outline - http://dbpedia.org/resource/Nutrition
+irradiation - http://dbpedia.org/resource/Ionizing_radiation
+british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+ussr - http://dbpedia.org/resource/Soviet_Union
+soviet russia - http://dbpedia.org/resource/Soviet_Union
+william penney - http://dbpedia.org/resource/William_Penney,_Baron_Penney
+warship - http://dbpedia.org/resource/Warship
+breakwater - http://dbpedia.org/resource/Glossary_of_nautical_terms
+atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
+hinton - http://dbpedia.org/resource/Geoffrey_Hinton
+risley - http://dbpedia.org/resource/ROF_Risley
+altitude - http://dbpedia.org/resource/Altitude
+norman ramsey - http://dbpedia.org/resource/Norman_Foster_Ramsey_Jr.
+plant - http://dbpedia.org/resource/Chemical_plant
+woolwich - http://dbpedia.org/resource/Woolwich
+windscale - http://dbpedia.org/resource/Sellafield
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+plane - http://dbpedia.org/resource/Airplane
+torlesse - http://dbpedia.org/resource/Torlesse_Composite_Terrane
+station - http://dbpedia.org/resource/Royal_Air_Force
+plutonium core - http://dbpedia.org/resource/Pit_(nuclear_weapon)
+fort halstead - http://dbpedia.org/resource/Fort_Halstead
+lord portal - http://dbpedia.org/resource/Charles_Portal,_1st_Viscount_Portal_of_Hungerford
+fissile material - http://dbpedia.org/resource/Fissile_material
+heu - http://dbpedia.org/resource/Enriched_uranium
+bikini atoll - http://dbpedia.org/resource/Bikini_Atoll
+woolwich arsenal - http://dbpedia.org/resource/Royal_Arsenal
+tinian island - http://dbpedia.org/resource/Tinian
+crater - http://dbpedia.org/resource/Explosion_crater
+berkshire downs - http://dbpedia.org/resource/Berkshire_Downs
+saucer - http://dbpedia.org/resource/Unidentified_flying_object
+u.k. prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+attlee - http://dbpedia.org/resource/Clement_Attlee
+plym - http://dbpedia.org/resource/River_Plym
+tender - http://dbpedia.org/resource/Destroyer_tender
+c.p. snow - http://dbpedia.org/resource/C._P._Snow
+hot metal - http://dbpedia.org/resource/Pig_iron
+energy - http://dbpedia.org/resource/Energy
+cpae - http://dbpedia.org/resource/National_Speakers_Association
+single - http://dbpedia.org/resource/Phonograph_record
+atomic bomb program - http://dbpedia.org/resource/Pakistan_and_weapons_of_mass_destruction
+river class frigate - http://dbpedia.org/resource/River-class_frigate
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+csar - http://dbpedia.org/resource/Search_and_rescue
+pu-240 - http://dbpedia.org/resource/Plutonium-240
+instrumental - http://dbpedia.org/resource/Musical_instrument
+operation 25 - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+parliamentary - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+sail - http://dbpedia.org/resource/Sail
+hydrodynamic - http://dbpedia.org/resource/Fluid_dynamics
+atom bomb - http://dbpedia.org/resource/Nuclear_weapon
+prepare - http://dbpedia.org/resource/PREPARE
+ard - http://dbpedia.org/resource/Ard_(plough)
+hermite - http://dbpedia.org/resource/Charles_Hermite
+maud committee - http://dbpedia.org/resource/MAUD_Committee
+campania - http://dbpedia.org/resource/Campania
+fat - http://dbpedia.org/resource/Lipid
+nuclear device - http://dbpedia.org/resource/Nuclear_weapon
+viscount - http://dbpedia.org/resource/Viscount
+water - http://dbpedia.org/resource/Water
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+brain trust - http://dbpedia.org/resource/Brain_trust
+mathematic - http://dbpedia.org/resource/Mathematics
+cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom
+hms campania - http://dbpedia.org/resource/HMS_Campania_(D48)
+nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
+hungerford - http://dbpedia.org/resource/Hungerford
+leslie groves - http://dbpedia.org/resource/Leslie_Groves
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
+chester - http://dbpedia.org/resource/Chester
+anchor - http://dbpedia.org/resource/Anchor
+caesar - http://dbpedia.org/resource/Julius_Caesar
+gmt - http://dbpedia.org/resource/Greenwich_Mean_Time
+nucleus - http://dbpedia.org/resource/Atomic_nucleus
+observation - http://dbpedia.org/resource/Reconnaissance
+lancashire - http://dbpedia.org/resource/Lancashire
+capenhurst - http://dbpedia.org/resource/Capenhurst
+flag ship - http://dbpedia.org/resource/Flagship
+harwell - http://dbpedia.org/resource/Atomic_Energy_Research_Establishment
+controller - http://dbpedia.org/resource/Control_theory
+soviets - http://dbpedia.org/resource/Soviet_Union
+cathcart - http://dbpedia.org/resource/Cathcart
+code - http://dbpedia.org/resource/Punched_card
+nuclear test - http://dbpedia.org/resource/Nuclear_weapons_testing
+ocean wave - http://dbpedia.org/resource/Wind_wave
+high explosive - http://dbpedia.org/resource/Explosive
+critical mass - http://dbpedia.org/resource/Critical_mass
+wave - http://dbpedia.org/resource/Electromagnetic_radiation
+uranium enrichment - http://dbpedia.org/resource/Gaseous_diffusion
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+cloud - http://dbpedia.org/resource/Cloud
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+coast - http://dbpedia.org/resource/Intercontinental_ballistic_missile
+nagasaki - http://dbpedia.org/resource/Fat_Man
+ici - http://dbpedia.org/resource/Imperial_Chemical_Industries
+rain - http://dbpedia.org/resource/Rain
+physicist - http://dbpedia.org/resource/Nuclear_physics
+analytical skill - http://dbpedia.org/resource/Analytical_skill
+captain - http://dbpedia.org/resource/Sea_captain
+south oxford - http://dbpedia.org/resource/South_Oxford,_Maine
+plutonium - http://dbpedia.org/resource/Plutonium
+fission - http://dbpedia.org/resource/Nuclear_weapon
+bepo - http://dbpedia.org/resource/Nikolai_Volkoff
+lagoon - http://dbpedia.org/resource/Lagoon
+henry tizard - http://dbpedia.org/resource/Henry_Tizard
+cumberland - http://dbpedia.org/resource/Cumberland
+rear admiral - http://dbpedia.org/resource/Rear_admiral
+harold macmillan - http://dbpedia.org/resource/Harold_Macmillan
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+1941 committee - http://dbpedia.org/resource/1941_Committee
+air marshal - http://dbpedia.org/resource/Air_marshal
+travel washington - http://dbpedia.org/resource/Travel_Washington
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+acae - http://dbpedia.org/resource/Achaei
+fission bomb - http://dbpedia.org/resource/Nuclear_weapon
+oxford university - http://dbpedia.org/resource/University_of_Oxford
+physics - http://dbpedia.org/resource/Physics
+wwii - http://dbpedia.org/resource/World_War_II
+engineer - http://dbpedia.org/resource/Engineer
+underwater explosion - http://dbpedia.org/resource/Underwater_explosion
+nuclear program - http://dbpedia.org/resource/Nuclear_power
+gadget - http://dbpedia.org/resource/Gadget
+bit - http://dbpedia.org/resource/Bit
+committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
+berkshire - http://dbpedia.org/resource/Berkshire
+escort carrier - http://dbpedia.org/resource/Escort_carrier
+wast - http://dbpedia.org/resource/WNYT_(TV)
+sellafield - http://dbpedia.org/resource/Sellafield
+map - http://dbpedia.org/resource/Map
+evaporation - http://dbpedia.org/resource/Evaporation
+nanny - http://dbpedia.org/resource/Nanny
+monte bello islands - http://dbpedia.org/resource/Montebello_Islands
+atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
+sacrificial - http://dbpedia.org/resource/Human_sacrifice
+diagram - http://dbpedia.org/resource/Diagram
+ton - http://dbpedia.org/resource/Tonne
+cabinet committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
+subset - http://dbpedia.org/resource/Subset
+invasion - http://dbpedia.org/resource/Invasion_of_Normandy
+espionage - http://dbpedia.org/resource/Atomic_spies
+spinifex - http://dbpedia.org/resource/Spinifex_people
+vaporize - http://dbpedia.org/resource/Evaporation
+etest - http://dbpedia.org/resource/Etest
+landing craft - http://dbpedia.org/resource/Landing_craft
+seabed - http://dbpedia.org/resource/Seabed
+cae - http://dbpedia.org/resource/Computer-aided_engineering
+aldermaston - http://dbpedia.org/resource/Atomic_Weapons_Establishment
+atomic bombing - http://dbpedia.org/resource/Nuclear_weapon
+sir henry tizard - http://dbpedia.org/resource/Henry_Tizard
+fog - http://dbpedia.org/resource/Fog
+christopher hinton - http://dbpedia.org/resource/Christopher_Hinton,_Baron_Hinton_of_Bankside
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+los alamos - http://dbpedia.org/resource/Project_Y
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+production reactor - http://dbpedia.org/resource/Nuclear_reactor
+clement attlee - http://dbpedia.org/resource/Clement_Attlee
+levitated pit - http://dbpedia.org/resource/Pit_(nuclear_weapon)
+perth - http://dbpedia.org/resource/Perth
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+imperial college - http://dbpedia.org/resource/Imperial_College_London
+detonate - http://dbpedia.org/resource/Detonation
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+scrub - http://dbpedia.org/resource/Shrubland
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+shock wave - http://dbpedia.org/resource/Shock_wave

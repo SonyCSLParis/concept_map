@@ -1,0 +1,10 @@
+york - http://dbpedia.org/resource/York
+city - http://dbpedia.org/resource/City
+9/11 - http://dbpedia.org/resource/September_11_attacks
+conspiracy theory - http://dbpedia.org/resource/Conspiracy_theory
+architect - http://dbpedia.org/resource/Architect
+engineer - http://dbpedia.org/resource/Engineer
+physics - http://dbpedia.org/resource/Physics
+professor - http://dbpedia.org/resource/Professor
+charlie sheen - http://dbpedia.org/resource/Charlie_Sheen
+rosie o'donnell - http://dbpedia.org/resource/Rosie_O'Donnell

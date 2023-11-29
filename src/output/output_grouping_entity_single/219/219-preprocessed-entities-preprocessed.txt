@@ -1,0 +1,16 @@
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+isotope - http://dbpedia.org/resource/Isotope
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+soviet - http://dbpedia.org/resource/Soviet_Union
+fissile - http://dbpedia.org/resource/Fissile_material
+alloy - http://dbpedia.org/resource/Alloy
+critical mass - http://dbpedia.org/resource/Critical_mass
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+uranium - http://dbpedia.org/resource/Uranium-235
+klaus - http://dbpedia.org/resource/Klaus_Mann
+maud report - http://dbpedia.org/resource/MAUD_Committee

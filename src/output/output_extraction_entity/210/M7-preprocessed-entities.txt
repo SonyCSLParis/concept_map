@@ -1,0 +1,19 @@
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+dynastic - http://dbpedia.org/resource/Dynasty
+chephren - http://dbpedia.org/resource/Khafra
+amenophis ii - http://dbpedia.org/resource/Amenhotep_II
+tuthmosis ii - http://dbpedia.org/resource/Thutmose_II
+iv - http://dbpedia.org/resource/Intravenous_therapy
+hatshepsut - http://dbpedia.org/resource/Hatshepsut
+akhenaten - http://dbpedia.org/resource/Akhenaten
+tutankhamun - http://dbpedia.org/resource/Tutankhamun
+ramesses ii - http://dbpedia.org/resource/Ramesses_II
+b.c. - http://dbpedia.org/resource/Figured_bass
+roman period - http://dbpedia.org/resource/Roman_Empire
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+cleopatra - http://dbpedia.org/resource/Cleopatra
+octavius - http://dbpedia.org/resource/Augustus
+egypt central - http://dbpedia.org/resource/Egypt_Central
+greco - http://dbpedia.org/resource/Ancient_Greece
+roman time - http://dbpedia.org/resource/Roman_Empire

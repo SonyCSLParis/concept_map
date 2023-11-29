@@ -1,0 +1,9 @@
+medieval - http://dbpedia.org/resource/Middle_Ages
+medieval - http://dbpedia.org/resource/Middle_Ages
+bodiam - http://dbpedia.org/resource/Bodiam
+majestic - http://dbpedia.org/resource/Majestic_12
+moated castle - http://dbpedia.org/resource/Moat
+splendid - http://dbpedia.org/resource/Le_Splendid
+medieval - http://dbpedia.org/resource/Middle_Ages
+castle ground - http://dbpedia.org/resource/Castle_Ground
+winter - http://dbpedia.org/resource/Winter

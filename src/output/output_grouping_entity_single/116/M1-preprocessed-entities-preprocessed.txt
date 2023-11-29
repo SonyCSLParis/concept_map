@@ -1,0 +1,153 @@
+retainer - http://dbpedia.org/resource/Retinue
+philosopher - http://dbpedia.org/resource/Philosopher
+ironbound - http://dbpedia.org/resource/The_Ironbound
+stout - http://dbpedia.org/resource/Stout
+ballad - http://dbpedia.org/resource/Ballad
+die - http://dbpedia.org/resource/Death
+bramshill park - http://dbpedia.org/resource/Bramshill_House
+race - http://dbpedia.org/resource/Racing
+lovell - http://dbpedia.org/resource/Thomas_Lovell
+society girl - http://dbpedia.org/resource/Society_Girl_(1976_film)
+william cecil - http://dbpedia.org/resource/William_Amherst_Vanderbilt_Cecil
+marriage - http://dbpedia.org/resource/Marriage_in_Islam
+beautiful child - http://dbpedia.org/resource/Beautiful_Child
+pursuer - http://dbpedia.org/resource/Plaintiff
+romance - http://dbpedia.org/resource/Romanticism
+folk tales - http://dbpedia.org/resource/Fairy_tale
+fear - http://dbpedia.org/resource/Fear
+music - http://dbpedia.org/resource/Music
+simple game - http://dbpedia.org/resource/Cooperative_game_theory
+hilton - http://dbpedia.org/resource/Hilton_Worldwide
+sir walter raleigh - http://dbpedia.org/resource/Walter_Raleigh
+intimate apparel - http://dbpedia.org/resource/Undergarment
+grief - http://dbpedia.org/resource/Grief
+cyprus - http://dbpedia.org/resource/Cyprus
+antiquarian - http://dbpedia.org/resource/Antiquarian
+johns - http://dbpedia.org/resource/Prostitution
+extinct - http://dbpedia.org/resource/Hereditary_peer
+great house - http://dbpedia.org/resource/Great_house
+earl - http://dbpedia.org/resource/Earl
+bridegroom - http://dbpedia.org/resource/Wedding
+freaky - http://dbpedia.org/resource/Freaky_(song)
+mistletoe - http://dbpedia.org/resource/Mistletoe
+corruption - http://dbpedia.org/resource/Political_corruption
+christen - http://dbpedia.org/resource/Infant_baptism
+nobleman - http://dbpedia.org/resource/Nobility
+bird - http://dbpedia.org/resource/Bird
+edward baker - http://dbpedia.org/resource/Edward_Dickinson_Baker
+taste - http://dbpedia.org/resource/Taste
+malmsey - http://dbpedia.org/resource/Malvasia
+paper - http://dbpedia.org/resource/Origami
+niche - http://dbpedia.org/resource/Niche_market
+spirit - http://dbpedia.org/resource/Ghost
+awaken - http://dbpedia.org/resource/Going_for_the_One
+fat - http://dbpedia.org/resource/Fat
+light - http://dbpedia.org/resource/Light
+poem - http://dbpedia.org/resource/Poetry
+good deal - http://dbpedia.org/resource/Good_Deal
+court - http://dbpedia.org/resource/Royal_court
+wedding - http://dbpedia.org/resource/Wedding
+leicester - http://dbpedia.org/resource/Earl_of_Leicester
+hampshire - http://dbpedia.org/resource/Hampshire
+adventurer - http://dbpedia.org/resource/Player_character
+eye - http://dbpedia.org/resource/Eye
+oxfordshire - http://dbpedia.org/resource/Oxfordshire
+heart - http://dbpedia.org/resource/Heart_(symbol)
+doom - http://dbpedia.org/resource/Doom_metal
+gaiety - http://dbpedia.org/resource/Gaiety_Theatre,_London
+legend - http://dbpedia.org/resource/Legend
+odour - http://dbpedia.org/resource/Odor
+skirt - http://dbpedia.org/resource/Skirt
+philosophical - http://dbpedia.org/resource/Philosophy
+gild - http://dbpedia.org/resource/Gilding
+elizabethan period - http://dbpedia.org/resource/Elizabethan_era
+christmas holiday - http://dbpedia.org/resource/Christmas_Holiday
+lock - http://dbpedia.org/resource/Lock_and_key
+banquet hall - http://dbpedia.org/resource/Assembly_hall
+antiquity - http://dbpedia.org/resource/Ancient_Egypt
+martyrdom - http://dbpedia.org/resource/Martyr
+wedding dress - http://dbpedia.org/resource/Wedding_dress
+lord lovell - http://dbpedia.org/resource/Francis_Lovell,_1st_Viscount_Lovell
+statesman - http://dbpedia.org/resource/Roman_Senate
+great hall - http://dbpedia.org/resource/Great_hall
+gossip - http://dbpedia.org/resource/Gossip
+tragedy - http://dbpedia.org/resource/Tragedy
+partition - http://dbpedia.org/resource/Wall
+chief minister - http://dbpedia.org/resource/Prime_minister
+baronetcies - http://dbpedia.org/resource/Baronet
+young generation - http://dbpedia.org/resource/Dougie_Squires
+pulse - http://dbpedia.org/resource/Pulse
+holly - http://dbpedia.org/resource/Holly
+consciousness - http://dbpedia.org/resource/Consciousness
+ancient house - http://dbpedia.org/resource/Ancient_House,_Clare
+attic - http://dbpedia.org/resource/Attic
+chimney - http://dbpedia.org/resource/Chimney
+lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+noble family - http://dbpedia.org/resource/Nobility
+fairy - http://dbpedia.org/resource/Fairy
+gay - http://dbpedia.org/resource/Homosexuality
+splendid - http://dbpedia.org/resource/Le_Splendid
+sergeant - http://dbpedia.org/resource/Man-at-arms
+bride - http://dbpedia.org/resource/False_hero
+tomb - http://dbpedia.org/resource/Tomb
+canary - http://dbpedia.org/resource/Domestic_canary
+roasted - http://dbpedia.org/resource/Roasting
+stain - http://dbpedia.org/resource/Wood_stain
+delicacy - http://dbpedia.org/resource/Chinese_cuisine
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+couch - http://dbpedia.org/resource/Couch
+puzzle - http://dbpedia.org/resource/Puzzle_video_game
+minstrel - http://dbpedia.org/resource/Minstrel
+clatter - http://dbpedia.org/resource/Clatter,_Powys
+geese - http://dbpedia.org/resource/Goose
+thump - http://dbpedia.org/resource/Vice_Media
+noise - http://dbpedia.org/resource/Noise_music
+panelling - http://dbpedia.org/resource/Panelling
+thomas haynes bayly - http://dbpedia.org/resource/Thomas_Haynes_Bayly
+salon - http://dbpedia.org/resource/Drawing_room
+bear - http://dbpedia.org/resource/Teddy_bear
+essex - http://dbpedia.org/resource/Essex
+elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
+sir anthony cope - http://dbpedia.org/resource/Sir_Anthony_Cope,_1st_Baronet
+hilton family - http://dbpedia.org/resource/Hilton_family
+wine - http://dbpedia.org/resource/Wine
+paris - http://dbpedia.org/resource/Paris
+captain - http://dbpedia.org/resource/Sea_captain
+willingly - http://dbpedia.org/resource/Willingly
+mystery - http://dbpedia.org/resource/Mystery_fiction
+sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+baron - http://dbpedia.org/resource/Baron
+great oak - http://dbpedia.org/resource/Oak
+withered - http://dbpedia.org/resource/Withered
+nobility - http://dbpedia.org/resource/Nobility
+historian - http://dbpedia.org/resource/Historian
+family - http://dbpedia.org/resource/Family
+swish - http://dbpedia.org/resource/Swish_cymbal
+dyer - http://dbpedia.org/resource/Dye
+finery - http://dbpedia.org/resource/Finery_forge
+york - http://dbpedia.org/resource/House_of_York
+banbury - http://dbpedia.org/resource/Banbury
+breathing - http://dbpedia.org/resource/Breathing
+evening wear - http://dbpedia.org/resource/Evening_gown
+uncertainty - http://dbpedia.org/resource/Uncertainty
+revelry - http://dbpedia.org/resource/Revelry_(song)
+nuptial - http://dbpedia.org/resource/Wedding
+furniture - http://dbpedia.org/resource/Furniture
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+robe - http://dbpedia.org/resource/Robe
+mansion - http://dbpedia.org/resource/Mansion
+amazing - http://dbpedia.org/resource/Earth-616
+oaken - http://dbpedia.org/resource/Oaken
+metal - http://dbpedia.org/resource/Heavy_metal_music
+chamber - http://dbpedia.org/resource/Room
+edna - http://dbpedia.org/resource/Environmental_DNA
+noble - http://dbpedia.org/resource/Nobility
+poultry - http://dbpedia.org/resource/Chicken
+skeleton - http://dbpedia.org/resource/Skeleton
+wild boar - http://dbpedia.org/resource/Wild_boar
+francis bacon - http://dbpedia.org/resource/Francis_Bacon
+incumbent - http://dbpedia.org/resource/Vicar
+relic - http://dbpedia.org/resource/Relic
+banquet - http://dbpedia.org/resource/Banquet
+monument - http://dbpedia.org/resource/Funerary_art

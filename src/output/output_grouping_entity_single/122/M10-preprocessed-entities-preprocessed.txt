@@ -1,0 +1,93 @@
+baron coleraine - http://dbpedia.org/resource/Baron_Coleraine
+suicide - http://dbpedia.org/resource/Suicide
+bruce grove - http://dbpedia.org/resource/Bruce_Grove
+n17 - http://dbpedia.org/resource/N_postcode_area
+hugh hare - http://dbpedia.org/resource/Hugh_Hare
+die - http://dbpedia.org/resource/Death
+email - http://dbpedia.org/resource/Email
+lord mayor - http://dbpedia.org/resource/Lord_Mayor_of_London
+general post office - http://dbpedia.org/resource/General_Post_Office
+margaret tudor - http://dbpedia.org/resource/Margaret_Tudor
+haringey council - http://dbpedia.org/resource/London_Borough_of_Haringey
+martha - http://dbpedia.org/resource/Martha_Washington
+bus - http://dbpedia.org/resource/Bus
+local history - http://dbpedia.org/resource/Local_history
+bruce castle school - http://dbpedia.org/resource/Bruce_Castle_School
+reuse - http://dbpedia.org/resource/Adaptive_reuse
+house brick - http://dbpedia.org/resource/Brick
+earl - http://dbpedia.org/resource/Earl
+henrietta - http://dbpedia.org/resource/Henrietta_of_England
+greater london - http://dbpedia.org/resource/Greater_London
+creative commons licence - http://dbpedia.org/resource/Creative_Commons_license
+belvedere - http://dbpedia.org/resource/Belvedere_(structure)
+dorset - http://dbpedia.org/resource/Dorset
+robert bruce king - http://dbpedia.org/resource/Robert_Bruce_King
+zone 5 - http://dbpedia.org/resource/Hardiness_zone
+borough - http://dbpedia.org/resource/Borough
+underground station - http://dbpedia.org/resource/Metro_station
+william compton - http://dbpedia.org/resource/William_Compton_(courtier)
+habit - http://dbpedia.org/resource/Religious_habit
+james townsend - http://dbpedia.org/resource/James_Townsend_(British_politician)
+bruces - http://dbpedia.org/resource/Clan_Bruce
+lordship - http://dbpedia.org/resource/Manorialism
+radical - http://dbpedia.org/resource/Political_radicalism
+heritage - http://dbpedia.org/resource/History
+station - http://dbpedia.org/resource/Train_station
+post office - http://dbpedia.org/resource/Post_office
+manor - http://dbpedia.org/resource/Manor_house
+mistress - http://dbpedia.org/resource/Royal_mistress
+georgian style - http://dbpedia.org/resource/Georgian_architecture
+london underground - http://dbpedia.org/resource/London_Underground
+arthur - http://dbpedia.org/resource/King_Arthur
+public park - http://dbpedia.org/resource/Park
+lease - http://dbpedia.org/resource/Leasehold_estate
+henry - http://dbpedia.org/resource/Henry_(unit)
+duchess - http://dbpedia.org/resource/Duke
+mile straight - http://dbpedia.org/resource/Hamilton_County,_Tennessee
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+brick - http://dbpedia.org/resource/Brick
+queen - http://dbpedia.org/resource/Queen_consort
+educational reformer - http://dbpedia.org/resource/Education_reform
+open museum - http://dbpedia.org/resource/Open_Museum
+football - http://dbpedia.org/resource/Association_football
+compton - http://dbpedia.org/resource/Denis_Compton
+gambling - http://dbpedia.org/resource/Gambling
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+turkey - http://dbpedia.org/resource/Domestic_turkey
+wing - http://dbpedia.org/resource/Wing
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+tottenham - http://dbpedia.org/resource/Tottenham
+baron - http://dbpedia.org/resource/Baron
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
+debt - http://dbpedia.org/resource/Debt
+facade - http://dbpedia.org/resource/Facade
+historian - http://dbpedia.org/resource/Historian
+family - http://dbpedia.org/resource/Family
+groom - http://dbpedia.org/resource/Bridegroom
+acre - http://dbpedia.org/resource/Acre
+thomas - http://dbpedia.org/resource/THOMAS
+headmaster - http://dbpedia.org/resource/Head_teacher
+ghost story - http://dbpedia.org/resource/Ghost_story
+fin - http://dbpedia.org/resource/Fin
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+spectral - http://dbpedia.org/resource/Color
+social history - http://dbpedia.org/resource/Social_history
+wood green - http://dbpedia.org/resource/Wood_Green
+ross - http://dbpedia.org/resource/Ross-shire
+peniston - http://dbpedia.org/resource/CeCe_Peniston
+gothic revival - http://dbpedia.org/resource/Gothic_Revival_architecture
+painter - http://dbpedia.org/resource/Painting
+rowland hill - http://dbpedia.org/resource/Rowland_Hill
+engraving - http://dbpedia.org/resource/Engraving
+fairlop - http://dbpedia.org/resource/Fairlop
+henry hare - http://dbpedia.org/resource/Henry_Hare
+manor house - http://dbpedia.org/resource/Manor_house
+landscape - http://dbpedia.org/resource/Landscape_painting
+stool - http://dbpedia.org/resource/Flush_toilet
+sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
+bone - http://dbpedia.org/resource/Bone
+somerset - http://dbpedia.org/resource/Somerset
+tower - http://dbpedia.org/resource/Keep
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England

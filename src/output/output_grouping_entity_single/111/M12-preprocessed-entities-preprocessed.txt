@@ -1,0 +1,124 @@
+armor - http://dbpedia.org/resource/Armour
+soldier - http://dbpedia.org/resource/Soldier
+mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
+battlement - http://dbpedia.org/resource/Battlement
+webster - http://dbpedia.org/resource/Martell_Webster
+royalist - http://dbpedia.org/resource/Cavalier
+die - http://dbpedia.org/resource/Death
+link island - http://dbpedia.org/resource/Link_Island
+silt - http://dbpedia.org/resource/Silt
+carp - http://dbpedia.org/resource/Carp
+powell - http://dbpedia.org/resource/Lewis_F._Powell_Jr.
+tq - http://dbpedia.org/resource/TQ_(singer)
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+reuse - http://dbpedia.org/resource/Adaptive_reuse
+law - http://dbpedia.org/resource/English_law
+weapon - http://dbpedia.org/resource/Weapon
+earl - http://dbpedia.org/resource/Earl
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+vegetation - http://dbpedia.org/resource/Vegetation
+average height - http://dbpedia.org/resource/Human_height
+bodiam - http://dbpedia.org/resource/Bodiam
+helmet - http://dbpedia.org/resource/Helmet
+coast - http://dbpedia.org/resource/Coast
+siege - http://dbpedia.org/resource/Siege
+castle house - http://dbpedia.org/resource/Sheffield_Co-operative_Society
+crenellate - http://dbpedia.org/resource/Battlement
+cottage - http://dbpedia.org/resource/Cottage
+nicholas rigby - http://dbpedia.org/resource/Nicholas_Rigby
+murder hole - http://dbpedia.org/resource/Murder_hole
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+medieval - http://dbpedia.org/resource/Middle_Ages
+bastion - http://dbpedia.org/resource/Bastion
+ideal - http://dbpedia.org/resource/Thought_experiment
+defence - http://dbpedia.org/resource/Military
+westminster - http://dbpedia.org/resource/Westminster_Abbey
+yield - http://dbpedia.org/resource/Nuclear_weapon_yield
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+alice - http://dbpedia.org/resource/Alice_and_Bob
+mount - http://dbpedia.org/resource/Mountain
+richard iii - http://dbpedia.org/resource/Richard_III_of_England
+tree - http://dbpedia.org/resource/Tree
+stone - http://dbpedia.org/resource/Sandstone
+building material - http://dbpedia.org/resource/Building_material
+courtyard - http://dbpedia.org/resource/Courtyard
+majestic - http://dbpedia.org/resource/Majestic_12
+george cubitt - http://dbpedia.org/resource/George_Cubitt,_1st_Baron_Ashcombe
+landscape - http://dbpedia.org/resource/Landscape
+grid reference - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
+moat - http://dbpedia.org/resource/Moat
+gatehouse - http://dbpedia.org/resource/Gatehouse
+constable - http://dbpedia.org/resource/Castellan
+charles ii - http://dbpedia.org/resource/Charles_II_of_England
+thomas webster - http://dbpedia.org/resource/Thomas_Webster_(painter)
+edward - http://dbpedia.org/resource/Edward_III_of_England
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+object - http://dbpedia.org/resource/Astronomical_object
+sneaker - http://dbpedia.org/resource/Sneakers
+guardhouse - http://dbpedia.org/resource/Watchtower
+lime - http://dbpedia.org/resource/Limestone
+thomas lewknor - http://dbpedia.org/resource/Thomas_Lewknor_(MP_for_Midhurst)
+floor plan - http://dbpedia.org/resource/Floor_plan
+water - http://dbpedia.org/resource/Water_supply
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+william weir - http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir
+fortress - http://dbpedia.org/resource/Castle
+sussex - http://dbpedia.org/resource/Sussex
+spiral staircase - http://dbpedia.org/resource/Stairs
+henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+sandstone - http://dbpedia.org/resource/Sandstone
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+holy grail - http://dbpedia.org/resource/Holy_Grail
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+spring - http://dbpedia.org/resource/Mineral_spring
+toilet - http://dbpedia.org/resource/Public_toilet
+east sussex - http://dbpedia.org/resource/East_Sussex
+baron ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+mud - http://dbpedia.org/resource/Adobe
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+ivy - http://dbpedia.org/resource/Hedera
+masonry - http://dbpedia.org/resource/Masonry
+scheduled monument - http://dbpedia.org/resource/Scheduled_monument
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+grace - http://dbpedia.org/resource/Charites
+resistance - http://dbpedia.org/resource/French_Resistance
+gate - http://dbpedia.org/resource/Gate
+monty python - http://dbpedia.org/resource/Monty_Python
+bridge - http://dbpedia.org/resource/Bridge
+patent rolls - http://dbpedia.org/resource/Patent_roll
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+debt - http://dbpedia.org/resource/Debt
+blog - http://dbpedia.org/resource/Blog
+lewknor - http://dbpedia.org/resource/Lewknor
+philippa - http://dbpedia.org/resource/Philippa_of_Hainault
+caretaker - http://dbpedia.org/resource/Property_caretaker
+drawbridge - http://dbpedia.org/resource/Drawbridge
+parliament - http://dbpedia.org/resource/Parliament_of_England
+family - http://dbpedia.org/resource/Family
+english civil war - http://dbpedia.org/resource/English_Civil_War
+manor - http://dbpedia.org/resource/Manorialism
+badge - http://dbpedia.org/resource/Heraldic_badge
+charles - http://dbpedia.org/resource/Charles_I_of_England
+parliamentarian - http://dbpedia.org/resource/Roundhead
+medieval period - http://dbpedia.org/resource/Middle_Ages
+york - http://dbpedia.org/resource/House_of_York
+free companies - http://dbpedia.org/resource/Free_company
+thomas howard - http://dbpedia.org/resource/Thomas_Howard,_3rd_Duke_of_Norfolk
+national trust - http://dbpedia.org/resource/National_trust
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+john tufton - http://dbpedia.org/resource/John_Tufton_(cricketer)
+surrey - http://dbpedia.org/resource/Surrey
+architectural style - http://dbpedia.org/resource/Architectural_style
+death estate - http://dbpedia.org/resource/Estate_(law)
+defensive wall - http://dbpedia.org/resource/Defensive_wall
+chamber - http://dbpedia.org/resource/Room
+salehurst - http://dbpedia.org/resource/Salehurst
+treason - http://dbpedia.org/resource/Treason
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+levett - http://dbpedia.org/resource/Levett
+manor house - http://dbpedia.org/resource/Manor_house
+barbican - http://dbpedia.org/resource/Barbican
+romantic - http://dbpedia.org/resource/Romanticism
+tower - http://dbpedia.org/resource/Keep

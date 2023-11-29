@@ -1,0 +1,54 @@
+einstein - http://dbpedia.org/resource/Albert_Einstein
+eugene wigner - http://dbpedia.org/resource/Eugene_Wigner
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+russians - http://dbpedia.org/resource/Soviet_Union
+nazi - http://dbpedia.org/resource/Nazism
+economist - http://dbpedia.org/resource/Economist
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+committee - http://dbpedia.org/resource/Committee
+physics - http://dbpedia.org/resource/Physics
+breakfast - http://dbpedia.org/resource/Breakfast
+forge - http://dbpedia.org/resource/Forgery
+edward teller - http://dbpedia.org/resource/Edward_Teller
+monopoly - http://dbpedia.org/resource/Monopoly
+race - http://dbpedia.org/resource/Racing
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+resort - http://dbpedia.org/resource/Resort
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+fear - http://dbpedia.org/resource/Fear
+cover letter - http://dbpedia.org/resource/Cover_letter
+alsos mission - http://dbpedia.org/resource/Alsos_Mission
+chemistry - http://dbpedia.org/resource/Nuclear_chemistry
+leo szilard - http://dbpedia.org/resource/Leo_Szilard
+franklin delano roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+refugee - http://dbpedia.org/resource/Refugee
+fascist - http://dbpedia.org/resource/Fascism
+harness - http://dbpedia.org/resource/Harness_racing
+main point - http://dbpedia.org/resource/West_Port,_Edinburgh
+energy - http://dbpedia.org/resource/Energy
+president - http://dbpedia.org/resource/President_of_the_United_States
+unwelcome - http://dbpedia.org/resource/Unwelcome
+uranium - http://dbpedia.org/resource/Uranium
+soviet - http://dbpedia.org/resource/Soviet_Union
+laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+fledge - http://dbpedia.org/resource/Fledge
+urge - http://dbpedia.org/resource/Urge_(digital_music_service)
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+cyclotron - http://dbpedia.org/resource/Cyclotron
+scientist - http://dbpedia.org/resource/Scientist
+hitler - http://dbpedia.org/resource/Adolf_Hitler
+émigré - http://dbpedia.org/resource/Polish_government-in-exile
+atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+physicist - http://dbpedia.org/resource/Nuclear_physics
+coherent - http://dbpedia.org/resource/Laser
+prepare - http://dbpedia.org/resource/PREPARE
+nuclear warfare - http://dbpedia.org/resource/Nuclear_warfare
+alexander sachs - http://dbpedia.org/resource/Alexander_Sachs
+wall street - http://dbpedia.org/resource/Wall_Street
+fission - http://dbpedia.org/resource/Nuclear_weapon
+chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
+szilard - http://dbpedia.org/resource/Leo_Szilard
+alert - http://dbpedia.org/resource/Weather_warning
+navy - http://dbpedia.org/resource/Navy
+weapon - http://dbpedia.org/resource/Nuclear_weapon

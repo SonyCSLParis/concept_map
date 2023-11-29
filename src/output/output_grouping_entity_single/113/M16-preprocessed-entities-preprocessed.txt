@@ -1,0 +1,51 @@
+alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
+ekayana - http://dbpedia.org/resource/Ekayāna
+official religion - http://dbpedia.org/resource/State_religion
+magelang - http://dbpedia.org/resource/Magelang
+buddhists - http://dbpedia.org/resource/Buddhism
+tourism - http://dbpedia.org/resource/Tourism_in_Indonesia
+tourist attraction - http://dbpedia.org/resource/Tourism_in_Indonesia
+bomb - http://dbpedia.org/resource/Car_bomb
+stupa - http://dbpedia.org/resource/Stupa
+facebook - http://dbpedia.org/resource/Facebook
+police - http://dbpedia.org/resource/Indonesian_National_Police
+muslim - http://dbpedia.org/resource/Islam
+borobudur - http://dbpedia.org/resource/Borobudur
+tni - http://dbpedia.org/resource/Indonesian_National_Armed_Forces
+java district - http://dbpedia.org/resource/Dzau_District
+buddhist - http://dbpedia.org/resource/Buddhism
+jakarta - http://dbpedia.org/resource/Jakarta
+heritage list - http://dbpedia.org/resource/State_Register_of_Heritage_Places
+radical - http://dbpedia.org/resource/Radicalization
+capital city - http://dbpedia.org/resource/Capital_city
+diponegoro - http://dbpedia.org/resource/Diponegoro
+security officer - http://dbpedia.org/resource/Security_guard
+mahayana - http://dbpedia.org/resource/Mahayana
+mujahidin - http://dbpedia.org/resource/Mujahideen
+security - http://dbpedia.org/resource/Security
+agency - http://dbpedia.org/resource/Intelligence_agency
+islamic caliphate - http://dbpedia.org/resource/Caliphate
+central java - http://dbpedia.org/resource/Central_Java
+archipelago - http://dbpedia.org/resource/Nusantara
+marsis - http://dbpedia.org/resource/MARSIS
+internet - http://dbpedia.org/resource/Internet
+police chief - http://dbpedia.org/resource/Iraqi_Police
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage - http://dbpedia.org/resource/Cultural_heritage
+isis - http://dbpedia.org/resource/Isis
+datum - http://dbpedia.org/resource/Geodetic_datum
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+god - http://dbpedia.org/resource/Deity
+indonesian military - http://dbpedia.org/resource/Indonesian_National_Armed_Forces
+major general - http://dbpedia.org/resource/Major_general
+buddha statue - http://dbpedia.org/resource/Buddharupa
+pilgrimage - http://dbpedia.org/resource/Pilgrimage
+prepare - http://dbpedia.org/resource/PREPARE
+indonesian army - http://dbpedia.org/resource/Indonesian_National_Armed_Forces
+ix century - http://dbpedia.org/resource/9th_century
+monument - http://dbpedia.org/resource/Monument
+vihara - http://dbpedia.org/resource/Vihara
+candi borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia

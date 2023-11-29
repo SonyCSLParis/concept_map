@@ -1,0 +1,22 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+office building - http://dbpedia.org/resource/Office
+architect - http://dbpedia.org/resource/Architect
+bjarke ingels - http://dbpedia.org/resource/Bjarke_Ingels
+village - http://dbpedia.org/resource/Village
+high feature - http://dbpedia.org/resource/GM_High_Feature_engine
+roof garden - http://dbpedia.org/resource/Roof_garden
+urban - http://dbpedia.org/resource/Urban_area
+stack - http://dbpedia.org/resource/Chimney
+tribeca - http://dbpedia.org/resource/Tribeca
+loft - http://dbpedia.org/resource/Loft
+memorial - http://dbpedia.org/resource/Memorial
+21st century fox - http://dbpedia.org/resource/21st_Century_Fox
+colonnade - http://dbpedia.org/resource/Colonnade
+tower - http://dbpedia.org/resource/Tower
+singular - http://dbpedia.org/resource/Grammatical_number
+reunification - http://dbpedia.org/resource/German_reunification
+news corp - http://dbpedia.org/resource/News_Corp_Australia
+9/11 - http://dbpedia.org/resource/September_11_attacks
+lease - http://dbpedia.org/resource/Leasehold_estate
+york - http://dbpedia.org/resource/York
+manhattan - http://dbpedia.org/resource/Manhattan

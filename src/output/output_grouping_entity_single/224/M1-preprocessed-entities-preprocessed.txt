@@ -1,0 +1,26 @@
+coloma - http://dbpedia.org/resource/Coloma_High_School
+american river - http://dbpedia.org/resource/American_River
+gold miner - http://dbpedia.org/resource/Gold_mining
+recall - http://dbpedia.org/resource/Recall_election
+sacramento - http://dbpedia.org/resource/Sacramento_River
+heart - http://dbpedia.org/resource/Heart
+james wilson - http://dbpedia.org/resource/James_Wilson_(justice)
+sierra nevada mountains - http://dbpedia.org/resource/Sierra_Nevada_(U.S.)
+gold nugget - http://dbpedia.org/resource/Gold_nugget
+colony - http://dbpedia.org/resource/Colony
+john sutter - http://dbpedia.org/resource/John_Sutter
+precious metal - http://dbpedia.org/resource/Precious_metal
+california - http://dbpedia.org/resource/California_Trail
+switzerland - http://dbpedia.org/resource/Switzerland
+news - http://dbpedia.org/resource/News
+sawmill - http://dbpedia.org/resource/Sawmill
+helvetia - http://dbpedia.org/resource/Helvetia
+bear - http://dbpedia.org/resource/Bear
+gold - http://dbpedia.org/resource/Gold
+thump - http://dbpedia.org/resource/Vice_Media
+rush peak - http://dbpedia.org/resource/Rush_Peak
+city - http://dbpedia.org/resource/City
+sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+american history - http://dbpedia.org/resource/History_of_the_United_States
+water power - http://dbpedia.org/resource/Water_wheel
+san francisco - http://dbpedia.org/resource/History_of_San_Francisco

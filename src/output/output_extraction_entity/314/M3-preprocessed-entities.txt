@@ -1,0 +1,40 @@
+csi - http://dbpedia.org/resource/Forensic_science
+forensic science - http://dbpedia.org/resource/Forensic_science
+perception - http://dbpedia.org/resource/Perception
+csi - http://dbpedia.org/resource/Forensic_science
+perception - http://dbpedia.org/resource/Perception
+forensic - http://dbpedia.org/resource/Forensic_identification
+crime scene investigator - http://dbpedia.org/resource/Forensic_science
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+technology - http://dbpedia.org/resource/Technology
+csi - http://dbpedia.org/resource/Forensic_science
+jury trial - http://dbpedia.org/resource/Jury_trial
+csi - http://dbpedia.org/resource/Forensic_science
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+defense - http://dbpedia.org/resource/Criminal_defense_lawyer
+lawyer - http://dbpedia.org/resource/Lawyer
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+csi - http://dbpedia.org/resource/Forensic_science
+criminal investigation - http://dbpedia.org/resource/Criminal_procedure
+juror - http://dbpedia.org/resource/Jury
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+juror - http://dbpedia.org/resource/Jury
+forensic - http://dbpedia.org/resource/Forensic_identification
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+warrant - http://dbpedia.org/resource/Search_warrant
+csi - http://dbpedia.org/resource/Forensic_science
+juror - http://dbpedia.org/resource/Jury
+acquit - http://dbpedia.org/resource/Acquittal
+defendant - http://dbpedia.org/resource/Defendant
+csi - http://dbpedia.org/resource/Forensic_science
+prosecutor - http://dbpedia.org/resource/Prosecutor
+prosecutor - http://dbpedia.org/resource/Prosecutor
+forensic science - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+jury selection - http://dbpedia.org/resource/Jury_selection
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+defense attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
+reasonable doubt - http://dbpedia.org/resource/Reasonable_doubt
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science

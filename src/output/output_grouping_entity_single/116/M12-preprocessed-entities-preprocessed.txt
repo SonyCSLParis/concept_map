@@ -1,0 +1,24 @@
+ms - http://dbpedia.org/resource/Millisecond
+european police college - http://dbpedia.org/resource/European_Police_College
+mep - http://dbpedia.org/resource/Member_of_the_European_Parliament
+cepol - http://dbpedia.org/resource/European_Police_College
+european parliament - http://dbpedia.org/resource/European_Parliament
+ukip - http://dbpedia.org/resource/UK_Independence_Party
+national policing improvement agency - http://dbpedia.org/resource/National_Policing_Improvement_Agency
+hook - http://dbpedia.org/resource/Golf_stroke_mechanics
+crime - http://dbpedia.org/resource/Crime
+south east england - http://dbpedia.org/resource/South_East_England
+european parliament member - http://dbpedia.org/resource/Member_of_the_European_Parliament
+furniture - http://dbpedia.org/resource/Furniture
+police officer - http://dbpedia.org/resource/Police
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+european police - http://dbpedia.org/resource/Europol
+mansion - http://dbpedia.org/resource/Mansion
+gazette - http://dbpedia.org/resource/Gazette
+marta andreasen - http://dbpedia.org/resource/Marta_Andreasen
+budgetary control committee - http://dbpedia.org/resource/European_Parliament_Committee_on_Budgetary_Control
+police college - http://dbpedia.org/resource/Police_academy
+question mark - http://dbpedia.org/resource/Question_mark
+police training centre - http://dbpedia.org/resource/Police_Training_Centre
+accounting - http://dbpedia.org/resource/Accounting
+mobile phone - http://dbpedia.org/resource/Mobile_phone

@@ -1,0 +1,224 @@
+gold - http://dbpedia.org/resource/Gold_mining
+statehood - http://dbpedia.org/resource/U.S._state
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California
+mexicans - http://dbpedia.org/resource/Mexican_Americans
+russians - http://dbpedia.org/resource/Russian_Empire
+europeans - http://dbpedia.org/resource/White_people
+native gold - http://dbpedia.org/resource/Gold
+california - http://dbpedia.org/resource/California
+frontier - http://dbpedia.org/resource/American_frontier
+immigrant - http://dbpedia.org/resource/Immigration
+continent - http://dbpedia.org/resource/Africa
+jostle - http://dbpedia.org/resource/Jostle_(horse)
+gold - http://dbpedia.org/resource/Gold_mining
+flood - http://dbpedia.org/resource/Flood
+california - http://dbpedia.org/resource/California
+language - http://dbpedia.org/resource/Language
+religion - http://dbpedia.org/resource/Freedom_of_religion
+social custom - http://dbpedia.org/resource/Social_norm
+california - http://dbpedia.org/resource/California
+pocket - http://dbpedia.org/resource/Billiard_table
+gold - http://dbpedia.org/resource/Gold_mining
+immigrant - http://dbpedia.org/resource/Immigration
+multicultural - http://dbpedia.org/resource/Multiculturalism
+newness - http://dbpedia.org/resource/Newness
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California
+chaotic - http://dbpedia.org/resource/Chaos_theory
+landscape - http://dbpedia.org/resource/Landscape
+merced - http://dbpedia.org/resource/Merced_River
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California
+demographic - http://dbpedia.org/resource/Demography
+spanish mexican - http://dbpedia.org/resource/Spaniards_in_Mexico
+intrusion - http://dbpedia.org/resource/Intrusive_rock
+hiding place - http://dbpedia.org/resource/Hiding_Place_(Tori_Kelly_album)
+mining camp - http://dbpedia.org/resource/Mining
+subsistence - http://dbpedia.org/resource/Subsistence_agriculture
+violence - http://dbpedia.org/resource/Violence
+miner - http://dbpedia.org/resource/Miner
+legislature - http://dbpedia.org/resource/California_State_Legislature
+native californians - http://dbpedia.org/resource/Indigenous_peoples_of_California
+court - http://dbpedia.org/resource/Court
+white americans - http://dbpedia.org/resource/White_Americans
+californios - http://dbpedia.org/resource/Californio
+solano - http://dbpedia.org/resource/Solano_Avenue
+patwin - http://dbpedia.org/resource/Patwin
+echo - http://dbpedia.org/resource/Echo
+native californians - http://dbpedia.org/resource/Indigenous_peoples_of_California
+holocaust - http://dbpedia.org/resource/The_Holocaust
+californios - http://dbpedia.org/resource/Californio
+carte de visite - http://dbpedia.org/resource/Carte_de_visite
+don juan - http://dbpedia.org/resource/Don_Juan
+pablo - http://dbpedia.org/resource/Pablo_P._Garcia
+california - http://dbpedia.org/resource/California
+californios - http://dbpedia.org/resource/Californio
+guadalupe - http://dbpedia.org/resource/Our_Lady_of_Guadalupe
+hidalgo - http://dbpedia.org/resource/Hidalgo_(nobility)
+mexican war - http://dbpedia.org/resource/Mexican–American_War
+californios - http://dbpedia.org/resource/Californio
+citizenship - http://dbpedia.org/resource/Citizenship
+mexican land grant - http://dbpedia.org/resource/Ranchos_of_California
+miner - http://dbpedia.org/resource/Miner
+squatter - http://dbpedia.org/resource/Squatting
+homesteader - http://dbpedia.org/resource/Homestead_Acts
+californios - http://dbpedia.org/resource/Californio
+californio - http://dbpedia.org/resource/Californio
+family - http://dbpedia.org/resource/Family
+legal title - http://dbpedia.org/resource/Title_(property)
+bankrupt - http://dbpedia.org/resource/Bankruptcy
+attorney - http://dbpedia.org/resource/Lawyer
+peralta - http://dbpedia.org/resource/Battle_of_Peralta
+family - http://dbpedia.org/resource/Family
+acre - http://dbpedia.org/resource/Acre
+east bay - http://dbpedia.org/resource/East_Bay
+lawyer - http://dbpedia.org/resource/Lawyer
+squatter - http://dbpedia.org/resource/Squatting
+speculator - http://dbpedia.org/resource/Speculation
+californio - http://dbpedia.org/resource/Californio
+california constitutional convention - http://dbpedia.org/resource/California_Constitutional_Conventions
+white americans - http://dbpedia.org/resource/White_Americans
+fear - http://dbpedia.org/resource/Fear
+immigrant - http://dbpedia.org/resource/Immigration
+mexico - http://dbpedia.org/resource/New_Spain
+latin america - http://dbpedia.org/resource/Latin_America
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+mexicans - http://dbpedia.org/resource/Mexican_Americans
+california - http://dbpedia.org/resource/California
+mining - http://dbpedia.org/resource/Gold_mining
+california legislature - http://dbpedia.org/resource/California_State_Legislature
+miner - http://dbpedia.org/resource/Miner
+tax - http://dbpedia.org/resource/Tax
+greaser - http://dbpedia.org/resource/Greaser_(subculture)
+latin americans - http://dbpedia.org/resource/Latin_Americans
+latin american - http://dbpedia.org/resource/Latin_America
+miner - http://dbpedia.org/resource/Miner
+tax - http://dbpedia.org/resource/Tax
+white americans - http://dbpedia.org/resource/White_Americans
+mining - http://dbpedia.org/resource/Gold_mining
+mining town - http://dbpedia.org/resource/Mining
+sonora - http://dbpedia.org/resource/Sonora
+mexicans - http://dbpedia.org/resource/Mexican_Americans
+chileans - http://dbpedia.org/resource/Chile
+miner - http://dbpedia.org/resource/Miner
+tax - http://dbpedia.org/resource/Tax
+militia - http://dbpedia.org/resource/Militia
+white americans - http://dbpedia.org/resource/White_Americans
+gold - http://dbpedia.org/resource/Gold_mining
+swashbuckling - http://dbpedia.org/resource/Adventure_fiction
+joaquín murieta - http://dbpedia.org/resource/Joaquin_Murrieta
+strike - http://dbpedia.org/resource/Strike_action
+california legislature - http://dbpedia.org/resource/California_State_Legislature
+texan - http://dbpedia.org/resource/Republic_of_Texas
+harry love - http://dbpedia.org/resource/Harry_Love_(lawman)
+murieta - http://dbpedia.org/resource/Murieta
+joaquín murieta - http://dbpedia.org/resource/Joaquin_Murrieta
+latin americans - http://dbpedia.org/resource/Latin_Americans
+gold - http://dbpedia.org/resource/Gold_mining
+auburn - http://dbpedia.org/resource/Auburn_hair
+ravine - http://dbpedia.org/resource/Ravine
+gold - http://dbpedia.org/resource/Gold_mining
+mining - http://dbpedia.org/resource/Gold_mining
+immigrant - http://dbpedia.org/resource/Immigration
+miner - http://dbpedia.org/resource/Miner
+merchant - http://dbpedia.org/resource/Merchant
+herbalist - http://dbpedia.org/resource/Herbal_medicine
+miner - http://dbpedia.org/resource/Miner
+tax - http://dbpedia.org/resource/Tax
+prejudice - http://dbpedia.org/resource/Racism
+american racism - http://dbpedia.org/resource/Racism_in_the_United_States
+legal system - http://dbpedia.org/resource/Law
+court - http://dbpedia.org/resource/Court
+public opinion - http://dbpedia.org/resource/Public_opinion
+petition - http://dbpedia.org/resource/Petition
+sacramento - http://dbpedia.org/resource/Sacramento_River
+law - http://dbpedia.org/resource/Law
+court - http://dbpedia.org/resource/Court
+norman - http://dbpedia.org/resource/Normans
+restaurant - http://dbpedia.org/resource/Restaurant
+san francisco - http://dbpedia.org/resource/San_Francisco
+chinatown - http://dbpedia.org/resource/Chinatown
+california governor - http://dbpedia.org/resource/Governor_of_California
+john bigler - http://dbpedia.org/resource/John_Bigler
+race - http://dbpedia.org/resource/Racing
+african americans - http://dbpedia.org/resource/African_Americans
+equality - http://dbpedia.org/resource/Egalitarianism
+gold - http://dbpedia.org/resource/Gold_mining
+auburn - http://dbpedia.org/resource/Auburn_hair
+ravine - http://dbpedia.org/resource/Ravine
+african american - http://dbpedia.org/resource/African_Americans
+miner - http://dbpedia.org/resource/Miner
+african americans - http://dbpedia.org/resource/African_Americans
+california - http://dbpedia.org/resource/California
+california frontier - http://dbpedia.org/resource/California_Frontier
+egalitarianism - http://dbpedia.org/resource/Egalitarianism
+gold - http://dbpedia.org/resource/Gold_mining
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+region - http://dbpedia.org/resource/Region
+legislature - http://dbpedia.org/resource/California_State_Legislature
+fugitive slave - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
+law - http://dbpedia.org/resource/Law
+african americans - http://dbpedia.org/resource/African_Americans
+african americans - http://dbpedia.org/resource/African_Americans
+california - http://dbpedia.org/resource/California
+bear - http://dbpedia.org/resource/Bear
+court - http://dbpedia.org/resource/Court
+public school - http://dbpedia.org/resource/State_school
+mifflin wistar gibbs - http://dbpedia.org/resource/Mifflin_Wistar_Gibbs
+african american - http://dbpedia.org/resource/African_Americans
+abolitionist - http://dbpedia.org/resource/Slavery
+frederick douglass - http://dbpedia.org/resource/Frederick_Douglass
+california - http://dbpedia.org/resource/California
+suffrage - http://dbpedia.org/resource/Suffrage
+african americans - http://dbpedia.org/resource/African_Americans
+california - http://dbpedia.org/resource/California
+amendment - http://dbpedia.org/resource/Law
+discrimination - http://dbpedia.org/resource/Discrimination
+violence - http://dbpedia.org/resource/Violence
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California
+communication - http://dbpedia.org/resource/Communication
+merchant - http://dbpedia.org/resource/Merchant
+william perkins - http://dbpedia.org/resource/William_Perkins_(theologian)
+mining town - http://dbpedia.org/resource/Mining
+sonora - http://dbpedia.org/resource/Sonora
+people nation - http://dbpedia.org/resource/People_Nation
+language - http://dbpedia.org/resource/Language
+mining camp - http://dbpedia.org/resource/Mining
+san francisco - http://dbpedia.org/resource/San_Francisco
+race - http://dbpedia.org/resource/Racing
+language - http://dbpedia.org/resource/Language
+religion - http://dbpedia.org/resource/Freedom_of_religion
+multiracial - http://dbpedia.org/resource/Multiracial
+california - http://dbpedia.org/resource/California
+library - http://dbpedia.org/resource/Library
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+oakland - http://dbpedia.org/resource/History_of_the_Oakland_Raiders
+california - http://dbpedia.org/resource/California
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California
+untold - http://dbpedia.org/resource/Untold_(musician)
+gold - http://dbpedia.org/resource/Gold_mining
+sacramento bee - http://dbpedia.org/resource/The_Sacramento_Bee
+gold - http://dbpedia.org/resource/Gold_mining
+sesquicentennial - http://dbpedia.org/resource/Anniversary
+library - http://dbpedia.org/resource/Library
+susan lee - http://dbpedia.org/resource/Susan_Lee
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+york - http://dbpedia.org/resource/York
+norton company - http://dbpedia.org/resource/Norton_Abrasives
+kowalewski - http://dbpedia.org/resource/Jan_Kowalewski
+gold - http://dbpedia.org/resource/Gold_mining
+berkeley - http://dbpedia.org/resource/George_Berkeley
+heyday books - http://dbpedia.org/resource/Heyday_Books
+eds - http://dbpedia.org/resource/Electronic_Data_Systems
+root - http://dbpedia.org/resource/Root
+soil - http://dbpedia.org/resource/Soil
+culture - http://dbpedia.org/resource/Culture
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California
+berkeley university - http://dbpedia.org/resource/University_of_California,_Berkeley
+california - http://dbpedia.org/resource/California

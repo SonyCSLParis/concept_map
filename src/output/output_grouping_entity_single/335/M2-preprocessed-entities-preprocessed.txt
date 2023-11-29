@@ -1,0 +1,27 @@
+ms - http://dbpedia.org/resource/Millisecond
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+press release - http://dbpedia.org/resource/Press_release
+parish councillor - http://dbpedia.org/resource/Parish_councils_in_England
+devilish - http://dbpedia.org/resource/Tokio_Hotel
+plea - http://dbpedia.org/resource/Plea
+village - http://dbpedia.org/resource/Village
+english history - http://dbpedia.org/resource/History_of_England
+mitton - http://dbpedia.org/resource/Great_Mitton
+murder - http://dbpedia.org/resource/Murder
+gentlewoman - http://dbpedia.org/resource/Gentlewoman
+blacko - http://dbpedia.org/resource/Blacko
+alice - http://dbpedia.org/resource/Alice_and_Bob
+sculptor - http://dbpedia.org/resource/Sculpture
+time trial - http://dbpedia.org/resource/Time_trial
+lancashire - http://dbpedia.org/resource/Lancashire
+alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
+parish council - http://dbpedia.org/resource/Civil_parish
+defence - http://dbpedia.org/resource/Affirmative_defense
+roughlee - http://dbpedia.org/resource/Roughlee
+judge - http://dbpedia.org/resource/Judge
+bewitch - http://dbpedia.org/resource/Bewitch
+pendle - http://dbpedia.org/resource/Pendle_witches
+witch trial - http://dbpedia.org/resource/Witch-hunt
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+witchcraft - http://dbpedia.org/resource/Witchcraft
+henry - http://dbpedia.org/resource/Henry_(unit)

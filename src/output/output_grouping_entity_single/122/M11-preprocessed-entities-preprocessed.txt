@@ -1,0 +1,25 @@
+progressive school - http://dbpedia.org/resource/Progressive_education
+thurs - http://dbpedia.org/resource/Jötunn
+bank holiday - http://dbpedia.org/resource/Bank_holiday
+family - http://dbpedia.org/resource/Family
+william compton - http://dbpedia.org/resource/William_Compton_(courtier)
+acre - http://dbpedia.org/resource/Acre
+court - http://dbpedia.org/resource/Royal_court
+victorian period - http://dbpedia.org/resource/Victorian_era
+open museum - http://dbpedia.org/resource/Open_Museum
+british postal system - http://dbpedia.org/resource/Royal_Mail
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
+mon - http://dbpedia.org/resource/Nation_state
+coleraine - http://dbpedia.org/resource/Coleraine
+type museum - http://dbpedia.org/resource/Type_Archive
+local history - http://dbpedia.org/resource/Local_history
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+sun - http://dbpedia.org/resource/Sun
+penny post - http://dbpedia.org/resource/Penny_Post
+manor house - http://dbpedia.org/resource/Manor_house
+good friday - http://dbpedia.org/resource/Good_Friday
+sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
+borough - http://dbpedia.org/resource/Borough
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England

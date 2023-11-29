@@ -1,0 +1,319 @@
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+brazil - http://dbpedia.org/resource/Brazil
+zeppelin - http://dbpedia.org/resource/Zeppelin
+parahyba - http://dbpedia.org/resource/Paraíba
+syndicato condor - http://dbpedia.org/resource/Serviços_Aéreos_Cruzeiro_do_Sul
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+currency - http://dbpedia.org/resource/Currency
+milreis - http://dbpedia.org/resource/Portuguese_real
+reis - http://dbpedia.org/resource/Portuguese_real
+cruzeiro - http://dbpedia.org/resource/Brazilian_cruzeiro
+cruzado - http://dbpedia.org/resource/Brazilian_cruzado
+cruzeiro - http://dbpedia.org/resource/Brazilian_cruzeiro
+political history - http://dbpedia.org/resource/Political_history
+colony - http://dbpedia.org/resource/Colony
+brazil - http://dbpedia.org/resource/Brazil
+south america - http://dbpedia.org/resource/South_America
+brazil - http://dbpedia.org/resource/Brazil
+south america - http://dbpedia.org/resource/South_America
+subcontinent - http://dbpedia.org/resource/Continent
+colonization - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+brazil - http://dbpedia.org/resource/Brazil
+amerindian - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
+tupi - http://dbpedia.org/resource/Tupi_language
+guarani - http://dbpedia.org/resource/Guarani_language
+gê - http://dbpedia.org/resource/Gê_peoples
+arawak - http://dbpedia.org/resource/Arawak
+europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
+brazil - http://dbpedia.org/resource/Brazil
+portuguese - http://dbpedia.org/resource/Portuguese_language
+coast - http://dbpedia.org/resource/Coast
+brazil - http://dbpedia.org/resource/Brazil
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+settlement - http://dbpedia.org/resource/Town
+colonization - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+portuguese - http://dbpedia.org/resource/Portuguese_language
+brazil - http://dbpedia.org/resource/Brazil
+plantation - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+colony - http://dbpedia.org/resource/Colony
+sugar cane - http://dbpedia.org/resource/Sugarcane
+crop - http://dbpedia.org/resource/Agriculture
+plantation - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+slave - http://dbpedia.org/resource/History_of_slavery
+colonization - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+brazil - http://dbpedia.org/resource/Brazil
+region - http://dbpedia.org/resource/Region
+gold - http://dbpedia.org/resource/Gold
+colonization - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+napoleon - http://dbpedia.org/resource/Napoleon
+iberian peninsula - http://dbpedia.org/resource/Iberian_Peninsula
+portuguese - http://dbpedia.org/resource/Portuguese_language
+royal court - http://dbpedia.org/resource/Royal_court
+lisbon - http://dbpedia.org/resource/Lisbon
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+brazil - http://dbpedia.org/resource/Brazil
+royal court - http://dbpedia.org/resource/Royal_court
+court - http://dbpedia.org/resource/Royal_court
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+regent - http://dbpedia.org/resource/Regent
+brazil - http://dbpedia.org/resource/Brazil
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+brazil - http://dbpedia.org/resource/Brazil
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
+brazil - http://dbpedia.org/resource/Brazil
+brazilian independence - http://dbpedia.org/resource/Empire_of_Brazil
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+parliamentary monarchy - http://dbpedia.org/resource/Constitutional_monarchy
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+regent - http://dbpedia.org/resource/Regent
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+economic growth - http://dbpedia.org/resource/Gross_domestic_product
+immigrant - http://dbpedia.org/resource/Immigration
+emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
+emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
+coup - http://dbpedia.org/resource/Spanish_coup_of_July_1936
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+brazil - http://dbpedia.org/resource/Brazil
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+brazil - http://dbpedia.org/resource/Brazil
+federative - http://dbpedia.org/resource/Federation
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+brazil - http://dbpedia.org/resource/Brazil
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+sphere - http://dbpedia.org/resource/Sphere_of_influence
+hemisphere - http://dbpedia.org/resource/Western_Hemisphere
+cape verde - http://dbpedia.org/resource/Cape_Verde
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+brazil - http://dbpedia.org/resource/Brazil
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+colonized land - http://dbpedia.org/resource/Terrestrial_animal
+tordesillas treaty - http://dbpedia.org/resource/Treaty_of_Tordesillas
+portuguese - http://dbpedia.org/resource/Portuguese_language
+portuguese - http://dbpedia.org/resource/Portuguese_language
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+negotiation - http://dbpedia.org/resource/Negotiation
+paraguay - http://dbpedia.org/resource/Paraguay
+paraguay - http://dbpedia.org/resource/Paraguay
+triple alliance war - http://dbpedia.org/resource/Paraguayan_War
+brazil - http://dbpedia.org/resource/Brazil
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+argentina - http://dbpedia.org/resource/Argentina
+uruguay - http://dbpedia.org/resource/Uruguay
+cisplatine war - http://dbpedia.org/resource/Cisplatine_War
+uruguay - http://dbpedia.org/resource/Uruguay
+uruguay - http://dbpedia.org/resource/Uruguay
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+uruguay - http://dbpedia.org/resource/Uruguay
+platine war - http://dbpedia.org/resource/Platine_War
+argentina - http://dbpedia.org/resource/Argentina
+uruguayan war - http://dbpedia.org/resource/Uruguayan_War
+uruguay - http://dbpedia.org/resource/Uruguay
+brazil - http://dbpedia.org/resource/Brazil
+civil war - http://dbpedia.org/resource/Civil_war
+brazil - http://dbpedia.org/resource/Brazil
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+triple alliance war - http://dbpedia.org/resource/Paraguayan_War
+paraguay - http://dbpedia.org/resource/Paraguay
+expansionist - http://dbpedia.org/resource/Expansionism
+south america - http://dbpedia.org/resource/South_America
+military conflict - http://dbpedia.org/resource/War
+south america - http://dbpedia.org/resource/South_America
+paraguay - http://dbpedia.org/resource/Paraguay
+argentina - http://dbpedia.org/resource/Argentina
+brazil - http://dbpedia.org/resource/Brazil
+uruguay - http://dbpedia.org/resource/Uruguay
+paraguay - http://dbpedia.org/resource/Paraguay
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+brazil - http://dbpedia.org/resource/Brazil
+constitutional democracy - http://dbpedia.org/resource/Liberal_democracy
+democracy - http://dbpedia.org/resource/Democracy
+oligarchy - http://dbpedia.org/resource/Oligarchy
+1910 election - http://dbpedia.org/resource/December_1910_United_Kingdom_general_election
+getúlio vargas - http://dbpedia.org/resource/Getúlio_Vargas
+civilian power - http://dbpedia.org/resource/Civilian_Power
+dictatorship - http://dbpedia.org/resource/Vargas_Era
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+revolt - http://dbpedia.org/resource/Revolution
+armed conflict - http://dbpedia.org/resource/War
+revolt - http://dbpedia.org/resource/Revolution
+federal government - http://dbpedia.org/resource/Federation
+vargas dictatorship - http://dbpedia.org/resource/Getúlio_Vargas
+democracy - http://dbpedia.org/resource/Democracy
+vargas - http://dbpedia.org/resource/Varga_(astrology)
+democratic - http://dbpedia.org/resource/Democracy
+land reform - http://dbpedia.org/resource/Land_reform
+nationalization - http://dbpedia.org/resource/Nationalization
+private company - http://dbpedia.org/resource/Privately_held_company
+military dictatorship - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
+democratic - http://dbpedia.org/resource/Democracy
+dictatorship - http://dbpedia.org/resource/Vargas_Era
+economic policy - http://dbpedia.org/resource/Economy
+democracy - http://dbpedia.org/resource/Democracy
+brazil - http://dbpedia.org/resource/Brazil
+elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+economy - http://dbpedia.org/resource/Economy_of_Portugal
+demographic - http://dbpedia.org/resource/Demography
+brazilian economy - http://dbpedia.org/resource/Economy_of_Brazil
+agriculture - http://dbpedia.org/resource/Agriculture
+economy - http://dbpedia.org/resource/Economy_of_Portugal
+mining - http://dbpedia.org/resource/Mining
+manufacturing - http://dbpedia.org/resource/Manufacturing
+service sector - http://dbpedia.org/resource/Tertiary_sector_of_the_economy
+brazil - http://dbpedia.org/resource/Brazil
+bric - http://dbpedia.org/resource/BRIC
+bric - http://dbpedia.org/resource/BRIC
+acronym - http://dbpedia.org/resource/Acronym
+brazil - http://dbpedia.org/resource/Brazil
+russia - http://dbpedia.org/resource/Russia
+bric - http://dbpedia.org/resource/BRIC
+economy - http://dbpedia.org/resource/Economy_of_Portugal
+economy - http://dbpedia.org/resource/Economy_of_Portugal
+brazil - http://dbpedia.org/resource/Brazil
+mulatto - http://dbpedia.org/resource/Mulatto
+indigenous amerindian - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
+postal history - http://dbpedia.org/resource/Postal_history
+insurgent - http://dbpedia.org/resource/Insurgency
+brazil - http://dbpedia.org/resource/Brazil
+brazil - http://dbpedia.org/resource/Brazil
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+eye - http://dbpedia.org/resource/Tropical_cyclone
+denomination - http://dbpedia.org/resource/Currency
+denomination - http://dbpedia.org/resource/Currency
+portrait - http://dbpedia.org/resource/Portrait
+emperor pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+brazil - http://dbpedia.org/resource/Brazil
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+southern cross - http://dbpedia.org/resource/Crux
+brazil - http://dbpedia.org/resource/Brazil
+estados unidos - http://dbpedia.org/resource/United_States
+brazil - http://dbpedia.org/resource/Brazil
+brazil - http://dbpedia.org/resource/Brazil
+brazil - http://dbpedia.org/resource/Brazil
+watermark - http://dbpedia.org/resource/Watermark
+paper - http://dbpedia.org/resource/Postage_stamp_paper
+perforation - http://dbpedia.org/resource/Postage_stamp_separation
+brazil - http://dbpedia.org/resource/Brazil
+watermarks - http://dbpedia.org/resource/Watermark
+big blue - http://dbpedia.org/resource/IBM
+blog - http://dbpedia.org/resource/Blog
+brazil - http://dbpedia.org/resource/Brazil
+national interest - http://dbpedia.org/resource/Nationalism
+bahia - http://dbpedia.org/resource/Bahia
+pernambuco - http://dbpedia.org/resource/Paubrasilia
+recife - http://dbpedia.org/resource/Recife
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+british office - http://dbpedia.org/resource/British_Office_Taipei
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+revolt - http://dbpedia.org/resource/Revolution
+government issue - http://dbpedia.org/resource/Government_Issue
+revolt - http://dbpedia.org/resource/Revolution
+revolt - http://dbpedia.org/resource/Revolution
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+constitutionalist revolution - http://dbpedia.org/resource/Constitutionalist_Revolution
+federal government - http://dbpedia.org/resource/Federation
+constitution - http://dbpedia.org/resource/Constitution
+federal government - http://dbpedia.org/resource/Federation
+dictator - http://dbpedia.org/resource/Dictatorship
+vargas - http://dbpedia.org/resource/Varga_(astrology)
+constitution - http://dbpedia.org/resource/Constitution
+south america - http://dbpedia.org/resource/South_America
+brazil - http://dbpedia.org/resource/Brazil
+concession - http://dbpedia.org/resource/Concessions_and_leases_in_international_relations
+transport - http://dbpedia.org/resource/Transport
+italian brazilian - http://dbpedia.org/resource/Italian_Brazilians
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+american company - http://dbpedia.org/resource/Old_American_Company
+condor - http://dbpedia.org/resource/Condor
+condor - http://dbpedia.org/resource/Condor
+condor - http://dbpedia.org/resource/Condor
+german brazilian - http://dbpedia.org/resource/German_Brazilians
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+condor - http://dbpedia.org/resource/Condor
+agency - http://dbpedia.org/resource/Institution
+city - http://dbpedia.org/resource/City
+berlin - http://dbpedia.org/resource/Berlin
+danzig - http://dbpedia.org/resource/Free_City_of_Danzig
+condor - http://dbpedia.org/resource/Condor
+post stamp - http://dbpedia.org/resource/Postage_stamp
+brazil - http://dbpedia.org/resource/Brazil
+condor - http://dbpedia.org/resource/Condor
+varig - http://dbpedia.org/resource/Varig
+varig - http://dbpedia.org/resource/Varig
+varig - http://dbpedia.org/resource/Varig
+transport - http://dbpedia.org/resource/Transport
+rio grande - http://dbpedia.org/resource/Rio_Grande_do_Sul
+varig - http://dbpedia.org/resource/Varig
+german brazilian - http://dbpedia.org/resource/German_Brazilians
+condor - http://dbpedia.org/resource/Condor
+rio grande - http://dbpedia.org/resource/Rio_Grande_do_Sul
+brazil - http://dbpedia.org/resource/Brazil
+varig - http://dbpedia.org/resource/Varig
+post stamp - http://dbpedia.org/resource/Postage_stamp
+brazil - http://dbpedia.org/resource/Brazil
+varig - http://dbpedia.org/resource/Varig
+national airline - http://dbpedia.org/resource/Flag_carrier
+brazil - http://dbpedia.org/resource/Brazil
+varig - http://dbpedia.org/resource/Varig
+yvert - http://dbpedia.org/resource/Yvert_et_Tellier
+tellier - http://dbpedia.org/resource/Luc-Normand_Tellier
+zeppelin mail - http://dbpedia.org/resource/Zeppelin_mail
+zeppelin mail - http://dbpedia.org/resource/Zeppelin_mail
+postal history - http://dbpedia.org/resource/Postal_history
+zeppelin - http://dbpedia.org/resource/Zeppelin
+count ferdinand von zeppelin - http://dbpedia.org/resource/Ferdinand_von_Zeppelin
+ferdinand von zeppelin - http://dbpedia.org/resource/Ferdinand_von_Zeppelin
+airship - http://dbpedia.org/resource/Airship
+test flight - http://dbpedia.org/resource/Flight_test
+zeppelin - http://dbpedia.org/resource/Zeppelin
+airplane - http://dbpedia.org/resource/Airplane
+commercial air transport - http://dbpedia.org/resource/Airline
+graf - http://dbpedia.org/resource/Graf
+hindenburg - http://dbpedia.org/resource/LZ_129_Hindenburg
+lakehurst - http://dbpedia.org/resource/Lakehurst_Maxfield_Field
+zeppelin - http://dbpedia.org/resource/Zeppelin
+zeppelin - http://dbpedia.org/resource/Zeppelin
+zeppelin - http://dbpedia.org/resource/Zeppelin
+zeppelin - http://dbpedia.org/resource/Zeppelin
+south america - http://dbpedia.org/resource/South_America
+flight call - http://dbpedia.org/resource/Flight_call
+flight call - http://dbpedia.org/resource/Flight_call
+graf zeppelin - http://dbpedia.org/resource/LZ_127_Graf_Zeppelin
+germany - http://dbpedia.org/resource/German_Empire
+seville - http://dbpedia.org/resource/Seville
+atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
+recife - http://dbpedia.org/resource/Recife
+brazil - http://dbpedia.org/resource/Brazil
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+recife - http://dbpedia.org/resource/Recife
+lakehurst - http://dbpedia.org/resource/Lakehurst_Maxfield_Field
+lakehurst - http://dbpedia.org/resource/Lakehurst_Maxfield_Field
+graf zeppelin - http://dbpedia.org/resource/LZ_127_Graf_Zeppelin
+seville - http://dbpedia.org/resource/Seville
+germany - http://dbpedia.org/resource/German_Empire
+argentina - http://dbpedia.org/resource/Argentina
+bolivia - http://dbpedia.org/resource/Bolivia
+zeppelin luftschiffbau - http://dbpedia.org/resource/Luftschiffbau_Zeppelin
+luftschiffbau zeppelin gmbh - http://dbpedia.org/resource/Luftschiffbau_Zeppelin
+air ship - http://dbpedia.org/resource/Airship
+zeppelin - http://dbpedia.org/resource/Zeppelin
+brazil - http://dbpedia.org/resource/Brazil
+condor - http://dbpedia.org/resource/Condor
+logistic - http://dbpedia.org/resource/Logistics
+brazil - http://dbpedia.org/resource/Brazil
+brazil - http://dbpedia.org/resource/Brazil
+high high - http://dbpedia.org/resource/High_High
+parahyba - http://dbpedia.org/resource/Paraíba
+zeppelin - http://dbpedia.org/resource/Zeppelin
+zeppelin - http://dbpedia.org/resource/Zeppelin
+yvert - http://dbpedia.org/resource/Yvert_et_Tellier
+tellier - http://dbpedia.org/resource/Luc-Normand_Tellier

@@ -1,0 +1,26 @@
+hotel - http://dbpedia.org/resource/Hotel
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+hotel - http://dbpedia.org/resource/Hotel
+guesthouse - http://dbpedia.org/resource/Guest_house
+breakfast - http://dbpedia.org/resource/Breakfast
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+roman fort - http://dbpedia.org/resource/Castra
+great tower - http://dbpedia.org/resource/Keep
+timber - http://dbpedia.org/resource/Timber_framing
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+stone - http://dbpedia.org/resource/Stonemasonry
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+anglo - http://dbpedia.org/resource/Anglo
+scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+medieval - http://dbpedia.org/resource/Middle_Ages
+neglect - http://dbpedia.org/resource/Neglect
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+stone - http://dbpedia.org/resource/Stonemasonry
+roman fort - http://dbpedia.org/resource/Castra

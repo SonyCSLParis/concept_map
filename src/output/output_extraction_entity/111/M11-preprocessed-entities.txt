@@ -1,0 +1,244 @@
+affinity - http://dbpedia.org/resource/Bastard_feudalism
+bodiam - http://dbpedia.org/resource/Bodiam
+bucket - http://dbpedia.org/resource/Bucket
+jackson - http://dbpedia.org/resource/Andrew_Jackson
+tower - http://dbpedia.org/resource/Keep
+moat - http://dbpedia.org/resource/Moat
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+fantasy - http://dbpedia.org/resource/Fantasy
+gaze - http://dbpedia.org/resource/Gaze
+epitome - http://dbpedia.org/resource/Ab_Urbe_Condita_Libri
+medieval - http://dbpedia.org/resource/Middle_Ages
+nobility - http://dbpedia.org/resource/Nobility
+security - http://dbpedia.org/resource/Security
+courtyard castle - http://dbpedia.org/resource/Quadrangular_castle
+security - http://dbpedia.org/resource/Security
+garrison - http://dbpedia.org/resource/Garrison
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+bretigny - http://dbpedia.org/resource/Brétigny-sur-Orge
+aquitaine - http://dbpedia.org/resource/Aquitaine
+calais - http://dbpedia.org/resource/Calais
+free companies - http://dbpedia.org/resource/Free_company
+routier - http://dbpedia.org/resource/Routiers
+mercenary - http://dbpedia.org/resource/Mercenary
+looting - http://dbpedia.org/resource/Looting
+professional soldier - http://dbpedia.org/resource/Professional_Soldier
+nobility - http://dbpedia.org/resource/Nobility
+bertrand du guesclin - http://dbpedia.org/resource/Bertrand_du_Guesclin
+thomas dagworth - http://dbpedia.org/resource/Thomas_Dagworth
+robert knolles - http://dbpedia.org/resource/Robert_Knolles
+sir hugh calveley - http://dbpedia.org/resource/Hugh_Calveley
+free companies - http://dbpedia.org/resource/Free_company
+havoc - http://dbpedia.org/resource/June_Havoc
+robert knolles - http://dbpedia.org/resource/Robert_Knolles
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+character day - http://dbpedia.org/resource/Character_Day
+sussex - http://dbpedia.org/resource/Sussex
+family - http://dbpedia.org/resource/Family
+ridge - http://dbpedia.org/resource/Ridge
+east grinstead - http://dbpedia.org/resource/East_Grinstead
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+manor - http://dbpedia.org/resource/Manorialism
+bodiam - http://dbpedia.org/resource/Bodiam
+manor house - http://dbpedia.org/resource/Manorialism
+bodiam - http://dbpedia.org/resource/Bodiam
+church - http://dbpedia.org/resource/Catholic_Church
+kent - http://dbpedia.org/resource/Kent
+ditch - http://dbpedia.org/resource/Moat
+pottery - http://dbpedia.org/resource/Pottery
+wasin - http://dbpedia.org/resource/Wasin
+century building - http://dbpedia.org/resource/Century_Building_(Chicago)
+family - http://dbpedia.org/resource/Family
+manor - http://dbpedia.org/resource/Manorialism
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
+family - http://dbpedia.org/resource/Family
+saxon - http://dbpedia.org/resource/Saxons
+settlement - http://dbpedia.org/resource/Town
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+shire - http://dbpedia.org/resource/Shire
+sussex - http://dbpedia.org/resource/Sussex
+sussex - http://dbpedia.org/resource/Sussex
+earl - http://dbpedia.org/resource/Earl
+arundel - http://dbpedia.org/resource/Arundel
+invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+crecy - http://dbpedia.org/resource/Rolls-Royce_Crecy
+poitiers - http://dbpedia.org/resource/Battle_of_Poitiers
+memory - http://dbpedia.org/resource/Memory
+claw - http://dbpedia.org/resource/Claw
+piracy - http://dbpedia.org/resource/Piracy
+rye - http://dbpedia.org/resource/Rye
+winchelsea - http://dbpedia.org/resource/Winchelsea
+sack - http://dbpedia.org/resource/Looting
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+royal household - http://dbpedia.org/resource/Royal_household
+town - http://dbpedia.org/resource/Market_town
+winchelsea - http://dbpedia.org/resource/Winchelsea
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+manor - http://dbpedia.org/resource/Manorialism
+winchelsea - http://dbpedia.org/resource/Winchelsea
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+piracy - http://dbpedia.org/resource/Piracy
+hastings - http://dbpedia.org/resource/Hastings
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+crenellate - http://dbpedia.org/resource/Licence_to_crenellate
+rother - http://dbpedia.org/resource/Rother_District
+manor house - http://dbpedia.org/resource/Manorialism
+scotney castle - http://dbpedia.org/resource/Scotney_Castle
+invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+bodiam - http://dbpedia.org/resource/Bodiam
+bodiam - http://dbpedia.org/resource/Bodiam
+captain - http://dbpedia.org/resource/Sea_captain
+french port - http://dbpedia.org/resource/Mask_Singer_(French_TV_series)
+brest - http://dbpedia.org/resource/Battle_for_Brest
+invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+truce - http://dbpedia.org/resource/Armistice
+fortress - http://dbpedia.org/resource/Castle
+calais - http://dbpedia.org/resource/Calais
+picardy - http://dbpedia.org/resource/Picardy
+knights - http://dbpedia.org/resource/Knight_of_the_shire
+seal - http://dbpedia.org/resource/Pinniped
+pope - http://dbpedia.org/resource/Pope
+church - http://dbpedia.org/resource/Catholic_Church
+tower - http://dbpedia.org/resource/Keep
+governor - http://dbpedia.org/resource/Governor
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+die - http://dbpedia.org/resource/Death
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+bodiam - http://dbpedia.org/resource/Bodiam
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+time book - http://dbpedia.org/resource/Time_book
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+family - http://dbpedia.org/resource/Family
+sussex - http://dbpedia.org/resource/Sussex
+family - http://dbpedia.org/resource/Family
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
+thomas lewknor - http://dbpedia.org/resource/Thomas_Lewknor_(MP_for_Midhurst)
+lancastrian - http://dbpedia.org/resource/House_of_Lancaster
+attaint - http://dbpedia.org/resource/Writ_of_attaint
+richard iii - http://dbpedia.org/resource/Richard_III_of_England
+earl - http://dbpedia.org/resource/Earl
+surrey - http://dbpedia.org/resource/Surrey
+counties - http://dbpedia.org/resource/County
+kent - http://dbpedia.org/resource/Kent
+sussex - http://dbpedia.org/resource/Sussex
+bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
+family - http://dbpedia.org/resource/Family
+civil war - http://dbpedia.org/resource/English_Civil_War
+earl - http://dbpedia.org/resource/Earl
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+royalist - http://dbpedia.org/resource/Cavalier
+parliamentarian - http://dbpedia.org/resource/Parliament_of_England
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+general waller - http://dbpedia.org/resource/William_Waller
+cottage - http://dbpedia.org/resource/Cottage
+postern - http://dbpedia.org/resource/Postern
+tower - http://dbpedia.org/resource/Keep
+stone - http://dbpedia.org/resource/Stonemasonry
+ivy - http://dbpedia.org/resource/Hedera
+painting - http://dbpedia.org/resource/Painting
+brightling - http://dbpedia.org/resource/Brightling
+mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
+fat - http://dbpedia.org/resource/Fat
+sussex - http://dbpedia.org/resource/Sussex
+parliament - http://dbpedia.org/resource/Parliament_of_England
+folly - http://dbpedia.org/resource/Folly
+litter - http://dbpedia.org/resource/Litter
+landscape - http://dbpedia.org/resource/Landscape
+brightling - http://dbpedia.org/resource/Brightling
+pyramid - http://dbpedia.org/resource/Pyramid
+brightling - http://dbpedia.org/resource/Brightling
+hat - http://dbpedia.org/resource/Hat
+bottle - http://dbpedia.org/resource/Bottle
+claret - http://dbpedia.org/resource/Bordeaux_wine
+chicken - http://dbpedia.org/resource/Chicken
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+lord ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+bodiam - http://dbpedia.org/resource/Bodiam
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+cinque ports - http://dbpedia.org/resource/Cinque_Ports
+love - http://dbpedia.org/resource/Love
+winchelsea - http://dbpedia.org/resource/Winchelsea
+church - http://dbpedia.org/resource/Catholic_Church
+embark - http://dbpedia.org/resource/Embark_(transit_authority)
+restoration architect - http://dbpedia.org/resource/Building_restoration
+william weir - http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir
+national trust - http://dbpedia.org/resource/National_trust
+bodiam - http://dbpedia.org/resource/Bodiam
+bodiam - http://dbpedia.org/resource/Bodiam
+national trust - http://dbpedia.org/resource/National_trust
+nov - http://dbpedia.org/resource/NOV_(gene)
+nov - http://dbpedia.org/resource/NOV_(gene)
+family - http://dbpedia.org/resource/Family
+telephone - http://dbpedia.org/resource/Telephone
+os map - http://dbpedia.org/resource/Ordnance_Survey
+tq - http://dbpedia.org/resource/TQ_(singer)
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bus - http://dbpedia.org/resource/Bus
+hastings station - http://dbpedia.org/resource/Hastings_railway_station
+railway station - http://dbpedia.org/resource/Train_station
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+car park - http://dbpedia.org/resource/Parking_lot
+disability - http://dbpedia.org/resource/Disability
+wheelchair - http://dbpedia.org/resource/Wheelchair
+tower - http://dbpedia.org/resource/Keep
+dog - http://dbpedia.org/resource/Dog
+picnic - http://dbpedia.org/resource/Picnic
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+britain - http://dbpedia.org/resource/Roman_Britain
+ideal - http://dbpedia.org/resource/Thought_experiment
+stock - http://dbpedia.org/resource/Livestock
+restaurant - http://dbpedia.org/resource/Restaurant
+castle ground - http://dbpedia.org/resource/Castle_Ground
+school holiday - http://dbpedia.org/resource/Academic_year
+summer - http://dbpedia.org/resource/Midsummer
+5 o'clock - http://dbpedia.org/resource/5_O'Clock_(T-Pain_song)
+lock - http://dbpedia.org/resource/Lock_and_key
+gate - http://dbpedia.org/resource/Gate
+summer - http://dbpedia.org/resource/Midsummer
+winter - http://dbpedia.org/resource/Tilia
+winter - http://dbpedia.org/resource/Tilia
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+bodiam - http://dbpedia.org/resource/Bodiam
+cincture - http://dbpedia.org/resource/Cincture
+beauty - http://dbpedia.org/resource/Beauty
+train - http://dbpedia.org/resource/Rail_transport
+knights - http://dbpedia.org/resource/Knight_of_the_shire
+falcon - http://dbpedia.org/resource/Falcon
+wrist - http://dbpedia.org/resource/Wrist
+mount - http://dbpedia.org/resource/Working_animal
+gaily - http://dbpedia.org/resource/Gaily_(horse)
+caparison - http://dbpedia.org/resource/Caparison
+barbican - http://dbpedia.org/resource/Barbican
+gate - http://dbpedia.org/resource/Gate
+clatter - http://dbpedia.org/resource/Clatter,_Powys
+iron - http://dbpedia.org/resource/Cast_iron
+hoof - http://dbpedia.org/resource/Hoof
+christopher allmand - http://dbpedia.org/resource/Christopher_Allmand
+anne - http://dbpedia.org/resource/Anne_Boleyn
+croft - http://dbpedia.org/resource/Crofting
+desmond seward - http://dbpedia.org/resource/Desmond_Seward
+sussex - http://dbpedia.org/resource/Sussex
+john guy - http://dbpedia.org/resource/John_Guy_(colonial_administrator)
+medieval england - http://dbpedia.org/resource/Middle_Ages
+colin - http://dbpedia.org/resource/Large_intestine
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+kedleston - http://dbpedia.org/resource/Kedleston
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+david - http://dbpedia.org/resource/David_II_of_Scotland
+john fuller - http://dbpedia.org/resource/J._F._C._Fuller
+brightling - http://dbpedia.org/resource/Brightling
+hutchinson - http://dbpedia.org/resource/Shaun_Hutchinson
+plantagenet - http://dbpedia.org/resource/House_of_Plantagenet
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+sussex - http://dbpedia.org/resource/Sussex
+desmond seward - http://dbpedia.org/resource/Desmond_Seward
+sussex - http://dbpedia.org/resource/Sussex
+judith - http://dbpedia.org/resource/Book_of_Judith
+national trust - http://dbpedia.org/resource/National_trust
+handbook - http://dbpedia.org/resource/Handbook

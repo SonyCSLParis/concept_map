@@ -1,0 +1,62 @@
+victorian - http://dbpedia.org/resource/Victorian_era
+britain - http://dbpedia.org/resource/British_Empire
+queen - http://dbpedia.org/resource/Queen_regnant
+british empire - http://dbpedia.org/resource/British_Empire
+dominion - http://dbpedia.org/resource/Dominion
+colony - http://dbpedia.org/resource/Crown_colony
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+british empire - http://dbpedia.org/resource/British_Empire
+overseas possession - http://dbpedia.org/resource/Stato_da_Màr
+trading post - http://dbpedia.org/resource/French_colonization_of_the_Americas
+britain - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+sun - http://dbpedia.org/resource/Sun
+sun - http://dbpedia.org/resource/Sun
+british influence - http://dbpedia.org/resource/British_Influence
+international language - http://dbpedia.org/resource/International_auxiliary_language
+empire builder - http://dbpedia.org/resource/Empire_Builder
+portuguese - http://dbpedia.org/resource/Portuguese_language
+americas - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+race - http://dbpedia.org/resource/Racing
+netherlands - http://dbpedia.org/resource/Dutch_Republic
+thy - http://dbpedia.org/resource/Thy_(district)
+colony - http://dbpedia.org/resource/Crown_colony
+network - http://dbpedia.org/resource/Social_network
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
+netherlands - http://dbpedia.org/resource/Dutch_Republic
+britain - http://dbpedia.org/resource/British_Empire
+colonial power - http://dbpedia.org/resource/British_Empire
+north america - http://dbpedia.org/resource/North_America
+american canadian - http://dbpedia.org/resource/American_Canadians
+colony - http://dbpedia.org/resource/Crown_colony
+britain - http://dbpedia.org/resource/British_Empire
+napoleon - http://dbpedia.org/resource/Napoleon
+westward - http://dbpedia.org/resource/Westward_Television
+independence - http://dbpedia.org/resource/Independence
+british government - http://dbpedia.org/resource/British_Empire
+settler - http://dbpedia.org/resource/Settler
+colony - http://dbpedia.org/resource/Crown_colony
+colony - http://dbpedia.org/resource/Crown_colony
+dominion - http://dbpedia.org/resource/Dominion
+british empire - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+bankrupt - http://dbpedia.org/resource/Bankruptcy
+industrial - http://dbpedia.org/resource/Industrial_Revolution
+britain - http://dbpedia.org/resource/British_Empire
+colony - http://dbpedia.org/resource/Crown_colony
+wave - http://dbpedia.org/resource/Wave
+colony - http://dbpedia.org/resource/Crown_colony
+independence - http://dbpedia.org/resource/Independence
+independent - http://dbpedia.org/resource/Independence
+law - http://dbpedia.org/resource/English_law
+british empire - http://dbpedia.org/resource/British_Empire
+independence - http://dbpedia.org/resource/Independence
+hindu - http://dbpedia.org/resource/Hindus
+muslim - http://dbpedia.org/resource/Muslims
+spit - http://dbpedia.org/resource/Shoal
+independent - http://dbpedia.org/resource/Independence
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+commonwealth nation - http://dbpedia.org/resource/Commonwealth_of_Nations
+queen elizabeth ii - http://dbpedia.org/resource/Commonwealth_realm

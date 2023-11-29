@@ -1,0 +1,99 @@
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+lordship - http://dbpedia.org/resource/Manorialism
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+misnomer - http://dbpedia.org/resource/Misnomer
+manor house - http://dbpedia.org/resource/Manorialism
+tottenham - http://dbpedia.org/resource/Tottenham
+plain - http://dbpedia.org/resource/John_Major
+lordship - http://dbpedia.org/resource/Manorialism
+lucas - http://dbpedia.org/resource/Lucas_Scott
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+robert bruce - http://dbpedia.org/resource/Robert_the_Bruce
+robert bruce - http://dbpedia.org/resource/Robert_the_Bruce
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+manorial estate - http://dbpedia.org/resource/Manorialism
+tottenham - http://dbpedia.org/resource/Tottenham
+land title - http://dbpedia.org/resource/Land_registration
+scottish crown - http://dbpedia.org/resource/The_Crown
+archaeological excavation - http://dbpedia.org/resource/Excavation_(archaeology)
+medieval - http://dbpedia.org/resource/England_in_the_Middle_Ages
+manor house - http://dbpedia.org/resource/Manorialism
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle
+family - http://dbpedia.org/resource/Family
+manor house - http://dbpedia.org/resource/Manorialism
+lordship - http://dbpedia.org/resource/Manorialism
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+henry hare - http://dbpedia.org/resource/Henry_Hare
+baron coleraine - http://dbpedia.org/resource/Baron_Coleraine
+tudor - http://dbpedia.org/resource/Tudor_period
+tower - http://dbpedia.org/resource/Keep
+manor house - http://dbpedia.org/resource/Manorialism
+excavation - http://dbpedia.org/resource/Excavator
+tower - http://dbpedia.org/resource/Keep
+dovecote - http://dbpedia.org/resource/Dovecote
+court manor - http://dbpedia.org/resource/Court_Manor
+wing - http://dbpedia.org/resource/Wing
+facade - http://dbpedia.org/resource/Facade
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+queen - http://dbpedia.org/resource/Queen_consort
+earl - http://dbpedia.org/resource/Earl
+dorset - http://dbpedia.org/resource/Dorset
+lease - http://dbpedia.org/resource/Leasehold_estate
+mistress - http://dbpedia.org/resource/Royal_mistress
+earl - http://dbpedia.org/resource/Earl
+gambling - http://dbpedia.org/resource/Gambling
+habit - http://dbpedia.org/resource/Religious_habit
+debt - http://dbpedia.org/resource/Debt
+hugh hare - http://dbpedia.org/resource/Hugh_Hare
+merchant - http://dbpedia.org/resource/Merchant
+lordship - http://dbpedia.org/resource/Manorialism
+circle - http://dbpedia.org/resource/Stone_circle
+landed gentry - http://dbpedia.org/resource/Landed_gentry
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+hugh hare - http://dbpedia.org/resource/Hugh_Hare
+earl - http://dbpedia.org/resource/Earl
+manchester - http://dbpedia.org/resource/Manchester
+manchester - http://dbpedia.org/resource/Manchester
+earl - http://dbpedia.org/resource/Earl
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+court - http://dbpedia.org/resource/Royal_court
+baron coleraine - http://dbpedia.org/resource/Baron_Coleraine
+court - http://dbpedia.org/resource/Royal_court
+civil war - http://dbpedia.org/resource/English_Civil_War
+totteridge - http://dbpedia.org/resource/Totteridge
+longford castle - http://dbpedia.org/resource/Longford_Castle
+parliamentary - http://dbpedia.org/resource/Roundhead
+turkey - http://dbpedia.org/resource/Domestic_turkey
+bone - http://dbpedia.org/resource/Bone
+apocryphal - http://dbpedia.org/resource/Apocrypha
+laughter - http://dbpedia.org/resource/Laughter
+news - http://dbpedia.org/resource/News_media
+monarchy - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
+die - http://dbpedia.org/resource/Death
+totteridge - http://dbpedia.org/resource/Totteridge
+henry - http://dbpedia.org/resource/Henry_(unit)
+constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
+lucy - http://dbpedia.org/resource/Lucy_Beale
+sarah - http://dbpedia.org/resource/SAR-Lupe
+alston - http://dbpedia.org/resource/Walter_Alston
+duke - http://dbpedia.org/resource/Duke
+somerset - http://dbpedia.org/resource/Somerset
+henry - http://dbpedia.org/resource/Henry_(unit)
+sarah - http://dbpedia.org/resource/SAR-Lupe
+constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
+suicide - http://dbpedia.org/resource/Suicide
+henry - http://dbpedia.org/resource/Henry_(unit)
+sarah - http://dbpedia.org/resource/SAR-Lupe
+century house - http://dbpedia.org/resource/Century_House,_London
+headmaster - http://dbpedia.org/resource/Head_teacher
+sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
+general post office - http://dbpedia.org/resource/General_Post_Office
+postage stamp - http://dbpedia.org/resource/Postage_stamp
+radical - http://dbpedia.org/resource/Political_radicalism
+curriculum - http://dbpedia.org/resource/Curriculum
+language science - http://dbpedia.org/resource/Psycholinguistics
+principle teacher - http://dbpedia.org/resource/Semikhah
+british school - http://dbpedia.org/resource/British_and_Foreign_School_Society
+local council - http://dbpedia.org/resource/Local_government_in_England

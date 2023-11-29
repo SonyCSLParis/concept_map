@@ -1,0 +1,52 @@
+monastery - http://dbpedia.org/resource/Monastery
+shrine - http://dbpedia.org/resource/Shrine
+pagan - http://dbpedia.org/resource/Paganism
+christ - http://dbpedia.org/resource/Life_of_Jesus_in_the_New_Testament
+spiral - http://dbpedia.org/resource/Spiral
+harp - http://dbpedia.org/resource/Harp
+cumdach - http://dbpedia.org/resource/Cumdach
+ethiopian - http://dbpedia.org/resource/Ethiopia
+interlace - http://dbpedia.org/resource/Celtic_knot
+stock - http://dbpedia.org/resource/Stock
+easter sunday - http://dbpedia.org/resource/Easter
+bookcase - http://dbpedia.org/resource/Bookcase
+standing stone - http://dbpedia.org/resource/Menhir
+barrel vault - http://dbpedia.org/resource/Barrel_vault
+burgh - http://dbpedia.org/resource/Burgh
+long room - http://dbpedia.org/resource/Long_Room
+tourist attraction - http://dbpedia.org/resource/Tourist_attraction
+norsemen - http://dbpedia.org/resource/Vikings
+liberty hall - http://dbpedia.org/resource/Liberty_Hall
+pictish - http://dbpedia.org/resource/Pictish_stone
+folio - http://dbpedia.org/resource/Bookbinding
+scotland - http://dbpedia.org/resource/Scotland
+armagh - http://dbpedia.org/resource/Armagh
+cromwellian wars - http://dbpedia.org/resource/Irish_Confederate_Wars
+iona - http://dbpedia.org/resource/Iona
+british irish - http://dbpedia.org/resource/Irish_migration_to_Great_Britain
+1916 proclamation - http://dbpedia.org/resource/Proclamation_of_the_Irish_Republic
+calfskin - http://dbpedia.org/resource/Calfskin
+st columba - http://dbpedia.org/resource/Columba
+columbines - http://dbpedia.org/resource/Aquilegia
+carpet - http://dbpedia.org/resource/Carpet
+st colmcille - http://dbpedia.org/resource/Columba
+celtic - http://dbpedia.org/resource/Celts
+printing - http://dbpedia.org/resource/Printing
+ireland - http://dbpedia.org/resource/Ireland
+writing system - http://dbpedia.org/resource/Egyptian_hieroglyphs
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+virgin - http://dbpedia.org/resource/Virginity
+mulling - http://dbpedia.org/resource/Book_of_Mulling
+metal - http://dbpedia.org/resource/Metalworking
+coast - http://dbpedia.org/resource/Coast
+ogham - http://dbpedia.org/resource/Ogham
+latin - http://dbpedia.org/resource/Latin
+loot - http://dbpedia.org/resource/Looting
+county meath - http://dbpedia.org/resource/County_Meath
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+irish republic - http://dbpedia.org/resource/Republic_of_Ireland
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+light - http://dbpedia.org/resource/Light
+trinity - http://dbpedia.org/resource/Trinity
+roundel - http://dbpedia.org/resource/Roundel
+library - http://dbpedia.org/resource/Library

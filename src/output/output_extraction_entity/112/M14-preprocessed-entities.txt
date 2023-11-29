@@ -1,0 +1,68 @@
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+thompson - http://dbpedia.org/resource/Thompson_River
+national treasure - http://dbpedia.org/resource/National_treasure
+ireland - http://dbpedia.org/resource/Republic_of_Ireland
+library - http://dbpedia.org/resource/Library
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+scriptorium - http://dbpedia.org/resource/Scriptorium
+monastery - http://dbpedia.org/resource/Monastery
+st - http://dbpedia.org/resource/SATB
+colum cille - http://dbpedia.org/resource/Columba
+iona - http://dbpedia.org/resource/Iona_Abbey
+coast - http://dbpedia.org/resource/Coast
+scotland - http://dbpedia.org/resource/Scotland
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+insular illumination - http://dbpedia.org/resource/Insular_illumination
+celtic - http://dbpedia.org/resource/Celts
+monk - http://dbpedia.org/resource/Monk
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+latin - http://dbpedia.org/resource/Latin
+gospels - http://dbpedia.org/resource/Gospel
+vulgate - http://dbpedia.org/resource/Vulgate
+bible - http://dbpedia.org/resource/Bible
+vetus latina - http://dbpedia.org/resource/Vetus_Latina
+gospel book - http://dbpedia.org/resource/Gospel_Book
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+human animal - http://dbpedia.org/resource/Human_Animal
+mythological beast - http://dbpedia.org/resource/Legendary_creature
+celtic knot - http://dbpedia.org/resource/Celtic_knot
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+christian symbolism - http://dbpedia.org/resource/Christian_symbolism
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+folio - http://dbpedia.org/resource/Bookbinding
+calf - http://dbpedia.org/resource/Calfskin
+vellum - http://dbpedia.org/resource/Vellum
+iron - http://dbpedia.org/resource/Wrought_iron
+gall ink - http://dbpedia.org/resource/Iron_gall_ink
+import - http://dbpedia.org/resource/Import
+land plant - http://dbpedia.org/resource/Embryophyte
+pigment - http://dbpedia.org/resource/Pigment
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+meath - http://dbpedia.org/resource/County_Meath
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+library - http://dbpedia.org/resource/Library
+digital - http://dbpedia.org/resource/Digital_media
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+fairytale - http://dbpedia.org/resource/Fairy_tale
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+audio - http://dbpedia.org/resource/Sound_recording_and_reproduction
+mp3 player - http://dbpedia.org/resource/MP3_player
+headphone - http://dbpedia.org/resource/Headphones
+cheddar - http://dbpedia.org/resource/Cheddar_cheese
+guide number - http://dbpedia.org/resource/Guide_number
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+surreal - http://dbpedia.org/resource/Surrealism
+boggle - http://dbpedia.org/resource/Boggle
+library - http://dbpedia.org/resource/Library
+long room - http://dbpedia.org/resource/Long_Room
+long room - http://dbpedia.org/resource/Long_Room
+library - http://dbpedia.org/resource/Library
+bookcase - http://dbpedia.org/resource/Bookcase
+bram - http://dbpedia.org/resource/Bram_Ronnes
+gothic - http://dbpedia.org/resource/Gothic_art
+dracula - http://dbpedia.org/resource/Dracula

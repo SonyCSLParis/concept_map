@@ -1,0 +1,169 @@
+5 o'clock - http://dbpedia.org/resource/5_O'Clock_(T-Pain_song)
+aquitaine - http://dbpedia.org/resource/Aquitaine
+garrison - http://dbpedia.org/resource/Garrison
+mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
+cincture - http://dbpedia.org/resource/Cincture
+stone - http://dbpedia.org/resource/Stonemasonry
+royalist - http://dbpedia.org/resource/Cavalier
+die - http://dbpedia.org/resource/Death
+bretigny - http://dbpedia.org/resource/Brétigny-sur-Orge
+town - http://dbpedia.org/resource/Market_town
+picnic - http://dbpedia.org/resource/Picnic
+train - http://dbpedia.org/resource/Rail_transport
+affinity - http://dbpedia.org/resource/Bastard_feudalism
+bus - http://dbpedia.org/resource/Bus
+pottery - http://dbpedia.org/resource/Pottery
+professional soldier - http://dbpedia.org/resource/Professional_Soldier
+cinque ports - http://dbpedia.org/resource/Cinque_Ports
+robert knolles - http://dbpedia.org/resource/Robert_Knolles
+car park - http://dbpedia.org/resource/Parking_lot
+tq - http://dbpedia.org/resource/TQ_(singer)
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+telephone - http://dbpedia.org/resource/Telephone
+earl - http://dbpedia.org/resource/Earl
+knights - http://dbpedia.org/resource/Knight_of_the_shire
+love - http://dbpedia.org/resource/Love
+french port - http://dbpedia.org/resource/Mask_Singer_(French_TV_series)
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+century building - http://dbpedia.org/resource/Century_Building_(Chicago)
+bodiam - http://dbpedia.org/resource/Bodiam
+character day - http://dbpedia.org/resource/Character_Day
+seal - http://dbpedia.org/resource/Pinniped
+routier - http://dbpedia.org/resource/Routiers
+parliamentarian - http://dbpedia.org/resource/Parliament_of_England
+railway station - http://dbpedia.org/resource/Train_station
+royal household - http://dbpedia.org/resource/Royal_household
+sack - http://dbpedia.org/resource/Looting
+litter - http://dbpedia.org/resource/Litter
+disability - http://dbpedia.org/resource/Disability
+david - http://dbpedia.org/resource/David_II_of_Scotland
+cottage - http://dbpedia.org/resource/Cottage
+christopher allmand - http://dbpedia.org/resource/Christopher_Allmand
+sir hugh calveley - http://dbpedia.org/resource/Hugh_Calveley
+rother - http://dbpedia.org/resource/Rother_District
+fat - http://dbpedia.org/resource/Fat
+ditch - http://dbpedia.org/resource/Moat
+colin - http://dbpedia.org/resource/Large_intestine
+truce - http://dbpedia.org/resource/Armistice
+counties - http://dbpedia.org/resource/County
+fantasy - http://dbpedia.org/resource/Fantasy
+anne - http://dbpedia.org/resource/Anne_Boleyn
+thomas dagworth - http://dbpedia.org/resource/Thomas_Dagworth
+saxon - http://dbpedia.org/resource/Saxons
+brightling - http://dbpedia.org/resource/Brightling
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+medieval - http://dbpedia.org/resource/Middle_Ages
+scotney castle - http://dbpedia.org/resource/Scotney_Castle
+ideal - http://dbpedia.org/resource/Thought_experiment
+manor house - http://dbpedia.org/resource/Manorialism
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+stock - http://dbpedia.org/resource/Livestock
+richard iii - http://dbpedia.org/resource/Richard_III_of_England
+pyramid - http://dbpedia.org/resource/Pyramid
+epitome - http://dbpedia.org/resource/Ab_Urbe_Condita_Libri
+settlement - http://dbpedia.org/resource/Town
+wasin - http://dbpedia.org/resource/Wasin
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+crenellate - http://dbpedia.org/resource/Licence_to_crenellate
+croft - http://dbpedia.org/resource/Crofting
+landscape - http://dbpedia.org/resource/Landscape
+plantagenet - http://dbpedia.org/resource/House_of_Plantagenet
+picardy - http://dbpedia.org/resource/Picardy
+judith - http://dbpedia.org/resource/Book_of_Judith
+moat - http://dbpedia.org/resource/Moat
+security - http://dbpedia.org/resource/Security
+calais - http://dbpedia.org/resource/Calais
+claret - http://dbpedia.org/resource/Bordeaux_wine
+civil war - http://dbpedia.org/resource/English_Civil_War
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+lock - http://dbpedia.org/resource/Lock_and_key
+memory - http://dbpedia.org/resource/Memory
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+handbook - http://dbpedia.org/resource/Handbook
+attaint - http://dbpedia.org/resource/Writ_of_attaint
+embark - http://dbpedia.org/resource/Embark_(transit_authority)
+jackson - http://dbpedia.org/resource/Andrew_Jackson
+medieval england - http://dbpedia.org/resource/Middle_Ages
+thomas lewknor - http://dbpedia.org/resource/Thomas_Lewknor_(MP_for_Midhurst)
+mercenary - http://dbpedia.org/resource/Mercenary
+looting - http://dbpedia.org/resource/Looting
+postern - http://dbpedia.org/resource/Postern
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+general waller - http://dbpedia.org/resource/William_Waller
+william weir - http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir
+hutchinson - http://dbpedia.org/resource/Shaun_Hutchinson
+painting - http://dbpedia.org/resource/Painting
+invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+summer - http://dbpedia.org/resource/Midsummer
+fortress - http://dbpedia.org/resource/Castle
+hat - http://dbpedia.org/resource/Hat
+sussex - http://dbpedia.org/resource/Sussex
+john guy - http://dbpedia.org/resource/John_Guy_(colonial_administrator)
+crecy - http://dbpedia.org/resource/Rolls-Royce_Crecy
+kedleston - http://dbpedia.org/resource/Kedleston
+mount - http://dbpedia.org/resource/Working_animal
+school holiday - http://dbpedia.org/resource/Academic_year
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+nov - http://dbpedia.org/resource/NOV_(gene)
+hastings station - http://dbpedia.org/resource/Hastings_railway_station
+falcon - http://dbpedia.org/resource/Falcon
+east grinstead - http://dbpedia.org/resource/East_Grinstead
+john fuller - http://dbpedia.org/resource/J._F._C._Fuller
+winchelsea - http://dbpedia.org/resource/Winchelsea
+lancastrian - http://dbpedia.org/resource/House_of_Lancaster
+ivy - http://dbpedia.org/resource/Hedera
+bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
+clatter - http://dbpedia.org/resource/Clatter,_Powys
+iron - http://dbpedia.org/resource/Cast_iron
+courtyard castle - http://dbpedia.org/resource/Quadrangular_castle
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+piracy - http://dbpedia.org/resource/Piracy
+gaze - http://dbpedia.org/resource/Gaze
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
+britain - http://dbpedia.org/resource/Roman_Britain
+gate - http://dbpedia.org/resource/Gate
+chicken - http://dbpedia.org/resource/Chicken
+winter - http://dbpedia.org/resource/Tilia
+kent - http://dbpedia.org/resource/Kent
+captain - http://dbpedia.org/resource/Sea_captain
+beauty - http://dbpedia.org/resource/Beauty
+wrist - http://dbpedia.org/resource/Wrist
+caparison - http://dbpedia.org/resource/Caparison
+brest - http://dbpedia.org/resource/Battle_for_Brest
+wheelchair - http://dbpedia.org/resource/Wheelchair
+poitiers - http://dbpedia.org/resource/Battle_of_Poitiers
+ridge - http://dbpedia.org/resource/Ridge
+nobility - http://dbpedia.org/resource/Nobility
+arundel - http://dbpedia.org/resource/Arundel
+parliament - http://dbpedia.org/resource/Parliament_of_England
+bucket - http://dbpedia.org/resource/Bucket
+family - http://dbpedia.org/resource/Family
+gaily - http://dbpedia.org/resource/Gaily_(horse)
+bottle - http://dbpedia.org/resource/Bottle
+manor - http://dbpedia.org/resource/Manorialism
+castle ground - http://dbpedia.org/resource/Castle_Ground
+free companies - http://dbpedia.org/resource/Free_company
+shire - http://dbpedia.org/resource/Shire
+national trust - http://dbpedia.org/resource/National_trust
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+lord ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
+os map - http://dbpedia.org/resource/Ordnance_Survey
+pope - http://dbpedia.org/resource/Pope
+surrey - http://dbpedia.org/resource/Surrey
+restoration architect - http://dbpedia.org/resource/Building_restoration
+rye - http://dbpedia.org/resource/Rye
+hoof - http://dbpedia.org/resource/Hoof
+desmond seward - http://dbpedia.org/resource/Desmond_Seward
+dog - http://dbpedia.org/resource/Dog
+havoc - http://dbpedia.org/resource/June_Havoc
+claw - http://dbpedia.org/resource/Claw
+bertrand du guesclin - http://dbpedia.org/resource/Bertrand_du_Guesclin
+church - http://dbpedia.org/resource/Catholic_Church
+time book - http://dbpedia.org/resource/Time_book
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+governor - http://dbpedia.org/resource/Governor
+restaurant - http://dbpedia.org/resource/Restaurant
+folly - http://dbpedia.org/resource/Folly
+hastings - http://dbpedia.org/resource/Hastings
+barbican - http://dbpedia.org/resource/Barbican
+tower - http://dbpedia.org/resource/Keep

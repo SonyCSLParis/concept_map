@@ -1,0 +1,72 @@
+system call - http://dbpedia.org/resource/System_call
+ideal - http://dbpedia.org/resource/Theory_of_forms
+romans - http://dbpedia.org/resource/Romans_(musician)
+roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+nova roma - http://dbpedia.org/resource/New_Rome
+milvian bridge - http://dbpedia.org/resource/Ponte_Milvio
+eastern empire - http://dbpedia.org/resource/Byzantine_Empire
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+christianity - http://dbpedia.org/resource/Christianity
+soldier - http://dbpedia.org/resource/Soldier
+silver - http://dbpedia.org/resource/Silver
+exclaim - http://dbpedia.org/resource/Exclaim!
+western roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+eastern emperor - http://dbpedia.org/resource/Byzantine_Empire
+ottoman turks - http://dbpedia.org/resource/Ottoman_Turks
+die - http://dbpedia.org/resource/Death
+byzantines - http://dbpedia.org/resource/Byzantium
+augustus - http://dbpedia.org/resource/Augustus
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+emperor - http://dbpedia.org/resource/Roman_emperor
+greek town - http://dbpedia.org/resource/Greektown
+colored stone - http://dbpedia.org/resource/Gemstone
+glass - http://dbpedia.org/resource/Roman_glass
+priest - http://dbpedia.org/resource/Presbyter
+mosaic - http://dbpedia.org/resource/Mosaic
+solomon - http://dbpedia.org/resource/Solomon
+western christianity - http://dbpedia.org/resource/Western_Christianity
+milan - http://dbpedia.org/resource/Milan
+byzantine empire - http://dbpedia.org/resource/Byzantium
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
+rome - http://dbpedia.org/resource/Roman_Empire
+pope - http://dbpedia.org/resource/Pope
+constantinople - http://dbpedia.org/resource/Constantinople
+eastern orthodox church - http://dbpedia.org/resource/Eastern_Orthodox_Church
+roman emperor - http://dbpedia.org/resource/Roman_emperor
+legend - http://dbpedia.org/resource/Hagiography
+theodora - http://dbpedia.org/resource/Theodora_of_Khazaria
+roman philosophy - http://dbpedia.org/resource/Western_philosophy
+nicaea - http://dbpedia.org/resource/Nicaea
+god - http://dbpedia.org/resource/God
+western europe - http://dbpedia.org/resource/Western_Roman_Empire
+gold - http://dbpedia.org/resource/Gold
+byzantium - http://dbpedia.org/resource/Byzantium
+city - http://dbpedia.org/resource/City
+invasion - http://dbpedia.org/resource/Invasion
+east west - http://dbpedia.org/resource/East_West_Records
+religious art - http://dbpedia.org/resource/Religious_art
+ancient greek - http://dbpedia.org/resource/Ancient_Greek
+root - http://dbpedia.org/resource/Semitic_root
+maxentius - http://dbpedia.org/resource/Maxentius
+sparkle - http://dbpedia.org/resource/Sparkle_(1976_film)
+mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
+justinian code - http://dbpedia.org/resource/Corpus_Juris_Civilis
+great power - http://dbpedia.org/resource/Great_power
+judge - http://dbpedia.org/resource/Qadi
+roman - http://dbpedia.org/resource/Roman_Empire
+western society - http://dbpedia.org/resource/Western_world
+edict - http://dbpedia.org/resource/Edict
+christian church - http://dbpedia.org/resource/Christianity
+prepare - http://dbpedia.org/resource/PREPARE
+senate - http://dbpedia.org/resource/Roman_Senate
+merchant - http://dbpedia.org/resource/Merchant
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+barbarian - http://dbpedia.org/resource/Barbarian
+law - http://dbpedia.org/resource/Roman_law
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+church - http://dbpedia.org/resource/Christian_Church
+dome - http://dbpedia.org/resource/Dome
+persians - http://dbpedia.org/resource/Sasanian_Empire
+latin - http://dbpedia.org/resource/Latin

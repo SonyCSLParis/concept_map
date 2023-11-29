@@ -1,0 +1,251 @@
+authoritarian - http://dbpedia.org/resource/Authoritarianism
+innovation - http://dbpedia.org/resource/Innovation
+weimar constitution - http://dbpedia.org/resource/Weimar_Constitution
+freedom child - http://dbpedia.org/resource/Freedom_Child
+federal congress - http://dbpedia.org/resource/Congress_of_the_Union
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+expression - http://dbpedia.org/resource/Freedom_of_speech
+liberal - http://dbpedia.org/resource/Liberalism
+education - http://dbpedia.org/resource/Education
+article 101 - http://dbpedia.org/resource/Article_101_of_the_Treaty_on_the_Functioning_of_the_European_Union
+monarchical - http://dbpedia.org/resource/Monarchy
+brazilian citizen - http://dbpedia.org/resource/Brazilian_nationality_law
+enlightenment - http://dbpedia.org/resource/Age_of_Enlightenment
+1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
+supremo tribunal federal - http://dbpedia.org/resource/Supreme_Federal_Court
+josé sarney - http://dbpedia.org/resource/José_Sarney
+germany - http://dbpedia.org/resource/Weimar_Republic
+bear - http://dbpedia.org/resource/Market_trend
+golden law - http://dbpedia.org/resource/Lei_Áurea
+brazilian history - http://dbpedia.org/resource/History_of_Brazil
+exile - http://dbpedia.org/resource/Exile
+cabinet - http://dbpedia.org/resource/Government_of_Austria
+article 48 - http://dbpedia.org/resource/Article_48_(Weimar_Constitution)
+central government - http://dbpedia.org/resource/Government_of_Spain
+federalism - http://dbpedia.org/resource/Federalism
+trigger - http://dbpedia.org/resource/Hypnosis
+strain - http://dbpedia.org/resource/Cannabis_strains
+rui barbosa - http://dbpedia.org/resource/Ruy_Barbosa
+brazilian people - http://dbpedia.org/resource/Brazilians
+indirect election - http://dbpedia.org/resource/Indirect_election
+1937 constitution - http://dbpedia.org/resource/Constitution_of_Ireland
+vice president - http://dbpedia.org/resource/Vice_President_of_Brazil
+appellate court - http://dbpedia.org/resource/Appellate_court
+american constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+xxxv - http://dbpedia.org/resource/Super_Bowl_XXXV
+disorder - http://dbpedia.org/resource/Public-order_crime
+sacred - http://dbpedia.org/resource/Sacred
+ante - http://dbpedia.org/resource/Betting_in_poker
+emperor - http://dbpedia.org/resource/Emperor_of_Japan
+statute - http://dbpedia.org/resource/Statute
+social law - http://dbpedia.org/resource/Social_law
+brazil - http://dbpedia.org/resource/Brazil
+silva - http://dbpedia.org/resource/SILVA_ribosomal_RNA_database
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+constitutional convention - http://dbpedia.org/resource/Constitution_of_Indiana
+equity - http://dbpedia.org/resource/Justice
+jurist - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+organizational structure - http://dbpedia.org/resource/Organizational_structure
+judge - http://dbpedia.org/resource/Judge
+legislative power - http://dbpedia.org/resource/Legislature
+saldanha marinho - http://dbpedia.org/resource/Saldanha_Marinho
+crown prince - http://dbpedia.org/resource/Gustav_III_of_Sweden
+waterfall country - http://dbpedia.org/resource/Waterfall_Country_(Wales)
+code - http://dbpedia.org/resource/Code_of_law
+justification - http://dbpedia.org/resource/Defamation
+king joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+military regime - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
+unitary - http://dbpedia.org/resource/Unitary_state
+centralized government - http://dbpedia.org/resource/Centralized_government
+intensify - http://dbpedia.org/resource/Intensify
+military dictatorship - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
+gran - http://dbpedia.org/resource/GERAN
+freedom - http://dbpedia.org/resource/Liberty
+umbrella - http://dbpedia.org/resource/Umbrella_organization
+welfare - http://dbpedia.org/resource/Welfare_state
+nationalization - http://dbpedia.org/resource/Nationalization
+rio - http://dbpedia.org/resource/Rio_(windowing_system)
+constitution - http://dbpedia.org/resource/Constitution
+coup - http://dbpedia.org/resource/Spanish_coup_of_July_1936
+comparative law - http://dbpedia.org/resource/Comparative_law
+outlaw - http://dbpedia.org/resource/Outlaw
+brazilian law - http://dbpedia.org/resource/Law_of_Brazil
+democracy - http://dbpedia.org/resource/Democracy
+habeas corpus - http://dbpedia.org/resource/Judicial_review
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+executive branch - http://dbpedia.org/resource/Federal_government_of_the_United_States
+1946 constitution - http://dbpedia.org/resource/Constitution_of_Japan
+constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
+february 21 - http://dbpedia.org/resource/February_21
+ai - http://dbpedia.org/resource/Artificial_intelligence
+brazilian constitution - http://dbpedia.org/resource/Constitution_of_Brazil
+pressure - http://dbpedia.org/resource/Pressure
+brazilian nobility - http://dbpedia.org/resource/Brazilian_nobility
+global economic crisis - http://dbpedia.org/resource/Great_Depression
+peace - http://dbpedia.org/resource/Peace
+magna carta - http://dbpedia.org/resource/Magna_Carta
+brazilin - http://dbpedia.org/resource/Brazilin
+constitution project - http://dbpedia.org/resource/Constitution_Project
+bicameral - http://dbpedia.org/resource/Bicameralism
+governo - http://dbpedia.org/resource/Governo
+october 5 - http://dbpedia.org/resource/October_5
+radical - http://dbpedia.org/resource/Political_radicalism
+import - http://dbpedia.org/resource/International_trade
+conformity - http://dbpedia.org/resource/Conformity
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+subsoil - http://dbpedia.org/resource/Subsoil
+1932 constitutionalist revolution - http://dbpedia.org/resource/Constitutionalist_Revolution
+american civil war - http://dbpedia.org/resource/American_Civil_War
+military step - http://dbpedia.org/resource/Military_step
+equality - http://dbpedia.org/resource/Equality_before_the_law
+1988 constitution - http://dbpedia.org/resource/Constitution_of_Brazil
+mayor - http://dbpedia.org/resource/Mayor
+napoleon - http://dbpedia.org/resource/Napoleon
+liberty - http://dbpedia.org/resource/Liberty
+senado federal - http://dbpedia.org/resource/Federal_Senate
+constitutional monarchy - http://dbpedia.org/resource/Constitutional_monarchy
+law - http://dbpedia.org/resource/Law
+criminal code - http://dbpedia.org/resource/Criminal_law
+lei áurea - http://dbpedia.org/resource/Lei_Áurea
+vacuum - http://dbpedia.org/resource/Vacuum
+military coup - http://dbpedia.org/resource/Coup_d'état
+independent - http://dbpedia.org/resource/Independence
+humberto de alencar castelo branco - http://dbpedia.org/resource/Humberto_de_Alencar_Castelo_Branco
+social policy - http://dbpedia.org/resource/Catholic_social_teaching
+safety - http://dbpedia.org/resource/Safety
+ai-5 - http://dbpedia.org/resource/Institutional_Act_Number_Five
+prevalence - http://dbpedia.org/resource/Prevalence
+montesquieu - http://dbpedia.org/resource/Montesquieu
+revolutionary - http://dbpedia.org/resource/French_Revolution
+politician - http://dbpedia.org/resource/Politics
+amendment - http://dbpedia.org/resource/Law
+civil liberty - http://dbpedia.org/resource/Civil_liberties
+modernity - http://dbpedia.org/resource/Age_of_Enlightenment
+living constitution - http://dbpedia.org/resource/Living_Constitution
+decree - http://dbpedia.org/resource/Decree
+framer - http://dbpedia.org/resource/Framer
+executive power - http://dbpedia.org/resource/Government_of_Spain
+decentralization - http://dbpedia.org/resource/Decentralization
+1891 constitution - http://dbpedia.org/resource/History_of_the_Constitution_of_Brazil
+1930 revolution - http://dbpedia.org/resource/Brazilian_Revolution_of_1930
+elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+upper class - http://dbpedia.org/resource/Bourgeoisie
+constitutional court - http://dbpedia.org/resource/Federal_Constitutional_Court
+military government - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
+impose - http://dbpedia.org/resource/Impose_(magazine)
+dichotomous - http://dbpedia.org/resource/Dichotomy
+economy - http://dbpedia.org/resource/Economy
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+liberal democracy - http://dbpedia.org/resource/Liberal_democracy
+judicial branch - http://dbpedia.org/resource/Judiciary
+congresso nacional - http://dbpedia.org/resource/National_Congress_of_Brazil
+republican - http://dbpedia.org/resource/Republicanism
+imitation - http://dbpedia.org/resource/Mimesis
+armed force - http://dbpedia.org/resource/Military
+centralist constitution - http://dbpedia.org/resource/Argentine_Constitution_of_1819
+império - http://dbpedia.org/resource/Cult_of_the_Holy_Spirit
+french restoration - http://dbpedia.org/resource/Bourbon_Restoration
+liberal democratic - http://dbpedia.org/resource/Liberal_democracy
+presidential - http://dbpedia.org/resource/Presidential_system
+constitutionalist revolution - http://dbpedia.org/resource/Liberal_Revolution_of_1820
+election - http://dbpedia.org/resource/Election
+individual liberty - http://dbpedia.org/resource/Liberty
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+final draft - http://dbpedia.org/resource/Marathi_theatre
+vargas - http://dbpedia.org/resource/Varga_(astrology)
+eurico gaspar dutra - http://dbpedia.org/resource/Eurico_Gaspar_Dutra
+1969 constitution - http://dbpedia.org/resource/Gibraltar_Constitution_Order_1969
+reflection - http://dbpedia.org/resource/Self-reflection
+preamble - http://dbpedia.org/resource/Preamble
+national security law - http://dbpedia.org/resource/National_Security_Law_of_the_United_States
+provisional government - http://dbpedia.org/resource/Provisional_government
+national constituent assembly - http://dbpedia.org/resource/Constituent_assembly
+república velha - http://dbpedia.org/resource/First_Brazilian_Republic
+agrarian - http://dbpedia.org/resource/Agrarianism
+moderator - http://dbpedia.org/resource/Chairperson
+brazilian congress - http://dbpedia.org/resource/National_Congress_of_Brazil
+city - http://dbpedia.org/resource/City
+presidential system - http://dbpedia.org/resource/Presidential_system
+light - http://dbpedia.org/resource/Speed_of_light
+aspiration - http://dbpedia.org/resource/Lung
+press law - http://dbpedia.org/resource/Freedom_of_the_press
+parliament - http://dbpedia.org/resource/Parliament
+presidential government - http://dbpedia.org/resource/Presidential_system
+semantic - http://dbpedia.org/resource/Semantics
+senator - http://dbpedia.org/resource/Senate
+democratic - http://dbpedia.org/resource/Democracy
+secret ballot - http://dbpedia.org/resource/Secret_ballot
+communist party - http://dbpedia.org/resource/Communism
+1934 constitution - http://dbpedia.org/resource/History_of_the_Constitution_of_Brazil
+independence - http://dbpedia.org/resource/Independence
+religion - http://dbpedia.org/resource/Freedom_of_religion
+lisbon - http://dbpedia.org/resource/Lisbon
+president - http://dbpedia.org/resource/President_of_Mexico
+fourth branch - http://dbpedia.org/resource/Four_Branches_of_the_Mabinogi
+u.s. constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+historian - http://dbpedia.org/resource/History
+culture - http://dbpedia.org/resource/Culture
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+eusébio de queirós - http://dbpedia.org/resource/Eusébio_de_Queirós
+portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
+u.s. supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_States
+ideal - http://dbpedia.org/resource/Theory_of_forms
+deconstruct - http://dbpedia.org/resource/Deconstruction
+extinction - http://dbpedia.org/resource/Human_extinction
+role model - http://dbpedia.org/resource/Role_model
+infiltration - http://dbpedia.org/resource/Espionage
+republican government - http://dbpedia.org/resource/First_Brazilian_Republic
+getúlio vargas - http://dbpedia.org/resource/Getúlio_Vargas
+american style - http://dbpedia.org/resource/Ballroom_dance
+family - http://dbpedia.org/resource/Family
+monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+friction - http://dbpedia.org/resource/Friction
+national identity - http://dbpedia.org/resource/Nation_state
+classical - http://dbpedia.org/resource/Classicism
+dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
+strike - http://dbpedia.org/resource/General_strike
+compulsory voting - http://dbpedia.org/resource/Compulsory_voting
+government intervention - http://dbpedia.org/resource/Economic_interventionism
+absolutist - http://dbpedia.org/resource/Absolute_monarchy
+brazilian army - http://dbpedia.org/resource/Brazilian_Army
+judiciary - http://dbpedia.org/resource/Judiciary
+civil code - http://dbpedia.org/resource/Civil_code
+article - http://dbpedia.org/resource/Falklands_War
+chamber - http://dbpedia.org/resource/Legislative_chamber
+death penalty - http://dbpedia.org/resource/Capital_punishment
+draft - http://dbpedia.org/resource/Conscription
+prince pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
+dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+imperial constitution - http://dbpedia.org/resource/Constitution_of_the_German_Empire
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+fascist - http://dbpedia.org/resource/Fascism
+thin ideal - http://dbpedia.org/resource/The_Thin_Ideal
+estado novo - http://dbpedia.org/resource/Vargas_Era
+radio - http://dbpedia.org/resource/Radio
+constituent assembly - http://dbpedia.org/resource/Constituent_assembly
+judicial reform - http://dbpedia.org/resource/Judicial_reform
+1967 constitution - http://dbpedia.org/resource/History_of_the_Constitution_of_Brazil
+estados unidos - http://dbpedia.org/resource/United_States
+livre - http://dbpedia.org/resource/French_livre
+minas gerais - http://dbpedia.org/resource/Minas_Gerais
+noble - http://dbpedia.org/resource/Nobility
+junta - http://dbpedia.org/resource/Military_dictatorship
+substantive law - http://dbpedia.org/resource/Substantive_law
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+conscience - http://dbpedia.org/resource/Freedom_of_religion
+president elect - http://dbpedia.org/resource/-elect
+governor - http://dbpedia.org/resource/Governor
+north america - http://dbpedia.org/resource/North_America
+federal court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+mandate - http://dbpedia.org/resource/Mandate_of_Heaven
+domestic policy - http://dbpedia.org/resource/Domestic_policy
+federal government - http://dbpedia.org/resource/Federation
+senate - http://dbpedia.org/resource/Senate
+experiment - http://dbpedia.org/resource/Experiment
+republican constitution - http://dbpedia.org/resource/Constitution_of_India
+concentration - http://dbpedia.org/resource/Nazi_concentration_camps
+industrialization - http://dbpedia.org/resource/Industrialisation
+slavery - http://dbpedia.org/resource/Slavery
+censorship - http://dbpedia.org/resource/Censorship
+olinda - http://dbpedia.org/resource/Olinda
+slave - http://dbpedia.org/resource/Slavery

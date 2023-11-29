@@ -1,0 +1,77 @@
+rebellion - http://dbpedia.org/resource/Monmouth_Rebellion
+stucco - http://dbpedia.org/resource/Stucco
+alderman - http://dbpedia.org/resource/Alderman
+project wing - http://dbpedia.org/resource/X_(company)
+coleraine - http://dbpedia.org/resource/Coleraine
+moate - http://dbpedia.org/resource/Moate
+sunlight - http://dbpedia.org/resource/Sunlight
+waltheof - http://dbpedia.org/resource/Waltheof_of_Allerdale
+coat - http://dbpedia.org/resource/Fur
+jacobean style - http://dbpedia.org/resource/Jacobean_architecture
+marvel - http://dbpedia.org/resource/Marvel_Comics
+earl - http://dbpedia.org/resource/Earl
+thomas penniston - http://dbpedia.org/resource/Thomas_Penniston
+flap - http://dbpedia.org/resource/Split-flap_display
+penny post - http://dbpedia.org/resource/Penny_Post
+huntingdon - http://dbpedia.org/resource/Earl_of_Huntingdon
+gothic - http://dbpedia.org/resource/Gothic_architecture
+saxon - http://dbpedia.org/resource/Saxons
+ancient document - http://dbpedia.org/resource/Ancient_document
+sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
+latin america - http://dbpedia.org/resource/Latin_America
+1516 henry - http://dbpedia.org/resource/1516_Henry
+lordship - http://dbpedia.org/resource/Manorialism
+gable - http://dbpedia.org/resource/Gable
+judge - http://dbpedia.org/resource/Senator_of_the_College_of_Justice
+broadwater - http://dbpedia.org/resource/Stevenage
+judith - http://dbpedia.org/resource/Book_of_Judith
+decidedly - http://dbpedia.org/resource/Decidedly
+root - http://dbpedia.org/resource/Root
+driveway - http://dbpedia.org/resource/Driveway
+white hart lane - http://dbpedia.org/resource/White_Hart_Lane_railway_station
+henry - http://dbpedia.org/resource/Henry_(unit)
+function - http://dbpedia.org/resource/Subroutine
+carriage - http://dbpedia.org/resource/Carriage
+earldom - http://dbpedia.org/resource/Earl
+moonlight - http://dbpedia.org/resource/Moonlight
+david - http://dbpedia.org/resource/David_I_of_Scotland
+corporal punishment - http://dbpedia.org/resource/Corporal_punishment
+falcon - http://dbpedia.org/resource/Falcon
+elevation view - http://dbpedia.org/resource/Architectural_drawing
+lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
+bruis - http://dbpedia.org/resource/Bruis
+townsend - http://dbpedia.org/resource/Chesham
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+façade - http://dbpedia.org/resource/Facade
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+sequester - http://dbpedia.org/resource/United_States_budget_sequestration_in_2013
+baron - http://dbpedia.org/resource/English_feudal_barony
+crenellation - http://dbpedia.org/resource/Battlement
+gate - http://dbpedia.org/resource/Gate
+classical - http://dbpedia.org/resource/Classical_architecture
+tottenham - http://dbpedia.org/resource/Tottenham
+taste - http://dbpedia.org/resource/Wine_tasting
+turret - http://dbpedia.org/resource/Turret
+magnate - http://dbpedia.org/resource/Magnate
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+georgian england - http://dbpedia.org/resource/Georgian_era
+observation - http://dbpedia.org/resource/Observation_tower
+family - http://dbpedia.org/resource/Family
+manor - http://dbpedia.org/resource/Manorialism
+tudor - http://dbpedia.org/resource/Tudor_period
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+century house - http://dbpedia.org/resource/Century_House,_London
+teaching method - http://dbpedia.org/resource/Pedagogy
+map - http://dbpedia.org/resource/Map
+rowland hill - http://dbpedia.org/resource/Rowland_Hill
+iron - http://dbpedia.org/resource/Wrought_iron
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+church - http://dbpedia.org/resource/Church_architecture
+henry hare - http://dbpedia.org/resource/Henry_Hare
+norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+treason - http://dbpedia.org/resource/Treason
+manor house - http://dbpedia.org/resource/Manor_house
+romantic - http://dbpedia.org/resource/Romanticism
+tower - http://dbpedia.org/resource/Keep
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+robert bruce - http://dbpedia.org/resource/Robert_the_Bruce

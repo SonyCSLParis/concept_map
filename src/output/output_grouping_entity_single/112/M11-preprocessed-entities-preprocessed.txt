@@ -1,0 +1,33 @@
+human animal - http://dbpedia.org/resource/Human_Animal
+monastery - http://dbpedia.org/resource/Monastery
+insular art - http://dbpedia.org/resource/Insular_art
+interlace - http://dbpedia.org/resource/Celtic_knot
+insular illumination - http://dbpedia.org/resource/Insular_illumination
+bible - http://dbpedia.org/resource/Bible
+collegiate university - http://dbpedia.org/resource/Collegiate_university
+pinnacle - http://dbpedia.org/resource/Pinnacle
+gospel book - http://dbpedia.org/resource/Gospel_Book
+ancient university - http://dbpedia.org/resource/Ancient_university
+western calligraphy - http://dbpedia.org/resource/Calligraphy
+gospels - http://dbpedia.org/resource/Gospel
+vulgate - http://dbpedia.org/resource/Vulgate
+imbue - http://dbpedia.org/resource/Imbue
+vetus latina - http://dbpedia.org/resource/Vetus_Latina
+trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
+ireland - http://dbpedia.org/resource/Ireland
+christian iconography - http://dbpedia.org/resource/Iconography
+celtic knot - http://dbpedia.org/resource/Celtic_knot
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+britain - http://dbpedia.org/resource/Great_Britain
+mythical beast - http://dbpedia.org/resource/Legendary_creature
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin_American_Football
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+motif - http://dbpedia.org/resource/Motif-Index_of_Folk-Literature
+christian symbolism - http://dbpedia.org/resource/Christian_symbolism
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+national treasure - http://dbpedia.org/resource/National_treasure
+cambridge - http://dbpedia.org/resource/University_of_Cambridge
+constituent college - http://dbpedia.org/resource/Collegiate_university
+trinity - http://dbpedia.org/resource/Trinity
+latin - http://dbpedia.org/resource/Latin

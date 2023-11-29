@@ -1,0 +1,35 @@
+lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
+romans - http://dbpedia.org/resource/Romans_(musician)
+november 22nd - http://dbpedia.org/resource/November_22
+lowther - http://dbpedia.org/resource/River_Lowther
+robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+stone - http://dbpedia.org/resource/Stonemasonry
+medieval - http://dbpedia.org/resource/Middle_Ages
+coin - http://dbpedia.org/resource/Roman_currency
+north south - http://dbpedia.org/resource/North_South_MRT_line
+defence - http://dbpedia.org/resource/Military
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+anglo - http://dbpedia.org/resource/Anglo
+north england - http://dbpedia.org/resource/Northern_England
+scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+johns - http://dbpedia.org/resource/Prostitution
+east west - http://dbpedia.org/resource/East_West_MRT_line
+earthwork - http://dbpedia.org/resource/Fortification
+castle bailey - http://dbpedia.org/resource/Bailey_(castle)
+forge - http://dbpedia.org/resource/Forge
+brocavum - http://dbpedia.org/resource/Brocavum
+fort - http://dbpedia.org/resource/Castra
+gatehouse - http://dbpedia.org/resource/Gatehouse
+timber - http://dbpedia.org/resource/Timber_framing
+eamont - http://dbpedia.org/resource/River_Eamont
+build order - http://dbpedia.org/resource/Build_order
+river eamont - http://dbpedia.org/resource/River_Eamont
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+sack - http://dbpedia.org/resource/Looting
+roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+tower - http://dbpedia.org/resource/Keep
+swift - http://dbpedia.org/resource/Swift

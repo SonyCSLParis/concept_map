@@ -1,0 +1,39 @@
+seditious libel - http://dbpedia.org/resource/Seditious_libel
+sedition - http://dbpedia.org/resource/Sedition
+john adams - http://dbpedia.org/resource/John_Adams
+adams - http://dbpedia.org/resource/John_Adams
+amendment - http://dbpedia.org/resource/Constitutional_amendment
+prior restraint - http://dbpedia.org/resource/Prior_restraint
+british government - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+expression - http://dbpedia.org/resource/Freedom_of_speech
+freedom press - http://dbpedia.org/resource/Freedom_Press
+petition - http://dbpedia.org/resource/Petition
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
+james madison - http://dbpedia.org/resource/James_Madison
+american british - http://dbpedia.org/resource/Americans_in_the_United_Kingdom
+leonard levy - http://dbpedia.org/resource/Leonard_Levy
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+madison - http://dbpedia.org/resource/Madison_(cycling)
+grievance - http://dbpedia.org/resource/Grievance
+language - http://dbpedia.org/resource/Language
+free speech - http://dbpedia.org/resource/Freedom_of_speech
+american constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+irony - http://dbpedia.org/resource/Irony
+president - http://dbpedia.org/resource/President_of_the_United_States
+federalists - http://dbpedia.org/resource/Federalist_Party
+outline - http://dbpedia.org/resource/Nutrition
+ploy - http://dbpedia.org/resource/Ploy
+common good - http://dbpedia.org/resource/Common_good
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+conscience - http://dbpedia.org/resource/Freedom_of_religion
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+u.s. congress - http://dbpedia.org/resource/United_States_Congress
+freedom - http://dbpedia.org/resource/Freedom_of_the_press
+short sighted - http://dbpedia.org/resource/Near-sightedness
+religion - http://dbpedia.org/resource/Freedom_of_religion
+law - http://dbpedia.org/resource/Common_law
+toe - http://dbpedia.org/resource/Toe
+britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain

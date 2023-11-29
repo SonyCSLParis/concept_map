@@ -1,0 +1,263 @@
+heritage - http://dbpedia.org/resource/Cultural_heritage
+heritage - http://dbpedia.org/resource/Cultural_heritage
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+archipelago - http://dbpedia.org/resource/Archipelago
+equator - http://dbpedia.org/resource/Equator
+millennia - http://dbpedia.org/resource/Millennium
+civilization - http://dbpedia.org/resource/Civilization
+golden age - http://dbpedia.org/resource/Golden_Age
+buddhism - http://dbpedia.org/resource/Buddhism
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage list - http://dbpedia.org/resource/New_South_Wales_Heritage_Database
+candi borobudur - http://dbpedia.org/resource/Borobudur
+prambanan - http://dbpedia.org/resource/Prambanan
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+muntilan - http://dbpedia.org/resource/Muntilan
+village - http://dbpedia.org/resource/Village
+magelang regency - http://dbpedia.org/resource/Magelang_Regency
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+central java - http://dbpedia.org/resource/Central_Java
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+pawon - http://dbpedia.org/resource/Pawon
+mendut - http://dbpedia.org/resource/Mendut
+monument - http://dbpedia.org/resource/Monument
+candi borobudur - http://dbpedia.org/resource/Borobudur
+prambanan - http://dbpedia.org/resource/Prambanan
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+architecture - http://dbpedia.org/resource/Architecture
+indigenous - http://dbpedia.org/resource/Indigenous_peoples
+ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
+buddhist - http://dbpedia.org/resource/Buddhism
+nirvana - http://dbpedia.org/resource/Nirvana
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+meter - http://dbpedia.org/resource/Measuring_instrument
+relief - http://dbpedia.org/resource/Relief
+buddha statue - http://dbpedia.org/resource/Buddharupa
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+ensemble - http://dbpedia.org/resource/Numerical_weather_prediction
+monument - http://dbpedia.org/resource/Monument
+tourism - http://dbpedia.org/resource/Tourism
+pressure - http://dbpedia.org/resource/Pressure
+hinterland - http://dbpedia.org/resource/Hinterland
+cassel - http://dbpedia.org/resource/Kassel
+heritage - http://dbpedia.org/resource/Cultural_heritage
+human - http://dbpedia.org/resource/Human_rights
+decay - http://dbpedia.org/resource/Decomposition
+resemble - http://dbpedia.org/resource/SoltyRei
+stone - http://dbpedia.org/resource/Masonry
+unsupervised - http://dbpedia.org/resource/Unsupervised_learning
+eruption - http://dbpedia.org/resource/Volcano
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+acidic - http://dbpedia.org/resource/PH
+pressure - http://dbpedia.org/resource/Pressure
+tourism management - http://dbpedia.org/resource/Hospitality_management_studies
+borobudur - http://dbpedia.org/resource/Borobudur
+heritage conservation - http://dbpedia.org/resource/Historic_preservation
+culture - http://dbpedia.org/resource/Culture
+creative economy - http://dbpedia.org/resource/Creative_industries
+candi borobudur - http://dbpedia.org/resource/Borobudur
+prambanan - http://dbpedia.org/resource/Prambanan
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+local government - http://dbpedia.org/resource/Local_government
+magelang regency - http://dbpedia.org/resource/Magelang_Regency
+central java - http://dbpedia.org/resource/Central_Java
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+ecosystem - http://dbpedia.org/resource/Ecosystem
+ecotourism - http://dbpedia.org/resource/Ecotourism
+public private partnership - http://dbpedia.org/resource/Public–private_partnership
+feasibility study - http://dbpedia.org/resource/Feasibility_study
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+community development program - http://dbpedia.org/resource/Community_development
+compound - http://dbpedia.org/resource/Chemical_compound
+heritage - http://dbpedia.org/resource/Cultural_heritage
+entrepreneurship - http://dbpedia.org/resource/Entrepreneurship
+handicraft - http://dbpedia.org/resource/Handicraft
+cassel - http://dbpedia.org/resource/Kassel
+guinness - http://dbpedia.org/resource/Guinness_World_Records
+single - http://dbpedia.org/resource/Single_person
+buddhist - http://dbpedia.org/resource/Buddhism
+monument - http://dbpedia.org/resource/Monument
+remarkable - http://dbpedia.org/resource/ReMarkable
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+celebrity endorsement - http://dbpedia.org/resource/Testimonial
+maria sharapova - http://dbpedia.org/resource/Maria_Sharapova
+richard gere - http://dbpedia.org/resource/Richard_Gere
+sir thomas stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+heritage - http://dbpedia.org/resource/Cultural_heritage
+komodo - http://dbpedia.org/resource/Komodo_dragon
+endemic - http://dbpedia.org/resource/Endemism
+endangered - http://dbpedia.org/resource/Endangered_species
+specie - http://dbpedia.org/resource/Money
+planet - http://dbpedia.org/resource/Earth
+komodo dragon - http://dbpedia.org/resource/Komodo_dragon
+varanus komodoensis - http://dbpedia.org/resource/Komodo_dragon
+lizard - http://dbpedia.org/resource/Monitor_lizard
+komodo - http://dbpedia.org/resource/Komodo_dragon
+rinca - http://dbpedia.org/resource/Rinca
+padar - http://dbpedia.org/resource/Padar,_Indonesia
+gili motang - http://dbpedia.org/resource/Gili_Motang
+kode - http://dbpedia.org/resource/Kode
+small island - http://dbpedia.org/resource/Small_Island_(novel)
+terrestrial - http://dbpedia.org/resource/Ecoregion
+conservation - http://dbpedia.org/resource/Conservation_biology
+specie - http://dbpedia.org/resource/Money
+endemic - http://dbpedia.org/resource/Endemism
+marine life - http://dbpedia.org/resource/Marine_life
+fish - http://dbpedia.org/resource/Fishery
+coral sea - http://dbpedia.org/resource/Coral_Sea
+mammal - http://dbpedia.org/resource/Mammal
+east nusa tenggara - http://dbpedia.org/resource/East_Nusa_Tenggara
+sumbawa - http://dbpedia.org/resource/Sumbawa
+flore - http://dbpedia.org/resource/Flora_(mythology)
+marine protected area - http://dbpedia.org/resource/Marine_protected_area
+komodo dragon - http://dbpedia.org/resource/Komodo_dragon
+biodiversity - http://dbpedia.org/resource/Biodiversity
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+whs - http://dbpedia.org/resource/World_Heritage_Site
+village - http://dbpedia.org/resource/Village
+rely - http://dbpedia.org/resource/Rely_(brand)
+fish - http://dbpedia.org/resource/Fishery
+main source - http://dbpedia.org/resource/Main_Source
+walpole - http://dbpedia.org/resource/Robert_Walpole
+tourism - http://dbpedia.org/resource/Tourism
+komodo national park - http://dbpedia.org/resource/Komodo_National_Park
+tourism - http://dbpedia.org/resource/Tourism
+tourism - http://dbpedia.org/resource/Tourism
+walpole - http://dbpedia.org/resource/Robert_Walpole
+tourism - http://dbpedia.org/resource/Tourism
+conservation - http://dbpedia.org/resource/Conservation_biology
+tourism - http://dbpedia.org/resource/Tourism
+heritage - http://dbpedia.org/resource/Cultural_heritage
+tourism - http://dbpedia.org/resource/Tourism
+cassel - http://dbpedia.org/resource/Kassel
+market - http://dbpedia.org/resource/Market_economy
+knp - http://dbpedia.org/resource/Koalisyon_ng_Nagkakaisang_Pilipino
+tourism - http://dbpedia.org/resource/Tourism
+ladkin - http://dbpedia.org/resource/Ladkin
+fletcher - http://dbpedia.org/resource/Fletching
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+contradiction - http://dbpedia.org/resource/Contradiction
+conservationist - http://dbpedia.org/resource/Conservation_biology
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+conservation - http://dbpedia.org/resource/Conservation_biology
+cassel - http://dbpedia.org/resource/Kassel
+commercialization - http://dbpedia.org/resource/Commercialization
+stakeholder - http://dbpedia.org/resource/Project_stakeholder
+tourism - http://dbpedia.org/resource/Tourism
+komodo - http://dbpedia.org/resource/Komodo_dragon
+lizard - http://dbpedia.org/resource/Monitor_lizard
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+komodo - http://dbpedia.org/resource/Komodo_dragon
+monitor - http://dbpedia.org/resource/Monitor_lizard
+prey - http://dbpedia.org/resource/Predation
+species - http://dbpedia.org/resource/Species
+stock - http://dbpedia.org/resource/Livestock
+single - http://dbpedia.org/resource/Single_person
+fishing - http://dbpedia.org/resource/Fishery
+fish bomb - http://dbpedia.org/resource/Blast_fishing
+poisonous - http://dbpedia.org/resource/Poison
+forestry - http://dbpedia.org/resource/Forestry
+knp - http://dbpedia.org/resource/Koalisyon_ng_Nagkakaisang_Pilipino
+empowerment - http://dbpedia.org/resource/Empowerment
+education - http://dbpedia.org/resource/Education
+tourism - http://dbpedia.org/resource/Tourism
+komodo dragon - http://dbpedia.org/resource/Komodo_dragon
+knp - http://dbpedia.org/resource/Koalisyon_ng_Nagkakaisang_Pilipino
+market - http://dbpedia.org/resource/Market_economy
+heritage - http://dbpedia.org/resource/Cultural_heritage
+7 wonders - http://dbpedia.org/resource/7_Wonders_(board_game)
+guinness - http://dbpedia.org/resource/Guinness_World_Records
+celebrity endorsement - http://dbpedia.org/resource/Testimonial
+market - http://dbpedia.org/resource/Market_economy
+knp - http://dbpedia.org/resource/Koalisyon_ng_Nagkakaisang_Pilipino
+komodo - http://dbpedia.org/resource/Komodo_dragon
+komodo national park - http://dbpedia.org/resource/Komodo_National_Park
+knp - http://dbpedia.org/resource/Koalisyon_ng_Nagkakaisang_Pilipino
+komodo - http://dbpedia.org/resource/Komodo_dragon
+tourism - http://dbpedia.org/resource/Tourism
+heritage - http://dbpedia.org/resource/Cultural_heritage
+ladkin - http://dbpedia.org/resource/Ladkin
+fletcher - http://dbpedia.org/resource/Fletching
+stakeholder - http://dbpedia.org/resource/Project_stakeholder
+heritage management - http://dbpedia.org/resource/Cultural_heritage_management
+annals - http://dbpedia.org/resource/Annals
+tourism - http://dbpedia.org/resource/Tourism
+borobudur - http://dbpedia.org/resource/Borobudur
+prambanan - http://dbpedia.org/resource/Prambanan
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+borobudur - http://dbpedia.org/resource/Borobudur
+candi borobudur - http://dbpedia.org/resource/Borobudur
+prambanan - http://dbpedia.org/resource/Prambanan
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+cassel - http://dbpedia.org/resource/Kassel
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+great copper mountain - http://dbpedia.org/resource/Falun_Mine
+scandinavian - http://dbpedia.org/resource/Scandinavia
+hospitality - http://dbpedia.org/resource/Hospitality
+tourism - http://dbpedia.org/resource/Tourism
+cassel - http://dbpedia.org/resource/Kassel
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+innovation - http://dbpedia.org/resource/Innovation
+connecticut - http://dbpedia.org/resource/Connecticut
+greenwood publishing group - http://dbpedia.org/resource/Greenwood_Publishing_Group
+jakarta globe - http://dbpedia.org/resource/Jakarta_Globe
+komodo - http://dbpedia.org/resource/Komodo_dragon
+7 wonders - http://dbpedia.org/resource/7_Wonders_(board_game)
+jakarta globe - http://dbpedia.org/resource/Jakarta_Globe
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+celebrity - http://dbpedia.org/resource/Celebrity
+komodo - http://dbpedia.org/resource/Komodo_dragon
+komodo national park - http://dbpedia.org/resource/Komodo_National_Park
+komodo - http://dbpedia.org/resource/Komodo_dragon
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage list - http://dbpedia.org/resource/New_South_Wales_Heritage_Database
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage list - http://dbpedia.org/resource/New_South_Wales_Heritage_Database
+komodo national park - http://dbpedia.org/resource/Komodo_National_Park
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+richard gere - http://dbpedia.org/resource/Richard_Gere
+karma - http://dbpedia.org/resource/Karma
+borobudur - http://dbpedia.org/resource/Borobudur
+jakarta - http://dbpedia.org/resource/Jakarta
+news - http://dbpedia.org/resource/News_media
+walpole - http://dbpedia.org/resource/Robert_Walpole
+conservation - http://dbpedia.org/resource/Conservation_biology
+tourism - http://dbpedia.org/resource/Tourism
+komodo national park - http://dbpedia.org/resource/Komodo_National_Park
+environmental conservation - http://dbpedia.org/resource/Environmental_protection
+wonderful indonesia - http://dbpedia.org/resource/Tourism_in_Indonesia
+alert - http://dbpedia.org/resource/Alertness
+merapi - http://dbpedia.org/resource/Mount_Merapi
+borobudur - http://dbpedia.org/resource/Borobudur
+tourism - http://dbpedia.org/resource/Tourism
+creative economy - http://dbpedia.org/resource/Creative_industries
+news - http://dbpedia.org/resource/News_media
+wonderful indonesia - http://dbpedia.org/resource/Tourism_in_Indonesia
+guinness - http://dbpedia.org/resource/Guinness_World_Records
+borobudur - http://dbpedia.org/resource/Borobudur
+single - http://dbpedia.org/resource/Single_person
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+tourism - http://dbpedia.org/resource/Tourism
+creative economy - http://dbpedia.org/resource/Creative_industries
+news - http://dbpedia.org/resource/News_media
+wonderful indonesia - http://dbpedia.org/resource/Tourism_in_Indonesia
+komodo national park - http://dbpedia.org/resource/Komodo_National_Park
+heart - http://dbpedia.org/resource/Cardiovascular_disease
+dragons - http://dbpedia.org/resource/Dragon
+tourism - http://dbpedia.org/resource/Tourism
+creative economy - http://dbpedia.org/resource/Creative_industries

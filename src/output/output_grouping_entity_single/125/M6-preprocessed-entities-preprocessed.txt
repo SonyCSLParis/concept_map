@@ -1,0 +1,24 @@
+baptist church - http://dbpedia.org/resource/Baptists
+bethel united methodist church - http://dbpedia.org/resource/Bethel_United_Methodist_Church_(Bethel,_Connecticut)
+foursquare church - http://dbpedia.org/resource/International_Church_of_the_Foursquare_Gospel
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+church - http://dbpedia.org/resource/Christian_denomination
+west virginia - http://dbpedia.org/resource/West_Virginia
+bible - http://dbpedia.org/resource/Bible
+foursquare - http://dbpedia.org/resource/American_Foursquare
+christian missionary - http://dbpedia.org/resource/Christian_mission
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+shiloh - http://dbpedia.org/resource/Battle_of_Shiloh
+umc - http://dbpedia.org/resource/United_Methodist_Church
+baptist - http://dbpedia.org/resource/Baptists
+capon - http://dbpedia.org/resource/Capon
+god - http://dbpedia.org/resource/God
+chapel - http://dbpedia.org/resource/Place_of_worship
+sbc - http://dbpedia.org/resource/Southern_Baptist_Convention
+methodist - http://dbpedia.org/resource/Methodism
+north river mills - http://dbpedia.org/resource/North_River_Mills,_West_Virginia
+central united methodist church - http://dbpedia.org/resource/Central_United_Methodist_Church_(Detroit)
+mountain view - http://dbpedia.org/resource/Mountain_View_station
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+amazing grace - http://dbpedia.org/resource/Amazing_Grace
+fellowship - http://dbpedia.org/resource/Koinonia

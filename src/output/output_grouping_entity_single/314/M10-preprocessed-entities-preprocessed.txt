@@ -1,0 +1,96 @@
+education - http://dbpedia.org/resource/Education
+stool - http://dbpedia.org/resource/Feces
+joyce hill - http://dbpedia.org/resource/Joyce_Hill
+vermeer - http://dbpedia.org/resource/Johannes_Vermeer
+studio art - http://dbpedia.org/resource/Art_school
+spring - http://dbpedia.org/resource/Hooke's_law
+independent - http://dbpedia.org/resource/Independent_school
+art conservators - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+forensic analysis - http://dbpedia.org/resource/Forensic_science
+forensic science - http://dbpedia.org/resource/Forensic_science
+weaving - http://dbpedia.org/resource/Weaving
+ibid - http://dbpedia.org/resource/Dialectic_of_Enlightenment
+peripheral - http://dbpedia.org/resource/Peripheral_vision
+gadomski - http://dbpedia.org/resource/Gadomski_(crater)
+capstone - http://dbpedia.org/resource/Capstone_course
+eye test - http://dbpedia.org/resource/Eye_examination
+july 11 - http://dbpedia.org/resource/July_11
+professor - http://dbpedia.org/resource/Academy
+boston phoenix - http://dbpedia.org/resource/The_Phoenix_(newspaper)
+crime scene investigation - http://dbpedia.org/resource/Forensic_science
+undergraduate - http://dbpedia.org/resource/Undergraduate_education
+york - http://dbpedia.org/resource/York
+art history - http://dbpedia.org/resource/Art_history
+ms - http://dbpedia.org/resource/Millisecond
+engender - http://dbpedia.org/resource/Engender
+internship - http://dbpedia.org/resource/Internship
+crime - http://dbpedia.org/resource/Crime
+material science - http://dbpedia.org/resource/Materials_science
+art conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+museum studies - http://dbpedia.org/resource/Museology
+heritage - http://dbpedia.org/resource/History
+curriculum - http://dbpedia.org/resource/Curriculum
+conservator - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+television program - http://dbpedia.org/resource/Television
+single - http://dbpedia.org/resource/Phonograph_record
+criminal trial - http://dbpedia.org/resource/Criminal_law
+delaware - http://dbpedia.org/resource/University_of_Delaware
+irreplaceable - http://dbpedia.org/resource/Irreplaceable
+digital - http://dbpedia.org/resource/Digital_media
+immersion - http://dbpedia.org/resource/Language_immersion
+family physician - http://dbpedia.org/resource/Family_medicine
+csi - http://dbpedia.org/resource/Forensic_science
+pigment - http://dbpedia.org/resource/Pigment
+winterthur - http://dbpedia.org/resource/Winterthur
+art conservation training - http://dbpedia.org/resource/Conservation_and_restoration_training
+forensic sciences - http://dbpedia.org/resource/Forensic_science
+ruth osborne - http://dbpedia.org/resource/Ruth_Osborne
+csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
+curricula - http://dbpedia.org/resource/Curriculum
+chicago - http://dbpedia.org/resource/University_of_Chicago
+field order - http://dbpedia.org/resource/Field_order
+cultural historical - http://dbpedia.org/resource/Cultural_history
+painting - http://dbpedia.org/resource/Painting
+buffalo - http://dbpedia.org/resource/Bovinae
+resemble - http://dbpedia.org/resource/SoltyRei
+swanson - http://dbpedia.org/resource/Swanson
+ethical - http://dbpedia.org/resource/Ethics
+forensic investigation - http://dbpedia.org/resource/Forensic_science
+art historian - http://dbpedia.org/resource/Art_history
+fine arts - http://dbpedia.org/resource/Fine_art
+scripps college - http://dbpedia.org/resource/Scripps_College
+roslyn - http://dbpedia.org/resource/Roslyn_High_School
+rely - http://dbpedia.org/resource/Rely_(brand)
+tessa - http://dbpedia.org/resource/Tessa_Wheeler
+methodology - http://dbpedia.org/resource/Methodology
+graduate student - http://dbpedia.org/resource/Postgraduate_education
+juror - http://dbpedia.org/resource/Jury
+chemistry - http://dbpedia.org/resource/Chemistry
+adams - http://dbpedia.org/resource/John_Adams
+mexico - http://dbpedia.org/resource/Mexico
+infallible - http://dbpedia.org/resource/Biblical_inerrancy
+ucla - http://dbpedia.org/resource/UCLA_Bruins_football
+circumstantial evidence - http://dbpedia.org/resource/Circumstantial_evidence
+program assessment - http://dbpedia.org/resource/Educational_assessment
+neglect - http://dbpedia.org/resource/Neglect
+einav - http://dbpedia.org/resource/Einav
+eye - http://dbpedia.org/resource/Human_eye
+stricture - http://dbpedia.org/resource/Stenosis
+interdisciplinary - http://dbpedia.org/resource/Interdisciplinarity
+national geographic news - http://dbpedia.org/resource/National_Geographic
+california - http://dbpedia.org/resource/California
+philosophy - http://dbpedia.org/resource/Philosophy
+conservation science - http://dbpedia.org/resource/Environmental_science
+gsas - http://dbpedia.org/resource/Gallium_arsenide
+portfolio - http://dbpedia.org/resource/Career_portfolio
+winterthur museum - http://dbpedia.org/resource/Winterthur_Museum,_Garden_and_Library
+object - http://dbpedia.org/resource/Object-oriented_programming
+television - http://dbpedia.org/resource/Television
+art conservator - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+nyu - http://dbpedia.org/resource/New_York_University
+archaeological - http://dbpedia.org/resource/Archaeology
+mathematics - http://dbpedia.org/resource/Mathematics_education
+microscope - http://dbpedia.org/resource/Microscope

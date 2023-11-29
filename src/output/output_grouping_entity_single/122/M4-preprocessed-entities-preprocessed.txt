@@ -1,0 +1,63 @@
+school street - http://dbpedia.org/resource/School_Street
+pocket - http://dbpedia.org/resource/Billiard_table
+n17 - http://dbpedia.org/resource/N_postcode_area
+space - http://dbpedia.org/resource/Outer_space
+summer - http://dbpedia.org/resource/Summer
+family - http://dbpedia.org/resource/Family
+cash - http://dbpedia.org/resource/Money
+cafe - http://dbpedia.org/resource/Coffeehouse
+bit - http://dbpedia.org/resource/Horse_tack
+acre - http://dbpedia.org/resource/Acre
+crime - http://dbpedia.org/resource/Crime
+early autumn - http://dbpedia.org/resource/Early_Autumn
+town - http://dbpedia.org/resource/Market_town
+artifact - http://dbpedia.org/resource/Cultural_artifact
+picnic - http://dbpedia.org/resource/Picnic
+north london - http://dbpedia.org/resource/North_London
+ghost story - http://dbpedia.org/resource/Ghost_story
+lottery - http://dbpedia.org/resource/Lottery
+heritage - http://dbpedia.org/resource/Tradition
+hotch - http://dbpedia.org/resource/Aaron_Hotchner
+grass - http://dbpedia.org/resource/Lawn
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+roman time - http://dbpedia.org/resource/Roman_Empire
+tonne - http://dbpedia.org/resource/Tonne
+clock tower - http://dbpedia.org/resource/Clock_tower
+haringey council - http://dbpedia.org/resource/London_Borough_of_Haringey
+alot - http://dbpedia.org/resource/Alot
+tea - http://dbpedia.org/resource/Tea
+tree - http://dbpedia.org/resource/Tree
+dodgy - http://dbpedia.org/resource/Dodgy
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+leipzig - http://dbpedia.org/resource/Leipzig
+local history - http://dbpedia.org/resource/Local_history
+castle museum - http://dbpedia.org/resource/Norwich_Castle
+metropolis - http://dbpedia.org/resource/Metropolis
+halloween - http://dbpedia.org/resource/Halloween
+violence - http://dbpedia.org/resource/Violence
+playground - http://dbpedia.org/resource/Playground
+cake - http://dbpedia.org/resource/Cake
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+broadwater farm estate - http://dbpedia.org/resource/Broadwater_Farm
+housing estate - http://dbpedia.org/resource/Housing_estate
+oak tree - http://dbpedia.org/resource/Oak
+london united - http://dbpedia.org/resource/London_United_Tramways
+deborah - http://dbpedia.org/resource/Debra_Morgan
+black history month - http://dbpedia.org/resource/Black_History_Month
+admittance - http://dbpedia.org/resource/Admittance
+history house - http://dbpedia.org/resource/History_House_of_Greater_Seattle
+good nature - http://dbpedia.org/resource/Good_Nature_(Turnover_album)
+manor - http://dbpedia.org/resource/Manor_house
+tower - http://dbpedia.org/resource/Tower
+family day - http://dbpedia.org/resource/Family_Day
+tlc - http://dbpedia.org/resource/Thin-layer_chromatography
+oral tradition - http://dbpedia.org/resource/Oral_tradition
+coherent - http://dbpedia.org/resource/Laser
+lovely day - http://dbpedia.org/resource/Emi_Tawata
+tottenham - http://dbpedia.org/resource/Tottenham
+manor house - http://dbpedia.org/resource/Manor_house
+social evolution - http://dbpedia.org/resource/Social_evolution
+qype - http://dbpedia.org/resource/Qype
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+genre - http://dbpedia.org/resource/Genre
+truth - http://dbpedia.org/resource/Truth

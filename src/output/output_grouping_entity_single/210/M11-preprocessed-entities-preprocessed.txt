@@ -1,0 +1,37 @@
+shrine - http://dbpedia.org/resource/Shrine
+family - http://dbpedia.org/resource/Family
+dynasties - http://dbpedia.org/resource/Dynasty
+amarna period - http://dbpedia.org/resource/Amarna_Period
+tomb - http://dbpedia.org/resource/KV62
+crime - http://dbpedia.org/resource/Crime
+pharaohs - http://dbpedia.org/resource/Pharaoh
+artifact - http://dbpedia.org/resource/Cultural_artifact
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+stable - http://dbpedia.org/resource/Stable
+kinship - http://dbpedia.org/resource/Kinship
+aten - http://dbpedia.org/resource/Aten
+queen - http://dbpedia.org/resource/Queen_regnant
+pylon - http://dbpedia.org/resource/Column
+afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
+deir el medina - http://dbpedia.org/resource/Deir_el-Medina
+chamber - http://dbpedia.org/resource/Chamber_tomb
+cult - http://dbpedia.org/resource/Imperial_cult
+peristyle - http://dbpedia.org/resource/Peristyle
+faith - http://dbpedia.org/resource/Religion
+egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
+sacred - http://dbpedia.org/resource/Sacred
+royal family - http://dbpedia.org/resource/Royal_family
+ramesside period - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+amenhotep iii - http://dbpedia.org/resource/Amenhotep_III
+nefertari - http://dbpedia.org/resource/Nefertari
+redefine - http://dbpedia.org/resource/Redefine_(Dragon_Fli_Empire_album)
+qadesh - http://dbpedia.org/resource/Kadesh_(Syria)
+ostraca - http://dbpedia.org/resource/Ostracon
+rameses ii - http://dbpedia.org/resource/Ramesses_II
+painting - http://dbpedia.org/resource/Pottery_of_ancient_Greece
+religious text - http://dbpedia.org/resource/Religious_text
+forecourt - http://dbpedia.org/resource/Forecourt
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+amen - http://dbpedia.org/resource/Amen
+true live - http://dbpedia.org/resource/True_Live
+culture - http://dbpedia.org/resource/Culture

@@ -1,0 +1,36 @@
+winter - http://dbpedia.org/resource/Winter
+family - http://dbpedia.org/resource/Family
+core product - http://dbpedia.org/resource/Core_product
+wedding - http://dbpedia.org/resource/Wedding
+medieval - http://dbpedia.org/resource/Middle_Ages
+george day - http://dbpedia.org/resource/George_Day_(bishop)
+easter bunny - http://dbpedia.org/resource/Easter_Bunny
+castle ground - http://dbpedia.org/resource/Castle_Ground
+national trust - http://dbpedia.org/resource/National_trust
+tea room - http://dbpedia.org/resource/Teahouse
+easter egg hunt - http://dbpedia.org/resource/Egg_hunt
+st george - http://dbpedia.org/resource/Saint_George
+piers - http://dbpedia.org/resource/Pier
+ollie - http://dbpedia.org/resource/Ollie_(skateboarding)
+food - http://dbpedia.org/resource/Food
+spring - http://dbpedia.org/resource/March_equinox
+manuscript - http://dbpedia.org/resource/Manuscript
+moate - http://dbpedia.org/resource/Moate
+herb - http://dbpedia.org/resource/Herb
+majestic - http://dbpedia.org/resource/Majestic_12
+moat - http://dbpedia.org/resource/Moat
+gatehouse - http://dbpedia.org/resource/Gatehouse
+volunteer - http://dbpedia.org/resource/Volunteering
+coffee - http://dbpedia.org/resource/Coffeehouse
+bodiam - http://dbpedia.org/resource/Bodiam
+great activity - http://dbpedia.org/resource/Great_Activity
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+siege - http://dbpedia.org/resource/Siege
+archetypal - http://dbpedia.org/resource/Archetype
+gardening - http://dbpedia.org/resource/Gardening
+st. george - http://dbpedia.org/resource/Saint_George
+tower - http://dbpedia.org/resource/Keep
+egg - http://dbpedia.org/resource/Egg_as_food
+coffee shop - http://dbpedia.org/resource/Coffeehouse
+cream tea - http://dbpedia.org/resource/Cream_tea

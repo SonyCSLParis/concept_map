@@ -1,0 +1,11 @@
+buddha statue - http://dbpedia.org/resource/Buddharupa
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+earth quake - http://dbpedia.org/resource/Earth_Quake_(band)
+temple - http://dbpedia.org/resource/Temple
+monument - http://dbpedia.org/resource/Monument
+relief - http://dbpedia.org/resource/Relief
+amazing - http://dbpedia.org/resource/Amazing_Stories
+city - http://dbpedia.org/resource/City
+green valley - http://dbpedia.org/resource/Green_Valley,_Arizona
+tourist attraction - http://dbpedia.org/resource/Tourist_attraction
+dome - http://dbpedia.org/resource/Dome

@@ -1,0 +1,42 @@
+rent - http://dbpedia.org/resource/Renting
+family - http://dbpedia.org/resource/Family
+article - http://dbpedia.org/resource/Bratislava
+open museum - http://dbpedia.org/resource/Open_Museum
+sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
+support group - http://dbpedia.org/resource/Support_group
+mulberry - http://dbpedia.org/resource/Morus_alba
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
+inventor - http://dbpedia.org/resource/Inventor
+compton - http://dbpedia.org/resource/Denis_Compton
+tree - http://dbpedia.org/resource/Tree
+food - http://dbpedia.org/resource/Food
+map - http://dbpedia.org/resource/Map
+tennis - http://dbpedia.org/resource/Tennis
+funfair - http://dbpedia.org/resource/Fair
+chestnut - http://dbpedia.org/resource/Chestnut
+wide range - http://dbpedia.org/resource/Fender_Wide_Range
+local history - http://dbpedia.org/resource/Local_history
+hectare - http://dbpedia.org/resource/Hectare
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+rowland hill - http://dbpedia.org/resource/Rowland_Hill
+joshua - http://dbpedia.org/resource/Joshua
+ireland - http://dbpedia.org/resource/Ireland
+chamber - http://dbpedia.org/resource/Room
+britain - http://dbpedia.org/resource/Roman_Britain
+manor - http://dbpedia.org/resource/Manor_house
+slate - http://dbpedia.org/resource/Slate
+grace - http://dbpedia.org/resource/Divine_grace
+ordnance survey - http://dbpedia.org/resource/Ordnance_Survey
+church - http://dbpedia.org/resource/Catholic_Church
+fruit tree - http://dbpedia.org/resource/Fruit_tree
+penny post - http://dbpedia.org/resource/Penny_Post
+kitchen garden - http://dbpedia.org/resource/Kitchen_garden
+tottenham - http://dbpedia.org/resource/Tottenham
+domesday survey - http://dbpedia.org/resource/Domesday_Book
+great oak - http://dbpedia.org/resource/Oak
+philanthropist - http://dbpedia.org/resource/Philanthropy
+borough - http://dbpedia.org/resource/Borough
+tower - http://dbpedia.org/resource/Keep
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England

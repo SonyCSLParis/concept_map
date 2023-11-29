@@ -1,0 +1,99 @@
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+western roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+rome - http://dbpedia.org/resource/Roman_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+southern europe - http://dbpedia.org/resource/Southern_Europe
+middle ages - http://dbpedia.org/resource/Middle_Ages
+capital city - http://dbpedia.org/resource/Capital_city
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+city - http://dbpedia.org/resource/City
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+city - http://dbpedia.org/resource/City
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+capital - http://dbpedia.org/resource/Capital_city
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+city - http://dbpedia.org/resource/City
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+thrive - http://dbpedia.org/resource/Thrive_Music
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+christianity - http://dbpedia.org/resource/Christianity
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+justinian dynasty - http://dbpedia.org/resource/Byzantine_Empire_under_the_Justinian_dynasty
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+justinian dynasty - http://dbpedia.org/resource/Byzantine_Empire_under_the_Justinian_dynasty
+justinian - http://dbpedia.org/resource/Justinian_I
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+justinian - http://dbpedia.org/resource/Justinian_I
+law - http://dbpedia.org/resource/Roman_law
+roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis
+law review - http://dbpedia.org/resource/Law_review
+law - http://dbpedia.org/resource/Roman_law
+law - http://dbpedia.org/resource/Roman_law
+single - http://dbpedia.org/resource/Single_person
+civil law - http://dbpedia.org/resource/Roman_law
+justinian code - http://dbpedia.org/resource/Corpus_Juris_Civilis
+sofia - http://dbpedia.org/resource/Sofia
+church - http://dbpedia.org/resource/Church_architecture
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+istanbul - http://dbpedia.org/resource/Istanbul
+justinian - http://dbpedia.org/resource/Justinian_I
+music drama - http://dbpedia.org/resource/Gesamtkunstwerk
+bridge - http://dbpedia.org/resource/Roman_bridge
+aqueduct - http://dbpedia.org/resource/Roman_aqueduct
+church - http://dbpedia.org/resource/Church_architecture
+hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
+church - http://dbpedia.org/resource/Church_architecture
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+catholic - http://dbpedia.org/resource/Catholic_Church
+church - http://dbpedia.org/resource/Church_architecture
+catholic - http://dbpedia.org/resource/Catholic_Church
+church - http://dbpedia.org/resource/Church_architecture
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+eastern orthodox church - http://dbpedia.org/resource/Eastern_Orthodox_Church
+catholic - http://dbpedia.org/resource/Catholic_Church
+church - http://dbpedia.org/resource/Church_architecture
+rome - http://dbpedia.org/resource/Roman_Empire
+middle ages - http://dbpedia.org/resource/Middle_Ages
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+eastern mediterranean - http://dbpedia.org/resource/Eastern_Mediterranean
+pope - http://dbpedia.org/resource/Pope
+holy roman empire - http://dbpedia.org/resource/Holy_Roman_Empire
+crusade - http://dbpedia.org/resource/Crusades
+holy land - http://dbpedia.org/resource/Holy_Land
+seljuk turks - http://dbpedia.org/resource/Seljuq_dynasty
+muslim - http://dbpedia.org/resource/Muslims
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+byzantine art - http://dbpedia.org/resource/Byzantine_art
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+official language - http://dbpedia.org/resource/Official_language
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+latin - http://dbpedia.org/resource/Latin
+heraclius - http://dbpedia.org/resource/Heraclius
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+plunder - http://dbpedia.org/resource/Looting
+crusaders - http://dbpedia.org/resource/Fourth_Crusade
+fourth crusade - http://dbpedia.org/resource/Fourth_Crusade
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+gold - http://dbpedia.org/resource/Gold
+emperor justinian - http://dbpedia.org/resource/Justinian_I
+die - http://dbpedia.org/resource/Death
+roman republic - http://dbpedia.org/resource/Ancient_Rome
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+roman rule - http://dbpedia.org/resource/Roman_Empire
+city - http://dbpedia.org/resource/City
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+istanbul - http://dbpedia.org/resource/Istanbul
+city - http://dbpedia.org/resource/City
+turkey - http://dbpedia.org/resource/Turkey

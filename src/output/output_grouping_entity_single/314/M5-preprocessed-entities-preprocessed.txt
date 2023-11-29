@@ -1,0 +1,27 @@
+defendant - http://dbpedia.org/resource/Defendant
+technology - http://dbpedia.org/resource/Technology
+television drama - http://dbpedia.org/resource/Television_show
+fantasy - http://dbpedia.org/resource/Fantasy
+education - http://dbpedia.org/resource/Education
+perception - http://dbpedia.org/resource/Perception
+forensic - http://dbpedia.org/resource/Forensic_science
+educator - http://dbpedia.org/resource/Education
+forensic science - http://dbpedia.org/resource/Forensic_science
+prosecutor - http://dbpedia.org/resource/Prosecutor
+viv - http://dbpedia.org/resource/Viv_Hope
+criminal justice system - http://dbpedia.org/resource/Criminal_justice
+police chief - http://dbpedia.org/resource/Chief_of_police
+drama - http://dbpedia.org/resource/Drama
+producer - http://dbpedia.org/resource/Television_producer
+resolution - http://dbpedia.org/resource/Image_resolution
+crime scene - http://dbpedia.org/resource/Crime_scene
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+fiction - http://dbpedia.org/resource/Fiction
+sensationalise - http://dbpedia.org/resource/Sensationalism
+television program - http://dbpedia.org/resource/Television_show
+summation - http://dbpedia.org/resource/Summation
+csi - http://dbpedia.org/resource/Forensic_science
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+juror - http://dbpedia.org/resource/Jury
+elusive - http://dbpedia.org/resource/Elusive
+truth - http://dbpedia.org/resource/Truth

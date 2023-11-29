@@ -1,0 +1,213 @@
+u.s. steel - http://dbpedia.org/resource/U.S._Steel
+fdny - http://dbpedia.org/resource/New_York_City_Fire_Department
+2 wtc - http://dbpedia.org/resource/2_World_Trade_Center
+contamination - http://dbpedia.org/resource/Radioactive_contamination
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+american express bank - http://dbpedia.org/resource/American_Express
+ctbuh - http://dbpedia.org/resource/Council_on_Tall_Buildings_and_Urban_Habitat
+rent - http://dbpedia.org/resource/Renting
+diesel generator - http://dbpedia.org/resource/Diesel_generator
+monokote - http://dbpedia.org/resource/Monokote
+power station - http://dbpedia.org/resource/Power_station
+mechanical floor - http://dbpedia.org/resource/Mechanical_floor
+oppenheim - http://dbpedia.org/resource/Oppenheim
+fiterman hall - http://dbpedia.org/resource/Borough_of_Manhattan_Community_College
+national fire protection association - http://dbpedia.org/resource/National_Fire_Protection_Association
+lateral - http://dbpedia.org/resource/Anatomical_terms_of_location
+federal emergency management agency - http://dbpedia.org/resource/Federal_Emergency_Management_Agency
+1 wtc - http://dbpedia.org/resource/One_World_Trade_Center
+ansys - http://dbpedia.org/resource/Ansys
+trigger - http://dbpedia.org/resource/Hypnosis
+concrete - http://dbpedia.org/resource/Concrete
+insurance - http://dbpedia.org/resource/Insurance
+regional council - http://dbpedia.org/resource/Regions_of_New_Zealand
+citigroup - http://dbpedia.org/resource/Citigroup
+pound - http://dbpedia.org/resource/Pound_sterling
+substation - http://dbpedia.org/resource/Electrical_substation
+granite - http://dbpedia.org/resource/Granite
+building 7 - http://dbpedia.org/resource/7_World_Trade_Center
+vesey street - http://dbpedia.org/resource/Vesey_Street
+mural - http://dbpedia.org/resource/Mural
+secret service - http://dbpedia.org/resource/United_States_Secret_Service
+columbus circle - http://dbpedia.org/resource/Columbus_Circle
+naturalization - http://dbpedia.org/resource/Citizenship_of_the_United_States
+asce - http://dbpedia.org/resource/American_Society_of_Civil_Engineers
+east west - http://dbpedia.org/resource/East_West_MRT_line
+black monday - http://dbpedia.org/resource/Black_Monday
+concession - http://dbpedia.org/resource/Contract
+central intelligence agency - http://dbpedia.org/resource/Central_Intelligence_Agency
+equal employment opportunity commission - http://dbpedia.org/resource/Equal_Employment_Opportunity_Commission
+larry silverstein - http://dbpedia.org/resource/Larry_Silverstein
+real estate - http://dbpedia.org/resource/Real_estate
+power substation - http://dbpedia.org/resource/Electrical_substation
+buckling - http://dbpedia.org/resource/Buckling
+irs - http://dbpedia.org/resource/Internal_Revenue_Service
+market - http://dbpedia.org/resource/Stock_market
+dod - http://dbpedia.org/resource/United_States_Department_of_Defense
+floor 13 - http://dbpedia.org/resource/Thirteenth_floor
+sq - http://dbpedia.org/resource/Quadraphonic_sound
+firefighter - http://dbpedia.org/resource/Firefighter
+standard chartered bank - http://dbpedia.org/resource/Standard_Chartered
+wall street - http://dbpedia.org/resource/Wall_Street
+beam - http://dbpedia.org/resource/Bending
+floor function - http://dbpedia.org/resource/Floor_and_ceiling_functions
+gypsum - http://dbpedia.org/resource/Gypsum
+potential energy - http://dbpedia.org/resource/Potential_energy
+structural design - http://dbpedia.org/resource/Structural_engineering
+light - http://dbpedia.org/resource/Light
+york - http://dbpedia.org/resource/York
+fire pump - http://dbpedia.org/resource/Fire_pump
+battery park - http://dbpedia.org/resource/Battery_Park_City
+hinder - http://dbpedia.org/resource/Hinder
+steel - http://dbpedia.org/resource/Steel
+insider trading - http://dbpedia.org/resource/Insider_trading
+lobby 7 - http://dbpedia.org/resource/Infinite_Corridor
+fire suppression system - http://dbpedia.org/resource/Fire_suppression_system
+art deco - http://dbpedia.org/resource/Art_Deco
+disproportionate collapse - http://dbpedia.org/resource/Progressive_collapse
+remarkable - http://dbpedia.org/resource/ReMarkable
+civil engineers - http://dbpedia.org/resource/Civil_engineering
+truss - http://dbpedia.org/resource/Truss
+defense - http://dbpedia.org/resource/Military
+washington - http://dbpedia.org/resource/George_Washington
+horizontal progression - http://dbpedia.org/resource/Horizontal_progression
+sprinkler system - http://dbpedia.org/resource/Fire_sprinkler_system
+circle - http://dbpedia.org/resource/Circle
+east building - http://dbpedia.org/resource/National_Gallery_of_Art
+fuel tank - http://dbpedia.org/resource/Gasoline
+manual - http://dbpedia.org/resource/Manual_transmission
+building collapse - http://dbpedia.org/resource/Structural_integrity_and_failure
+buckle - http://dbpedia.org/resource/Buckling
+single - http://dbpedia.org/resource/Phonograph_record
+water key - http://dbpedia.org/resource/Water_key
+constraint - http://dbpedia.org/resource/Data_integrity
+structural engineers - http://dbpedia.org/resource/Structural_engineering
+moment frame - http://dbpedia.org/resource/Moment-resisting_frame
+safety - http://dbpedia.org/resource/Safety
+water sprinkler - http://dbpedia.org/resource/Tó_Neinilii
+center open - http://dbpedia.org/resource/Center_Open
+barclay - http://dbpedia.org/resource/Barclays
+emery roth - http://dbpedia.org/resource/Emery_Roth
+gravity - http://dbpedia.org/resource/Gravity
+25th floor - http://dbpedia.org/resource/Easter_(Patti_Smith_Group_album)
+rudy giuliani - http://dbpedia.org/resource/Rudy_Giuliani
+silverstein - http://dbpedia.org/resource/Silverstein_Properties
+truss girder - http://dbpedia.org/resource/Truss
+girder - http://dbpedia.org/resource/Girder
+floor plan - http://dbpedia.org/resource/Floor_plan
+verizon building - http://dbpedia.org/resource/Verizon_Building
+water - http://dbpedia.org/resource/Water
+hartford insurance - http://dbpedia.org/resource/The_Hartford
+pocket - http://dbpedia.org/resource/Billiard_table
+technology - http://dbpedia.org/resource/Technology
+ninth floor - http://dbpedia.org/resource/Ninth_Floor
+fire rating - http://dbpedia.org/resource/Fire-resistance_rating
+consolidated edison - http://dbpedia.org/resource/Consolidated_Edison
+office building - http://dbpedia.org/resource/Office
+drexel burnham lambert - http://dbpedia.org/resource/Drexel_Burnham_Lambert
+edt - http://dbpedia.org/resource/Eastern_Time_Zone
+gallon - http://dbpedia.org/resource/Gallon
+sunder - http://dbpedia.org/resource/Sunder_Deodhar
+impose - http://dbpedia.org/resource/Impose_(magazine)
+diaphragm - http://dbpedia.org/resource/Rupture_disc
+trading floor - http://dbpedia.org/resource/Open_outcry
+fire protection - http://dbpedia.org/resource/Fire_protection
+north tower - http://dbpedia.org/resource/One_World_Trade_Center
+nfpa - http://dbpedia.org/resource/National_Fire_Protection_Association
+water pressure - http://dbpedia.org/resource/Pressure
+tenant - http://dbpedia.org/resource/Leasehold_estate
+immigration - http://dbpedia.org/resource/Immigration
+itt - http://dbpedia.org/resource/ITT_Inc.
+provident financial - http://dbpedia.org/resource/Provident_Financial
+news medium - http://dbpedia.org/resource/News_media
+column - http://dbpedia.org/resource/Column
+transformer - http://dbpedia.org/resource/Transformer
+greenwich - http://dbpedia.org/resource/Greenwich
+aisc - http://dbpedia.org/resource/American_Institute_of_Steel_Construction
+hypothesis - http://dbpedia.org/resource/Hypothesis
+main tower - http://dbpedia.org/resource/Main_Tower
+diesel fuel - http://dbpedia.org/resource/Diesel_fuel
+port authority - http://dbpedia.org/resource/Port_authority
+cia - http://dbpedia.org/resource/Central_Intelligence_Agency
+wide range - http://dbpedia.org/resource/Fender_Wide_Range
+masonry - http://dbpedia.org/resource/Masonry
+7 wtc - http://dbpedia.org/resource/7_World_Trade_Center
+habitat - http://dbpedia.org/resource/Human
+city - http://dbpedia.org/resource/City
+small park - http://dbpedia.org/resource/Fort_Heath
+sprinkler - http://dbpedia.org/resource/Fire_sprinkler_system
+crack - http://dbpedia.org/resource/Structural_integrity_and_failure
+silverstein properties - http://dbpedia.org/resource/Silverstein_Properties
+tishman - http://dbpedia.org/resource/Tishman_Realty_&_Construction
+tower - http://dbpedia.org/resource/Tower
+theory - http://dbpedia.org/resource/Theory
+fuel oil - http://dbpedia.org/resource/Fuel_oil
+ground lease - http://dbpedia.org/resource/Lease
+caisson - http://dbpedia.org/resource/Deep_foundation
+internal revenue service - http://dbpedia.org/resource/Internal_Revenue_Service
+lease - http://dbpedia.org/resource/Lease
+p.e. - http://dbpedia.org/resource/Regulation_and_licensure_in_engineering
+trapezoidal - http://dbpedia.org/resource/Trapezoid
+shyam - http://dbpedia.org/resource/Shyam_(composer)
+daniel nigro - http://dbpedia.org/resource/Dan_Nigro
+9/11 - http://dbpedia.org/resource/September_11_attacks
+mechanical penthouse - http://dbpedia.org/resource/Mechanical_floor
+nist - http://dbpedia.org/resource/National_Institute_of_Standards_and_Technology
+cbs news - http://dbpedia.org/resource/CBS_News
+salomon smith barney - http://dbpedia.org/resource/Salomon_Brothers
+structural steel - http://dbpedia.org/resource/Structural_steel
+manhattan - http://dbpedia.org/resource/Manhattan
+fuel - http://dbpedia.org/resource/Diesel_fuel
+fema - http://dbpedia.org/resource/Federal_Emergency_Management_Agency
+facade - http://dbpedia.org/resource/Facade
+structural element - http://dbpedia.org/resource/Structural_element
+con edison - http://dbpedia.org/resource/Consolidated_Edison
+deconstruction - http://dbpedia.org/resource/Deconstruction
+manager - http://dbpedia.org/resource/Management
+structural engineering - http://dbpedia.org/resource/Structural_engineering
+truck - http://dbpedia.org/resource/Truck
+fully automatic - http://dbpedia.org/resource/Machine_gun
+storage tank - http://dbpedia.org/resource/Storage_tank
+explosive - http://dbpedia.org/resource/Explosion
+west broadway - http://dbpedia.org/resource/West_Broadway
+september 11 2001 - http://dbpedia.org/resource/September_11_attacks
+penthouse - http://dbpedia.org/resource/Penthouse_apartment
+al held - http://dbpedia.org/resource/Al_Held
+environmentally friendly - http://dbpedia.org/resource/Environmentally_friendly
+mayor - http://dbpedia.org/resource/Mayor_of_New_York_City
+plant - http://dbpedia.org/resource/Power_station
+vulnerability - http://dbpedia.org/resource/Earthquake_engineering
+north wall - http://dbpedia.org/resource/North_Wall_railway_station
+greenwich street - http://dbpedia.org/resource/Greenwich_Street
+beca - http://dbpedia.org/resource/Beca_(garment)
+loan - http://dbpedia.org/resource/Mortgage_loan
+progress report - http://dbpedia.org/resource/Report_card
+thermate - http://dbpedia.org/resource/Thermate
+water fight - http://dbpedia.org/resource/Water_fight
+draft - http://dbpedia.org/resource/Conscription
+pedestrian bridge - http://dbpedia.org/resource/Skyway
+generator - http://dbpedia.org/resource/Electric_generator
+structural failure - http://dbpedia.org/resource/Structural_integrity_and_failure
+securities exchange commission - http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission
+gene - http://dbpedia.org/resource/Genetics
+conspiracy theory - http://dbpedia.org/resource/Conspiracy_theory
+tube frame - http://dbpedia.org/resource/Space_frame
+fireproofing - http://dbpedia.org/resource/Fireproofing
+reiterate - http://dbpedia.org/resource/Reiterate
+ton - http://dbpedia.org/resource/Ton
+command center - http://dbpedia.org/resource/Command_center
+firefighting - http://dbpedia.org/resource/Firefighting
+midtown - http://dbpedia.org/resource/Midtown_Manhattan
+corley - http://dbpedia.org/resource/Corley
+riser - http://dbpedia.org/resource/Stair_riser
+ls - http://dbpedia.org/resource/Ls
+dyna - http://dbpedia.org/resource/Toyota_Dyna
+boesky - http://dbpedia.org/resource/Ivan_Boesky
+urban - http://dbpedia.org/resource/Urban_planning
+temperature - http://dbpedia.org/resource/Temperature
+probability - http://dbpedia.org/resource/Probability
+borough - http://dbpedia.org/resource/Boroughs_of_New_York_City
+salomon - http://dbpedia.org/resource/Salomon_Brothers
+salomon brothers - http://dbpedia.org/resource/Salomon_Brothers
+east wall - http://dbpedia.org/resource/East_Wall
+space - http://dbpedia.org/resource/Outer_space

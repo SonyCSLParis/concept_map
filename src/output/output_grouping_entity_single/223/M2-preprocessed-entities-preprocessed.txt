@@ -1,0 +1,55 @@
+middle ages - http://dbpedia.org/resource/Middle_Ages
+sofia - http://dbpedia.org/resource/Sofia
+eastern mediterranean - http://dbpedia.org/resource/Eastern_Mediterranean
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+single - http://dbpedia.org/resource/Single_person
+justinian - http://dbpedia.org/resource/Justinian_I
+christianity - http://dbpedia.org/resource/Christianity
+muslim - http://dbpedia.org/resource/Muslims
+turkey - http://dbpedia.org/resource/Turkey
+western roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis
+die - http://dbpedia.org/resource/Death
+heraclius - http://dbpedia.org/resource/Heraclius
+law review - http://dbpedia.org/resource/Law_review
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+roman rule - http://dbpedia.org/resource/Roman_Empire
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+bridge - http://dbpedia.org/resource/Roman_bridge
+rome - http://dbpedia.org/resource/Roman_Empire
+eastern orthodox church - http://dbpedia.org/resource/Eastern_Orthodox_Church
+pope - http://dbpedia.org/resource/Pope
+official language - http://dbpedia.org/resource/Official_language
+emperor justinian - http://dbpedia.org/resource/Justinian_I
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+istanbul - http://dbpedia.org/resource/Istanbul
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+catholic - http://dbpedia.org/resource/Catholic_Church
+gold - http://dbpedia.org/resource/Gold
+crusaders - http://dbpedia.org/resource/Fourth_Crusade
+byzantine art - http://dbpedia.org/resource/Byzantine_art
+holy land - http://dbpedia.org/resource/Holy_Land
+capital city - http://dbpedia.org/resource/Capital_city
+city - http://dbpedia.org/resource/City
+roman republic - http://dbpedia.org/resource/Ancient_Rome
+church - http://dbpedia.org/resource/Church_architecture
+seljuk turks - http://dbpedia.org/resource/Seljuq_dynasty
+capital - http://dbpedia.org/resource/Capital_city
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+civil law - http://dbpedia.org/resource/Roman_law
+plunder - http://dbpedia.org/resource/Looting
+fourth crusade - http://dbpedia.org/resource/Fourth_Crusade
+justinian code - http://dbpedia.org/resource/Corpus_Juris_Civilis
+aqueduct - http://dbpedia.org/resource/Roman_aqueduct
+holy roman empire - http://dbpedia.org/resource/Holy_Roman_Empire
+southern europe - http://dbpedia.org/resource/Southern_Europe
+justinian dynasty - http://dbpedia.org/resource/Byzantine_Empire_under_the_Justinian_dynasty
+music drama - http://dbpedia.org/resource/Gesamtkunstwerk
+law - http://dbpedia.org/resource/Roman_law
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+crusade - http://dbpedia.org/resource/Crusades
+thrive - http://dbpedia.org/resource/Thrive_Music
+hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
+latin - http://dbpedia.org/resource/Latin

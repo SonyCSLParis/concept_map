@@ -1,0 +1,50 @@
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+support group - http://dbpedia.org/resource/Support_group
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+tower - http://dbpedia.org/resource/Keep
+tottenham - http://dbpedia.org/resource/Tottenham
+manor - http://dbpedia.org/resource/Manor_house
+tottenham - http://dbpedia.org/resource/Tottenham
+domesday survey - http://dbpedia.org/resource/Domesday_Book
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+chamber - http://dbpedia.org/resource/Room
+compton - http://dbpedia.org/resource/Denis_Compton
+lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
+rowland hill - http://dbpedia.org/resource/Rowland_Hill
+inventor - http://dbpedia.org/resource/Inventor
+penny post - http://dbpedia.org/resource/Penny_Post
+ordnance survey - http://dbpedia.org/resource/Ordnance_Survey
+map - http://dbpedia.org/resource/Map
+kitchen garden - http://dbpedia.org/resource/Kitchen_garden
+food - http://dbpedia.org/resource/Food
+slate - http://dbpedia.org/resource/Slate
+philanthropist - http://dbpedia.org/resource/Philanthropy
+joshua - http://dbpedia.org/resource/Joshua
+rent - http://dbpedia.org/resource/Renting
+tottenham - http://dbpedia.org/resource/Tottenham
+open museum - http://dbpedia.org/resource/Open_Museum
+borough - http://dbpedia.org/resource/Borough
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+borough - http://dbpedia.org/resource/Borough
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+wide range - http://dbpedia.org/resource/Fender_Wide_Range
+family - http://dbpedia.org/resource/Family
+local history - http://dbpedia.org/resource/Local_history
+hectare - http://dbpedia.org/resource/Hectare
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+grace - http://dbpedia.org/resource/Divine_grace
+tree - http://dbpedia.org/resource/Tree
+chestnut - http://dbpedia.org/resource/Chestnut
+mulberry - http://dbpedia.org/resource/Morus_alba
+fruit tree - http://dbpedia.org/resource/Fruit_tree
+church - http://dbpedia.org/resource/Catholic_Church
+great oak - http://dbpedia.org/resource/Oak
+tottenham - http://dbpedia.org/resource/Tottenham
+tennis - http://dbpedia.org/resource/Tennis
+funfair - http://dbpedia.org/resource/Fair
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+britain - http://dbpedia.org/resource/Roman_Britain
+ireland - http://dbpedia.org/resource/Ireland
+article - http://dbpedia.org/resource/Bratislava

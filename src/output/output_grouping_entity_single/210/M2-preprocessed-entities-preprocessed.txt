@@ -1,0 +1,90 @@
+stone - http://dbpedia.org/resource/Stone_tool
+pagan - http://dbpedia.org/resource/Paganism
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+soldier - http://dbpedia.org/resource/Soldier
+israelites - http://dbpedia.org/resource/Israelites
+church fathers - http://dbpedia.org/resource/Church_Fathers
+worldly pleasure - http://dbpedia.org/resource/Hedonism
+mummy - http://dbpedia.org/resource/Mummy
+abstinence - http://dbpedia.org/resource/Abstinence
+greed - http://dbpedia.org/resource/Seven_deadly_sins
+nile valley - http://dbpedia.org/resource/Nile
+fasting - http://dbpedia.org/resource/Fasting
+sling - http://dbpedia.org/resource/Mixed_drink
+god - http://dbpedia.org/resource/God
+outline - http://dbpedia.org/resource/Nutrition
+inundation - http://dbpedia.org/resource/Inundation
+captivate - http://dbpedia.org/resource/Adobe_Captivate
+starting point - http://dbpedia.org/resource/Starting_Point
+archer - http://dbpedia.org/resource/Bow_and_arrow
+faith - http://dbpedia.org/resource/Faith
+covetousness - http://dbpedia.org/resource/Seven_deadly_sins
+lust - http://dbpedia.org/resource/Lust
+hebrews - http://dbpedia.org/resource/Israelites
+sacrifice - http://dbpedia.org/resource/Sacrifice
+moses - http://dbpedia.org/resource/Moses
+slinger - http://dbpedia.org/resource/Sling_(weapon)
+gluttony - http://dbpedia.org/resource/Gluttony
+allegorize - http://dbpedia.org/resource/Allegory
+nile - http://dbpedia.org/resource/Nile
+john chrysostom - http://dbpedia.org/resource/John_Chrysostom
+egyptians - http://dbpedia.org/resource/Ancient_Egypt
+king tut - http://dbpedia.org/resource/Tutankhamun
+astronomy - http://dbpedia.org/resource/Astronomy
+spirited - http://dbpedia.org/resource/Spirited
+spiritual - http://dbpedia.org/resource/Soul
+dependence - http://dbpedia.org/resource/Substance_dependence
+hittite empire - http://dbpedia.org/resource/Hittites
+quiver - http://dbpedia.org/resource/Quiver
+mesopotamia - http://dbpedia.org/resource/Mesopotamia
+assyrian empire - http://dbpedia.org/resource/Assyria
+israelite - http://dbpedia.org/resource/Israelites
+cairo - http://dbpedia.org/resource/Cairo_(graphics)
+nile river - http://dbpedia.org/resource/Nile
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+impulse - http://dbpedia.org/resource/Dirac_delta_function
+water - http://dbpedia.org/resource/Water
+advanced civilization - http://dbpedia.org/resource/Advanced_Civilization
+mathematic - http://dbpedia.org/resource/Mathematics
+ancient israelites - http://dbpedia.org/resource/Israelites
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+food - http://dbpedia.org/resource/Food
+medicine - http://dbpedia.org/resource/Medicine
+horse - http://dbpedia.org/resource/Horse
+temptation - http://dbpedia.org/resource/Temptation
+allegory - http://dbpedia.org/resource/Allegory
+rock - http://dbpedia.org/resource/Rock_music
+b.c. - http://dbpedia.org/resource/Figured_bass
+death mask - http://dbpedia.org/resource/Death_mask
+spear point - http://dbpedia.org/resource/Projectile_point
+consumerism - http://dbpedia.org/resource/Consumerism
+northeastern africa - http://dbpedia.org/resource/Horn_of_Africa
+limestone hill - http://dbpedia.org/resource/Ipswich_(suburb),_Queensland
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+historian - http://dbpedia.org/resource/History
+sin - http://dbpedia.org/resource/Sin
+building construction - http://dbpedia.org/resource/Construction
+egyptian army - http://dbpedia.org/resource/Egyptian_Army
+archaeologist - http://dbpedia.org/resource/Archaeology
+bit - http://dbpedia.org/resource/Bit
+nyssa - http://dbpedia.org/resource/Tupelo
+oasis - http://dbpedia.org/resource/Oasis
+chariot - http://dbpedia.org/resource/Chariot
+nile delta - http://dbpedia.org/resource/Nile_Delta
+catechesis - http://dbpedia.org/resource/Catechesis
+floodplain - http://dbpedia.org/resource/Floodplain
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+assault - http://dbpedia.org/resource/Assault
+soul man - http://dbpedia.org/resource/Soul_Man_(song)
+fruit - http://dbpedia.org/resource/Fruit
+civilization - http://dbpedia.org/resource/Civilization
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+history channel - http://dbpedia.org/resource/History_(American_TV_channel)
+unification - http://dbpedia.org/resource/Italian_unification
+sinai - http://dbpedia.org/resource/Mount_Sinai
+tyranny - http://dbpedia.org/resource/Tyrant
+slavery - http://dbpedia.org/resource/Slavery
+enslavement - http://dbpedia.org/resource/Slavery
+encyclopedia britannica - http://dbpedia.org/resource/Encyclopædia_Britannica
+slave - http://dbpedia.org/resource/Slavery

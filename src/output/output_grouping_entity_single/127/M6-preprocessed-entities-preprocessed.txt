@@ -1,0 +1,139 @@
+innovation - http://dbpedia.org/resource/Innovation
+rampart - http://dbpedia.org/resource/Defensive_wall
+aesthetic - http://dbpedia.org/resource/Aesthetics
+bronze age - http://dbpedia.org/resource/Bronze_Age
+garrison - http://dbpedia.org/resource/Garrison
+castle guard - http://dbpedia.org/resource/Castle-guard
+soldier - http://dbpedia.org/resource/Soldier
+tribe - http://dbpedia.org/resource/Tribe
+siege castle - http://dbpedia.org/resource/Counter-castle
+battlement - http://dbpedia.org/resource/Battlement
+gundulf - http://dbpedia.org/resource/Gundulf_of_Rochester
+warwickshire - http://dbpedia.org/resource/Warwickshire
+stone - http://dbpedia.org/resource/Masonry
+dark age - http://dbpedia.org/resource/Early_Middle_Ages
+main castle - http://dbpedia.org/resource/Inner_bailey
+strain - http://dbpedia.org/resource/Cannabis_strains
+european castle - http://dbpedia.org/resource/Castle
+warwick - http://dbpedia.org/resource/Warwick
+siege engine - http://dbpedia.org/resource/Siege_engine
+weapon - http://dbpedia.org/resource/Weapon
+royalty - http://dbpedia.org/resource/Royal_family
+medieval history - http://dbpedia.org/resource/Middle_Ages
+mound - http://dbpedia.org/resource/Tumulus
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
+region - http://dbpedia.org/resource/Region
+bodiam - http://dbpedia.org/resource/Bodiam
+rural - http://dbpedia.org/resource/Rural_area
+early medieval - http://dbpedia.org/resource/Early_Middle_Ages
+archer - http://dbpedia.org/resource/Bow_and_arrow
+siege - http://dbpedia.org/resource/Siege
+ordinate - http://dbpedia.org/resource/Abscissa_and_ordinate
+tourist attraction - http://dbpedia.org/resource/Tourist_attraction
+ditch - http://dbpedia.org/resource/Moat
+romans - http://dbpedia.org/resource/Romans_(musician)
+castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
+torture - http://dbpedia.org/resource/Torture
+medieval - http://dbpedia.org/resource/Middle_Ages
+village - http://dbpedia.org/resource/Village
+white tower - http://dbpedia.org/resource/Tower_of_London
+defence - http://dbpedia.org/resource/Military
+peace - http://dbpedia.org/resource/Peace
+trebuchets - http://dbpedia.org/resource/Trebuchet
+ring work - http://dbpedia.org/resource/Ringwork
+robert de belleme - http://dbpedia.org/resource/Robert_of_Bellême,_3rd_Earl_of_Shrewsbury
+military unit - http://dbpedia.org/resource/Military_organization
+defense - http://dbpedia.org/resource/Military
+northern europe - http://dbpedia.org/resource/Northern_Europe
+norman - http://dbpedia.org/resource/Normans
+fortification - http://dbpedia.org/resource/Castle
+castle town - http://dbpedia.org/resource/Castle_town
+river thames - http://dbpedia.org/resource/River_Thames
+settlement - http://dbpedia.org/resource/Town
+castle building - http://dbpedia.org/resource/Castle_Building
+mason - http://dbpedia.org/resource/Masonry
+moat - http://dbpedia.org/resource/Moat
+arrow slit - http://dbpedia.org/resource/Arrowslit
+bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+normans - http://dbpedia.org/resource/Normans
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+urban castle - http://dbpedia.org/resource/Urban_castle
+safety - http://dbpedia.org/resource/Safety
+mouse - http://dbpedia.org/resource/Computer_mouse
+memory - http://dbpedia.org/resource/Memory
+norman period - http://dbpedia.org/resource/Norman_conquest_of_England
+siege weapon - http://dbpedia.org/resource/Siege_engine
+defender - http://dbpedia.org/resource/Defendant
+design history - http://dbpedia.org/resource/Design_history
+henry - http://dbpedia.org/resource/Henry_(unit)
+carcassonne - http://dbpedia.org/resource/Carcassonne
+water - http://dbpedia.org/resource/Water
+catapult - http://dbpedia.org/resource/Catapult
+large wall - http://dbpedia.org/resource/Lasiommata_maera
+queen - http://dbpedia.org/resource/Queen_consort
+late medieval - http://dbpedia.org/resource/Middle_Ages
+work design - http://dbpedia.org/resource/Job_design
+artillery - http://dbpedia.org/resource/Artillery
+noble family - http://dbpedia.org/resource/Nobility
+prison - http://dbpedia.org/resource/Prison
+warwick castle - http://dbpedia.org/resource/Warwick_Castle
+scarred - http://dbpedia.org/resource/Scarred_(TV_series)
+Lion Heart - http://dbpedia.org/resource/Lion_Heart_(song)
+compact - http://dbpedia.org/resource/Compact_car
+network - http://dbpedia.org/resource/Computer_network
+relief - http://dbpedia.org/resource/Relief
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+east sussex - http://dbpedia.org/resource/East_Sussex
+food - http://dbpedia.org/resource/Food
+chateau gaillard - http://dbpedia.org/resource/Château_Gaillard
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+anglo norman - http://dbpedia.org/resource/Anglo-Normans
+warfare - http://dbpedia.org/resource/Medieval_warfare
+great country house - http://dbpedia.org/resource/English_country_house
+function - http://dbpedia.org/resource/Role
+bayeux tapestry - http://dbpedia.org/resource/Bayeux_Tapestry
+city - http://dbpedia.org/resource/City
+medieval english - http://dbpedia.org/resource/Middle_English
+britain - http://dbpedia.org/resource/Roman_Britain
+gate - http://dbpedia.org/resource/Gate
+concentric castle - http://dbpedia.org/resource/Concentric_castle
+mountain pass - http://dbpedia.org/resource/Mountain_pass
+traitor - http://dbpedia.org/resource/Treason
+level staff - http://dbpedia.org/resource/Level_staff
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+norman castle - http://dbpedia.org/resource/Normans
+nobility - http://dbpedia.org/resource/Nobility
+castle moat - http://dbpedia.org/resource/Moat
+drawbridge - http://dbpedia.org/resource/Drawbridge
+portchester castle - http://dbpedia.org/resource/Portchester_Castle
+family - http://dbpedia.org/resource/Family
+arrow - http://dbpedia.org/resource/Bow_and_arrow
+spirit - http://dbpedia.org/resource/Spirit
+urban - http://dbpedia.org/resource/Urban_warfare
+normandy - http://dbpedia.org/resource/Normandy
+romanesque style - http://dbpedia.org/resource/Romanesque_architecture
+medieval period - http://dbpedia.org/resource/Middle_Ages
+edward - http://dbpedia.org/resource/Edward_I_of_England
+king noble - http://dbpedia.org/resource/Reynard_the_Fox
+siege week - http://dbpedia.org/resource/Siege_Week
+pop - http://dbpedia.org/resource/Pop_music
+400 meter - http://dbpedia.org/resource/400_metres
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+london class - http://dbpedia.org/resource/London-class_ship_of_the_line
+hill fort - http://dbpedia.org/resource/Hillfort
+fertile crescent - http://dbpedia.org/resource/Fertile_Crescent
+safe room - http://dbpedia.org/resource/Safe_room
+morale - http://dbpedia.org/resource/Morale
+concentric - http://dbpedia.org/resource/Concentric_castle
+endeavour - http://dbpedia.org/resource/HMS_Endeavour
+invasion - http://dbpedia.org/resource/Invasion
+knights - http://dbpedia.org/resource/Knight
+noble - http://dbpedia.org/resource/Nobility
+norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+castellum - http://dbpedia.org/resource/Castra
+wood - http://dbpedia.org/resource/Wood
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+tower - http://dbpedia.org/resource/Keep
+harlech castle - http://dbpedia.org/resource/Harlech_Castle
+latin - http://dbpedia.org/resource/Latin

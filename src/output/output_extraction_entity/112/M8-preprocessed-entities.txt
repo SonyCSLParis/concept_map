@@ -1,0 +1,70 @@
+ireland - http://dbpedia.org/resource/Ireland
+library - http://dbpedia.org/resource/Library
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+trinity - http://dbpedia.org/resource/Trinity
+tourist attraction - http://dbpedia.org/resource/Tourist_attraction
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+library - http://dbpedia.org/resource/Library
+library - http://dbpedia.org/resource/Library
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+armagh - http://dbpedia.org/resource/Armagh
+mulling - http://dbpedia.org/resource/Book_of_Mulling
+light - http://dbpedia.org/resource/Light
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+ogham - http://dbpedia.org/resource/Ogham
+celtic - http://dbpedia.org/resource/Celts
+writing system - http://dbpedia.org/resource/Egyptian_hieroglyphs
+standing stone - http://dbpedia.org/resource/Menhir
+ethiopian - http://dbpedia.org/resource/Ethiopia
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+monastery - http://dbpedia.org/resource/Monastery
+iona - http://dbpedia.org/resource/Iona
+coast - http://dbpedia.org/resource/Coast
+scotland - http://dbpedia.org/resource/Scotland
+st colmcille - http://dbpedia.org/resource/Columba
+st columba - http://dbpedia.org/resource/Columba
+columbines - http://dbpedia.org/resource/Aquilegia
+monastery - http://dbpedia.org/resource/Monastery
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+county meath - http://dbpedia.org/resource/County_Meath
+loot - http://dbpedia.org/resource/Looting
+cumdach - http://dbpedia.org/resource/Cumdach
+metal - http://dbpedia.org/resource/Metalworking
+shrine - http://dbpedia.org/resource/Shrine
+pagan - http://dbpedia.org/resource/Paganism
+norsemen - http://dbpedia.org/resource/Vikings
+folio - http://dbpedia.org/resource/Bookbinding
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+cromwellian wars - http://dbpedia.org/resource/Irish_Confederate_Wars
+calfskin - http://dbpedia.org/resource/Calfskin
+folio - http://dbpedia.org/resource/Bookbinding
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+latin - http://dbpedia.org/resource/Latin
+pictish - http://dbpedia.org/resource/Pictish_stone
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+celtic - http://dbpedia.org/resource/Celts
+christ - http://dbpedia.org/resource/Life_of_Jesus_in_the_New_Testament
+virgin - http://dbpedia.org/resource/Virginity
+spiral - http://dbpedia.org/resource/Spiral
+roundel - http://dbpedia.org/resource/Roundel
+interlace - http://dbpedia.org/resource/Celtic_knot
+carpet - http://dbpedia.org/resource/Carpet
+library - http://dbpedia.org/resource/Library
+long room - http://dbpedia.org/resource/Long_Room
+burgh - http://dbpedia.org/resource/Burgh
+barrel vault - http://dbpedia.org/resource/Barrel_vault
+library - http://dbpedia.org/resource/Library
+trinity - http://dbpedia.org/resource/Trinity
+british irish - http://dbpedia.org/resource/Irish_migration_to_Great_Britain
+stock - http://dbpedia.org/resource/Stock
+long room - http://dbpedia.org/resource/Long_Room
+bookcase - http://dbpedia.org/resource/Bookcase
+library - http://dbpedia.org/resource/Library
+long room - http://dbpedia.org/resource/Long_Room
+harp - http://dbpedia.org/resource/Harp
+ireland - http://dbpedia.org/resource/Ireland
+printing - http://dbpedia.org/resource/Printing
+1916 proclamation - http://dbpedia.org/resource/Proclamation_of_the_Irish_Republic
+irish republic - http://dbpedia.org/resource/Republic_of_Ireland
+easter sunday - http://dbpedia.org/resource/Easter
+liberty hall - http://dbpedia.org/resource/Liberty_Hall

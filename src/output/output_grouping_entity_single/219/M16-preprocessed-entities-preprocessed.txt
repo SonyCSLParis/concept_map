@@ -1,0 +1,84 @@
+signify - http://dbpedia.org/resource/Signify
+stone - http://dbpedia.org/resource/Stonemasonry
+britain - http://dbpedia.org/resource/United_Kingdom
+president franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+nazis - http://dbpedia.org/resource/Nazism
+fear - http://dbpedia.org/resource/Fear
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+chemist - http://dbpedia.org/resource/Chemist
+president - http://dbpedia.org/resource/President_of_the_United_States
+telephone - http://dbpedia.org/resource/Telephone
+enola gay - http://dbpedia.org/resource/Enola_Gay
+paper - http://dbpedia.org/resource/Scientific_literature
+germany - http://dbpedia.org/resource/Nazi_Germany
+olivia - http://dbpedia.org/resource/Olivia_Dunham
+security - http://dbpedia.org/resource/National_security
+gabrielle - http://dbpedia.org/resource/Gabrielle_Solis
+plane - http://dbpedia.org/resource/Airplane
+soviet spy - http://dbpedia.org/resource/KGB
+fascism - http://dbpedia.org/resource/Nazism
+nazi - http://dbpedia.org/resource/Nazism
+newspaper - http://dbpedia.org/resource/News_media
+nuclear age - http://dbpedia.org/resource/Atomic_Age
+energy release - http://dbpedia.org/resource/Energy_release_rate_(fracture_mechanics)
+eye - http://dbpedia.org/resource/Eye
+knowledge discovery - http://dbpedia.org/resource/Knowledge_extraction
+refugee - http://dbpedia.org/resource/Refugee
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+volunteer - http://dbpedia.org/resource/Volunteering
+scientist - http://dbpedia.org/resource/Scientist
+albuquerque - http://dbpedia.org/resource/Kirtland_Air_Force_Base
+fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+atom bomb - http://dbpedia.org/resource/Nuclear_weapon
+vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
+nwt - http://dbpedia.org/resource/Northwest_Territories
+alert - http://dbpedia.org/resource/Weather_warning
+mackenzie king - http://dbpedia.org/resource/William_Lyon_Mackenzie_King
+pilot - http://dbpedia.org/resource/Aircraft_pilot
+einstein - http://dbpedia.org/resource/Albert_Einstein
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+silent - http://dbpedia.org/resource/Silent_film
+lake - http://dbpedia.org/resource/Lake
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+justification - http://dbpedia.org/resource/Right_of_self-defense
+urge - http://dbpedia.org/resource/Urge_(digital_music_service)
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+mathematician - http://dbpedia.org/resource/Mathematician
+bear - http://dbpedia.org/resource/Teddy_bear
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+code - http://dbpedia.org/resource/Code
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+physicist - http://dbpedia.org/resource/Physicist
+eldorado - http://dbpedia.org/resource/El_Dorado
+nazi germany - http://dbpedia.org/resource/Nazi_Germany
+fission - http://dbpedia.org/resource/Nuclear_weapon
+nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+prime minister william lyon mackenzie king - http://dbpedia.org/resource/William_Lyon_Mackenzie_King
+mexico - http://dbpedia.org/resource/Mexico
+wwii - http://dbpedia.org/resource/World_War_II
+soviet union - http://dbpedia.org/resource/Soviet_Union
+article - http://dbpedia.org/resource/Falklands_War
+statistics - http://dbpedia.org/resource/Statistics
+grove - http://dbpedia.org/resource/Sacred_grove
+franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+uranium - http://dbpedia.org/resource/Uranium-235
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+power bomb - http://dbpedia.org/resource/Powerbomb
+albert - http://dbpedia.org/resource/Uncle_Albert
+manhattan district - http://dbpedia.org/resource/Manhattan_Project
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+american president - http://dbpedia.org/resource/President_of_the_United_States
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+hiroshima city - http://dbpedia.org/resource/Hiroshima
+president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+general leslie - http://dbpedia.org/resource/David_Leslie,_1st_Lord_Newark
+bomber - http://dbpedia.org/resource/Bomber
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+detonate - http://dbpedia.org/resource/Detonation
+evolution - http://dbpedia.org/resource/Evolution
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+prison - http://dbpedia.org/resource/Prison

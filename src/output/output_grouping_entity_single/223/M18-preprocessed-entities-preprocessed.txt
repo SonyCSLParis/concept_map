@@ -1,0 +1,850 @@
+fabric - http://dbpedia.org/resource/Textile
+hungary - http://dbpedia.org/resource/Kingdom_of_Hungary
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+danube - http://dbpedia.org/resource/Danube
+pagan - http://dbpedia.org/resource/Paganism
+alexander ii - http://dbpedia.org/resource/Alexander_II_of_Russia
+liguria - http://dbpedia.org/resource/Liguria
+persia - http://dbpedia.org/resource/Sasanian_Empire
+fresco - http://dbpedia.org/resource/Fresco
+palestine - http://dbpedia.org/resource/State_of_Palestine
+progenitor - http://dbpedia.org/resource/Ancestor
+communist period - http://dbpedia.org/resource/Socialist_Republic_of_Romania
+tretyakov gallery - http://dbpedia.org/resource/Tretyakov_Gallery
+serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+die - http://dbpedia.org/resource/Death
+moesia - http://dbpedia.org/resource/Moesia
+theodoric - http://dbpedia.org/resource/Theodoric_the_Great
+patron saint - http://dbpedia.org/resource/Saint_George
+byzantine navy - http://dbpedia.org/resource/Byzantine_navy
+architectural tradition - http://dbpedia.org/resource/Vernacular_architecture
+marriage alliance - http://dbpedia.org/resource/Marriage_of_state
+theodora - http://dbpedia.org/resource/Wicked_Witch_of_the_West
+sant'apollinare - http://dbpedia.org/resource/Sant'Apollinare_alle_Terme_Neroniane-Alessandrine
+pendentive - http://dbpedia.org/resource/Pendentive
+southeast europe - http://dbpedia.org/resource/Southeast_Europe
+pound - http://dbpedia.org/resource/Pound_sterling
+narthex - http://dbpedia.org/resource/Narthex
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+istanbul - http://dbpedia.org/resource/Istanbul
+obedience - http://dbpedia.org/resource/Dog_training
+gaiseric - http://dbpedia.org/resource/Gaiseric
+materia medica - http://dbpedia.org/resource/Homeopathy
+theological - http://dbpedia.org/resource/Theology
+justin - http://dbpedia.org/resource/Justin_I
+islamic prayer - http://dbpedia.org/resource/Salah
+stola - http://dbpedia.org/resource/Stola
+ariadne - http://dbpedia.org/resource/Ariadne
+asia minor - http://dbpedia.org/resource/Anatolia
+forge - http://dbpedia.org/resource/Hearth
+assault - http://dbpedia.org/resource/Battle_of_France
+daphni - http://dbpedia.org/resource/Daphni_Monastery
+abbasid caliphate - http://dbpedia.org/resource/Abbasid_Caliphate
+ornament - http://dbpedia.org/resource/Jewellery
+sanctuary - http://dbpedia.org/resource/Sanctuary
+embroidery - http://dbpedia.org/resource/Embroidery
+north africa - http://dbpedia.org/resource/North_Africa
+northern italy - http://dbpedia.org/resource/Northern_Italy
+comnenian dynasty - http://dbpedia.org/resource/Komnenos
+san vitale - http://dbpedia.org/resource/Basilica_of_San_Vitale
+anastasius - http://dbpedia.org/resource/Anastasius_I_Dicorus
+hellenize - http://dbpedia.org/resource/Hellenization
+saint apollinaris - http://dbpedia.org/resource/Apollinaris_of_Ravenna
+mountainside - http://dbpedia.org/resource/Mountainside,_New_Jersey
+choir - http://dbpedia.org/resource/Chancel
+original greek - http://dbpedia.org/resource/Koine_Greek
+sultan - http://dbpedia.org/resource/Sultan
+nbc - http://dbpedia.org/resource/NBC
+icons - http://dbpedia.org/resource/Icon
+iconoclast - http://dbpedia.org/resource/Byzantine_Iconoclasm
+prized - http://dbpedia.org/resource/Prized
+islamic art - http://dbpedia.org/resource/Islamic_art
+bulgarians - http://dbpedia.org/resource/First_Bulgarian_Empire
+frederick barbarossa - http://dbpedia.org/resource/Frederick_I,_Holy_Roman_Emperor
+live science - http://dbpedia.org/resource/Live_Science
+iconostasis - http://dbpedia.org/resource/Iconostasis
+precedent - http://dbpedia.org/resource/Common_law
+army chief - http://dbpedia.org/resource/Commander-in-Chief_of_the_Pakistan_Army
+golden age - http://dbpedia.org/resource/Golden_Age
+carthage - http://dbpedia.org/resource/Carthage
+occupy central - http://dbpedia.org/resource/2014_Hong_Kong_protests
+monopoly - http://dbpedia.org/resource/Monopoly
+medieval - http://dbpedia.org/resource/Middle_Ages
+icon - http://dbpedia.org/resource/Icon
+byzantine tradition - http://dbpedia.org/resource/Byzantine_art
+ivory carving - http://dbpedia.org/resource/Ivory_carving
+drum - http://dbpedia.org/resource/Tholobate
+pressure - http://dbpedia.org/resource/Pressure
+pompeii - http://dbpedia.org/resource/Pompeii
+wholesale - http://dbpedia.org/resource/Wholesaling
+peace - http://dbpedia.org/resource/Peace
+manuscript illumination - http://dbpedia.org/resource/Illuminated_manuscript
+pillar - http://dbpedia.org/resource/Column
+measure 65 - http://dbpedia.org/resource/2008_Oregon_Ballot_Measure_65
+monreale cathedral - http://dbpedia.org/resource/Monreale
+armenian church - http://dbpedia.org/resource/Armenian_Apostolic_Church
+king khosrau ii - http://dbpedia.org/resource/Khosrow_II
+fortification - http://dbpedia.org/resource/Castle
+diaconicon - http://dbpedia.org/resource/Diaconicon
+cloak - http://dbpedia.org/resource/Chlamys
+urban - http://dbpedia.org/resource/Urbanization
+basil ii - http://dbpedia.org/resource/Basil_II
+bristol - http://dbpedia.org/resource/Bristol_board
+church architecture - http://dbpedia.org/resource/Church_architecture
+taxation - http://dbpedia.org/resource/Tax
+suburb - http://dbpedia.org/resource/Suburb
+vienna - http://dbpedia.org/resource/Vienna
+latin culture - http://dbpedia.org/resource/Italic_peoples
+tile - http://dbpedia.org/resource/Tile
+varangian guard - http://dbpedia.org/resource/Varangians
+independent - http://dbpedia.org/resource/Independence
+frontal - http://dbpedia.org/resource/Frontal_lobe
+historiographical term - http://dbpedia.org/resource/Historiography
+divinity - http://dbpedia.org/resource/Christology
+southern italy - http://dbpedia.org/resource/Southern_Italy
+virgin - http://dbpedia.org/resource/Virginity
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+mesopotamia - http://dbpedia.org/resource/Mesopotamia
+aristocracy - http://dbpedia.org/resource/Aristocracy
+historiae - http://dbpedia.org/resource/History_of_the_Peloponnesian_War
+russian empire - http://dbpedia.org/resource/Russian_Empire
+spirituality - http://dbpedia.org/resource/Spirituality
+mosque - http://dbpedia.org/resource/Mosque
+cavalry - http://dbpedia.org/resource/Cavalry
+nave - http://dbpedia.org/resource/Nave
+echmiadzin - http://dbpedia.org/resource/Vagharshapat
+georgia - http://dbpedia.org/resource/Kingdom_of_Georgia
+volatile - http://dbpedia.org/resource/Volatile_organic_compound
+contrive - http://dbpedia.org/resource/Contrive
+military strategy - http://dbpedia.org/resource/Military_strategy
+greece - http://dbpedia.org/resource/Ancient_Greece
+early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
+venerate - http://dbpedia.org/resource/Veneration
+idiom - http://dbpedia.org/resource/Idiom
+universe - http://dbpedia.org/resource/Universe
+empire control - http://dbpedia.org/resource/MV_Wotan
+salonika - http://dbpedia.org/resource/Thessaloniki
+absolutism - http://dbpedia.org/resource/Autocracy
+egyptian cotton - http://dbpedia.org/resource/Gossypium_barbadense
+augustus - http://dbpedia.org/resource/Augustus
+macedonian period - http://dbpedia.org/resource/Byzantine_Empire_under_the_Macedonian_dynasty
+alexander nevsky cathedral - http://dbpedia.org/resource/Alexander_Nevsky_Cathedral,_Sofia
+altar - http://dbpedia.org/resource/Altar
+heritage - http://dbpedia.org/resource/Tradition
+transport ship - http://dbpedia.org/resource/Maritime_transport
+flower - http://dbpedia.org/resource/Flower
+bacchus - http://dbpedia.org/resource/Temple_of_Bacchus
+orientalism - http://dbpedia.org/resource/Orientalism
+column - http://dbpedia.org/resource/Column
+alp arslan - http://dbpedia.org/resource/Alp_Arslan
+empress irene - http://dbpedia.org/resource/Irene_of_Athens
+lahn - http://dbpedia.org/resource/Lahn
+frankish - http://dbpedia.org/resource/Franks
+coin system - http://dbpedia.org/resource/Barrier_toll_system
+hieronymus wolf - http://dbpedia.org/resource/Hieronymus_Wolf
+plaster - http://dbpedia.org/resource/Stucco
+amalfi - http://dbpedia.org/resource/Amalfi
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+skin - http://dbpedia.org/resource/Skin
+decadent - http://dbpedia.org/resource/Decadence
+rock - http://dbpedia.org/resource/Rock_music
+medieval europe - http://dbpedia.org/resource/Middle_Ages
+square division - http://dbpedia.org/resource/Square_division
+ray - http://dbpedia.org/resource/Batoidea
+mistra - http://dbpedia.org/resource/Mystras
+kronstadt - http://dbpedia.org/resource/Kronstadt
+key pattern - http://dbpedia.org/resource/Bell_pattern
+alexius - http://dbpedia.org/resource/Alexios_I_Komnenos
+open surface - http://dbpedia.org/resource/Surface_(topology)
+independence - http://dbpedia.org/resource/Independence
+zig zag - http://dbpedia.org/resource/Zigzag
+islamic architecture - http://dbpedia.org/resource/Islamic_architecture
+culture - http://dbpedia.org/resource/Culture
+jar - http://dbpedia.org/resource/Jar
+feudal - http://dbpedia.org/resource/Feudalism
+arsuf - http://dbpedia.org/resource/Apollonia–Arsuf
+undergarment - http://dbpedia.org/resource/Undergarment
+attila - http://dbpedia.org/resource/Attila
+syria - http://dbpedia.org/resource/Syria
+lactarius - http://dbpedia.org/resource/Lactarius
+complex system - http://dbpedia.org/resource/Complex_system
+zeno - http://dbpedia.org/resource/Zeno_of_Citium
+roman province - http://dbpedia.org/resource/Roman_province
+ambo - http://dbpedia.org/resource/Pulpit
+euripides - http://dbpedia.org/resource/Euripides
+corinth - http://dbpedia.org/resource/Corinth
+chora - http://dbpedia.org/resource/Khôra
+muslim arabs - http://dbpedia.org/resource/Spread_of_Islam
+despotate - http://dbpedia.org/resource/Despot_(court_title)
+mosaics - http://dbpedia.org/resource/Mosaic
+sacristy - http://dbpedia.org/resource/Sacristy
+venice - http://dbpedia.org/resource/Republic_of_Venice
+karamagara bridge - http://dbpedia.org/resource/Karamagara_Bridge
+alamanni - http://dbpedia.org/resource/Alemanni
+holy apostles - http://dbpedia.org/resource/Apostles
+thermopylae - http://dbpedia.org/resource/Thermopylae
+footwear - http://dbpedia.org/resource/Shoe
+pope - http://dbpedia.org/resource/Pope
+emperor justinian - http://dbpedia.org/resource/Justinian_I
+sclaveni - http://dbpedia.org/resource/Sclaveni
+roman architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+morea - http://dbpedia.org/resource/Morea
+umayyad caliphate - http://dbpedia.org/resource/Umayyad_Caliphate
+venetians - http://dbpedia.org/resource/Republic_of_Venice
+ravenna - http://dbpedia.org/resource/Ravenna
+enamels - http://dbpedia.org/resource/Vitreous_enamel
+medieval greek - http://dbpedia.org/resource/Medieval_Greek
+east west - http://dbpedia.org/resource/East_West_Records
+church - http://dbpedia.org/resource/Church_architecture
+mehmed - http://dbpedia.org/resource/Mehmed_the_Conqueror
+italian peninsula - http://dbpedia.org/resource/Italian_Peninsula
+neophytos - http://dbpedia.org/resource/Neophytos_of_Cyprus
+east roman - http://dbpedia.org/resource/Byzantine_Empire
+antiquity - http://dbpedia.org/resource/Late_antiquity
+kutrigur - http://dbpedia.org/resource/Kutrigurs
+purple parchment - http://dbpedia.org/resource/Purple_parchment
+turkish - http://dbpedia.org/resource/Ottoman_Empire
+schism - http://dbpedia.org/resource/Schism
+daphni monastery - http://dbpedia.org/resource/Daphni_Monastery
+heaven - http://dbpedia.org/resource/Heaven
+ottomans - http://dbpedia.org/resource/Ottoman_(furniture)
+ostrogoth - http://dbpedia.org/resource/Ostrogoths
+middle ages - http://dbpedia.org/resource/Middle_Ages
+rampart - http://dbpedia.org/resource/Defensive_wall
+garrison - http://dbpedia.org/resource/Garrison
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+huns - http://dbpedia.org/resource/Huns
+tarasicodissa - http://dbpedia.org/resource/Zeno_(emperor)
+official language - http://dbpedia.org/resource/Malay_language
+utigurs - http://dbpedia.org/resource/Utigurs
+umayyad mosque - http://dbpedia.org/resource/Umayyad_Mosque
+abraham - http://dbpedia.org/resource/Abraham
+pastoral - http://dbpedia.org/resource/Pastoral
+salonica - http://dbpedia.org/resource/Thessaloniki
+stone - http://dbpedia.org/resource/Masonry
+train - http://dbpedia.org/resource/Rail_transport
+israel antiquities authority - http://dbpedia.org/resource/Israel_Antiquities_Authority
+fear - http://dbpedia.org/resource/Fear
+irene - http://dbpedia.org/resource/Irene_of_Athens
+empire concern - http://dbpedia.org/resource/SS_Lasknes
+eunuch - http://dbpedia.org/resource/Eunuch
+ix - http://dbpedia.org/resource/Dune_(franchise)
+balkans - http://dbpedia.org/resource/Balkans
+sergius - http://dbpedia.org/resource/Sergius_I_of_Constantinople
+roman catholic - http://dbpedia.org/resource/Catholic_Church
+reserve - http://dbpedia.org/resource/Nature_reserve
+sacred - http://dbpedia.org/resource/Sacred
+iconoclastic period - http://dbpedia.org/resource/Iconoclasm
+ostrogothic - http://dbpedia.org/resource/Ostrogoths
+leo - http://dbpedia.org/resource/Leo_Phokas_the_Younger
+canopy - http://dbpedia.org/resource/Baldachin
+witige - http://dbpedia.org/resource/Witege
+grigory gagarin - http://dbpedia.org/resource/Grigory_Gagarin
+persian armenia - http://dbpedia.org/resource/Sasanian_Armenia
+connotation - http://dbpedia.org/resource/Connotation
+roman art - http://dbpedia.org/resource/Roman_art
+calendar call - http://dbpedia.org/resource/Calendar_call
+serbian kingdom - http://dbpedia.org/resource/Kingdom_of_Serbia
+clothing - http://dbpedia.org/resource/Clothing
+ultraviolet - http://dbpedia.org/resource/Ultraviolet
+polychrome brick - http://dbpedia.org/resource/Polychrome
+romanesque - http://dbpedia.org/resource/Romanesque_architecture
+transport - http://dbpedia.org/resource/Transport
+lamp - http://dbpedia.org/resource/Oil_lamp
+inheritance - http://dbpedia.org/resource/Inheritance
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+continuous - http://dbpedia.org/resource/Probability_distribution
+sirmium - http://dbpedia.org/resource/Sirmium
+environ - http://dbpedia.org/resource/Environ_(Loft)
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+narses - http://dbpedia.org/resource/Narses
+chalcedonian orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+law - http://dbpedia.org/resource/Roman_law
+hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
+heavy cavalry - http://dbpedia.org/resource/Knight
+swift - http://dbpedia.org/resource/Swift
+santa maria antiqua - http://dbpedia.org/resource/Santa_Maria_Antiqua
+light - http://dbpedia.org/resource/Light
+civil war - http://dbpedia.org/resource/Civil_war
+roman fleet - http://dbpedia.org/resource/Roman_navy
+monastery - http://dbpedia.org/resource/Monastery
+european civilization - http://dbpedia.org/resource/Western_culture
+kutrigurs - http://dbpedia.org/resource/Kutrigurs
+justinian - http://dbpedia.org/resource/Justinian_I
+greek physician - http://dbpedia.org/resource/Ancient_Greek_medicine
+iconoclasm - http://dbpedia.org/resource/Byzantine_Iconoclasm
+handkerchief - http://dbpedia.org/resource/Handkerchief
+article - http://dbpedia.org/resource/Bratislava
+prothesis - http://dbpedia.org/resource/Liturgy_of_Preparation
+curve - http://dbpedia.org/resource/Curve
+mount sinai - http://dbpedia.org/resource/Saint_Catherine's_Monastery
+cruciform plan - http://dbpedia.org/resource/Cruciform
+roman triumph - http://dbpedia.org/resource/Roman_triumph
+iconophile - http://dbpedia.org/resource/Iconodulism
+saint - http://dbpedia.org/resource/Saint
+qibla - http://dbpedia.org/resource/Qibla
+moscow - http://dbpedia.org/resource/Grand_Duchy_of_Moscow
+byzantine culture - http://dbpedia.org/resource/Byzantine_Empire
+romanesque art - http://dbpedia.org/resource/Romanesque_art
+philosophical - http://dbpedia.org/resource/Philosophy
+sassanid persian - http://dbpedia.org/resource/Sasanian_Empire
+bedouin - http://dbpedia.org/resource/Bedouin
+derivative - http://dbpedia.org/resource/Derivative
+averil cameron - http://dbpedia.org/resource/Averil_Cameron
+slavs - http://dbpedia.org/resource/Slavs
+gelimer - http://dbpedia.org/resource/Gelimer
+peasant - http://dbpedia.org/resource/Peasant
+resistance - http://dbpedia.org/resource/Resistance_movement
+expression - http://dbpedia.org/resource/Idiom
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+justin ii - http://dbpedia.org/resource/Justin_II
+moorish architecture - http://dbpedia.org/resource/Islamic_architecture
+isauri - http://dbpedia.org/resource/Isauria
+hell - http://dbpedia.org/resource/Hell
+feudal lord - http://dbpedia.org/resource/Feudalism
+anastasis - http://dbpedia.org/resource/Church_of_the_Holy_Sepulchre
+aisle - http://dbpedia.org/resource/Aisle
+paenula - http://dbpedia.org/resource/Paenula
+montesquieu - http://dbpedia.org/resource/Montesquieu
+summer - http://dbpedia.org/resource/Summer_solstice
+metal - http://dbpedia.org/resource/Metalworking
+object - http://dbpedia.org/resource/Astronomical_object
+european american - http://dbpedia.org/resource/European_colonization_of_the_Americas
+cloisonne - http://dbpedia.org/resource/Cloisonné
+liturgical - http://dbpedia.org/resource/Liturgy
+slavic church - http://dbpedia.org/resource/Christianization_of_the_Slavs
+alexiad - http://dbpedia.org/resource/Alexiad
+exarchate - http://dbpedia.org/resource/Exarchate_of_Ravenna
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+sudarium - http://dbpedia.org/resource/Sudarium
+burnish - http://dbpedia.org/resource/Burnishing_(metal)
+st sophia - http://dbpedia.org/resource/Sophia_(given_name)
+hagia sophia church - http://dbpedia.org/resource/Saint_Sophia_Church,_Sofia
+dome - http://dbpedia.org/resource/Dome
+varangian - http://dbpedia.org/resource/Varangians
+liturgy - http://dbpedia.org/resource/Liturgy
+governor - http://dbpedia.org/resource/Roman_governor
+suzerainty - http://dbpedia.org/resource/Suzerainty
+geometric pattern - http://dbpedia.org/resource/Islamic_geometric_patterns
+cosmic - http://dbpedia.org/resource/Cosmos
+coating - http://dbpedia.org/resource/Coating
+painting - http://dbpedia.org/resource/Painting
+monk - http://dbpedia.org/resource/Monk
+decadence - http://dbpedia.org/resource/Decadence
+art period - http://dbpedia.org/resource/Periods_in_Western_art_history
+byzantinism - http://dbpedia.org/resource/Byzantinism
+north south - http://dbpedia.org/resource/North_South_MRT_line
+hura - http://dbpedia.org/resource/Hura
+renaissance - http://dbpedia.org/resource/Renaissance
+bristol byzantine - http://dbpedia.org/resource/Bristol_Byzantine
+toe - http://dbpedia.org/resource/Calabria
+incendiary weapon - http://dbpedia.org/resource/Incendiary_device
+eponymous - http://dbpedia.org/resource/Eponym
+mausoleum - http://dbpedia.org/resource/Mausoleum
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+holy sepulchre - http://dbpedia.org/resource/Church_of_the_Holy_Sepulchre
+gold coin - http://dbpedia.org/resource/Gold_coin
+imperial force - http://dbpedia.org/resource/Imperial_Army_(Holy_Roman_Empire)
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+theotokos - http://dbpedia.org/resource/Theotokos
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+biblioteca ambrosiana - http://dbpedia.org/resource/Biblioteca_Ambrosiana
+prayer - http://dbpedia.org/resource/Prayer
+green map - http://dbpedia.org/resource/Green_Map
+macedonian renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
+silk - http://dbpedia.org/resource/Silk
+stealth - http://dbpedia.org/resource/Computer_virus
+nicaea - http://dbpedia.org/resource/Nicaea
+odoacer - http://dbpedia.org/resource/Odoacer
+gold - http://dbpedia.org/resource/Gold
+feast day - http://dbpedia.org/resource/Calendar_of_saints
+pointed arch - http://dbpedia.org/resource/Gothic_architecture
+antioch - http://dbpedia.org/resource/Antioch
+foederati - http://dbpedia.org/resource/Foederati
+iconoclastic - http://dbpedia.org/resource/Byzantine_Iconoclasm
+britain - http://dbpedia.org/resource/Roman_Britain
+capital - http://dbpedia.org/resource/Capital_city
+excommunicate - http://dbpedia.org/resource/Excommunication
+charlemagne - http://dbpedia.org/resource/Charlemagne
+garment - http://dbpedia.org/resource/Clothing
+mule - http://dbpedia.org/resource/Mule
+aspar - http://dbpedia.org/resource/Aspar
+myriokephalon - http://dbpedia.org/resource/Battle_of_Myriokephalon
+recycle - http://dbpedia.org/resource/Recycling
+kiev - http://dbpedia.org/resource/Kievan_Rus'
+frontier - http://dbpedia.org/resource/Frontier
+visigoths - http://dbpedia.org/resource/Visigoths
+olive press - http://dbpedia.org/resource/Olive_oil_extraction
+purple emperor - http://dbpedia.org/resource/Apatura_iris
+illo - http://dbpedia.org/resource/Illo
+navy - http://dbpedia.org/resource/Navy
+dominant - http://dbpedia.org/resource/Dominance_hierarchy
+fourth crusade - http://dbpedia.org/resource/Fourth_Crusade
+legal code - http://dbpedia.org/resource/Roman_law
+orthodoxy - http://dbpedia.org/resource/Eastern_Orthodox_Church
+embroider - http://dbpedia.org/resource/Embroidery
+undeniable - http://dbpedia.org/resource/ROH_Undeniable
+officer - http://dbpedia.org/resource/Police_officer
+cordoba - http://dbpedia.org/resource/Chrysler_Cordoba
+hellenistic - http://dbpedia.org/resource/Hellenistic_period
+ritual - http://dbpedia.org/resource/Ritual
+coin - http://dbpedia.org/resource/Roman_currency
+alabaster - http://dbpedia.org/resource/Alabaster
+imperium - http://dbpedia.org/resource/Imperium
+cataphract - http://dbpedia.org/resource/Cataphract
+john philoponos - http://dbpedia.org/resource/John_Philoponus
+missionary - http://dbpedia.org/resource/Christianity
+rum - http://dbpedia.org/resource/Rum
+late antiquity - http://dbpedia.org/resource/Late_antiquity
+milan - http://dbpedia.org/resource/Milan
+ukraine - http://dbpedia.org/resource/Ukraine
+mosaicist - http://dbpedia.org/resource/Mosaic
+latin language - http://dbpedia.org/resource/Latin
+roman catholic church - http://dbpedia.org/resource/Catholic_Church
+vienna genesis - http://dbpedia.org/resource/Vienna_Genesis
+thessaloniki - http://dbpedia.org/resource/Thessaloniki
+recall - http://dbpedia.org/resource/Product_recall
+roman catholicism - http://dbpedia.org/resource/Catholic_Church
+literature - http://dbpedia.org/resource/Latin_literature
+anatolia - http://dbpedia.org/resource/Anatolia
+bear - http://dbpedia.org/resource/Bear
+belgrade - http://dbpedia.org/resource/Belgrade
+obolensky - http://dbpedia.org/resource/Obolensky
+ivories - http://dbpedia.org/resource/Ivory_carving
+farmer - http://dbpedia.org/resource/Agriculture
+bibliotheque nationale - http://dbpedia.org/resource/Bibliothèque_nationale_de_France
+civilization - http://dbpedia.org/resource/Civilization
+tunic - http://dbpedia.org/resource/Tunic
+invasion - http://dbpedia.org/resource/Invasion
+temple - http://dbpedia.org/resource/Roman_temple
+summation - http://dbpedia.org/resource/Summation
+royal purple - http://dbpedia.org/resource/Tyrian_purple
+doctrine - http://dbpedia.org/resource/Doctrine
+greek cross - http://dbpedia.org/resource/Christian_cross_variants
+muscovy - http://dbpedia.org/resource/Grand_Duchy_of_Moscow
+monarch - http://dbpedia.org/resource/Monarch
+meter - http://dbpedia.org/resource/Hymn
+secular - http://dbpedia.org/resource/Secularity
+lyric poet - http://dbpedia.org/resource/Lyric_poetry
+annexation - http://dbpedia.org/resource/Annexation
+standardization - http://dbpedia.org/resource/Standard_language
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+palaeologan dynasty - http://dbpedia.org/resource/Palaiologos
+orthodox christianity - http://dbpedia.org/resource/Eastern_Orthodox_Church
+david - http://dbpedia.org/resource/David
+turks - http://dbpedia.org/resource/Seljuq_dynasty
+barbarian - http://dbpedia.org/resource/Barbarian
+mosaic church - http://dbpedia.org/resource/Mosaic_(church)
+gulf - http://dbpedia.org/resource/Arab_states_of_the_Persian_Gulf
+monument - http://dbpedia.org/resource/Funerary_art
+sukhumi - http://dbpedia.org/resource/Sukhumi
+neglect - http://dbpedia.org/resource/Urban_decay
+tsar - http://dbpedia.org/resource/Tsar
+idolatry - http://dbpedia.org/resource/Idolatry
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+sofia - http://dbpedia.org/resource/Sofia
+islam - http://dbpedia.org/resource/Islam
+byzantine architecture - http://dbpedia.org/resource/Byzantine_architecture
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+tribe - http://dbpedia.org/resource/Tribe
+dispose - http://dbpedia.org/resource/Dispose_pattern
+heraclius - http://dbpedia.org/resource/Heraclius
+jewelry - http://dbpedia.org/resource/Jewellery
+hagios demetrios - http://dbpedia.org/resource/Hagios_Demetrios
+pallium - http://dbpedia.org/resource/Pallium
+apollonia - http://dbpedia.org/resource/Sozopol
+coastal city - http://dbpedia.org/resource/Coastal_City
+abel - http://dbpedia.org/resource/Cain_and_Abel
+altarpiece - http://dbpedia.org/resource/Altarpiece
+stable - http://dbpedia.org/resource/Stable
+communication - http://dbpedia.org/resource/Communication
+louvre paris - http://dbpedia.org/resource/Louvre
+gothic architecture - http://dbpedia.org/resource/Gothic_architecture
+inlay - http://dbpedia.org/resource/Inlay
+historian - http://dbpedia.org/resource/Roman_historiography
+eternal peace - http://dbpedia.org/resource/Ewiger_Landfriede
+high point - http://dbpedia.org/resource/West_Seattle
+armenia - http://dbpedia.org/resource/Armenian_Kingdom_of_Cilicia
+eastern orthodoxy - http://dbpedia.org/resource/Eastern_Orthodox_Church
+filter - http://dbpedia.org/resource/Optical_filter
+transversal - http://dbpedia.org/resource/Matroid
+cyprus - http://dbpedia.org/resource/Cyprus
+yarmuk - http://dbpedia.org/resource/Battle_of_Yarmouk
+western franks - http://dbpedia.org/resource/West_Francia
+encompass - http://dbpedia.org/resource/Encompass
+manual - http://dbpedia.org/resource/Manual_labour
+persian throne - http://dbpedia.org/resource/Persian_Empire
+seljuk turks - http://dbpedia.org/resource/Seljuq_dynasty
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+palatine chapel - http://dbpedia.org/resource/Cappella_Palatina
+bird - http://dbpedia.org/resource/Bird
+ochrid - http://dbpedia.org/resource/Ohrid
+mystery - http://dbpedia.org/resource/Greco-Roman_mysteries
+chieftain - http://dbpedia.org/resource/Germanic_kingship
+saint vitalis - http://dbpedia.org/resource/Vitalis_of_Milan
+summit - http://dbpedia.org/resource/Arab_League
+collar - http://dbpedia.org/resource/Livery_collar
+dalmatia - http://dbpedia.org/resource/Dalmatia
+tunica - http://dbpedia.org/resource/Tunic
+titanic - http://dbpedia.org/resource/RMS_Titanic
+manuel comnenus - http://dbpedia.org/resource/Manuel_I_Komnenos
+romans - http://dbpedia.org/resource/Romans_(musician)
+humanistic approach - http://dbpedia.org/resource/Humanism
+serbian empire - http://dbpedia.org/resource/Serbian_Empire
+nova roma - http://dbpedia.org/resource/New_Rome
+frieze - http://dbpedia.org/resource/Frieze
+classical - http://dbpedia.org/resource/Classical_antiquity
+habit - http://dbpedia.org/resource/Religious_habit
+theodosius ii - http://dbpedia.org/resource/Theodosius_II
+remarkable - http://dbpedia.org/resource/ReMarkable
+ardabur - http://dbpedia.org/resource/Ardabur_(consul_447)
+goth - http://dbpedia.org/resource/Goths
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+mosaic - http://dbpedia.org/resource/Mosaic
+marche - http://dbpedia.org/resource/Marche
+roman time - http://dbpedia.org/resource/Roman_Empire
+roman rule - http://dbpedia.org/resource/Roman_Empire
+christianize - http://dbpedia.org/resource/Christianization
+veroli casket - http://dbpedia.org/resource/Veroli_Casket
+asian - http://dbpedia.org/resource/Asia
+authoritarianism - http://dbpedia.org/resource/Authoritarianism
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+zenith - http://dbpedia.org/resource/Zenith
+albert - http://dbpedia.org/resource/Albert_II_of_Germany
+porch - http://dbpedia.org/resource/Porch
+byzantine liturgy - http://dbpedia.org/resource/Byzantine_Rite
+maurice - http://dbpedia.org/resource/Saint_Maurice
+manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
+caliphate - http://dbpedia.org/resource/Umayyad_Caliphate
+byzantine period - http://dbpedia.org/resource/Byzantine_Empire
+corpus juris civilis - http://dbpedia.org/resource/Corpus_Juris_Civilis
+pala d'oro - http://dbpedia.org/resource/Aachen_Cathedral
+central greece - http://dbpedia.org/resource/Central_Greece
+congregational church - http://dbpedia.org/resource/Congregational_church
+gallipoli peninsula - http://dbpedia.org/resource/Gallipoli
+architect - http://dbpedia.org/resource/Architecture
+pantocrator - http://dbpedia.org/resource/Christ_Pantocrator
+wall painting - http://dbpedia.org/resource/Fresco
+sensibility - http://dbpedia.org/resource/Sensibility
+galla placidia - http://dbpedia.org/resource/Galla_Placidia
+patriarch - http://dbpedia.org/resource/Ecumenical_Patriarch_of_Constantinople
+conchs - http://dbpedia.org/resource/Conch
+asbestos - http://dbpedia.org/resource/Asbestos
+partition - http://dbpedia.org/resource/Wall
+gaeta - http://dbpedia.org/resource/Gaeta
+saints - http://dbpedia.org/resource/Saint
+great work - http://dbpedia.org/resource/Opus_Majus
+mercenary - http://dbpedia.org/resource/Mercenary
+naples - http://dbpedia.org/resource/Naples
+leo iii - http://dbpedia.org/resource/Leo_III_the_Isaurian
+seljuk - http://dbpedia.org/resource/Seljuq_dynasty
+central anatolia - http://dbpedia.org/resource/Anatolia
+ancient rome - http://dbpedia.org/resource/Ancient_Rome
+wine press - http://dbpedia.org/resource/Wine_press
+persecution - http://dbpedia.org/resource/Persecution_of_Christians_in_the_Roman_Empire
+sangarius bridge - http://dbpedia.org/resource/Sangarius_Bridge
+resemble - http://dbpedia.org/resource/SoltyRei
+enamel - http://dbpedia.org/resource/Vitreous_enamel
+nemanjic - http://dbpedia.org/resource/Nemanjić_dynasty
+isaurian - http://dbpedia.org/resource/Isauria
+basilican - http://dbpedia.org/resource/Basilica
+muslim empire - http://dbpedia.org/resource/Caliphate
+basiliscus - http://dbpedia.org/resource/Basiliscus
+holy wisdom - http://dbpedia.org/resource/Holy_Wisdom
+syriac - http://dbpedia.org/resource/Syriac_language
+magister militum - http://dbpedia.org/resource/Magister_militum
+romanus iv - http://dbpedia.org/resource/Romanos_IV_Diogenes
+garbage dump - http://dbpedia.org/resource/Landfill
+eye level - http://dbpedia.org/resource/Eye_Level
+arch - http://dbpedia.org/resource/Arch
+chain - http://dbpedia.org/resource/Chain
+ottoman turks - http://dbpedia.org/resource/Ottoman_Empire
+squinch - http://dbpedia.org/resource/Squinch
+byzantine style - http://dbpedia.org/resource/Byzantine_art
+subsidy - http://dbpedia.org/resource/Subsidy
+pharos - http://dbpedia.org/resource/Lighthouse
+leo ii - http://dbpedia.org/resource/Pope_Leo_II
+procopius - http://dbpedia.org/resource/Procopius
+paludamentum - http://dbpedia.org/resource/Paludamentum
+tel aviv - http://dbpedia.org/resource/Tel_Aviv
+byzantine enamel - http://dbpedia.org/resource/Byzantine_enamel
+catherine - http://dbpedia.org/resource/Catherine_of_Alexandria
+byzantine art - http://dbpedia.org/resource/Byzantine_art
+vaulting - http://dbpedia.org/resource/Equestrian_vaulting
+marble - http://dbpedia.org/resource/Marble
+city - http://dbpedia.org/resource/City
+saint sava - http://dbpedia.org/resource/Saint_Sava
+leontius - http://dbpedia.org/resource/Leontios
+dependence - http://dbpedia.org/resource/Correlation_and_dependence
+mythology - http://dbpedia.org/resource/Myth
+khosrau ii - http://dbpedia.org/resource/Khosrow_II
+christian church - http://dbpedia.org/resource/Christianity
+apse - http://dbpedia.org/resource/Apse
+balkan peninsula - http://dbpedia.org/resource/Balkans
+conservative - http://dbpedia.org/resource/Conservatism
+greek fire - http://dbpedia.org/resource/Greek_fire
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+thrive - http://dbpedia.org/resource/Thrive_Music
+nea ekklesia - http://dbpedia.org/resource/Nea_Ekklesia
+negev desert - http://dbpedia.org/resource/Negev
+persians - http://dbpedia.org/resource/Sasanian_Empire
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+eastern orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+repel - http://dbpedia.org/resource/Repel
+capital city - http://dbpedia.org/resource/Kiev
+roman polytheism - http://dbpedia.org/resource/Religion_in_ancient_Rome
+exoticism - http://dbpedia.org/resource/Exoticism
+archaeologist - http://dbpedia.org/resource/Archaeology
+monastery church - http://dbpedia.org/resource/Serbian_Orthodox_Church
+uv light - http://dbpedia.org/resource/Ultraviolet
+renaissance humanism - http://dbpedia.org/resource/Renaissance_humanism
+sassanid persia - http://dbpedia.org/resource/Sasanian_Empire
+czar - http://dbpedia.org/resource/Tsar
+imperator romanorum - http://dbpedia.org/resource/Holy_Roman_Emperor
+emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
+western europe - http://dbpedia.org/resource/Western_Roman_Empire
+muslim conquest - http://dbpedia.org/resource/Spread_of_Islam
+strong city - http://dbpedia.org/resource/Strong_City,_Kansas
+belisarius - http://dbpedia.org/resource/Belisarius
+interact - http://dbpedia.org/resource/Interaction
+germanic king - http://dbpedia.org/resource/Germanic_kingship
+hosios lukas - http://dbpedia.org/resource/Hosios_Loukas
+lombards - http://dbpedia.org/resource/Lombards
+holy roman empire - http://dbpedia.org/resource/Holy_Roman_Empire
+gothic wars - http://dbpedia.org/resource/Gothic_Wars
+persian - http://dbpedia.org/resource/Persian_language
+mihrab - http://dbpedia.org/resource/Mihrab
+hieratic - http://dbpedia.org/resource/Hieratic
+peace treaty - http://dbpedia.org/resource/Peace_treaty
+western roman empire - http://dbpedia.org/resource/Roman_Empire
+saint stephen - http://dbpedia.org/resource/Saint_Stephen
+natural philosopher - http://dbpedia.org/resource/Natural_philosophy
+harbaville triptych - http://dbpedia.org/resource/Harbaville_Triptych
+central italy - http://dbpedia.org/resource/Central_Italy
+superpower - http://dbpedia.org/resource/Superpower
+byzantine dress - http://dbpedia.org/resource/Byzantine_dress
+relic - http://dbpedia.org/resource/Relic
+evolution - http://dbpedia.org/resource/Evolution
+construction industry - http://dbpedia.org/resource/Construction
+unearth - http://dbpedia.org/resource/Unearth
+monophysitism - http://dbpedia.org/resource/Monophysitism
+history play - http://dbpedia.org/resource/Shakespearean_history
+latin - http://dbpedia.org/resource/Latin
+great palace - http://dbpedia.org/resource/Great_Palace_of_Constantinople
+basilicas - http://dbpedia.org/resource/Basilica
+ravena - http://dbpedia.org/resource/Kiefer_Ravena
+eastern empire - http://dbpedia.org/resource/Byzantine_Empire
+totila - http://dbpedia.org/resource/Totila
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+alan - http://dbpedia.org/resource/Alan_Dawa_Dolma
+christianity - http://dbpedia.org/resource/Christianity
+jerusalem - http://dbpedia.org/resource/Jerusalem
+plea - http://dbpedia.org/resource/Plea
+heel - http://dbpedia.org/resource/High-heeled_shoe
+franks - http://dbpedia.org/resource/Franks
+military administration - http://dbpedia.org/resource/Soviet_Military_Administration_in_Germany
+patriarch photios - http://dbpedia.org/resource/Photios_I_of_Constantinople
+chios - http://dbpedia.org/resource/Chios
+portrait - http://dbpedia.org/resource/Portrait
+linen - http://dbpedia.org/resource/Linen
+macedonian - http://dbpedia.org/resource/Ancient_Macedonians
+logistic - http://dbpedia.org/resource/Logistics
+cover system - http://dbpedia.org/resource/Cover_system
+thrace - http://dbpedia.org/resource/Thrace
+rome - http://dbpedia.org/resource/Roman_Empire
+st george - http://dbpedia.org/resource/Saint_George
+damascus - http://dbpedia.org/resource/Damascus
+ft 30 - http://dbpedia.org/resource/FT_30
+tabard - http://dbpedia.org/resource/Tabard
+illyricum - http://dbpedia.org/resource/Illyria
+epitome - http://dbpedia.org/resource/Epitome
+ivan iii - http://dbpedia.org/resource/Ivan_III_of_Russia
+chancel - http://dbpedia.org/resource/Apse
+avars - http://dbpedia.org/resource/Pannonian_Avars
+sultan mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
+medieval architecture - http://dbpedia.org/resource/Medieval_architecture
+space - http://dbpedia.org/resource/Space
+norman sicily - http://dbpedia.org/resource/Sicily
+puppet - http://dbpedia.org/resource/Puppet_state
+intelligence gathering - http://dbpedia.org/resource/Espionage
+mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
+procession - http://dbpedia.org/resource/Stations_of_the_Cross
+artifact - http://dbpedia.org/resource/Magic_in_fiction
+coast - http://dbpedia.org/resource/Coast
+siege - http://dbpedia.org/resource/Siege
+code - http://dbpedia.org/resource/Code_of_law
+fountain - http://dbpedia.org/resource/Fountain
+rift - http://dbpedia.org/resource/Rift
+nonnus - http://dbpedia.org/resource/Nonnus
+byzantine army - http://dbpedia.org/resource/Byzantine_Empire
+pharmaceutical - http://dbpedia.org/resource/Drug
+holy spirit - http://dbpedia.org/resource/Holy_Spirit
+intensify - http://dbpedia.org/resource/Intensify
+limburgan - http://dbpedia.org/resource/Limburgish
+fold - http://dbpedia.org/resource/Protein_folding
+sicily - http://dbpedia.org/resource/Sicily
+fragmentation - http://dbpedia.org/resource/Grenade
+latin empire - http://dbpedia.org/resource/Latin_Empire
+fluorescence - http://dbpedia.org/resource/Fluorescence
+tiberius ii - http://dbpedia.org/resource/Tiberius_II_Constantine
+humanism - http://dbpedia.org/resource/Renaissance_humanism
+adriatic sea - http://dbpedia.org/resource/Adriatic_Sea
+european art - http://dbpedia.org/resource/Art_of_Europe
+shrine - http://dbpedia.org/resource/Shrine
+goths - http://dbpedia.org/resource/Goths
+constans ii - http://dbpedia.org/resource/Constans_II
+classical order - http://dbpedia.org/resource/Classical_order
+vault - http://dbpedia.org/resource/Bank_vault
+jvari monastery - http://dbpedia.org/resource/Jvari_(monastery)
+abeyance - http://dbpedia.org/resource/Abeyance
+rational - http://dbpedia.org/resource/Reason
+trebizond - http://dbpedia.org/resource/Empire_of_Trebizond
+st - http://dbpedia.org/resource/SATB
+village - http://dbpedia.org/resource/Village
+industrial - http://dbpedia.org/resource/Industrial_Revolution
+defence - http://dbpedia.org/resource/Military
+scripture - http://dbpedia.org/resource/Bible
+century gothic - http://dbpedia.org/resource/Century_Gothic
+murder - http://dbpedia.org/resource/Murder
+spirit - http://dbpedia.org/resource/Soul
+edward gibbon - http://dbpedia.org/resource/Edward_Gibbon
+assassination - http://dbpedia.org/resource/Assassination
+geometric - http://dbpedia.org/resource/Islamic_geometric_patterns
+atrium - http://dbpedia.org/resource/Atrium_(architecture)
+synthronon - http://dbpedia.org/resource/Synthronon
+transmitter - http://dbpedia.org/resource/Transmitter
+enchance - http://dbpedia.org/resource/Enchance
+defense - http://dbpedia.org/resource/Military
+iliad - http://dbpedia.org/resource/Iliad
+eastern european - http://dbpedia.org/resource/Eastern_Europe
+historiography - http://dbpedia.org/resource/Roman_historiography
+bema - http://dbpedia.org/resource/Bema
+westminster cathedral - http://dbpedia.org/resource/Westminster_Cathedral
+circle - http://dbpedia.org/resource/Circle
+italian mainland - http://dbpedia.org/resource/Italian_Peninsula
+ciborium - http://dbpedia.org/resource/Ciborium_(architecture)
+landscape - http://dbpedia.org/resource/Landscape
+macedonia - http://dbpedia.org/resource/North_Macedonia
+single - http://dbpedia.org/resource/Phonograph_record
+normans - http://dbpedia.org/resource/Normans
+theodosius - http://dbpedia.org/resource/Theodosius_I
+lose control - http://dbpedia.org/resource/Lose_Control_(Missy_Elliott_song)
+byzantine greek - http://dbpedia.org/resource/Byzantine_Empire
+reliquary - http://dbpedia.org/resource/Relic
+diocletian - http://dbpedia.org/resource/Diocletian
+unearthed - http://dbpedia.org/resource/Triple_J_Unearthed
+khosrau - http://dbpedia.org/resource/Khosrow_I
+epic poet - http://dbpedia.org/resource/Epic_poetry
+saxons - http://dbpedia.org/resource/Anglo-Saxons
+apsidal - http://dbpedia.org/resource/Apse
+transept - http://dbpedia.org/resource/Transept
+cameron - http://dbpedia.org/resource/David_Cameron
+horde - http://dbpedia.org/resource/Forced_displacement
+imperator - http://dbpedia.org/resource/Imperator
+crusade - http://dbpedia.org/resource/Crusades
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+textile manufacture - http://dbpedia.org/resource/Textile_manufacturing
+cattolica di stilo - http://dbpedia.org/resource/Cattolica_di_Stilo
+st catherine - http://dbpedia.org/resource/Catherine_of_Alexandria
+melchizedek - http://dbpedia.org/resource/Melchizedek
+free peasant - http://dbpedia.org/resource/Free_tenant
+brick - http://dbpedia.org/resource/Brick
+macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
+mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
+cannon - http://dbpedia.org/resource/Cannon
+sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
+landmark - http://dbpedia.org/resource/Landmark
+veneration - http://dbpedia.org/resource/Relic
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+urban culture - http://dbpedia.org/resource/Urban_culture
+splendid - http://dbpedia.org/resource/Le_Splendid
+caesar - http://dbpedia.org/resource/Julius_Caesar
+ivan iv - http://dbpedia.org/resource/Ivan_the_Terrible
+western mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+human - http://dbpedia.org/resource/Human
+naturalistic - http://dbpedia.org/resource/Constructed_language
+hagia irene - http://dbpedia.org/resource/Hagia_Irene
+cult - http://dbpedia.org/resource/Saint
+bell - http://dbpedia.org/resource/Bell_tower
+tower - http://dbpedia.org/resource/Bell_tower
+court - http://dbpedia.org/resource/Courtyard
+cloth - http://dbpedia.org/resource/Textile
+byzantine painting - http://dbpedia.org/resource/Byzantine_art
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
+bureaucracy - http://dbpedia.org/resource/Byzantine_bureaucracy_and_aristocracy
+roman - http://dbpedia.org/resource/Roman_Empire
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+merchant - http://dbpedia.org/resource/Merchant
+fashion - http://dbpedia.org/resource/Fashion
+christ - http://dbpedia.org/resource/Jesus
+byzantine church - http://dbpedia.org/resource/Byzantine_Empire
+christian art - http://dbpedia.org/resource/Christian_art
+greeks - http://dbpedia.org/resource/Ancient_Greece
+great church - http://dbpedia.org/resource/Hagia_Sophia
+longitudinal axis - http://dbpedia.org/resource/Anatomical_terms_of_location
+epirus - http://dbpedia.org/resource/Epirus
+saint mark - http://dbpedia.org/resource/Mark_the_Evangelist
+psalms - http://dbpedia.org/resource/Psalms
+athens - http://dbpedia.org/resource/Athens
+ancient roman - http://dbpedia.org/resource/Roman_Empire
+theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
+basilica cistern - http://dbpedia.org/resource/Basilica_Cistern
+alexius comnenus - http://dbpedia.org/resource/Alexios_I_Komnenos
+flare - http://dbpedia.org/resource/Flare
+paris psalter - http://dbpedia.org/resource/Paris_Psalter
+rossano gospels - http://dbpedia.org/resource/Rossano_Gospels
+seljuks - http://dbpedia.org/resource/Seljuq_dynasty
+nea moni - http://dbpedia.org/resource/Nea_Moni_of_Chios
+monophysite christianity - http://dbpedia.org/resource/Monophysitism
+revolt - http://dbpedia.org/resource/Rebellion
+solea - http://dbpedia.org/resource/Soleas
+gaul - http://dbpedia.org/resource/Gaul
+ostrogoths - http://dbpedia.org/resource/Ostrogoths
+counterpoise - http://dbpedia.org/resource/Menat
+marcian - http://dbpedia.org/resource/Marcian
+religious rite - http://dbpedia.org/resource/Rite
+st nicholas - http://dbpedia.org/resource/Saint_Nicholas
+autocracy - http://dbpedia.org/resource/Autocracy
+terminal - http://dbpedia.org/resource/Port
+eastern orthodox church - http://dbpedia.org/resource/Eastern_Orthodox_Church
+border art - http://dbpedia.org/resource/Border_art
+enamel work - http://dbpedia.org/resource/Vitreous_enamel
+hem - http://dbpedia.org/resource/Hem
+map - http://dbpedia.org/resource/Map
+grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+textile - http://dbpedia.org/resource/Textile
+saint demetrius - http://dbpedia.org/resource/Demetrius_of_Thessaloniki
+hemicycle - http://dbpedia.org/resource/Hemicycle
+roman history - http://dbpedia.org/resource/Cassius_Dio
+plant - http://dbpedia.org/resource/Factory
+crusaders - http://dbpedia.org/resource/Fourth_Crusade
+orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+anna comnena - http://dbpedia.org/resource/Anna_Komnene
+pet - http://dbpedia.org/resource/Dog
+roman church - http://dbpedia.org/resource/Romanesque_architecture
+sun tzu - http://dbpedia.org/resource/Sun_Tzu
+religious art - http://dbpedia.org/resource/Religious_art
+noble - http://dbpedia.org/resource/Nobility
+wool - http://dbpedia.org/resource/Wool
+slav - http://dbpedia.org/resource/Slavs
+adorn - http://dbpedia.org/resource/Adorn_(song)
+dyrrachium - http://dbpedia.org/resource/Durrës
+empress theodora - http://dbpedia.org/resource/Theodora_(6th_century)
+constantine xi paleologus - http://dbpedia.org/resource/Constantine_XI_Palaiologos
+tiling - http://dbpedia.org/resource/Tile
+romulus augustus - http://dbpedia.org/resource/Romulus_Augustulus
+eastern bloc - http://dbpedia.org/resource/Eastern_Bloc
+latins - http://dbpedia.org/resource/Latin_Empire
+crimea - http://dbpedia.org/resource/Crimea
+russia - http://dbpedia.org/resource/Russia
+empress - http://dbpedia.org/resource/Emperor
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+naturalism - http://dbpedia.org/resource/Natural_law
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+athos - http://dbpedia.org/resource/Mount_Athos
+copper - http://dbpedia.org/resource/Copper
+sant - http://dbpedia.org/resource/Sant_Mat
+early christian - http://dbpedia.org/resource/History_of_Christianity
+fatimids - http://dbpedia.org/resource/Fatimid_Caliphate
+palermo - http://dbpedia.org/resource/Palermo

@@ -1,0 +1,18 @@
+religious architecture - http://dbpedia.org/resource/Sacral_architecture
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+potomac highlands - http://dbpedia.org/resource/Potomac_Highlands
+wildwood - http://dbpedia.org/resource/Wildwood,_New_Jersey
+southern methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church,_South
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+hampshire county - http://dbpedia.org/resource/Hampshire
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+church - http://dbpedia.org/resource/Christian_denomination
+african americans - http://dbpedia.org/resource/African_Americans
+region - http://dbpedia.org/resource/Region
+west virginia - http://dbpedia.org/resource/West_Virginia
+methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church
+confederacy - http://dbpedia.org/resource/Confederate_States_of_America
+rural - http://dbpedia.org/resource/Rural_area
+american civil war - http://dbpedia.org/resource/American_Civil_War
+town - http://dbpedia.org/resource/Market_town
+baptist - http://dbpedia.org/resource/Baptists

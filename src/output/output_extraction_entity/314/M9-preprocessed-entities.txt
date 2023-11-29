@@ -1,0 +1,89 @@
+csi - http://dbpedia.org/resource/Forensic_science
+television - http://dbpedia.org/resource/Television
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+phd - http://dbpedia.org/resource/Doctor_of_Philosophy
+clinical professor - http://dbpedia.org/resource/Clinical_professor
+nursing - http://dbpedia.org/resource/Nursing
+csi - http://dbpedia.org/resource/Forensic_science
+forensic science - http://dbpedia.org/resource/Forensic_science
+crime - http://dbpedia.org/resource/Crime
+television - http://dbpedia.org/resource/Television
+csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
+perception - http://dbpedia.org/resource/Perception
+juror - http://dbpedia.org/resource/Jury
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+criminal trial - http://dbpedia.org/resource/Criminal_procedure
+prosecutor - http://dbpedia.org/resource/Prosecutor
+technology - http://dbpedia.org/resource/Technology
+juror - http://dbpedia.org/resource/Jury
+forensic science - http://dbpedia.org/resource/Forensic_science
+evidence collection - http://dbpedia.org/resource/Digital_forensics
+csi - http://dbpedia.org/resource/Forensic_science
+television - http://dbpedia.org/resource/Television
+juror - http://dbpedia.org/resource/Jury
+convict - http://dbpedia.org/resource/Conviction
+television - http://dbpedia.org/resource/Television
+juror - http://dbpedia.org/resource/Jury
+dna test - http://dbpedia.org/resource/DNA_profiling
+handwriting analysis - http://dbpedia.org/resource/Questioned_document_examination
+gunshot residue - http://dbpedia.org/resource/Gunshot_residue
+crime - http://dbpedia.org/resource/Crime
+law - http://dbpedia.org/resource/Law_of_the_United_States
+special victims unit - http://dbpedia.org/resource/Special_Victims_Unit
+csi - http://dbpedia.org/resource/Forensic_science
+criminal minds - http://dbpedia.org/resource/Criminal_Minds
+legal proceeding - http://dbpedia.org/resource/Trial
+defense - http://dbpedia.org/resource/Criminal_defense_lawyer
+csi - http://dbpedia.org/resource/Forensic_science
+forensic science - http://dbpedia.org/resource/Forensic_science
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+police - http://dbpedia.org/resource/Police
+crime laboratory - http://dbpedia.org/resource/Crime_lab
+case study - http://dbpedia.org/resource/Case_study
+csi - http://dbpedia.org/resource/Forensic_science
+juror - http://dbpedia.org/resource/Jury
+dust - http://dbpedia.org/resource/Dust
+lawn - http://dbpedia.org/resource/Lawn
+fingerprint - http://dbpedia.org/resource/DNA_profiling
+case study - http://dbpedia.org/resource/Case_study
+district attorney - http://dbpedia.org/resource/District_attorney
+jurors - http://dbpedia.org/resource/Jury
+test case - http://dbpedia.org/resource/Test_case
+technology - http://dbpedia.org/resource/Technology
+television - http://dbpedia.org/resource/Television
+juror - http://dbpedia.org/resource/Jury
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+criminal case - http://dbpedia.org/resource/Criminal_law
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+criminal case - http://dbpedia.org/resource/Criminal_law
+fingerprint - http://dbpedia.org/resource/DNA_profiling
+criminal case - http://dbpedia.org/resource/Criminal_law
+firearm - http://dbpedia.org/resource/Firearm
+laboratory - http://dbpedia.org/resource/Crime_lab
+criminal case - http://dbpedia.org/resource/Criminal_law
+defense - http://dbpedia.org/resource/Criminal_defense_lawyer
+expert witness - http://dbpedia.org/resource/Expert_witness
+crime scene - http://dbpedia.org/resource/Crime_scene
+photography - http://dbpedia.org/resource/Photography
+emergency room - http://dbpedia.org/resource/Emergency_department
+hospital - http://dbpedia.org/resource/Hospital
+chart - http://dbpedia.org/resource/Chart
+dna - http://dbpedia.org/resource/DNA
+dna - http://dbpedia.org/resource/DNA
+crime scene - http://dbpedia.org/resource/Crime_scene
+crime - http://dbpedia.org/resource/Crime
+technology - http://dbpedia.org/resource/Technology
+forensic science - http://dbpedia.org/resource/Forensic_science
+single - http://dbpedia.org/resource/Single_person
+convict - http://dbpedia.org/resource/Conviction
+juror - http://dbpedia.org/resource/Jury
+final verdict - http://dbpedia.org/resource/Final_Verdict
+column - http://dbpedia.org/resource/Columnist
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+phd - http://dbpedia.org/resource/Doctor_of_Philosophy
+forensic - http://dbpedia.org/resource/Forensic_identification
+health care - http://dbpedia.org/resource/Health_care
+center city - http://dbpedia.org/resource/New_Orleans_Central_Business_District
+drexel university - http://dbpedia.org/resource/Drexel_University
+philadelphia - http://dbpedia.org/resource/Philadelphia
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings

@@ -1,0 +1,12 @@
+stock photo - http://dbpedia.org/resource/Stock_photography
+buddha statue - http://dbpedia.org/resource/Buddharupa
+stupa - http://dbpedia.org/resource/Stupa
+borobudur - http://dbpedia.org/resource/Borobudur
+barabudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+jogjakarta - http://dbpedia.org/resource/Yogyakarta
+sunrise - http://dbpedia.org/resource/Sunrise
+mahayana - http://dbpedia.org/resource/Mahayana
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+resolution - http://dbpedia.org/resource/Image_resolution

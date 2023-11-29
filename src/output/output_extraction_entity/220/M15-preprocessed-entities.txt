@@ -1,0 +1,14 @@
+british imperialism - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+sun - http://dbpedia.org/resource/Solar_deity
+motivation - http://dbpedia.org/resource/Motivation
+british empire - http://dbpedia.org/resource/British_Empire
+consumer good - http://dbpedia.org/resource/Final_good
+christianity - http://dbpedia.org/resource/Christianity
+race - http://dbpedia.org/resource/Racing
+navy - http://dbpedia.org/resource/Navy
+precision - http://dbpedia.org/resource/Accuracy_and_precision
+rifle - http://dbpedia.org/resource/Rifle
+machine gun - http://dbpedia.org/resource/Machine_gun
+communication - http://dbpedia.org/resource/Communication
+patchwork - http://dbpedia.org/resource/Patchwork

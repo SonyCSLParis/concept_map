@@ -1,0 +1,49 @@
+castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
+english heritage - http://dbpedia.org/resource/English_Heritage
+decay - http://dbpedia.org/resource/Urban_decay
+summer - http://dbpedia.org/resource/Summer
+roman fort - http://dbpedia.org/resource/Castra
+robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+edward iv - http://dbpedia.org/resource/Edward_IV_of_England
+stone - http://dbpedia.org/resource/Stonemasonry
+lady anne - http://dbpedia.org/resource/Anne_Neville
+george clifford - http://dbpedia.org/resource/George_Clifford_III
+court - http://dbpedia.org/resource/Royal_court
+clifford family - http://dbpedia.org/resource/Baron_de_Clifford
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+defence - http://dbpedia.org/resource/Military
+henry vii tudor - http://dbpedia.org/resource/Henry_VII_of_England
+corner stone - http://dbpedia.org/resource/Cornerstone
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+confluence - http://dbpedia.org/resource/Confluence
+river lowther - http://dbpedia.org/resource/River_Lowther
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+john henry - http://dbpedia.org/resource/John_W._Henry
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
+shilling - http://dbpedia.org/resource/Shilling
+lancastrian - http://dbpedia.org/resource/House_of_Lancaster
+garage sale - http://dbpedia.org/resource/Garage_sale
+henry vi - http://dbpedia.org/resource/Henry_VI_of_England
+king john - http://dbpedia.org/resource/John_Balliol
+earl - http://dbpedia.org/resource/Earl
+brocavum - http://dbpedia.org/resource/Brocavum
+prelude - http://dbpedia.org/resource/Prologue
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+prosper - http://dbpedia.org/resource/Prosper_of_Aquitaine
+eamont - http://dbpedia.org/resource/River_Eamont
+gunpowder - http://dbpedia.org/resource/Gunpowder
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+clifford castle - http://dbpedia.org/resource/Clifford_Castle
+nevilles - http://dbpedia.org/resource/House_of_Neville
+yorkist - http://dbpedia.org/resource/House_of_York
+marriage - http://dbpedia.org/resource/Same-sex_marriage
+great hall - http://dbpedia.org/resource/Great_hall
+henry - http://dbpedia.org/resource/Henry_(unit)
+john clifford - http://dbpedia.org/resource/John_Clifford,_9th_Baron_Clifford
+william wordsworth - http://dbpedia.org/resource/William_Wordsworth
+tower - http://dbpedia.org/resource/Keep
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+shell - http://dbpedia.org/resource/Seashell
+poem - http://dbpedia.org/resource/Poetry
+george - http://dbpedia.org/resource/George_(band)

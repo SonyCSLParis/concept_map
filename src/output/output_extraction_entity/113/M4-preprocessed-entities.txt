@@ -1,0 +1,123 @@
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+borobudur - http://dbpedia.org/resource/Borobudur
+article - http://dbpedia.org/resource/Historicity_of_Jesus
+muslim - http://dbpedia.org/resource/Islam
+islam - http://dbpedia.org/resource/Islam
+archipelago - http://dbpedia.org/resource/Maritime_Southeast_Asia
+hinduism - http://dbpedia.org/resource/Hinduism
+buddhism - http://dbpedia.org/resource/Buddhism
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+compound - http://dbpedia.org/resource/Leaf
+kedu - http://dbpedia.org/resource/Kedu_Plain
+central java - http://dbpedia.org/resource/Central_Java
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+compound - http://dbpedia.org/resource/Leaf
+monument - http://dbpedia.org/resource/Monument
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+pyramid - http://dbpedia.org/resource/Pyramid
+concentric - http://dbpedia.org/resource/Concentric_objects
+terrace - http://dbpedia.org/resource/Fluvial_terrace
+trunk - http://dbpedia.org/resource/Elephant
+cone - http://dbpedia.org/resource/Volcanic_cone
+stupa - http://dbpedia.org/resource/Stupa
+mound - http://dbpedia.org/resource/Mound
+buddhist - http://dbpedia.org/resource/Buddhism
+relic - http://dbpedia.org/resource/Relic
+balustrade - http://dbpedia.org/resource/Baluster
+borobudur - http://dbpedia.org/resource/Borobudur
+relief - http://dbpedia.org/resource/Relief
+buddhist - http://dbpedia.org/resource/Buddhism
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+mahayana - http://dbpedia.org/resource/Mahayana
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+a.d. - http://dbpedia.org/resource/Anno_Domini
+sailendra - http://dbpedia.org/resource/Shailendra_dynasty
+south india - http://dbpedia.org/resource/South_India
+indochina - http://dbpedia.org/resource/Mainland_Southeast_Asia
+buddhist - http://dbpedia.org/resource/Buddhism
+coin - http://dbpedia.org/resource/Roman_currency
+ceramic - http://dbpedia.org/resource/Pottery
+pilgrim - http://dbpedia.org/resource/Pilgrimage
+sacred site - http://dbpedia.org/resource/Shrine
+artefact - http://dbpedia.org/resource/Cultural_artifact
+borobudur - http://dbpedia.org/resource/Borobudur
+a.d. - http://dbpedia.org/resource/Anno_Domini
+islam - http://dbpedia.org/resource/Islam
+java 13 - http://dbpedia.org/resource/Java_version_history
+a.d. - http://dbpedia.org/resource/Anno_Domini
+javan - http://dbpedia.org/resource/Javan_rhinoceros
+eastern island - http://dbpedia.org/resource/Eastern_Island
+borobudur - http://dbpedia.org/resource/Borobudur
+decay - http://dbpedia.org/resource/Decomposition
+volcanic eruption - http://dbpedia.org/resource/Volcano
+borobudur - http://dbpedia.org/resource/Borobudur
+lush - http://dbpedia.org/resource/Lush_3
+vegetation - http://dbpedia.org/resource/Vegetation
+volcanic ash - http://dbpedia.org/resource/Volcanic_ash
+borobudur - http://dbpedia.org/resource/Borobudur
+sir thomas stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
+british governor - http://dbpedia.org/resource/Henry_Bartle_Frere
+city - http://dbpedia.org/resource/City
+borobudur - http://dbpedia.org/resource/Borobudur
+excavation - http://dbpedia.org/resource/Digging
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+excavation - http://dbpedia.org/resource/Digging
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+stone - http://dbpedia.org/resource/Stone_tool
+building material - http://dbpedia.org/resource/Building_material
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+borobudur - http://dbpedia.org/resource/Borobudur
+republic - http://dbpedia.org/resource/Republic
+cultural heritage - http://dbpedia.org/resource/Cultural_heritage
+borobudur - http://dbpedia.org/resource/Borobudur
+indonesian government - http://dbpedia.org/resource/Indonesia
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+monument - http://dbpedia.org/resource/Monument
+terrace - http://dbpedia.org/resource/Fluvial_terrace
+stone - http://dbpedia.org/resource/Stone_tool
+relief - http://dbpedia.org/resource/Relief
+drainage - http://dbpedia.org/resource/Drainage
+erosion - http://dbpedia.org/resource/Erosion
+borobudur - http://dbpedia.org/resource/Borobudur
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+eruption - http://dbpedia.org/resource/Volcano
+mount kelud - http://dbpedia.org/resource/Kelud
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+stupa - http://dbpedia.org/resource/Stupa
+volcanic ash - http://dbpedia.org/resource/Volcanic_ash
+buddhist - http://dbpedia.org/resource/Buddhism
+monument - http://dbpedia.org/resource/Monument
+muslim - http://dbpedia.org/resource/Islam
+cultural historical - http://dbpedia.org/resource/Cultural_history
+icon - http://dbpedia.org/resource/Iconography
+stupa - http://dbpedia.org/resource/Stupa
+borobudur - http://dbpedia.org/resource/Borobudur
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+jakarta globe - http://dbpedia.org/resource/Jakarta_Globe
+borobudur - http://dbpedia.org/resource/Borobudur
+mount kelud - http://dbpedia.org/resource/Kelud
+eruption - http://dbpedia.org/resource/Volcano
+news - http://dbpedia.org/resource/News
+lonely planet - http://dbpedia.org/resource/Lonely_Planet
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+b6 - http://dbpedia.org/resource/Vitamin_B6

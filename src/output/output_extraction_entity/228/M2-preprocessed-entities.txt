@@ -1,0 +1,74 @@
+president - http://dbpedia.org/resource/President_of_Mexico
+andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+martin van buren - http://dbpedia.org/resource/Martin_Van_Buren
+south carolina - http://dbpedia.org/resource/South_Carolina
+defiance - http://dbpedia.org/resource/Defiance_(TV_series)
+nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
+gate - http://dbpedia.org/resource/Gate
+legislature - http://dbpedia.org/resource/Legislature
+buenos aires - http://dbpedia.org/resource/Buenos_Aires
+governor - http://dbpedia.org/resource/Governor
+juan ramón balcarce - http://dbpedia.org/resource/Juan_Ramón_Balcarce
+juan josé viamonte - http://dbpedia.org/resource/Juan_José_Viamonte
+cornerstone - http://dbpedia.org/resource/Cornerstone
+kirtland temple - http://dbpedia.org/resource/Kirtland_Temple
+kirtland - http://dbpedia.org/resource/Kirtland_Temple
+ohio - http://dbpedia.org/resource/Ohio
+greece - http://dbpedia.org/resource/Kingdom_of_Greece
+desecration - http://dbpedia.org/resource/Desecration
+viceroy - http://dbpedia.org/resource/Viceroy
+southern vietnam - http://dbpedia.org/resource/Southern_Vietnam
+emperor - http://dbpedia.org/resource/Emperor
+revolt - http://dbpedia.org/resource/Rebellion
+khôi - http://dbpedia.org/resource/Ngô_Đình_Khôi
+soldier - http://dbpedia.org/resource/Soldier
+mutiny - http://dbpedia.org/resource/Mutiny
+citadel - http://dbpedia.org/resource/Citadel
+khôi - http://dbpedia.org/resource/Ngô_Đình_Khôi
+revolt - http://dbpedia.org/resource/Rebellion
+emperor - http://dbpedia.org/resource/Emperor
+sovereignty - http://dbpedia.org/resource/Sovereignty
+falkland islands - http://dbpedia.org/resource/Falkland_Islands
+earthquake - http://dbpedia.org/resource/Earthquake
+magnitude - http://dbpedia.org/resource/Moment_magnitude_scale
+sumatra - http://dbpedia.org/resource/Sumatra
+tsunami - http://dbpedia.org/resource/Tsunami
+coast - http://dbpedia.org/resource/Coast
+u.s. president - http://dbpedia.org/resource/President_of_the_United_States
+andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
+president - http://dbpedia.org/resource/President_of_Mexico
+train - http://dbpedia.org/resource/Rail_transport
+noongar - http://dbpedia.org/resource/Noongar
+australian aboriginal - http://dbpedia.org/resource/Aboriginal_Australians
+yagan - http://dbpedia.org/resource/Yagan
+murder - http://dbpedia.org/resource/Murder
+colonist - http://dbpedia.org/resource/Colony
+western australia - http://dbpedia.org/resource/Western_Australia
+admiral - http://dbpedia.org/resource/Admiral
+charles napier - http://dbpedia.org/resource/Charles_Elers_Napier
+vanquish - http://dbpedia.org/resource/Aston_Martin_Vanquish
+navy - http://dbpedia.org/resource/Royal_Navy
+portuguese - http://dbpedia.org/resource/Portugal
+usurper - http://dbpedia.org/resource/Usurper
+dom miguel - http://dbpedia.org/resource/Miguel_I_of_Portugal
+cape st. vincent - http://dbpedia.org/resource/Cape_St._Vincent
+settler - http://dbpedia.org/resource/Settler
+mexican texas - http://dbpedia.org/resource/Mexican_Texas
+draft - http://dbpedia.org/resource/Conscription
+petition - http://dbpedia.org/resource/Petition
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+chilean constitution - http://dbpedia.org/resource/Constitution_of_Chile
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+royal assent - http://dbpedia.org/resource/Royal_assent
+abolish slavery - http://dbpedia.org/resource/Abolitionism
+british empire - http://dbpedia.org/resource/British_Empire
+sovereignty - http://dbpedia.org/resource/Sovereignty
+falkland islands - http://dbpedia.org/resource/Falkland_Islands
+oberlin college - http://dbpedia.org/resource/Oberlin_College
+oberlin - http://dbpedia.org/resource/Oberlin_College
+ohio - http://dbpedia.org/resource/Ohio
+john jay shipherd - http://dbpedia.org/resource/John_Jay_Shipherd
+philo - http://dbpedia.org/resource/Philo

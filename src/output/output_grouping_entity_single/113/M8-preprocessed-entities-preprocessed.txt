@@ -1,0 +1,85 @@
+translator - http://dbpedia.org/resource/Translation
+vesak - http://dbpedia.org/resource/Vesak
+mount bromo - http://dbpedia.org/resource/Mount_Bromo
+buddhists - http://dbpedia.org/resource/Buddhism
+hold time - http://dbpedia.org/resource/Hold_Time_(album)
+sacred - http://dbpedia.org/resource/Sacral_architecture
+elephant - http://dbpedia.org/resource/Elephant
+hotel borobudur - http://dbpedia.org/resource/Hotel_Borobudur
+light - http://dbpedia.org/resource/Sunlight
+buddhist monk - http://dbpedia.org/resource/Bhikkhu
+stack - http://dbpedia.org/resource/Chimney
+lunar calendar - http://dbpedia.org/resource/Lunar_calendar
+komodo dragon - http://dbpedia.org/resource/Komodo_dragon
+jogjakarta - http://dbpedia.org/resource/Yogyakarta
+traditional music - http://dbpedia.org/resource/Folk_music
+early morning - http://dbpedia.org/resource/Early_Morning
+candi borobudur - http://dbpedia.org/resource/Borobudur
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+domesticate - http://dbpedia.org/resource/Domestication
+white lantern - http://dbpedia.org/resource/Kyle_Rayner
+merbabu - http://dbpedia.org/resource/Mount_Merbabu
+shrine - http://dbpedia.org/resource/Shrine
+thailand - http://dbpedia.org/resource/Thailand
+millennia - http://dbpedia.org/resource/Millennium
+article - http://dbpedia.org/resource/Bratislava
+downtown - http://dbpedia.org/resource/Downtown
+usd - http://dbpedia.org/resource/United_States_dollar
+pickup - http://dbpedia.org/resource/Pickup_truck
+pyramid - http://dbpedia.org/resource/Pyramid
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+circle - http://dbpedia.org/resource/Circle
+exotic dancer - http://dbpedia.org/resource/Striptease
+language - http://dbpedia.org/resource/Language
+candle - http://dbpedia.org/resource/Candle
+dance - http://dbpedia.org/resource/Dance
+arupa - http://dbpedia.org/resource/Arupa
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+merapi - http://dbpedia.org/resource/Mount_Merapi
+sanskrit language - http://dbpedia.org/resource/Sanskrit
+theater - http://dbpedia.org/resource/Theatre
+dome - http://dbpedia.org/resource/Dome
+great work - http://dbpedia.org/resource/Opus_Majus
+parangtritis - http://dbpedia.org/resource/Parangtritis
+gorgeous - http://dbpedia.org/resource/Slayers_Gorgeous
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+archipelagic country - http://dbpedia.org/resource/Island_country
+stupa - http://dbpedia.org/resource/Stupa
+relief - http://dbpedia.org/resource/Relief
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+procession - http://dbpedia.org/resource/Procession
+human - http://dbpedia.org/resource/Human
+vesak day - http://dbpedia.org/resource/Vesak
+avid - http://dbpedia.org/resource/Avid_Technology
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+woman king - http://dbpedia.org/resource/Woman_King
+fuel - http://dbpedia.org/resource/Fuel
+buddha statue - http://dbpedia.org/resource/Buddharupa
+sunrise - http://dbpedia.org/resource/Sunrise
+photo opportunity - http://dbpedia.org/resource/Photo_op
+morning sun - http://dbpedia.org/resource/Edward_Hopper
+angkor wat - http://dbpedia.org/resource/Angkor_Wat
+idr - http://dbpedia.org/resource/Indonesian_rupiah
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+prambanan - http://dbpedia.org/resource/Prambanan
+night market - http://dbpedia.org/resource/Night_market
+contact management - http://dbpedia.org/resource/Contact_manager
+ritual - http://dbpedia.org/resource/Ritual
+cambodia - http://dbpedia.org/resource/Cambodia
+borobudur - http://dbpedia.org/resource/Borobudur
+sun - http://dbpedia.org/resource/Solar_deity
+buddhist - http://dbpedia.org/resource/Buddhism
+hiding place - http://dbpedia.org/resource/Hiding_Place_(Tori_Kelly_album)
+cultural heritage - http://dbpedia.org/resource/Cultural_heritage
+photographer - http://dbpedia.org/resource/Photography
+esbit - http://dbpedia.org/resource/Hexamine_fuel_tablet
+sculpture - http://dbpedia.org/resource/Sculpture
+heritage - http://dbpedia.org/resource/Cultural_heritage
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+volcanic crater - http://dbpedia.org/resource/Volcanic_crater
+komodo island - http://dbpedia.org/resource/Komodo_(island)
+pawang - http://dbpedia.org/resource/Pawang
+hydrogenate - http://dbpedia.org/resource/Hydrogenation
+javanese - http://dbpedia.org/resource/Java
+great temple - http://dbpedia.org/resource/Templo_Mayor
+meter - http://dbpedia.org/resource/Hymn

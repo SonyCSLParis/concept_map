@@ -1,0 +1,445 @@
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+altitude - http://dbpedia.org/resource/Metres_above_sea_level
+anglo american - http://dbpedia.org/resource/English_Americans
+settlement - http://dbpedia.org/resource/Town
+texas - http://dbpedia.org/resource/Texas
+houston - http://dbpedia.org/resource/Houston
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+austin - http://dbpedia.org/resource/Austin_College
+texas - http://dbpedia.org/resource/Texas
+colonist - http://dbpedia.org/resource/Settler
+settlement - http://dbpedia.org/resource/Town
+texas - http://dbpedia.org/resource/Texas
+language - http://dbpedia.org/resource/Ukrainian_language
+newspaper - http://dbpedia.org/resource/Newspaper
+gazette - http://dbpedia.org/resource/Gazette
+texas - http://dbpedia.org/resource/Texas
+postal system - http://dbpedia.org/resource/Mail
+texas rangers - http://dbpedia.org/resource/Texas_Ranger_Division
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+texas - http://dbpedia.org/resource/Texas
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+mexican army - http://dbpedia.org/resource/Mexican_Army
+town - http://dbpedia.org/resource/Town
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+texas - http://dbpedia.org/resource/Texas
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+austin - http://dbpedia.org/resource/Austin_College
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+post office - http://dbpedia.org/resource/Post_office
+austin - http://dbpedia.org/resource/Austin_College
+acre - http://dbpedia.org/resource/Acre
+ferry - http://dbpedia.org/resource/Ferry
+brazos river - http://dbpedia.org/resource/Brazos_River
+austin - http://dbpedia.org/resource/Austin_College
+dog - http://dbpedia.org/resource/Dog
+colonist - http://dbpedia.org/resource/Settler
+monument - http://dbpedia.org/resource/Monument
+historical marker - http://dbpedia.org/resource/Texas_Historical_Commission
+austin - http://dbpedia.org/resource/Austin_College
+texas - http://dbpedia.org/resource/Texas
+pioneer era - http://dbpedia.org/resource/American_pioneer
+picnic - http://dbpedia.org/resource/Picnic
+trailer - http://dbpedia.org/resource/Mobile_home
+feature group - http://dbpedia.org/resource/Feature_group
+golf - http://dbpedia.org/resource/Golf
+trail - http://dbpedia.org/resource/Trail
+fish - http://dbpedia.org/resource/Fishing
+brazos river - http://dbpedia.org/resource/Brazos_River
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+road 38 - http://dbpedia.org/resource/Road_38_(Iran)
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+texas - http://dbpedia.org/resource/Texas
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+brazos river - http://dbpedia.org/resource/Brazos_River
+san antonio - http://dbpedia.org/resource/San_Antonio
+interstate highway 10 - http://dbpedia.org/resource/Interstate_10
+sealy - http://dbpedia.org/resource/Sealy_Corporation
+austin county - http://dbpedia.org/resource/Austin_County,_Texas
+austin - http://dbpedia.org/resource/Austin_College
+capital - http://dbpedia.org/resource/Capital_city
+colony - http://dbpedia.org/resource/Colony
+urban - http://dbpedia.org/resource/City
+colony - http://dbpedia.org/resource/Colony
+gulf - http://dbpedia.org/resource/Gulf_of_Mexico
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+san antonio - http://dbpedia.org/resource/San_Antonio
+lavaca river - http://dbpedia.org/resource/Lavaca_River
+san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
+colorado river - http://dbpedia.org/resource/Colorado_River
+austin - http://dbpedia.org/resource/Austin_College
+baron de bastrop - http://dbpedia.org/resource/Felipe_Enrique_Neri,_Baron_de_Bastrop
+capital - http://dbpedia.org/resource/Capital_city
+settlement - http://dbpedia.org/resource/Town
+ferry - http://dbpedia.org/resource/Ferry
+bluff - http://dbpedia.org/resource/Hill
+bottomland - http://dbpedia.org/resource/Upland_and_lowland
+fresh water - http://dbpedia.org/resource/Drinking_water
+independent - http://dbpedia.org/resource/Independence
+surveyor - http://dbpedia.org/resource/Surveying
+ingram - http://dbpedia.org/resource/Ingram_Content_Group
+woodland - http://dbpedia.org/resource/Woodland
+encompass - http://dbpedia.org/resource/Encompass
+municipality - http://dbpedia.org/resource/Municipality
+plat - http://dbpedia.org/resource/Plat
+town - http://dbpedia.org/resource/Town
+town - http://dbpedia.org/resource/Town
+governor - http://dbpedia.org/resource/Governor
+eastern interior - http://dbpedia.org/resource/Eastern_Oregon
+provinces - http://dbpedia.org/resource/Provinces_of_the_Philippines
+garza - http://dbpedia.org/resource/Matt_Garza
+empresario - http://dbpedia.org/resource/Empresario
+austin - http://dbpedia.org/resource/Austin_College
+governor - http://dbpedia.org/resource/Governor
+patron saint - http://dbpedia.org/resource/Patron_saint
+town - http://dbpedia.org/resource/Town
+regular grid - http://dbpedia.org/resource/Regular_grid
+settlement - http://dbpedia.org/resource/Town
+sprawl - http://dbpedia.org/resource/Urban_sprawl
+westward - http://dbpedia.org/resource/Westward_Television
+atascosito - http://dbpedia.org/resource/Liberty,_Texas
+general store - http://dbpedia.org/resource/General_store
+tavern - http://dbpedia.org/resource/Tavern
+hotel - http://dbpedia.org/resource/Hotel
+blacksmith - http://dbpedia.org/resource/Blacksmith
+log cabin - http://dbpedia.org/resource/Log_cabin
+hispanic - http://dbpedia.org/resource/Hispanic
+town - http://dbpedia.org/resource/Town
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+colony - http://dbpedia.org/resource/Colony
+immigrant - http://dbpedia.org/resource/Immigration
+austin - http://dbpedia.org/resource/Austin_College
+bullinger - http://dbpedia.org/resource/Heinrich_Bullinger
+colony - http://dbpedia.org/resource/Colony
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+land office - http://dbpedia.org/resource/General_Land_Office
+town - http://dbpedia.org/resource/Town
+austin - http://dbpedia.org/resource/Austin_College
+colony - http://dbpedia.org/resource/Colony
+postmaster - http://dbpedia.org/resource/Postmaster
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+postal route - http://dbpedia.org/resource/Post_road
+town - http://dbpedia.org/resource/Town
+texas - http://dbpedia.org/resource/Texas
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+newspaper - http://dbpedia.org/resource/Newspaper
+texas - http://dbpedia.org/resource/Texas
+texas - http://dbpedia.org/resource/Texas
+gazette - http://dbpedia.org/resource/Gazette
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+gail borden - http://dbpedia.org/resource/Gail_Borden
+texas - http://dbpedia.org/resource/Texas
+revolution - http://dbpedia.org/resource/French_Revolution
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+town - http://dbpedia.org/resource/Town
+josiah - http://dbpedia.org/resource/Josiah_Wedgwood
+bell - http://dbpedia.org/resource/Bell_tower
+miller - http://dbpedia.org/resource/Gristmill
+noah - http://dbpedia.org/resource/Noah's_Ark
+horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman
+texas history - http://dbpedia.org/resource/History_of_Texas
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+cotton plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
+bottomland - http://dbpedia.org/resource/Upland_and_lowland
+town - http://dbpedia.org/resource/Town
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+john cummins - http://dbpedia.org/resource/John_Stephen_Cummins
+lumber mill - http://dbpedia.org/resource/Sawmill
+town - http://dbpedia.org/resource/Town
+stock - http://dbpedia.org/resource/Livestock
+cattle drive - http://dbpedia.org/resource/Cattle_drive
+town - http://dbpedia.org/resource/Town
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+mouth - http://dbpedia.org/resource/Estuary
+keelboat - http://dbpedia.org/resource/Keelboat
+transport - http://dbpedia.org/resource/Transport
+town - http://dbpedia.org/resource/Town
+article - http://dbpedia.org/resource/Bratislava
+coast - http://dbpedia.org/resource/Gulf_Coast_of_the_United_States
+wagon - http://dbpedia.org/resource/Wagon_train
+revolution - http://dbpedia.org/resource/French_Revolution
+water - http://dbpedia.org/resource/Water_supply
+turbulence - http://dbpedia.org/resource/Turbulence
+spring rain - http://dbpedia.org/resource/Spring_Rain_(The_Go-Betweens_song)
+steamboat - http://dbpedia.org/resource/Steamboat
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+stream - http://dbpedia.org/resource/Stream
+meander - http://dbpedia.org/resource/Meander
+water - http://dbpedia.org/resource/Water_supply
+coast - http://dbpedia.org/resource/Gulf_Coast_of_the_United_States
+steamboat - http://dbpedia.org/resource/Steamboat
+steamboat - http://dbpedia.org/resource/Steamboat
+water - http://dbpedia.org/resource/Water_supply
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+coast - http://dbpedia.org/resource/Gulf_Coast_of_the_United_States
+navigation - http://dbpedia.org/resource/Navigability
+town - http://dbpedia.org/resource/Town
+thomas - http://dbpedia.org/resource/THOMAS
+pilgrim - http://dbpedia.org/resource/Pilgrim
+settlement - http://dbpedia.org/resource/Town
+colony - http://dbpedia.org/resource/Colony
+catholic - http://dbpedia.org/resource/Catholic_Church
+law - http://dbpedia.org/resource/Law
+priest - http://dbpedia.org/resource/Clergy
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+muldoon - http://dbpedia.org/resource/Robert_Muldoon
+austin - http://dbpedia.org/resource/Austin_College
+protestant - http://dbpedia.org/resource/Protestantism
+church - http://dbpedia.org/resource/Catholic_Church
+protestant - http://dbpedia.org/resource/Protestantism
+town - http://dbpedia.org/resource/Town
+confine - http://dbpedia.org/resource/Confine
+itinerant minister - http://dbpedia.org/resource/Itinerant_preacher
+revolution - http://dbpedia.org/resource/French_Revolution
+town church - http://dbpedia.org/resource/Town_Church,_Guernsey
+pilgrim - http://dbpedia.org/resource/Pilgrim
+sunday school - http://dbpedia.org/resource/Sunday_school
+texas - http://dbpedia.org/resource/Texas
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+masonic - http://dbpedia.org/resource/Freemasonry
+texas - http://dbpedia.org/resource/Texas
+oak grove - http://dbpedia.org/resource/Oak_Grove_station
+town - http://dbpedia.org/resource/Town
+revolution - http://dbpedia.org/resource/French_Revolution
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+texas - http://dbpedia.org/resource/Texas
+san antonio - http://dbpedia.org/resource/San_Antonio
+settler - http://dbpedia.org/resource/Settler
+municipality - http://dbpedia.org/resource/Municipality
+capital life - http://dbpedia.org/resource/Capital_Life
+colony - http://dbpedia.org/resource/Colony
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+town - http://dbpedia.org/resource/Town
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+capital - http://dbpedia.org/resource/Capital_city
+provisional government - http://dbpedia.org/resource/Provisional_government
+washington - http://dbpedia.org/resource/George_Washington
+gen. - http://dbpedia.org/resource/Divisional_general
+houston - http://dbpedia.org/resource/Houston
+army retreat - http://dbpedia.org/resource/Great_Retreat_(Serbian)
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+garrison - http://dbpedia.org/resource/Garrison
+moseley baker - http://dbpedia.org/resource/Moseley_Baker
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+town - http://dbpedia.org/resource/Town
+mexican army - http://dbpedia.org/resource/Mexican_Army
+terrified - http://dbpedia.org/resource/Terrified_(album)
+runaway scrape - http://dbpedia.org/resource/Runaway_Scrape
+news - http://dbpedia.org/resource/Journalism
+texans - http://dbpedia.org/resource/Texas
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+san - http://dbpedia.org/resource/Japanese_honorifics
+town - http://dbpedia.org/resource/Town
+family - http://dbpedia.org/resource/Family
+republic - http://dbpedia.org/resource/Republic
+town - http://dbpedia.org/resource/Town
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+county seat - http://dbpedia.org/resource/County_seat
+austin county - http://dbpedia.org/resource/Austin_County,_Texas
+courthouse - http://dbpedia.org/resource/Courthouse
+town - http://dbpedia.org/resource/Town
+settlement - http://dbpedia.org/resource/Town
+log house - http://dbpedia.org/resource/Log_cabin
+tavern - http://dbpedia.org/resource/Tavern
+election - http://dbpedia.org/resource/Election
+bellville - http://dbpedia.org/resource/Bellville_railway_station
+county seat - http://dbpedia.org/resource/County_seat
+function - http://dbpedia.org/resource/Role
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+town - http://dbpedia.org/resource/Town
+civil war - http://dbpedia.org/resource/American_Civil_War
+immigrant - http://dbpedia.org/resource/Immigration
+migrant farm worker - http://dbpedia.org/resource/Migrant_worker
+austin county - http://dbpedia.org/resource/Austin_County,_Texas
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+gulf - http://dbpedia.org/resource/Gulf_of_Mexico
+colorado - http://dbpedia.org/resource/Colorado_River
+santa fe railway - http://dbpedia.org/resource/Atchison,_Topeka_and_Santa_Fe_Railway
+galveston - http://dbpedia.org/resource/Port_of_Galveston
+brenham - http://dbpedia.org/resource/Brenham,_Texas
+spur - http://dbpedia.org/resource/Branch_line
+town - http://dbpedia.org/resource/Town
+acre - http://dbpedia.org/resource/Acre
+sealy - http://dbpedia.org/resource/Sealy_Corporation
+station - http://dbpedia.org/resource/Train_station
+rail - http://dbpedia.org/resource/Rail_transport
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+texas western - http://dbpedia.org/resource/University_of_Texas_at_El_Paso
+narrow gauge railway - http://dbpedia.org/resource/Narrow-gauge_railway
+houston - http://dbpedia.org/resource/Houston
+sealy - http://dbpedia.org/resource/Sealy_Corporation
+spur - http://dbpedia.org/resource/Branch_line
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+town - http://dbpedia.org/resource/Town
+town - http://dbpedia.org/resource/Town
+function - http://dbpedia.org/resource/Role
+taxation - http://dbpedia.org/resource/Tax
+public education - http://dbpedia.org/resource/State_school
+texas western - http://dbpedia.org/resource/University_of_Texas_at_El_Paso
+carrier - http://dbpedia.org/resource/Common_carrier
+houston - http://dbpedia.org/resource/Houston
+sealy - http://dbpedia.org/resource/Sealy_Corporation
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+town - http://dbpedia.org/resource/Town
+church school - http://dbpedia.org/resource/Christian_school
+post office - http://dbpedia.org/resource/Post_office
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+free water - http://dbpedia.org/resource/Free_water_clearance
+wood - http://dbpedia.org/resource/Lumber
+grazing - http://dbpedia.org/resource/Pastoralism
+burial ground - http://dbpedia.org/resource/Cemetery
+common land - http://dbpedia.org/resource/Common_land
+municipality - http://dbpedia.org/resource/Municipality
+acre - http://dbpedia.org/resource/Acre
+open land - http://dbpedia.org/resource/Open_Land
+town - http://dbpedia.org/resource/Town
+bullinger - http://dbpedia.org/resource/Heinrich_Bullinger
+acre - http://dbpedia.org/resource/Acre
+austin - http://dbpedia.org/resource/Austin_College
+town - http://dbpedia.org/resource/Town
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+obelisk - http://dbpedia.org/resource/Obelisk
+bronze - http://dbpedia.org/resource/Bronze
+austin - http://dbpedia.org/resource/Austin_College
+austin - http://dbpedia.org/resource/Austin_College
+log house - http://dbpedia.org/resource/Log_cabin
+monument - http://dbpedia.org/resource/Monument
+site town - http://dbpedia.org/resource/SITE_Town
+bridge - http://dbpedia.org/resource/Bridge
+ferry - http://dbpedia.org/resource/Ferry
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+town - http://dbpedia.org/resource/Town
+texans - http://dbpedia.org/resource/Texas
+reform government - http://dbpedia.org/resource/Reform_Government_of_New_Zealand
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+settlement - http://dbpedia.org/resource/Town
+stephen austin - http://dbpedia.org/resource/Stephen_F._Austin
+president - http://dbpedia.org/resource/President_of_the_United_States
+san antonio - http://dbpedia.org/resource/San_Antonio
+colonist - http://dbpedia.org/resource/Settler
+texas - http://dbpedia.org/resource/Texas
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+tariff - http://dbpedia.org/resource/Tariff
+immigration - http://dbpedia.org/resource/Immigration
+primary school - http://dbpedia.org/resource/Primary_school
+texas - http://dbpedia.org/resource/Texas
+mexican republic - http://dbpedia.org/resource/First_Mexican_Republic
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+spring - http://dbpedia.org/resource/Mineral_spring
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+wharton - http://dbpedia.org/resource/Winsford
+volatile - http://dbpedia.org/resource/Volatile_organic_compound
+austin - http://dbpedia.org/resource/Austin_College
+houston - http://dbpedia.org/resource/Houston
+texas - http://dbpedia.org/resource/Texas
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+austin - http://dbpedia.org/resource/Austin_College
+petition - http://dbpedia.org/resource/Petition
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+town - http://dbpedia.org/resource/Town
+austin - http://dbpedia.org/resource/Austin_College
+austin - http://dbpedia.org/resource/Austin_College
+specific charge - http://dbpedia.org/resource/Mass-to-charge_ratio
+texas - http://dbpedia.org/resource/Texas
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+october november - http://dbpedia.org/resource/October_November
+texas - http://dbpedia.org/resource/Texas
+columbia - http://dbpedia.org/resource/Cuban_rumba
+friction - http://dbpedia.org/resource/Friction
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+autonomous rule - http://dbpedia.org/resource/Autonomous_administrative_division
+texas - http://dbpedia.org/resource/Texas
+adjourn - http://dbpedia.org/resource/Adjournment
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+branch t. archer - http://dbpedia.org/resource/Branch_T._Archer
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+stephen austin - http://dbpedia.org/resource/Stephen_F._Austin
+texas - http://dbpedia.org/resource/Texas
+austin group - http://dbpedia.org/resource/Austin_Group
+don carlos - http://dbpedia.org/resource/Charles_III_of_Spain
+barrett - http://dbpedia.org/resource/Stephen_Barrett
+liberal - http://dbpedia.org/resource/Liberalism
+wharton - http://dbpedia.org/resource/Winsford
+henry smith - http://dbpedia.org/resource/Henry_Smith_(Texas_governor)
+militant - http://dbpedia.org/resource/Military
+autonomous - http://dbpedia.org/resource/Autonomy
+texas - http://dbpedia.org/resource/Texas
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+provisional government - http://dbpedia.org/resource/Provisional_government
+draft - http://dbpedia.org/resource/Conscription
+organic law - http://dbpedia.org/resource/Organic_law
+governor general - http://dbpedia.org/resource/Governor-general
+henry smith - http://dbpedia.org/resource/Henry_Smith_(Texas_governor)
+governor - http://dbpedia.org/resource/Governor
+adjourn - http://dbpedia.org/resource/Adjournment
+bibliography - http://dbpedia.org/resource/Bibliography
+eugene - http://dbpedia.org/resource/Eugene_Porter
+barker - http://dbpedia.org/resource/Barker_channel
+colony - http://dbpedia.org/resource/Colony
+southwestern historical quarterly - http://dbpedia.org/resource/Texas_State_Historical_Association
+julia - http://dbpedia.org/resource/Julia_the_Elder
+austin county - http://dbpedia.org/resource/Austin_County,_Texas
+m.a. - http://dbpedia.org/resource/Master_of_Arts
+thesis - http://dbpedia.org/resource/Thesis
+texas - http://dbpedia.org/resource/Texas
+teachers college - http://dbpedia.org/resource/Normal_school
+peter nielsen - http://dbpedia.org/resource/Peter_Nielsen_(footballer)
+law - http://dbpedia.org/resource/Law
+texas - http://dbpedia.org/resource/Texas
+austin - http://dbpedia.org/resource/Austin_College
+glasscock - http://dbpedia.org/resource/Glasscock_County,_Texas
+stephen fuller austin - http://dbpedia.org/resource/Stephen_F._Austin
+colony - http://dbpedia.org/resource/Colony
+texas - http://dbpedia.org/resource/Texas
+san antonio - http://dbpedia.org/resource/San_Antonio
+noel - http://dbpedia.org/resource/Wiki
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+texas - http://dbpedia.org/resource/Texas
+corrie - http://dbpedia.org/resource/Cirque
+historical records - http://dbpedia.org/resource/History
+austin - http://dbpedia.org/resource/Austin_College
+counties - http://dbpedia.org/resource/County
+houston - http://dbpedia.org/resource/Houston
+printing - http://dbpedia.org/resource/Printing_press
+blanche - http://dbpedia.org/resource/Blanche_of_Castile
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+capital - http://dbpedia.org/resource/Capital_city
+colony - http://dbpedia.org/resource/Colony
+houston - http://dbpedia.org/resource/Houston
+ray miller - http://dbpedia.org/resource/Ray_Miller_(baseball_manager)
+texas - http://dbpedia.org/resource/Texas
+houston - http://dbpedia.org/resource/Houston
+cordovan - http://dbpedia.org/resource/Leather
+wilma - http://dbpedia.org/resource/Hurricane_Wilma
+harper - http://dbpedia.org/resource/Stephen_Harper
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+m.a. - http://dbpedia.org/resource/Master_of_Arts
+thesis - http://dbpedia.org/resource/Thesis
+texas - http://dbpedia.org/resource/Texas
+morton - http://dbpedia.org/resource/Greenock_Morton_F.C.
+mier - http://dbpedia.org/resource/Mier_expedition
+ph.d. - http://dbpedia.org/resource/Doctor_of_Philosophy
+dissertation - http://dbpedia.org/resource/Thesis
+texas - http://dbpedia.org/resource/Texas
+southwestern historical quarterly - http://dbpedia.org/resource/Texas_State_Historical_Association
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+noah - http://dbpedia.org/resource/Noah's_Ark
+evolution - http://dbpedia.org/resource/Evolution
+texas - http://dbpedia.org/resource/Texas
+austin - http://dbpedia.org/resource/Austin_College
+austin - http://dbpedia.org/resource/Austin_College
+texas - http://dbpedia.org/resource/Texas
+charles - http://dbpedia.org/resource/Charles_II_of_England
+christopher jackson - http://dbpedia.org/resource/Christopher_Jackson_(actor)

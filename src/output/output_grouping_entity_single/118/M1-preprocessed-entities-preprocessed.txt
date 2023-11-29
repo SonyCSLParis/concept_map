@@ -1,0 +1,32 @@
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+garrison - http://dbpedia.org/resource/Garrison
+english heritage - http://dbpedia.org/resource/English_Heritage
+roman fort - http://dbpedia.org/resource/Castra
+vipont - http://dbpedia.org/resource/Vieuxpont
+clifford family - http://dbpedia.org/resource/Baron_de_Clifford
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+stone - http://dbpedia.org/resource/Masonry
+a66 - http://dbpedia.org/resource/A66_road
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
+chamber - http://dbpedia.org/resource/Debate_chamber
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+courtyard - http://dbpedia.org/resource/Courtyard
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+earl - http://dbpedia.org/resource/Earl
+brocavum - http://dbpedia.org/resource/Brocavum
+gatehouse - http://dbpedia.org/resource/Gatehouse
+oratory - http://dbpedia.org/resource/Public_speaking
+die - http://dbpedia.org/resource/Dice
+timber - http://dbpedia.org/resource/Timber_framing
+river eamont - http://dbpedia.org/resource/River_Eamont
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+clifford castle - http://dbpedia.org/resource/Clifford_Castle
+sack - http://dbpedia.org/resource/Looting
+roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+appleby - http://dbpedia.org/resource/Appleby_Castle
+tower - http://dbpedia.org/resource/Keep
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland

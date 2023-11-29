@@ -1,0 +1,255 @@
+florentine - http://dbpedia.org/resource/Florence
+agnes - http://dbpedia.org/resource/Agnes_of_Rome
+british government - http://dbpedia.org/resource/United_Kingdom
+tapestry - http://dbpedia.org/resource/Tapestry
+hartley wintney - http://dbpedia.org/resource/Hartley_Wintney
+stucco - http://dbpedia.org/resource/Stucco
+rapier - http://dbpedia.org/resource/Rapier
+overlook park - http://dbpedia.org/resource/Overlook_Park_(Portland,_Oregon)
+fencing - http://dbpedia.org/resource/Fence
+son thomas - http://dbpedia.org/resource/James_Thomas_(blues_musician)
+elephant - http://dbpedia.org/resource/Elephant
+balustrade - http://dbpedia.org/resource/Baluster
+red cross - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+portrait - http://dbpedia.org/resource/Portrait
+wall arch - http://dbpedia.org/resource/Wall_Arch
+henry daubeney - http://dbpedia.org/resource/Henry_Daubeney,_1st_Earl_of_Bridgewater
+exile - http://dbpedia.org/resource/Exile
+project wing - http://dbpedia.org/resource/X_(company)
+triglyph - http://dbpedia.org/resource/Triglyph
+plateau - http://dbpedia.org/resource/Plateau
+corinthian - http://dbpedia.org/resource/Corinthian_order
+period piece - http://dbpedia.org/resource/Historical_period_drama
+beehive - http://dbpedia.org/resource/Beehive_oven
+dairy - http://dbpedia.org/resource/Dairy
+upper class - http://dbpedia.org/resource/Upper_class
+angle - http://dbpedia.org/resource/Angle
+elevation - http://dbpedia.org/resource/Architectural_drawing
+northern range - http://dbpedia.org/resource/Northern_Range
+woodland - http://dbpedia.org/resource/Woodland
+pediment - http://dbpedia.org/resource/Pediment
+metope - http://dbpedia.org/resource/Metope
+east west - http://dbpedia.org/resource/East_West_MRT_line
+entablature - http://dbpedia.org/resource/Entablature
+coat - http://dbpedia.org/resource/Fur
+formal garden - http://dbpedia.org/resource/French_formal_garden
+arch form - http://dbpedia.org/resource/Arch_form
+pilaster - http://dbpedia.org/resource/Pilaster
+police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
+parapet - http://dbpedia.org/resource/Parapet
+earl - http://dbpedia.org/resource/Earl
+hazeley - http://dbpedia.org/resource/Hazeley
+cain - http://dbpedia.org/resource/Cain_and_Abel
+english architecture - http://dbpedia.org/resource/Architecture_of_England
+henry shaw - http://dbpedia.org/resource/Henry_Shaw_(philanthropist)
+baron zouche - http://dbpedia.org/resource/Baron_Zouche
+william wykeham - http://dbpedia.org/resource/William_of_Wykeham
+light - http://dbpedia.org/resource/Light
+st. mary magdalene - http://dbpedia.org/resource/Mary_Magdalene
+match play - http://dbpedia.org/resource/Glossary_of_golf
+mannerism - http://dbpedia.org/resource/Mannerism
+dado - http://dbpedia.org/resource/Dado_rail
+frieze - http://dbpedia.org/resource/Frieze
+vault - http://dbpedia.org/resource/Bank_vault
+central london - http://dbpedia.org/resource/London
+drawing room - http://dbpedia.org/resource/Drawing_room
+property developer - http://dbpedia.org/resource/Real_estate_development
+long gallery - http://dbpedia.org/resource/Long_gallery
+st. stephen - http://dbpedia.org/resource/Saint_Stephen
+garden room - http://dbpedia.org/resource/Sunroom
+maid - http://dbpedia.org/resource/Maid
+budapest - http://dbpedia.org/resource/Budapest
+village - http://dbpedia.org/resource/Village
+hampshire - http://dbpedia.org/resource/Hampshire
+tread - http://dbpedia.org/resource/Stair_tread
+st - http://dbpedia.org/resource/SATB
+wedding - http://dbpedia.org/resource/Wedding
+remarkable - http://dbpedia.org/resource/ReMarkable
+police - http://dbpedia.org/resource/Police
+wing house - http://dbpedia.org/resource/Wing_House_Museum
+amplitude - http://dbpedia.org/resource/Sound
+gable - http://dbpedia.org/resource/Gable
+dudley carleton - http://dbpedia.org/resource/Dudley_Carleton,_1st_Viscount_Dorchester
+camel - http://dbpedia.org/resource/Camel
+antrim - http://dbpedia.org/resource/County_Antrim
+nall - http://dbpedia.org/resource/Craig_Nall
+doric - http://dbpedia.org/resource/Doric_order
+courtyard - http://dbpedia.org/resource/Courtyard
+stone - http://dbpedia.org/resource/Sandstone
+england xi - http://dbpedia.org/resource/England_cricket_team
+brick - http://dbpedia.org/resource/Brickwork
+corinthian order - http://dbpedia.org/resource/Corinthian_order
+rowan - http://dbpedia.org/resource/Rowan
+renaissance - http://dbpedia.org/resource/Renaissance_architecture
+dimension - http://dbpedia.org/resource/Dimension
+high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+virgin mary - http://dbpedia.org/resource/Veneration_of_Mary_in_the_Catholic_Church
+mezzanine - http://dbpedia.org/resource/Mezzanine
+napoleon - http://dbpedia.org/resource/Napoleon
+porch - http://dbpedia.org/resource/Porch
+historian - http://dbpedia.org/resource/Art_history
+constable - http://dbpedia.org/resource/Castellan
+gatehouse - http://dbpedia.org/resource/Gatehouse
+edward vi - http://dbpedia.org/resource/Edward_VI_of_England
+tile - http://dbpedia.org/resource/Tile
+double door - http://dbpedia.org/resource/Double_Door
+manor - http://dbpedia.org/resource/Manor_house
+die - http://dbpedia.org/resource/Dice
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+chamber - http://dbpedia.org/resource/Great_chamber
+billiard room - http://dbpedia.org/resource/Billiard_room
+drive south - http://dbpedia.org/resource/Drive_South
+emblazon - http://dbpedia.org/resource/Blazon
+pond - http://dbpedia.org/resource/Fish_pond
+lock - http://dbpedia.org/resource/Lock_and_key
+domesday book - http://dbpedia.org/resource/Domesday_Book
+heritage - http://dbpedia.org/resource/Historic_site
+terrace - http://dbpedia.org/resource/Terrace_garden
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+place house - http://dbpedia.org/resource/Place_House
+great hall - http://dbpedia.org/resource/Great_hall
+constance - http://dbpedia.org/resource/Konstanz
+sir john wheeler - http://dbpedia.org/resource/John_Wheeler_(British_politician)
+munich gallery - http://dbpedia.org/resource/Alte_Pinakothek
+loggia - http://dbpedia.org/resource/Loggia
+ionic - http://dbpedia.org/resource/Ionic_order
+henry - http://dbpedia.org/resource/Henry_(unit)
+reredo - http://dbpedia.org/resource/Reredos
+moulding - http://dbpedia.org/resource/Crown_molding
+pierce - http://dbpedia.org/resource/Franklin_Pierce
+bay window - http://dbpedia.org/resource/Bay_window
+diplomat - http://dbpedia.org/resource/Diplomat
+housekeeping - http://dbpedia.org/resource/Housekeeping
+alte pinakothek - http://dbpedia.org/resource/Alte_Pinakothek
+pomegranate - http://dbpedia.org/resource/Pomegranate
+andrew henley - http://dbpedia.org/resource/Sir_Andrew_Henley,_1st_Baronet
+south pass - http://dbpedia.org/resource/South_Pass_(Wyoming)
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+farnborough - http://dbpedia.org/resource/Farnborough_Airport
+painting - http://dbpedia.org/resource/Painting
+lees - http://dbpedia.org/resource/Lees_(fermentation)
+lake - http://dbpedia.org/resource/Lake
+chimney - http://dbpedia.org/resource/Chimney
+lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+steward - http://dbpedia.org/resource/Butler
+southeast village - http://dbpedia.org/resource/Southeast_Village
+sussex - http://dbpedia.org/resource/Sussex
+king michael - http://dbpedia.org/resource/Michael_I_of_Romania
+north south - http://dbpedia.org/resource/North_South_MRT_line
+basingstoke - http://dbpedia.org/resource/Basingstoke
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+wicket - http://dbpedia.org/resource/Wicket_gate
+andiron - http://dbpedia.org/resource/Andiron
+altar - http://dbpedia.org/resource/Altar
+pheasantry - http://dbpedia.org/resource/Pheasantry
+bride - http://dbpedia.org/resource/Bride
+oriel window - http://dbpedia.org/resource/Oriel_window
+foliage - http://dbpedia.org/resource/Leaf
+flower - http://dbpedia.org/resource/Flower
+column - http://dbpedia.org/resource/Column
+copse - http://dbpedia.org/resource/Coppicing
+chapel - http://dbpedia.org/resource/Chapel
+stratfield saye - http://dbpedia.org/resource/Stratfield_Saye_House
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+arch - http://dbpedia.org/resource/Arch
+grape - http://dbpedia.org/resource/Grape
+bramshill - http://dbpedia.org/resource/Bramshill
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+duke wellington - http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington
+medieval - http://dbpedia.org/resource/England_in_the_Middle_Ages
+baron daubeney - http://dbpedia.org/resource/Earl_of_Bridgewater
+market - http://dbpedia.org/resource/Marketplace
+thornhurst - http://dbpedia.org/resource/Thornhurst_Township,_Lackawanna_County,_Pennsylvania
+lawn - http://dbpedia.org/resource/Lawn
+pointed arch - http://dbpedia.org/resource/Gothic_architecture
+fireplace - http://dbpedia.org/resource/Fireplace
+south hall - http://dbpedia.org/resource/San_Jose_Convention_Center
+plaster - http://dbpedia.org/resource/Stucco
+chimney stack - http://dbpedia.org/resource/Chimney
+façade - http://dbpedia.org/resource/Facade
+marble - http://dbpedia.org/resource/Marble
+wing - http://dbpedia.org/resource/Wing
+panelling - http://dbpedia.org/resource/Panelling
+court - http://dbpedia.org/resource/Courtyard
+essex - http://dbpedia.org/resource/Essex
+foxley - http://dbpedia.org/resource/Foxley
+william paulet - http://dbpedia.org/resource/Lord_William_Powlett
+elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
+inventory - http://dbpedia.org/resource/Glossary_of_video_game_terms
+shorten - http://dbpedia.org/resource/Shadow_Ministry_of_Anthony_Albanese
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+capital - http://dbpedia.org/resource/Capital_city
+arabesque - http://dbpedia.org/resource/Arabesque
+grade ii - http://dbpedia.org/resource/Listed_building
+kent - http://dbpedia.org/resource/Kent
+arcaded - http://dbpedia.org/resource/Arcade_(architecture)
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
+baron - http://dbpedia.org/resource/Baron
+exchequer - http://dbpedia.org/resource/Exchequer
+bridge - http://dbpedia.org/resource/Bridge
+baron brocket - http://dbpedia.org/resource/Baron_Brocket
+dutch gable - http://dbpedia.org/resource/Dutch_gable
+library - http://dbpedia.org/resource/Library
+national police college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
+joseph nash - http://dbpedia.org/resource/Joseph_Nash
+european police college - http://dbpedia.org/resource/European_Police_College
+baron edward la zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+parliament - http://dbpedia.org/resource/Parliament_of_England
+italian renaissance - http://dbpedia.org/resource/Renaissance_architecture
+family - http://dbpedia.org/resource/Family
+committee - http://dbpedia.org/resource/Committee
+la zouche - http://dbpedia.org/resource/Baron_Zouche
+ashlar - http://dbpedia.org/resource/Ashlar
+dais - http://dbpedia.org/resource/Dais
+acre - http://dbpedia.org/resource/Acre
+charles - http://dbpedia.org/resource/Charles_I_of_England
+eversley manor - http://dbpedia.org/resource/Eversley_Manor
+high feature - http://dbpedia.org/resource/GM_High_Feature_engine
+harringworth - http://dbpedia.org/resource/Harringworth
+john thorpe - http://dbpedia.org/resource/John_Thorpe
+henry frederick - http://dbpedia.org/resource/Henry_Frederick,_Prince_of_Wales
+mathematical instrument - http://dbpedia.org/resource/Mathematical_instrument
+obelisk - http://dbpedia.org/resource/Obelisk
+queen anne - http://dbpedia.org/resource/Queen_Anne_style_architecture
+registered historic park - http://dbpedia.org/resource/Register_of_Historic_Parks_and_Gardens_of_Special_Historic_Interest_in_England
+century house - http://dbpedia.org/resource/Century_House,_London
+furniture - http://dbpedia.org/resource/Furniture
+giacomo barozzi da vignola - http://dbpedia.org/resource/Giacomo_Barozzi_da_Vignola
+godalming - http://dbpedia.org/resource/Godalming
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+chimneypiece - http://dbpedia.org/resource/Fireplace_mantel
+mullion window - http://dbpedia.org/resource/Mullion
+thomas foxley - http://dbpedia.org/resource/Thomas_Foxley
+river hart - http://dbpedia.org/resource/River_Hart
+surrey - http://dbpedia.org/resource/Surrey
+high north - http://dbpedia.org/resource/Arctic
+sir robert henley - http://dbpedia.org/resource/Robert_Henley,_1st_Earl_of_Northington
+viscount dorchester - http://dbpedia.org/resource/Dudley_Carleton,_1st_Viscount_Dorchester
+prodigy house - http://dbpedia.org/resource/Prodigy_house
+brussels - http://dbpedia.org/resource/Brussels
+rubens - http://dbpedia.org/resource/Peter_Paul_Rubens
+mansion - http://dbpedia.org/resource/English_country_house
+doric order - http://dbpedia.org/resource/Doric_order
+roman history - http://dbpedia.org/resource/History_of_Rome
+fig - http://dbpedia.org/resource/Ficus
+arcade - http://dbpedia.org/resource/Pedestrian_zone
+english bond - http://dbpedia.org/resource/Brickwork
+wood - http://dbpedia.org/resource/Wood_carving
+nikolaus pevsner - http://dbpedia.org/resource/Nikolaus_Pevsner
+anthony blunt - http://dbpedia.org/resource/Anthony_Blunt
+adorn - http://dbpedia.org/resource/Adorn_(song)
+troco - http://dbpedia.org/resource/Trucco
+manor house - http://dbpedia.org/resource/Manor_house
+wild boar - http://dbpedia.org/resource/Wild_boar
+landscape - http://dbpedia.org/resource/Landscape_painting
+hugh de port - http://dbpedia.org/resource/Hugh_de_Port
+vaulted - http://dbpedia.org/resource/Barrel_vault
+thorpe - http://dbpedia.org/resource/Benjamin_Thorpe
+evangelist - http://dbpedia.org/resource/Four_Evangelists
+berkshire - http://dbpedia.org/resource/Berkshire
+baluster - http://dbpedia.org/resource/Baluster
+mary magdalene - http://dbpedia.org/resource/Mary_Magdalene
+alexander - http://dbpedia.org/resource/Alexander_I_of_Russia
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+giles - http://dbpedia.org/resource/Saint_Giles

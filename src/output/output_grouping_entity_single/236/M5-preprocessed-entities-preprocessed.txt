@@ -1,0 +1,116 @@
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+wave - http://dbpedia.org/resource/Wave
+soldier - http://dbpedia.org/resource/Soldier
+coffee - http://dbpedia.org/resource/Plantation
+indigenous people - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
+die - http://dbpedia.org/resource/Death
+curtain - http://dbpedia.org/resource/Iron_Curtain
+portrait - http://dbpedia.org/resource/Portrait
+afar - http://dbpedia.org/resource/Afar_people
+sao paulo - http://dbpedia.org/resource/São_Paulo
+tumult - http://dbpedia.org/resource/Tumult_Records
+iberian peninsula - http://dbpedia.org/resource/Peninsular_War
+brazilian history - http://dbpedia.org/resource/History_of_Brazil
+exile - http://dbpedia.org/resource/Exile
+national monument - http://dbpedia.org/resource/Monument
+complement - http://dbpedia.org/resource/Complement_system
+independência ou morte - http://dbpedia.org/resource/Independence_or_Death_(painting)
+portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
+continental europe - http://dbpedia.org/resource/Continental_Europe
+public opinion - http://dbpedia.org/resource/Public_opinion
+barman - http://dbpedia.org/resource/Bartender
+brazil - http://dbpedia.org/resource/Brazil
+middle road - http://dbpedia.org/resource/The_Middle_Road
+portuguese monarchy - http://dbpedia.org/resource/Kingdom_of_Portugal
+bandeirante - http://dbpedia.org/resource/Bandeirantes
+social structure - http://dbpedia.org/resource/Social_structure
+equestrian statue - http://dbpedia.org/resource/Equestrian_statue
+claimant - http://dbpedia.org/resource/Pretender
+king joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+bradford - http://dbpedia.org/resource/Bradford
+rio - http://dbpedia.org/resource/Rio_(windowing_system)
+constitution - http://dbpedia.org/resource/Constitution
+adjutant - http://dbpedia.org/resource/Adjutant
+revolt - http://dbpedia.org/resource/Revolution
+court - http://dbpedia.org/resource/Royal_court
+cherubim - http://dbpedia.org/resource/Cherub
+vue - http://dbpedia.org/resource/Vue_Cinemas
+pressure - http://dbpedia.org/resource/Pressure
+long view - http://dbpedia.org/resource/Long_View,_North_Carolina
+portuguese government - http://dbpedia.org/resource/Portugal
+côrtes - http://dbpedia.org/resource/Lula_Côrtes
+orb - http://dbpedia.org/resource/Globus_cruciger
+liberal conservative - http://dbpedia.org/resource/Liberal_conservatism
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+oft - http://dbpedia.org/resource/Office_of_Fair_Trading
+la place - http://dbpedia.org/resource/LaPlace,_Louisiana
+sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+roman emperor - http://dbpedia.org/resource/Roman_emperor
+napoleon - http://dbpedia.org/resource/Napoleon
+liberty - http://dbpedia.org/resource/Liberty
+acclamation - http://dbpedia.org/resource/Acclamation
+independent - http://dbpedia.org/resource/Independence
+documentary - http://dbpedia.org/resource/Documentary_film
+opera - http://dbpedia.org/resource/Opera
+de facto - http://dbpedia.org/resource/De_facto
+solution - http://dbpedia.org/resource/Malta
+decree - http://dbpedia.org/resource/Decree
+brazilian monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+architecture - http://dbpedia.org/resource/Architecture
+belchior - http://dbpedia.org/resource/Belchior_(singer)
+painting - http://dbpedia.org/resource/Painting
+ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+resemble - http://dbpedia.org/resource/SoltyRei
+market - http://dbpedia.org/resource/Free_market
+angel - http://dbpedia.org/resource/Angel
+cannon - http://dbpedia.org/resource/Cannon
+coat - http://dbpedia.org/resource/Fur_clothing
+emperor - http://dbpedia.org/resource/Roman_emperor
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+regent - http://dbpedia.org/resource/Prince_regent
+economy - http://dbpedia.org/resource/Economy
+crop - http://dbpedia.org/resource/Agriculture
+national color - http://dbpedia.org/resource/Flag_of_the_United_States
+catholic - http://dbpedia.org/resource/Catholic_Church
+horse - http://dbpedia.org/resource/Horse
+city - http://dbpedia.org/resource/City
+native brazilians - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
+portuguese - http://dbpedia.org/resource/Portuguese_language
+theory - http://dbpedia.org/resource/Theory
+royal court - http://dbpedia.org/resource/Royal_court
+blood - http://dbpedia.org/resource/Blood
+carlota - http://dbpedia.org/resource/Carlota_Joaquina_of_Spain
+independence - http://dbpedia.org/resource/Independence
+lisbon - http://dbpedia.org/resource/Lisbon
+status quo - http://dbpedia.org/resource/Status_quo
+triumvirate - http://dbpedia.org/resource/Triumvirate
+parliament - http://dbpedia.org/resource/Parliament_of_England
+monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
+york - http://dbpedia.org/resource/House_of_York
+britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+colony - http://dbpedia.org/resource/Colony
+prince pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
+emperor pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+widen - http://dbpedia.org/resource/Widen
+national flag - http://dbpedia.org/resource/Flag_of_the_United_States
+corte - http://dbpedia.org/resource/Corte,_Haute-Corse
+dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+reiterate - http://dbpedia.org/resource/Reiterate
+napoleon bonaparte - http://dbpedia.org/resource/Napoleon
+green gold - http://dbpedia.org/resource/Electrum
+adolescent - http://dbpedia.org/resource/Adolescence
+civilization - http://dbpedia.org/resource/Civilization
+knopf - http://dbpedia.org/resource/Alfred_A._Knopf
+symbol - http://dbpedia.org/resource/Symbol
+minas gerais - http://dbpedia.org/resource/Minas_Gerais
+capital city - http://dbpedia.org/resource/Forbidden_City
+cortes - http://dbpedia.org/resource/Portuguese_Cortes
+bureaucrat - http://dbpedia.org/resource/Bureaucracy
+loyalist - http://dbpedia.org/resource/Loyalism
+mandate - http://dbpedia.org/resource/Mandate_of_Heaven
+center stage - http://dbpedia.org/resource/Center_Stage_(2000_film)
+consecrate - http://dbpedia.org/resource/Consecration
+balcony - http://dbpedia.org/resource/Balcony
+forevermore - http://dbpedia.org/resource/Forevermore_(TV_series)

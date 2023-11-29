@@ -1,0 +1,72 @@
+baron coleraine - http://dbpedia.org/resource/Baron_Coleraine
+court manor - http://dbpedia.org/resource/Court_Manor
+facade - http://dbpedia.org/resource/Facade
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+longford castle - http://dbpedia.org/resource/Longford_Castle
+laughter - http://dbpedia.org/resource/Laughter
+duke - http://dbpedia.org/resource/Duke
+suicide - http://dbpedia.org/resource/Suicide
+queen - http://dbpedia.org/resource/Queen_consort
+archaeological excavation - http://dbpedia.org/resource/Excavation_(archaeology)
+hugh hare - http://dbpedia.org/resource/Hugh_Hare
+manchester - http://dbpedia.org/resource/Manchester
+local council - http://dbpedia.org/resource/Local_government_in_England
+family - http://dbpedia.org/resource/Family
+monarchy - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
+sarah - http://dbpedia.org/resource/SAR-Lupe
+postage stamp - http://dbpedia.org/resource/Postage_stamp
+court - http://dbpedia.org/resource/Royal_court
+die - http://dbpedia.org/resource/Death
+habit - http://dbpedia.org/resource/Religious_habit
+tudor - http://dbpedia.org/resource/Tudor_period
+lucas - http://dbpedia.org/resource/Lucas_Scott
+alston - http://dbpedia.org/resource/Walter_Alston
+headmaster - http://dbpedia.org/resource/Head_teacher
+apocryphal - http://dbpedia.org/resource/Apocrypha
+general post office - http://dbpedia.org/resource/General_Post_Office
+lordship - http://dbpedia.org/resource/Manorialism
+manor house - http://dbpedia.org/resource/Manorialism
+radical - http://dbpedia.org/resource/Political_radicalism
+century house - http://dbpedia.org/resource/Century_House,_London
+parliamentary - http://dbpedia.org/resource/Roundhead
+curriculum - http://dbpedia.org/resource/Curriculum
+british school - http://dbpedia.org/resource/British_and_Foreign_School_Society
+constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
+medieval - http://dbpedia.org/resource/England_in_the_Middle_Ages
+news - http://dbpedia.org/resource/News_media
+landed gentry - http://dbpedia.org/resource/Landed_gentry
+gambling - http://dbpedia.org/resource/Gambling
+scottish crown - http://dbpedia.org/resource/The_Crown
+plain - http://dbpedia.org/resource/John_Major
+manorial estate - http://dbpedia.org/resource/Manorialism
+totteridge - http://dbpedia.org/resource/Totteridge
+misnomer - http://dbpedia.org/resource/Misnomer
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+turkey - http://dbpedia.org/resource/Domestic_turkey
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+wing - http://dbpedia.org/resource/Wing
+earl - http://dbpedia.org/resource/Earl
+circle - http://dbpedia.org/resource/Stone_circle
+land title - http://dbpedia.org/resource/Land_registration
+henry hare - http://dbpedia.org/resource/Henry_Hare
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle
+dovecote - http://dbpedia.org/resource/Dovecote
+mistress - http://dbpedia.org/resource/Royal_mistress
+civil war - http://dbpedia.org/resource/English_Civil_War
+language science - http://dbpedia.org/resource/Psycholinguistics
+principle teacher - http://dbpedia.org/resource/Semikhah
+excavation - http://dbpedia.org/resource/Excavator
+dorset - http://dbpedia.org/resource/Dorset
+lucy - http://dbpedia.org/resource/Lucy_Beale
+tottenham - http://dbpedia.org/resource/Tottenham
+lease - http://dbpedia.org/resource/Leasehold_estate
+merchant - http://dbpedia.org/resource/Merchant
+sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
+bone - http://dbpedia.org/resource/Bone
+henry - http://dbpedia.org/resource/Henry_(unit)
+somerset - http://dbpedia.org/resource/Somerset
+tower - http://dbpedia.org/resource/Keep
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+debt - http://dbpedia.org/resource/Debt
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+robert bruce - http://dbpedia.org/resource/Robert_the_Bruce

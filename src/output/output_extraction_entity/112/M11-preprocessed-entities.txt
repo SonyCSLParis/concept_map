@@ -1,0 +1,47 @@
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin_American_Football
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin_American_Football
+trinity - http://dbpedia.org/resource/Trinity
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+constituent college - http://dbpedia.org/resource/Collegiate_university
+ireland - http://dbpedia.org/resource/Ireland
+collegiate university - http://dbpedia.org/resource/Collegiate_university
+cambridge - http://dbpedia.org/resource/University_of_Cambridge
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin_American_Football
+ancient university - http://dbpedia.org/resource/Ancient_university
+britain - http://dbpedia.org/resource/Great_Britain
+ireland - http://dbpedia.org/resource/Ireland
+ireland - http://dbpedia.org/resource/Ireland
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+gospel book - http://dbpedia.org/resource/Gospel_Book
+latin - http://dbpedia.org/resource/Latin
+gospels - http://dbpedia.org/resource/Gospel
+monastery - http://dbpedia.org/resource/Monastery
+britain - http://dbpedia.org/resource/Great_Britain
+ireland - http://dbpedia.org/resource/Ireland
+britain - http://dbpedia.org/resource/Great_Britain
+ireland - http://dbpedia.org/resource/Ireland
+gospels - http://dbpedia.org/resource/Gospel
+vulgate - http://dbpedia.org/resource/Vulgate
+bible - http://dbpedia.org/resource/Bible
+vetus latina - http://dbpedia.org/resource/Vetus_Latina
+western calligraphy - http://dbpedia.org/resource/Calligraphy
+pinnacle - http://dbpedia.org/resource/Pinnacle
+insular illumination - http://dbpedia.org/resource/Insular_illumination
+ireland - http://dbpedia.org/resource/Ireland
+national treasure - http://dbpedia.org/resource/National_treasure
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospel book - http://dbpedia.org/resource/Gospel_Book
+christian iconography - http://dbpedia.org/resource/Iconography
+motif - http://dbpedia.org/resource/Motif-Index_of_Folk-Literature
+insular art - http://dbpedia.org/resource/Insular_art
+human animal - http://dbpedia.org/resource/Human_Animal
+mythical beast - http://dbpedia.org/resource/Legendary_creature
+celtic knot - http://dbpedia.org/resource/Celtic_knot
+interlace - http://dbpedia.org/resource/Celtic_knot
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+imbue - http://dbpedia.org/resource/Imbue
+christian symbolism - http://dbpedia.org/resource/Christian_symbolism

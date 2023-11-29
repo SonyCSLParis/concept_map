@@ -1,0 +1,109 @@
+education - http://dbpedia.org/resource/Education
+ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
+balustrade - http://dbpedia.org/resource/Baluster
+stone - http://dbpedia.org/resource/Masonry
+19th century restoration - http://dbpedia.org/resource/Victorian_restoration
+presidential decree - http://dbpedia.org/resource/Decree
+buddhist pilgrimage - http://dbpedia.org/resource/Buddhist_pilgrimage_sites
+openwork - http://dbpedia.org/resource/Openwork
+sacred - http://dbpedia.org/resource/Sacred
+concentric - http://dbpedia.org/resource/Concentric_objects
+space - http://dbpedia.org/resource/Space
+netherlands - http://dbpedia.org/resource/Netherlands
+windows media - http://dbpedia.org/resource/Windows_Media_Player
+local government - http://dbpedia.org/resource/Local_government
+public private partnership - http://dbpedia.org/resource/Public–private_partnership
+monument - http://dbpedia.org/resource/Monument
+cultural landscape - http://dbpedia.org/resource/Cultural_landscape
+candi borobudur - http://dbpedia.org/resource/Borobudur
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+municipality - http://dbpedia.org/resource/Municipality
+ecosystem - http://dbpedia.org/resource/Ecosystem
+magelang regency - http://dbpedia.org/resource/Magelang_Regency
+superstructure - http://dbpedia.org/resource/Base_and_superstructure
+mendut - http://dbpedia.org/resource/Mendut
+stupas - http://dbpedia.org/resource/Stupa
+mount - http://dbpedia.org/resource/Vahana
+pressure - http://dbpedia.org/resource/Pressure
+buddhahood - http://dbpedia.org/resource/Buddhahood
+pyramid - http://dbpedia.org/resource/Pyramid
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+acidic - http://dbpedia.org/resource/PH
+nirvana - http://dbpedia.org/resource/Nirvana
+law - http://dbpedia.org/resource/Law
+lotus - http://dbpedia.org/resource/Nelumbo_nucifera
+trunk - http://dbpedia.org/resource/Elephant
+heritage conservation - http://dbpedia.org/resource/Historic_preservation
+bodhisattva - http://dbpedia.org/resource/Bodhisattva
+terrace - http://dbpedia.org/resource/Terrace_garden
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+object - http://dbpedia.org/resource/Astronomical_object
+sphere - http://dbpedia.org/resource/Sphere
+buddhist architecture - http://dbpedia.org/resource/Buddhist_architecture
+atmosphere - http://dbpedia.org/resource/Atmosphere
+jica - http://dbpedia.org/resource/Japan_International_Cooperation_Agency
+formlessness - http://dbpedia.org/resource/Formlessness
+news 2 - http://dbpedia.org/resource/RTÉ_News_on_Two
+earth hour - http://dbpedia.org/resource/Earth_Hour
+dome - http://dbpedia.org/resource/Dome
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+architecture - http://dbpedia.org/resource/Architecture
+buddhist cosmology - http://dbpedia.org/resource/Buddhist_cosmology
+deity - http://dbpedia.org/resource/Hinduism
+universe - http://dbpedia.org/resource/Universe
+dynastic - http://dbpedia.org/resource/Dynasty
+monitor - http://dbpedia.org/resource/Display_device
+indonesian law - http://dbpedia.org/resource/Law_of_Indonesia
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+flower - http://dbpedia.org/resource/Flower
+stupa - http://dbpedia.org/resource/Stupa
+relief - http://dbpedia.org/resource/Relief
+temple construction - http://dbpedia.org/resource/Candi_of_Indonesia
+archaeological site - http://dbpedia.org/resource/Archaeology
+ecotourism - http://dbpedia.org/resource/Ecotourism
+indigenous - http://dbpedia.org/resource/Indigenous_peoples
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+presidential - http://dbpedia.org/resource/Presidential_system
+function - http://dbpedia.org/resource/Role
+bell - http://dbpedia.org/resource/Bell_tower
+temple mountain - http://dbpedia.org/resource/Khmer_architecture
+central java - http://dbpedia.org/resource/Central_Java
+local authority - http://dbpedia.org/resource/Local_government
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+100 series - http://dbpedia.org/resource/Tobu_100_series
+tourism management - http://dbpedia.org/resource/Hospitality_management_studies
+handicraft - http://dbpedia.org/resource/Handicraft
+eruption - http://dbpedia.org/resource/Types_of_volcanic_eruptions
+architectural revival - http://dbpedia.org/resource/Sicilian_Baroque
+drainage - http://dbpedia.org/resource/Drainage
+imaginary axis - http://dbpedia.org/resource/Complex_plane
+nhk - http://dbpedia.org/resource/NHK
+hinterland - http://dbpedia.org/resource/Hinterland
+culture - http://dbpedia.org/resource/Culture
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+public works - http://dbpedia.org/resource/Public_works
+surface area - http://dbpedia.org/resource/Surface_area
+kedu - http://dbpedia.org/resource/Kedu_Plain
+reflection - http://dbpedia.org/resource/Introspection
+ensemble - http://dbpedia.org/resource/Numerical_weather_prediction
+community development - http://dbpedia.org/resource/Community_development
+cone - http://dbpedia.org/resource/Cone
+borobudur - http://dbpedia.org/resource/Borobudur
+draft - http://dbpedia.org/resource/Conscription
+buddhist - http://dbpedia.org/resource/Buddhism
+formidable - http://dbpedia.org/resource/French_ship_Formidable
+community development program - http://dbpedia.org/resource/Community_development
+tourism - http://dbpedia.org/resource/Tourism
+cultural heritage - http://dbpedia.org/resource/Cultural_heritage
+visitor management - http://dbpedia.org/resource/Visitor_management
+feasibility study - http://dbpedia.org/resource/Feasibility_study
+compound - http://dbpedia.org/resource/Chemical_compound
+pawon - http://dbpedia.org/resource/Pawon
+centre island - http://dbpedia.org/resource/Toronto_Islands
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+spatial planning - http://dbpedia.org/resource/Spatial_planning
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+heritage - http://dbpedia.org/resource/Cultural_heritage
+bodhisattvas - http://dbpedia.org/resource/Bodhisattva
+unsupervised - http://dbpedia.org/resource/Unsupervised_learning
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds

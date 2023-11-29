@@ -1,0 +1,388 @@
+unification - http://dbpedia.org/resource/Italian_unification
+b.c. - http://dbpedia.org/resource/Figured_bass
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+b.c. - http://dbpedia.org/resource/Figured_bass
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+civilization - http://dbpedia.org/resource/Civilization
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+archaeologist - http://dbpedia.org/resource/Archaeology
+historian - http://dbpedia.org/resource/Roman_historiography
+field study - http://dbpedia.org/resource/Field_research
+egyptology - http://dbpedia.org/resource/Egyptology
+main source - http://dbpedia.org/resource/Main_Source
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+monument - http://dbpedia.org/resource/Funerary_art
+object - http://dbpedia.org/resource/Astronomical_object
+artifact - http://dbpedia.org/resource/Magic_in_fiction
+archaeological site - http://dbpedia.org/resource/Archaeology
+hieroglyph - http://dbpedia.org/resource/Egyptian_hieroglyphs
+culture - http://dbpedia.org/resource/Archaeological_culture
+beauty - http://dbpedia.org/resource/Beauty
+architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
+predynastic - http://dbpedia.org/resource/Prehistoric_Egypt
+b.c. - http://dbpedia.org/resource/Figured_bass
+artifact - http://dbpedia.org/resource/Magic_in_fiction
+predynastic - http://dbpedia.org/resource/Prehistoric_Egypt
+encompass - http://dbpedia.org/resource/Encompass
+egyptian civilization - http://dbpedia.org/resource/Ancient_Egypt
+akhenaton - http://dbpedia.org/resource/Akhenaten
+nefertiti - http://dbpedia.org/resource/Nefertiti
+monotheistic - http://dbpedia.org/resource/Monotheism
+cult - http://dbpedia.org/resource/Imperial_cult
+sun god - http://dbpedia.org/resource/Ra
+aton - http://dbpedia.org/resource/Navigational_aid
+sculpture - http://dbpedia.org/resource/Roman_sculpture
+nefertiti - http://dbpedia.org/resource/Nefertiti
+beauty - http://dbpedia.org/resource/Beauty
+goddess - http://dbpedia.org/resource/Ancient_Egyptian_deities
+fertility - http://dbpedia.org/resource/Soil_fertility
+neolithic - http://dbpedia.org/resource/Neolithic
+late stone age - http://dbpedia.org/resource/Upper_Paleolithic
+northeastern africa - http://dbpedia.org/resource/Horn_of_Africa
+hunting - http://dbpedia.org/resource/Hunter-gatherer
+agriculture - http://dbpedia.org/resource/Agriculture
+egyptian art - http://dbpedia.org/resource/Art_of_ancient_Egypt
+technology - http://dbpedia.org/resource/Technology
+religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
+b.c. - http://dbpedia.org/resource/Figured_bass
+nile river delta - http://dbpedia.org/resource/Nile_Delta
+nile - http://dbpedia.org/resource/Nile
+atfih - http://dbpedia.org/resource/Atfih
+atfih - http://dbpedia.org/resource/Atfih
+silsila - http://dbpedia.org/resource/Silsila
+king scorpion - http://dbpedia.org/resource/Scorpion_II
+northern kingdom - http://dbpedia.org/resource/Kingdom_of_Israel_(Samaria)
+b.c. - http://dbpedia.org/resource/Figured_bass
+menes - http://dbpedia.org/resource/Menes
+early dynastic period - http://dbpedia.org/resource/History_of_Sumer
+b.c. - http://dbpedia.org/resource/Figured_bass
+menes - http://dbpedia.org/resource/Menes
+capital - http://dbpedia.org/resource/Capital_city
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+white walls - http://dbpedia.org/resource/White_Walls
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+apex - http://dbpedia.org/resource/Apex_predator
+nile river delta - http://dbpedia.org/resource/Nile_Delta
+capital - http://dbpedia.org/resource/Capital_city
+metropolis - http://dbpedia.org/resource/Colonies_in_antiquity
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+archaic period - http://dbpedia.org/resource/Archaic_Greece
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+ideology - http://dbpedia.org/resource/Ideology
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+hieroglyphic writing - http://dbpedia.org/resource/Egyptian_hieroglyphs
+archaic period - http://dbpedia.org/resource/Archaic_Greece
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+farmer - http://dbpedia.org/resource/Agriculture
+village - http://dbpedia.org/resource/Village
+agriculture - http://dbpedia.org/resource/Agriculture
+wheat - http://dbpedia.org/resource/Wheat
+barley - http://dbpedia.org/resource/Barley
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+annual flooding - http://dbpedia.org/resource/Flooding_of_the_Nile
+nile river - http://dbpedia.org/resource/Nile
+irrigation - http://dbpedia.org/resource/Irrigation
+fertilization - http://dbpedia.org/resource/Fertilizer
+farmer - http://dbpedia.org/resource/Agriculture
+sow - http://dbpedia.org/resource/Pig
+wheat - http://dbpedia.org/resource/Wheat
+harvest - http://dbpedia.org/resource/Harvest
+season high - http://dbpedia.org/resource/Season_High
+drought - http://dbpedia.org/resource/Horn_of_Africa
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+b.c. - http://dbpedia.org/resource/Figured_bass
+pharaohs - http://dbpedia.org/resource/Pharaoh
+b.c. - http://dbpedia.org/resource/Figured_bass
+djoser - http://dbpedia.org/resource/Djoser
+imhotep - http://dbpedia.org/resource/Imhotep
+architect - http://dbpedia.org/resource/Architecture
+priest - http://dbpedia.org/resource/Clergy
+healer - http://dbpedia.org/resource/Faith_healing
+funerary monument - http://dbpedia.org/resource/Funerary_art
+stone - http://dbpedia.org/resource/Stone_tool
+step pyramid - http://dbpedia.org/resource/Pyramid_of_Djoser
+saqqara - http://dbpedia.org/resource/Saqqara
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+zenith - http://dbpedia.org/resource/Zenith
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+giza - http://dbpedia.org/resource/Giza
+cairo - http://dbpedia.org/resource/Cairo_(graphics)
+khufu - http://dbpedia.org/resource/Khufu
+cheops - http://dbpedia.org/resource/CHEOPS
+b.c. - http://dbpedia.org/resource/Figured_bass
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+classical - http://dbpedia.org/resource/Classical_antiquity
+historian - http://dbpedia.org/resource/Roman_historiography
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+giza - http://dbpedia.org/resource/Giza
+khufu - http://dbpedia.org/resource/Khufu
+khafra - http://dbpedia.org/resource/Khafra
+menkaura - http://dbpedia.org/resource/Menkaure
+b.c. - http://dbpedia.org/resource/Figured_bass
+fourth dynasty - http://dbpedia.org/resource/Fourth_Dynasty_of_Egypt
+golden age - http://dbpedia.org/resource/Golden_Age
+peace - http://dbpedia.org/resource/Peace
+pharaohs - http://dbpedia.org/resource/Pharaoh
+stable - http://dbpedia.org/resource/Stable
+central government - http://dbpedia.org/resource/Central_government
+successful military campaign - http://dbpedia.org/resource/Mahdist_War
+nubia - http://dbpedia.org/resource/Nubia
+libya - http://dbpedia.org/resource/Ancient_Libya
+sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+falter - http://dbpedia.org/resource/Falter
+nobility - http://dbpedia.org/resource/Nobility
+priesthood - http://dbpedia.org/resource/Clergy
+sun god - http://dbpedia.org/resource/Ra
+sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
+pepy ii - http://dbpedia.org/resource/Pepi_II_Neferkare
+rule 94 - http://dbpedia.org/resource/Elementary_cellular_automaton
+b.c. - http://dbpedia.org/resource/Figured_bass
+heel - http://dbpedia.org/resource/Glossary_of_professional_wrestling_terms
+eighth dynasty - http://dbpedia.org/resource/Eighth_Dynasty_of_Egypt
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+b.c. - http://dbpedia.org/resource/Figured_bass
+civil war - http://dbpedia.org/resource/Civil_war
+governor - http://dbpedia.org/resource/Roman_governor
+chaotic - http://dbpedia.org/resource/Chaos_theory
+intensify - http://dbpedia.org/resource/Intensify
+bedouin - http://dbpedia.org/resource/Bedouin
+invasion - http://dbpedia.org/resource/Invasion
+famine - http://dbpedia.org/resource/Famine
+disease - http://dbpedia.org/resource/Disease
+heracleopolis - http://dbpedia.org/resource/Heracleopolis_Magna
+middle egypt - http://dbpedia.org/resource/Middle_Egypt
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+family - http://dbpedia.org/resource/Family
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+heracleopolitan - http://dbpedia.org/resource/Heracleopolis_Magna
+b.c. - http://dbpedia.org/resource/Figured_bass
+theban - http://dbpedia.org/resource/Luxor
+mentuhotep - http://dbpedia.org/resource/Mentuhotep_(queen)
+heracleopolis - http://dbpedia.org/resource/Heracleopolis_Magna
+11th dynasty - http://dbpedia.org/resource/Eleventh_Dynasty_of_Egypt
+middle kingdom - http://dbpedia.org/resource/Middle_Francia
+12th dynasty - http://dbpedia.org/resource/Twelfth_Dynasty_of_Egypt
+b.c. - http://dbpedia.org/resource/Figured_bass
+11th dynasty - http://dbpedia.org/resource/Eleventh_Dynasty_of_Egypt
+mentuhotep iv - http://dbpedia.org/resource/Mentuhotep_IV
+vizier - http://dbpedia.org/resource/Vizier
+chief minister - http://dbpedia.org/resource/Prime_minister
+capital - http://dbpedia.org/resource/Capital_city
+towy - http://dbpedia.org/resource/River_Tywi
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+middle kingdom egypt - http://dbpedia.org/resource/Middle_Kingdom_of_Egypt
+12th dynasty - http://dbpedia.org/resource/Twelfth_Dynasty_of_Egypt
+regent - http://dbpedia.org/resource/Regent
+foreign policy - http://dbpedia.org/resource/Foreign_policy
+nubia - http://dbpedia.org/resource/Nubia
+gold - http://dbpedia.org/resource/Gold
+ebony - http://dbpedia.org/resource/Ebony
+repel - http://dbpedia.org/resource/Repel
+bedouins - http://dbpedia.org/resource/Bedouin
+syria - http://dbpedia.org/resource/Syria
+palestine - http://dbpedia.org/resource/Jund_Filastin
+fortress - http://dbpedia.org/resource/Castle
+mining - http://dbpedia.org/resource/Mining
+quarry - http://dbpedia.org/resource/Quarry
+pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+middle kingdom - http://dbpedia.org/resource/Middle_Francia
+amenemhet iii - http://dbpedia.org/resource/Amenemhat_III
+b.c. - http://dbpedia.org/resource/Figured_bass
+iv - http://dbpedia.org/resource/Panzer_IV
+b.c. - http://dbpedia.org/resource/Figured_bass
+regent - http://dbpedia.org/resource/Regent
+queen - http://dbpedia.org/resource/Queen_consort
+sobekneferu - http://dbpedia.org/resource/Sobekneferu
+b.c. - http://dbpedia.org/resource/Figured_bass
+12th dynasty - http://dbpedia.org/resource/Twelfth_Dynasty_of_Egypt
+b.c. - http://dbpedia.org/resource/Figured_bass
+13th dynasty - http://dbpedia.org/resource/Thirteenth_Dynasty_of_Egypt
+unsettled - http://dbpedia.org/resource/Unsettled
+egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
+sphere - http://dbpedia.org/resource/Sphere_of_influence
+royal court - http://dbpedia.org/resource/Royal_court
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+center city - http://dbpedia.org/resource/New_Orleans_Central_Business_District
+xois - http://dbpedia.org/resource/Xois
+nile delta - http://dbpedia.org/resource/Nile
+b.c. - http://dbpedia.org/resource/Figured_bass
+hyksos - http://dbpedia.org/resource/Hyksos
+hyksos - http://dbpedia.org/resource/Hyksos
+15th dynasty - http://dbpedia.org/resource/Fifteenth_Dynasty_of_Egypt
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+culture - http://dbpedia.org/resource/Archaeological_culture
+theban - http://dbpedia.org/resource/Luxor
+17th dynasty - http://dbpedia.org/resource/Seventeenth_Dynasty_of_Egypt
+hyksos - http://dbpedia.org/resource/Hyksos
+16th dynasty - http://dbpedia.org/resource/Sixteenth_Dynasty_of_Egypt
+theban - http://dbpedia.org/resource/Luxor
+hyksos - http://dbpedia.org/resource/Hyksos
+flare - http://dbpedia.org/resource/Flare
+thebans - http://dbpedia.org/resource/Thebes,_Greece
+hyksos - http://dbpedia.org/resource/Hyksos
+b.c. - http://dbpedia.org/resource/Figured_bass
+b.c. - http://dbpedia.org/resource/Figured_bass
+ahmose - http://dbpedia.org/resource/Ahmose_I
+18th dynasty - http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt
+18th dynasty - http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt
+nubia - http://dbpedia.org/resource/Nubia
+military campaign - http://dbpedia.org/resource/Military_campaign
+palestine - http://dbpedia.org/resource/Jund_Filastin
+mitannians - http://dbpedia.org/resource/Mitanni
+hittites - http://dbpedia.org/resource/Hittites
+nubia - http://dbpedia.org/resource/Nubia
+euphrates river - http://dbpedia.org/resource/Euphrates
+b.c. - http://dbpedia.org/resource/Figured_bass
+b.c. - http://dbpedia.org/resource/Figured_bass
+amenhotep iii - http://dbpedia.org/resource/Amenhotep_III
+b.c. - http://dbpedia.org/resource/Figured_bass
+hatshepsut - http://dbpedia.org/resource/Hatshepsut
+b.c. - http://dbpedia.org/resource/Figured_bass
+regent - http://dbpedia.org/resource/Regent
+thutmose iii - http://dbpedia.org/resource/Thutmose_III
+wield - http://dbpedia.org/resource/Wield
+pharaoh - http://dbpedia.org/resource/Pharaoh
+amenhotep iv - http://dbpedia.org/resource/Akhenaten
+18th dynasty - http://dbpedia.org/resource/Eighteenth_Dynasty_of_Egypt
+revolution - http://dbpedia.org/resource/French_Revolution
+priesthood - http://dbpedia.org/resource/Clergy
+amon - http://dbpedia.org/resource/Amun
+theban - http://dbpedia.org/resource/Luxor
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+amon - http://dbpedia.org/resource/Amun
+sun god - http://dbpedia.org/resource/Ra
+sun god - http://dbpedia.org/resource/Ra
+aton - http://dbpedia.org/resource/Navigational_aid
+akhenaton - http://dbpedia.org/resource/Akhenaten
+aton - http://dbpedia.org/resource/Navigational_aid
+capital - http://dbpedia.org/resource/Capital_city
+middle egypt - http://dbpedia.org/resource/Middle_Egypt
+amarna - http://dbpedia.org/resource/Amarna
+akhenaton - http://dbpedia.org/resource/Akhenaten
+capital - http://dbpedia.org/resource/Capital_city
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+egyptians - http://dbpedia.org/resource/Ancient_Egypt
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+20th dynasty - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+ramesside period - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+ramses - http://dbpedia.org/resource/Ramesses_II
+egyptian empire - http://dbpedia.org/resource/Ancient_Egypt
+great temple - http://dbpedia.org/resource/Templo_Mayor
+temple city - http://dbpedia.org/resource/Temple_City,_California
+biblical chronology - http://dbpedia.org/resource/Chronology_of_the_Bible
+moses - http://dbpedia.org/resource/Moses
+israelites - http://dbpedia.org/resource/Israelites
+ramses ii - http://dbpedia.org/resource/Ramesses_II
+b.c. - http://dbpedia.org/resource/Figured_bass
+akhenaton - http://dbpedia.org/resource/Akhenaten
+rock - http://dbpedia.org/resource/Rock_music
+tomb - http://dbpedia.org/resource/Tomb
+pyramid valley - http://dbpedia.org/resource/Pyramid_Valley
+nile - http://dbpedia.org/resource/Nile
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+tomb - http://dbpedia.org/resource/Tomb
+tutankhamen - http://dbpedia.org/resource/Tutankhamun
+b.c. - http://dbpedia.org/resource/Figured_bass
+a.d. - http://dbpedia.org/resource/Anno_Domini
+splendid - http://dbpedia.org/resource/Le_Splendid
+mortuary temple - http://dbpedia.org/resource/Mentuhotep_II
+20th dynasty - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+ramses iii - http://dbpedia.org/resource/Ramesses_III
+b.c. - http://dbpedia.org/resource/Figured_bass
+ramses iii - http://dbpedia.org/resource/Ramesses_III
+palestine - http://dbpedia.org/resource/Jund_Filastin
+syria - http://dbpedia.org/resource/Syria
+invasion - http://dbpedia.org/resource/Invasion
+libyans - http://dbpedia.org/resource/Ancient_Libya
+b.c. - http://dbpedia.org/resource/Figured_bass
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+culture - http://dbpedia.org/resource/Archaeological_culture
+centralized government - http://dbpedia.org/resource/Centralized_government
+21st dynasty - http://dbpedia.org/resource/Twenty-first_Dynasty_of_Egypt
+pharaohs - http://dbpedia.org/resource/Pharaoh
+libya - http://dbpedia.org/resource/Ancient_Libya
+nubia - http://dbpedia.org/resource/Nubia
+imprint - http://dbpedia.org/resource/Bene_Gesserit
+22nd dynasty - http://dbpedia.org/resource/Twenty-second_Dynasty_of_Egypt
+b.c. - http://dbpedia.org/resource/Figured_bass
+sheshonq - http://dbpedia.org/resource/Shoshenq
+libyans - http://dbpedia.org/resource/Ancient_Libya
+invade egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
+20th dynasty - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+autonomous - http://dbpedia.org/resource/Autonomy
+b.c. - http://dbpedia.org/resource/Figured_bass
+nubian - http://dbpedia.org/resource/Nubia
+pharaohs - http://dbpedia.org/resource/Pharaoh
+nubian - http://dbpedia.org/resource/Nubia
+kush - http://dbpedia.org/resource/Kush_(cannabis)
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+kushite - http://dbpedia.org/resource/Kingdom_of_Kush
+assyrian empire - http://dbpedia.org/resource/Assyria
+b.c. - http://dbpedia.org/resource/Figured_bass
+assyrian - http://dbpedia.org/resource/Assyria
+esarhaddon - http://dbpedia.org/resource/Esarhaddon
+Kushite king - http://dbpedia.org/resource/Kingdom_of_Kush
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+city - http://dbpedia.org/resource/City
+governor - http://dbpedia.org/resource/Roman_governor
+assyrians - http://dbpedia.org/resource/Assyria
+necho - http://dbpedia.org/resource/Necho_I
+26th dynasty - http://dbpedia.org/resource/Twenty-sixth_Dynasty_of_Egypt
+kushite - http://dbpedia.org/resource/Kingdom_of_Kush
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+b.c. - http://dbpedia.org/resource/Figured_bass
+necho - http://dbpedia.org/resource/Necho_I
+psammetichus - http://dbpedia.org/resource/Psamtik_I
+saite dynasty - http://dbpedia.org/resource/Twenty-sixth_Dynasty_of_Egypt
+b.c. - http://dbpedia.org/resource/Figured_bass
+cambyses - http://dbpedia.org/resource/Cambyses_II
+persia - http://dbpedia.org/resource/Achaemenid_Empire
+psammetichus iii - http://dbpedia.org/resource/Psamtik_III
+saite - http://dbpedia.org/resource/Twenty-sixth_Dynasty_of_Egypt
+pelusium - http://dbpedia.org/resource/Pelusium
+persian empire - http://dbpedia.org/resource/Achaemenid_Empire
+persian - http://dbpedia.org/resource/Persian_language
+darius - http://dbpedia.org/resource/Darius_the_Great
+b.c. - http://dbpedia.org/resource/Figured_bass
+native egyptian - http://dbpedia.org/resource/Ancient_Egyptian_religion
+darius - http://dbpedia.org/resource/Darius_the_Great
+religious cult - http://dbpedia.org/resource/Cult
+building restoration - http://dbpedia.org/resource/Building_restoration
+temple - http://dbpedia.org/resource/Egyptian_temple
+xerxes - http://dbpedia.org/resource/Xerxes_I
+b.c. - http://dbpedia.org/resource/Figured_bass
+uprising - http://dbpedia.org/resource/Rebellion
+rebellion - http://dbpedia.org/resource/Rebellion
+b.c. - http://dbpedia.org/resource/Figured_bass
+egyptian independence - http://dbpedia.org/resource/Unilateral_Declaration_of_Egyptian_Independence
+b.c. - http://dbpedia.org/resource/Figured_bass
+persians - http://dbpedia.org/resource/Achaemenid_Empire
+b.c. - http://dbpedia.org/resource/Figured_bass
+b.c. - http://dbpedia.org/resource/Figured_bass
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+macedonia - http://dbpedia.org/resource/North_Macedonia
+persian empire - http://dbpedia.org/resource/Achaemenid_Empire
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+macedonian - http://dbpedia.org/resource/Ancient_Macedonians
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+ptolemaic egypt - http://dbpedia.org/resource/Ptolemaic_Kingdom
+cleopatra vii - http://dbpedia.org/resource/Cleopatra
+octavian - http://dbpedia.org/resource/Augustus
+augustus - http://dbpedia.org/resource/Augustus
+b.c. - http://dbpedia.org/resource/Figured_bass
+century roman - http://dbpedia.org/resource/Century_type_family
+christianity - http://dbpedia.org/resource/Christianity
+official religion - http://dbpedia.org/resource/State_religion
+rome province - http://dbpedia.org/resource/Province_of_Rome
+a.d. - http://dbpedia.org/resource/Anno_Domini
+islam - http://dbpedia.org/resource/Islam
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+culture - http://dbpedia.org/resource/Archaeological_culture
+propel - http://dbpedia.org/resource/Steroid_eluting_sinus_stent

@@ -1,0 +1,132 @@
+heart - http://dbpedia.org/resource/Heart_transplantation
+interrupt - http://dbpedia.org/resource/Interrupt
+raft - http://dbpedia.org/resource/Raft
+reckless abandon - http://dbpedia.org/resource/Reckless_Abandon_(horse)
+jerusalem - http://dbpedia.org/resource/Jerusalem
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+palestine - http://dbpedia.org/resource/Jund_Filastin
+persia - http://dbpedia.org/resource/Sasanian_Empire
+soldier - http://dbpedia.org/resource/Soldier
+winter - http://dbpedia.org/resource/Winter
+settlement - http://dbpedia.org/resource/Israeli_settlement
+sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
+assault city - http://dbpedia.org/resource/Assault_City
+die - http://dbpedia.org/resource/Death
+heraclius - http://dbpedia.org/resource/Heraclius
+knockout - http://dbpedia.org/resource/Tournament
+alexandria - http://dbpedia.org/resource/Alexandria
+wage - http://dbpedia.org/resource/Wage
+communication - http://dbpedia.org/resource/Communication
+byzantine navy - http://dbpedia.org/resource/Byzantine_navy
+caucus - http://dbpedia.org/resource/Caucus
+regent - http://dbpedia.org/resource/Regent
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+capital - http://dbpedia.org/resource/Capital_punishment
+god - http://dbpedia.org/resource/God
+south head - http://dbpedia.org/resource/Sydney_Heads
+deserter - http://dbpedia.org/resource/Desertion
+avars - http://dbpedia.org/resource/Pannonian_Avars
+anvil - http://dbpedia.org/resource/Anvil
+reclaim land - http://dbpedia.org/resource/Land_reclamation
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+region - http://dbpedia.org/resource/Region
+kardarigan - http://dbpedia.org/resource/Kardarigan_(6th_century)
+gunpowder - http://dbpedia.org/resource/Gunpowder
+olive grove - http://dbpedia.org/resource/Olive
+siege - http://dbpedia.org/resource/Siege
+loot - http://dbpedia.org/resource/Looting
+strike - http://dbpedia.org/resource/Striking_the_colors
+byzantine army - http://dbpedia.org/resource/Byzantine_Empire
+heraclius constantine - http://dbpedia.org/resource/Constantine_III_(Byzantine_emperor)
+town - http://dbpedia.org/resource/Town
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+tiflis - http://dbpedia.org/resource/Tbilisi
+rope - http://dbpedia.org/resource/Rope
+sassanids - http://dbpedia.org/resource/Sasanian_Empire
+khosrau - http://dbpedia.org/resource/Khosrow_II
+enemy territory - http://dbpedia.org/resource/Enemy_Territory_(film)
+takht - http://dbpedia.org/resource/Takht_(music)
+germanus - http://dbpedia.org/resource/Germanus_I_of_Constantinople
+reinforcement - http://dbpedia.org/resource/Reinforced_concrete
+feign - http://dbpedia.org/resource/Feign_(album)
+slavs - http://dbpedia.org/resource/Slavs
+shahrbaraz - http://dbpedia.org/resource/Shahrbaraz
+sassanid empire - http://dbpedia.org/resource/Sasanian_Empire
+resistance - http://dbpedia.org/resource/Resistance_movement
+law - http://dbpedia.org/resource/Sharia
+currency - http://dbpedia.org/resource/Pound_sterling
+maurice - http://dbpedia.org/resource/Saint_Maurice
+pardon - http://dbpedia.org/resource/Pardon
+cappadocia - http://dbpedia.org/resource/Cappadocia
+mesopotamia - http://dbpedia.org/resource/Mesopotamia
+rebellion - http://dbpedia.org/resource/Rebellion
+sail - http://dbpedia.org/resource/Sail
+tigranakert - http://dbpedia.org/resource/Tigranocerta
+impregnable - http://dbpedia.org/resource/HMS_Impregnable_(1810)
+exarch - http://dbpedia.org/resource/Exarchate_of_Ravenna
+bankrupt - http://dbpedia.org/resource/Bankruptcy
+dastagird - http://dbpedia.org/resource/Dastagird
+solomon - http://dbpedia.org/resource/Solomon
+nineveh - http://dbpedia.org/resource/Nineveh
+governor - http://dbpedia.org/resource/Roman_governor
+foothill - http://dbpedia.org/resource/Foothills
+ambush - http://dbpedia.org/resource/Ambush
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+tbilisi - http://dbpedia.org/resource/Tbilisi
+bosphorus - http://dbpedia.org/resource/Bosporus
+sarus river - http://dbpedia.org/resource/Seyhan_River
+araxes river - http://dbpedia.org/resource/Aras_(river)
+skirmish - http://dbpedia.org/resource/Skirmisher
+gold coin - http://dbpedia.org/resource/Gold_coin
+emperor maurice - http://dbpedia.org/resource/Maurice_(emperor)
+caesarea - http://dbpedia.org/resource/Kayseri
+dara - http://dbpedia.org/resource/Battle_of_Dara
+urge - http://dbpedia.org/resource/Urge_(digital_music_service)
+city - http://dbpedia.org/resource/City
+kavadh ii - http://dbpedia.org/resource/Kavad_II
+trap - http://dbpedia.org/resource/Booby_trap
+fault - http://dbpedia.org/resource/Electrical_fault
+shahin - http://dbpedia.org/resource/Shahin_Vahmanzadegan
+khosrau ii - http://dbpedia.org/resource/Khosrow_II
+frontier - http://dbpedia.org/resource/Frontier
+independence - http://dbpedia.org/resource/Independence
+christ - http://dbpedia.org/resource/Jesus
+bridge - http://dbpedia.org/resource/Bridge
+unconventional warfare - http://dbpedia.org/resource/Unconventional_warfare
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
+persians - http://dbpedia.org/resource/Sasanian_Empire
+greeks - http://dbpedia.org/resource/Ancient_Greece
+syria - http://dbpedia.org/resource/Syria
+arrow - http://dbpedia.org/resource/Bow_and_arrow
+aliovit - http://dbpedia.org/resource/Aliovit
+scout - http://dbpedia.org/resource/Reconnaissance
+flare - http://dbpedia.org/resource/Flare
+counter attack - http://dbpedia.org/resource/Counterattack
+solidus - http://dbpedia.org/resource/Solidus_(coin)
+fear - http://dbpedia.org/resource/Sinestro_Corps
+edessa - http://dbpedia.org/resource/Edessa
+west africa - http://dbpedia.org/resource/French_West_Africa
+plain - http://dbpedia.org/resource/Great_Plains
+ctesiphon - http://dbpedia.org/resource/Ctesiphon
+sassanid - http://dbpedia.org/resource/Sasanian_Empire
+bonosus - http://dbpedia.org/resource/Bonosus_of_Sardica
+compound - http://dbpedia.org/resource/Chemical_compound
+invasion - http://dbpedia.org/resource/Invasion
+nicetas - http://dbpedia.org/resource/Niketas_Choniates
+ultimate victory - http://dbpedia.org/resource/Ultimate_Victory
+fresh water - http://dbpedia.org/resource/Drinking_water
+khazars - http://dbpedia.org/resource/Khazars
+lull - http://dbpedia.org/resource/Ramon_Llull
+chalcedon - http://dbpedia.org/resource/Chalcedonian_Christianity
+phocas - http://dbpedia.org/resource/Phocas
+fire temple - http://dbpedia.org/resource/Fire_temple
+zoroastrian - http://dbpedia.org/resource/Zoroastrianism
+persian - http://dbpedia.org/resource/Persian_language
+assault - http://dbpedia.org/resource/Amphibious_warfare
+promise land - http://dbpedia.org/resource/Promised_Land
+shahraplakan - http://dbpedia.org/resource/Shahraplakan
+turks - http://dbpedia.org/resource/Seljuq_dynasty
+armenia - http://dbpedia.org/resource/Sasanian_Armenia
+vineyard - http://dbpedia.org/resource/Vineyard
+slave - http://dbpedia.org/resource/Slavery

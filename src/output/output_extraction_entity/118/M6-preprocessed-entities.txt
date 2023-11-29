@@ -1,0 +1,64 @@
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+eamont bridge - http://dbpedia.org/resource/Eamont_Bridge
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+grid - http://dbpedia.org/resource/Grid_plan
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+midsummer - http://dbpedia.org/resource/Midsummer
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+historic county - http://dbpedia.org/resource/Historic_counties_of_England
+westmorland - http://dbpedia.org/resource/Westmorland
+roman fort - http://dbpedia.org/resource/Castra
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+norman - http://dbpedia.org/resource/Norman_conquest_of_England
+family - http://dbpedia.org/resource/Family
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+stone - http://dbpedia.org/resource/Stonemasonry
+timber - http://dbpedia.org/resource/Timber_framing
+pallisade - http://dbpedia.org/resource/Palisade
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+defence - http://dbpedia.org/resource/Military
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+church - http://dbpedia.org/resource/Church_architecture
+skipton - http://dbpedia.org/resource/Skipton_Castle
+pendragon - http://dbpedia.org/resource/Pendragon
+appleby - http://dbpedia.org/resource/Appleby_Castle
+brough - http://dbpedia.org/resource/Brough_Castle
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+die - http://dbpedia.org/resource/Death
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+bear - http://dbpedia.org/resource/Teddy_bear
+fortress - http://dbpedia.org/resource/Castra
+admire - http://dbpedia.org/resource/Admire,_Kansas
+river eamont - http://dbpedia.org/resource/River_Eamont
+chamber - http://dbpedia.org/resource/Debate_chamber
+lady anne - http://dbpedia.org/resource/Anne_Neville
+sleep - http://dbpedia.org/resource/Sleep
+die - http://dbpedia.org/resource/Death
+castle building - http://dbpedia.org/resource/Castle_Building
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+roman fort - http://dbpedia.org/resource/Castra
+brocavum - http://dbpedia.org/resource/Brocavum
+a66 - http://dbpedia.org/resource/A66_road
+river eamont - http://dbpedia.org/resource/River_Eamont
+river eden - http://dbpedia.org/resource/River_Eden,_Cumbria
+culgaith - http://dbpedia.org/resource/Culgaith
+eamont - http://dbpedia.org/resource/River_Eamont
+pooley bridge - http://dbpedia.org/resource/Pooley_Bridge
+river lowther - http://dbpedia.org/resource/River_Lowther
+eamont - http://dbpedia.org/resource/River_Eamont
+wet sleddale reservoir - http://dbpedia.org/resource/Wet_Sleddale_Reservoir
+shap - http://dbpedia.org/resource/Shap
+askham - http://dbpedia.org/resource/Askham_Bryan
+english heritage - http://dbpedia.org/resource/English_Heritage
+roman - http://dbpedia.org/resource/Roman_Empire
+tombstone - http://dbpedia.org/resource/Headstone
+fort - http://dbpedia.org/resource/Castra
+guide book - http://dbpedia.org/resource/Guide_book
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+brough - http://dbpedia.org/resource/Brough_Castle

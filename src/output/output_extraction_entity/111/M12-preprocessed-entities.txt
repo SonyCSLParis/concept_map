@@ -1,0 +1,195 @@
+manor house - http://dbpedia.org/resource/Manor_house
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+east sussex - http://dbpedia.org/resource/East_Sussex
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam - http://dbpedia.org/resource/Bodiam
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+east sussex - http://dbpedia.org/resource/East_Sussex
+grid reference - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
+tq - http://dbpedia.org/resource/TQ_(singer)
+national trust - http://dbpedia.org/resource/National_trust
+blog - http://dbpedia.org/resource/Blog
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+east sussex - http://dbpedia.org/resource/East_Sussex
+fortress - http://dbpedia.org/resource/Castle
+coast - http://dbpedia.org/resource/Coast
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+free companies - http://dbpedia.org/resource/Free_company
+family - http://dbpedia.org/resource/Family
+manor - http://dbpedia.org/resource/Manorialism
+bodiam - http://dbpedia.org/resource/Bodiam
+crenellate - http://dbpedia.org/resource/Battlement
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+bastion - http://dbpedia.org/resource/Bastion
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+grace - http://dbpedia.org/resource/Charites
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+stone - http://dbpedia.org/resource/Sandstone
+lime - http://dbpedia.org/resource/Limestone
+crenellate - http://dbpedia.org/resource/Battlement
+manor house - http://dbpedia.org/resource/Manor_house
+sussex - http://dbpedia.org/resource/Sussex
+defence - http://dbpedia.org/resource/Military
+resistance - http://dbpedia.org/resource/French_Resistance
+westminster - http://dbpedia.org/resource/Westminster_Abbey
+crenellate - http://dbpedia.org/resource/Battlement
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+patent rolls - http://dbpedia.org/resource/Patent_roll
+manor house - http://dbpedia.org/resource/Manor_house
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+sandstone - http://dbpedia.org/resource/Sandstone
+architectural style - http://dbpedia.org/resource/Architectural_style
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+family - http://dbpedia.org/resource/Family
+manor - http://dbpedia.org/resource/Manorialism
+bodiam - http://dbpedia.org/resource/Bodiam
+badge - http://dbpedia.org/resource/Heraldic_badge
+helmet - http://dbpedia.org/resource/Helmet
+gatehouse - http://dbpedia.org/resource/Gatehouse
+edward - http://dbpedia.org/resource/Edward_III_of_England
+die - http://dbpedia.org/resource/Death
+alice - http://dbpedia.org/resource/Alice_and_Bob
+die - http://dbpedia.org/resource/Death
+bodiam - http://dbpedia.org/resource/Bodiam
+philippa - http://dbpedia.org/resource/Philippa_of_Hainault
+thomas lewknor - http://dbpedia.org/resource/Thomas_Lewknor_(MP_for_Midhurst)
+sussex - http://dbpedia.org/resource/Sussex
+thomas lewknor - http://dbpedia.org/resource/Thomas_Lewknor_(MP_for_Midhurst)
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+richard iii - http://dbpedia.org/resource/Richard_III_of_England
+york - http://dbpedia.org/resource/House_of_York
+lewknor - http://dbpedia.org/resource/Lewknor
+treason - http://dbpedia.org/resource/Treason
+lewknor - http://dbpedia.org/resource/Lewknor
+thomas howard - http://dbpedia.org/resource/Thomas_Howard,_3rd_Duke_of_Norfolk
+earl - http://dbpedia.org/resource/Earl
+surrey - http://dbpedia.org/resource/Surrey
+siege - http://dbpedia.org/resource/Siege
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+siege - http://dbpedia.org/resource/Siege
+yield - http://dbpedia.org/resource/Nuclear_weapon_yield
+nicholas rigby - http://dbpedia.org/resource/Nicholas_Rigby
+constable - http://dbpedia.org/resource/Castellan
+henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+bodiam - http://dbpedia.org/resource/Bodiam
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+lewknor - http://dbpedia.org/resource/Lewknor
+death estate - http://dbpedia.org/resource/Estate_(law)
+levett - http://dbpedia.org/resource/Levett
+salehurst - http://dbpedia.org/resource/Salehurst
+earl - http://dbpedia.org/resource/Earl
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+bodiam - http://dbpedia.org/resource/Bodiam
+john tufton - http://dbpedia.org/resource/John_Tufton_(cricketer)
+earl - http://dbpedia.org/resource/Earl
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+manor - http://dbpedia.org/resource/Manorialism
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+royalist - http://dbpedia.org/resource/Cavalier
+english civil war - http://dbpedia.org/resource/English_Civil_War
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+parliament - http://dbpedia.org/resource/Parliament_of_England
+powell - http://dbpedia.org/resource/Lewis_F._Powell_Jr.
+parliamentarian - http://dbpedia.org/resource/Roundhead
+debt - http://dbpedia.org/resource/Debt
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+barbican - http://dbpedia.org/resource/Barbican
+bridge - http://dbpedia.org/resource/Bridge
+charles - http://dbpedia.org/resource/Charles_I_of_England
+powell - http://dbpedia.org/resource/Lewis_F._Powell_Jr.
+charles ii - http://dbpedia.org/resource/Charles_II_of_England
+die - http://dbpedia.org/resource/Death
+bodiam - http://dbpedia.org/resource/Bodiam
+law - http://dbpedia.org/resource/English_law
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+thomas webster - http://dbpedia.org/resource/Thomas_Webster_(painter)
+webster - http://dbpedia.org/resource/Martell_Webster
+family - http://dbpedia.org/resource/Family
+ivy - http://dbpedia.org/resource/Hedera
+medieval period - http://dbpedia.org/resource/Middle_Ages
+mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
+cottage - http://dbpedia.org/resource/Cottage
+gate - http://dbpedia.org/resource/Gate
+tower - http://dbpedia.org/resource/Keep
+reuse - http://dbpedia.org/resource/Adaptive_reuse
+building material - http://dbpedia.org/resource/Building_material
+bodiam - http://dbpedia.org/resource/Bodiam
+george cubitt - http://dbpedia.org/resource/George_Cubitt,_1st_Baron_Ashcombe
+baron ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
+tower - http://dbpedia.org/resource/Keep
+vegetation - http://dbpedia.org/resource/Vegetation
+ivy - http://dbpedia.org/resource/Hedera
+tree - http://dbpedia.org/resource/Tree
+courtyard - http://dbpedia.org/resource/Courtyard
+masonry - http://dbpedia.org/resource/Masonry
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+william weir - http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+moat - http://dbpedia.org/resource/Moat
+mud - http://dbpedia.org/resource/Adobe
+silt - http://dbpedia.org/resource/Silt
+bridge - http://dbpedia.org/resource/Bridge
+vegetation - http://dbpedia.org/resource/Vegetation
+tower - http://dbpedia.org/resource/Keep
+cottage - http://dbpedia.org/resource/Cottage
+castle house - http://dbpedia.org/resource/Sheffield_Co-operative_Society
+caretaker - http://dbpedia.org/resource/Property_caretaker
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+national trust - http://dbpedia.org/resource/National_trust
+national trust - http://dbpedia.org/resource/National_trust
+tower - http://dbpedia.org/resource/Keep
+gatehouse - http://dbpedia.org/resource/Gatehouse
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+scheduled monument - http://dbpedia.org/resource/Scheduled_monument
+monty python - http://dbpedia.org/resource/Monty_Python
+holy grail - http://dbpedia.org/resource/Holy_Grail
+romantic - http://dbpedia.org/resource/Romanticism
+ideal - http://dbpedia.org/resource/Thought_experiment
+bodiam - http://dbpedia.org/resource/Bodiam
+carp - http://dbpedia.org/resource/Carp
+moat - http://dbpedia.org/resource/Moat
+battlement - http://dbpedia.org/resource/Battlement
+spiral staircase - http://dbpedia.org/resource/Stairs
+gatehouse - http://dbpedia.org/resource/Gatehouse
+bodiam - http://dbpedia.org/resource/Bodiam
+chamber - http://dbpedia.org/resource/Room
+defensive wall - http://dbpedia.org/resource/Defensive_wall
+landscape - http://dbpedia.org/resource/Landscape
+majestic - http://dbpedia.org/resource/Majestic_12
+water - http://dbpedia.org/resource/Water_supply
+moat - http://dbpedia.org/resource/Moat
+spring - http://dbpedia.org/resource/Mineral_spring
+bridge - http://dbpedia.org/resource/Bridge
+bridge - http://dbpedia.org/resource/Bridge
+moat - http://dbpedia.org/resource/Moat
+guardhouse - http://dbpedia.org/resource/Watchtower
+link island - http://dbpedia.org/resource/Link_Island
+barbican - http://dbpedia.org/resource/Barbican
+drawbridge - http://dbpedia.org/resource/Drawbridge
+toilet - http://dbpedia.org/resource/Public_toilet
+moat - http://dbpedia.org/resource/Moat
+gatehouse - http://dbpedia.org/resource/Gatehouse
+murder hole - http://dbpedia.org/resource/Murder_hole
+soldier - http://dbpedia.org/resource/Soldier
+sneaker - http://dbpedia.org/resource/Sneakers
+average height - http://dbpedia.org/resource/Human_height
+soldier - http://dbpedia.org/resource/Soldier
+mount - http://dbpedia.org/resource/Mountain
+armor - http://dbpedia.org/resource/Armour
+weapon - http://dbpedia.org/resource/Weapon
+die - http://dbpedia.org/resource/Death
+stone - http://dbpedia.org/resource/Sandstone
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+medieval - http://dbpedia.org/resource/Middle_Ages
+tower - http://dbpedia.org/resource/Keep
+object - http://dbpedia.org/resource/Astronomical_object
+bridge - http://dbpedia.org/resource/Bridge
+moat - http://dbpedia.org/resource/Moat
+floor plan - http://dbpedia.org/resource/Floor_plan

@@ -1,0 +1,30 @@
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+brick - http://dbpedia.org/resource/Brick
+defensive ditch - http://dbpedia.org/resource/Ditch_(fortification)
+siege tower - http://dbpedia.org/resource/Siege_tower
+military elite - http://dbpedia.org/resource/Special_forces
+lord family - http://dbpedia.org/resource/Lord_family
+fortress - http://dbpedia.org/resource/Castle
+ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
+glass - http://dbpedia.org/resource/Glass
+king noble - http://dbpedia.org/resource/Reynard_the_Fox
+mount - http://dbpedia.org/resource/Working_animal
+economy - http://dbpedia.org/resource/Economy
+stone - http://dbpedia.org/resource/Masonry
+main castle - http://dbpedia.org/resource/Inner_bailey
+defense - http://dbpedia.org/resource/Military
+warfare - http://dbpedia.org/resource/Medieval_warfare
+peasant - http://dbpedia.org/resource/Peasant
+com4 - http://dbpedia.org/resource/DOS
+moat - http://dbpedia.org/resource/Moat
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+great tower - http://dbpedia.org/resource/Keep
+gate - http://dbpedia.org/resource/Gate
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+noble - http://dbpedia.org/resource/Nobility
+archer - http://dbpedia.org/resource/Bow_and_arrow
+wood - http://dbpedia.org/resource/Wood
+krak des chevaliers - http://dbpedia.org/resource/Krak_des_Chevaliers
+kurds - http://dbpedia.org/resource/Kurds
+norman bailey - http://dbpedia.org/resource/Norman_Bailey_(bass-baritone)
+water - http://dbpedia.org/resource/Water

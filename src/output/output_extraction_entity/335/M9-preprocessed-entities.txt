@@ -1,0 +1,15 @@
+pendle - http://dbpedia.org/resource/Pendle_witches
+murder - http://dbpedia.org/resource/Murder
+pendle - http://dbpedia.org/resource/Pendle_witches
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+change face - http://dbpedia.org/resource/Bian_lian
+nhs - http://dbpedia.org/resource/National_Health_Service
+nuclear - http://dbpedia.org/resource/Nuclear_power
+murder - http://dbpedia.org/resource/Murder
+witchcraft - http://dbpedia.org/resource/Witch-hunt
+thomas potts - http://dbpedia.org/resource/Thomas_Potts
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witch-hunt
+tower - http://dbpedia.org/resource/Tower
+lancaster university - http://dbpedia.org/resource/Lancaster_University
+lancaster city - http://dbpedia.org/resource/Lancaster_City_F.C.

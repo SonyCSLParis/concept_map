@@ -1,0 +1,55 @@
+ramesside period - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+ramesside period - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+family - http://dbpedia.org/resource/Family
+dynasties - http://dbpedia.org/resource/Dynasty
+stable - http://dbpedia.org/resource/Stable
+ramesside period - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+redefine - http://dbpedia.org/resource/Redefine_(Dragon_Fli_Empire_album)
+amen - http://dbpedia.org/resource/Amen
+cult - http://dbpedia.org/resource/Imperial_cult
+amarna period - http://dbpedia.org/resource/Amarna_Period
+aten - http://dbpedia.org/resource/Aten
+amen - http://dbpedia.org/resource/Amen
+sacred - http://dbpedia.org/resource/Sacred
+crime - http://dbpedia.org/resource/Crime
+aten - http://dbpedia.org/resource/Aten
+faith - http://dbpedia.org/resource/Religion
+egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
+ramesside period - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+tomb - http://dbpedia.org/resource/KV62
+rameses ii - http://dbpedia.org/resource/Ramesses_II
+peristyle - http://dbpedia.org/resource/Peristyle
+forecourt - http://dbpedia.org/resource/Forecourt
+amenhotep iii - http://dbpedia.org/resource/Amenhotep_III
+pylon - http://dbpedia.org/resource/Column
+shrine - http://dbpedia.org/resource/Shrine
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+tomb - http://dbpedia.org/resource/KV62
+true live - http://dbpedia.org/resource/True_Live
+royal family - http://dbpedia.org/resource/Royal_family
+tomb - http://dbpedia.org/resource/KV62
+tomb - http://dbpedia.org/resource/KV62
+chamber - http://dbpedia.org/resource/Chamber_tomb
+painting - http://dbpedia.org/resource/Pottery_of_ancient_Greece
+religious text - http://dbpedia.org/resource/Religious_text
+pharaohs - http://dbpedia.org/resource/Pharaoh
+afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
+queen - http://dbpedia.org/resource/Queen_regnant
+queen - http://dbpedia.org/resource/Queen_regnant
+tomb - http://dbpedia.org/resource/KV62
+nefertari - http://dbpedia.org/resource/Nefertari
+tomb - http://dbpedia.org/resource/KV62
+family - http://dbpedia.org/resource/Family
+rameses ii - http://dbpedia.org/resource/Ramesses_II
+qadesh - http://dbpedia.org/resource/Kadesh_(Syria)
+tomb - http://dbpedia.org/resource/KV62
+kinship - http://dbpedia.org/resource/Kinship
+rameses ii - http://dbpedia.org/resource/Ramesses_II
+tomb - http://dbpedia.org/resource/KV62
+chamber - http://dbpedia.org/resource/Chamber_tomb
+family - http://dbpedia.org/resource/Family
+artifact - http://dbpedia.org/resource/Cultural_artifact
+deir el medina - http://dbpedia.org/resource/Deir_el-Medina
+culture - http://dbpedia.org/resource/Culture
+ostraca - http://dbpedia.org/resource/Ostracon

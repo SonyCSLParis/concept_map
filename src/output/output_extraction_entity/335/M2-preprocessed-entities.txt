@@ -1,0 +1,38 @@
+alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
+roughlee - http://dbpedia.org/resource/Roughlee
+press release - http://dbpedia.org/resource/Press_release
+lancashire - http://dbpedia.org/resource/Lancashire
+village - http://dbpedia.org/resource/Village
+alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
+pendle - http://dbpedia.org/resource/Pendle_witches
+murder - http://dbpedia.org/resource/Murder
+witchcraft - http://dbpedia.org/resource/Witchcraft
+roughlee - http://dbpedia.org/resource/Roughlee
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+parish councillor - http://dbpedia.org/resource/Parish_councils_in_England
+blacko - http://dbpedia.org/resource/Blacko
+ms - http://dbpedia.org/resource/Millisecond
+parish council - http://dbpedia.org/resource/Civil_parish
+sculptor - http://dbpedia.org/resource/Sculpture
+roughlee - http://dbpedia.org/resource/Roughlee
+village - http://dbpedia.org/resource/Village
+gentlewoman - http://dbpedia.org/resource/Gentlewoman
+pendle - http://dbpedia.org/resource/Pendle_witches
+time trial - http://dbpedia.org/resource/Time_trial
+alice - http://dbpedia.org/resource/Alice_and_Bob
+pendle - http://dbpedia.org/resource/Pendle_witches
+witch trial - http://dbpedia.org/resource/Witch-hunt
+english history - http://dbpedia.org/resource/History_of_England
+alice - http://dbpedia.org/resource/Alice_and_Bob
+judge - http://dbpedia.org/resource/Judge
+plea - http://dbpedia.org/resource/Plea
+defence - http://dbpedia.org/resource/Affirmative_defense
+murder - http://dbpedia.org/resource/Murder
+henry - http://dbpedia.org/resource/Henry_(unit)
+mitton - http://dbpedia.org/resource/Great_Mitton
+witchcraft - http://dbpedia.org/resource/Witchcraft
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+bewitch - http://dbpedia.org/resource/Bewitch
+devilish - http://dbpedia.org/resource/Tokio_Hotel
+alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings

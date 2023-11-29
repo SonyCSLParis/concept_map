@@ -1,0 +1,380 @@
+warfare - http://dbpedia.org/resource/Medieval_warfare
+balkans - http://dbpedia.org/resource/Balkans
+dark ages - http://dbpedia.org/resource/Chronology_of_the_universe
+early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
+cavalry - http://dbpedia.org/resource/Heavy_cavalry
+bow - http://dbpedia.org/resource/Bow_and_arrow
+balkans - http://dbpedia.org/resource/Balkans
+region - http://dbpedia.org/resource/Region
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+barbarian - http://dbpedia.org/resource/Migration_Period
+invasion - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+danube - http://dbpedia.org/resource/Danube
+balkans - http://dbpedia.org/resource/Balkans
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+slavs - http://dbpedia.org/resource/Slavs
+avars - http://dbpedia.org/resource/Pannonian_Avars
+barbarian - http://dbpedia.org/resource/Migration_Period
+tribe - http://dbpedia.org/resource/Tribe
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+slavs - http://dbpedia.org/resource/Slavs
+balkans - http://dbpedia.org/resource/Balkans
+avars - http://dbpedia.org/resource/Pannonian_Avars
+slavs - http://dbpedia.org/resource/Slavs
+balkans - http://dbpedia.org/resource/Balkans
+earthwork - http://dbpedia.org/resource/Fortification
+belgrade - http://dbpedia.org/resource/Belgrade
+clan - http://dbpedia.org/resource/Clan
+zupan - http://dbpedia.org/resource/Żupan
+tribe - http://dbpedia.org/resource/Tribe
+chieftain - http://dbpedia.org/resource/Germanic_kingship
+zupan - http://dbpedia.org/resource/Żupan
+early slav - http://dbpedia.org/resource/Early_Slavs
+javelin - http://dbpedia.org/resource/Javelin
+archer - http://dbpedia.org/resource/Bow_and_arrow
+peasant - http://dbpedia.org/resource/Peasant
+chieftain - http://dbpedia.org/resource/Germanic_kingship
+retinue - http://dbpedia.org/resource/Retinue
+cavalry - http://dbpedia.org/resource/Heavy_cavalry
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+avars - http://dbpedia.org/resource/Pannonian_Avars
+cavalry - http://dbpedia.org/resource/Heavy_cavalry
+sardica - http://dbpedia.org/resource/History_of_Sofia
+sofia - http://dbpedia.org/resource/Sofia
+balkans - http://dbpedia.org/resource/Balkans
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+horseman - http://dbpedia.org/resource/Four_Horsemen_of_the_Apocalypse
+huns - http://dbpedia.org/resource/Huns
+cavalry - http://dbpedia.org/resource/Heavy_cavalry
+swarm - http://dbpedia.org/resource/Swarm_behaviour
+light - http://dbpedia.org/resource/Light_infantry
+horse archer - http://dbpedia.org/resource/Mounted_archery
+avars - http://dbpedia.org/resource/Pannonian_Avars
+huns - http://dbpedia.org/resource/Huns
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+belisarius - http://dbpedia.org/resource/Belisarius
+thrace - http://dbpedia.org/resource/Thrace
+avars - http://dbpedia.org/resource/Pannonian_Avars
+bow - http://dbpedia.org/resource/Bow_and_arrow
+cavalry - http://dbpedia.org/resource/Heavy_cavalry
+justinian - http://dbpedia.org/resource/Justinian_I
+slavs - http://dbpedia.org/resource/Slavs
+slavs - http://dbpedia.org/resource/Slavs
+gepids - http://dbpedia.org/resource/Gepids
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+ravage - http://dbpedia.org/resource/Ravage_2099
+balkans - http://dbpedia.org/resource/Balkans
+bayan - http://dbpedia.org/resource/Bayan_(accordion)
+south aegean - http://dbpedia.org/resource/South_Aegean
+danube - http://dbpedia.org/resource/Danube
+viminacium - http://dbpedia.org/resource/Viminacium
+emperor maurice - http://dbpedia.org/resource/Maurice_(emperor)
+avars - http://dbpedia.org/resource/Pannonian_Avars
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+avars - http://dbpedia.org/resource/Pannonian_Avars
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+slavs - http://dbpedia.org/resource/Slavs
+balkans - http://dbpedia.org/resource/Balkans
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+byzantine army - http://dbpedia.org/resource/Byzantine_Empire
+belisarius - http://dbpedia.org/resource/Belisarius
+narses - http://dbpedia.org/resource/Narses
+ostrogoths - http://dbpedia.org/resource/Ostrogoths
+persians - http://dbpedia.org/resource/Sasanian_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+balkans - http://dbpedia.org/resource/Balkans
+sassanid - http://dbpedia.org/resource/Sasanian_Empire
+invasion - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+avars - http://dbpedia.org/resource/Pannonian_Avars
+balkans - http://dbpedia.org/resource/Balkans
+peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
+avar - http://dbpedia.org/resource/Pannonian_Avars
+slavs - http://dbpedia.org/resource/Slavs
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+persians - http://dbpedia.org/resource/Sasanian_Empire
+siege - http://dbpedia.org/resource/Siege
+heraclius - http://dbpedia.org/resource/Heraclius
+assault - http://dbpedia.org/resource/Battle_of_France
+sassanids - http://dbpedia.org/resource/Sasanian_Empire
+nineveh - http://dbpedia.org/resource/Nineveh
+region - http://dbpedia.org/resource/Region
+thrace - http://dbpedia.org/resource/Thrace
+invasion - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+epic - http://dbpedia.org/resource/Epic_poetry
+siege - http://dbpedia.org/resource/Siege
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+tactical formation - http://dbpedia.org/resource/Tactical_formation
+heavy infantry - http://dbpedia.org/resource/Heavy_infantry
+light - http://dbpedia.org/resource/Light_infantry
+bow - http://dbpedia.org/resource/Bow_and_arrow
+psiloi - http://dbpedia.org/resource/Psiloi
+heavy cavalry - http://dbpedia.org/resource/Cataphract
+counter attack - http://dbpedia.org/resource/Counterattack
+slavs - http://dbpedia.org/resource/Slavs
+illyricum - http://dbpedia.org/resource/Praetorian_prefecture_of_Illyricum
+macedonia - http://dbpedia.org/resource/North_Macedonia
+greece - http://dbpedia.org/resource/Ancient_Greece
+independent - http://dbpedia.org/resource/Independence
+tribe - http://dbpedia.org/resource/Tribe
+avar - http://dbpedia.org/resource/Pannonian_Avars
+slovenes - http://dbpedia.org/resource/Slovenes
+croats - http://dbpedia.org/resource/Croats
+serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+intermix - http://dbpedia.org/resource/Intermix_(band)
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+tide - http://dbpedia.org/resource/Tide
+slav - http://dbpedia.org/resource/Slavs
+tribe - http://dbpedia.org/resource/Tribe
+punitive expedition - http://dbpedia.org/resource/Punitive_expedition
+balkans - http://dbpedia.org/resource/Balkans
+nomad - http://dbpedia.org/resource/Eurasian_nomads
+slavs - http://dbpedia.org/resource/Slavs
+marauder - http://dbpedia.org/resource/MARAUDER
+settler - http://dbpedia.org/resource/Settler
+settler - http://dbpedia.org/resource/Settler
+illyrians - http://dbpedia.org/resource/Illyrians
+westward - http://dbpedia.org/resource/Westward_Television
+albania - http://dbpedia.org/resource/Albania
+greeks - http://dbpedia.org/resource/Greeks
+greece - http://dbpedia.org/resource/Ancient_Greece
+latin - http://dbpedia.org/resource/Latin
+upland - http://dbpedia.org/resource/Upland_and_lowland
+franks - http://dbpedia.org/resource/Franks
+balkans - http://dbpedia.org/resource/Balkans
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+slavs - http://dbpedia.org/resource/Slavs
+avars - http://dbpedia.org/resource/Pannonian_Avars
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+independent - http://dbpedia.org/resource/Independence
+balkan mountains - http://dbpedia.org/resource/Balkan_Mountains
+danube - http://dbpedia.org/resource/Danube
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+anchialus - http://dbpedia.org/resource/Pomorie
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+bulgarian army - http://dbpedia.org/resource/Bulgarian_Land_Forces
+adrianople - http://dbpedia.org/resource/Edirne
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+marcellae - http://dbpedia.org/resource/Markeli
+anchialus - http://dbpedia.org/resource/Pomorie
+kardam - http://dbpedia.org/resource/Kardam_of_Bulgaria
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+rely - http://dbpedia.org/resource/Rely_(brand)
+slav - http://dbpedia.org/resource/Slavs
+javelin - http://dbpedia.org/resource/Javelin
+bow - http://dbpedia.org/resource/Bow_and_arrow
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+cavalry - http://dbpedia.org/resource/Heavy_cavalry
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+khan krum - http://dbpedia.org/resource/Krum
+westward - http://dbpedia.org/resource/Westward_Television
+croatia - http://dbpedia.org/resource/Duchy_of_Croatia
+serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+nicephorus - http://dbpedia.org/resource/Nikephoros_I
+sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+capital - http://dbpedia.org/resource/Capital_city
+pliska - http://dbpedia.org/resource/Pliska
+trap - http://dbpedia.org/resource/Booby_trap
+mountain pass - http://dbpedia.org/resource/Mountain_pass
+die - http://dbpedia.org/resource/Death
+krum - http://dbpedia.org/resource/Krum
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+byzantine army - http://dbpedia.org/resource/Byzantine_Empire
+powerless - http://dbpedia.org/resource/Powerless_(TV_series)
+city - http://dbpedia.org/resource/City
+mesembria - http://dbpedia.org/resource/Nesebar
+leo - http://dbpedia.org/resource/Leo_Phokas_the_Younger
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
+michael iii - http://dbpedia.org/resource/Michael_III
+bardas - http://dbpedia.org/resource/Bardas
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+bulgarian king - http://dbpedia.org/resource/Ferdinand_I_of_Bulgaria
+boris - http://dbpedia.org/resource/Boris_I_of_Bulgaria
+christianity - http://dbpedia.org/resource/Christianity
+westward - http://dbpedia.org/resource/Westward_Television
+croatia - http://dbpedia.org/resource/Duchy_of_Croatia
+serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+symeon - http://dbpedia.org/resource/Simeon_I_of_Bulgaria
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+macedonia - http://dbpedia.org/resource/North_Macedonia
+thessaly - http://dbpedia.org/resource/Thessaly
+albania - http://dbpedia.org/resource/Albania
+pechenegs - http://dbpedia.org/resource/Pechenegs
+nomadic - http://dbpedia.org/resource/Eurasian_nomads
+race horse - http://dbpedia.org/resource/Horse_racing
+horse archer - http://dbpedia.org/resource/Mounted_archery
+magyars - http://dbpedia.org/resource/Hungarians
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+gate - http://dbpedia.org/resource/City_gate
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+croatia - http://dbpedia.org/resource/Duchy_of_Croatia
+transylvania - http://dbpedia.org/resource/Transylvania
+pannonia - http://dbpedia.org/resource/Pannonia
+magyars - http://dbpedia.org/resource/Hungarians
+wallachia - http://dbpedia.org/resource/Vlachs
+pechenegs - http://dbpedia.org/resource/Pechenegs
+symeon - http://dbpedia.org/resource/Simeon_I_of_Bulgaria
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+invasion - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+russians - http://dbpedia.org/resource/Russian_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+danube - http://dbpedia.org/resource/Danube
+serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+revolt - http://dbpedia.org/resource/Rebellion
+magyars - http://dbpedia.org/resource/Hungarians
+byzantine army - http://dbpedia.org/resource/Byzantine_Empire
+sofia - http://dbpedia.org/resource/Sofia
+thessaly - http://dbpedia.org/resource/Thessaly
+macedonia - http://dbpedia.org/resource/North_Macedonia
+lake - http://dbpedia.org/resource/Lake
+ochrid - http://dbpedia.org/resource/Ohrid
+fortification - http://dbpedia.org/resource/Fortification
+field army - http://dbpedia.org/resource/Comitatenses
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+basil ii - http://dbpedia.org/resource/Basil_II
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+spercheios - http://dbpedia.org/resource/Battle_of_Spercheios
+greece - http://dbpedia.org/resource/Ancient_Greece
+macedonia - http://dbpedia.org/resource/North_Macedonia
+counter attack - http://dbpedia.org/resource/Counterattack
+macedonia - http://dbpedia.org/resource/North_Macedonia
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+blind - http://dbpedia.org/resource/Visual_impairment
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+die - http://dbpedia.org/resource/Death
+shock - http://dbpedia.org/resource/Shock_tactics
+macedonian - http://dbpedia.org/resource/Ancient_Macedonians
+fort - http://dbpedia.org/resource/Fortification
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+magyars - http://dbpedia.org/resource/Hungarians
+magyars - http://dbpedia.org/resource/Hungarians
+hungarians - http://dbpedia.org/resource/Hungarians
+steppe - http://dbpedia.org/resource/Eurasian_Steppe
+balkans - http://dbpedia.org/resource/Balkans
+steppe - http://dbpedia.org/resource/Eurasian_Steppe
+tribe - http://dbpedia.org/resource/Tribe
+magyars - http://dbpedia.org/resource/Hungarians
+finno - http://dbpedia.org/resource/Finland
+ugric - http://dbpedia.org/resource/Finno-Ugric_peoples
+language - http://dbpedia.org/resource/Latin
+mongol - http://dbpedia.org/resource/Mongols
+mount archer - http://dbpedia.org/resource/Mount_Archer,_Queensland_(Rockhampton_Region)
+warfare - http://dbpedia.org/resource/Medieval_warfare
+huns - http://dbpedia.org/resource/Huns
+avars - http://dbpedia.org/resource/Pannonian_Avars
+magyars - http://dbpedia.org/resource/Hungarians
+steppe - http://dbpedia.org/resource/Eurasian_Steppe
+hungary - http://dbpedia.org/resource/Kingdom_of_Hungary
+chieftain - http://dbpedia.org/resource/Germanic_kingship
+arpad - http://dbpedia.org/resource/Arpad,_Syria
+slavs - http://dbpedia.org/resource/Slavs
+danube valley - http://dbpedia.org/resource/Danube
+invasion - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+germany - http://dbpedia.org/resource/Kingdom_of_Germany
+northern italy - http://dbpedia.org/resource/Northern_Italy
+germany - http://dbpedia.org/resource/Kingdom_of_Germany
+lechfeld - http://dbpedia.org/resource/Battle_of_Lechfeld_(955)
+poet - http://dbpedia.org/resource/Persian_literature
+bishop liutprand - http://dbpedia.org/resource/Liutprand_of_Cremona
+exclaim - http://dbpedia.org/resource/Exclaim!
+food - http://dbpedia.org/resource/Cuisine
+water - http://dbpedia.org/resource/Water
+lechfeld - http://dbpedia.org/resource/Battle_of_Lechfeld_(955)
+hungary - http://dbpedia.org/resource/Kingdom_of_Hungary
+christianity - http://dbpedia.org/resource/Christianity
+missionary - http://dbpedia.org/resource/Christianity
+slav - http://dbpedia.org/resource/Slavs
+tribe - http://dbpedia.org/resource/Tribe
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+suzerainty - http://dbpedia.org/resource/Suzerainty
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+christianity - http://dbpedia.org/resource/Christianity
+missionary - http://dbpedia.org/resource/Christianity
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+symeon - http://dbpedia.org/resource/Simeon_I_of_Bulgaria
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+independence - http://dbpedia.org/resource/Independence
+bulgar - http://dbpedia.org/resource/First_Bulgarian_Empire
+serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+autonomy - http://dbpedia.org/resource/Autocephaly
+serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+slav - http://dbpedia.org/resource/Slavs
+croats - http://dbpedia.org/resource/Croats
+croats - http://dbpedia.org/resource/Croats
+assimilate - http://dbpedia.org/resource/Annexation
+slavs - http://dbpedia.org/resource/Slavs
+croats - http://dbpedia.org/resource/Croats
+tribe - http://dbpedia.org/resource/Tribe
+dalmatia - http://dbpedia.org/resource/Dalmatia
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+10th century croatia - http://dbpedia.org/resource/Kingdom_of_Croatia_(925–1102)
+franks - http://dbpedia.org/resource/Franks
+moravians - http://dbpedia.org/resource/Great_Moravia
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+magyars - http://dbpedia.org/resource/Hungarians
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+franks - http://dbpedia.org/resource/Franks
+slavonia - http://dbpedia.org/resource/Slavonia
+croatia - http://dbpedia.org/resource/Duchy_of_Croatia
+peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
+aachen - http://dbpedia.org/resource/Aachen
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+town - http://dbpedia.org/resource/Town
+christianity - http://dbpedia.org/resource/Christianity
+duke trpimir - http://dbpedia.org/resource/Trpimir_I_of_Croatia
+autonomy - http://dbpedia.org/resource/Autocephaly
+byzantine army - http://dbpedia.org/resource/Byzantine_Empire
+croats - http://dbpedia.org/resource/Croats
+rome - http://dbpedia.org/resource/Roman_Empire
+duke branimir - http://dbpedia.org/resource/Branimir_of_Croatia
+papal - http://dbpedia.org/resource/Pope
+independent - http://dbpedia.org/resource/Independence
+croatia - http://dbpedia.org/resource/Duchy_of_Croatia
+venice - http://dbpedia.org/resource/Republic_of_Venice
+slavonia - http://dbpedia.org/resource/Slavonia
+magyars - http://dbpedia.org/resource/Hungarians
+duke tomislav - http://dbpedia.org/resource/Tomislav_of_Croatia
+croats - http://dbpedia.org/resource/Croats
+croatia - http://dbpedia.org/resource/Duchy_of_Croatia
+slavonia - http://dbpedia.org/resource/Slavonia
+western bosnia - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+coast - http://dbpedia.org/resource/Coast
+rock - http://dbpedia.org/resource/Rock_music
+civil war - http://dbpedia.org/resource/Civil_war
+bosnia - http://dbpedia.org/resource/Kingdom_of_Bosnia
+serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+dalmatian - http://dbpedia.org/resource/Dalmatian_Italians
+town - http://dbpedia.org/resource/Town
+venice - http://dbpedia.org/resource/Republic_of_Venice
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+bulgars - http://dbpedia.org/resource/First_Bulgarian_Empire
+independent - http://dbpedia.org/resource/Independence
+monarch - http://dbpedia.org/resource/Monarchy
+dark ages - http://dbpedia.org/resource/Chronology_of_the_universe
+balkans - http://dbpedia.org/resource/Balkans
+invasion - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+steppe - http://dbpedia.org/resource/Eurasian_Steppe
+outline - http://dbpedia.org/resource/Nutrition
+balkans - http://dbpedia.org/resource/Balkans
+croatia - http://dbpedia.org/resource/Duchy_of_Croatia
+serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+dominant - http://dbpedia.org/resource/Dominance_hierarchy
+balkans - http://dbpedia.org/resource/Balkans

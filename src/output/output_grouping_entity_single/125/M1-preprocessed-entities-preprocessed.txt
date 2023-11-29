@@ -1,0 +1,24 @@
+longitude - http://dbpedia.org/resource/Longitude
+meter - http://dbpedia.org/resource/Metre
+latitude - http://dbpedia.org/resource/Latitude
+sea level - http://dbpedia.org/resource/Sea_level
+west virginia - http://dbpedia.org/resource/West_Virginia
+tabernacle - http://dbpedia.org/resource/Church_tabernacle
+temple - http://dbpedia.org/resource/Hindu_temple
+satellite - http://dbpedia.org/resource/Weather_satellite
+aerial image - http://dbpedia.org/resource/Aerial_image
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+synagogue - http://dbpedia.org/resource/Synagogue
+map - http://dbpedia.org/resource/Map
+baptist - http://dbpedia.org/resource/Baptists
+capon - http://dbpedia.org/resource/Capon
+chapel - http://dbpedia.org/resource/Place_of_worship
+church - http://dbpedia.org/resource/Church_architecture
+wind - http://dbpedia.org/resource/Wind
+elevation - http://dbpedia.org/resource/Elevation
+mosque - http://dbpedia.org/resource/Mosque
+hampshire county - http://dbpedia.org/resource/Hampshire
+winchester - http://dbpedia.org/resource/Winchester
+wv - http://dbpedia.org/resource/Wv_(software)
+weather - http://dbpedia.org/resource/Weather

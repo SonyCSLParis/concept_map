@@ -1,0 +1,87 @@
+region - http://dbpedia.org/resource/Regions_of_Italy
+eric red - http://dbpedia.org/resource/Eric_Red
+tribe - http://dbpedia.org/resource/Tribe
+israelites - http://dbpedia.org/resource/Israelites
+leif ericsson - http://dbpedia.org/resource/Leif_Erikson
+vellum - http://dbpedia.org/resource/Vellum
+dominant - http://dbpedia.org/resource/Dominance_and_submission
+milesians - http://dbpedia.org/resource/Miletus
+norsemen - http://dbpedia.org/resource/Vikings
+iona - http://dbpedia.org/resource/Iona
+god - http://dbpedia.org/resource/God
+milesian - http://dbpedia.org/resource/Miletus
+europe region - http://dbpedia.org/resource/Little_League_World_Series_in_Europe
+sanctuary - http://dbpedia.org/resource/Sanctuary
+wild ox - http://dbpedia.org/resource/Aurochs
+annals - http://dbpedia.org/resource/Irish_annals
+irish people - http://dbpedia.org/resource/Irish_people
+sailor - http://dbpedia.org/resource/Sailor
+immigration - http://dbpedia.org/resource/Aliyah
+natural dye - http://dbpedia.org/resource/Natural_dye
+monastery - http://dbpedia.org/resource/Monastery
+moses - http://dbpedia.org/resource/Moses
+romans - http://dbpedia.org/resource/Romans_(musician)
+apocalypse - http://dbpedia.org/resource/Apocalyptic_literature
+carthage - http://dbpedia.org/resource/Carthage
+danaans - http://dbpedia.org/resource/Achaeans_(Homer)
+tunisia - http://dbpedia.org/resource/Tunisia
+joseph - http://dbpedia.org/resource/Saint_Joseph
+luke - http://dbpedia.org/resource/Gospel_of_Luke
+tuatha de danaan - http://dbpedia.org/resource/Tuatha_Dé_Danann
+eye - http://dbpedia.org/resource/Eye
+sheep - http://dbpedia.org/resource/Sheep
+tabernacle - http://dbpedia.org/resource/Tabernacle
+discover america - http://dbpedia.org/resource/Chris_Staples
+phoenicia - http://dbpedia.org/resource/Phoenicia
+settlement - http://dbpedia.org/resource/Town
+lord christ - http://dbpedia.org/resource/Christ_(title)
+james lord - http://dbpedia.org/resource/James_Lord_(author)
+ancient history - http://dbpedia.org/resource/Ancient_history
+standard ensign - http://dbpedia.org/resource/Standard_Vanguard
+ireland - http://dbpedia.org/resource/Ireland
+apostles - http://dbpedia.org/resource/Apostles
+arrow - http://dbpedia.org/resource/Arrow
+calf - http://dbpedia.org/resource/Cattle
+columbus - http://dbpedia.org/resource/Christopher_Columbus
+migrate - http://dbpedia.org/resource/Emigration
+professor - http://dbpedia.org/resource/Professor
+vikings - http://dbpedia.org/resource/Vikings
+monk - http://dbpedia.org/resource/Monk
+coat - http://dbpedia.org/resource/Fur_clothing
+sea glass - http://dbpedia.org/resource/Sea_glass
+holy holy holy - http://dbpedia.org/resource/Holy,_Holy,_Holy
+gospels - http://dbpedia.org/resource/Gospel
+greeting - http://dbpedia.org/resource/Greeting
+ephraim - http://dbpedia.org/resource/Ephraim
+wing - http://dbpedia.org/resource/Rugby_union_positions
+b.c. - http://dbpedia.org/resource/Figured_bass
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+dispersion - http://dbpedia.org/resource/Dispersion_relation
+harvard university - http://dbpedia.org/resource/Harvard_University
+immigrant - http://dbpedia.org/resource/Aliyah
+barry fell - http://dbpedia.org/resource/Barry_Fell
+christ - http://dbpedia.org/resource/Jesus
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+calf skin - http://dbpedia.org/resource/Calfskin
+thy - http://dbpedia.org/resource/Thy_(district)
+emblem - http://dbpedia.org/resource/Emblem
+historian - http://dbpedia.org/resource/Historian
+ancient carthage - http://dbpedia.org/resource/Ancient_Carthage
+prophets - http://dbpedia.org/resource/Prophet
+ink - http://dbpedia.org/resource/Ink
+john christ - http://dbpedia.org/resource/John_Christ
+gad - http://dbpedia.org/resource/Tribe_of_Gad
+phoenician - http://dbpedia.org/resource/Phoenicia
+simeon - http://dbpedia.org/resource/Tribe_of_Simeon
+danites - http://dbpedia.org/resource/Danite
+revelation - http://dbpedia.org/resource/Revelation
+james 1 - http://dbpedia.org/resource/James_1
+reuben - http://dbpedia.org/resource/Tribe_of_Reuben
+north america - http://dbpedia.org/resource/North_America
+symbol - http://dbpedia.org/resource/Christian_symbolism
+columban - http://dbpedia.org/resource/Columba
+hast - http://dbpedia.org/resource/Highly_accelerated_stress_test
+relic - http://dbpedia.org/resource/Relic
+judah - http://dbpedia.org/resource/Tribe_of_Judah
+heaven - http://dbpedia.org/resource/Heaven
+danite - http://dbpedia.org/resource/Tribe_of_Dan

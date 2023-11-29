@@ -1,0 +1,123 @@
+american river - http://dbpedia.org/resource/American_River
+winter - http://dbpedia.org/resource/Winter
+bear - http://dbpedia.org/resource/American_black_bear
+mineral deposit - http://dbpedia.org/resource/Ore
+breakfast - http://dbpedia.org/resource/Breakfast
+die - http://dbpedia.org/resource/Death
+mountain biking - http://dbpedia.org/resource/Mountain_biking
+native american tribe - http://dbpedia.org/resource/Indigenous_peoples_of_California
+sunny day - http://dbpedia.org/resource/Sunny_Day_(TV_series)
+south yuba river - http://dbpedia.org/resource/South_Yuba_River
+comanche - http://dbpedia.org/resource/Comanche
+mining - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California_Trail
+meander - http://dbpedia.org/resource/Meander
+mother lode - http://dbpedia.org/resource/Mother_lode
+gold - http://dbpedia.org/resource/Gold_mining
+wine - http://dbpedia.org/resource/Viticulture
+grinding - http://dbpedia.org/resource/Grinding_machine
+white water rafting - http://dbpedia.org/resource/Rafting
+region - http://dbpedia.org/resource/Region
+gold mining - http://dbpedia.org/resource/Gold_mining
+settler - http://dbpedia.org/resource/Settler
+coast - http://dbpedia.org/resource/Coast
+san joaquin - http://dbpedia.org/resource/San_Joaquin_River
+wind - http://dbpedia.org/resource/Aeolian_processes
+hogan - http://dbpedia.org/resource/Hogan
+town - http://dbpedia.org/resource/Town
+winery - http://dbpedia.org/resource/Winery
+ranching - http://dbpedia.org/resource/Ranch
+summer - http://dbpedia.org/resource/Summer
+nisenan - http://dbpedia.org/resource/Nisenan
+middle fork american river - http://dbpedia.org/resource/Middle_Fork_American_River
+latin america - http://dbpedia.org/resource/Latin_America
+marbleized - http://dbpedia.org/resource/Marbleizing
+downtown - http://dbpedia.org/resource/Downtown
+oregon - http://dbpedia.org/resource/Oregon
+tree - http://dbpedia.org/resource/Tree
+limestone - http://dbpedia.org/resource/Limestone
+settlement - http://dbpedia.org/resource/Town
+igr - http://dbpedia.org/resource/International_Gay_Rugby
+landscape - http://dbpedia.org/resource/Landscape
+black hole - http://dbpedia.org/resource/Black_hole
+agriculture - http://dbpedia.org/resource/Agriculture
+ounce - http://dbpedia.org/resource/Ounce
+weather - http://dbpedia.org/resource/Weathering
+sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+mining town - http://dbpedia.org/resource/Ghost_town
+hawaii - http://dbpedia.org/resource/Hawaiian_Islands
+bedrock mortar - http://dbpedia.org/resource/Bedrock_mortar
+ranger station - http://dbpedia.org/resource/Park_ranger
+high sierra - http://dbpedia.org/resource/Ecology_of_the_Sierra_Nevada
+sutter - http://dbpedia.org/resource/John_Sutter
+don pedro - http://dbpedia.org/resource/Don_Pedro_Dam
+high hill - http://dbpedia.org/resource/High_Hill,_Missouri
+heat wave - http://dbpedia.org/resource/Heat_wave
+single - http://dbpedia.org/resource/Extended_play
+wheelchair accessible - http://dbpedia.org/resource/Accessibility
+foothill - http://dbpedia.org/resource/Foothills
+california indians - http://dbpedia.org/resource/Indigenous_peoples_of_California
+gape - http://dbpedia.org/resource/Beak
+lake - http://dbpedia.org/resource/Lake
+resemble - http://dbpedia.org/resource/SoltyRei
+digit - http://dbpedia.org/resource/Toe
+grass valley - http://dbpedia.org/resource/Grass_valley
+artifact - http://dbpedia.org/resource/Cultural_artifact
+mokelumne - http://dbpedia.org/resource/Mokelumne_River
+native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+immigration - http://dbpedia.org/resource/Immigration
+tuolumne - http://dbpedia.org/resource/Tuolumne_River
+millertown - http://dbpedia.org/resource/Millertown,_Newfoundland_and_Labrador
+crop - http://dbpedia.org/resource/Agriculture
+nevada city - http://dbpedia.org/resource/Nevada_City,_California
+grape - http://dbpedia.org/resource/Grape
+climate - http://dbpedia.org/resource/Alpine_climate
+news - http://dbpedia.org/resource/News
+yuba - http://dbpedia.org/resource/Tofu_skin
+reservoir - http://dbpedia.org/resource/Reservoir
+melones - http://dbpedia.org/resource/Melones,_California
+folsom - http://dbpedia.org/resource/Folsom_tradition
+wide range - http://dbpedia.org/resource/Fender_Wide_Range
+marina - http://dbpedia.org/resource/Marina
+sandwich - http://dbpedia.org/resource/Sandwich
+hiking - http://dbpedia.org/resource/Hiking
+merced - http://dbpedia.org/resource/Merced_River
+rock - http://dbpedia.org/resource/Rock_music
+jamestown - http://dbpedia.org/resource/Jamestown,_Virginia
+multitudes - http://dbpedia.org/resource/Multitudes
+hwy 49 - http://dbpedia.org/resource/California_State_Route_49
+bridge - http://dbpedia.org/resource/Bridge
+downieville - http://dbpedia.org/resource/Downieville,_California
+coloma - http://dbpedia.org/resource/Coloma_High_School
+foresthill bridge - http://dbpedia.org/resource/Foresthill_Bridge
+prospector - http://dbpedia.org/resource/Prospecting
+trail - http://dbpedia.org/resource/Trail
+auburn - http://dbpedia.org/resource/Auburn_hair
+ohv - http://dbpedia.org/resource/Overhead_valve_engine
+enchant - http://dbpedia.org/resource/Enchant_(band)
+california gold country - http://dbpedia.org/resource/Gold_Country
+map - http://dbpedia.org/resource/Map
+boat fishing - http://dbpedia.org/resource/Recreational_boat_fishing
+sierra nevada - http://dbpedia.org/resource/Trans-Mexican_Volcanic_Belt
+north fork american river - http://dbpedia.org/resource/North_Fork_American_River
+central valley - http://dbpedia.org/resource/Chilean_Central_Valley
+miwok - http://dbpedia.org/resource/Miwok
+snowfall - http://dbpedia.org/resource/Snow
+crystal clear - http://dbpedia.org/resource/Everaldo_Coelho
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+church - http://dbpedia.org/resource/Catholic_Church
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+fog - http://dbpedia.org/resource/Fog
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+restaurant - http://dbpedia.org/resource/Restaurant
+north america - http://dbpedia.org/resource/North_America
+pine - http://dbpedia.org/resource/Pine
+temperature - http://dbpedia.org/resource/Temperature
+western slope - http://dbpedia.org/resource/Colorado_Western_Slope
+mountain bike - http://dbpedia.org/resource/Mountain_biking
+native american history - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+vineyard - http://dbpedia.org/resource/Vineyard
+stud - http://dbpedia.org/resource/Stud_farm
+mortar - http://dbpedia.org/resource/Mortar_and_pestle
+runoff - http://dbpedia.org/resource/Surface_runoff
+nestle - http://dbpedia.org/resource/Eberhard_Nestle

@@ -1,0 +1,66 @@
+photography - http://dbpedia.org/resource/Photography
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+echo - http://dbpedia.org/resource/Echo
+outlaw - http://dbpedia.org/resource/Outlaw
+brand - http://dbpedia.org/resource/Brand
+father christmas - http://dbpedia.org/resource/Santa_Claus
+parliament - http://dbpedia.org/resource/Parliament_of_England
+victoria sponge - http://dbpedia.org/resource/Sponge_cake
+family - http://dbpedia.org/resource/Family
+king richard ii - http://dbpedia.org/resource/Richard_II_of_England
+battlement - http://dbpedia.org/resource/Battlement
+stone - http://dbpedia.org/resource/Stonemasonry
+english civil war - http://dbpedia.org/resource/English_Civil_War
+medieval - http://dbpedia.org/resource/Middle_Ages
+sussex - http://dbpedia.org/resource/Sussex
+spiral staircase - http://dbpedia.org/resource/Stairs
+symmetry - http://dbpedia.org/resource/Symmetry
+impose - http://dbpedia.org/resource/Impose_(magazine)
+trail - http://dbpedia.org/resource/Trail
+princess academy - http://dbpedia.org/resource/Princess_Academy
+picnic - http://dbpedia.org/resource/Picnic
+castle ground - http://dbpedia.org/resource/Castle_Ground
+stall - http://dbpedia.org/resource/Market_stall
+toy - http://dbpedia.org/resource/Toy
+marriage - http://dbpedia.org/resource/Marriage_in_Islam
+wharf - http://dbpedia.org/resource/Wharf
+heart - http://dbpedia.org/resource/Heart_(symbol)
+national trust - http://dbpedia.org/resource/National_trust
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+bread - http://dbpedia.org/resource/Bread
+murder - http://dbpedia.org/resource/Murder
+stock - http://dbpedia.org/resource/Livestock
+archery - http://dbpedia.org/resource/Archery
+toilet - http://dbpedia.org/resource/Public_toilet
+map - http://dbpedia.org/resource/Map
+tea cake - http://dbpedia.org/resource/Teacake
+tearoom - http://dbpedia.org/resource/Teahouse
+carp - http://dbpedia.org/resource/Carp
+memorabilia - http://dbpedia.org/resource/Souvenir
+easter weekend - http://dbpedia.org/resource/Easter_Week
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+cake - http://dbpedia.org/resource/Cake
+souvenir - http://dbpedia.org/resource/Souvenir
+landscape - http://dbpedia.org/resource/Landscape
+gift shop - http://dbpedia.org/resource/Gift_shop
+spit - http://dbpedia.org/resource/Rotisserie
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+moat - http://dbpedia.org/resource/Moat
+manor - http://dbpedia.org/resource/Manor_house
+viceroy - http://dbpedia.org/resource/Viceroy
+audio - http://dbpedia.org/resource/Music
+easter egg - http://dbpedia.org/resource/Easter_egg
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+masonry - http://dbpedia.org/resource/Stonemasonry
+conservation - http://dbpedia.org/resource/Conservation_movement
+tractor - http://dbpedia.org/resource/Tractor
+gong - http://dbpedia.org/resource/Gong
+pond - http://dbpedia.org/resource/Pond
+manor house - http://dbpedia.org/resource/Manor_house
+crenellate - http://dbpedia.org/resource/Battlement
+tower - http://dbpedia.org/resource/Keep
+cadbury - http://dbpedia.org/resource/Cadbury
+flour mill - http://dbpedia.org/resource/Watermill
+grizzly - http://dbpedia.org/resource/Grizzly_bear
+scone - http://dbpedia.org/resource/Scone
+manager - http://dbpedia.org/resource/Talent_manager

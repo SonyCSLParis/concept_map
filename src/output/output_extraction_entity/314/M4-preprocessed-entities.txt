@@ -1,0 +1,293 @@
+fantasy - http://dbpedia.org/resource/Fantasy
+truth - http://dbpedia.org/resource/Truth
+csi - http://dbpedia.org/resource/Forensic_science
+professor - http://dbpedia.org/resource/Academy
+jane - http://dbpedia.org/resource/Jane_Fonda
+graduate school - http://dbpedia.org/resource/Postgraduate_education
+policing - http://dbpedia.org/resource/Police
+psychology - http://dbpedia.org/resource/Psychology
+charles sturt university - http://dbpedia.org/resource/Charles_Sturt_University
+court - http://dbpedia.org/resource/Court
+csi - http://dbpedia.org/resource/Forensic_science
+crime - http://dbpedia.org/resource/Crime
+television - http://dbpedia.org/resource/Television
+crime scene - http://dbpedia.org/resource/Crime_scene
+csi - http://dbpedia.org/resource/Forensic_science
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+forensic - http://dbpedia.org/resource/Forensic_science
+streamlined - http://dbpedia.org/resource/Aerodynamics
+fear - http://dbpedia.org/resource/Fear
+juror - http://dbpedia.org/resource/Jury
+forensic science - http://dbpedia.org/resource/Forensic_science
+police - http://dbpedia.org/resource/Police
+crime - http://dbpedia.org/resource/Crime
+defendant - http://dbpedia.org/resource/Defendant
+crime - http://dbpedia.org/resource/Crime
+tyler - http://dbpedia.org/resource/John_Tyler
+csi - http://dbpedia.org/resource/Forensic_science
+jury - http://dbpedia.org/resource/Jury
+judge - http://dbpedia.org/resource/Judge
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
+defendant - http://dbpedia.org/resource/Defendant
+tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
+csi - http://dbpedia.org/resource/Forensic_science
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+motivation - http://dbpedia.org/resource/Motivation
+juror - http://dbpedia.org/resource/Jury
+defendant - http://dbpedia.org/resource/Defendant
+acquittal - http://dbpedia.org/resource/Acquittal
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+engender - http://dbpedia.org/resource/Engender
+csi - http://dbpedia.org/resource/Forensic_science
+crime - http://dbpedia.org/resource/Crime
+csi - http://dbpedia.org/resource/Forensic_science
+jury - http://dbpedia.org/resource/Jury
+tyler - http://dbpedia.org/resource/John_Tyler
+australian - http://dbpedia.org/resource/Government_of_Australia
+csi - http://dbpedia.org/resource/Forensic_science
+criminal justice - http://dbpedia.org/resource/Criminal_justice
+jury - http://dbpedia.org/resource/Jury
+jury - http://dbpedia.org/resource/Jury
+dna profiling - http://dbpedia.org/resource/DNA_profiling
+high court - http://dbpedia.org/resource/High_Court_of_Australia
+murder - http://dbpedia.org/resource/Murder
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+hillier - http://dbpedia.org/resource/Harold_Hillier
+defence counsel - http://dbpedia.org/resource/Defense_(legal)
+judge - http://dbpedia.org/resource/Judge
+csi - http://dbpedia.org/resource/Forensic_science
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+judge - http://dbpedia.org/resource/Judge
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
+forensic - http://dbpedia.org/resource/Forensic_science
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
+judge - http://dbpedia.org/resource/Judge
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+judge - http://dbpedia.org/resource/Judge
+prosecutor - http://dbpedia.org/resource/Prosecutor
+defence - http://dbpedia.org/resource/Affirmative_defense
+attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
+juror - http://dbpedia.org/resource/Jury
+forensic science - http://dbpedia.org/resource/Forensic_science
+dna profiling - http://dbpedia.org/resource/DNA_profiling
+validity - http://dbpedia.org/resource/Internal_validity
+robber - http://dbpedia.org/resource/Robbery
+train - http://dbpedia.org/resource/Train
+recount - http://dbpedia.org/resource/Election_recount
+jury - http://dbpedia.org/resource/Jury
+television - http://dbpedia.org/resource/Television
+australian - http://dbpedia.org/resource/Government_of_Australia
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+australian - http://dbpedia.org/resource/Government_of_Australia
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+forensic - http://dbpedia.org/resource/Forensic_science
+television program - http://dbpedia.org/resource/Television
+perception - http://dbpedia.org/resource/Perception
+forensic science - http://dbpedia.org/resource/Forensic_science
+hanson - http://dbpedia.org/resource/Tommy_Hanson
+forensic - http://dbpedia.org/resource/Forensic_science
+laboratory - http://dbpedia.org/resource/Laboratory
+scientist - http://dbpedia.org/resource/Science
+south wales - http://dbpedia.org/resource/South_Wales
+dna - http://dbpedia.org/resource/DNA
+sample - http://dbpedia.org/resource/Sample_size_determination
+juror - http://dbpedia.org/resource/Jury
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+television - http://dbpedia.org/resource/Television
+crime - http://dbpedia.org/resource/Crime
+juror - http://dbpedia.org/resource/Jury
+forensic - http://dbpedia.org/resource/Forensic_science
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+juror - http://dbpedia.org/resource/Jury
+forensic - http://dbpedia.org/resource/Forensic_science
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+defence - http://dbpedia.org/resource/Affirmative_defense
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+forensic - http://dbpedia.org/resource/Forensic_science
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+shelton - http://dbpedia.org/resource/Connecticut
+barak - http://dbpedia.org/resource/Kyrgyzstan
+csi - http://dbpedia.org/resource/Forensic_science
+juror - http://dbpedia.org/resource/Jury
+australian - http://dbpedia.org/resource/Government_of_Australia
+jury - http://dbpedia.org/resource/Jury
+crime - http://dbpedia.org/resource/Crime
+homicide - http://dbpedia.org/resource/Homicide
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+misplaced - http://dbpedia.org/resource/Misplaced_(album)
+simulation - http://dbpedia.org/resource/Simulation
+juror - http://dbpedia.org/resource/Jury
+crime - http://dbpedia.org/resource/Crime
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+hair - http://dbpedia.org/resource/Hair
+sample - http://dbpedia.org/resource/Sample_size_determination
+australian - http://dbpedia.org/resource/Government_of_Australia
+juror - http://dbpedia.org/resource/Jury
+criminal case - http://dbpedia.org/resource/Criminal_law
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+dna profiling - http://dbpedia.org/resource/DNA_profiling
+juror - http://dbpedia.org/resource/Jury
+white coat - http://dbpedia.org/resource/White_coat
+juror - http://dbpedia.org/resource/Jury
+expert evidence - http://dbpedia.org/resource/Expert_witness
+findlay - http://dbpedia.org/resource/University_of_Findlay
+australian - http://dbpedia.org/resource/Government_of_Australia
+jury - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+forensic - http://dbpedia.org/resource/Forensic_science
+expert evidence - http://dbpedia.org/resource/Expert_witness
+csi - http://dbpedia.org/resource/Forensic_science
+forensic science - http://dbpedia.org/resource/Forensic_science
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+forensic - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+jury - http://dbpedia.org/resource/Jury
+laboratory - http://dbpedia.org/resource/Laboratory
+dichotomous - http://dbpedia.org/resource/Dichotomy
+defendant - http://dbpedia.org/resource/Defendant
+culpability - http://dbpedia.org/resource/Culpability
+csi - http://dbpedia.org/resource/Forensic_science
+convergent - http://dbpedia.org/resource/Convergent_evolution
+csi - http://dbpedia.org/resource/Forensic_science
+jury - http://dbpedia.org/resource/Jury
+empirical - http://dbpedia.org/resource/Empirical_evidence
+datum - http://dbpedia.org/resource/Data
+csi - http://dbpedia.org/resource/Forensic_science
+jury - http://dbpedia.org/resource/Jury
+juror - http://dbpedia.org/resource/Jury
+fantasy - http://dbpedia.org/resource/Fantasy
+juror - http://dbpedia.org/resource/Jury
+forensic science - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+juror - http://dbpedia.org/resource/Jury
+juror - http://dbpedia.org/resource/Jury
+fantasy - http://dbpedia.org/resource/Fantasy
+juror - http://dbpedia.org/resource/Jury
+realism - http://dbpedia.org/resource/Philosophical_realism
+csi - http://dbpedia.org/resource/Forensic_science
+potent - http://dbpedia.org/resource/Efficacy
+csi - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+dna - http://dbpedia.org/resource/DNA
+realism - http://dbpedia.org/resource/Philosophical_realism
+variable - http://dbpedia.org/resource/Dependent_and_independent_variables
+simulation - http://dbpedia.org/resource/Simulation
+csi - http://dbpedia.org/resource/Forensic_science
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+jury - http://dbpedia.org/resource/Jury
+south wales - http://dbpedia.org/resource/South_Wales
+forensic - http://dbpedia.org/resource/Forensic_science
+tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+deliberation - http://dbpedia.org/resource/Deliberation
+juror - http://dbpedia.org/resource/Jury
+simulation - http://dbpedia.org/resource/Simulation
+csi - http://dbpedia.org/resource/Forensic_science
+qualification - http://dbpedia.org/resource/Professional_certification
+csi - http://dbpedia.org/resource/Forensic_science
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+court - http://dbpedia.org/resource/Court
+jury - http://dbpedia.org/resource/Jury
+criminal case - http://dbpedia.org/resource/Criminal_law
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+forensic - http://dbpedia.org/resource/Forensic_science
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+scientist - http://dbpedia.org/resource/Science
+judge - http://dbpedia.org/resource/Judge
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
+juror - http://dbpedia.org/resource/Jury
+criminal justice system - http://dbpedia.org/resource/Criminal_justice
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+csi - http://dbpedia.org/resource/Forensic_science
+jury - http://dbpedia.org/resource/Jury
+law review - http://dbpedia.org/resource/Law_review
+findlay - http://dbpedia.org/resource/University_of_Findlay
+juror - http://dbpedia.org/resource/Jury
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+international journal - http://dbpedia.org/resource/Canadian_International_Council
+law - http://dbpedia.org/resource/Law
+crime - http://dbpedia.org/resource/Crime
+dna - http://dbpedia.org/resource/DNA
+jury trial - http://dbpedia.org/resource/Jury_trial
+canberra - http://dbpedia.org/resource/Canberra
+australian - http://dbpedia.org/resource/Government_of_Australia
+criminology - http://dbpedia.org/resource/Criminology
+tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
+simulation - http://dbpedia.org/resource/Simulation
+jury - http://dbpedia.org/resource/Jury
+mock trial - http://dbpedia.org/resource/Mock_trial
+eds - http://dbpedia.org/resource/Energy-dispersive_X-ray_spectroscopy
+qualitative method - http://dbpedia.org/resource/Qualitative_research
+criminology - http://dbpedia.org/resource/Criminology
+federation - http://dbpedia.org/resource/Federalism
+tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
+dna - http://dbpedia.org/resource/DNA
+change face - http://dbpedia.org/resource/Bian_lian
+forensic sciences - http://dbpedia.org/resource/Forensic_science
+hanson - http://dbpedia.org/resource/Tommy_Hanson
+forensic - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+australian - http://dbpedia.org/resource/Government_of_Australia
+forensic - http://dbpedia.org/resource/Forensic_science
+csi - http://dbpedia.org/resource/Forensic_science
+thesis - http://dbpedia.org/resource/Thesis
+wollongong - http://dbpedia.org/resource/University_of_Wollongong
+south wales - http://dbpedia.org/resource/South_Wales
+csi - http://dbpedia.org/resource/Forensic_science
+myth - http://dbpedia.org/resource/Urban_legend
+fordham - http://dbpedia.org/resource/Fordham_University
+intellectual property - http://dbpedia.org/resource/Intellectual_property
+entertainment law - http://dbpedia.org/resource/Entertainment_law
+hillier - http://dbpedia.org/resource/Harold_Hillier
+hca - http://dbpedia.org/resource/High_Court_of_Australia
+alr - http://dbpedia.org/resource/Agricultural_Land_Reserve
+robber - http://dbpedia.org/resource/Robbery
+blind - http://dbpedia.org/resource/Blinded_experiment
+social construction - http://dbpedia.org/resource/Social_constructionism
+forensic - http://dbpedia.org/resource/Forensic_science
+television - http://dbpedia.org/resource/Television
+jury trial - http://dbpedia.org/resource/Jury_trial
+criminal justice policy review - http://dbpedia.org/resource/Criminal_Justice_Policy_Review
+csi - http://dbpedia.org/resource/Forensic_science
+popular fiction - http://dbpedia.org/resource/Genre_fiction
+forensic science - http://dbpedia.org/resource/Forensic_science
+forensic science - http://dbpedia.org/resource/Forensic_science
+jurimetrics - http://dbpedia.org/resource/Jurimetrics
+shelton - http://dbpedia.org/resource/Connecticut
+barak - http://dbpedia.org/resource/Kyrgyzstan
+juror - http://dbpedia.org/resource/Jury
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+csi - http://dbpedia.org/resource/Forensic_science
+vanderbilt - http://dbpedia.org/resource/Vanderbilt_University
+entertainment technology - http://dbpedia.org/resource/Entertainment_technology
+law 9 - http://dbpedia.org/resource/Ball_in_and_out_of_play
+tyler - http://dbpedia.org/resource/John_Tyler
+csi - http://dbpedia.org/resource/Forensic_science
+threshold - http://dbpedia.org/resource/Action_potential
+guilt - http://dbpedia.org/resource/Culpability
+truth - http://dbpedia.org/resource/Truth
+fiction - http://dbpedia.org/resource/Fiction
+yale law journal - http://dbpedia.org/resource/Yale_Law_Journal
+eyewitness - http://dbpedia.org/resource/Witness
+dna profiling - http://dbpedia.org/resource/DNA_profiling
+criminal justice - http://dbpedia.org/resource/Criminal_justice
+vdm - http://dbpedia.org/resource/Virtual_DOS_machine
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+jury - http://dbpedia.org/resource/Jury
+criminal trial - http://dbpedia.org/resource/Criminal_procedure
+international journal - http://dbpedia.org/resource/Canadian_International_Council

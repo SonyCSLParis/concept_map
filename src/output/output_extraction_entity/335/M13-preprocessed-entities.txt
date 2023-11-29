@@ -1,0 +1,1963 @@
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+single - http://dbpedia.org/resource/Extended_play
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+documentary - http://dbpedia.org/resource/Documentary_film
+recycling - http://dbpedia.org/resource/Recycling
+sir robert phelips - http://dbpedia.org/resource/Robert_Phelips
+somerset - http://dbpedia.org/resource/Somerset
+contemporary theatre review - http://dbpedia.org/resource/Contemporary_Theatre_Review
+early modern period - http://dbpedia.org/resource/Early_modern_period
+playhouse - http://dbpedia.org/resource/Theatre
+bankside - http://dbpedia.org/resource/Globe_Theatre
+comedy - http://dbpedia.org/resource/Comedy
+witches - http://dbpedia.org/resource/Witchcraft
+lancashire - http://dbpedia.org/resource/Lancashire
+folk - http://dbpedia.org/resource/Folklore
+gentleman - http://dbpedia.org/resource/Gentry
+gentlewoman - http://dbpedia.org/resource/Landed_gentry
+town - http://dbpedia.org/resource/Town
+sleight - http://dbpedia.org/resource/Sleight
+meat - http://dbpedia.org/resource/Meat
+cord - http://dbpedia.org/resource/Rope
+pail - http://dbpedia.org/resource/Bucket
+milk - http://dbpedia.org/resource/Goat
+horse - http://dbpedia.org/resource/Horse
+bridle - http://dbpedia.org/resource/Bridle
+mouth - http://dbpedia.org/resource/Mouth
+soldier - http://dbpedia.org/resource/Soldier
+miller - http://dbpedia.org/resource/Miller
+ring - http://dbpedia.org/resource/Wrestling_ring
+putative father - http://dbpedia.org/resource/Putative_father
+gentleman - http://dbpedia.org/resource/Gentry
+knot - http://dbpedia.org/resource/Wood
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+masculine - http://dbpedia.org/resource/Masculinity
+good cheer - http://dbpedia.org/resource/Good_Cheer
+bone - http://dbpedia.org/resource/Bone
+stone - http://dbpedia.org/resource/Stonemasonry
+bird - http://dbpedia.org/resource/Poultry
+genius - http://dbpedia.org/resource/Genius
+language - http://dbpedia.org/resource/Latin
+virtue - http://dbpedia.org/resource/Morality
+ribaldry - http://dbpedia.org/resource/Ribaldry
+improbable - http://dbpedia.org/resource/Probability
+newness - http://dbpedia.org/resource/Newness
+prison - http://dbpedia.org/resource/Prison
+laughter - http://dbpedia.org/resource/Laughter
+diver - http://dbpedia.org/resource/Underwater_diving
+dance - http://dbpedia.org/resource/Dance
+fabula - http://dbpedia.org/resource/Fabula_and_syuzhet
+glean - http://dbpedia.org/resource/Gleaning
+pamphlet - http://dbpedia.org/resource/Pamphlet
+literature - http://dbpedia.org/resource/Literature
+lancashire - http://dbpedia.org/resource/Lancashire
+witchcraft - http://dbpedia.org/resource/Witchcraft
+gentry - http://dbpedia.org/resource/Gentry
+gentlewoman - http://dbpedia.org/resource/Landed_gentry
+court - http://dbpedia.org/resource/Royal_court
+lancashire - http://dbpedia.org/resource/Lancashire
+digression - http://dbpedia.org/resource/Digression
+documentary drama - http://dbpedia.org/resource/Docudrama
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+city - http://dbpedia.org/resource/City
+environ - http://dbpedia.org/resource/Environ_(Loft)
+amazing - http://dbpedia.org/resource/Earth-616
+magic - http://dbpedia.org/resource/Witchcraft
+magic - http://dbpedia.org/resource/Witchcraft
+witchcraft - http://dbpedia.org/resource/Witchcraft
+friar bacon - http://dbpedia.org/resource/Roger_Bacon
+bungay - http://dbpedia.org/resource/Bungay
+endymion - http://dbpedia.org/resource/Tuxedo_Mask
+magic - http://dbpedia.org/resource/Witchcraft
+legal evidence - http://dbpedia.org/resource/Evidence_(law)
+mis - http://dbpedia.org/resource/Management_information_system
+personal history - http://dbpedia.org/resource/Personal_History
+object - http://dbpedia.org/resource/Non-physical_entity
+food - http://dbpedia.org/resource/Food
+demon - http://dbpedia.org/resource/Demon
+bear - http://dbpedia.org/resource/Bear
+wedding ring - http://dbpedia.org/resource/Wedding_ring
+magic - http://dbpedia.org/resource/Witchcraft
+recall - http://dbpedia.org/resource/Product_recall
+comedy - http://dbpedia.org/resource/Comedy
+magic - http://dbpedia.org/resource/Witchcraft
+dance - http://dbpedia.org/resource/Dance
+afterlife - http://dbpedia.org/resource/Purgatory
+pendle - http://dbpedia.org/resource/Pendle_witches
+privy council - http://dbpedia.org/resource/Privy_council
+lancashire - http://dbpedia.org/resource/Lancashire
+lancashire - http://dbpedia.org/resource/Lancashire
+witchcraft - http://dbpedia.org/resource/Witchcraft
+pendle - http://dbpedia.org/resource/Pendle_witches
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+network - http://dbpedia.org/resource/Social_network
+jennet - http://dbpedia.org/resource/Jennet
+family - http://dbpedia.org/resource/Family
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+neighbourhood - http://dbpedia.org/resource/Neighbourhood
+family - http://dbpedia.org/resource/Family
+jennet - http://dbpedia.org/resource/Jennet
+die - http://dbpedia.org/resource/Death
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+prison - http://dbpedia.org/resource/Prison
+penalty - http://dbpedia.org/resource/Penalty_shot
+pillory - http://dbpedia.org/resource/Pillory
+confession - http://dbpedia.org/resource/Sacrament_of_Penance
+acquit - http://dbpedia.org/resource/Acquittal
+clan - http://dbpedia.org/resource/Clan
+family - http://dbpedia.org/resource/Family
+malkin tower - http://dbpedia.org/resource/Malkin_Tower
+anarchic - http://dbpedia.org/resource/Anarchism
+prison - http://dbpedia.org/resource/Prison
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+grace - http://dbpedia.org/resource/Divine_grace
+crime - http://dbpedia.org/resource/Crime
+physical abuse - http://dbpedia.org/resource/Domestic_violence
+infanticide - http://dbpedia.org/resource/Infanticide
+cannibalism - http://dbpedia.org/resource/Cannibalism
+orgy - http://dbpedia.org/resource/Orgy
+acquit - http://dbpedia.org/resource/Acquittal
+jennet - http://dbpedia.org/resource/Jennet
+judge - http://dbpedia.org/resource/Judge
+catholic priest - http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church
+case report - http://dbpedia.org/resource/Case_report
+thomas - http://dbpedia.org/resource/THOMAS
+case study - http://dbpedia.org/resource/Case_study
+witches - http://dbpedia.org/resource/Witchcraft
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+witchcraft - http://dbpedia.org/resource/Witchcraft
+roman catholic - http://dbpedia.org/resource/Catholic_Church
+subversion - http://dbpedia.org/resource/Subversion
+gunpowder plot - http://dbpedia.org/resource/Gunpowder_Plot
+parliament - http://dbpedia.org/resource/Parliament_of_England
+sir thomas knyvet - http://dbpedia.org/resource/Thomas_Knyvett
+pamphlet - http://dbpedia.org/resource/Pamphlet
+gibson - http://dbpedia.org/resource/Gibson
+coherence - http://dbpedia.org/resource/International_System_of_Units
+logic - http://dbpedia.org/resource/Logic
+charity - http://dbpedia.org/resource/Alms
+pedlar - http://dbpedia.org/resource/Peddler
+john law - http://dbpedia.org/resource/John_Law_(economist)
+malice - http://dbpedia.org/resource/Schadenfreude
+devil - http://dbpedia.org/resource/Devil
+narrative - http://dbpedia.org/resource/Narration
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+gentry - http://dbpedia.org/resource/Gentry
+narrator - http://dbpedia.org/resource/Narration
+innocent victim - http://dbpedia.org/resource/Innocent_Victim
+foul - http://dbpedia.org/resource/Baseball
+hate monger - http://dbpedia.org/resource/Hate-Monger
+john law - http://dbpedia.org/resource/John_Law_(economist)
+bewitch - http://dbpedia.org/resource/Bewitch
+pin - http://dbpedia.org/resource/Pin
+law - http://dbpedia.org/resource/Common_law
+free good - http://dbpedia.org/resource/Free_good
+abraham - http://dbpedia.org/resource/Abraham
+bewitch - http://dbpedia.org/resource/Bewitch
+john law - http://dbpedia.org/resource/John_Law_(economist)
+forgiveness - http://dbpedia.org/resource/Forgiveness
+charity - http://dbpedia.org/resource/Alms
+john law - http://dbpedia.org/resource/John_Law_(economist)
+witchcraft - http://dbpedia.org/resource/Witchcraft
+fear - http://dbpedia.org/resource/Fear
+physical trauma - http://dbpedia.org/resource/Injury
+witchcraft accusation - http://dbpedia.org/resource/Witchcraft_accusations_against_children_in_Africa
+confession - http://dbpedia.org/resource/Sacrament_of_Penance
+anne - http://dbpedia.org/resource/Anne_Boleyn
+murder - http://dbpedia.org/resource/Murder
+robert nutter - http://dbpedia.org/resource/Robert_Nutter
+witchcraft - http://dbpedia.org/resource/Witchcraft
+suborn - http://dbpedia.org/resource/Subornation_of_perjury
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+robert nutter - http://dbpedia.org/resource/Robert_Nutter
+sayd - http://dbpedia.org/resource/Guardians_of_the_Universe
+sayd - http://dbpedia.org/resource/Guardians_of_the_Universe
+sayd - http://dbpedia.org/resource/Guardians_of_the_Universe
+horse - http://dbpedia.org/resource/Horse
+doe - http://dbpedia.org/resource/Deer
+bade - http://dbpedia.org/resource/West_Chadic_languages
+sayd - http://dbpedia.org/resource/Guardians_of_the_Universe
+robert nutter - http://dbpedia.org/resource/Robert_Nutter
+sayd - http://dbpedia.org/resource/Guardians_of_the_Universe
+robert nutter - http://dbpedia.org/resource/Robert_Nutter
+witchcraft - http://dbpedia.org/resource/Witchcraft
+curse - http://dbpedia.org/resource/Curse
+logical error - http://dbpedia.org/resource/Fallacy
+post hoc - http://dbpedia.org/resource/Post_hoc_ergo_propter_hoc
+lumby - http://dbpedia.org/resource/South_Milford
+family - http://dbpedia.org/resource/Family
+trauma - http://dbpedia.org/resource/Psychological_trauma
+witchcraft accusation - http://dbpedia.org/resource/Witchcraft_accusations_against_children_in_Africa
+class warfare - http://dbpedia.org/resource/Class_conflict
+ulterior motive - http://dbpedia.org/resource/Ulterior_Motive_(film)
+justification - http://dbpedia.org/resource/Defamation
+magistrate - http://dbpedia.org/resource/Magistrate
+die - http://dbpedia.org/resource/Death
+prison - http://dbpedia.org/resource/Prison
+exoneration - http://dbpedia.org/resource/Exoneration
+clear story - http://dbpedia.org/resource/Clerestory
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+witchcraft - http://dbpedia.org/resource/Witchcraft
+court - http://dbpedia.org/resource/Royal_court
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+pendle forest - http://dbpedia.org/resource/Forest_of_Pendle
+padiham - http://dbpedia.org/resource/Padiham
+richard shuttleworth - http://dbpedia.org/resource/Richard_Ormonde_Shuttleworth
+esquire - http://dbpedia.org/resource/Esquire
+peace - http://dbpedia.org/resource/Peace
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+oath - http://dbpedia.org/resource/Oath
+pendle - http://dbpedia.org/resource/Pendle_witches
+saints - http://dbpedia.org/resource/Saint
+informer - http://dbpedia.org/resource/Informant
+henry parker - http://dbpedia.org/resource/Henry_Parker_(Australian_politician)
+wheatley lane - http://dbpedia.org/resource/Wheatley_Lane,_Lancashire
+parker - http://dbpedia.org/resource/Charlie_Parker
+wild plum - http://dbpedia.org/resource/Wild_plum
+greyhound - http://dbpedia.org/resource/Greyhound
+verily - http://dbpedia.org/resource/Verily
+greyhound - http://dbpedia.org/resource/Greyhound
+fawn - http://dbpedia.org/resource/Deer
+collar - http://dbpedia.org/resource/Dog_collar
+string - http://dbpedia.org/resource/String_instrument
+collar - http://dbpedia.org/resource/Dog_collar
+informer - http://dbpedia.org/resource/Informant
+gold - http://dbpedia.org/resource/Gold
+family - http://dbpedia.org/resource/Family
+greyhound - http://dbpedia.org/resource/Greyhound
+loo - http://dbpedia.org/resource/Toilet
+loo - http://dbpedia.org/resource/Toilet
+loo - http://dbpedia.org/resource/Toilet
+dog - http://dbpedia.org/resource/Dog
+string - http://dbpedia.org/resource/String_instrument
+collar tie - http://dbpedia.org/resource/Collar_tie
+hedge - http://dbpedia.org/resource/Hedge
+switch - http://dbpedia.org/resource/Switch
+greyhound - http://dbpedia.org/resource/Greyhound
+informer - http://dbpedia.org/resource/Informant
+informer - http://dbpedia.org/resource/Informant
+informer - http://dbpedia.org/resource/Informant
+endeavour - http://dbpedia.org/resource/HMS_Endeavour
+pocket - http://dbpedia.org/resource/Billiard_table
+silver - http://dbpedia.org/resource/Silver
+shilling - http://dbpedia.org/resource/Shilling
+tongue - http://dbpedia.org/resource/Language
+pocket - http://dbpedia.org/resource/Billiard_table
+bridle - http://dbpedia.org/resource/Bridle
+jingle - http://dbpedia.org/resource/Jingle
+horse - http://dbpedia.org/resource/Horse
+informer - http://dbpedia.org/resource/Informant
+horse - http://dbpedia.org/resource/Horse
+house call - http://dbpedia.org/resource/House_call
+hoarstones - http://dbpedia.org/resource/Hoarstones
+diver - http://dbpedia.org/resource/Underwater_diving
+diver - http://dbpedia.org/resource/Underwater_diving
+horse - http://dbpedia.org/resource/Horse
+horse - http://dbpedia.org/resource/Horse
+hedge - http://dbpedia.org/resource/Hedge
+house number - http://dbpedia.org/resource/House_numbering
+informer - http://dbpedia.org/resource/Informant
+meat - http://dbpedia.org/resource/Meat
+roasting - http://dbpedia.org/resource/Roasting
+informer - http://dbpedia.org/resource/Informant
+flesh - http://dbpedia.org/resource/Fish_as_food
+bread - http://dbpedia.org/resource/Bread
+glass - http://dbpedia.org/resource/Glass
+taste - http://dbpedia.org/resource/Taste
+diver - http://dbpedia.org/resource/Underwater_diving
+rope - http://dbpedia.org/resource/Rope
+flesh - http://dbpedia.org/resource/Fish_as_food
+smoking - http://dbpedia.org/resource/Tobacco
+butter - http://dbpedia.org/resource/Butter
+milk - http://dbpedia.org/resource/Goat
+rope - http://dbpedia.org/resource/Rope
+basin - http://dbpedia.org/resource/Sink
+rope - http://dbpedia.org/resource/Rope
+informer - http://dbpedia.org/resource/Informant
+glad - http://dbpedia.org/resource/The_Glad_Products_Company
+highway call - http://dbpedia.org/resource/Highway_Call
+informer - http://dbpedia.org/resource/Informant
+horseman - http://dbpedia.org/resource/Four_Horsemen_of_the_Apocalypse
+jennet - http://dbpedia.org/resource/Jennet
+great fear - http://dbpedia.org/resource/Great_Fear
+informer - http://dbpedia.org/resource/Informant
+chimney - http://dbpedia.org/resource/Chimney
+house call - http://dbpedia.org/resource/House_call
+informer - http://dbpedia.org/resource/Informant
+bade - http://dbpedia.org/resource/West_Chadic_languages
+informer - http://dbpedia.org/resource/Informant
+ear - http://dbpedia.org/resource/Ear
+light - http://dbpedia.org/resource/Light
+haste - http://dbpedia.org/resource/Haste_(Han)_station
+bridge - http://dbpedia.org/resource/Contract_bridge
+informer - http://dbpedia.org/resource/Informant
+beam - http://dbpedia.org/resource/Laser
+thorn - http://dbpedia.org/resource/Crataegus_monogyna
+henry - http://dbpedia.org/resource/Henry_(unit)
+alice - http://dbpedia.org/resource/Alice_and_Bob
+jane - http://dbpedia.org/resource/Jane_Beale
+william davies - http://dbpedia.org/resource/William_Davies_Company
+henry - http://dbpedia.org/resource/Henry_(unit)
+john miles - http://dbpedia.org/resource/John_W._Miles
+saunder - http://dbpedia.org/resource/Saunder_(crater)
+saunder - http://dbpedia.org/resource/Saunder_(crater)
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+saunder - http://dbpedia.org/resource/Saunder_(crater)
+holgate - http://dbpedia.org/resource/Holgate_Brewhouse
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+pendle - http://dbpedia.org/resource/Pendle_witches
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+mason - http://dbpedia.org/resource/Freemasonry
+saints - http://dbpedia.org/resource/Saint
+informer - http://dbpedia.org/resource/Informant
+seal - http://dbpedia.org/resource/Pinniped
+informer - http://dbpedia.org/resource/Informant
+jury - http://dbpedia.org/resource/Jury
+assize - http://dbpedia.org/resource/Assizes
+judge - http://dbpedia.org/resource/Judge
+remand - http://dbpedia.org/resource/Remand_(detention)
+convict - http://dbpedia.org/resource/Conviction
+chester - http://dbpedia.org/resource/Chester
+john bridgeman - http://dbpedia.org/resource/Earl_of_Bradford
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+interrogation - http://dbpedia.org/resource/Torture
+convict - http://dbpedia.org/resource/Conviction
+margaret johnson - http://dbpedia.org/resource/Margaret_Johnson
+jennet - http://dbpedia.org/resource/Jennet
+mary spencer - http://dbpedia.org/resource/Mary_Spencer
+mary spencer - http://dbpedia.org/resource/Mary_Spencer
+single - http://dbpedia.org/resource/Extended_play
+alice - http://dbpedia.org/resource/Alice_and_Bob
+jennet - http://dbpedia.org/resource/Jennet
+die - http://dbpedia.org/resource/Death
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+prison - http://dbpedia.org/resource/Prison
+jennet - http://dbpedia.org/resource/Jennet
+confession - http://dbpedia.org/resource/Sacrament_of_Penance
+margaret johnson - http://dbpedia.org/resource/Margaret_Johnson
+confession - http://dbpedia.org/resource/Sacrament_of_Penance
+margaret johnson - http://dbpedia.org/resource/Margaret_Johnson
+padiham - http://dbpedia.org/resource/Padiham
+richard shuttleworth - http://dbpedia.org/resource/Richard_Ormonde_Shuttleworth
+esquire - http://dbpedia.org/resource/Esquire
+peace - http://dbpedia.org/resource/Peace
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+marsden - http://dbpedia.org/resource/Samuel_Marsden
+spirit - http://dbpedia.org/resource/Soul
+devil - http://dbpedia.org/resource/Devil
+black tie - http://dbpedia.org/resource/Black_tie
+silk - http://dbpedia.org/resource/Silk
+soul - http://dbpedia.org/resource/Soul
+man beast - http://dbpedia.org/resource/Man-Beast
+solicitation - http://dbpedia.org/resource/Prostitution
+devil - http://dbpedia.org/resource/Devil
+spirit - http://dbpedia.org/resource/Soul
+soul - http://dbpedia.org/resource/Soul
+devil - http://dbpedia.org/resource/Devil
+conference call - http://dbpedia.org/resource/Conference_call
+god - http://dbpedia.org/resource/God
+spirit - http://dbpedia.org/resource/Soul
+devil - http://dbpedia.org/resource/Devil
+consent - http://dbpedia.org/resource/Consent
+defile - http://dbpedia.org/resource/Defile_(geography)
+uncleanness - http://dbpedia.org/resource/Unclean_spirit
+pendle - http://dbpedia.org/resource/Pendle_witches
+saints - http://dbpedia.org/resource/Saint
+saints - http://dbpedia.org/resource/Saint
+man beast - http://dbpedia.org/resource/Man-Beast
+devil - http://dbpedia.org/resource/Devil
+spirit - http://dbpedia.org/resource/Soul
+devil - http://dbpedia.org/resource/Devil
+devil - http://dbpedia.org/resource/Devil
+foul - http://dbpedia.org/resource/Baseball
+weather - http://dbpedia.org/resource/Weather
+devil - http://dbpedia.org/resource/Devil
+pap - http://dbpedia.org/resource/Porridge
+spirit - http://dbpedia.org/resource/Soul
+recount - http://dbpedia.org/resource/Election_recount
+henry - http://dbpedia.org/resource/Henry_(unit)
+pamphlet - http://dbpedia.org/resource/Pamphlet
+elizabeth sawyer - http://dbpedia.org/resource/Elizabeth_Sawyer
+devil - http://dbpedia.org/resource/Devil
+sawyer - http://dbpedia.org/resource/Sawyer_(occupation)
+folklore - http://dbpedia.org/resource/Folklore
+gossip - http://dbpedia.org/resource/Gossip
+memory - http://dbpedia.org/resource/Memory
+chester - http://dbpedia.org/resource/Chester
+jealousy - http://dbpedia.org/resource/Jealousy
+malice - http://dbpedia.org/resource/Schadenfreude
+bribery - http://dbpedia.org/resource/Bribery
+mary - http://dbpedia.org/resource/Mary_I_of_England
+chore - http://dbpedia.org/resource/Chore_(band)
+transport - http://dbpedia.org/resource/Transport
+pail - http://dbpedia.org/resource/Bucket
+witchcraft - http://dbpedia.org/resource/Witchcraft
+young girl - http://dbpedia.org/resource/Young_Girl_(song)
+water - http://dbpedia.org/resource/Water
+trundle - http://dbpedia.org/resource/Trundle,_New_South_Wales
+pail - http://dbpedia.org/resource/Bucket
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+cow - http://dbpedia.org/resource/Cattle
+cow - http://dbpedia.org/resource/Cattle
+cash - http://dbpedia.org/resource/Money
+animosity - http://dbpedia.org/resource/Animosity_(band)
+shilling - http://dbpedia.org/resource/Shilling
+bribe - http://dbpedia.org/resource/Bribery
+pendle - http://dbpedia.org/resource/Pendle_witches
+butter - http://dbpedia.org/resource/Butter
+shilling - http://dbpedia.org/resource/Shilling
+butter - http://dbpedia.org/resource/Butter
+trump - http://dbpedia.org/resource/Playing_card_suit
+leverage - http://dbpedia.org/resource/Mechanical_advantage
+blackmail - http://dbpedia.org/resource/Blackmail
+mary fisher - http://dbpedia.org/resource/Mary_Fisher_(missionary)
+deposition - http://dbpedia.org/resource/Abolition_of_monarchy
+shilling - http://dbpedia.org/resource/Shilling
+witchcraft - http://dbpedia.org/resource/Witchcraft
+greenwich - http://dbpedia.org/resource/Greenwich
+william harvey - http://dbpedia.org/resource/William_Harvey
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+cow - http://dbpedia.org/resource/Cattle
+john webster - http://dbpedia.org/resource/John_Webster
+witchcraft - http://dbpedia.org/resource/Witchcraft
+robinsons - http://dbpedia.org/resource/Robinson_family
+parish - http://dbpedia.org/resource/Parish
+webster - http://dbpedia.org/resource/Martell_Webster
+cow - http://dbpedia.org/resource/Cattle
+robinsons - http://dbpedia.org/resource/Robinson_family
+cow - http://dbpedia.org/resource/Cattle
+stall - http://dbpedia.org/resource/Market_stall
+slackness - http://dbpedia.org/resource/Slackness
+witchcraft trial - http://dbpedia.org/resource/Witch-hunt
+john swain - http://dbpedia.org/resource/John_Swain
+angle - http://dbpedia.org/resource/Glossary_of_professional_wrestling_terms
+pertain - http://dbpedia.org/resource/Pertain
+thomas heywood - http://dbpedia.org/resource/Thomas_Heywood
+scepticism - http://dbpedia.org/resource/Skepticism
+arch - http://dbpedia.org/resource/Arch
+comedy - http://dbpedia.org/resource/Comedy
+tone - http://dbpedia.org/resource/Timbre
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+prologue - http://dbpedia.org/resource/Prologue
+epilogue - http://dbpedia.org/resource/Epilogue
+tavern - http://dbpedia.org/resource/Pub
+greenwich - http://dbpedia.org/resource/Greenwich
+july 10 - http://dbpedia.org/resource/July_10
+truth - http://dbpedia.org/resource/Truth
+frame tale - http://dbpedia.org/resource/Frame_story
+cow - http://dbpedia.org/resource/Cattle
+demon - http://dbpedia.org/resource/Demon
+malkin tower - http://dbpedia.org/resource/Malkin_Tower
+pendle forest - http://dbpedia.org/resource/Forest_of_Pendle
+frame tale - http://dbpedia.org/resource/Frame_story
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+credulity - http://dbpedia.org/resource/Credulity
+northerner - http://dbpedia.org/resource/Northern_England
+epilogue - http://dbpedia.org/resource/Epilogue
+lw - http://dbpedia.org/resource/Left-wing_politics
+tone - http://dbpedia.org/resource/Timbre
+comedy - http://dbpedia.org/resource/Comedy
+moral - http://dbpedia.org/resource/Morality
+eccentricity - http://dbpedia.org/resource/Ellipse
+amuse - http://dbpedia.org/resource/Amusement
+credulity - http://dbpedia.org/resource/Credulity
+sceptic - http://dbpedia.org/resource/Skepticism
+judge - http://dbpedia.org/resource/Judge
+playhouse - http://dbpedia.org/resource/Theatre
+lancashire - http://dbpedia.org/resource/Lancashire
+alison - http://dbpedia.org/resource/Alison_DiLaurentis
+findlay - http://dbpedia.org/resource/University_of_Findlay
+historic event - http://dbpedia.org/resource/Events_of_National_Historic_Significance
+locus - http://dbpedia.org/resource/Locus_(genetics)
+outlaw - http://dbpedia.org/resource/Outlaw
+energy - http://dbpedia.org/resource/Energy
+bewitch - http://dbpedia.org/resource/Bewitch
+narrative - http://dbpedia.org/resource/Narration
+defy - http://dbpedia.org/resource/Motorola_Defy
+patriarchal - http://dbpedia.org/resource/Patriarchy
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+man hunt - http://dbpedia.org/resource/Man_Hunt_(1941_film)
+appetite - http://dbpedia.org/resource/Appetite
+witch hunt - http://dbpedia.org/resource/Witch-hunt
+prank - http://dbpedia.org/resource/Practical_joke
+shape shifting - http://dbpedia.org/resource/Shapeshifting
+wild animal - http://dbpedia.org/resource/Wildlife
+experiment - http://dbpedia.org/resource/Experiment
+appetite - http://dbpedia.org/resource/Appetite
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+animality - http://dbpedia.org/resource/Fatality_(Mortal_Kombat)
+beast man - http://dbpedia.org/resource/Beast_Man
+rational - http://dbpedia.org/resource/Reason
+gender - http://dbpedia.org/resource/Gender_role
+transformation scene - http://dbpedia.org/resource/Transformation_scene
+royal shakespeare company - http://dbpedia.org/resource/Royal_Shakespeare_Company
+actor - http://dbpedia.org/resource/Actor
+gender - http://dbpedia.org/resource/Gender_role
+geography - http://dbpedia.org/resource/Geography
+shape shift - http://dbpedia.org/resource/Shapeshifting
+horror - http://dbpedia.org/resource/Horror_film
+dispose - http://dbpedia.org/resource/Dispose_pattern
+antic - http://dbpedia.org/resource/Antic_Collective
+poetry - http://dbpedia.org/resource/Poetry
+rhetoric - http://dbpedia.org/resource/Rhetoric
+law - http://dbpedia.org/resource/Common_law
+morality - http://dbpedia.org/resource/Morality
+ribaldry - http://dbpedia.org/resource/Ribaldry
+improbable - http://dbpedia.org/resource/Probability
+finger - http://dbpedia.org/resource/The_finger
+shape shifting - http://dbpedia.org/resource/Shapeshifting
+gentleman - http://dbpedia.org/resource/Gentry
+dog - http://dbpedia.org/resource/Dog
+sequence - http://dbpedia.org/resource/Sequence
+dog - http://dbpedia.org/resource/Dog
+meuse - http://dbpedia.org/resource/Meuse
+fox - http://dbpedia.org/resource/Fox
+pug - http://dbpedia.org/resource/Pug
+mouse - http://dbpedia.org/resource/Mouse
+bear - http://dbpedia.org/resource/Bear
+horse - http://dbpedia.org/resource/Horse
+endearment - http://dbpedia.org/resource/Affection
+arthur - http://dbpedia.org/resource/King_Arthur
+witchcraft - http://dbpedia.org/resource/Witchcraft
+invisible - http://dbpedia.org/resource/Invisibility
+tone - http://dbpedia.org/resource/Timbre
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+bastard - http://dbpedia.org/resource/Profanity
+witchcraft - http://dbpedia.org/resource/Witchcraft
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+trope - http://dbpedia.org/resource/Fantasy_tropes
+malleus maleficarum - http://dbpedia.org/resource/Malleus_Maleficarum
+locus classicus - http://dbpedia.org/resource/Locus_classicus
+witchcraft - http://dbpedia.org/resource/Witchcraft
+witchcraft - http://dbpedia.org/resource/Witchcraft
+lust - http://dbpedia.org/resource/Lust
+original sin - http://dbpedia.org/resource/Original_sin
+biblical - http://dbpedia.org/resource/Bible
+proverbs 30 - http://dbpedia.org/resource/Proverbs_30
+sake - http://dbpedia.org/resource/Sake
+lust - http://dbpedia.org/resource/Lust
+consort - http://dbpedia.org/resource/Queen_consort
+arthur - http://dbpedia.org/resource/King_Arthur
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+hinge - http://dbpedia.org/resource/Armour
+gambling - http://dbpedia.org/resource/Gambling
+dog - http://dbpedia.org/resource/Dog
+arthur - http://dbpedia.org/resource/King_Arthur
+poverty - http://dbpedia.org/resource/Poverty
+dog - http://dbpedia.org/resource/Dog
+pinch - http://dbpedia.org/resource/Theft
+lw - http://dbpedia.org/resource/Left-wing_politics
+arthur - http://dbpedia.org/resource/King_Arthur
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+dog - http://dbpedia.org/resource/Dog
+bastardy - http://dbpedia.org/resource/Royal_bastard
+whore - http://dbpedia.org/resource/Prostitution
+homophonically - http://dbpedia.org/resource/Homophone
+lancashire - http://dbpedia.org/resource/Lancashire
+privy council - http://dbpedia.org/resource/Privy_council
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+wild plum - http://dbpedia.org/resource/Wild_plum
+chore - http://dbpedia.org/resource/Chore_(band)
+interrupt - http://dbpedia.org/resource/Interrupt
+greyhound - http://dbpedia.org/resource/Greyhound
+collar - http://dbpedia.org/resource/Dog_collar
+leash - http://dbpedia.org/resource/Surfboard
+invisible - http://dbpedia.org/resource/Invisibility
+spirit - http://dbpedia.org/resource/Soul
+dog - http://dbpedia.org/resource/Dog
+signal - http://dbpedia.org/resource/Signalling_theory
+dog - http://dbpedia.org/resource/Dog
+dog - http://dbpedia.org/resource/Dog
+dog - http://dbpedia.org/resource/Dog
+dog - http://dbpedia.org/resource/Dog
+gentleman - http://dbpedia.org/resource/Gentry
+greyhound - http://dbpedia.org/resource/Greyhound
+food - http://dbpedia.org/resource/Food
+family - http://dbpedia.org/resource/Family
+gentleman - http://dbpedia.org/resource/Gentry
+object - http://dbpedia.org/resource/Non-physical_entity
+riding - http://dbpedia.org/resource/Equestrianism
+shape shift - http://dbpedia.org/resource/Shapeshifting
+horse - http://dbpedia.org/resource/Horse
+mall - http://dbpedia.org/resource/Shopping_mall
+groom - http://dbpedia.org/resource/Bridegroom
+gelding - http://dbpedia.org/resource/Gelding
+stallion - http://dbpedia.org/resource/Horse
+ride london - http://dbpedia.org/resource/RideLondon
+mall - http://dbpedia.org/resource/Shopping_mall
+love - http://dbpedia.org/resource/Love
+mall - http://dbpedia.org/resource/Shopping_mall
+phallic - http://dbpedia.org/resource/Phallus
+mistress - http://dbpedia.org/resource/Affair
+geld - http://dbpedia.org/resource/Castration
+magic - http://dbpedia.org/resource/Witchcraft
+bridle - http://dbpedia.org/resource/Bridle
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+horse - http://dbpedia.org/resource/Horse
+horse - http://dbpedia.org/resource/Horse
+gelding - http://dbpedia.org/resource/Gelding
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+transport - http://dbpedia.org/resource/Transport
+service provider - http://dbpedia.org/resource/Internet_service_provider
+mall - http://dbpedia.org/resource/Shopping_mall
+predicament - http://dbpedia.org/resource/Predicament
+mistress - http://dbpedia.org/resource/Affair
+stable - http://dbpedia.org/resource/Stable
+magic - http://dbpedia.org/resource/Witchcraft
+bridle - http://dbpedia.org/resource/Bridle
+adulterous - http://dbpedia.org/resource/Adultery
+contamination - http://dbpedia.org/resource/Foodborne_illness
+sexualize - http://dbpedia.org/resource/Sexualization
+farm animal - http://dbpedia.org/resource/Livestock
+watchful - http://dbpedia.org/resource/Watchful
+eye - http://dbpedia.org/resource/Eye
+forgiveness - http://dbpedia.org/resource/Forgiveness
+sin - http://dbpedia.org/resource/Sin
+skimmington - http://dbpedia.org/resource/Charivari
+horse - http://dbpedia.org/resource/Horse
+skimmington - http://dbpedia.org/resource/Charivari
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+mistress - http://dbpedia.org/resource/Affair
+stable - http://dbpedia.org/resource/Stable
+repent - http://dbpedia.org/resource/Repentance
+witchcraft - http://dbpedia.org/resource/Witchcraft
+lw - http://dbpedia.org/resource/Left-wing_politics
+arthur - http://dbpedia.org/resource/King_Arthur
+groom - http://dbpedia.org/resource/Bridegroom
+horse breeding - http://dbpedia.org/resource/Horse_breeding
+gentleman - http://dbpedia.org/resource/Gentry
+mistress - http://dbpedia.org/resource/Affair
+witticism - http://dbpedia.org/resource/Wit
+mistress - http://dbpedia.org/resource/Affair
+horse - http://dbpedia.org/resource/Horse
+halter - http://dbpedia.org/resource/Halter
+jingling - http://dbpedia.org/resource/Tianmen
+lw - http://dbpedia.org/resource/Left-wing_politics
+halter - http://dbpedia.org/resource/Halter
+noose - http://dbpedia.org/resource/Noose
+horse - http://dbpedia.org/resource/Horse
+riding - http://dbpedia.org/resource/Equestrianism
+vivid - http://dbpedia.org/resource/Vivid_(band)
+conduct book - http://dbpedia.org/resource/Conduct_book
+bride - http://dbpedia.org/resource/Bride
+william whately - http://dbpedia.org/resource/William_Whately
+chastity - http://dbpedia.org/resource/Chastity
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+mistress - http://dbpedia.org/resource/Affair
+whately - http://dbpedia.org/resource/Whately,_Massachusetts
+meat - http://dbpedia.org/resource/Meat
+prayer - http://dbpedia.org/resource/Prayer
+horse - http://dbpedia.org/resource/Horse
+manger - http://dbpedia.org/resource/Manger
+blessing - http://dbpedia.org/resource/Blessing
+yoke - http://dbpedia.org/resource/Yoke
+horse - http://dbpedia.org/resource/Horse
+bridle - http://dbpedia.org/resource/Bridle
+mouth - http://dbpedia.org/resource/Mouth
+snaffle bit - http://dbpedia.org/resource/Snaffle_bit
+bit - http://dbpedia.org/resource/Sketch_comedy
+light - http://dbpedia.org/resource/Light
+bridle - http://dbpedia.org/resource/Bridle
+mouth - http://dbpedia.org/resource/Mouth
+horse - http://dbpedia.org/resource/Horse
+horse - http://dbpedia.org/resource/Horse
+frisking - http://dbpedia.org/resource/Frisking
+folly - http://dbpedia.org/resource/Folly
+horse rider - http://dbpedia.org/resource/Equestrianism
+horse - http://dbpedia.org/resource/Horse
+lancashire - http://dbpedia.org/resource/Lancashire
+economy - http://dbpedia.org/resource/Economy
+demon - http://dbpedia.org/resource/Demon
+agency - http://dbpedia.org/resource/Institution
+whately - http://dbpedia.org/resource/Whately,_Massachusetts
+point man - http://dbpedia.org/resource/Take_point
+bridle - http://dbpedia.org/resource/Bridle
+horse - http://dbpedia.org/resource/Horse
+bridle - http://dbpedia.org/resource/Bridle
+dog - http://dbpedia.org/resource/Dog
+lw - http://dbpedia.org/resource/Left-wing_politics
+actor - http://dbpedia.org/resource/Actor
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+thrust stage - http://dbpedia.org/resource/Thrust_stage
+trap - http://dbpedia.org/resource/Trapping
+trap - http://dbpedia.org/resource/Trapping
+trap - http://dbpedia.org/resource/Trapping
+bark - http://dbpedia.org/resource/Barque
+pain - http://dbpedia.org/resource/Suffering
+heaven - http://dbpedia.org/resource/Heaven
+greyhound - http://dbpedia.org/resource/Greyhound
+switch - http://dbpedia.org/resource/Switch
+dog - http://dbpedia.org/resource/Dog
+fear - http://dbpedia.org/resource/Fear
+dog - http://dbpedia.org/resource/Dog
+witchcraft - http://dbpedia.org/resource/Witchcraft
+stuart clark - http://dbpedia.org/resource/Stuart_Clark
+language - http://dbpedia.org/resource/Latin
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+witchcraft - http://dbpedia.org/resource/Witchcraft
+witchcraft - http://dbpedia.org/resource/Witchcraft
+irrational - http://dbpedia.org/resource/Emotion
+comedy - http://dbpedia.org/resource/Comedy
+playwright - http://dbpedia.org/resource/Playwright
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+sir robert phelips - http://dbpedia.org/resource/Robert_Phelips
+bawdy - http://dbpedia.org/resource/Ribaldry
+comedy - http://dbpedia.org/resource/Comedy
+magic - http://dbpedia.org/resource/Witchcraft
+horse - http://dbpedia.org/resource/Horse
+bridle - http://dbpedia.org/resource/Bridle
+mouth - http://dbpedia.org/resource/Mouth
+ritual - http://dbpedia.org/resource/Ritual
+music - http://dbpedia.org/resource/Music
+food - http://dbpedia.org/resource/Food
+wedding - http://dbpedia.org/resource/Wedding
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+witchcraft - http://dbpedia.org/resource/Witchcraft
+stress - http://dbpedia.org/resource/Psychological_stress
+inverse - http://dbpedia.org/resource/Grammatical_number
+disorder - http://dbpedia.org/resource/Mental_disorder
+witchcraft - http://dbpedia.org/resource/Witchcraft
+devil - http://dbpedia.org/resource/Devil
+god - http://dbpedia.org/resource/God
+evil - http://dbpedia.org/resource/Evil
+horror - http://dbpedia.org/resource/Horror_film
+devil - http://dbpedia.org/resource/Devil
+comedy - http://dbpedia.org/resource/Comedy
+coherent - http://dbpedia.org/resource/Laser
+universe - http://dbpedia.org/resource/Universe
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+discourse - http://dbpedia.org/resource/Sermon
+mirror - http://dbpedia.org/resource/Parallel_universes_in_fiction
+misrule - http://dbpedia.org/resource/Lord_of_Misrule
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+liminal - http://dbpedia.org/resource/Liminality
+coin - http://dbpedia.org/resource/Coin
+relief - http://dbpedia.org/resource/Welfare
+village - http://dbpedia.org/resource/Village
+witchcraft - http://dbpedia.org/resource/Witchcraft
+human - http://dbpedia.org/resource/Human
+dog - http://dbpedia.org/resource/Dog
+dog - http://dbpedia.org/resource/Dog
+gammer - http://dbpedia.org/resource/Gammer
+knee - http://dbpedia.org/resource/Knee
+lw - http://dbpedia.org/resource/Left-wing_politics
+bribe - http://dbpedia.org/resource/Bribery
+shilling - http://dbpedia.org/resource/Shilling
+young boy - http://dbpedia.org/resource/Young_Boy
+invisible - http://dbpedia.org/resource/Invisibility
+cord - http://dbpedia.org/resource/Rope
+actor - http://dbpedia.org/resource/Actor
+gammer - http://dbpedia.org/resource/Gammer
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+rsc - http://dbpedia.org/resource/Royal_Shakespeare_Company
+actor - http://dbpedia.org/resource/Actor
+alan morrissey - http://dbpedia.org/resource/Alan_Morrissey
+adam kay - http://dbpedia.org/resource/Adam_Kay_(writer)
+horse - http://dbpedia.org/resource/Horse
+lister - http://dbpedia.org/resource/Tax_assessment
+grey beard - http://dbpedia.org/resource/Grey_Beard
+skirt - http://dbpedia.org/resource/Skirt
+hug - http://dbpedia.org/resource/Hug
+stroke - http://dbpedia.org/resource/Stroke
+lw - http://dbpedia.org/resource/Left-wing_politics
+bribery - http://dbpedia.org/resource/Bribery
+proposition - http://dbpedia.org/resource/Proposition
+fascinate - http://dbpedia.org/resource/Because_of_You...
+village - http://dbpedia.org/resource/Village
+gammer - http://dbpedia.org/resource/Gammer
+stroke - http://dbpedia.org/resource/Stroke
+hug - http://dbpedia.org/resource/Hug
+sexualized - http://dbpedia.org/resource/Sexual_objectification
+child abuse - http://dbpedia.org/resource/Child_abuse
+tender - http://dbpedia.org/resource/Legal_tender
+squirm - http://dbpedia.org/resource/Squirm
+horse - http://dbpedia.org/resource/Horse
+gender confusion - http://dbpedia.org/resource/Gender_dysphoria
+game boy - http://dbpedia.org/resource/Chiptune
+tone - http://dbpedia.org/resource/Timbre
+sirrah - http://dbpedia.org/resource/Alpha_Andromedae
+perforce - http://dbpedia.org/resource/Perforce
+lw - http://dbpedia.org/resource/Left-wing_politics
+horse - http://dbpedia.org/resource/Horse
+mount - http://dbpedia.org/resource/Working_animal
+ribaldry - http://dbpedia.org/resource/Ribaldry
+improbable - http://dbpedia.org/resource/Probability
+ribaldry - http://dbpedia.org/resource/Ribaldry
+devilish - http://dbpedia.org/resource/Tokio_Hotel
+horse - http://dbpedia.org/resource/Horse
+horse - http://dbpedia.org/resource/Horse
+dog - http://dbpedia.org/resource/Dog
+horse - http://dbpedia.org/resource/Horse
+mimed - http://dbpedia.org/resource/Mime_artist
+riding - http://dbpedia.org/resource/Equestrianism
+actor - http://dbpedia.org/resource/Actor
+horse - http://dbpedia.org/resource/Horse
+imaginary - http://dbpedia.org/resource/Imagination
+bridle - http://dbpedia.org/resource/Bridle
+knelt - http://dbpedia.org/resource/Kneeling
+dance - http://dbpedia.org/resource/Dance
+young boy - http://dbpedia.org/resource/Young_Boy
+ass - http://dbpedia.org/resource/Donkey
+motion - http://dbpedia.org/resource/Film
+invisible - http://dbpedia.org/resource/Invisibility
+horse - http://dbpedia.org/resource/Horse
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+paedophilic - http://dbpedia.org/resource/Pedophilia
+threesome - http://dbpedia.org/resource/Sexuality_in_ancient_Rome
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+actor - http://dbpedia.org/resource/Actor
+horse - http://dbpedia.org/resource/Horse
+actor - http://dbpedia.org/resource/Actor
+dog - http://dbpedia.org/resource/Dog
+edmonton - http://dbpedia.org/resource/Edmonton
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+actor - http://dbpedia.org/resource/Actor
+horse - http://dbpedia.org/resource/Horse
+motion - http://dbpedia.org/resource/Film
+light - http://dbpedia.org/resource/Light
+witchcraft - http://dbpedia.org/resource/Witchcraft
+eye - http://dbpedia.org/resource/Eye
+beholder - http://dbpedia.org/resource/Beholder_(Dungeons_&_Dragons)
+human - http://dbpedia.org/resource/Human
+actor - http://dbpedia.org/resource/Actor
+active imagination - http://dbpedia.org/resource/Active_imagination
+puritan - http://dbpedia.org/resource/Puritans
+sermon - http://dbpedia.org/resource/Sermon
+rail - http://dbpedia.org/resource/Rail_transport
+boy actor - http://dbpedia.org/resource/Boy_player
+cross dress - http://dbpedia.org/resource/Cross-dressing
+heywood - http://dbpedia.org/resource/Thomas_Heywood
+lw - http://dbpedia.org/resource/Left-wing_politics
+food - http://dbpedia.org/resource/Food
+appetite - http://dbpedia.org/resource/Appetite
+human - http://dbpedia.org/resource/Human
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+playwright - http://dbpedia.org/resource/Playwright
+mall - http://dbpedia.org/resource/Shopping_mall
+love - http://dbpedia.org/resource/Love
+wedding - http://dbpedia.org/resource/Wedding
+bone - http://dbpedia.org/resource/Bone
+stone - http://dbpedia.org/resource/Stonemasonry
+bird - http://dbpedia.org/resource/Poultry
+nuptial - http://dbpedia.org/resource/Wedding
+dance - http://dbpedia.org/resource/Dance
+food - http://dbpedia.org/resource/Food
+merriment - http://dbpedia.org/resource/Merriment
+sexual abuse - http://dbpedia.org/resource/Sexual_abuse
+stroke - http://dbpedia.org/resource/Stroke
+lw - http://dbpedia.org/resource/Left-wing_politics
+stanza - http://dbpedia.org/resource/Stanza
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+deviance - http://dbpedia.org/resource/Robert_K._Merton
+consent - http://dbpedia.org/resource/Consent
+mall - http://dbpedia.org/resource/Shopping_mall
+horse - http://dbpedia.org/resource/Horse
+spoon - http://dbpedia.org/resource/Spoon
+mistress - http://dbpedia.org/resource/Affair
+skimmington - http://dbpedia.org/resource/Charivari
+interference - http://dbpedia.org/resource/Wave_interference
+skimmington - http://dbpedia.org/resource/Charivari
+ladle - http://dbpedia.org/resource/Shamoji
+smock - http://dbpedia.org/resource/Chemise
+rough music - http://dbpedia.org/resource/Charivari
+fry - http://dbpedia.org/resource/Frying
+bull horn - http://dbpedia.org/resource/Megaphone
+marrow - http://dbpedia.org/resource/Cucurbita
+bone - http://dbpedia.org/resource/Bone
+cleaver - http://dbpedia.org/resource/Cleaver
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+skimmington - http://dbpedia.org/resource/Charivari
+horse - http://dbpedia.org/resource/Horse
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+skimmington - http://dbpedia.org/resource/Charivari
+egg - http://dbpedia.org/resource/Egg_as_food
+skimmington - http://dbpedia.org/resource/Charivari
+public humiliation - http://dbpedia.org/resource/Public_humiliation
+skimmington - http://dbpedia.org/resource/Charivari
+arthur - http://dbpedia.org/resource/King_Arthur
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+local gentry - http://dbpedia.org/resource/Local_Gentry
+farmer - http://dbpedia.org/resource/Farmer
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+wedding - http://dbpedia.org/resource/Wedding
+cod piece - http://dbpedia.org/resource/Codpiece
+impotent - http://dbpedia.org/resource/Erectile_dysfunction
+witchcraft - http://dbpedia.org/resource/Witchcraft
+bestiality - http://dbpedia.org/resource/Zoophilia
+female domination - http://dbpedia.org/resource/Dominatrix
+patriarchal - http://dbpedia.org/resource/Patriarchy
+mount - http://dbpedia.org/resource/Working_animal
+mistress - http://dbpedia.org/resource/Affair
+magic - http://dbpedia.org/resource/Witchcraft
+bridle - http://dbpedia.org/resource/Bridle
+fear - http://dbpedia.org/resource/Fear
+stain - http://dbpedia.org/resource/Staining
+illegitimacy - http://dbpedia.org/resource/Illegitimacy_in_fiction
+mistress - http://dbpedia.org/resource/Affair
+paternity - http://dbpedia.org/resource/Father
+arthur - http://dbpedia.org/resource/King_Arthur
+gentleman - http://dbpedia.org/resource/Gentry
+bastard - http://dbpedia.org/resource/Profanity
+horse rider - http://dbpedia.org/resource/Equestrianism
+natalie - http://dbpedia.org/resource/Natalie_Buchanan
+phyllis - http://dbpedia.org/resource/Phyllis_Vance
+aristotle - http://dbpedia.org/resource/Aristotle
+motif - http://dbpedia.org/resource/Motif-Index_of_Folk-Literature
+patriarchal - http://dbpedia.org/resource/Patriarchy
+prank - http://dbpedia.org/resource/Practical_joke
+paedophilia - http://dbpedia.org/resource/Pedophilia
+miller - http://dbpedia.org/resource/Miller
+miller - http://dbpedia.org/resource/Miller
+medieval - http://dbpedia.org/resource/Middle_Ages
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+defender - http://dbpedia.org/resource/Defendant
+soldier - http://dbpedia.org/resource/Soldier
+mistress - http://dbpedia.org/resource/Affair
+bear - http://dbpedia.org/resource/Bear
+wedding ring - http://dbpedia.org/resource/Wedding_ring
+shape shifter - http://dbpedia.org/resource/Shapeshifting
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+prison - http://dbpedia.org/resource/Prison
+anxiety - http://dbpedia.org/resource/Anxiety
+family - http://dbpedia.org/resource/Family
+family - http://dbpedia.org/resource/Family
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+bewitch - http://dbpedia.org/resource/Bewitch
+lw - http://dbpedia.org/resource/Left-wing_politics
+witches - http://dbpedia.org/resource/Witchcraft
+lw - http://dbpedia.org/resource/Left-wing_politics
+masculinity - http://dbpedia.org/resource/Masculinity
+ritual - http://dbpedia.org/resource/Ritual
+meg - http://dbpedia.org/resource/Meg_Griffin
+margaret johnson - http://dbpedia.org/resource/Margaret_Johnson
+dementia - http://dbpedia.org/resource/Dementia
+lw - http://dbpedia.org/resource/Left-wing_politics
+visual rhetoric - http://dbpedia.org/resource/Visual_rhetoric
+poetry - http://dbpedia.org/resource/Poetry
+epilogue - http://dbpedia.org/resource/Epilogue
+disorder - http://dbpedia.org/resource/Mental_disorder
+epilogue - http://dbpedia.org/resource/Epilogue
+guilt - http://dbpedia.org/resource/Original_sin
+guilt - http://dbpedia.org/resource/Original_sin
+lancashire - http://dbpedia.org/resource/Lancashire
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+henry burton - http://dbpedia.org/resource/Henry_Burton_(theologian)
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+darke - http://dbpedia.org/resource/Septimus_Heap
+witch child - http://dbpedia.org/resource/Witchcraft_accusations_against_children
+noise - http://dbpedia.org/resource/Noise_music
+food - http://dbpedia.org/resource/Food
+patriarchal - http://dbpedia.org/resource/Patriarchy
+heywood - http://dbpedia.org/resource/Thomas_Heywood
+hospitality - http://dbpedia.org/resource/Hospitality
+hospitality - http://dbpedia.org/resource/Hospitality
+gentleman - http://dbpedia.org/resource/Gentry
+hospitality - http://dbpedia.org/resource/Hospitality
+mistress - http://dbpedia.org/resource/Affair
+charity - http://dbpedia.org/resource/Alms
+sphere - http://dbpedia.org/resource/Sphere
+love - http://dbpedia.org/resource/Love
+liberal - http://dbpedia.org/resource/Liberalism
+lw - http://dbpedia.org/resource/Left-wing_politics
+bantam - http://dbpedia.org/resource/Bantamweight
+lw - http://dbpedia.org/resource/Left-wing_politics
+hospitality - http://dbpedia.org/resource/Hospitality
+country house poem - http://dbpedia.org/resource/Country_house_poem
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+paean - http://dbpedia.org/resource/Paean
+ideal - http://dbpedia.org/resource/Thought_experiment
+classical - http://dbpedia.org/resource/Classical_antiquity
+felicity heal - http://dbpedia.org/resource/Felicity_Heal
+george wheler - http://dbpedia.org/resource/George_Wheler_(travel_writer)
+sentimental - http://dbpedia.org/resource/Sensibility
+hospitality - http://dbpedia.org/resource/Hospitality
+liberal - http://dbpedia.org/resource/Liberalism
+meat - http://dbpedia.org/resource/Meat
+hospitality - http://dbpedia.org/resource/Hospitality
+food - http://dbpedia.org/resource/Food
+gentleman - http://dbpedia.org/resource/Gentry
+food - http://dbpedia.org/resource/Food
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+ironic - http://dbpedia.org/resource/Irony
+snack - http://dbpedia.org/resource/Snack
+wild plum - http://dbpedia.org/resource/Wild_plum
+hunting - http://dbpedia.org/resource/Hunting
+cream - http://dbpedia.org/resource/Cream
+cake - http://dbpedia.org/resource/Cake
+wedding - http://dbpedia.org/resource/Wedding
+tone - http://dbpedia.org/resource/Timbre
+food play - http://dbpedia.org/resource/Food_play
+hospitality - http://dbpedia.org/resource/Hospitality
+plain - http://dbpedia.org/resource/John_Major
+plain - http://dbpedia.org/resource/John_Major
+lw - http://dbpedia.org/resource/Left-wing_politics
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+wink - http://dbpedia.org/resource/Wink
+lw - http://dbpedia.org/resource/Left-wing_politics
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+blood relative - http://dbpedia.org/resource/Consanguinity
+gentleman - http://dbpedia.org/resource/Gentry
+noblesse oblige - http://dbpedia.org/resource/Noblesse_oblige
+expression - http://dbpedia.org/resource/Idiom
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+arthur - http://dbpedia.org/resource/King_Arthur
+hospitality - http://dbpedia.org/resource/Hospitality
+hospitality - http://dbpedia.org/resource/Hospitality
+hospitality - http://dbpedia.org/resource/Hospitality
+murder - http://dbpedia.org/resource/Murder
+usury - http://dbpedia.org/resource/Usury
+expression - http://dbpedia.org/resource/Idiom
+hospitality - http://dbpedia.org/resource/Hospitality
+arthur - http://dbpedia.org/resource/King_Arthur
+usurer - http://dbpedia.org/resource/Usury
+arthur - http://dbpedia.org/resource/King_Arthur
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+gentleman - http://dbpedia.org/resource/Gentry
+arthur - http://dbpedia.org/resource/King_Arthur
+sake - http://dbpedia.org/resource/Sake
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+caution - http://dbpedia.org/resource/Penalty_card
+wine - http://dbpedia.org/resource/Wine
+london tavern - http://dbpedia.org/resource/London_Tavern
+repentance - http://dbpedia.org/resource/Repentance
+witchcraft - http://dbpedia.org/resource/Witchcraft
+reserve - http://dbpedia.org/resource/Nature_reserve
+gentleman - http://dbpedia.org/resource/Gentry
+gentleman - http://dbpedia.org/resource/Gentry
+love service - http://dbpedia.org/resource/Love_service
+lw - http://dbpedia.org/resource/Left-wing_politics
+reciprocity - http://dbpedia.org/resource/Norm_of_reciprocity
+gentleman - http://dbpedia.org/resource/Gentry
+loan - http://dbpedia.org/resource/Usury
+hospitality - http://dbpedia.org/resource/Hospitality
+hospitality - http://dbpedia.org/resource/Hospitality
+decay - http://dbpedia.org/resource/Decomposition
+golden age - http://dbpedia.org/resource/Golden_Age
+pastoral - http://dbpedia.org/resource/Pastoral
+gentry - http://dbpedia.org/resource/Gentry
+charity - http://dbpedia.org/resource/Alms
+rural - http://dbpedia.org/resource/Rural_area
+decay - http://dbpedia.org/resource/Decomposition
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+finance - http://dbpedia.org/resource/Finance
+city - http://dbpedia.org/resource/City
+hospitality - http://dbpedia.org/resource/Hospitality
+ethical - http://dbpedia.org/resource/Ethics
+tenant - http://dbpedia.org/resource/Manorialism
+steward - http://dbpedia.org/resource/Butler
+rural - http://dbpedia.org/resource/Rural_area
+virtue - http://dbpedia.org/resource/Morality
+gluttony - http://dbpedia.org/resource/Gluttony
+soldier - http://dbpedia.org/resource/Soldier
+family - http://dbpedia.org/resource/Family
+circle - http://dbpedia.org/resource/Circle
+admire - http://dbpedia.org/resource/Admire,_Kansas
+gentleman - http://dbpedia.org/resource/Gentry
+sleep - http://dbpedia.org/resource/Sleep
+leisure - http://dbpedia.org/resource/Leisure
+groom - http://dbpedia.org/resource/Bridegroom
+lw - http://dbpedia.org/resource/Left-wing_politics
+patriarchal - http://dbpedia.org/resource/Patriarchy
+hospitality - http://dbpedia.org/resource/Hospitality
+mistress - http://dbpedia.org/resource/Affair
+mall - http://dbpedia.org/resource/Shopping_mall
+dairymaid - http://dbpedia.org/resource/Dairy
+lw - http://dbpedia.org/resource/Left-wing_politics
+gentlewoman - http://dbpedia.org/resource/Landed_gentry
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+mistress - http://dbpedia.org/resource/Affair
+coven - http://dbpedia.org/resource/Coven
+middle- - http://dbpedia.org/resource/Middle_class
+secret time - http://dbpedia.org/resource/Secret_Time
+sleep - http://dbpedia.org/resource/Sleep
+mistress - http://dbpedia.org/resource/Affair
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+mistress - http://dbpedia.org/resource/Affair
+mall - http://dbpedia.org/resource/Shopping_mall
+circle - http://dbpedia.org/resource/Circle
+carefree - http://dbpedia.org/resource/Carefree_(film)
+family - http://dbpedia.org/resource/Family
+hierarchy - http://dbpedia.org/resource/Hierarchy
+witchcraft - http://dbpedia.org/resource/Witchcraft
+laughter - http://dbpedia.org/resource/Laughter
+lw - http://dbpedia.org/resource/Left-wing_politics
+object - http://dbpedia.org/resource/Non-physical_entity
+malice - http://dbpedia.org/resource/Schadenfreude
+arthur - http://dbpedia.org/resource/King_Arthur
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+mall - http://dbpedia.org/resource/Shopping_mall
+wedding - http://dbpedia.org/resource/Wedding
+wedding - http://dbpedia.org/resource/Wedding
+primary motive - http://dbpedia.org/resource/Primary_Motive
+tone - http://dbpedia.org/resource/Timbre
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+mortgage - http://dbpedia.org/resource/Mortgage_loan
+lw - http://dbpedia.org/resource/Left-wing_politics
+spendthrift - http://dbpedia.org/resource/Spendthrift
+hospitality - http://dbpedia.org/resource/Hospitality
+sociability - http://dbpedia.org/resource/Social_relation
+penny - http://dbpedia.org/resource/Penny
+piper - http://dbpedia.org/resource/Bagpipes
+rubber - http://dbpedia.org/resource/Natural_rubber
+bowling - http://dbpedia.org/resource/Bowled
+curate - http://dbpedia.org/resource/Curate
+charles - http://dbpedia.org/resource/Charles_II_of_England
+sports - http://dbpedia.org/resource/Sport
+divine service - http://dbpedia.org/resource/Church_service
+lessen - http://dbpedia.org/resource/Łasin
+church - http://dbpedia.org/resource/Catholic_Church
+lancashire - http://dbpedia.org/resource/Lancashire
+catholic - http://dbpedia.org/resource/Catholic_Church
+puritan - http://dbpedia.org/resource/Puritans
+archery - http://dbpedia.org/resource/Archery
+vaulting - http://dbpedia.org/resource/Equestrian_vaulting
+recreation - http://dbpedia.org/resource/Recreation
+morris dance - http://dbpedia.org/resource/Morris_dance
+setting pole - http://dbpedia.org/resource/Setting_pole
+neglect - http://dbpedia.org/resource/Negligence
+divine service - http://dbpedia.org/resource/Church_service
+bear - http://dbpedia.org/resource/Bear
+bull baiting - http://dbpedia.org/resource/Bull-baiting
+law - http://dbpedia.org/resource/Common_law
+horror - http://dbpedia.org/resource/Horror_film
+bowling - http://dbpedia.org/resource/Bowled
+clothing - http://dbpedia.org/resource/Clothing
+lw - http://dbpedia.org/resource/Left-wing_politics
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+wedding - http://dbpedia.org/resource/Wedding
+witchcraft - http://dbpedia.org/resource/Witchcraft
+hospitality - http://dbpedia.org/resource/Hospitality
+gentleman - http://dbpedia.org/resource/Gentry
+mess - http://dbpedia.org/resource/Mess
+meat - http://dbpedia.org/resource/Meat
+mutton - http://dbpedia.org/resource/Lamb_and_mutton
+broth - http://dbpedia.org/resource/Broth
+marrow - http://dbpedia.org/resource/Cucurbita
+bone - http://dbpedia.org/resource/Bone
+capon - http://dbpedia.org/resource/Capon
+broth - http://dbpedia.org/resource/Broth
+sirloin - http://dbpedia.org/resource/Sirloin_steak
+beef - http://dbpedia.org/resource/Beef
+pig - http://dbpedia.org/resource/Shapeshifting
+turkey - http://dbpedia.org/resource/Turkey_as_food
+mess - http://dbpedia.org/resource/Mess
+chicken - http://dbpedia.org/resource/Chicken
+custard - http://dbpedia.org/resource/Custard
+flan - http://dbpedia.org/resource/Planchet
+florentines - http://dbpedia.org/resource/Florence
+stew - http://dbpedia.org/resource/Stew
+prune - http://dbpedia.org/resource/Pruning
+lw - http://dbpedia.org/resource/Left-wing_politics
+food shortage - http://dbpedia.org/resource/Famine
+wheat - http://dbpedia.org/resource/Wheat
+special occasion - http://dbpedia.org/resource/Special_Occasion_(Bobby_Valentino_album)
+oatcake - http://dbpedia.org/resource/Oatcake
+bread - http://dbpedia.org/resource/Bread
+wedding cake - http://dbpedia.org/resource/Wedding_cake
+white flour - http://dbpedia.org/resource/Flour
+mutton - http://dbpedia.org/resource/Lamb_and_mutton
+meat - http://dbpedia.org/resource/Meat
+simmer - http://dbpedia.org/resource/Simmering
+broth - http://dbpedia.org/resource/Broth
+broth - http://dbpedia.org/resource/Broth
+bullace - http://dbpedia.org/resource/Bullace
+prune - http://dbpedia.org/resource/Pruning
+classless - http://dbpedia.org/resource/Social_class
+pig - http://dbpedia.org/resource/Shapeshifting
+marrow - http://dbpedia.org/resource/Cucurbita
+bone - http://dbpedia.org/resource/Bone
+pigeon pie - http://dbpedia.org/resource/Pigeon_pie
+fish - http://dbpedia.org/resource/Fish
+seafood - http://dbpedia.org/resource/Seafood
+capon - http://dbpedia.org/resource/Capon
+lancashire - http://dbpedia.org/resource/Lancashire
+veal - http://dbpedia.org/resource/Veal
+dairy - http://dbpedia.org/resource/Milk
+calf - http://dbpedia.org/resource/Cattle
+mall - http://dbpedia.org/resource/Shopping_mall
+milk - http://dbpedia.org/resource/Goat
+curd - http://dbpedia.org/resource/Yogurt
+whey cheese - http://dbpedia.org/resource/Whey_cheese
+cream - http://dbpedia.org/resource/Cream
+cake - http://dbpedia.org/resource/Cake
+cheese - http://dbpedia.org/resource/Cheese
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+butter - http://dbpedia.org/resource/Butter
+rope - http://dbpedia.org/resource/Rope
+butter cream - http://dbpedia.org/resource/Buttercream
+custard - http://dbpedia.org/resource/Custard
+flan - http://dbpedia.org/resource/Planchet
+posset - http://dbpedia.org/resource/Posset
+fruit - http://dbpedia.org/resource/Fruit
+tart - http://dbpedia.org/resource/Prostitution
+butter cream - http://dbpedia.org/resource/Buttercream
+poultry - http://dbpedia.org/resource/Chicken
+fish - http://dbpedia.org/resource/Fish
+wedding - http://dbpedia.org/resource/Wedding
+food - http://dbpedia.org/resource/Food
+lapland - http://dbpedia.org/resource/Finnmark
+margaret - http://dbpedia.org/resource/Margaret_of_Anjou
+confession - http://dbpedia.org/resource/Sacrament_of_Penance
+flesh - http://dbpedia.org/resource/Fish_as_food
+lw - http://dbpedia.org/resource/Left-wing_politics
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+boil - http://dbpedia.org/resource/Boiling
+mutton - http://dbpedia.org/resource/Lamb_and_mutton
+wedding cake - http://dbpedia.org/resource/Wedding_cake
+bone - http://dbpedia.org/resource/Bone
+stone - http://dbpedia.org/resource/Stonemasonry
+nursery rhyme - http://dbpedia.org/resource/Nursery_rhyme
+bird - http://dbpedia.org/resource/Poultry
+meat - http://dbpedia.org/resource/Meat
+chimney - http://dbpedia.org/resource/Chimney
+smoke - http://dbpedia.org/resource/Cigarette
+snake - http://dbpedia.org/resource/Snake
+frog - http://dbpedia.org/resource/Frog
+beetle - http://dbpedia.org/resource/Insect
+hornet - http://dbpedia.org/resource/Hornet
+lw - http://dbpedia.org/resource/Left-wing_politics
+salad - http://dbpedia.org/resource/Salad
+vegetable - http://dbpedia.org/resource/Vegetable
+lettuce - http://dbpedia.org/resource/Lettuce
+radish - http://dbpedia.org/resource/Radish
+rocket - http://dbpedia.org/resource/Rocket
+parsnip - http://dbpedia.org/resource/Parsnip
+jerusalem artichoke - http://dbpedia.org/resource/Jerusalem_artichoke
+fungus - http://dbpedia.org/resource/Fungus
+custard - http://dbpedia.org/resource/Custard
+cowdung - http://dbpedia.org/resource/Cow_dung
+food - http://dbpedia.org/resource/Food
+appetite - http://dbpedia.org/resource/Appetite
+metaphor - http://dbpedia.org/resource/Metaphor
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+middleton - http://dbpedia.org/resource/Khris_Middleton
+bartholomew fair - http://dbpedia.org/resource/Bartholomew_Fair
+pig - http://dbpedia.org/resource/Shapeshifting
+restaurant - http://dbpedia.org/resource/Restaurant
+brothel - http://dbpedia.org/resource/Prostitution
+chaste - http://dbpedia.org/resource/Chastity
+maid - http://dbpedia.org/resource/Virginity
+cheapside - http://dbpedia.org/resource/Cheapside
+mutton - http://dbpedia.org/resource/Lamb_and_mutton
+symbol - http://dbpedia.org/resource/Symbol
+sex - http://dbpedia.org/resource/Sexual_intercourse
+wat - http://dbpedia.org/resource/Wat
+appetite - http://dbpedia.org/resource/Appetite
+sauce - http://dbpedia.org/resource/Sauce
+break fast - http://dbpedia.org/resource/Break_fast
+bit - http://dbpedia.org/resource/Sketch_comedy
+spit - http://dbpedia.org/resource/Saliva
+meat - http://dbpedia.org/resource/Meat
+appetite - http://dbpedia.org/resource/Appetite
+lw - http://dbpedia.org/resource/Left-wing_politics
+careless - http://dbpedia.org/resource/Careless_(novel)
+slim - http://dbpedia.org/resource/Smart_Lander_for_Investigating_Moon
+fortnight - http://dbpedia.org/resource/Fortnight
+meat - http://dbpedia.org/resource/Meat
+tack - http://dbpedia.org/resource/Horse_tack
+freedom day - http://dbpedia.org/resource/New_York_City_school_boycott
+lw - http://dbpedia.org/resource/Left-wing_politics
+sparagus garden - http://dbpedia.org/resource/The_Sparagus_Garden
+rebecca - http://dbpedia.org/resource/Rebecca
+craving - http://dbpedia.org/resource/Food_craving
+consumption - http://dbpedia.org/resource/Consumerism
+asparagus plant - http://dbpedia.org/resource/Asparagus
+root - http://dbpedia.org/resource/Root
+fruit - http://dbpedia.org/resource/Fruit
+lw - http://dbpedia.org/resource/Left-wing_politics
+wat - http://dbpedia.org/resource/Wat
+marital sex - http://dbpedia.org/resource/Religion_and_sexuality
+coil - http://dbpedia.org/resource/Solenoid
+bit - http://dbpedia.org/resource/Sketch_comedy
+heart - http://dbpedia.org/resource/Heart_(symbol)
+tavern - http://dbpedia.org/resource/Pub
+feast day - http://dbpedia.org/resource/Calendar_of_saints
+faith - http://dbpedia.org/resource/Christianity
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+hima - http://dbpedia.org/resource/Hima_(environmental_protection)
+stomach - http://dbpedia.org/resource/Abdomen
+lw - http://dbpedia.org/resource/Left-wing_politics
+lancashire - http://dbpedia.org/resource/Lancashire
+wedding - http://dbpedia.org/resource/Wedding
+bride - http://dbpedia.org/resource/Bride
+appetite - http://dbpedia.org/resource/Appetite
+wedding - http://dbpedia.org/resource/Wedding
+arthur - http://dbpedia.org/resource/King_Arthur
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+gesture - http://dbpedia.org/resource/Gesture
+cold meat - http://dbpedia.org/resource/Lunch_meat
+wine cellar - http://dbpedia.org/resource/Wine_cellar
+wedding - http://dbpedia.org/resource/Wedding
+hospitality - http://dbpedia.org/resource/Hospitality
+gesture - http://dbpedia.org/resource/Gesture
+hospitality - http://dbpedia.org/resource/Hospitality
+prepare - http://dbpedia.org/resource/PREPARE
+food - http://dbpedia.org/resource/Food
+hospitality - http://dbpedia.org/resource/Hospitality
+witchcraft - http://dbpedia.org/resource/Witchcraft
+contamination - http://dbpedia.org/resource/Foodborne_illness
+hospitality - http://dbpedia.org/resource/Hospitality
+wedding party - http://dbpedia.org/resource/Wedding_reception
+medley - http://dbpedia.org/resource/Abbey_Road
+drunkenness - http://dbpedia.org/resource/Alcoholism
+shuffle - http://dbpedia.org/resource/Shuffling
+lw - http://dbpedia.org/resource/Left-wing_politics
+family - http://dbpedia.org/resource/Family
+love - http://dbpedia.org/resource/Love
+stable - http://dbpedia.org/resource/Stable
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+love - http://dbpedia.org/resource/Love
+mall - http://dbpedia.org/resource/Shopping_mall
+nose - http://dbpedia.org/resource/Horse_length
+lw - http://dbpedia.org/resource/Left-wing_politics
+straw - http://dbpedia.org/resource/Straw
+clear message - http://dbpedia.org/resource/Plaintext
+harmony - http://dbpedia.org/resource/Harmony
+wedding - http://dbpedia.org/resource/Wedding
+piper - http://dbpedia.org/resource/Bagpipes
+mall - http://dbpedia.org/resource/Shopping_mall
+dance - http://dbpedia.org/resource/Dance
+bewitch - http://dbpedia.org/resource/Bewitch
+valiant - http://dbpedia.org/resource/Valiant_Comics
+hospitality - http://dbpedia.org/resource/Hospitality
+food - http://dbpedia.org/resource/Food
+bride - http://dbpedia.org/resource/Bride
+groom - http://dbpedia.org/resource/Bridegroom
+witchcraft - http://dbpedia.org/resource/Witchcraft
+social structure - http://dbpedia.org/resource/Social_structure
+neighbourhood - http://dbpedia.org/resource/Neighbourhood
+marriage family - http://dbpedia.org/resource/Marriage_group
+parody - http://dbpedia.org/resource/Satire
+patriarchal - http://dbpedia.org/resource/Patriarchy
+hospitality - http://dbpedia.org/resource/Hospitality
+mistress - http://dbpedia.org/resource/Affair
+lw - http://dbpedia.org/resource/Left-wing_politics
+robin hood - http://dbpedia.org/resource/Robin_Hood
+rural - http://dbpedia.org/resource/Rural_area
+margaret johnson - http://dbpedia.org/resource/Margaret_Johnson
+jennet - http://dbpedia.org/resource/Jennet
+mistress - http://dbpedia.org/resource/Affair
+food - http://dbpedia.org/resource/Food
+kidnap - http://dbpedia.org/resource/Kidnapping
+mistress - http://dbpedia.org/resource/Affair
+horse - http://dbpedia.org/resource/Horse
+food - http://dbpedia.org/resource/Food
+chimney - http://dbpedia.org/resource/Chimney
+rope - http://dbpedia.org/resource/Rope
+human - http://dbpedia.org/resource/Human
+sirloin - http://dbpedia.org/resource/Sirloin_steak
+roast - http://dbpedia.org/resource/Roasting
+bottle - http://dbpedia.org/resource/Bottle
+wine - http://dbpedia.org/resource/Wine
+bride - http://dbpedia.org/resource/Bride
+groom - http://dbpedia.org/resource/Bridegroom
+vex - http://dbpedia.org/resource/VEX_Robotics_Competition
+vomit - http://dbpedia.org/resource/Vomiting
+gall - http://dbpedia.org/resource/Gall
+wedding - http://dbpedia.org/resource/Wedding
+lw - http://dbpedia.org/resource/Left-wing_politics
+food - http://dbpedia.org/resource/Food
+lw - http://dbpedia.org/resource/Left-wing_politics
+lw - http://dbpedia.org/resource/Left-wing_politics
+wedding party - http://dbpedia.org/resource/Wedding_reception
+food - http://dbpedia.org/resource/Food
+dance - http://dbpedia.org/resource/Dance
+edmund robinson - http://dbpedia.org/resource/Edmund_Robinson
+gossip - http://dbpedia.org/resource/Gossip
+grace - http://dbpedia.org/resource/Divine_grace
+infanticide - http://dbpedia.org/resource/Infanticide
+cannibalism - http://dbpedia.org/resource/Cannibalism
+transport - http://dbpedia.org/resource/Transport
+grace - http://dbpedia.org/resource/Divine_grace
+sabbat - http://dbpedia.org/resource/Witches'_Sabbath
+dance - http://dbpedia.org/resource/Dance
+sexual relation - http://dbpedia.org/resource/Human_sexual_activity
+paedophilia - http://dbpedia.org/resource/Pedophilia
+wedding - http://dbpedia.org/resource/Wedding
+wedding - http://dbpedia.org/resource/Wedding
+laughter - http://dbpedia.org/resource/Laughter
+music - http://dbpedia.org/resource/Music
+solidarity - http://dbpedia.org/resource/Solidarity
+sexual activity - http://dbpedia.org/resource/Sexual_intercourse
+codpiece - http://dbpedia.org/resource/Codpiece
+horseman - http://dbpedia.org/resource/Four_Horsemen_of_the_Apocalypse
+witchcraft - http://dbpedia.org/resource/Witchcraft
+fear - http://dbpedia.org/resource/Fear
+lw - http://dbpedia.org/resource/Left-wing_politics
+gentleman - http://dbpedia.org/resource/Gentry
+arthur - http://dbpedia.org/resource/King_Arthur
+bantam - http://dbpedia.org/resource/Bantamweight
+illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
+mistress - http://dbpedia.org/resource/Affair
+penalty - http://dbpedia.org/resource/Penalty_shot
+curse - http://dbpedia.org/resource/Curse
+lw - http://dbpedia.org/resource/Left-wing_politics
+gentleman - http://dbpedia.org/resource/Gentry
+escutcheon - http://dbpedia.org/resource/Escutcheon_(heraldry)
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+hospitality - http://dbpedia.org/resource/Hospitality
+social convention - http://dbpedia.org/resource/Convention_(norm)
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+bastard - http://dbpedia.org/resource/Profanity
+paternity - http://dbpedia.org/resource/Father
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+patriarchal - http://dbpedia.org/resource/Patriarchy
+wise child - http://dbpedia.org/resource/Wise_Child
+paternity - http://dbpedia.org/resource/Father
+echo - http://dbpedia.org/resource/Glossary_of_music_terminology
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+wedding - http://dbpedia.org/resource/Wedding
+codpiece - http://dbpedia.org/resource/Codpiece
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+impotent - http://dbpedia.org/resource/Erectile_dysfunction
+reproduction - http://dbpedia.org/resource/Reproduction
+mistress - http://dbpedia.org/resource/Affair
+family - http://dbpedia.org/resource/Family
+horse - http://dbpedia.org/resource/Horse
+gentleman - http://dbpedia.org/resource/Gentry
+ladder - http://dbpedia.org/resource/Ladder
+pedant - http://dbpedia.org/resource/Pedant
+tailor - http://dbpedia.org/resource/Tailor
+groom - http://dbpedia.org/resource/Bridegroom
+laughter - http://dbpedia.org/resource/Laughter
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+grin - http://dbpedia.org/resource/Nils_Lofgren
+angry guest - http://dbpedia.org/resource/Angry_Guest
+bear - http://dbpedia.org/resource/Bear
+lw - http://dbpedia.org/resource/Left-wing_politics
+bastard - http://dbpedia.org/resource/Profanity
+false premise - http://dbpedia.org/resource/False_premise
+soldier - http://dbpedia.org/resource/Soldier
+violence - http://dbpedia.org/resource/Violence
+maim - http://dbpedia.org/resource/Mutilation
+mistress - http://dbpedia.org/resource/Affair
+wedding ring - http://dbpedia.org/resource/Wedding_ring
+witchcraft - http://dbpedia.org/resource/Witchcraft
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+codpiece - http://dbpedia.org/resource/Codpiece
+family - http://dbpedia.org/resource/Family
+recall - http://dbpedia.org/resource/Product_recall
+curse - http://dbpedia.org/resource/Curse
+lw - http://dbpedia.org/resource/Left-wing_politics
+gregory point - http://dbpedia.org/resource/Gregory_Point
+lw - http://dbpedia.org/resource/Left-wing_politics
+constable - http://dbpedia.org/resource/Constable
+mistress - http://dbpedia.org/resource/Affair
+mall - http://dbpedia.org/resource/Shopping_mall
+meg johnson - http://dbpedia.org/resource/Meg_Johnson
+witchcraft - http://dbpedia.org/resource/Witchcraft
+bantam - http://dbpedia.org/resource/Bantamweight
+bastardy - http://dbpedia.org/resource/Royal_bastard
+apparition - http://dbpedia.org/resource/Ghost
+lw - http://dbpedia.org/resource/Left-wing_politics
+bantam - http://dbpedia.org/resource/Bantamweight
+reserve - http://dbpedia.org/resource/Nature_reserve
+fear - http://dbpedia.org/resource/Fear
+devil - http://dbpedia.org/resource/Devil
+good question - http://dbpedia.org/resource/Good_Question
+lw - http://dbpedia.org/resource/Left-wing_politics
+lancashire - http://dbpedia.org/resource/Lancashire
+gentleman - http://dbpedia.org/resource/Gentry
+witchcraft - http://dbpedia.org/resource/Witchcraft
+comedy - http://dbpedia.org/resource/Comedy
+bantam - http://dbpedia.org/resource/Bantamweight
+bait - http://dbpedia.org/resource/Nonsense
+arthur - http://dbpedia.org/resource/King_Arthur
+witchcraft - http://dbpedia.org/resource/Witchcraft
+bait - http://dbpedia.org/resource/Nonsense
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+bastard - http://dbpedia.org/resource/Profanity
+silent - http://dbpedia.org/resource/Silent_film
+bantam - http://dbpedia.org/resource/Bantamweight
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+wedding - http://dbpedia.org/resource/Wedding
+bantam - http://dbpedia.org/resource/Bantamweight
+arthur - http://dbpedia.org/resource/King_Arthur
+wedding cake - http://dbpedia.org/resource/Wedding_cake
+lw - http://dbpedia.org/resource/Left-wing_politics
+repercussion - http://dbpedia.org/resource/Repercussion_(album)
+gentleman - http://dbpedia.org/resource/Gentry
+sardonic - http://dbpedia.org/resource/Sardonicism
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+lancashire bagpipe - http://dbpedia.org/resource/Lancashire_bagpipe
+lw - http://dbpedia.org/resource/Left-wing_politics
+wail - http://dbpedia.org/resource/Wail_al-Shehri
+reel - http://dbpedia.org/resource/Bird_vocalization
+piper - http://dbpedia.org/resource/Bagpipes
+mall - http://dbpedia.org/resource/Shopping_mall
+wedding - http://dbpedia.org/resource/Wedding
+witchery - http://dbpedia.org/resource/Witchery
+posset - http://dbpedia.org/resource/Posset
+gentleman - http://dbpedia.org/resource/Gentry
+love - http://dbpedia.org/resource/Love
+arthur - http://dbpedia.org/resource/King_Arthur
+bantam - http://dbpedia.org/resource/Bantamweight
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+arthur - http://dbpedia.org/resource/King_Arthur
+bantam - http://dbpedia.org/resource/Bantamweight
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+lw - http://dbpedia.org/resource/Left-wing_politics
+arthur - http://dbpedia.org/resource/King_Arthur
+exorcise - http://dbpedia.org/resource/Exorcism
+bantam - http://dbpedia.org/resource/Bantamweight
+narrator - http://dbpedia.org/resource/Narration
+neighbourhood - http://dbpedia.org/resource/Neighbourhood
+violence - http://dbpedia.org/resource/Violence
+parnell - http://dbpedia.org/resource/Charles_Stewart_Parnell
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+lw - http://dbpedia.org/resource/Left-wing_politics
+echo - http://dbpedia.org/resource/Glossary_of_music_terminology
+hospitality - http://dbpedia.org/resource/Hospitality
+lw - http://dbpedia.org/resource/Left-wing_politics
+arthur - http://dbpedia.org/resource/King_Arthur
+signal - http://dbpedia.org/resource/Signalling_theory
+neighbourhood - http://dbpedia.org/resource/Neighbourhood
+gossip - http://dbpedia.org/resource/Gossip
+news - http://dbpedia.org/resource/News_media
+lw - http://dbpedia.org/resource/Left-wing_politics
+news - http://dbpedia.org/resource/News_media
+jig - http://dbpedia.org/resource/Jig
+gentleman - http://dbpedia.org/resource/Gentry
+prig - http://dbpedia.org/resource/Prig
+arthur - http://dbpedia.org/resource/King_Arthur
+bantam - http://dbpedia.org/resource/Bantamweight
+lw - http://dbpedia.org/resource/Left-wing_politics
+skimmington - http://dbpedia.org/resource/Charivari
+lw - http://dbpedia.org/resource/Left-wing_politics
+bride - http://dbpedia.org/resource/Bride
+groom - http://dbpedia.org/resource/Bridegroom
+skimmington - http://dbpedia.org/resource/Charivari
+prepare - http://dbpedia.org/resource/PREPARE
+spirit - http://dbpedia.org/resource/Soul
+spirit - http://dbpedia.org/resource/Soul
+violence - http://dbpedia.org/resource/Violence
+strike - http://dbpedia.org/resource/Strike_action
+lw - http://dbpedia.org/resource/Left-wing_politics
+arthur - http://dbpedia.org/resource/King_Arthur
+lw - http://dbpedia.org/resource/Left-wing_politics
+bantam - http://dbpedia.org/resource/Bantamweight
+bantam - http://dbpedia.org/resource/Bantamweight
+devil - http://dbpedia.org/resource/Devil
+relief - http://dbpedia.org/resource/Welfare
+lw - http://dbpedia.org/resource/Left-wing_politics
+lw - http://dbpedia.org/resource/Left-wing_politics
+lw - http://dbpedia.org/resource/Left-wing_politics
+lw - http://dbpedia.org/resource/Left-wing_politics
+bantam - http://dbpedia.org/resource/Bantamweight
+bantam - http://dbpedia.org/resource/Bantamweight
+bait - http://dbpedia.org/resource/Nonsense
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+rational - http://dbpedia.org/resource/Reason
+superstition - http://dbpedia.org/resource/Folklore
+folklore - http://dbpedia.org/resource/Folklore
+playwright - http://dbpedia.org/resource/Playwright
+light - http://dbpedia.org/resource/Light
+incline - http://dbpedia.org/resource/Slope
+magic - http://dbpedia.org/resource/Witchcraft
+comedy - http://dbpedia.org/resource/Comedy
+witchcraft - http://dbpedia.org/resource/Witchcraft
+soldier - http://dbpedia.org/resource/Soldier
+good excuse - http://dbpedia.org/resource/Good_Excuse
+gentleman - http://dbpedia.org/resource/Gentry
+love - http://dbpedia.org/resource/Love
+magic - http://dbpedia.org/resource/Witchcraft
+scepticism - http://dbpedia.org/resource/Skepticism
+judge - http://dbpedia.org/resource/Judge
+credulity - http://dbpedia.org/resource/Credulity
+consciousness - http://dbpedia.org/resource/Consciousness
+gullibility - http://dbpedia.org/resource/Gullibility
+fun fun - http://dbpedia.org/resource/Fun_Fun
+credulity - http://dbpedia.org/resource/Credulity
+suspension - http://dbpedia.org/resource/Suspension_(vehicle)
+gentleman - http://dbpedia.org/resource/Gentry
+permeate - http://dbpedia.org/resource/Whey
+lancashire - http://dbpedia.org/resource/Lancashire
+witch trial - http://dbpedia.org/resource/Witch-hunt
+maleficent - http://dbpedia.org/resource/Maleficent
+witchcraft - http://dbpedia.org/resource/Witchcraft
+lancashire - http://dbpedia.org/resource/Lancashire
+heywood - http://dbpedia.org/resource/Thomas_Heywood
+comedy - http://dbpedia.org/resource/Comedy
+emperor - http://dbpedia.org/resource/Emperor
+fabula - http://dbpedia.org/resource/Fabula_and_syuzhet
+fable - http://dbpedia.org/resource/Fable
+witchcraft - http://dbpedia.org/resource/Witchcraft
+berry - http://dbpedia.org/resource/Berry
+bewitch - http://dbpedia.org/resource/Bewitch
+medieval - http://dbpedia.org/resource/Middle_Ages
+renaissance - http://dbpedia.org/resource/Renaissance
+drama - http://dbpedia.org/resource/Drama
+playhouse - http://dbpedia.org/resource/Theatre
+berry - http://dbpedia.org/resource/Berry
+james sharpe - http://dbpedia.org/resource/James_Sharpe_(Dutch_politician)
+hamish hamilton - http://dbpedia.org/resource/Hamish_Hamilton
+gibson - http://dbpedia.org/resource/Gibson
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+witches - http://dbpedia.org/resource/Witchcraft
+witchcraft - http://dbpedia.org/resource/Witchcraft
+routledge - http://dbpedia.org/resource/Routledge
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+robert poole - http://dbpedia.org/resource/Robert_Poole_(politician)
+manchester - http://dbpedia.org/resource/Manchester
+manchester university press - http://dbpedia.org/resource/Manchester_University_Press
+gibson - http://dbpedia.org/resource/Gibson
+witchcraft - http://dbpedia.org/resource/Witchcraft
+early english - http://dbpedia.org/resource/Middle_Ages
+witches - http://dbpedia.org/resource/Witchcraft
+routledge - http://dbpedia.org/resource/Routledge
+witchcraft - http://dbpedia.org/resource/Witchcraft
+charity - http://dbpedia.org/resource/Alms
+reginald scot - http://dbpedia.org/resource/Reginald_Scot
+keith thomas - http://dbpedia.org/resource/Keith_Thomas_(record_producer)
+alan macfarlane - http://dbpedia.org/resource/Alan_Macfarlane
+poverty - http://dbpedia.org/resource/Poverty
+reprisal - http://dbpedia.org/resource/Reprisal
+conscience - http://dbpedia.org/resource/Conscience
+gibson - http://dbpedia.org/resource/Gibson
+witchcraft - http://dbpedia.org/resource/Witchcraft
+james sharpe - http://dbpedia.org/resource/James_Sharpe_(Dutch_politician)
+witchcraft - http://dbpedia.org/resource/Witchcraft
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+harlow - http://dbpedia.org/resource/Jean_Harlow
+longman - http://dbpedia.org/resource/Longman
+thomas potts - http://dbpedia.org/resource/Thomas_Potts
+witches - http://dbpedia.org/resource/Witchcraft
+gibson - http://dbpedia.org/resource/Gibson
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+witches - http://dbpedia.org/resource/Witchcraft
+lumby - http://dbpedia.org/resource/South_Milford
+evil - http://dbpedia.org/resource/Evil
+family - http://dbpedia.org/resource/Family
+pendle - http://dbpedia.org/resource/Pendle_witches
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+appendix - http://dbpedia.org/resource/Addendum
+john webster - http://dbpedia.org/resource/John_Webster
+witchcraft - http://dbpedia.org/resource/Witchcraft
+deceiver - http://dbpedia.org/resource/Foreigner_universe
+impostor - http://dbpedia.org/resource/Romanov_impostors
+diver - http://dbpedia.org/resource/Underwater_diving
+passive - http://dbpedia.org/resource/BDSM
+delusion - http://dbpedia.org/resource/Delusion
+melancholy - http://dbpedia.org/resource/Major_depressive_disorder
+devil - http://dbpedia.org/resource/Devil
+angel - http://dbpedia.org/resource/Angel
+spirit - http://dbpedia.org/resource/Soul
+truth - http://dbpedia.org/resource/Truth
+apparition - http://dbpedia.org/resource/Ghost
+spirit - http://dbpedia.org/resource/Soul
+wing - http://dbpedia.org/resource/Wing
+eebo - http://dbpedia.org/resource/Text_Creation_Partnership
+gentleman - http://dbpedia.org/resource/Gentry
+lancashire - http://dbpedia.org/resource/Lancashire
+family - http://dbpedia.org/resource/Family
+mason - http://dbpedia.org/resource/Freemasonry
+gentleman - http://dbpedia.org/resource/Gentry
+boggart - http://dbpedia.org/resource/Boggart
+goblin - http://dbpedia.org/resource/Goblin
+sprite - http://dbpedia.org/resource/Naiad
+violence - http://dbpedia.org/resource/Violence
+bogy - http://dbpedia.org/resource/Bogy
+bugbear - http://dbpedia.org/resource/Bugbear
+hobgoblin - http://dbpedia.org/resource/Hobgoblin
+croft - http://dbpedia.org/resource/Crofting
+tillage - http://dbpedia.org/resource/Tillage
+pasture - http://dbpedia.org/resource/Ranch
+arable land - http://dbpedia.org/resource/Agriculture
+n1 - http://dbpedia.org/resource/Group_N
+n1 - http://dbpedia.org/resource/Group_N
+joist - http://dbpedia.org/resource/James_Joyce
+beam - http://dbpedia.org/resource/Laser
+timber - http://dbpedia.org/resource/Tree
+girder - http://dbpedia.org/resource/Girder
+cow - http://dbpedia.org/resource/Cattle
+byre - http://dbpedia.org/resource/Barn
+cattle - http://dbpedia.org/resource/Cattle
+stall - http://dbpedia.org/resource/Market_stall
+v2 - http://dbpedia.org/resource/Visual_cortex
+witchcraft - http://dbpedia.org/resource/Witchcraft
+magic - http://dbpedia.org/resource/Witchcraft
+thorn - http://dbpedia.org/resource/Crataegus_monogyna
+pin - http://dbpedia.org/resource/Pin
+dagger - http://dbpedia.org/resource/Dagger
+voodoo - http://dbpedia.org/resource/Haitian_Vodou
+magic - http://dbpedia.org/resource/Witchcraft
+magic - http://dbpedia.org/resource/Witchcraft
+narrative - http://dbpedia.org/resource/Narration
+magic - http://dbpedia.org/resource/Witchcraft
+windsor - http://dbpedia.org/resource/Windsor_Castle
+murder - http://dbpedia.org/resource/Murder
+wax - http://dbpedia.org/resource/Wax
+finger - http://dbpedia.org/resource/The_finger
+longford - http://dbpedia.org/resource/County_Longford
+maid - http://dbpedia.org/resource/Virginity
+switcher - http://dbpedia.org/resource/Switcher
+thorn - http://dbpedia.org/resource/Crataegus_monogyna
+breast - http://dbpedia.org/resource/Poultry
+heart - http://dbpedia.org/resource/Heart_(symbol)
+space - http://dbpedia.org/resource/Space
+die - http://dbpedia.org/resource/Death
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+george - http://dbpedia.org/resource/George_(band)
+eton - http://dbpedia.org/resource/Eton_College
+george foster - http://dbpedia.org/resource/George_Eulas_Foster
+variance - http://dbpedia.org/resource/Variance
+house mother - http://dbpedia.org/resource/Ball_culture
+evil spirit - http://dbpedia.org/resource/Demon
+plague - http://dbpedia.org/resource/Bubonic_plague
+thrust - http://dbpedia.org/resource/Rocket
+hawthorn - http://dbpedia.org/resource/Crataegus_monogyna
+heart - http://dbpedia.org/resource/Heart_(symbol)
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+rockingham - http://dbpedia.org/resource/Rockingham_Speedway
+margaret - http://dbpedia.org/resource/Margaret_of_Anjou
+notorious - http://dbpedia.org/resource/Notorious_(2009_film)
+witches - http://dbpedia.org/resource/Witchcraft
+windsor - http://dbpedia.org/resource/Windsor_Castle
+arraign - http://dbpedia.org/resource/Arraignment
+barbara rosen - http://dbpedia.org/resource/Barbara_Rosen
+witchcraft - http://dbpedia.org/resource/Witchcraft
+amherst university - http://dbpedia.org/resource/University_of_Massachusetts_Amherst
+massachusetts - http://dbpedia.org/resource/Massachusetts
+witches - http://dbpedia.org/resource/Witchcraft
+northhamptonshire - http://dbpedia.org/resource/Northamptonshire
+evil - http://dbpedia.org/resource/Evil
+bewitch - http://dbpedia.org/resource/Bewitch
+mistress - http://dbpedia.org/resource/Affair
+bewitch - http://dbpedia.org/resource/Bewitch
+laundry - http://dbpedia.org/resource/Laundry
+maid - http://dbpedia.org/resource/Virginity
+mistress - http://dbpedia.org/resource/Affair
+smock - http://dbpedia.org/resource/Chemise
+toad - http://dbpedia.org/resource/Toad
+snake - http://dbpedia.org/resource/Snake
+mistress - http://dbpedia.org/resource/Affair
+hobgoblin - http://dbpedia.org/resource/Hobgoblin
+gentlewoman - http://dbpedia.org/resource/Landed_gentry
+stout - http://dbpedia.org/resource/Stout
+linen - http://dbpedia.org/resource/Linen
+foul - http://dbpedia.org/resource/Baseball
+eye - http://dbpedia.org/resource/Eye
+linen - http://dbpedia.org/resource/Linen
+mistress - http://dbpedia.org/resource/Affair
+teat - http://dbpedia.org/resource/Nipple
+guilt - http://dbpedia.org/resource/Original_sin
+unbiased - http://dbpedia.org/resource/Bias
+court - http://dbpedia.org/resource/Royal_court
+plea - http://dbpedia.org/resource/Plea_bargain
+reginald scot - http://dbpedia.org/resource/Reginald_Scot
+witchcraft - http://dbpedia.org/resource/Witchcraft
+arundel - http://dbpedia.org/resource/Arundel
+centaur - http://dbpedia.org/resource/Centaur
+recount - http://dbpedia.org/resource/Election_recount
+kentish - http://dbpedia.org/resource/Kent
+baker - http://dbpedia.org/resource/Baking
+stone street - http://dbpedia.org/resource/Watling_Street
+romney - http://dbpedia.org/resource/Mitt_Romney
+heart - http://dbpedia.org/resource/Heart_(symbol)
+wax - http://dbpedia.org/resource/Wax
+pin - http://dbpedia.org/resource/Pin
+image order - http://dbpedia.org/resource/Image_and_object_order_rendering
+jennet - http://dbpedia.org/resource/Jennet
+latin - http://dbpedia.org/resource/Latin
+latin - http://dbpedia.org/resource/Latin
+scribe - http://dbpedia.org/resource/Scribe
+scribe - http://dbpedia.org/resource/Scribe
+sharpe - http://dbpedia.org/resource/Richard_Bowdler_Sharpe
+witchcraft - http://dbpedia.org/resource/Witchcraft
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+british library - http://dbpedia.org/resource/British_Library
+additional mss - http://dbpedia.org/resource/Additional_manuscripts
+north berwick - http://dbpedia.org/resource/North_Berwick
+case report - http://dbpedia.org/resource/Case_report
+news - http://dbpedia.org/resource/News_media
+scotland - http://dbpedia.org/resource/Scotland
+agnes - http://dbpedia.org/resource/Agnes_of_Rome
+james vi - http://dbpedia.org/resource/James_VI_and_I
+agnes sampson - http://dbpedia.org/resource/Agnes_Sampson
+gillis duncan - http://dbpedia.org/resource/North_Berwick_witch_trials
+christen - http://dbpedia.org/resource/Infant_baptism
+joint body - http://dbpedia.org/resource/Joint_Body
+sea witch - http://dbpedia.org/resource/Sea_witch_(folklore)
+sail - http://dbpedia.org/resource/Sail
+denmark - http://dbpedia.org/resource/Denmark
+wedding - http://dbpedia.org/resource/Wedding
+bear - http://dbpedia.org/resource/Bear
+queen - http://dbpedia.org/resource/Queen_consort
+scotland - http://dbpedia.org/resource/Scotland
+anna - http://dbpedia.org/resource/Indian_anna
+witchcraft - http://dbpedia.org/resource/Witchcraft
+alison - http://dbpedia.org/resource/Alison_DiLaurentis
+findlay - http://dbpedia.org/resource/University_of_Findlay
+spiritual - http://dbpedia.org/resource/Soul
+lancashire - http://dbpedia.org/resource/Lancashire
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+anthony harris - http://dbpedia.org/resource/Anthony_Charles_Harris
+witchcraft - http://dbpedia.org/resource/Witchcraft
+magic - http://dbpedia.org/resource/Witchcraft
+english drama - http://dbpedia.org/resource/English_Renaissance_theatre
+manchester - http://dbpedia.org/resource/Manchester
+manchester university press - http://dbpedia.org/resource/Manchester_University_Press
+calendar - http://dbpedia.org/resource/Old_Style_and_New_Style_dates
+harvey - http://dbpedia.org/resource/Neil_Harvey
+modern medicine - http://dbpedia.org/resource/Medicine
+heart - http://dbpedia.org/resource/Heart_(symbol)
+blood - http://dbpedia.org/resource/Blood
+intimate examination - http://dbpedia.org/resource/Well-woman_examination
+midwife - http://dbpedia.org/resource/Midwife
+harvey - http://dbpedia.org/resource/Neil_Harvey
+physician - http://dbpedia.org/resource/Physician
+morbid curiosity - http://dbpedia.org/resource/Morbid_Curiosity_(magazine)
+berry - http://dbpedia.org/resource/Berry
+playhouse - http://dbpedia.org/resource/Theatre
+york - http://dbpedia.org/resource/York
+ams press - http://dbpedia.org/resource/Augustan_Reprint_Society
+john swain - http://dbpedia.org/resource/John_Swain
+economy - http://dbpedia.org/resource/Economy
+lancashire - http://dbpedia.org/resource/Lancashire
+witches - http://dbpedia.org/resource/Witchcraft
+esp - http://dbpedia.org/resource/Extrasensory_perception
+findlay - http://dbpedia.org/resource/University_of_Findlay
+spiritual - http://dbpedia.org/resource/Soul
+findlay - http://dbpedia.org/resource/University_of_Findlay
+spiritual - http://dbpedia.org/resource/Soul
+findlay - http://dbpedia.org/resource/University_of_Findlay
+spiritual - http://dbpedia.org/resource/Soul
+abingdon - http://dbpedia.org/resource/Abingdon-on-Thames
+rabbit warren - http://dbpedia.org/resource/Warren
+coney - http://dbpedia.org/resource/Rabbit
+pestle - http://dbpedia.org/resource/Mortar_and_pestle
+george - http://dbpedia.org/resource/George_(band)
+gregory zilboorg - http://dbpedia.org/resource/Gregory_Zilboorg
+renaissance - http://dbpedia.org/resource/Renaissance
+york - http://dbpedia.org/resource/York
+cooper square - http://dbpedia.org/resource/Cooper_Square
+william whately - http://dbpedia.org/resource/William_Whately
+bride - http://dbpedia.org/resource/Bride
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+doe - http://dbpedia.org/resource/Deer
+hell - http://dbpedia.org/resource/Hell
+william whately - http://dbpedia.org/resource/William_Whately
+preacher - http://dbpedia.org/resource/Sermon
+gods - http://dbpedia.org/resource/Greek_mythology
+imprint - http://dbpedia.org/resource/Bene_Gesserit
+thomas - http://dbpedia.org/resource/THOMAS
+pater noster - http://dbpedia.org/resource/Lord's_Prayer
+signe - http://dbpedia.org/resource/Signy
+talbot - http://dbpedia.org/resource/Talbot
+stc - http://dbpedia.org/resource/Sydney_Theatre_Company
+bodleian library - http://dbpedia.org/resource/Bodleian_Library
+eebo - http://dbpedia.org/resource/Text_Creation_Partnership
+stuart clark - http://dbpedia.org/resource/Stuart_Clark
+misrule - http://dbpedia.org/resource/Lord_of_Misrule
+witchcraft - http://dbpedia.org/resource/Witchcraft
+oldridge - http://dbpedia.org/resource/Oldridge
+routledge - http://dbpedia.org/resource/Routledge
+findlay - http://dbpedia.org/resource/University_of_Findlay
+spiritual - http://dbpedia.org/resource/Soul
+thomas heywood - http://dbpedia.org/resource/Thomas_Heywood
+richard brome - http://dbpedia.org/resource/Richard_Brome
+lancashire - http://dbpedia.org/resource/Lancashire
+medieval - http://dbpedia.org/resource/Middle_Ages
+modern studies - http://dbpedia.org/resource/Modern_Studies
+misrule - http://dbpedia.org/resource/Lord_of_Misrule
+misrule - http://dbpedia.org/resource/Lord_of_Misrule
+alison - http://dbpedia.org/resource/Alison_DiLaurentis
+findlay - http://dbpedia.org/resource/University_of_Findlay
+francis grose - http://dbpedia.org/resource/Francis_Grose
+tongue - http://dbpedia.org/resource/Language
+skimmington - http://dbpedia.org/resource/Charivari
+christina - http://dbpedia.org/resource/Christina_Aguilera
+bosco - http://dbpedia.org/resource/John_Bosco
+hedgerow - http://dbpedia.org/resource/Hedge
+sartorial - http://dbpedia.org/resource/Tailor
+subversion - http://dbpedia.org/resource/Subversion
+enclosure - http://dbpedia.org/resource/Enclosure
+early theatre - http://dbpedia.org/resource/Early_Theatre
+natalie zemon davis - http://dbpedia.org/resource/Natalie_Zemon_Davis
+disorder - http://dbpedia.org/resource/Mental_disorder
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+reversible - http://dbpedia.org/resource/Yaoi
+barbara babcock - http://dbpedia.org/resource/Barbara_Babcock
+ithaca - http://dbpedia.org/resource/Ithaca
+cornell university press - http://dbpedia.org/resource/Cornell_University
+richard brome - http://dbpedia.org/resource/Richard_Brome
+caroline - http://dbpedia.org/resource/English_literature
+manchester - http://dbpedia.org/resource/Manchester
+manchester university press - http://dbpedia.org/resource/Manchester_University_Press
+berry - http://dbpedia.org/resource/Berry
+playhouse - http://dbpedia.org/resource/Theatre
+findlay - http://dbpedia.org/resource/University_of_Findlay
+spiritual - http://dbpedia.org/resource/Soul
+henry burton - http://dbpedia.org/resource/Henry_Burton_(theologian)
+henry burton - http://dbpedia.org/resource/Henry_Burton_(theologian)
+felicity heal - http://dbpedia.org/resource/Felicity_Heal
+hospitality - http://dbpedia.org/resource/Hospitality
+early modern - http://dbpedia.org/resource/English_Renaissance_theatre
+george wheler - http://dbpedia.org/resource/George_Wheler_(travel_writer)
+protestant - http://dbpedia.org/resource/Protestantism
+monastery - http://dbpedia.org/resource/Monastery
+laser - http://dbpedia.org/resource/Laser
+article - http://dbpedia.org/resource/Falklands_War
+illusion - http://dbpedia.org/resource/Illusion
+false paternity - http://dbpedia.org/resource/Paternity_fraud
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+patriarchal - http://dbpedia.org/resource/Patriarchy
+hospitality - http://dbpedia.org/resource/Hospitality
+satiric - http://dbpedia.org/resource/Satire
+common hangman - http://dbpedia.org/resource/Executioner
+parliament - http://dbpedia.org/resource/Parliament_of_England
+joan thirsk - http://dbpedia.org/resource/Joan_Thirsk
+food - http://dbpedia.org/resource/Food
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+hambledon continuum - http://dbpedia.org/resource/Continuum_International_Publishing_Group
+thirsk - http://dbpedia.org/resource/Thirsk
+food - http://dbpedia.org/resource/Food
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+thirsk - http://dbpedia.org/resource/Thirsk
+food - http://dbpedia.org/resource/Food
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+thirsk - http://dbpedia.org/resource/Thirsk
+food - http://dbpedia.org/resource/Food
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+thirsk - http://dbpedia.org/resource/Thirsk
+food - http://dbpedia.org/resource/Food
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+thirsk - http://dbpedia.org/resource/Thirsk
+food - http://dbpedia.org/resource/Food
+early modern england - http://dbpedia.org/resource/Early_modern_Britain
+mushroom - http://dbpedia.org/resource/Mushroom
+mushroom - http://dbpedia.org/resource/Mushroom
+food - http://dbpedia.org/resource/Food
+charles read - http://dbpedia.org/resource/Charles_Read_(RAAF_officer)
+elizabethan - http://dbpedia.org/resource/Elizabeth_I_of_England
+jig - http://dbpedia.org/resource/Jig
+drama - http://dbpedia.org/resource/Drama
+york - http://dbpedia.org/resource/York
+dover - http://dbpedia.org/resource/Dover

@@ -1,0 +1,33 @@
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+native egyptian - http://dbpedia.org/resource/Ancient_Egyptian_religion
+persian - http://dbpedia.org/resource/Persian_language
+culture - http://dbpedia.org/resource/Culture
+sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
+sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
+saite period - http://dbpedia.org/resource/Twenty-sixth_Dynasty_of_Egypt
+persian occupation - http://dbpedia.org/resource/History_of_Persian_Egypt
+persian empire - http://dbpedia.org/resource/Achaemenid_Empire
+cambyses - http://dbpedia.org/resource/Cambyses_II
+dynasties - http://dbpedia.org/resource/Dynasty
+eighth dynasty - http://dbpedia.org/resource/Eighth_Dynasty_of_Egypt
+single - http://dbpedia.org/resource/Extended_play
+amyrtaeus - http://dbpedia.org/resource/Amyrtaeus
+persians - http://dbpedia.org/resource/Achaemenid_Empire
+monument - http://dbpedia.org/resource/Monument
+ninth dynasty - http://dbpedia.org/resource/Ninth_Dynasty_of_Egypt
+thirtieth dynasty - http://dbpedia.org/resource/Thirtieth_Dynasty_of_Egypt
+sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
+persians - http://dbpedia.org/resource/Achaemenid_Empire
+persian occupation - http://dbpedia.org/resource/History_of_Persian_Egypt
+343 bc - http://dbpedia.org/resource/343_BC
+achaemenid dynasty - http://dbpedia.org/resource/Achaemenid_Empire
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+alan - http://dbpedia.org/resource/Alan_Dawa_Dolma
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+ian - http://dbpedia.org/resource/Ian_Chappell
+shaw - http://dbpedia.org/resource/Shaw_(woodland)
+york - http://dbpedia.org/resource/York
+oxford university - http://dbpedia.org/resource/Oxford_University_Press
+pharaohs - http://dbpedia.org/resource/Pharaoh
+york - http://dbpedia.org/resource/York
+dover publications - http://dbpedia.org/resource/Dover_Publications

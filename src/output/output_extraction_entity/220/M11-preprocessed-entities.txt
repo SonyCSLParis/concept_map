@@ -1,0 +1,471 @@
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+human history - http://dbpedia.org/resource/History_of_the_world
+millennia - http://dbpedia.org/resource/Millennium
+british empire - http://dbpedia.org/resource/British_Empire
+landmass - http://dbpedia.org/resource/Landmass
+trans - http://dbpedia.org/resource/Transgender
+oceanic - http://dbpedia.org/resource/Oceanography
+portuguese - http://dbpedia.org/resource/Portugal
+westward - http://dbpedia.org/resource/Westward_Television
+columbus - http://dbpedia.org/resource/Christopher_Columbus
+henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+finance - http://dbpedia.org/resource/Finance
+bristol - http://dbpedia.org/resource/Bristol_board
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+henry - http://dbpedia.org/resource/Henry_(unit)
+investment - http://dbpedia.org/resource/Foreign_direct_investment
+royal navy - http://dbpedia.org/resource/Royal_Navy
+coastal defence - http://dbpedia.org/resource/Coastal_artillery
+maritime - http://dbpedia.org/resource/Freight_transport
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+mary - http://dbpedia.org/resource/Mary_II_of_England
+calais - http://dbpedia.org/resource/Calais
+clean slate - http://dbpedia.org/resource/Ficha_Limpa
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+historian - http://dbpedia.org/resource/Historian
+royal charter - http://dbpedia.org/resource/Royal_charter
+east india company - http://dbpedia.org/resource/East_India_Company
+navigator - http://dbpedia.org/resource/Navigation
+john hopkins - http://dbpedia.org/resource/John_Hopkins_(motorcyclist)
+westward - http://dbpedia.org/resource/Westward_Television
+monopoly - http://dbpedia.org/resource/Monopoly
+trans - http://dbpedia.org/resource/Transgender
+atlantic trade - http://dbpedia.org/resource/Atlantic_slave_trade
+sail - http://dbpedia.org/resource/Sail
+portuguese west africa - http://dbpedia.org/resource/Portuguese_Angola
+francis drake - http://dbpedia.org/resource/Francis_Drake
+slave - http://dbpedia.org/resource/History_of_slavery
+violence - http://dbpedia.org/resource/Violence
+spanish navy - http://dbpedia.org/resource/Spanish_Navy
+sailor - http://dbpedia.org/resource/Royal_Navy
+settlement - http://dbpedia.org/resource/Israeli_settlement
+drake - http://dbpedia.org/resource/Francis_Drake
+navigation - http://dbpedia.org/resource/Navigation
+hoard - http://dbpedia.org/resource/Hoarding
+pacific coast - http://dbpedia.org/resource/Pacific_Ocean
+maritime - http://dbpedia.org/resource/Freight_transport
+prey - http://dbpedia.org/resource/Predation
+colonisation - http://dbpedia.org/resource/Colonialism
+monopoly - http://dbpedia.org/resource/Monopoly
+charter - http://dbpedia.org/resource/Royal_charter
+settlement - http://dbpedia.org/resource/Israeli_settlement
+north america - http://dbpedia.org/resource/North_America
+tobacco plant - http://dbpedia.org/resource/Nicotiana
+virginia company - http://dbpedia.org/resource/Virginia_Company
+market - http://dbpedia.org/resource/Market_economy
+light - http://dbpedia.org/resource/Light_infantry
+coast - http://dbpedia.org/resource/East_Coast_of_the_United_States
+westward - http://dbpedia.org/resource/Westward_Television
+sustainable - http://dbpedia.org/resource/Sustainability
+plunder - http://dbpedia.org/resource/Looting
+region - http://dbpedia.org/resource/Region
+sugar cane - http://dbpedia.org/resource/Sugarcane
+cash crop - http://dbpedia.org/resource/Cash_crop
+tea - http://dbpedia.org/resource/Tea
+coffee - http://dbpedia.org/resource/Plantation
+sugar cane - http://dbpedia.org/resource/Sugarcane
+import - http://dbpedia.org/resource/International_trade
+slave - http://dbpedia.org/resource/History_of_slavery
+plantation - http://dbpedia.org/resource/Plantation_economy
+harbour - http://dbpedia.org/resource/Harbor
+prize fight - http://dbpedia.org/resource/Boxing
+region - http://dbpedia.org/resource/Region
+trade wind - http://dbpedia.org/resource/Trade_winds
+market - http://dbpedia.org/resource/Market_economy
+remarkable - http://dbpedia.org/resource/ReMarkable
+civil war - http://dbpedia.org/resource/Civil_war
+colony - http://dbpedia.org/resource/Crown_colony
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+wage - http://dbpedia.org/resource/Wage
+colony - http://dbpedia.org/resource/Crown_colony
+colony - http://dbpedia.org/resource/Crown_colony
+royalist - http://dbpedia.org/resource/Spanish_Empire
+dissident - http://dbpedia.org/resource/Dissident
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+train - http://dbpedia.org/resource/Rail_transport
+navy - http://dbpedia.org/resource/Royal_Navy
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+jamaica - http://dbpedia.org/resource/Jamaica
+hard time - http://dbpedia.org/resource/Hard_Time_(film)
+tropical - http://dbpedia.org/resource/Tropics
+disease - http://dbpedia.org/resource/Tropical_disease
+monarch - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
+james ii - http://dbpedia.org/resource/James_II_of_England
+catholicism - http://dbpedia.org/resource/Catholic_Church
+aristocracy - http://dbpedia.org/resource/Aristocracy
+law - http://dbpedia.org/resource/English_law
+dutch protestant - http://dbpedia.org/resource/Dutch_Reformed_Church
+william orange - http://dbpedia.org/resource/William_Orange
+glorious revolution - http://dbpedia.org/resource/Glorious_Revolution
+parliament - http://dbpedia.org/resource/Parliament_of_England
+herald - http://dbpedia.org/resource/Heraldry
+freedom - http://dbpedia.org/resource/Liberty
+britain - http://dbpedia.org/resource/British_Empire
+holland - http://dbpedia.org/resource/Holland
+financial institution - http://dbpedia.org/resource/Financial_institution
+government monopoly - http://dbpedia.org/resource/State_monopoly
+free trade - http://dbpedia.org/resource/Free_trade
+soldier - http://dbpedia.org/resource/British_Army
+coffer - http://dbpedia.org/resource/Coffer
+taxation - http://dbpedia.org/resource/Tax
+britain - http://dbpedia.org/resource/British_Empire
+naval supremacy - http://dbpedia.org/resource/Command_of_the_sea
+industrial revolution - http://dbpedia.org/resource/Industrial_Revolution
+urbanisation - http://dbpedia.org/resource/Urbanization
+colony - http://dbpedia.org/resource/Crown_colony
+north america - http://dbpedia.org/resource/North_America
+transport - http://dbpedia.org/resource/Transport
+british american - http://dbpedia.org/resource/British_Americans
+colony - http://dbpedia.org/resource/Crown_colony
+westward - http://dbpedia.org/resource/Westward_Television
+continent - http://dbpedia.org/resource/Africa
+displace - http://dbpedia.org/resource/Engine_displacement
+king george iii - http://dbpedia.org/resource/George_III_of_the_United_Kingdom
+native american tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+westward - http://dbpedia.org/resource/Westward_Television
+appalachian mountain range - http://dbpedia.org/resource/Appalachian_Mountains
+loan - http://dbpedia.org/resource/Usury
+colony - http://dbpedia.org/resource/Crown_colony
+defence - http://dbpedia.org/resource/Military
+taxation - http://dbpedia.org/resource/Tax
+american revolution - http://dbpedia.org/resource/American_Revolution
+revolutionary - http://dbpedia.org/resource/American_Revolution
+colony - http://dbpedia.org/resource/Crown_colony
+independent - http://dbpedia.org/resource/Independence
+revolution - http://dbpedia.org/resource/Revolution
+sugar - http://dbpedia.org/resource/Sugarcane
+cash crop - http://dbpedia.org/resource/Cash_crop
+britain - http://dbpedia.org/resource/British_Empire
+commodity market - http://dbpedia.org/resource/Commodity_market
+economic system - http://dbpedia.org/resource/Economy
+rely - http://dbpedia.org/resource/Rely_(brand)
+slave labour - http://dbpedia.org/resource/Slavery
+britain - http://dbpedia.org/resource/British_Empire
+abolitionist - http://dbpedia.org/resource/Slavery
+royal navy - http://dbpedia.org/resource/Royal_Navy
+maritime - http://dbpedia.org/resource/Freight_transport
+technology - http://dbpedia.org/resource/Technology
+industrial - http://dbpedia.org/resource/Industrialisation
+britain - http://dbpedia.org/resource/British_Empire
+market - http://dbpedia.org/resource/Market_economy
+concentration - http://dbpedia.org/resource/Internment
+trafalgar 1805 - http://dbpedia.org/resource/Battle_of_Trafalgar
+admiral horatio nelson - http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson
+horatio nelson - http://dbpedia.org/resource/Horatio_Nelson,_1st_Viscount_Nelson
+armada - http://dbpedia.org/resource/Spanish_Armada
+coast - http://dbpedia.org/resource/East_Coast_of_the_United_States
+cadiz - http://dbpedia.org/resource/Cádiz
+die - http://dbpedia.org/resource/Death
+sniper - http://dbpedia.org/resource/Sniper
+admiral - http://dbpedia.org/resource/Admiral
+uniform - http://dbpedia.org/resource/Uniform
+nelson - http://dbpedia.org/resource/Nelson_Muntz
+britain - http://dbpedia.org/resource/British_Empire
+colony - http://dbpedia.org/resource/Crown_colony
+great lakes - http://dbpedia.org/resource/Great_Lakes
+britain - http://dbpedia.org/resource/British_Empire
+dual role - http://dbpedia.org/resource/Dual_role
+maritime - http://dbpedia.org/resource/Freight_transport
+plantation - http://dbpedia.org/resource/Plantation_economy
+slave trader - http://dbpedia.org/resource/History_of_slavery
+transport - http://dbpedia.org/resource/Transport
+west africa - http://dbpedia.org/resource/West_Africa
+abolition movement - http://dbpedia.org/resource/Abolitionism
+fathom - http://dbpedia.org/resource/Fathom
+slave owner - http://dbpedia.org/resource/Slavery
+rebellious slave - http://dbpedia.org/resource/Rebellious_Slave
+slave - http://dbpedia.org/resource/History_of_slavery
+royal navy - http://dbpedia.org/resource/Royal_Navy
+west africa squadron - http://dbpedia.org/resource/West_Africa_Squadron
+slaver - http://dbpedia.org/resource/History_of_slavery
+britain - http://dbpedia.org/resource/British_Empire
+slavery - http://dbpedia.org/resource/History_of_slavery
+profitability - http://dbpedia.org/resource/Rate_of_profit
+caribbean region - http://dbpedia.org/resource/Caribbean
+east india company - http://dbpedia.org/resource/East_India_Company
+monopoly - http://dbpedia.org/resource/Monopoly
+tea - http://dbpedia.org/resource/Tea
+silk - http://dbpedia.org/resource/Silk_Road
+east india company - http://dbpedia.org/resource/East_India_Company
+opium - http://dbpedia.org/resource/Opium
+drug - http://dbpedia.org/resource/Illegal_drug_trade
+bribe - http://dbpedia.org/resource/Bribery
+flood - http://dbpedia.org/resource/Flood
+market - http://dbpedia.org/resource/Market_economy
+wage war - http://dbpedia.org/resource/Wage_War
+merchant - http://dbpedia.org/resource/Merchant
+royal navy - http://dbpedia.org/resource/Royal_Navy
+opium - http://dbpedia.org/resource/Opium
+swift - http://dbpedia.org/resource/Swift
+blockade - http://dbpedia.org/resource/Blockade
+concession - http://dbpedia.org/resource/Concessions_and_leases_in_international_relations
+yellow river - http://dbpedia.org/resource/Yellow_River
+hong kong - http://dbpedia.org/resource/British_Hong_Kong
+tea - http://dbpedia.org/resource/Tea
+ceylon - http://dbpedia.org/resource/British_Ceylon
+cash crop - http://dbpedia.org/resource/Cash_crop
+indian mutiny - http://dbpedia.org/resource/Indian_Rebellion_of_1857
+colony - http://dbpedia.org/resource/Crown_colony
+east india company - http://dbpedia.org/resource/East_India_Company
+british raj - http://dbpedia.org/resource/British_Raj
+infrastructure - http://dbpedia.org/resource/Infrastructure
+coast - http://dbpedia.org/resource/East_Coast_of_the_United_States
+himalayan region - http://dbpedia.org/resource/Himalayas
+defence - http://dbpedia.org/resource/Military
+invasion - http://dbpedia.org/resource/Invasion
+russian empire - http://dbpedia.org/resource/Russian_Empire
+power vacuum - http://dbpedia.org/resource/Power_vacuum
+middle east - http://dbpedia.org/resource/Middle_East
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+britain - http://dbpedia.org/resource/British_Empire
+russia - http://dbpedia.org/resource/Russia
+britain - http://dbpedia.org/resource/British_Empire
+west african - http://dbpedia.org/resource/Africa
+south african - http://dbpedia.org/resource/Union_of_South_Africa
+settlement - http://dbpedia.org/resource/Israeli_settlement
+cape town - http://dbpedia.org/resource/Cape_Town
+displace - http://dbpedia.org/resource/Engine_displacement
+boer - http://dbpedia.org/resource/Boer
+zulu - http://dbpedia.org/resource/Zulu_people
+boer republic - http://dbpedia.org/resource/Boer_Republics
+gold - http://dbpedia.org/resource/Gold_standard
+scramble - http://dbpedia.org/resource/Golf
+colony - http://dbpedia.org/resource/Crown_colony
+berlin conference - http://dbpedia.org/resource/Berlin_Conference
+continent - http://dbpedia.org/resource/Africa
+britain - http://dbpedia.org/resource/British_Empire
+climate - http://dbpedia.org/resource/Global_warming
+britain - http://dbpedia.org/resource/British_Empire
+suez - http://dbpedia.org/resource/Suez_Canal
+cecil rhodes - http://dbpedia.org/resource/Cecil_Rhodes
+british south africa company - http://dbpedia.org/resource/British_South_Africa_Company
+rhodesia - http://dbpedia.org/resource/Rhodesia
+britain - http://dbpedia.org/resource/British_Empire
+napoleonic wars - http://dbpedia.org/resource/Napoleonic_Wars
+archaically - http://dbpedia.org/resource/Archaism
+european army - http://dbpedia.org/resource/Common_Security_and_Defence_Policy
+technology - http://dbpedia.org/resource/Technology
+britain - http://dbpedia.org/resource/British_Empire
+rifle - http://dbpedia.org/resource/Rifle
+locomotive - http://dbpedia.org/resource/Steam_locomotive
+steam ship - http://dbpedia.org/resource/Steamship
+british army - http://dbpedia.org/resource/British_Armed_Forces
+ottomans - http://dbpedia.org/resource/Ottoman_(furniture)
+russia - http://dbpedia.org/resource/Russia
+crimean war - http://dbpedia.org/resource/Crimean_War
+britain - http://dbpedia.org/resource/British_Empire
+germany - http://dbpedia.org/resource/German_Empire
+industrialise - http://dbpedia.org/resource/Industrialisation
+britain - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+germany - http://dbpedia.org/resource/German_Empire
+british expeditionary force - http://dbpedia.org/resource/Persian_Gulf_campaign_of_1809
+german army - http://dbpedia.org/resource/German_Empire
+britain - http://dbpedia.org/resource/British_Empire
+imperial force - http://dbpedia.org/resource/Imperial_Army_(Holy_Roman_Empire)
+britain - http://dbpedia.org/resource/British_Empire
+volunteer - http://dbpedia.org/resource/Military_volunteer
+iraq - http://dbpedia.org/resource/Iraq
+transjordan - http://dbpedia.org/resource/Jordan
+palestine - http://dbpedia.org/resource/Mandatory_Palestine
+ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
+british rule - http://dbpedia.org/resource/British_Empire
+colony - http://dbpedia.org/resource/Crown_colony
+togoland - http://dbpedia.org/resource/Togoland
+cameroon - http://dbpedia.org/resource/Kamerun
+german east africa - http://dbpedia.org/resource/German_East_Africa
+west samoa - http://dbpedia.org/resource/Samoa
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
+colony - http://dbpedia.org/resource/Crown_colony
+colony - http://dbpedia.org/resource/Crown_colony
+pound - http://dbpedia.org/resource/Pound_sterling
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+lloyd george - http://dbpedia.org/resource/David_Lloyd_George
+colonies - http://dbpedia.org/resource/Crown_colony
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+imperial war cabinet - http://dbpedia.org/resource/Imperial_War_Cabinet
+statute - http://dbpedia.org/resource/Statute
+westminster - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+redefine - http://dbpedia.org/resource/Redefine_(Dragon_Fli_Empire_album)
+dominion - http://dbpedia.org/resource/Dominion
+autonomous community - http://dbpedia.org/resource/Autonomous_communities_of_Spain
+british empire - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+dominion - http://dbpedia.org/resource/Dominion
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+nationalist - http://dbpedia.org/resource/Nationalism
+dissent - http://dbpedia.org/resource/English_Dissenters
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+deflate - http://dbpedia.org/resource/DEFLATE
+concession - http://dbpedia.org/resource/Concessions_and_leases_in_international_relations
+violence - http://dbpedia.org/resource/Violence
+britain - http://dbpedia.org/resource/British_Empire
+colony - http://dbpedia.org/resource/Crown_colony
+australians - http://dbpedia.org/resource/Australians
+volunteer - http://dbpedia.org/resource/Military_volunteer
+neutrality - http://dbpedia.org/resource/Neutral_country
+volunteer - http://dbpedia.org/resource/Military_volunteer
+imperial force - http://dbpedia.org/resource/Imperial_Army_(Holy_Roman_Empire)
+colony - http://dbpedia.org/resource/Crown_colony
+american army - http://dbpedia.org/resource/Continental_Army
+loan - http://dbpedia.org/resource/Usury
+britain - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+banker - http://dbpedia.org/resource/Bank
+creditor - http://dbpedia.org/resource/Creditor
+dollar - http://dbpedia.org/resource/Dollar
+decolonisation - http://dbpedia.org/resource/British_Empire
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+atlantic charter - http://dbpedia.org/resource/Atlantic_Charter
+aims - http://dbpedia.org/resource/African_Institute_for_Mathematical_Sciences
+britain - http://dbpedia.org/resource/British_Empire
+sake - http://dbpedia.org/resource/Sake
+continent - http://dbpedia.org/resource/Africa
+soviet union - http://dbpedia.org/resource/Soviet_Union
+equilibrium - http://dbpedia.org/resource/Economic_equilibrium
+global power - http://dbpedia.org/resource/Great_power
+britain - http://dbpedia.org/resource/British_Empire
+disengage - http://dbpedia.org/resource/Disengage_(album)
+colony - http://dbpedia.org/resource/Crown_colony
+stable - http://dbpedia.org/resource/Stable
+communist government - http://dbpedia.org/resource/Soviet_Union
+haste - http://dbpedia.org/resource/Haste_(Han)_station
+hindu - http://dbpedia.org/resource/Hindus
+muslim league - http://dbpedia.org/resource/All-India_Muslim_League
+border dispute - http://dbpedia.org/resource/Territorial_dispute
+resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
+british mandate palestine - http://dbpedia.org/resource/Mandatory_Palestine
+muslim - http://dbpedia.org/resource/Muslims
+jewish minority - http://dbpedia.org/resource/History_of_the_Jews_in_Germany
+refugee - http://dbpedia.org/resource/Refugee
+palestine - http://dbpedia.org/resource/Mandatory_Palestine
+holocaust - http://dbpedia.org/resource/The_Holocaust
+britain - http://dbpedia.org/resource/British_Empire
+palestine - http://dbpedia.org/resource/Mandatory_Palestine
+muslim - http://dbpedia.org/resource/Muslims
+soviet union - http://dbpedia.org/resource/Soviet_Union
+independence movement - http://dbpedia.org/resource/Indian_independence_movement
+colonial rule - http://dbpedia.org/resource/British_Empire
+civil war - http://dbpedia.org/resource/Civil_war
+egyptian - http://dbpedia.org/resource/Egypt
+nationalisation - http://dbpedia.org/resource/Nationalization
+suez - http://dbpedia.org/resource/Suez_Canal
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+anthony eden - http://dbpedia.org/resource/Anthony_Eden
+invasion - http://dbpedia.org/resource/Invasion
+justification - http://dbpedia.org/resource/Defamation
+britain - http://dbpedia.org/resource/British_Empire
+president eisenhower - http://dbpedia.org/resource/Dwight_D._Eisenhower
+incense - http://dbpedia.org/resource/Incense
+soviet - http://dbpedia.org/resource/Soviet_Union
+british currency - http://dbpedia.org/resource/Pound_sterling
+reserve - http://dbpedia.org/resource/Reserve_fleet
+british pound - http://dbpedia.org/resource/Pound_sterling
+pressure - http://dbpedia.org/resource/Atmospheric_pressure
+britain - http://dbpedia.org/resource/British_Empire
+suez - http://dbpedia.org/resource/Suez_Canal
+britain - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+economic crisis - http://dbpedia.org/resource/Financial_crisis
+national bankruptcy - http://dbpedia.org/resource/Sovereign_default
+avert - http://dbpedia.org/resource/Avert_(HIV_and_AIDS_organisation)
+loan - http://dbpedia.org/resource/Usury
+gdp - http://dbpedia.org/resource/Economic_growth
+west germany - http://dbpedia.org/resource/West_Germany
+european economic community - http://dbpedia.org/resource/European_Economic_Community
+protectionist - http://dbpedia.org/resource/Protectionism
+tariff - http://dbpedia.org/resource/Tariff
+import - http://dbpedia.org/resource/International_trade
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+white dominion - http://dbpedia.org/resource/Dominion
+cape town - http://dbpedia.org/resource/Cape_Town
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+harold macmillan - http://dbpedia.org/resource/Harold_Macmillan
+wind - http://dbpedia.org/resource/Wind
+continent - http://dbpedia.org/resource/Africa
+colonial war - http://dbpedia.org/resource/Portuguese_Colonial_War
+algeria - http://dbpedia.org/resource/French_Algeria
+decolonisation - http://dbpedia.org/resource/British_Empire
+mau mau uprising - http://dbpedia.org/resource/Mau_Mau_Uprising
+british empire - http://dbpedia.org/resource/British_Empire
+hong kong - http://dbpedia.org/resource/British_Hong_Kong
+colony - http://dbpedia.org/resource/Crown_colony
+west indies federation - http://dbpedia.org/resource/West_Indies_Federation
+trinidad - http://dbpedia.org/resource/Trinidad
+jamaica - http://dbpedia.org/resource/Jamaica
+eastern caribbean - http://dbpedia.org/resource/Organisation_of_Eastern_Caribbean_States
+barbados - http://dbpedia.org/resource/Barbados
+independence - http://dbpedia.org/resource/Independence
+turks - http://dbpedia.org/resource/Ottoman_Empire
+british virgin islands - http://dbpedia.org/resource/British_Virgin_Islands
+virgin islands - http://dbpedia.org/resource/British_Virgin_Islands
+cayman islands - http://dbpedia.org/resource/Cayman_Islands
+montserrat - http://dbpedia.org/resource/Montserrat
+british rule - http://dbpedia.org/resource/British_Empire
+south america - http://dbpedia.org/resource/South_America
+british guiana - http://dbpedia.org/resource/British_Guiana
+independent - http://dbpedia.org/resource/Independence
+british honduras - http://dbpedia.org/resource/British_Honduras
+colony - http://dbpedia.org/resource/Crown_colony
+belize - http://dbpedia.org/resource/British_Honduras
+independence - http://dbpedia.org/resource/Independence
+overseas territory - http://dbpedia.org/resource/Portuguese_Empire
+argentina - http://dbpedia.org/resource/Argentina
+invasion - http://dbpedia.org/resource/Invasion
+falkland islands - http://dbpedia.org/resource/Falkland_Islands
+repel - http://dbpedia.org/resource/Repel
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+margaret thatcher - http://dbpedia.org/resource/Margaret_Thatcher
+beijing - http://dbpedia.org/resource/China
+handover - http://dbpedia.org/resource/Handover_of_Hong_Kong
+hong kong - http://dbpedia.org/resource/British_Hong_Kong
+republic - http://dbpedia.org/resource/Republic
+historian - http://dbpedia.org/resource/Historian
+british empire - http://dbpedia.org/resource/British_Empire
+landmass - http://dbpedia.org/resource/Landmass
+historian - http://dbpedia.org/resource/Historian
+nationalist - http://dbpedia.org/resource/Nationalism
+strain - http://dbpedia.org/resource/Cannabis_strains
+britain - http://dbpedia.org/resource/British_Empire
+thrive - http://dbpedia.org/resource/Thrive_Music
+maritime - http://dbpedia.org/resource/Freight_transport
+network - http://dbpedia.org/resource/Social_network
+outlook - http://dbpedia.org/resource/Microsoft_Outlook
+fleet aircraft - http://dbpedia.org/resource/Fleet_Aircraft
+free trade - http://dbpedia.org/resource/Free_trade
+protectionist - http://dbpedia.org/resource/Protectionism
+network - http://dbpedia.org/resource/Social_network
+dominion - http://dbpedia.org/resource/Dominion
+britain - http://dbpedia.org/resource/British_Empire
+sovereignty - http://dbpedia.org/resource/Sovereignty
+british isles - http://dbpedia.org/resource/Terminology_of_the_British_Isles
+reliant - http://dbpedia.org/resource/Reliant_Motors
+britain - http://dbpedia.org/resource/British_Empire
+defence - http://dbpedia.org/resource/Military
+international relation - http://dbpedia.org/resource/International_relations
+british rule - http://dbpedia.org/resource/British_Empire
+independent - http://dbpedia.org/resource/Independence
+british empire - http://dbpedia.org/resource/British_Empire
+language - http://dbpedia.org/resource/Ukrainian_language
+mother tongue - http://dbpedia.org/resource/Languages_of_Europe
+colony - http://dbpedia.org/resource/Crown_colony
+presidential system - http://dbpedia.org/resource/Presidential_system
+parliamentary system - http://dbpedia.org/resource/Parliamentary_system
+english common law - http://dbpedia.org/resource/English_law
+legal system - http://dbpedia.org/resource/English_law
+zenith - http://dbpedia.org/resource/Zenith
+british empire - http://dbpedia.org/resource/British_Empire
+migration - http://dbpedia.org/resource/Human_migration
+britain - http://dbpedia.org/resource/British_Empire
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+north america - http://dbpedia.org/resource/North_America
+colony - http://dbpedia.org/resource/Crown_colony
+migration - http://dbpedia.org/resource/Human_migration
+demographic - http://dbpedia.org/resource/Demography
+britain - http://dbpedia.org/resource/British_Empire
+immigration - http://dbpedia.org/resource/Immigration
+britain - http://dbpedia.org/resource/British_Empire
+colony - http://dbpedia.org/resource/Crown_colony

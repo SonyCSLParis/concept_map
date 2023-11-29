@@ -1,0 +1,19 @@
+petition - http://dbpedia.org/resource/Petition
+bunker - http://dbpedia.org/resource/Bunker
+explosive - http://dbpedia.org/resource/Explosion
+architect - http://dbpedia.org/resource/Architect
+9/11 commission report - http://dbpedia.org/resource/11_Commission_Report
+thomas - http://dbpedia.org/resource/THOMAS
+september 11 2001 - http://dbpedia.org/resource/September_11_attacks
+engineer - http://dbpedia.org/resource/Engineer
+high rise - http://dbpedia.org/resource/High-rise_building
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+airplane - http://dbpedia.org/resource/Airplane
+building 7 - http://dbpedia.org/resource/7_World_Trade_Center
+zogby poll - http://dbpedia.org/resource/John_Zogby
+law enforcement agency - http://dbpedia.org/resource/Law_enforcement_agency
+nyc - http://dbpedia.org/resource/New_York_City
+intelligence - http://dbpedia.org/resource/Intelligence_assessment
+emergency operations center - http://dbpedia.org/resource/Emergency_operations_center
+skyscraper - http://dbpedia.org/resource/Skyscraper
+steel frame - http://dbpedia.org/resource/Steel_frame

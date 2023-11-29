@@ -1,0 +1,141 @@
+komodo dragon - http://dbpedia.org/resource/Komodo_dragon
+komodo island - http://dbpedia.org/resource/Komodo_(island)
+volcanic crater - http://dbpedia.org/resource/Volcanic_crater
+mount bromo - http://dbpedia.org/resource/Mount_Bromo
+archipelagic country - http://dbpedia.org/resource/Island_country
+cultural heritage - http://dbpedia.org/resource/Cultural_heritage
+sacred - http://dbpedia.org/resource/Sacral_architecture
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+candi borobudur - http://dbpedia.org/resource/Borobudur
+heritage - http://dbpedia.org/resource/Cultural_heritage
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+angkor wat - http://dbpedia.org/resource/Angkor_Wat
+cambodia - http://dbpedia.org/resource/Cambodia
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage - http://dbpedia.org/resource/Cultural_heritage
+buddhist - http://dbpedia.org/resource/Buddhism
+borobudur - http://dbpedia.org/resource/Borobudur
+meter - http://dbpedia.org/resource/Hymn
+meter - http://dbpedia.org/resource/Hymn
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+stack - http://dbpedia.org/resource/Chimney
+dome - http://dbpedia.org/resource/Dome
+pyramid - http://dbpedia.org/resource/Pyramid
+human - http://dbpedia.org/resource/Human
+buddhist - http://dbpedia.org/resource/Buddhism
+relief - http://dbpedia.org/resource/Relief
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+arupa - http://dbpedia.org/resource/Arupa
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+stupa - http://dbpedia.org/resource/Stupa
+buddhist - http://dbpedia.org/resource/Buddhism
+shrine - http://dbpedia.org/resource/Shrine
+sculpture - http://dbpedia.org/resource/Sculpture
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+stupa - http://dbpedia.org/resource/Stupa
+stupa - http://dbpedia.org/resource/Stupa
+gorgeous - http://dbpedia.org/resource/Slayers_Gorgeous
+sunrise - http://dbpedia.org/resource/Sunrise
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+early morning - http://dbpedia.org/resource/Early_Morning
+sun - http://dbpedia.org/resource/Solar_deity
+buddha statue - http://dbpedia.org/resource/Buddharupa
+morning sun - http://dbpedia.org/resource/Edward_Hopper
+hiding place - http://dbpedia.org/resource/Hiding_Place_(Tori_Kelly_album)
+merbabu - http://dbpedia.org/resource/Mount_Merbabu
+merapi - http://dbpedia.org/resource/Mount_Merapi
+sunrise - http://dbpedia.org/resource/Sunrise
+photo opportunity - http://dbpedia.org/resource/Photo_op
+avid - http://dbpedia.org/resource/Avid_Technology
+photographer - http://dbpedia.org/resource/Photography
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+usd - http://dbpedia.org/resource/United_States_dollar
+sunrise - http://dbpedia.org/resource/Sunrise
+usd - http://dbpedia.org/resource/United_States_dollar
+vesak - http://dbpedia.org/resource/Vesak
+vesak day - http://dbpedia.org/resource/Vesak
+lunar calendar - http://dbpedia.org/resource/Lunar_calendar
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+ritual - http://dbpedia.org/resource/Ritual
+ritual - http://dbpedia.org/resource/Ritual
+buddhists - http://dbpedia.org/resource/Buddhism
+buddhists - http://dbpedia.org/resource/Buddhism
+ritual - http://dbpedia.org/resource/Ritual
+vesak day - http://dbpedia.org/resource/Vesak
+procession - http://dbpedia.org/resource/Procession
+buddhists - http://dbpedia.org/resource/Buddhism
+buddhist monk - http://dbpedia.org/resource/Bhikkhu
+ritual - http://dbpedia.org/resource/Ritual
+sanskrit language - http://dbpedia.org/resource/Sanskrit
+language - http://dbpedia.org/resource/Language
+circle - http://dbpedia.org/resource/Circle
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+candle - http://dbpedia.org/resource/Candle
+candle - http://dbpedia.org/resource/Candle
+ritual - http://dbpedia.org/resource/Ritual
+white lantern - http://dbpedia.org/resource/Kyle_Rayner
+light - http://dbpedia.org/resource/Sunlight
+esbit - http://dbpedia.org/resource/Hexamine_fuel_tablet
+fuel - http://dbpedia.org/resource/Fuel
+hydrogenate - http://dbpedia.org/resource/Hydrogenation
+dance - http://dbpedia.org/resource/Dance
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+dance - http://dbpedia.org/resource/Dance
+borobudur - http://dbpedia.org/resource/Borobudur
+borobudur - http://dbpedia.org/resource/Borobudur
+great work - http://dbpedia.org/resource/Opus_Majus
+dance - http://dbpedia.org/resource/Dance
+borobudur - http://dbpedia.org/resource/Borobudur
+millennia - http://dbpedia.org/resource/Millennium
+theater - http://dbpedia.org/resource/Theatre
+borobudur - http://dbpedia.org/resource/Borobudur
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+gorgeous - http://dbpedia.org/resource/Slayers_Gorgeous
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+exotic dancer - http://dbpedia.org/resource/Striptease
+javanese - http://dbpedia.org/resource/Java
+traditional music - http://dbpedia.org/resource/Folk_music
+woman king - http://dbpedia.org/resource/Woman_King
+great temple - http://dbpedia.org/resource/Templo_Mayor
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+contact management - http://dbpedia.org/resource/Contact_manager
+hold time - http://dbpedia.org/resource/Hold_Time_(album)
+idr - http://dbpedia.org/resource/Indonesian_rupiah
+usd - http://dbpedia.org/resource/United_States_dollar
+idr - http://dbpedia.org/resource/Indonesian_rupiah
+usd - http://dbpedia.org/resource/United_States_dollar
+elephant - http://dbpedia.org/resource/Elephant
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+dance - http://dbpedia.org/resource/Dance
+elephant - http://dbpedia.org/resource/Elephant
+thailand - http://dbpedia.org/resource/Thailand
+borobudur - http://dbpedia.org/resource/Borobudur
+usd - http://dbpedia.org/resource/United_States_dollar
+circle - http://dbpedia.org/resource/Circle
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+elephant - http://dbpedia.org/resource/Elephant
+domesticate - http://dbpedia.org/resource/Domestication
+pawang - http://dbpedia.org/resource/Pawang
+elephant - http://dbpedia.org/resource/Elephant
+pickup - http://dbpedia.org/resource/Pickup_truck
+jogjakarta - http://dbpedia.org/resource/Yogyakarta
+borobudur - http://dbpedia.org/resource/Borobudur
+prambanan - http://dbpedia.org/resource/Prambanan
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+night market - http://dbpedia.org/resource/Night_market
+downtown - http://dbpedia.org/resource/Downtown
+jogjakarta - http://dbpedia.org/resource/Yogyakarta
+parangtritis - http://dbpedia.org/resource/Parangtritis
+hotel borobudur - http://dbpedia.org/resource/Hotel_Borobudur
+pickup - http://dbpedia.org/resource/Pickup_truck
+translator - http://dbpedia.org/resource/Translation
+article - http://dbpedia.org/resource/Bratislava

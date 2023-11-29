@@ -1,0 +1,225 @@
+justinian - http://dbpedia.org/resource/Justinian_I
+emperor justinian - http://dbpedia.org/resource/Justinian_I
+st - http://dbpedia.org/resource/SATB
+latin - http://dbpedia.org/resource/Latin
+petrus - http://dbpedia.org/resource/Petrus_killings
+sabbatius - http://dbpedia.org/resource/Sabbatius_of_Solovki
+iustinianus - http://dbpedia.org/resource/Iustinianus
+augustus - http://dbpedia.org/resource/Augustus
+bear - http://dbpedia.org/resource/Bear
+tauresium - http://dbpedia.org/resource/Tauresium
+village - http://dbpedia.org/resource/Village
+illyria - http://dbpedia.org/resource/Illyria
+emperor justin - http://dbpedia.org/resource/Justin_I
+bodyguard - http://dbpedia.org/resource/Bodyguard
+anastasius - http://dbpedia.org/resource/Anastasius_I_Dicorus
+justinian - http://dbpedia.org/resource/Justinian_I
+roman - http://dbpedia.org/resource/Roman_Empire
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+military campaign - http://dbpedia.org/resource/Military_campaign
+goths - http://dbpedia.org/resource/Goths
+hagia sophia church - http://dbpedia.org/resource/Saint_Sophia_Church,_Sofia
+church - http://dbpedia.org/resource/Catholic_Church
+monastery - http://dbpedia.org/resource/Monastery
+fort - http://dbpedia.org/resource/Fortification
+reservoir - http://dbpedia.org/resource/Reservoir
+bridge - http://dbpedia.org/resource/Roman_bridge
+iustinianus - http://dbpedia.org/resource/Iustinianus
+justinian - http://dbpedia.org/resource/Justinian_I
+roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis
+hadrian - http://dbpedia.org/resource/Hadrian
+roman - http://dbpedia.org/resource/Roman_Empire
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+justinian - http://dbpedia.org/resource/Justinian_I
+vigilantia - http://dbpedia.org/resource/Vigilantia
+bodyguard - http://dbpedia.org/resource/Bodyguard
+justin - http://dbpedia.org/resource/Justin_I
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+education - http://dbpedia.org/resource/Education
+justin - http://dbpedia.org/resource/Justin_I
+justinian - http://dbpedia.org/resource/Justinian_I
+consul - http://dbpedia.org/resource/Byzantine_Senate
+eastern army - http://dbpedia.org/resource/Eastern_Command_(India)
+theodora - http://dbpedia.org/resource/Theodora_of_Khazaria
+courtesan - http://dbpedia.org/resource/Courtesan
+soldier - http://dbpedia.org/resource/Soldier
+justinian - http://dbpedia.org/resource/Justinian_I
+sicily - http://dbpedia.org/resource/Sicily
+soldier - http://dbpedia.org/resource/Soldier
+justinian - http://dbpedia.org/resource/Justinian_I
+sicily - http://dbpedia.org/resource/Sicily
+iberian war - http://dbpedia.org/resource/Iberian_War
+sassanian empire - http://dbpedia.org/resource/Sasanian_Empire
+iberia - http://dbpedia.org/resource/Kingdom_of_Iberia
+caucasus - http://dbpedia.org/resource/Caucasus
+georgia - http://dbpedia.org/resource/Kingdom_of_Georgia
+sassanian empire - http://dbpedia.org/resource/Sasanian_Empire
+anastasius - http://dbpedia.org/resource/Anastasius_I_Dicorus
+truce - http://dbpedia.org/resource/Armistice
+sassanian - http://dbpedia.org/resource/Sasanian_Empire
+shah - http://dbpedia.org/resource/Shah
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+capital - http://dbpedia.org/resource/Capital_city
+carthage - http://dbpedia.org/resource/Carthage
+tripolitania - http://dbpedia.org/resource/Tripolitania
+corsica - http://dbpedia.org/resource/Corsica
+sardinia - http://dbpedia.org/resource/Sardinia
+balearic island - http://dbpedia.org/resource/Balearic_Islands
+justinian - http://dbpedia.org/resource/Justinian_I
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+revolt - http://dbpedia.org/resource/Rebellion
+tripolitania - http://dbpedia.org/resource/Tripolitania
+libya - http://dbpedia.org/resource/Libya
+roman soldier - http://dbpedia.org/resource/Roman_army
+cyrenaica - http://dbpedia.org/resource/Cyrenaica
+belisarius - http://dbpedia.org/resource/Belisarius
+justinian - http://dbpedia.org/resource/Justinian_I
+soldier - http://dbpedia.org/resource/Soldier
+aegean - http://dbpedia.org/resource/Aegean_Sea
+sicily - http://dbpedia.org/resource/Sicily
+winter - http://dbpedia.org/resource/Winter
+gelimer - http://dbpedia.org/resource/Gelimer
+roman hand - http://dbpedia.org/resource/Roman_type
+gothic war - http://dbpedia.org/resource/Gothic_War_(535–554)
+totila - http://dbpedia.org/resource/Totila
+goths - http://dbpedia.org/resource/Goths
+sicily - http://dbpedia.org/resource/Sicily
+roman emperor - http://dbpedia.org/resource/Roman_emperor
+romulus augustulus - http://dbpedia.org/resource/Romulus_Augustulus
+gothic - http://dbpedia.org/resource/Gothic_art
+odoacer - http://dbpedia.org/resource/Odoacer
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+gothic - http://dbpedia.org/resource/Gothic_art
+independent - http://dbpedia.org/resource/Independence
+roman - http://dbpedia.org/resource/Roman_Empire
+sphere - http://dbpedia.org/resource/Sphere_of_influence
+roman - http://dbpedia.org/resource/Roman_Empire
+aristocracy - http://dbpedia.org/resource/Aristocracy
+gothic - http://dbpedia.org/resource/Gothic_art
+roman - http://dbpedia.org/resource/Roman_Empire
+politician - http://dbpedia.org/resource/Politics
+boethius - http://dbpedia.org/resource/Boethius
+gothic - http://dbpedia.org/resource/Gothic_art
+justinian - http://dbpedia.org/resource/Justinian_I
+sicily - http://dbpedia.org/resource/Sicily
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+belisarius - http://dbpedia.org/resource/Belisarius
+sicily - http://dbpedia.org/resource/Sicily
+romans - http://dbpedia.org/resource/Romans_(musician)
+goths - http://dbpedia.org/resource/Goths
+dalmatia - http://dbpedia.org/resource/Dalmatia
+croatia - http://dbpedia.org/resource/Croatia
+romans - http://dbpedia.org/resource/Romans_(musician)
+justinian - http://dbpedia.org/resource/Justinian_I
+gothic war - http://dbpedia.org/resource/Gothic_War_(535–554)
+roman - http://dbpedia.org/resource/Roman_Empire
+town - http://dbpedia.org/resource/Town
+city - http://dbpedia.org/resource/City
+verona - http://dbpedia.org/resource/Verona
+gothic - http://dbpedia.org/resource/Gothic_art
+gothic - http://dbpedia.org/resource/Gothic_art
+totila - http://dbpedia.org/resource/Totila
+totila - http://dbpedia.org/resource/Totila
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+sassanian empire - http://dbpedia.org/resource/Sasanian_Empire
+east west - http://dbpedia.org/resource/East_West_Records
+plague - http://dbpedia.org/resource/Plague_of_Justinian
+justinianic - http://dbpedia.org/resource/Justinian_I
+plague - http://dbpedia.org/resource/Plague_of_Justinian
+empire ability - http://dbpedia.org/resource/SS_Uhenfels
+totila - http://dbpedia.org/resource/Totila
+roman - http://dbpedia.org/resource/Roman_Empire
+counter attack - http://dbpedia.org/resource/Counterattack
+naples - http://dbpedia.org/resource/Kingdom_of_Naples
+siege - http://dbpedia.org/resource/Siege
+rome - http://dbpedia.org/resource/Roman_Empire
+totila - http://dbpedia.org/resource/Totila
+belisarius - http://dbpedia.org/resource/Belisarius
+totila - http://dbpedia.org/resource/Totila
+justinian - http://dbpedia.org/resource/Justinian_I
+justinian - http://dbpedia.org/resource/Justinian_I
+germanus justinus - http://dbpedia.org/resource/Germanus_(cousin_of_Justinian_I)
+die - http://dbpedia.org/resource/Death
+narses - http://dbpedia.org/resource/Narses
+narses - http://dbpedia.org/resource/Narses
+totila - http://dbpedia.org/resource/Totila
+roman - http://dbpedia.org/resource/Roman_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+julianus ben sabar - http://dbpedia.org/resource/Julianus_ben_Sabar
+messianic figure - http://dbpedia.org/resource/Messiah
+palestine - http://dbpedia.org/resource/Mandatory_Palestine
+revolt - http://dbpedia.org/resource/Rebellion
+samaritan - http://dbpedia.org/resource/Samaritans
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+nika riot - http://dbpedia.org/resource/Nika_riots
+city - http://dbpedia.org/resource/City
+samaritan revolt - http://dbpedia.org/resource/Samaritan_revolts
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+palestine - http://dbpedia.org/resource/Mandatory_Palestine
+justinian - http://dbpedia.org/resource/Justinian_I
+codex justinianus - http://dbpedia.org/resource/Corpus_Juris_Civilis
+justinian - http://dbpedia.org/resource/Justinian_I
+court - http://dbpedia.org/resource/Royal_court
+tribonian - http://dbpedia.org/resource/Tribonian
+law - http://dbpedia.org/resource/Roman_law
+roman legal system - http://dbpedia.org/resource/Roman_law
+single - http://dbpedia.org/resource/Single_person
+law - http://dbpedia.org/resource/Roman_law
+iustinianus - http://dbpedia.org/resource/Iustinianus
+law - http://dbpedia.org/resource/Roman_law
+latin - http://dbpedia.org/resource/Latin
+law - http://dbpedia.org/resource/Roman_law
+heresy - http://dbpedia.org/resource/Heresy
+orthodoxy - http://dbpedia.org/resource/Orthodoxy
+paganism - http://dbpedia.org/resource/Paganism
+justinian - http://dbpedia.org/resource/Justinian_I
+procopius - http://dbpedia.org/resource/Procopius
+justinian - http://dbpedia.org/resource/Justinian_I
+roman emperor - http://dbpedia.org/resource/Roman_emperor
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+procopius - http://dbpedia.org/resource/Procopius
+caesarea - http://dbpedia.org/resource/Early_centers_of_Christianity
+legal secretary - http://dbpedia.org/resource/Legal_secretary
+belisarius - http://dbpedia.org/resource/Belisarius
+bellis - http://dbpedia.org/resource/Bellis
+justinian - http://dbpedia.org/resource/Justinian_I
+military campaign - http://dbpedia.org/resource/Military_campaign
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+de aedificiis - http://dbpedia.org/resource/Procopius
+justinian - http://dbpedia.org/resource/Justinian_I
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+procopius - http://dbpedia.org/resource/Procopius
+anecdota - http://dbpedia.org/resource/Procopius
+secret history - http://dbpedia.org/resource/Secret_history
+court - http://dbpedia.org/resource/Royal_court
+sexual activity - http://dbpedia.org/resource/Fornication
+empress theodora - http://dbpedia.org/resource/Theodora_(6th_century)
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+court - http://dbpedia.org/resource/Royal_court
+tone - http://dbpedia.org/resource/Timbre
+procopius - http://dbpedia.org/resource/Procopius
+satirical - http://dbpedia.org/resource/Satire
+court - http://dbpedia.org/resource/Royal_court
+bellis - http://dbpedia.org/resource/Bellis
+de aedificiis - http://dbpedia.org/resource/Procopius
+anecdota - http://dbpedia.org/resource/Procopius
+procopius - http://dbpedia.org/resource/Procopius
+faith - http://dbpedia.org/resource/Christianity
+justinian - http://dbpedia.org/resource/Justinian_I
+early work - http://dbpedia.org/resource/Early_Work
+justinian - http://dbpedia.org/resource/Justinian_I
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+roman - http://dbpedia.org/resource/Roman_Empire
+byzantine history - http://dbpedia.org/resource/Byzantium
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+remarkable - http://dbpedia.org/resource/ReMarkable
+procopius - http://dbpedia.org/resource/Procopius
+christian faith - http://dbpedia.org/resource/Christianity
+sphere - http://dbpedia.org/resource/Sphere_of_influence
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+faith - http://dbpedia.org/resource/Christianity
+patronage - http://dbpedia.org/resource/Patronage

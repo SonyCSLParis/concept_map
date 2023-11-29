@@ -1,0 +1,401 @@
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+scribes - http://dbpedia.org/resource/Scribe
+illuminations - http://dbpedia.org/resource/Illuminated_manuscript
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+monogram - http://dbpedia.org/resource/Monogram
+chi ro - http://dbpedia.org/resource/Chi_Rho
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
+medieval - http://dbpedia.org/resource/Middle_Ages
+painting - http://dbpedia.org/resource/Painting
+medieval - http://dbpedia.org/resource/Middle_Ages
+manuscript illumination - http://dbpedia.org/resource/Illuminated_manuscript
+romanesque - http://dbpedia.org/resource/Romanesque_art
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
+gothic - http://dbpedia.org/resource/Gothic_art
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
+international gothic - http://dbpedia.org/resource/International_Gothic
+illuminations - http://dbpedia.org/resource/Illuminated_manuscript
+christianity - http://dbpedia.org/resource/Christianity
+christian art - http://dbpedia.org/resource/Christian_art
+irish art - http://dbpedia.org/resource/Irish_art
+early christian art - http://dbpedia.org/resource/Early_Christian_art_and_architecture
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+irish monk - http://dbpedia.org/resource/Hiberno-Scottish_mission
+columba - http://dbpedia.org/resource/Columba
+colum cille - http://dbpedia.org/resource/Columba
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospels - http://dbpedia.org/resource/Gospel
+latin - http://dbpedia.org/resource/Latin
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+medieval - http://dbpedia.org/resource/Middle_Ages
+christian art - http://dbpedia.org/resource/Christian_art
+hiberno - http://dbpedia.org/resource/History_of_Ireland_(400–800)
+saxon - http://dbpedia.org/resource/Saxons
+insular art - http://dbpedia.org/resource/Insular_art
+trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+library - http://dbpedia.org/resource/Library
+ireland - http://dbpedia.org/resource/Ireland
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+county meath - http://dbpedia.org/resource/County_Meath
+ireland - http://dbpedia.org/resource/Ireland
+medieval - http://dbpedia.org/resource/Middle_Ages
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+monastic - http://dbpedia.org/resource/Monastery
+irish art - http://dbpedia.org/resource/Irish_art
+number theory - http://dbpedia.org/resource/Number_theory
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+monastery - http://dbpedia.org/resource/Monastery
+iona - http://dbpedia.org/resource/Iona
+monk - http://dbpedia.org/resource/Monk
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+lindisfarne - http://dbpedia.org/resource/Lindisfarne
+holy island - http://dbpedia.org/resource/Lindisfarne
+coast - http://dbpedia.org/resource/Coast
+northumberland - http://dbpedia.org/resource/Northumberland
+iona - http://dbpedia.org/resource/Iona
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+monastery - http://dbpedia.org/resource/Monastery
+garima gospels - http://dbpedia.org/resource/Garima_Gospels
+ethiopia - http://dbpedia.org/resource/Ethiopia
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+medieval art - http://dbpedia.org/resource/Medieval_art
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
+iona - http://dbpedia.org/resource/Iona
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
+iona - http://dbpedia.org/resource/Iona
+learning - http://dbpedia.org/resource/Learning
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+saint columba - http://dbpedia.org/resource/Columba
+christianize - http://dbpedia.org/resource/Christianity
+scotland - http://dbpedia.org/resource/Scotland
+lindisfarne - http://dbpedia.org/resource/Lindisfarne
+vikings - http://dbpedia.org/resource/Vikings
+monastery - http://dbpedia.org/resource/Monastery
+monk - http://dbpedia.org/resource/Monk
+monk - http://dbpedia.org/resource/Monk
+iona - http://dbpedia.org/resource/Iona
+monastery - http://dbpedia.org/resource/Monastery
+meath - http://dbpedia.org/resource/County_Meath
+ireland - http://dbpedia.org/resource/Ireland
+grant land - http://dbpedia.org/resource/Grant_Land
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+metropolis - http://dbpedia.org/resource/Diocese
+columban - http://dbpedia.org/resource/Columba
+iona - http://dbpedia.org/resource/Iona
+sacred - http://dbpedia.org/resource/Religious_art
+object - http://dbpedia.org/resource/Object-oriented_programming
+monastery - http://dbpedia.org/resource/Monastery
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+annals - http://dbpedia.org/resource/Irish_annals
+decorative art - http://dbpedia.org/resource/Decorative_arts
+scriptorium - http://dbpedia.org/resource/Scriptorium
+iona - http://dbpedia.org/resource/Iona
+monk - http://dbpedia.org/resource/Monk
+meath - http://dbpedia.org/resource/County_Meath
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+painter - http://dbpedia.org/resource/Painting
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
+evangelist - http://dbpedia.org/resource/Four_Evangelists
+portrait - http://dbpedia.org/resource/Portrait
+motif - http://dbpedia.org/resource/Motif-Index_of_Folk-Literature
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+relic - http://dbpedia.org/resource/Relic
+saint columba - http://dbpedia.org/resource/Columba
+safety - http://dbpedia.org/resource/Safety
+vikings - http://dbpedia.org/resource/Vikings
+plunder - http://dbpedia.org/resource/Looting
+unearth - http://dbpedia.org/resource/Unearth
+ditch - http://dbpedia.org/resource/Moat
+monastery - http://dbpedia.org/resource/Monastery
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+abbot - http://dbpedia.org/resource/Abbot
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+abbot - http://dbpedia.org/resource/Abbot
+james ussher - http://dbpedia.org/resource/James_Ussher
+trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+ussher - http://dbpedia.org/resource/James_Ussher
+library - http://dbpedia.org/resource/Library
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+scribes - http://dbpedia.org/resource/Scribe
+church - http://dbpedia.org/resource/Church_architecture
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+colum cille - http://dbpedia.org/resource/Columba
+saint columba - http://dbpedia.org/resource/Columba
+saint columcille - http://dbpedia.org/resource/Columba
+columba - http://dbpedia.org/resource/Columba
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+columba - http://dbpedia.org/resource/Columba
+pen - http://dbpedia.org/resource/Quill
+columba - http://dbpedia.org/resource/Columba
+scribe - http://dbpedia.org/resource/Insular_script
+scribe - http://dbpedia.org/resource/Insular_script
+illuminator - http://dbpedia.org/resource/Illuminated_manuscript
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+space - http://dbpedia.org/resource/Space
+scribe - http://dbpedia.org/resource/Insular_script
+painter - http://dbpedia.org/resource/Painting
+ornament - http://dbpedia.org/resource/Jewellery
+outline - http://dbpedia.org/resource/Nutrition
+columba - http://dbpedia.org/resource/Columba
+paleographic - http://dbpedia.org/resource/Palaeography
+latin script - http://dbpedia.org/resource/Latin_script
+irish art - http://dbpedia.org/resource/Irish_art
+saint columba - http://dbpedia.org/resource/Columba
+illuminators - http://dbpedia.org/resource/Illuminated_manuscript
+francoise henry - http://dbpedia.org/resource/Françoise_Henry
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+entrust - http://dbpedia.org/resource/Entrust
+cruciform - http://dbpedia.org/resource/Cruciform
+circle - http://dbpedia.org/resource/Circle
+chi rho - http://dbpedia.org/resource/Chi_Rho
+precious metal - http://dbpedia.org/resource/Precious_metal
+enamel - http://dbpedia.org/resource/Vitreous_enamel
+niello - http://dbpedia.org/resource/Niello
+delicacy - http://dbpedia.org/resource/Chinese_cuisine
+asymmetry - http://dbpedia.org/resource/Symmetry
+francoise henry - http://dbpedia.org/resource/Françoise_Henry
+individualist - http://dbpedia.org/resource/Individualism
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+saint luke - http://dbpedia.org/resource/Luke_the_Evangelist
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+virgin - http://dbpedia.org/resource/Virginity
+temptation - http://dbpedia.org/resource/Temptation_of_Christ
+irish art - http://dbpedia.org/resource/Irish_art
+early christian - http://dbpedia.org/resource/Early_Christian_art_and_architecture
+methuen - http://dbpedia.org/resource/Methuen_Publishing
+francoise henry - http://dbpedia.org/resource/Françoise_Henry
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+uncial - http://dbpedia.org/resource/Uncial_script
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+mood - http://dbpedia.org/resource/Tempo
+expression - http://dbpedia.org/resource/Idiom
+cathach - http://dbpedia.org/resource/Cathach_of_St._Columba
+saint columba - http://dbpedia.org/resource/Columba
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospels - http://dbpedia.org/resource/Gospel
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+symbol - http://dbpedia.org/resource/Symbol
+portrait - http://dbpedia.org/resource/Portrait
+evangelist - http://dbpedia.org/resource/Four_Evangelists
+christ - http://dbpedia.org/resource/Jesus
+crucifixion - http://dbpedia.org/resource/Crucifixion
+narrative - http://dbpedia.org/resource/Narrative
+cruciform - http://dbpedia.org/resource/Cruciform
+portico - http://dbpedia.org/resource/Portico
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
+carpet - http://dbpedia.org/resource/Carpet
+ornament - http://dbpedia.org/resource/Jewellery
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+cruciform - http://dbpedia.org/resource/Cruciform
+bear - http://dbpedia.org/resource/Bear
+symbol - http://dbpedia.org/resource/Symbol
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+symbol - http://dbpedia.org/resource/Symbol
+dispose - http://dbpedia.org/resource/Dispose_pattern
+arcade - http://dbpedia.org/resource/Action_game
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
+chi rho - http://dbpedia.org/resource/Chi_Rho
+genealogy - http://dbpedia.org/resource/Genealogy_of_Jesus
+christ - http://dbpedia.org/resource/Jesus
+saint matthew - http://dbpedia.org/resource/Matthew_the_Apostle
+ornament - http://dbpedia.org/resource/Jewellery
+continuous - http://dbpedia.org/resource/Continuous_function
+chain - http://dbpedia.org/resource/Chain
+capital - http://dbpedia.org/resource/Capital_punishment
+bird - http://dbpedia.org/resource/Bird
+snake - http://dbpedia.org/resource/Snake
+quadruped - http://dbpedia.org/resource/Quadrupedalism
+acrobatic - http://dbpedia.org/resource/Acrobatics
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+animate - http://dbpedia.org/resource/Animation
+capital - http://dbpedia.org/resource/Capital_punishment
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+coil - http://dbpedia.org/resource/Solenoid
+celtic - http://dbpedia.org/resource/Celts
+spiral - http://dbpedia.org/resource/Spiral
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+coptic - http://dbpedia.org/resource/Coptic_language
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+coptic - http://dbpedia.org/resource/Coptic_language
+robe - http://dbpedia.org/resource/Robe
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+virgin - http://dbpedia.org/resource/Virginity
+child seat - http://dbpedia.org/resource/Child_safety_seat
+angel - http://dbpedia.org/resource/Angel
+coptic art - http://dbpedia.org/resource/Coptic_art
+francoise henry - http://dbpedia.org/resource/Françoise_Henry
+strike - http://dbpedia.org/resource/Strike_action
+analogy - http://dbpedia.org/resource/Analogy
+virgin - http://dbpedia.org/resource/Virginity
+coptic - http://dbpedia.org/resource/Coptic_language
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+pierpont morgan library - http://dbpedia.org/resource/Morgan_Library_&_Museum
+york - http://dbpedia.org/resource/York
+pierpont morgan collection - http://dbpedia.org/resource/Morgan_Library_&_Museum
+coptic - http://dbpedia.org/resource/Coptic_language
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+coptic - http://dbpedia.org/resource/Coptic_language
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+coptic - http://dbpedia.org/resource/Coptic_language
+ribbon - http://dbpedia.org/resource/Ribbon
+ribbon - http://dbpedia.org/resource/Ribbon
+interlacing - http://dbpedia.org/resource/Interlaced_video
+coptic - http://dbpedia.org/resource/Coptic_language
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+early irish christianity - http://dbpedia.org/resource/Celtic_Christianity
+byzantine art - http://dbpedia.org/resource/Byzantine_art
+monastery - http://dbpedia.org/resource/Monastery
+orientalized - http://dbpedia.org/resource/Orientalism
+greek christianity - http://dbpedia.org/resource/Greek_Orthodox_Church
+east mediterranean - http://dbpedia.org/resource/Levant
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+manuscript illumination - http://dbpedia.org/resource/Illuminated_manuscript
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+symbol - http://dbpedia.org/resource/Symbol
+evangelist - http://dbpedia.org/resource/Four_Evangelists
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+symbol - http://dbpedia.org/resource/Symbol
+symbol - http://dbpedia.org/resource/Symbol
+gospels - http://dbpedia.org/resource/Gospel
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
+portrait - http://dbpedia.org/resource/Portrait
+motif - http://dbpedia.org/resource/Motif-Index_of_Folk-Literature
+heraldic beast - http://dbpedia.org/resource/Charge_(heraldry)
+potent - http://dbpedia.org/resource/Efficacy
+talisman - http://dbpedia.org/resource/Amulet
+peacock tail - http://dbpedia.org/resource/Peafowl
+st - http://dbpedia.org/resource/SATB
+john hold - http://dbpedia.org/resource/John_Hold
+human - http://dbpedia.org/resource/Human
+portrait - http://dbpedia.org/resource/Portrait
+eye - http://dbpedia.org/resource/Eye
+calligraphy - http://dbpedia.org/resource/Calligraphy
+spiral - http://dbpedia.org/resource/Spiral
+interlace - http://dbpedia.org/resource/Celtic_knot
+la tene - http://dbpedia.org/resource/La_Tène_culture
+celtic art - http://dbpedia.org/resource/Celtic_art
+st - http://dbpedia.org/resource/SATB
+harp - http://dbpedia.org/resource/Harp
+st - http://dbpedia.org/resource/SATB
+luke - http://dbpedia.org/resource/Luke_the_Evangelist
+iam - http://dbpedia.org/resource/International_Association_of_Machinists_and_Aerospace_Workers
+torture - http://dbpedia.org/resource/Torture
+monogram - http://dbpedia.org/resource/Monogram
+chi ro - http://dbpedia.org/resource/Chi_Rho
+christ - http://dbpedia.org/resource/Jesus
+monogram - http://dbpedia.org/resource/Monogram
+lindisfarne - http://dbpedia.org/resource/Lindisfarne
+lichfield - http://dbpedia.org/resource/Lichfield
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+loop - http://dbpedia.org/resource/Control_flow
+spiral - http://dbpedia.org/resource/Spiral
+vignette - http://dbpedia.org/resource/Scenario
+mouse - http://dbpedia.org/resource/Mouse
+communion wafer - http://dbpedia.org/resource/Sacramental_bread
+clutch - http://dbpedia.org/resource/Clutch
+fish - http://dbpedia.org/resource/Fish
+angel - http://dbpedia.org/resource/Angel
+gospels - http://dbpedia.org/resource/Gospel
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+monogram - http://dbpedia.org/resource/Monogram
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+splendid - http://dbpedia.org/resource/Le_Splendid
+carpet - http://dbpedia.org/resource/Carpet
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+portrait - http://dbpedia.org/resource/Portrait
+christ - http://dbpedia.org/resource/Jesus
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+crucifixion - http://dbpedia.org/resource/Crucifixion
+crucifixion - http://dbpedia.org/resource/Crucifixion
+narrative - http://dbpedia.org/resource/Narrative
+celtic art - http://dbpedia.org/resource/Celtic_art
+abstract - http://dbpedia.org/resource/Abstract_art
+celtic - http://dbpedia.org/resource/Celts
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+temptation - http://dbpedia.org/resource/Temptation_of_Christ
+christ - http://dbpedia.org/resource/Jesus
+virgin - http://dbpedia.org/resource/Virginity
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+genre - http://dbpedia.org/resource/Genre
+virgin - http://dbpedia.org/resource/Virginity
+infant - http://dbpedia.org/resource/Infant_baptism
+christ - http://dbpedia.org/resource/Jesus
+angel - http://dbpedia.org/resource/Angel
+icon - http://dbpedia.org/resource/Iconography
+celtic - http://dbpedia.org/resource/Celts
+writhe - http://dbpedia.org/resource/Writhe
+virgin - http://dbpedia.org/resource/Virginity
+celtic - http://dbpedia.org/resource/Celts
+celtic designs - http://dbpedia.org/resource/Celtic_art
+evolution - http://dbpedia.org/resource/Evolution
+motif - http://dbpedia.org/resource/Motif-Index_of_Folk-Literature
+celtic - http://dbpedia.org/resource/Celts
+interlace - http://dbpedia.org/resource/Celtic_knot
+zoomorphic - http://dbpedia.org/resource/Zoomorphism
+symbol - http://dbpedia.org/resource/Symbol
+celtic knots - http://dbpedia.org/resource/Celtic_knot
+celtic - http://dbpedia.org/resource/Celts
+heritage - http://dbpedia.org/resource/Tradition
+celts - http://dbpedia.org/resource/Celts
+celtic culture - http://dbpedia.org/resource/Celts
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+ireland - http://dbpedia.org/resource/Ireland
+biblical - http://dbpedia.org/resource/New_Testament
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+fantasy - http://dbpedia.org/resource/Fantasy
+overpower - http://dbpedia.org/resource/OverPower
+blind - http://dbpedia.org/resource/Visual_impairment
+sensibility - http://dbpedia.org/resource/Sensibility
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+point control - http://dbpedia.org/resource/King_of_the_Hill_(game)
+beauty - http://dbpedia.org/resource/Aesthetics
+baroque - http://dbpedia.org/resource/Baroque
+conflagration - http://dbpedia.org/resource/Fire
+characteristic set - http://dbpedia.org/resource/Wu's_method_of_characteristic_set
+culture area - http://dbpedia.org/resource/Cultural_area
+spirit - http://dbpedia.org/resource/Soul
+visual approach - http://dbpedia.org/resource/Visual_approach
+appetite - http://dbpedia.org/resource/Appetite
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+ireland - http://dbpedia.org/resource/Ireland
+scotland - http://dbpedia.org/resource/Scotland
+ornament - http://dbpedia.org/resource/Jewellery
+metalwork - http://dbpedia.org/resource/Metalworking
+early christian art - http://dbpedia.org/resource/Early_Christian_art_and_architecture
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+codex usserianus primus - http://dbpedia.org/resource/Codex_Usserianus_Primus
+dimma - http://dbpedia.org/resource/Book_of_Dimma
+lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
+codex amiatinus - http://dbpedia.org/resource/Codex_Amiatinus
+echternach gospels - http://dbpedia.org/resource/Echternach_Gospels
+lichfield gospels - http://dbpedia.org/resource/Lichfield_Gospels
+armagh - http://dbpedia.org/resource/Armagh
+deer - http://dbpedia.org/resource/Deer
+dun cow - http://dbpedia.org/resource/Dun_Cow

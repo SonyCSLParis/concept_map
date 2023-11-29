@@ -1,0 +1,32 @@
+portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
+brazil - http://dbpedia.org/resource/Brazil
+algarves - http://dbpedia.org/resource/Kingdom_of_the_Algarve
+independent - http://dbpedia.org/resource/Independence
+brazil - http://dbpedia.org/resource/Brazil
+napoleon - http://dbpedia.org/resource/Napoleon
+continental blockade - http://dbpedia.org/resource/Continental_System
+portuguese - http://dbpedia.org/resource/Portugal
+court - http://dbpedia.org/resource/Royal_court
+portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
+john vi - http://dbpedia.org/resource/John_VI_of_Portugal
+capital - http://dbpedia.org/resource/Capital_city
+portuguese empire - http://dbpedia.org/resource/Portuguese_Empire
+lisbon - http://dbpedia.org/resource/Lisbon
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+brazil - http://dbpedia.org/resource/Brazil
+colony - http://dbpedia.org/resource/Colony
+brazilians - http://dbpedia.org/resource/Brazil
+colony - http://dbpedia.org/resource/Colony
+portuguese - http://dbpedia.org/resource/Portugal
+court - http://dbpedia.org/resource/Royal_court
+brazil - http://dbpedia.org/resource/Brazil
+independence - http://dbpedia.org/resource/Independence
+royal family - http://dbpedia.org/resource/Spanish_royal_family
+orleans - http://dbpedia.org/resource/New_Orleans
+republican revolution - http://dbpedia.org/resource/5_October_1910_revolution
+colony - http://dbpedia.org/resource/Colony
+south america - http://dbpedia.org/resource/South_America
+orleans - http://dbpedia.org/resource/New_Orleans
+portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
+royalist - http://dbpedia.org/resource/House_of_Bourbon
+brazil - http://dbpedia.org/resource/Brazil

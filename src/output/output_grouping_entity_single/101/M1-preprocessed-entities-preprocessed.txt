@@ -1,0 +1,27 @@
+space - http://dbpedia.org/resource/Outer_space
+building safety - http://dbpedia.org/resource/Building_code
+floor plate - http://dbpedia.org/resource/Floor_plate
+office building - http://dbpedia.org/resource/Office
+infrastructure - http://dbpedia.org/resource/Infrastructure
+mansueto ventures - http://dbpedia.org/resource/Joe_Mansueto
+corporate image - http://dbpedia.org/resource/Corporate_identity
+building code - http://dbpedia.org/resource/Building_code
+tenant - http://dbpedia.org/resource/Leasehold_estate
+owings - http://dbpedia.org/resource/Micah_Owings
+column - http://dbpedia.org/resource/Column
+freedom - http://dbpedia.org/resource/Free_will
+wilmer hale - http://dbpedia.org/resource/Wilmer_Cutler_Pickering_Hale_and_Dorr
+7 wtc - http://dbpedia.org/resource/7_World_Trade_Center
+benchmark - http://dbpedia.org/resource/Benchmarking
+façade - http://dbpedia.org/resource/Facade
+midtown - http://dbpedia.org/resource/Midtown_Manhattan
+city - http://dbpedia.org/resource/City
+environmental responsibility - http://dbpedia.org/resource/Environmentalism
+leed gold - http://dbpedia.org/resource/Leadership_in_Energy_and_Environmental_Design
+exceed - http://dbpedia.org/resource/Hummingbird_Ltd.
+msci - http://dbpedia.org/resource/MSCI
+safety - http://dbpedia.org/resource/Safety
+beauty - http://dbpedia.org/resource/Beauty
+skidmore - http://dbpedia.org/resource/Skidmore_College
+york - http://dbpedia.org/resource/York
+manhattan - http://dbpedia.org/resource/Manhattan

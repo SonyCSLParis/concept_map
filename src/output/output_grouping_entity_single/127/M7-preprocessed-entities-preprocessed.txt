@@ -1,0 +1,43 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+princess cinderella - http://dbpedia.org/resource/Princess_Cinderella
+disney - http://dbpedia.org/resource/The_Walt_Disney_Company
+fantasy - http://dbpedia.org/resource/Fantasy
+crusade - http://dbpedia.org/resource/Crusades
+ufo - http://dbpedia.org/resource/Unidentified_flying_object
+amazing - http://dbpedia.org/resource/Amazing_Stories
+clip art - http://dbpedia.org/resource/Clip_art
+dream castle - http://dbpedia.org/resource/Dream_Castle_(film)
+medieval - http://dbpedia.org/resource/Middle_Ages
+germany - http://dbpedia.org/resource/Germany
+fairy tale - http://dbpedia.org/resource/Fairy_tale
+coloring book - http://dbpedia.org/resource/Coloring_book
+cinderella castle - http://dbpedia.org/resource/Cinderella_Castle
+crusades - http://dbpedia.org/resource/Crusades
+toy - http://dbpedia.org/resource/Toy
+defense - http://dbpedia.org/resource/Military
+cinderella - http://dbpedia.org/resource/Cinderella_stamp
+cartoon - http://dbpedia.org/resource/Cartoon
+lego - http://dbpedia.org/resource/Lego
+disney princess - http://dbpedia.org/resource/Disney_Princess
+dover - http://dbpedia.org/resource/Dover
+disney castle - http://dbpedia.org/resource/Cinderella_Castle
+ron - http://dbpedia.org/resource/Ron_Weasley
+bell - http://dbpedia.org/resource/Bell_tower
+horse - http://dbpedia.org/resource/Horse
+outline - http://dbpedia.org/resource/Nutrition
+heidelberg castle - http://dbpedia.org/resource/Heidelberg_Castle
+sword - http://dbpedia.org/resource/Sword
+church - http://dbpedia.org/resource/Church_architecture
+watch tower - http://dbpedia.org/resource/Watchtower
+knights - http://dbpedia.org/resource/Knight
+clothing - http://dbpedia.org/resource/Clothing
+dresden - http://dbpedia.org/resource/Dresden
+princess castle - http://dbpedia.org/resource/Golden_Films
+castle hill - http://dbpedia.org/resource/Electoral_district_of_Castle_Hill
+az - http://dbpedia.org/resource/Arizona
+worksheet - http://dbpedia.org/resource/Worksheet
+lead castle - http://dbpedia.org/resource/Lead_castle
+semperoper - http://dbpedia.org/resource/Semperoper
+hobby - http://dbpedia.org/resource/Hobby
+calendar - http://dbpedia.org/resource/Chinese_calendar
+barbie - http://dbpedia.org/resource/Barbie

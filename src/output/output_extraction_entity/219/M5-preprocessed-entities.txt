@@ -1,0 +1,195 @@
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+germany - http://dbpedia.org/resource/Nazi_Germany
+poland - http://dbpedia.org/resource/Poland
+race - http://dbpedia.org/resource/Racing
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+heavy water - http://dbpedia.org/resource/Heavy_water
+plant - http://dbpedia.org/resource/Chemical_plant
+uranium - http://dbpedia.org/resource/Uranium-235
+compound - http://dbpedia.org/resource/Chemical_compound
+scientist - http://dbpedia.org/resource/Scientist
+engineer - http://dbpedia.org/resource/Engineer
+chemical engineering - http://dbpedia.org/resource/Chemical_engineering
+nuclear threat - http://dbpedia.org/resource/India_and_weapons_of_mass_destruction
+axis power - http://dbpedia.org/resource/Axis_powers
+president - http://dbpedia.org/resource/President_of_the_United_States
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+einstein - http://dbpedia.org/resource/Albert_Einstein
+physics - http://dbpedia.org/resource/Physics
+uranium - http://dbpedia.org/resource/Uranium-235
+nuclear fission - http://dbpedia.org/resource/Nuclear_fission
+energy - http://dbpedia.org/resource/Energy
+einstein - http://dbpedia.org/resource/Albert_Einstein
+probability - http://dbpedia.org/resource/Probability
+nuclear reaction - http://dbpedia.org/resource/Nuclear_reaction
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+germany - http://dbpedia.org/resource/Nazi_Germany
+uranium - http://dbpedia.org/resource/Uranium-235
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+committee - http://dbpedia.org/resource/United_States_congressional_committee
+nuclear program - http://dbpedia.org/resource/German_nuclear_weapons_program
+army corps - http://dbpedia.org/resource/Corps
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+germany - http://dbpedia.org/resource/Nazi_Germany
+president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+army corps - http://dbpedia.org/resource/Corps
+city - http://dbpedia.org/resource/City
+manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+city - http://dbpedia.org/resource/City
+hanford - http://dbpedia.org/resource/Hanford_Site
+washington - http://dbpedia.org/resource/George_Washington
+ridge - http://dbpedia.org/resource/Ridge
+tennessee - http://dbpedia.org/resource/Tennessee
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+mexico - http://dbpedia.org/resource/Mexico
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+nm - http://dbpedia.org/resource/Navigation
+day school - http://dbpedia.org/resource/Day_school
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+gun - http://dbpedia.org/resource/Anti-aircraft_warfare
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+detonate - http://dbpedia.org/resource/Detonation
+plutonium - http://dbpedia.org/resource/Plutonium
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
+mexico - http://dbpedia.org/resource/Mexico
+code - http://dbpedia.org/resource/Code
+trinity - http://dbpedia.org/resource/Trinity
+nuclear age - http://dbpedia.org/resource/Atomic_Age
+detonation - http://dbpedia.org/resource/Nuclear_chain_reaction
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+crater - http://dbpedia.org/resource/Explosion_crater
+ton - http://dbpedia.org/resource/Ton
+tnt - http://dbpedia.org/resource/TNT
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+gadget - http://dbpedia.org/resource/Gadget
+explosive material - http://dbpedia.org/resource/Explosive
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+detonate - http://dbpedia.org/resource/Detonation
+city - http://dbpedia.org/resource/City
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+detonate - http://dbpedia.org/resource/Detonation
+city - http://dbpedia.org/resource/City
+nagasaki - http://dbpedia.org/resource/Fat_Man
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+nazis - http://dbpedia.org/resource/Nazism
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+pressure - http://dbpedia.org/resource/Pressure
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+invasion - http://dbpedia.org/resource/Invasion
+japanese mainland - http://dbpedia.org/resource/Honshu
+scientist - http://dbpedia.org/resource/Scientist
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+ethical - http://dbpedia.org/resource/Ethics
+race - http://dbpedia.org/resource/Racing
+scientist - http://dbpedia.org/resource/Scientist
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+transport - http://dbpedia.org/resource/Troopship
+pacific theater - http://dbpedia.org/resource/Pacific_War
+bomber - http://dbpedia.org/resource/Bomber
+enola gay - http://dbpedia.org/resource/Enola_Gay
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+nagasaki - http://dbpedia.org/resource/Fat_Man
+annihilation - http://dbpedia.org/resource/The_Holocaust
+city - http://dbpedia.org/resource/City
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+surrender unconditionally - http://dbpedia.org/resource/Surrender_of_Japan
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+truman - http://dbpedia.org/resource/Harry_S._Truman
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+mystery - http://dbpedia.org/resource/Mystery_fiction
+warfare - http://dbpedia.org/resource/War
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+signify - http://dbpedia.org/resource/Signify
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+destroyer - http://dbpedia.org/resource/Destroyer
+quotation - http://dbpedia.org/resource/Quotation_mark
+bhagavad gita - http://dbpedia.org/resource/Bhagavad_Gita
+recall - http://dbpedia.org/resource/Product_recall
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+atomic explosion - http://dbpedia.org/resource/Nuclear_explosion
+trinity - http://dbpedia.org/resource/Trinity
+white sands missile range - http://dbpedia.org/resource/White_Sands_Missile_Range
+court - http://dbpedia.org/resource/Court
+white sands missile range - http://dbpedia.org/resource/White_Sands_Missile_Range
+flag - http://dbpedia.org/resource/Flag_of_the_United_States
+july 9 - http://dbpedia.org/resource/July_9
+white sands missile range - http://dbpedia.org/resource/White_Sands_Missile_Range
+mexico - http://dbpedia.org/resource/Mexico
+wsmr - http://dbpedia.org/resource/White_Sands_Missile_Range
+integral - http://dbpedia.org/resource/Integral
+global defense - http://dbpedia.org/resource/SDI_(arcade_game)
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+richard rhodes - http://dbpedia.org/resource/Richard_Rhodes
+author - http://dbpedia.org/resource/Author
+pulitzer prize - http://dbpedia.org/resource/Pulitzer_Prize
+epic - http://dbpedia.org/resource/Epic_poetry
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+glass - http://dbpedia.org/resource/Glass
+ellen klages - http://dbpedia.org/resource/Ellen_Klages
+ellen klages - http://dbpedia.org/resource/Ellen_Klages
+paperback - http://dbpedia.org/resource/Paperback
+dewey - http://dbpedia.org/resource/John_Dewey
+kerrigan - http://dbpedia.org/resource/Characters_of_StarCraft
+mexico - http://dbpedia.org/resource/Mexico
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+john hersey - http://dbpedia.org/resource/John_Hersey
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+devastation - http://dbpedia.org/resource/HMS_Devastation_(1871)
+pulitzer prize - http://dbpedia.org/resource/Pulitzer_Prize
+author - http://dbpedia.org/resource/Author
+john hersey - http://dbpedia.org/resource/John_Hersey
+rec - http://dbpedia.org/resource/Renewable_Energy_Corporation
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+secret city - http://dbpedia.org/resource/Closed_city
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+jennet conant - http://dbpedia.org/resource/Jennet_Conant
+santa fe - http://dbpedia.org/resource/Santa_Fe_Trail
+mexico - http://dbpedia.org/resource/Mexico
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+blacklist - http://dbpedia.org/resource/Blacklisting
+untold - http://dbpedia.org/resource/Untold_(musician)
+senator - http://dbpedia.org/resource/United_States_Senate
+stanton - http://dbpedia.org/resource/Elizabeth_Cady_Stanton
+evans - http://dbpedia.org/resource/Godfrey_Evans
+red scare - http://dbpedia.org/resource/McCarthyism
+innocent victim - http://dbpedia.org/resource/Innocent_Victim
+senator - http://dbpedia.org/resource/United_States_Senate
+joseph - http://dbpedia.org/resource/Joseph_Bonaparte
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+conspiracy - http://dbpedia.org/resource/Conspiracy_theory
+louis nizer - http://dbpedia.org/resource/Louis_Nizer
+louis nizer - http://dbpedia.org/resource/Louis_Nizer
+lawyer - http://dbpedia.org/resource/Lawyer
+ethel - http://dbpedia.org/resource/Œ
+rosenberg - http://dbpedia.org/resource/Julius_and_Ethel_Rosenberg
+espionage - http://dbpedia.org/resource/Atomic_spies
+tragedy - http://dbpedia.org/resource/Tragedy
+henry - http://dbpedia.org/resource/Henry_(unit)
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+tragedy - http://dbpedia.org/resource/Tragedy

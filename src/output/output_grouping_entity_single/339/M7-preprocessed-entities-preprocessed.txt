@@ -1,0 +1,231 @@
+federalist 78 - http://dbpedia.org/resource/Federalist_No._78
+municipal law - http://dbpedia.org/resource/Municipal_law
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
+patent - http://dbpedia.org/resource/Patent
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+christianity - http://dbpedia.org/resource/Christianity
+peace negotiation - http://dbpedia.org/resource/Peace_treaty
+james madison - http://dbpedia.org/resource/James_Madison
+ammunition - http://dbpedia.org/resource/Ammunition
+statecraft - http://dbpedia.org/resource/Public_policy
+heritage foundation - http://dbpedia.org/resource/The_Heritage_Foundation
+resort - http://dbpedia.org/resource/Resort
+sovereign - http://dbpedia.org/resource/Sovereign_state
+interstate commerce clause - http://dbpedia.org/resource/Commerce_Clause
+ph.d. - http://dbpedia.org/resource/Thesis
+evil - http://dbpedia.org/resource/Evil
+copyright - http://dbpedia.org/resource/Copyright
+bus - http://dbpedia.org/resource/Bus
+party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
+commandments - http://dbpedia.org/resource/Ten_Commandments
+madison - http://dbpedia.org/resource/Madison_(cycling)
+creditor - http://dbpedia.org/resource/Creditor
+decision maker - http://dbpedia.org/resource/Decision-making
+piracy - http://dbpedia.org/resource/Copyright_infringement
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
+naturalization - http://dbpedia.org/resource/Citizenship_of_the_United_States
+biblical - http://dbpedia.org/resource/Bible
+black people - http://dbpedia.org/resource/Black_people
+president - http://dbpedia.org/resource/President_of_the_United_States
+god - http://dbpedia.org/resource/God
+people express - http://dbpedia.org/resource/People_Express_Airlines_(1980s)
+endnotes - http://dbpedia.org/resource/Note_(typography)
+interposition - http://dbpedia.org/resource/Interposition
+federation - http://dbpedia.org/resource/Federalism
+cap - http://dbpedia.org/resource/Hat
+conditions precedent - http://dbpedia.org/resource/Condition_precedent
+oppression - http://dbpedia.org/resource/Oppression
+judge - http://dbpedia.org/resource/Judge
+transport - http://dbpedia.org/resource/Transport
+code - http://dbpedia.org/resource/Code_of_law
+manufactured good - http://dbpedia.org/resource/Final_good
+tenor - http://dbpedia.org/resource/Tenor
+public restroom - http://dbpedia.org/resource/Public_toilet
+legislature - http://dbpedia.org/resource/Legislature
+law - http://dbpedia.org/resource/Common_law
+dear reader - http://dbpedia.org/resource/Dear_Reader
+exclusive jurisdiction - http://dbpedia.org/resource/Exclusive_jurisdiction
+virtue - http://dbpedia.org/resource/Morality
+public interest - http://dbpedia.org/resource/Public_interest
+truth - http://dbpedia.org/resource/Truth
+obama - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+hinder - http://dbpedia.org/resource/Hinder
+import tariff - http://dbpedia.org/resource/Tariff
+federalist papers - http://dbpedia.org/resource/The_Federalist_Papers
+global warming - http://dbpedia.org/resource/Global_warming
+regurgitate - http://dbpedia.org/resource/Regurgitation_(digestion)
+concurrent jurisdiction - http://dbpedia.org/resource/Concurrent_jurisdiction
+executive branch - http://dbpedia.org/resource/Federal_government_of_the_United_States
+bankruptcy law - http://dbpedia.org/resource/Bankruptcy
+indoctrination - http://dbpedia.org/resource/Indoctrination
+monster - http://dbpedia.org/resource/Paranoia
+pressure - http://dbpedia.org/resource/Pressure
+immigration policy - http://dbpedia.org/resource/Border_control
+5it - http://dbpedia.org/resource/5IT
+type color - http://dbpedia.org/resource/Type_color
+compact - http://dbpedia.org/resource/Compact_theory
+misrepresentation - http://dbpedia.org/resource/Misrepresentation
+security - http://dbpedia.org/resource/Security_interest
+cowardice - http://dbpedia.org/resource/Cowardice
+smack - http://dbpedia.org/resource/Heroin
+judicial branch - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
+executive order - http://dbpedia.org/resource/Executive_order
+grantor - http://dbpedia.org/resource/Conveyancing
+welfare - http://dbpedia.org/resource/Welfare
+statism - http://dbpedia.org/resource/Statism
+federal judge - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
+liberty - http://dbpedia.org/resource/Liberty
+attorney - http://dbpedia.org/resource/Attorney_general
+oath - http://dbpedia.org/resource/Oath
+defense - http://dbpedia.org/resource/National_security
+taxation - http://dbpedia.org/resource/Tax
+pervert - http://dbpedia.org/resource/Perversion
+medical insurance - http://dbpedia.org/resource/Health_insurance
+magistrate - http://dbpedia.org/resource/Magistrate
+legislative branch - http://dbpedia.org/resource/United_States_Congress
+alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
+counterfeiter - http://dbpedia.org/resource/Counterfeit
+ivory tower - http://dbpedia.org/resource/Ivory_tower
+denial - http://dbpedia.org/resource/Jim_Crow_laws
+labor union - http://dbpedia.org/resource/Trade_union
+whip - http://dbpedia.org/resource/Flagellation
+seditious - http://dbpedia.org/resource/Sedition
+safety - http://dbpedia.org/resource/Safety
+martin luther king - http://dbpedia.org/resource/Martin_Luther_King_Jr.
+subversion - http://dbpedia.org/resource/Subversion
+power object - http://dbpedia.org/resource/Exponential_object
+amendment - http://dbpedia.org/resource/Law
+gun - http://dbpedia.org/resource/Firearm
+human resource - http://dbpedia.org/resource/Employment
+virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+political philosophy - http://dbpedia.org/resource/Political_philosophy
+sovereignty - http://dbpedia.org/resource/Sovereign_state
+public school - http://dbpedia.org/resource/Education_in_the_United_States
+reserve power - http://dbpedia.org/resource/Reserve_power
+blank check - http://dbpedia.org/resource/Blank_cheque
+spalding - http://dbpedia.org/resource/Spalding_Professor_of_Eastern_Religion_and_Ethics
+rosa parks - http://dbpedia.org/resource/Rosa_Parks
+original intent - http://dbpedia.org/resource/Originalism
+kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+chant - http://dbpedia.org/resource/Chant
+relief - http://dbpedia.org/resource/Legal_remedy
+indoctrinate - http://dbpedia.org/resource/Indoctrination
+raw power - http://dbpedia.org/resource/Raw_Power
+fractional - http://dbpedia.org/resource/Fractional_ownership
+silver - http://dbpedia.org/resource/Silver
+abomination - http://dbpedia.org/resource/Abomination_(Bible)
+constitutional law - http://dbpedia.org/resource/Constitution_of_the_United_States
+government delegate - http://dbpedia.org/resource/Government_Delegation_for_Poland
+confederacy - http://dbpedia.org/resource/Federalism
+refrain - http://dbpedia.org/resource/Refrain
+impose - http://dbpedia.org/resource/Impose_(magazine)
+paper currency - http://dbpedia.org/resource/Banknote
+critical thinking - http://dbpedia.org/resource/Critical_thinking
+power control - http://dbpedia.org/resource/Power_control
+u.s. senator - http://dbpedia.org/resource/United_States_Senate
+common sense - http://dbpedia.org/resource/Common_sense
+rein - http://dbpedia.org/resource/Rein
+economy - http://dbpedia.org/resource/Economy
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+immigration - http://dbpedia.org/resource/Immigration
+road building - http://dbpedia.org/resource/Road
+judicial power - http://dbpedia.org/resource/Judiciary
+import - http://dbpedia.org/resource/Import
+law professor - http://dbpedia.org/resource/Lawyer
+international commerce - http://dbpedia.org/resource/Trade
+iv - http://dbpedia.org/resource/Intravenous_therapy
+court - http://dbpedia.org/resource/Court
+jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+supreme law - http://dbpedia.org/resource/Supremacy_Clause
+reserve - http://dbpedia.org/resource/Bank_reserves
+hypothesis - http://dbpedia.org/resource/Hypothesis
+national sovereignty - http://dbpedia.org/resource/Sovereignty
+federalist - http://dbpedia.org/resource/Federalism
+overpass - http://dbpedia.org/resource/Overpass
+prayer - http://dbpedia.org/resource/Prayer
+cotton - http://dbpedia.org/resource/Cotton
+plain - http://dbpedia.org/resource/John_Major
+dangerous power - http://dbpedia.org/resource/Dangerous_Power
+function - http://dbpedia.org/resource/Role
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+motion - http://dbpedia.org/resource/Motion
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+nullification - http://dbpedia.org/resource/Jury
+preamble - http://dbpedia.org/resource/Preamble
+cato institute - http://dbpedia.org/resource/Cato_Institute
+parrot - http://dbpedia.org/resource/Parrot
+felony - http://dbpedia.org/resource/Felony
+article - http://dbpedia.org/resource/No_Gun_Ri_massacre
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+federal law - http://dbpedia.org/resource/Law_of_the_United_States
+deniers - http://dbpedia.org/resource/Climate_change_denial
+theory - http://dbpedia.org/resource/Theory
+jim - http://dbpedia.org/resource/Jim_Halpert
+party party - http://dbpedia.org/resource/Party_Party_(film)
+magnitude - http://dbpedia.org/resource/Euclidean_vector
+traitor - http://dbpedia.org/resource/Treason
+natural resource - http://dbpedia.org/resource/Natural_resource
+debtor - http://dbpedia.org/resource/Debtor
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+litigation - http://dbpedia.org/resource/Lawsuit
+dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
+denier - http://dbpedia.org/resource/Climate_change_denial
+barton - http://dbpedia.org/resource/Demesne
+independence - http://dbpedia.org/resource/Independence
+thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+public place - http://dbpedia.org/resource/Public_space
+uniform - http://dbpedia.org/resource/Uniform
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+parasite - http://dbpedia.org/resource/Parasitism
+randy barnett - http://dbpedia.org/resource/Randy_Barnett
+sedition - http://dbpedia.org/resource/Sedition
+prudence - http://dbpedia.org/resource/Wisdom
+infant industry - http://dbpedia.org/resource/Infant_industry
+committee - http://dbpedia.org/resource/Committee
+inflation - http://dbpedia.org/resource/Inflation
+officer - http://dbpedia.org/resource/Police_officer
+york - http://dbpedia.org/resource/House_of_York
+kentucky - http://dbpedia.org/resource/Kentucky
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+bit - http://dbpedia.org/resource/Bit
+man people - http://dbpedia.org/resource/Manchu_people
+dominion - http://dbpedia.org/resource/Dominion
+judiciary - http://dbpedia.org/resource/Judiciary
+mlk - http://dbpedia.org/resource/Malik
+fair trial - http://dbpedia.org/resource/Right_to_a_fair_trial
+draft - http://dbpedia.org/resource/Conscription
+water fountain - http://dbpedia.org/resource/Fountain
+progressives - http://dbpedia.org/resource/Progressivism
+statist - http://dbpedia.org/resource/Statism
+positive form - http://dbpedia.org/resource/Positive_form
+human events - http://dbpedia.org/resource/Human_Events
+professor - http://dbpedia.org/resource/Jurist
+concurrence - http://dbpedia.org/resource/Concurring_opinion
+huldah - http://dbpedia.org/resource/Huldah
+republic - http://dbpedia.org/resource/Republic
+political system - http://dbpedia.org/resource/Stalinism
+object - http://dbpedia.org/resource/Physical_object
+disobey - http://dbpedia.org/resource/Disobey
+wallbuilders - http://dbpedia.org/resource/David_Barton_(author)
+prosper - http://dbpedia.org/resource/Prosper_of_Aquitaine
+public square - http://dbpedia.org/resource/Town_square
+doctrine - http://dbpedia.org/resource/Doctrine
+teddy roosevelt - http://dbpedia.org/resource/Theodore_Roosevelt
+people today - http://dbpedia.org/resource/People_Today_(magazine)
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+civil disobedience - http://dbpedia.org/resource/Civil_disobedience
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+theft - http://dbpedia.org/resource/Theft
+gold - http://dbpedia.org/resource/Gold_standard
+federal court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+david - http://dbpedia.org/resource/David
+tyranny - http://dbpedia.org/resource/Tyrant
+paper - http://dbpedia.org/resource/Academic_publishing
+article vi - http://dbpedia.org/resource/Article_Six_of_the_United_States_Constitution
+tariff - http://dbpedia.org/resource/Tariff
+south carolina - http://dbpedia.org/resource/South_Carolina

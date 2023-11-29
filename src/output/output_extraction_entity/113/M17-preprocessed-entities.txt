@@ -1,0 +1,213 @@
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+compound - http://dbpedia.org/resource/Chemical_compound
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+central java - http://dbpedia.org/resource/Central_Java
+concentric - http://dbpedia.org/resource/Concentric_objects
+terrace - http://dbpedia.org/resource/Terrace_garden
+trunk - http://dbpedia.org/resource/Elephant
+cone - http://dbpedia.org/resource/Cone
+stupa - http://dbpedia.org/resource/Stupa
+balustrade - http://dbpedia.org/resource/Baluster
+relief - http://dbpedia.org/resource/Relief
+surface area - http://dbpedia.org/resource/Surface_area
+openwork - http://dbpedia.org/resource/Openwork
+stupas - http://dbpedia.org/resource/Stupa
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+monument - http://dbpedia.org/resource/Monument
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+buddhist - http://dbpedia.org/resource/Buddhism
+monument - http://dbpedia.org/resource/Monument
+monument - http://dbpedia.org/resource/Monument
+kedu - http://dbpedia.org/resource/Kedu_Plain
+central java - http://dbpedia.org/resource/Central_Java
+centre island - http://dbpedia.org/resource/Toronto_Islands
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+stupa - http://dbpedia.org/resource/Stupa
+concentric - http://dbpedia.org/resource/Concentric_objects
+terrace - http://dbpedia.org/resource/Terrace_garden
+trunk - http://dbpedia.org/resource/Elephant
+cone - http://dbpedia.org/resource/Cone
+stupa - http://dbpedia.org/resource/Stupa
+balustrade - http://dbpedia.org/resource/Baluster
+relief - http://dbpedia.org/resource/Relief
+surface area - http://dbpedia.org/resource/Surface_area
+openwork - http://dbpedia.org/resource/Openwork
+stupas - http://dbpedia.org/resource/Stupa
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+superstructure - http://dbpedia.org/resource/Base_and_superstructure
+universe - http://dbpedia.org/resource/Universe
+buddhist cosmology - http://dbpedia.org/resource/Buddhist_cosmology
+universe - http://dbpedia.org/resource/Universe
+sphere - http://dbpedia.org/resource/Sphere
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+sphere - http://dbpedia.org/resource/Sphere
+sphere - http://dbpedia.org/resource/Sphere
+sphere - http://dbpedia.org/resource/Sphere
+formlessness - http://dbpedia.org/resource/Formlessness
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+terrace - http://dbpedia.org/resource/Terrace_garden
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+stupa - http://dbpedia.org/resource/Stupa
+ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
+buddhist - http://dbpedia.org/resource/Buddhism
+nirvana - http://dbpedia.org/resource/Nirvana
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+dynastic - http://dbpedia.org/resource/Dynasty
+monument - http://dbpedia.org/resource/Monument
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+mendut - http://dbpedia.org/resource/Mendut
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+formidable - http://dbpedia.org/resource/French_ship_Formidable
+bodhisattvas - http://dbpedia.org/resource/Bodhisattva
+pawon - http://dbpedia.org/resource/Pawon
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+space - http://dbpedia.org/resource/Space
+deity - http://dbpedia.org/resource/Hinduism
+object - http://dbpedia.org/resource/Astronomical_object
+monument - http://dbpedia.org/resource/Monument
+nirvana - http://dbpedia.org/resource/Nirvana
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+temple construction - http://dbpedia.org/resource/Candi_of_Indonesia
+19th century restoration - http://dbpedia.org/resource/Victorian_restoration
+buddhist - http://dbpedia.org/resource/Buddhism
+archaeological site - http://dbpedia.org/resource/Archaeology
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+pyramid - http://dbpedia.org/resource/Pyramid
+terrace - http://dbpedia.org/resource/Terrace_garden
+bell - http://dbpedia.org/resource/Bell_tower
+dome - http://dbpedia.org/resource/Dome
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+stupas - http://dbpedia.org/resource/Stupa
+temple mountain - http://dbpedia.org/resource/Khmer_architecture
+buddhist architecture - http://dbpedia.org/resource/Buddhist_architecture
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+architecture - http://dbpedia.org/resource/Architecture
+architectural revival - http://dbpedia.org/resource/Sicilian_Baroque
+lotus - http://dbpedia.org/resource/Nelumbo_nucifera
+sacred - http://dbpedia.org/resource/Sacred
+flower - http://dbpedia.org/resource/Flower
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+reflection - http://dbpedia.org/resource/Introspection
+indigenous - http://dbpedia.org/resource/Indigenous_peoples
+ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
+buddhist - http://dbpedia.org/resource/Buddhism
+nirvana - http://dbpedia.org/resource/Nirvana
+mount - http://dbpedia.org/resource/Vahana
+terrace - http://dbpedia.org/resource/Terrace_garden
+bodhisattva - http://dbpedia.org/resource/Bodhisattva
+buddhahood - http://dbpedia.org/resource/Buddhahood
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+imaginary axis - http://dbpedia.org/resource/Complex_plane
+function - http://dbpedia.org/resource/Role
+monument - http://dbpedia.org/resource/Monument
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+mendut - http://dbpedia.org/resource/Mendut
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+pawon - http://dbpedia.org/resource/Pawon
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+ensemble - http://dbpedia.org/resource/Numerical_weather_prediction
+monument - http://dbpedia.org/resource/Monument
+tourism - http://dbpedia.org/resource/Tourism
+pressure - http://dbpedia.org/resource/Pressure
+hinterland - http://dbpedia.org/resource/Hinterland
+stone - http://dbpedia.org/resource/Masonry
+unsupervised - http://dbpedia.org/resource/Unsupervised_learning
+eruption - http://dbpedia.org/resource/Types_of_volcanic_eruptions
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+acidic - http://dbpedia.org/resource/PH
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+monument - http://dbpedia.org/resource/Monument
+drainage - http://dbpedia.org/resource/Drainage
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+buddhist pilgrimage - http://dbpedia.org/resource/Buddhist_pilgrimage_sites
+atmosphere - http://dbpedia.org/resource/Atmosphere
+pressure - http://dbpedia.org/resource/Pressure
+tourism management - http://dbpedia.org/resource/Hospitality_management_studies
+indonesian law - http://dbpedia.org/resource/Law_of_Indonesia
+cultural heritage - http://dbpedia.org/resource/Cultural_heritage
+cultural landscape - http://dbpedia.org/resource/Cultural_landscape
+public works - http://dbpedia.org/resource/Public_works
+law - http://dbpedia.org/resource/Law
+spatial planning - http://dbpedia.org/resource/Spatial_planning
+presidential - http://dbpedia.org/resource/Presidential_system
+borobudur - http://dbpedia.org/resource/Borobudur
+draft - http://dbpedia.org/resource/Conscription
+public works - http://dbpedia.org/resource/Public_works
+presidential decree - http://dbpedia.org/resource/Decree
+heritage - http://dbpedia.org/resource/Cultural_heritage
+borobudur - http://dbpedia.org/resource/Borobudur
+heritage conservation - http://dbpedia.org/resource/Historic_preservation
+education - http://dbpedia.org/resource/Education
+culture - http://dbpedia.org/resource/Culture
+candi borobudur - http://dbpedia.org/resource/Borobudur
+local government - http://dbpedia.org/resource/Local_government
+magelang regency - http://dbpedia.org/resource/Magelang_Regency
+central java - http://dbpedia.org/resource/Central_Java
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+ecosystem - http://dbpedia.org/resource/Ecosystem
+ecotourism - http://dbpedia.org/resource/Ecotourism
+public private partnership - http://dbpedia.org/resource/Public–private_partnership
+feasibility study - http://dbpedia.org/resource/Feasibility_study
+visitor management - http://dbpedia.org/resource/Visitor_management
+presidential decree - http://dbpedia.org/resource/Decree
+jica - http://dbpedia.org/resource/Japan_International_Cooperation_Agency
+heritage - http://dbpedia.org/resource/Cultural_heritage
+presidential - http://dbpedia.org/resource/Presidential_system
+local authority - http://dbpedia.org/resource/Local_government
+monitor - http://dbpedia.org/resource/Display_device
+stone - http://dbpedia.org/resource/Masonry
+unsupervised - http://dbpedia.org/resource/Unsupervised_learning
+acidic - http://dbpedia.org/resource/PH
+eruption - http://dbpedia.org/resource/Types_of_volcanic_eruptions
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+borobudur - http://dbpedia.org/resource/Borobudur
+heritage conservation - http://dbpedia.org/resource/Historic_preservation
+community development program - http://dbpedia.org/resource/Community_development
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+borobudur - http://dbpedia.org/resource/Borobudur
+community development - http://dbpedia.org/resource/Community_development
+handicraft - http://dbpedia.org/resource/Handicraft
+municipality - http://dbpedia.org/resource/Municipality
+magelang regency - http://dbpedia.org/resource/Magelang_Regency
+central java - http://dbpedia.org/resource/Central_Java
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+nhk - http://dbpedia.org/resource/NHK
+nhk - http://dbpedia.org/resource/NHK
+heritage - http://dbpedia.org/resource/Cultural_heritage
+100 series - http://dbpedia.org/resource/Tobu_100_series
+windows media - http://dbpedia.org/resource/Windows_Media_Player
+news 2 - http://dbpedia.org/resource/RTÉ_News_on_Two
+heritage - http://dbpedia.org/resource/Cultural_heritage
+earth hour - http://dbpedia.org/resource/Earth_Hour
+netherlands - http://dbpedia.org/resource/Netherlands
+borobudur - http://dbpedia.org/resource/Borobudur
+heritage - http://dbpedia.org/resource/Cultural_heritage

@@ -1,0 +1,41 @@
+progressive school - http://dbpedia.org/resource/Progressive_education
+architecture - http://dbpedia.org/resource/Architecture
+function - http://dbpedia.org/resource/Subroutine
+n17 - http://dbpedia.org/resource/N_postcode_area
+durban - http://dbpedia.org/resource/Durban
+summerhill - http://dbpedia.org/resource/Summerhill_School
+civic society - http://dbpedia.org/resource/Civil_society
+family - http://dbpedia.org/resource/Family
+curator - http://dbpedia.org/resource/Curator
+acre - http://dbpedia.org/resource/Acre
+court - http://dbpedia.org/resource/Royal_court
+census - http://dbpedia.org/resource/Census_in_the_United_Kingdom
+william compton - http://dbpedia.org/resource/William_Compton_(courtier)
+victorian period - http://dbpedia.org/resource/Victorian_era
+open museum - http://dbpedia.org/resource/Open_Museum
+family history - http://dbpedia.org/resource/Genealogy
+splendid - http://dbpedia.org/resource/Le_Splendid
+british postal system - http://dbpedia.org/resource/Royal_Mail
+newspaper - http://dbpedia.org/resource/Newspaper
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
+coleraine - http://dbpedia.org/resource/Coleraine
+map - http://dbpedia.org/resource/Map
+p.o - http://dbpedia.org/resource/P.O
+local history - http://dbpedia.org/resource/Local_history
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+telephone - http://dbpedia.org/resource/Telephone
+forum - http://dbpedia.org/resource/Internet_forum
+mailing list - http://dbpedia.org/resource/Electronic_mailing_list
+public interest - http://dbpedia.org/resource/Public_interest
+geography - http://dbpedia.org/resource/Geography
+registered charity - http://dbpedia.org/resource/Charitable_organization
+penny post - http://dbpedia.org/resource/Penny_Post
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+manor house - http://dbpedia.org/resource/Manor_house
+sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
+tottenham - http://dbpedia.org/resource/London_Borough_of_Haringey
+borough - http://dbpedia.org/resource/Borough
+tower - http://dbpedia.org/resource/Keep
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England

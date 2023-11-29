@@ -1,0 +1,15 @@
+ireland - http://dbpedia.org/resource/Republic_of_Ireland
+tablet - http://dbpedia.org/resource/Tablet_computer
+sistine chapel - http://dbpedia.org/resource/Sistine_Chapel
+ebook - http://dbpedia.org/resource/E-book
+analogy - http://dbpedia.org/resource/Analogy
+kindle fire - http://dbpedia.org/resource/Amazon_Fire_tablet
+android - http://dbpedia.org/resource/Gynoid
+object - http://dbpedia.org/resource/Object-oriented_programming
+app - http://dbpedia.org/resource/Mobile_app
+trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+ipad - http://dbpedia.org/resource/IPad
+great work - http://dbpedia.org/resource/Opus_Majus
+visual art - http://dbpedia.org/resource/Visual_arts
+library - http://dbpedia.org/resource/Library

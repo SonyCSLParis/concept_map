@@ -1,0 +1,64 @@
+constitution - http://dbpedia.org/resource/Constitution_of_Indiana
+stephen hill - http://dbpedia.org/resource/Stephen_Hill_(broadcaster)
+secede - http://dbpedia.org/resource/Secession_in_the_United_States
+involuntary servitude - http://dbpedia.org/resource/Involuntary_servitude
+pistol - http://dbpedia.org/resource/Handgun
+texas - http://dbpedia.org/resource/Texas
+spencer hill - http://dbpedia.org/resource/Midpoint_Trade_Books
+fluke - http://dbpedia.org/resource/Whale
+slave owner - http://dbpedia.org/resource/Slavery_in_the_United_States
+utah territory - http://dbpedia.org/resource/Utah_Territory
+wood - http://dbpedia.org/resource/Lumber
+cash - http://dbpedia.org/resource/Money
+columbia - http://dbpedia.org/resource/Cuban_rumba
+webster - http://dbpedia.org/resource/Martell_Webster
+african americans - http://dbpedia.org/resource/African_Americans
+crime - http://dbpedia.org/resource/Crime
+north south - http://dbpedia.org/resource/North_South_MRT_line
+economy - http://dbpedia.org/resource/Economy
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+newspaper - http://dbpedia.org/resource/Newspaper
+native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+set sail - http://dbpedia.org/resource/Set_Sail_(The_Movement_album)
+senator - http://dbpedia.org/resource/United_States_Senate
+early summer - http://dbpedia.org/resource/Early_Summer
+mining - http://dbpedia.org/resource/Gold_mining
+glad - http://dbpedia.org/resource/The_Glad_Products_Company
+spring - http://dbpedia.org/resource/Mineral_spring
+gold watch - http://dbpedia.org/resource/Norwegian_Football_Association_Gold_Watch
+san joaquin - http://dbpedia.org/resource/San_Joaquin_Valley
+st. charles - http://dbpedia.org/resource/St._Charles_East_High_School
+washington - http://dbpedia.org/resource/George_Washington
+dollar - http://dbpedia.org/resource/United_States_dollar
+california - http://dbpedia.org/resource/California
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+free man - http://dbpedia.org/resource/Free_Man
+western u.s. - http://dbpedia.org/resource/Western_United_States
+clutch - http://dbpedia.org/resource/Clutch
+owen - http://dbpedia.org/resource/Richard_Owen
+missouri - http://dbpedia.org/resource/Missouri
+rozier - http://dbpedia.org/resource/Mike_Rozier
+gold - http://dbpedia.org/resource/Gold
+statehood - http://dbpedia.org/resource/Admission_to_the_Union
+republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
+law - http://dbpedia.org/resource/Law_of_the_United_States
+city - http://dbpedia.org/resource/City
+slave trade - http://dbpedia.org/resource/Slavery_in_the_United_States
+federal law - http://dbpedia.org/resource/Law_of_the_United_States
+mississippi - http://dbpedia.org/resource/Mississippi
+judge - http://dbpedia.org/resource/Judge
+slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+monterey - http://dbpedia.org/resource/Battle_of_Monterey
+extricate - http://dbpedia.org/resource/Extricate
+fugitive - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
+boys hill - http://dbpedia.org/resource/Holnest
+dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
+fugitive slave - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
+daniel webster - http://dbpedia.org/resource/Daniel_Webster
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+steamer - http://dbpedia.org/resource/Steamboat
+arkansas - http://dbpedia.org/resource/Arkansas
+rally - http://dbpedia.org/resource/Protest
+massachusetts - http://dbpedia.org/resource/Massachusetts
+miner - http://dbpedia.org/resource/Miner

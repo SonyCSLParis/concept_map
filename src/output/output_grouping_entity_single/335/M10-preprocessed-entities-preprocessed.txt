@@ -1,0 +1,22 @@
+defendant - http://dbpedia.org/resource/Defendant
+witchcraft - http://dbpedia.org/resource/Witch-hunt
+countie - http://dbpedia.org/resource/Uyezd
+die - http://dbpedia.org/resource/Death
+village - http://dbpedia.org/resource/Village
+peace - http://dbpedia.org/resource/Peace
+murder - http://dbpedia.org/resource/Murder
+healer - http://dbpedia.org/resource/Folk_healer
+prosecutor - http://dbpedia.org/resource/Prosecutor
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+lancashire - http://dbpedia.org/resource/Lancashire
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+thomas potts - http://dbpedia.org/resource/Thomas_Potts
+astounding - http://dbpedia.org/resource/Analog_Science_Fiction_and_Fact
+witches - http://dbpedia.org/resource/Witch-hunt
+pendle - http://dbpedia.org/resource/Pendle_witches
+witch trial - http://dbpedia.org/resource/Witch-hunt
+british history - http://dbpedia.org/resource/History_of_the_British_Isles
+early modern period - http://dbpedia.org/resource/Early_modern_period
+lancaster assizes - http://dbpedia.org/resource/Lancaster_Castle
+prison - http://dbpedia.org/resource/Prison

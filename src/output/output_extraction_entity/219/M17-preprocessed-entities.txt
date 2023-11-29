@@ -1,0 +1,195 @@
+manhattan - http://dbpedia.org/resource/Manhattan
+plutonium - http://dbpedia.org/resource/Plutonium
+manhattan - http://dbpedia.org/resource/Manhattan
+scientist - http://dbpedia.org/resource/Scientist
+tone - http://dbpedia.org/resource/Timbre
+race - http://dbpedia.org/resource/Racing
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+scientist - http://dbpedia.org/resource/Scientist
+plutonium - http://dbpedia.org/resource/Plutonium
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+thin man - http://dbpedia.org/resource/The_Thin_Man
+plutonium - http://dbpedia.org/resource/Plutonium
+gun - http://dbpedia.org/resource/Artillery
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+sample - http://dbpedia.org/resource/Adsorption
+plutonium-239 - http://dbpedia.org/resource/Plutonium
+laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+plutonium - http://dbpedia.org/resource/Plutonium
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+ridge - http://dbpedia.org/resource/Ridge
+plutonium-240 - http://dbpedia.org/resource/Plutonium-240
+spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
+pu-239 - http://dbpedia.org/resource/Plutonium
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+thin man - http://dbpedia.org/resource/The_Thin_Man
+doom - http://dbpedia.org/resource/Doom_metal
+thin man - http://dbpedia.org/resource/The_Thin_Man
+plutonium - http://dbpedia.org/resource/Plutonium
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+fissile - http://dbpedia.org/resource/Nuclear_fission
+plutonium - http://dbpedia.org/resource/Plutonium
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+fissile - http://dbpedia.org/resource/Nuclear_fission
+predetonate - http://dbpedia.org/resource/Nuclear_chain_reaction
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+moral dilemma - http://dbpedia.org/resource/Ethical_dilemma
+boss - http://dbpedia.org/resource/Crime_boss
+thin man - http://dbpedia.org/resource/The_Thin_Man
+plutonium - http://dbpedia.org/resource/Plutonium
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+abby - http://dbpedia.org/resource/Abby_Lockhart
+abby - http://dbpedia.org/resource/Abby_Lockhart
+train - http://dbpedia.org/resource/Train
+california - http://dbpedia.org/resource/California
+news - http://dbpedia.org/resource/CBS_News
+minsk - http://dbpedia.org/resource/Minsk
+murder - http://dbpedia.org/resource/Murder
+nazis - http://dbpedia.org/resource/Nazism
+abby - http://dbpedia.org/resource/Abby_Lockhart
+nazi - http://dbpedia.org/resource/Nazism
+persecution - http://dbpedia.org/resource/Persecution
+abby - http://dbpedia.org/resource/Abby_Lockhart
+nazis - http://dbpedia.org/resource/Nazism
+nazis - http://dbpedia.org/resource/Nazism
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+disaster - http://dbpedia.org/resource/Chernobyl_disaster
+frank winter - http://dbpedia.org/resource/Frank_Winter
+thin man - http://dbpedia.org/resource/The_Thin_Man
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+scientist - http://dbpedia.org/resource/Scientist
+nazis - http://dbpedia.org/resource/Nazism
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+scientist - http://dbpedia.org/resource/Scientist
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+persecution - http://dbpedia.org/resource/Persecution
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+sigmund freud - http://dbpedia.org/resource/Sigmund_Freud
+emilio segre - http://dbpedia.org/resource/Emilio_Segrè
+lise meitner - http://dbpedia.org/resource/Lise_Meitner
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+joseph rotblat - http://dbpedia.org/resource/Joseph_Rotblat
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+scientist - http://dbpedia.org/resource/Scientist
+germany - http://dbpedia.org/resource/Nazi_Germany
+anti semitism - http://dbpedia.org/resource/Antisemitism
+poland - http://dbpedia.org/resource/Poland
+holocaust - http://dbpedia.org/resource/The_Holocaust
+hans bethe - http://dbpedia.org/resource/Hans_Bethe
+recall - http://dbpedia.org/resource/Recall_election
+anti semitism - http://dbpedia.org/resource/Antisemitism
+adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+germany - http://dbpedia.org/resource/Nazi_Germany
+nazi - http://dbpedia.org/resource/Nazism
+christ - http://dbpedia.org/resource/Jesus
+germany - http://dbpedia.org/resource/Nazi_Germany
+britain - http://dbpedia.org/resource/United_Kingdom
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+manhattan - http://dbpedia.org/resource/Manhattan
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+stymie - http://dbpedia.org/resource/Stymie
+bureaucratic inertia - http://dbpedia.org/resource/Bureaucratic_inertia
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+maud report - http://dbpedia.org/resource/MAUD_Committee
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+fissile - http://dbpedia.org/resource/Nuclear_fission
+isotope - http://dbpedia.org/resource/Isotope
+uranium - http://dbpedia.org/resource/Uranium-235
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+reservation - http://dbpedia.org/resource/Indian_reservation
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+nobel prize - http://dbpedia.org/resource/Nobel_Prize
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+discoverer - http://dbpedia.org/resource/List_of_minor_planet_discoverers
+neutron - http://dbpedia.org/resource/Neutron
+britain - http://dbpedia.org/resource/United_Kingdom
+nuclear physicist - http://dbpedia.org/resource/Nuclear_physics
+cyril smith - http://dbpedia.org/resource/Cyril_Stanley_Smith
+metallurgist - http://dbpedia.org/resource/Metallurgy
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+britain - http://dbpedia.org/resource/United_Kingdom
+refugee - http://dbpedia.org/resource/Refugee
+germany - http://dbpedia.org/resource/Nazi_Germany
+nazi - http://dbpedia.org/resource/Nazism
+experimental physicist - http://dbpedia.org/resource/Experimental_physics
+versed - http://dbpedia.org/resource/Midazolam
+hydrodynamic - http://dbpedia.org/resource/Fluid_dynamics
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+soviets - http://dbpedia.org/resource/Soviet_Union
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+manhattan - http://dbpedia.org/resource/Manhattan
+winter - http://dbpedia.org/resource/Winter_solstice
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+crosley - http://dbpedia.org/resource/Crosley
+scientist - http://dbpedia.org/resource/Scientist
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+william hogarth - http://dbpedia.org/resource/William_Hogarth
+winter - http://dbpedia.org/resource/Winter_solstice
+sleep - http://dbpedia.org/resource/Sleep
+winter - http://dbpedia.org/resource/Winter_solstice
+genius - http://dbpedia.org/resource/Genius
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+implosion method - http://dbpedia.org/resource/Nuclear_weapon_design
+thin man - http://dbpedia.org/resource/The_Thin_Man
+winter - http://dbpedia.org/resource/Winter_solstice
+implosion method - http://dbpedia.org/resource/Nuclear_weapon_design
+plutonium - http://dbpedia.org/resource/Plutonium
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+nuclear physicist - http://dbpedia.org/resource/Nuclear_physics
+winter - http://dbpedia.org/resource/Winter_solstice
+botanist - http://dbpedia.org/resource/Botany
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+glen - http://dbpedia.org/resource/Ravine
+babbitt - http://dbpedia.org/resource/Babbitt_(alloy)
+polygraph test - http://dbpedia.org/resource/Polygraph
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+lilli hornig - http://dbpedia.org/resource/Lilli_Hornig
+plutonium - http://dbpedia.org/resource/Plutonium
+chemistry - http://dbpedia.org/resource/Nobel_Prize_in_Chemistry
+explosive - http://dbpedia.org/resource/Explosive
+rebecca - http://dbpedia.org/resource/Rebecca
+quartz fiber - http://dbpedia.org/resource/Quartz_fiber
+plutonium - http://dbpedia.org/resource/Plutonium
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+health - http://dbpedia.org/resource/Health
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
+library - http://dbpedia.org/resource/Library
+eleanor - http://dbpedia.org/resource/Eleanor_Roosevelt
+telephone operator - http://dbpedia.org/resource/Switchboard_operator
+abby - http://dbpedia.org/resource/Abby_Lockhart
+bear - http://dbpedia.org/resource/Teddy_bear
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+family - http://dbpedia.org/resource/Family
+housewife - http://dbpedia.org/resource/Housewife
+work time - http://dbpedia.org/resource/Work_Time
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+plutonium - http://dbpedia.org/resource/Plutonium
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+workable - http://dbpedia.org/resource/Workable_FC
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+winter - http://dbpedia.org/resource/Winter_solstice
+polygraph - http://dbpedia.org/resource/Polygraph
+charlie peace - http://dbpedia.org/resource/Charles_Peace
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+nazi - http://dbpedia.org/resource/Nazism
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+online store - http://dbpedia.org/resource/Online_shopping
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+mexico - http://dbpedia.org/resource/Mexico
+anthology - http://dbpedia.org/resource/Anthology_series
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project

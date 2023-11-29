@@ -1,0 +1,71 @@
+lawless - http://dbpedia.org/resource/Baron_Cloncurry
+katherine - http://dbpedia.org/resource/Katherine_Swynford
+brierley - http://dbpedia.org/resource/Brierley
+jennet - http://dbpedia.org/resource/Jennet
+criminal trial - http://dbpedia.org/resource/Criminal_procedure
+region - http://dbpedia.org/resource/Regions_of_England
+brother sister - http://dbpedia.org/resource/Brother_Sister
+alice gray - http://dbpedia.org/resource/Alice_Gray
+die - http://dbpedia.org/resource/Death
+village - http://dbpedia.org/resource/Village
+margaret johnson - http://dbpedia.org/resource/Margaret_Johnson
+recusant - http://dbpedia.org/resource/Recusancy
+english history - http://dbpedia.org/resource/History_of_England
+prison - http://dbpedia.org/resource/Prison
+witch trials - http://dbpedia.org/resource/Witch-hunt
+preston - http://dbpedia.org/resource/Preston_North_End_F.C.
+peace - http://dbpedia.org/resource/Peace
+king james - http://dbpedia.org/resource/James_VI_and_I
+thomas heywood - http://dbpedia.org/resource/Thomas_Heywood
+murder - http://dbpedia.org/resource/Murder
+criminal offence - http://dbpedia.org/resource/Criminal_law
+court - http://dbpedia.org/resource/Court
+time trial - http://dbpedia.org/resource/Time_trial
+demon - http://dbpedia.org/resource/Demon
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+pendle witch trials - http://dbpedia.org/resource/Pendle_witches
+lancashire - http://dbpedia.org/resource/Lancashire
+alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
+isobel - http://dbpedia.org/resource/Isabella_Burns
+tourism - http://dbpedia.org/resource/Tourism
+guilt - http://dbpedia.org/resource/Culpability
+healer - http://dbpedia.org/resource/Faith_healing
+village life - http://dbpedia.org/resource/Village_Life
+witches - http://dbpedia.org/resource/Witchcraft
+halloween - http://dbpedia.org/resource/Halloween
+anne - http://dbpedia.org/resource/Anne_of_Denmark
+horse - http://dbpedia.org/resource/Horse
+thomas potts - http://dbpedia.org/resource/Thomas_Potts
+padiham witch - http://dbpedia.org/resource/Padiham_witch
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+richard brome - http://dbpedia.org/resource/Richard_Brome
+ellen - http://dbpedia.org/resource/Ellen_Terry
+rural - http://dbpedia.org/resource/Rural_area
+hanging - http://dbpedia.org/resource/Hanging
+stroke - http://dbpedia.org/resource/Stroke
+church - http://dbpedia.org/resource/Catholic_Church
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+child murder - http://dbpedia.org/resource/Child_murder
+peddler - http://dbpedia.org/resource/Peddler
+pendle - http://dbpedia.org/resource/Pendle_witches
+witch trial - http://dbpedia.org/resource/Witch-hunt
+soul - http://dbpedia.org/resource/Soul
+devil - http://dbpedia.org/resource/Devil
+family - http://dbpedia.org/resource/Chicago_Outfit
+countie - http://dbpedia.org/resource/Powiat
+magic - http://dbpedia.org/resource/Witchcraft
+windle - http://dbpedia.org/resource/Windle,_St_Helens
+lancaster assizes - http://dbpedia.org/resource/Lancaster_Castle
+york - http://dbpedia.org/resource/York
+witchcraft trial - http://dbpedia.org/resource/Witch-hunt
+confession - http://dbpedia.org/resource/Confession
+gaol - http://dbpedia.org/resource/Prison
+landscape - http://dbpedia.org/resource/Landscape_painting
+witchcraft - http://dbpedia.org/resource/Witchcraft
+jane - http://dbpedia.org/resource/Jane_Fonda
+halifax - http://dbpedia.org/resource/Halifax_R.L.F.C.
+john law - http://dbpedia.org/resource/John_Law_(economist)
+southerns - http://dbpedia.org/resource/Southerns_cricket_team
+heritage industry - http://dbpedia.org/resource/Cultural_heritage
+cannibalism - http://dbpedia.org/resource/Cannibalism

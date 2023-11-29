@@ -1,0 +1,114 @@
+nose - http://dbpedia.org/resource/Human_nose
+invisible - http://dbpedia.org/resource/Invisibility
+tudor - http://dbpedia.org/resource/Tudor_architecture
+die - http://dbpedia.org/resource/Death
+britain - http://dbpedia.org/resource/United_Kingdom
+curtain - http://dbpedia.org/resource/Curtain
+chief superintendent - http://dbpedia.org/resource/Chief_superintendent
+sofa - http://dbpedia.org/resource/Couch
+balustrade - http://dbpedia.org/resource/Baluster
+dissenter - http://dbpedia.org/resource/English_Dissenters
+tennis - http://dbpedia.org/resource/Tennis
+skeletal - http://dbpedia.org/resource/Skeleton
+white lady - http://dbpedia.org/resource/White_Lady_(ghost)
+fresh water - http://dbpedia.org/resource/Fresh_water
+love - http://dbpedia.org/resource/Love
+captivate - http://dbpedia.org/resource/Adobe_Captivate
+mistletoe - http://dbpedia.org/resource/Mistletoe
+gear - http://dbpedia.org/resource/Landing_gear
+bedside - http://dbpedia.org/resource/Bedside
+police officer - http://dbpedia.org/resource/Police_officer
+continuous - http://dbpedia.org/resource/Continuous_function
+spirit - http://dbpedia.org/resource/Ghost
+behead - http://dbpedia.org/resource/Decapitation
+young henry - http://dbpedia.org/resource/Henry_the_Young_King
+poem - http://dbpedia.org/resource/Poetry
+lily - http://dbpedia.org/resource/Lilium
+fragrance - http://dbpedia.org/resource/Perfume
+knee - http://dbpedia.org/resource/Knee
+hair - http://dbpedia.org/resource/Hair
+plaster - http://dbpedia.org/resource/Plasterwork
+young bride - http://dbpedia.org/resource/Young_Bride
+drawing room - http://dbpedia.org/resource/Drawing_room
+long gallery - http://dbpedia.org/resource/Long_gallery
+hampshire - http://dbpedia.org/resource/Hampshire
+haunted house - http://dbpedia.org/resource/Haunted_house
+wink - http://dbpedia.org/resource/Wink
+eye - http://dbpedia.org/resource/Eye
+import - http://dbpedia.org/resource/International_trade
+auburn hair - http://dbpedia.org/resource/Auburn_hair
+mysterious woman - http://dbpedia.org/resource/Mysterious_Woman
+legend - http://dbpedia.org/resource/Legend
+tree - http://dbpedia.org/resource/Tree
+gardener - http://dbpedia.org/resource/Gardener
+skirt - http://dbpedia.org/resource/Skirt
+float - http://dbpedia.org/resource/Buoyancy
+gatehouse - http://dbpedia.org/resource/Gatehouse
+volunteer - http://dbpedia.org/resource/Volunteering
+security officer - http://dbpedia.org/resource/Security_guard
+bristle - http://dbpedia.org/resource/Bristle
+lock - http://dbpedia.org/resource/Lock_and_key
+green man - http://dbpedia.org/resource/Green_Man
+terrace - http://dbpedia.org/resource/Terrace_garden
+arum lily - http://dbpedia.org/resource/Zantedeschia
+loggia - http://dbpedia.org/resource/Loggia
+crack - http://dbpedia.org/resource/Crack_cocaine
+tragedy - http://dbpedia.org/resource/Tragedy
+henry - http://dbpedia.org/resource/Henry_(unit)
+exorcism - http://dbpedia.org/resource/Exorcism
+bay window - http://dbpedia.org/resource/Bay_window
+queen - http://dbpedia.org/resource/Queen_consort
+lake - http://dbpedia.org/resource/Lake
+plant - http://dbpedia.org/resource/Plant
+king michael - http://dbpedia.org/resource/Michael_I_of_Romania
+christmas eve - http://dbpedia.org/resource/Christmas_Eve
+racket - http://dbpedia.org/resource/Rackett
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+orsini - http://dbpedia.org/resource/Orsini_family
+bride - http://dbpedia.org/resource/Bride
+flower - http://dbpedia.org/resource/Flower
+tomb - http://dbpedia.org/resource/Tomb
+chapel - http://dbpedia.org/resource/Chapel
+typhoid - http://dbpedia.org/resource/Typhoid_fever
+spring - http://dbpedia.org/resource/Mineral_spring
+bramshill - http://dbpedia.org/resource/Bramshill
+nuffield - http://dbpedia.org/resource/Nuffield_Foundation
+fleur de lys - http://dbpedia.org/resource/Fleur-de-lis
+green head - http://dbpedia.org/resource/Green_Head,_Western_Australia
+police college - http://dbpedia.org/resource/Police_academy
+queen anne - http://dbpedia.org/resource/Anne_of_Denmark
+lord brocket - http://dbpedia.org/resource/Ronald_Nall-Cain,_2nd_Baron_Brocket
+butler - http://dbpedia.org/resource/Butler
+ghastly - http://dbpedia.org/resource/Ghastly_(DJ)
+night patrol - http://dbpedia.org/resource/Night_Patrol
+boot - http://dbpedia.org/resource/Boot
+cross hall - http://dbpedia.org/resource/Cross_Hall
+edward lord - http://dbpedia.org/resource/Edward_Lord
+dear friend - http://dbpedia.org/resource/Dear_Friend
+flannel - http://dbpedia.org/resource/Flannel
+friendly - http://dbpedia.org/resource/Friendship
+penelope - http://dbpedia.org/resource/Penelope
+bridal gown - http://dbpedia.org/resource/Wedding_dress
+tunnel - http://dbpedia.org/resource/Tunnel
+family - http://dbpedia.org/resource/Family
+officer - http://dbpedia.org/resource/Police_officer
+acre - http://dbpedia.org/resource/Acre
+nostril - http://dbpedia.org/resource/Nostril
+samuel rogers - http://dbpedia.org/resource/Samuel_Rogers
+overgrown - http://dbpedia.org/resource/Overgrown
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+robe - http://dbpedia.org/resource/Robe
+grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
+mansion - http://dbpedia.org/resource/Mansion
+pot - http://dbpedia.org/resource/Pottery
+lal - http://dbpedia.org/resource/Lal_Waterson
+scent - http://dbpedia.org/resource/Odor
+carpet - http://dbpedia.org/resource/Carpet
+grey lady - http://dbpedia.org/resource/Fort_St._Angelo
+dog - http://dbpedia.org/resource/Dog
+ward - http://dbpedia.org/resource/Wards_of_the_City_of_London
+bodice - http://dbpedia.org/resource/Bodice
+snap - http://dbpedia.org/resource/Snap_fastener
+skeleton - http://dbpedia.org/resource/Skeleton
+experiment - http://dbpedia.org/resource/Experiment
+bridge - http://dbpedia.org/resource/Contract_bridge

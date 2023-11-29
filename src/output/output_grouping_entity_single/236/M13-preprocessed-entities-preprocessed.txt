@@ -1,0 +1,854 @@
+contiguous zone - http://dbpedia.org/resource/Territorial_waters
+common market - http://dbpedia.org/resource/Free_trade
+liberal - http://dbpedia.org/resource/Liberalism
+turkey - http://dbpedia.org/resource/Turkey
+runoff election - http://dbpedia.org/resource/Two-round_system
+anthem - http://dbpedia.org/resource/National_anthem
+icrm - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+capital - http://dbpedia.org/resource/Financial_capital
+legal system - http://dbpedia.org/resource/Law
+ioc - http://dbpedia.org/resource/International_Olympic_Committee
+itu - http://dbpedia.org/resource/International_Telecommunication_Union
+food processing - http://dbpedia.org/resource/Food_processing
+revenue - http://dbpedia.org/resource/Tax
+b3 - http://dbpedia.org/resource/Niacin
+brazilian democratic movement party - http://dbpedia.org/resource/Brazilian_Democratic_Movement
+territorial sea - http://dbpedia.org/resource/Territorial_waters
+suffrage - http://dbpedia.org/resource/Suffrage
+brics - http://dbpedia.org/resource/BRIC
+portuguese - http://dbpedia.org/resource/Portugal
+freire - http://dbpedia.org/resource/Paulo_Freire
+flores - http://dbpedia.org/resource/Flores
+commodity - http://dbpedia.org/resource/Commodity
+launder - http://dbpedia.org/resource/Money_laundering
+solidarity - http://dbpedia.org/resource/Solidarity
+indigenous area - http://dbpedia.org/resource/Indigenous_Area_(Taiwan)
+cable tv - http://dbpedia.org/resource/Cable_television
+subnational entity - http://dbpedia.org/resource/Administrative_division
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+unemployment - http://dbpedia.org/resource/Unemployment
+bicameral - http://dbpedia.org/resource/Congress_of_the_Republic_of_Peru
+vulnerable - http://dbpedia.org/resource/Vulnerable_species
+fax - http://dbpedia.org/resource/Fax
+temperate - http://dbpedia.org/resource/Temperate_climate
+imf - http://dbpedia.org/resource/International_Monetary_Fund
+boston - http://dbpedia.org/resource/Boston
+electricity consumption - http://dbpedia.org/resource/Electric_energy_consumption
+weapon - http://dbpedia.org/resource/Weapon
+silva - http://dbpedia.org/resource/SILVA_ribosomal_RNA_database
+mpp - http://dbpedia.org/resource/Mongolian_People's_Party
+icj - http://dbpedia.org/resource/International_Court_of_Justice
+rural - http://dbpedia.org/resource/Rural_area
+netherlands - http://dbpedia.org/resource/Netherlands
+independent party - http://dbpedia.org/resource/Independent_politician
+household consumption - http://dbpedia.org/resource/Consumption_(economics)
+time zone - http://dbpedia.org/resource/Time_zone
+grassland - http://dbpedia.org/resource/Grassland
+sq - http://dbpedia.org/resource/Quadraphonic_sound
+artigas - http://dbpedia.org/resource/Artigas_Department
+sex ratio - http://dbpedia.org/resource/Human_sex_ratio
+peruvians - http://dbpedia.org/resource/Peruvians
+container - http://dbpedia.org/resource/Containerization
+brazilian republican party - http://dbpedia.org/resource/Republicanos
+public expenditure - http://dbpedia.org/resource/Public_expenditure
+foreign reserve - http://dbpedia.org/resource/Foreign-exchange_reserves
+district courts - http://dbpedia.org/resource/United_States_district_court
+lift - http://dbpedia.org/resource/Buoyancy
+federal senate - http://dbpedia.org/resource/Federal_Senate
+york - http://dbpedia.org/resource/York
+border country - http://dbpedia.org/resource/Anglo-Scottish_border
+sun symbol - http://dbpedia.org/resource/Solar_symbol
+brasilia - http://dbpedia.org/resource/Instituto_Viver_Basquetebol
+outlaw - http://dbpedia.org/resource/Outlaw
+inmarsat - http://dbpedia.org/resource/International_Mobile_Satellite_Organization
+celac - http://dbpedia.org/resource/Community_of_Latin_American_and_Caribbean_States
+executive branch - http://dbpedia.org/resource/Federal_government_of_the_United_States
+guyana - http://dbpedia.org/resource/Guyana
+runway - http://dbpedia.org/resource/Runway
+economic growth - http://dbpedia.org/resource/Gross_domestic_product
+la patria - http://dbpedia.org/resource/La_Patria
+cerro largo - http://dbpedia.org/resource/Cerro_Largo_Department
+crime - http://dbpedia.org/resource/Crime
+ambassador - http://dbpedia.org/resource/Ambassador
+hemisphere - http://dbpedia.org/resource/Earth
+nuevo espacio - http://dbpedia.org/resource/New_Space_(Uruguay)
+liquid petroleum gas - http://dbpedia.org/resource/Liquefied_petroleum_gas
+peace - http://dbpedia.org/resource/Peace
+rifle - http://dbpedia.org/resource/Rifle
+unasur - http://dbpedia.org/resource/Union_of_South_American_Nations
+la tumba - http://dbpedia.org/resource/La_Tumba
+inflation rate - http://dbpedia.org/resource/Inflation
+rurales - http://dbpedia.org/resource/Rurales
+climate - http://dbpedia.org/resource/Climate
+rui costa pimenta - http://dbpedia.org/resource/Rui_Costa_Pimenta
+stock - http://dbpedia.org/resource/Livestock
+belo horizonte - http://dbpedia.org/resource/Belo_Horizonte
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+protestant - http://dbpedia.org/resource/Protestantism
+aecio neves - http://dbpedia.org/resource/Aécio_Neves
+kwh - http://dbpedia.org/resource/Kilowatt_hour
+urban - http://dbpedia.org/resource/Urbanization
+parliamentary - http://dbpedia.org/resource/Parliamentary_system
+panama - http://dbpedia.org/resource/Panama
+petroleum - http://dbpedia.org/resource/Petroleum
+child labor - http://dbpedia.org/resource/Child_labour
+quarai - http://dbpedia.org/resource/Quarai
+datum - http://dbpedia.org/resource/Data
+corn - http://dbpedia.org/resource/Maize
+consulate - http://dbpedia.org/resource/Diplomatic_mission
+agriculture - http://dbpedia.org/resource/Agriculture
+national holiday - http://dbpedia.org/resource/Public_holiday
+submarine cable - http://dbpedia.org/resource/Submarine_communications_cable
+public debt - http://dbpedia.org/resource/External_debt
+europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
+petroleum tanker - http://dbpedia.org/resource/Oil_tanker
+community radio - http://dbpedia.org/resource/Community_radio
+spanish civil code - http://dbpedia.org/resource/Civil_Code_of_Spain
+evangelical christian - http://dbpedia.org/resource/Evangelicalism
+hill mountain - http://dbpedia.org/resource/Hill_Mountain
+ozone layer protection - http://dbpedia.org/resource/Montreal_Protocol
+pacific alliance - http://dbpedia.org/resource/Pacific_Alliance
+paraguay - http://dbpedia.org/resource/Paraguay
+iom - http://dbpedia.org/resource/International_Organization_for_Migration
+houston - http://dbpedia.org/resource/Houston_Comets
+amapa - http://dbpedia.org/resource/Amapa_River
+gas - http://dbpedia.org/resource/Natural_gas
+enu - http://dbpedia.org/resource/ENU
+jurisdiction - http://dbpedia.org/resource/International_Criminal_Court
+bahia - http://dbpedia.org/resource/Bahia
+guamare - http://dbpedia.org/resource/Guamare
+icao - http://dbpedia.org/resource/International_Civil_Aviation_Organization
+lng - http://dbpedia.org/resource/Liquefied_natural_gas
+south america - http://dbpedia.org/resource/South_America
+barroso - http://dbpedia.org/resource/Abelardo_Barroso
+minustah - http://dbpedia.org/resource/United_Nations_Stabilisation_Mission_in_Haiti
+seaport - http://dbpedia.org/resource/Port
+military expenditure - http://dbpedia.org/resource/Military_budget
+high crime - http://dbpedia.org/resource/High_Crime
+monitor - http://dbpedia.org/resource/Display_device
+trigger - http://dbpedia.org/resource/Brass_instrument
+washington - http://dbpedia.org/resource/Washington_Mystics
+mestizo - http://dbpedia.org/resource/Mestizo
+spiritist - http://dbpedia.org/resource/Spiritism
+social security - http://dbpedia.org/resource/Sustainability
+brazilian socialist party - http://dbpedia.org/resource/Brazilian_Socialist_Party
+tubarao - http://dbpedia.org/resource/Tubarão
+social christian party - http://dbpedia.org/resource/Copei
+psdb - http://dbpedia.org/resource/Brazilian_Social_Democracy_Party
+regional federal court - http://dbpedia.org/resource/Regional_Federal_Courts
+saragoza - http://dbpedia.org/resource/Zaragoza
+opcw - http://dbpedia.org/resource/Organisation_for_the_Prohibition_of_Chemical_Weapons
+geographic coordinate - http://dbpedia.org/resource/Geographic_coordinate_system
+election - http://dbpedia.org/resource/Election
+land degradation - http://dbpedia.org/resource/Land_degradation
+antarctic treaty - http://dbpedia.org/resource/Antarctic_Treaty_System
+ecuador - http://dbpedia.org/resource/Ecuador
+vertiente artiguista - http://dbpedia.org/resource/Vertiente_Artiguista
+unifil - http://dbpedia.org/resource/United_Nations_Interim_Force_in_Lebanon
+social fund - http://dbpedia.org/resource/Social_fund
+boundary dispute - http://dbpedia.org/resource/Territorial_dispute
+miguel - http://dbpedia.org/resource/Miguel_I_of_Portugal
+liliana ayalde - http://dbpedia.org/resource/Liliana_Ayalde
+brl - http://dbpedia.org/resource/Brazilian_real
+guaiba - http://dbpedia.org/resource/Guaíba
+miami - http://dbpedia.org/resource/Miami
+latin american - http://dbpedia.org/resource/Latin_America
+social democratic - http://dbpedia.org/resource/Social_democracy
+geography - http://dbpedia.org/resource/Geography
+republica - http://dbpedia.org/resource/Republica
+citrus - http://dbpedia.org/resource/Citrus
+constitutional republic - http://dbpedia.org/resource/Republic
+miga - http://dbpedia.org/resource/Multilateral_Investment_Guarantee_Agency
+bahamas - http://dbpedia.org/resource/The_Bahamas
+natural resource - http://dbpedia.org/resource/Natural_resource
+singular - http://dbpedia.org/resource/Grammatical_number
+government debt - http://dbpedia.org/resource/Government_debt
+law enforcement - http://dbpedia.org/resource/Law_enforcement_agency
+continent - http://dbpedia.org/resource/Africa
+independence - http://dbpedia.org/resource/Independence
+uruguay - http://dbpedia.org/resource/Uruguay
+iaea - http://dbpedia.org/resource/International_Atomic_Energy_Agency
+chancery - http://dbpedia.org/resource/Diplomatic_mission
+microwave relay - http://dbpedia.org/resource/Microwave
+death rate - http://dbpedia.org/resource/Mortality_rate
+progresso - http://dbpedia.org/resource/Progresso
+ideal - http://dbpedia.org/resource/Ideal_gas
+colorado party - http://dbpedia.org/resource/Colorado_Party_(Uruguay)
+amazon basin - http://dbpedia.org/resource/Amazon_basin
+life expectancy - http://dbpedia.org/resource/Life_expectancy
+whaling - http://dbpedia.org/resource/Whaling
+exchange rate - http://dbpedia.org/resource/Exchange_rate
+pdt - http://dbpedia.org/resource/Pacific_Time_Zone
+chemical tanker - http://dbpedia.org/resource/Chemical_tanker
+canelones - http://dbpedia.org/resource/Canelones_Department
+daniel - http://dbpedia.org/resource/Taxicab
+portuguese rule - http://dbpedia.org/resource/Portugal
+indigenous - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
+celestial globe - http://dbpedia.org/resource/Globe
+north center - http://dbpedia.org/resource/North_Center,_Chicago
+pablo mieres - http://dbpedia.org/resource/Pablo_Mieres
+alagoas - http://dbpedia.org/resource/Alagoas
+hydropower - http://dbpedia.org/resource/Hydroelectricity
+cabinet - http://dbpedia.org/resource/Cabinet_of_Israel
+potential support ratio - http://dbpedia.org/resource/Potential_support_ratio
+hino nacional brasileiro - http://dbpedia.org/resource/Brazilian_National_Anthem
+psol - http://dbpedia.org/resource/Socialism_and_Liberty_Party
+foreign exchange - http://dbpedia.org/resource/International_trade
+radio - http://dbpedia.org/resource/Radio
+ptb - http://dbpedia.org/resource/Partial_Nuclear_Test_Ban_Treaty
+hospital - http://dbpedia.org/resource/Hospital
+amazon region - http://dbpedia.org/resource/Amazon_rainforest
+environmental modification - http://dbpedia.org/resource/Environmental_Modification_Convention
+prtb - http://dbpedia.org/resource/Brazilian_Labour_Renewal_Party
+wildlife trade - http://dbpedia.org/resource/Wildlife_trade
+marxist - http://dbpedia.org/resource/Marxism
+pfl 7 - http://dbpedia.org/resource/PFL_7_(2018_season)
+freedom - http://dbpedia.org/resource/Political_freedom
+illegal migrant - http://dbpedia.org/resource/Illegal_immigration
+economic reform - http://dbpedia.org/resource/Chinese_economic_reform
+rio negro - http://dbpedia.org/resource/Rio_Negro_Sustainable_Development_Reserve
+president elect - http://dbpedia.org/resource/-elect
+atol das rocas - http://dbpedia.org/resource/Rocas_Atoll
+nm - http://dbpedia.org/resource/Nanometre
+psb - http://dbpedia.org/resource/Brazilian_Socialist_Party
+upu - http://dbpedia.org/resource/Upu
+human - http://dbpedia.org/resource/Human_rights
+tropical timber 83 - http://dbpedia.org/resource/International_Tropical_Timber_Agreement,_1983
+b'nai brith - http://dbpedia.org/resource/B'nai_Brith_Canada
+greece - http://dbpedia.org/resource/Greece
+brazilian navy - http://dbpedia.org/resource/Brazilian_Navy
+goias - http://dbpedia.org/resource/Goiás
+military regime - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
+democratic party - http://dbpedia.org/resource/History_of_the_United_States_Democratic_Party
+discount rate - http://dbpedia.org/resource/Interest_rate
+space - http://dbpedia.org/resource/Outer_space
+hoist - http://dbpedia.org/resource/Glossary_of_vexillology
+minurso - http://dbpedia.org/resource/United_Nations_Mission_for_the_Referendum_in_Western_Sahara
+drought - http://dbpedia.org/resource/Drought
+household income - http://dbpedia.org/resource/Household_income_in_the_United_States
+calendar year - http://dbpedia.org/resource/Calendar_year
+dwindle - http://dbpedia.org/resource/Dwindle_Distribution
+chemical - http://dbpedia.org/resource/Chemical_substance
+ship pollution - http://dbpedia.org/resource/Environmental_impact_of_shipping
+pollution - http://dbpedia.org/resource/Pollution
+budget surplus - http://dbpedia.org/resource/Government_budget_balance
+vamos uruguay - http://dbpedia.org/resource/Vamos_Uruguay
+cuareim river - http://dbpedia.org/resource/Quaraí_River
+oscar - http://dbpedia.org/resource/Oscar_(fish)
+pressure group - http://dbpedia.org/resource/Advocacy_group
+colombia - http://dbpedia.org/resource/Colombia
+proportional representation - http://dbpedia.org/resource/Proportional_representation
+lavalleja - http://dbpedia.org/resource/Lavalleja_Department
+2014 election - http://dbpedia.org/resource/2014_Japanese_general_election
+microwave radio relay - http://dbpedia.org/resource/Microwave_transmission
+ptdob - http://dbpedia.org/resource/Avante_(political_party)
+caldas - http://dbpedia.org/resource/Caldas_Department
+roman catholic - http://dbpedia.org/resource/Catholic_Church
+iron - http://dbpedia.org/resource/Iron
+coat - http://dbpedia.org/resource/Fur
+shoe - http://dbpedia.org/resource/Shoemaking
+reserve - http://dbpedia.org/resource/Nature_reserve
+marine life conservation - http://dbpedia.org/resource/Convention_on_Fishing_and_Conservation_of_the_Living_Resources_of_the_High_Seas
+chile - http://dbpedia.org/resource/Chile
+maldonado - http://dbpedia.org/resource/Maldonado_Department
+brazil - http://dbpedia.org/resource/Brazil
+espirito santo - http://dbpedia.org/resource/Espírito_Santo
+sergipe - http://dbpedia.org/resource/Sergipe
+hdtv - http://dbpedia.org/resource/High-definition_television
+manganese - http://dbpedia.org/resource/Manganese
+corruption - http://dbpedia.org/resource/Political_corruption
+judge - http://dbpedia.org/resource/Judge
+chicago - http://dbpedia.org/resource/Chicago_Sky
+transport - http://dbpedia.org/resource/Transport
+demographic profile - http://dbpedia.org/resource/Demography
+electrify - http://dbpedia.org/resource/Tram
+military dictatorship - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
+paraiba - http://dbpedia.org/resource/Paraíba
+armada - http://dbpedia.org/resource/Portuguese_Navy
+interpol - http://dbpedia.org/resource/Interpol
+constitution - http://dbpedia.org/resource/Constitution
+unficyp - http://dbpedia.org/resource/United_Nations_Peacekeeping_Force_in_Cyprus
+yellow diamond - http://dbpedia.org/resource/Diamond
+mato grosso - http://dbpedia.org/resource/Mato_Grosso
+earth station - http://dbpedia.org/resource/Ground_station
+national labor party - http://dbpedia.org/resource/National_Labor_Party
+noun - http://dbpedia.org/resource/Noun
+biodiversity - http://dbpedia.org/resource/Biodiversity
+international law - http://dbpedia.org/resource/International_law
+progressive republican party - http://dbpedia.org/resource/Progressive_Republican_Party_(Turkey)
+ngos - http://dbpedia.org/resource/Non-governmental_organization
+colorado - http://dbpedia.org/resource/Colorado
+ore - http://dbpedia.org/resource/Silver
+tropical - http://dbpedia.org/resource/Tropics
+marine dumping - http://dbpedia.org/resource/London_Convention_on_the_Prevention_of_Marine_Pollution_by_Dumping_of_Wastes_and_Other_Matter
+central america - http://dbpedia.org/resource/Central_America
+wmap - http://dbpedia.org/resource/Wilkinson_Microwave_Anisotropy_Probe
+import - http://dbpedia.org/resource/International_trade
+sheep - http://dbpedia.org/resource/Sheep
+brazilian labor party - http://dbpedia.org/resource/Brazilian_Labour_Party_(current)
+unesco - http://dbpedia.org/resource/UNESCO
+itso - http://dbpedia.org/resource/International_Telecommunications_Satellite_Organization
+maranhao - http://dbpedia.org/resource/Maranhão
+paz - http://dbpedia.org/resource/Octavio_Paz
+norway - http://dbpedia.org/resource/Norway
+subordinate court - http://dbpedia.org/resource/State_Courts_of_Singapore
+unemployment rate - http://dbpedia.org/resource/Unemployment
+border control - http://dbpedia.org/resource/Border_control
+brazilian communist party - http://dbpedia.org/resource/Brazilian_Communist_Party
+cocoa - http://dbpedia.org/resource/Cocoa_bean
+peasant - http://dbpedia.org/resource/Peasant
+french guiana - http://dbpedia.org/resource/French_Guiana
+live birth - http://dbpedia.org/resource/Viviparity
+station - http://dbpedia.org/resource/Train_station
+monarchical - http://dbpedia.org/resource/Monarchism
+extreme poverty - http://dbpedia.org/resource/Extreme_poverty
+law - http://dbpedia.org/resource/Law
+fertility - http://dbpedia.org/resource/Total_fertility_rate
+soybean - http://dbpedia.org/resource/Soybean
+tocantins - http://dbpedia.org/resource/Tocantins
+unisfa - http://dbpedia.org/resource/United_Nations_Interim_Security_Force_for_Abyei
+pesos - http://dbpedia.org/resource/Mexican_peso
+alianza progresista - http://dbpedia.org/resource/Progressive_Alliance_(Uruguay)
+mineral - http://dbpedia.org/resource/Mining
+military service - http://dbpedia.org/resource/Military
+opanal - http://dbpedia.org/resource/OPANAL
+float - http://dbpedia.org/resource/Floating_exchange_rate
+tupamaros - http://dbpedia.org/resource/Tupamaros
+arquipelago de fernando de noronha - http://dbpedia.org/resource/Fernando_de_Noronha
+bulk cargo - http://dbpedia.org/resource/Bulk_cargo
+denmark - http://dbpedia.org/resource/Denmark
+south atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
+crude oil - http://dbpedia.org/resource/Petroleum
+runoff - http://dbpedia.org/resource/Election
+prb - http://dbpedia.org/resource/Retinoblastoma_protein
+wind - http://dbpedia.org/resource/Wind_power
+firearm - http://dbpedia.org/resource/Firearm
+labor force - http://dbpedia.org/resource/Workforce
+iadb - http://dbpedia.org/resource/Inter-American_Development_Bank
+psc - http://dbpedia.org/resource/Psc_(military)
+flag - http://dbpedia.org/resource/National_flag
+agricultural sector - http://dbpedia.org/resource/Agriculture
+oil spill - http://dbpedia.org/resource/Oil_spill
+sugarcane - http://dbpedia.org/resource/Sugarcane
+elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+global financial crisis - http://dbpedia.org/resource/Great_Recession
+vice president - http://dbpedia.org/resource/Vice_president
+germany - http://dbpedia.org/resource/Germany
+carlos alberto - http://dbpedia.org/resource/Carlos_Alberto_Torres
+global economy - http://dbpedia.org/resource/World_economy
+isdb - http://dbpedia.org/resource/ISDB
+social program - http://dbpedia.org/resource/Welfare
+ifad - http://dbpedia.org/resource/International_Fund_for_Agricultural_Development
+hartford ct - http://dbpedia.org/resource/Hartford,_Connecticut
+waterway - http://dbpedia.org/resource/River
+mb - http://dbpedia.org/resource/Megabyte
+permanent crop - http://dbpedia.org/resource/Permanent_crop
+iho - http://dbpedia.org/resource/International_Hydrographic_Organization
+legislative branch - http://dbpedia.org/resource/Legislature
+lote - http://dbpedia.org/resource/Languages_Other_Than_English
+armed force - http://dbpedia.org/resource/Military
+naval air arm - http://dbpedia.org/resource/Naval_aviation
+motto - http://dbpedia.org/resource/Motto
+south korea - http://dbpedia.org/resource/South_Korea
+endangered species - http://dbpedia.org/resource/Endangered_species
+monica - http://dbpedia.org/resource/Saint_Monica
+maria - http://dbpedia.org/resource/Lunar_mare
+ifc - http://dbpedia.org/resource/International_Finance_Centre_(Hong_Kong)
+cellular technology - http://dbpedia.org/resource/Mobile_technology
+bolivia - http://dbpedia.org/resource/Bolivia
+climate change - http://dbpedia.org/resource/Global_warming
+desertification - http://dbpedia.org/resource/Desertification
+verse - http://dbpedia.org/resource/Poetry
+argentina - http://dbpedia.org/resource/Argentina
+unmil - http://dbpedia.org/resource/United_Nations_Mission_in_Liberia
+telephone - http://dbpedia.org/resource/Telecommunication
+gold - http://dbpedia.org/resource/Gold
+chamber - http://dbpedia.org/resource/Rocket_engine
+debt - http://dbpedia.org/resource/External_debt
+rodolfo nin novoa - http://dbpedia.org/resource/Rodolfo_Nin_Novoa
+caput - http://dbpedia.org/resource/Caput
+bolsa familia - http://dbpedia.org/resource/Bolsa_Família
+federal district - http://dbpedia.org/resource/Mexico_City
+beverage - http://dbpedia.org/resource/Alcoholic_drink
+itajai - http://dbpedia.org/resource/Itajaí
+fish - http://dbpedia.org/resource/Fishery
+atlanta - http://dbpedia.org/resource/Atlanta_Dream
+gauge - http://dbpedia.org/resource/Track_gauge
+frontier - http://dbpedia.org/resource/Frontier
+rhombus - http://dbpedia.org/resource/Rhomboid
+infant mortality rate - http://dbpedia.org/resource/Infant_mortality
+corpo de fuzileiros - http://dbpedia.org/resource/Portuguese_Marine_Corps
+jose serra - http://dbpedia.org/resource/José_Serra
+navy - http://dbpedia.org/resource/Navy
+peru - http://dbpedia.org/resource/Peru
+fao - http://dbpedia.org/resource/Food_and_Agriculture_Organization
+specie - http://dbpedia.org/resource/Currency
+cement - http://dbpedia.org/resource/Cement
+wheat - http://dbpedia.org/resource/Wheat
+macroeconomic - http://dbpedia.org/resource/Macroeconomics
+maritime - http://dbpedia.org/resource/Freight_transport
+coalition - http://dbpedia.org/resource/Coalition
+tv channel - http://dbpedia.org/resource/Television_channel
+trillion - http://dbpedia.org/resource/Long_and_short_scales
+pstu - http://dbpedia.org/resource/Unified_Workers'_Socialist_Party
+ghana - http://dbpedia.org/resource/Ghana
+internet host - http://dbpedia.org/resource/Host_(network)
+phs - http://dbpedia.org/resource/United_States_Public_Health_Service
+synthetic - http://dbpedia.org/resource/Synthetic_fiber
+unmiss - http://dbpedia.org/resource/United_Nations_Mission_in_South_Sudan
+embassy - http://dbpedia.org/resource/Diplomatic_mission
+underweight - http://dbpedia.org/resource/Underweight
+secularism - http://dbpedia.org/resource/Secularism
+carbon dioxide - http://dbpedia.org/resource/Greenhouse_gas
+financial system - http://dbpedia.org/resource/Finance
+brazilian army - http://dbpedia.org/resource/Brazilian_Army
+12 nm - http://dbpedia.org/resource/14_nm_process
+plain - http://dbpedia.org/resource/Great_Plains
+blanco - http://dbpedia.org/resource/Tequila
+alfredo nascimento - http://dbpedia.org/resource/Alfredo_Nascimento_(politician)
+sepetiba - http://dbpedia.org/resource/Sepetiba
+net migration rate - http://dbpedia.org/resource/Net_migration_rate
+competitiveness - http://dbpedia.org/resource/Competition
+bear - http://dbpedia.org/resource/Bear
+rating agency - http://dbpedia.org/resource/Credit_rating_agency
+santa catarina - http://dbpedia.org/resource/Campeonato_Catarinense
+rubens - http://dbpedia.org/resource/Peter_Paul_Rubens
+laes - http://dbpedia.org/resource/Latin_American_Economic_System
+conscript - http://dbpedia.org/resource/Conscription
+passenger cargo - http://dbpedia.org/resource/Passenger_ship
+farmer - http://dbpedia.org/resource/Agriculture
+export good - http://dbpedia.org/resource/Trade_route
+ppl - http://dbpedia.org/resource/Product_placement
+green party - http://dbpedia.org/resource/Green_politics
+tv station - http://dbpedia.org/resource/Television_station
+blue white - http://dbpedia.org/resource/Blauw-Wit_Amsterdam
+mujica - http://dbpedia.org/resource/Edward_Mujica
+psl - http://dbpedia.org/resource/Polish_People's_Party
+elias - http://dbpedia.org/resource/Elijah
+economic power - http://dbpedia.org/resource/Purchasing_power_parity
+unitar - http://dbpedia.org/resource/Unitar_(instrument)
+energy - http://dbpedia.org/resource/World_energy_consumption
+atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
+public auction - http://dbpedia.org/resource/Public_auction
+eduardo lorier - http://dbpedia.org/resource/Eduardo_Lorier
+creditor - http://dbpedia.org/resource/Creditor
+middle class - http://dbpedia.org/resource/Middle_class
+adjective - http://dbpedia.org/resource/Adjective
+psdc - http://dbpedia.org/resource/Christian_Democracy_(Brazil)
+slave - http://dbpedia.org/resource/Slavery
+massachusetts avenue nw - http://dbpedia.org/resource/Massachusetts_Avenue_(Washington,_D.C.)
+illicit drug - http://dbpedia.org/resource/Illegal_drug_trade
+bbl - http://dbpedia.org/resource/Barrel
+beef - http://dbpedia.org/resource/Beef
+motor vehicle - http://dbpedia.org/resource/Car
+piaui - http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Teresina
+economic crisis - http://dbpedia.org/resource/Great_Recession
+senate hold - http://dbpedia.org/resource/Senate_hold
+mercosur - http://dbpedia.org/resource/Mercosur
+san jose - http://dbpedia.org/resource/San_Jose_Earthquakes
+stable - http://dbpedia.org/resource/Stable
+federation - http://dbpedia.org/resource/Federation
+roberto lupi - http://dbpedia.org/resource/Roberto_Lupi
+sao paulo - http://dbpedia.org/resource/São_Paulo
+wetlands - http://dbpedia.org/resource/Wetland
+hybrid - http://dbpedia.org/resource/Hybrid_vehicle
+gilberto kassab - http://dbpedia.org/resource/Gilberto_Kassab
+industrial - http://dbpedia.org/resource/Industry
+asians - http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+paramilitary - http://dbpedia.org/resource/Paramilitary
+high point - http://dbpedia.org/resource/West_Seattle
+money laundering - http://dbpedia.org/resource/Money_laundering
+total fertility rate - http://dbpedia.org/resource/Total_fertility_rate
+labor organization - http://dbpedia.org/resource/Trade_union
+rivera - http://dbpedia.org/resource/Rivera
+remittance - http://dbpedia.org/resource/Remittance
+god - http://dbpedia.org/resource/God
+uranium - http://dbpedia.org/resource/Uranium
+cocaine - http://dbpedia.org/resource/Cocaine
+cerro catedral - http://dbpedia.org/resource/Cerro_Catedral
+social law - http://dbpedia.org/resource/Social_law
+unoci - http://dbpedia.org/resource/United_Nations_Operation_in_Côte_d'Ivoire
+density - http://dbpedia.org/resource/Population_density
+belem - http://dbpedia.org/resource/Belém
+porto alegre - http://dbpedia.org/resource/Porto_Alegre
+investment grade - http://dbpedia.org/resource/Bond_credit_rating
+luis alberto lacalle - http://dbpedia.org/resource/Luis_Alberto_Lacalle
+wipo - http://dbpedia.org/resource/World_Intellectual_Property_Organization
+ray - http://dbpedia.org/resource/Stingray
+liberal party - http://dbpedia.org/resource/Colombian_Liberal_Party
+xavier - http://dbpedia.org/resource/Xavier_Musketeers_men's_basketball
+emigration - http://dbpedia.org/resource/Human_migration
+emigrant - http://dbpedia.org/resource/Emigration
+mandatory retirement - http://dbpedia.org/resource/Mandatory_retirement
+continental shelf - http://dbpedia.org/resource/Territorial_waters
+suriname - http://dbpedia.org/resource/Suriname
+population growth rate - http://dbpedia.org/resource/Population_growth
+mst - http://dbpedia.org/resource/Landless_Workers'_Movement
+amazonas - http://dbpedia.org/resource/Amazon_rainforest
+adventist - http://dbpedia.org/resource/Adventism
+rio - http://dbpedia.org/resource/Rio_(windowing_system)
+inventory - http://dbpedia.org/resource/Inventory
+oil terminal - http://dbpedia.org/resource/Oil_terminal
+michel temer - http://dbpedia.org/resource/Michel_Temer
+flood - http://dbpedia.org/resource/Flood
+urbanization - http://dbpedia.org/resource/Urbanization
+marcos - http://dbpedia.org/resource/MARCOS
+adilson - http://dbpedia.org/resource/Adilson_dos_Santos
+frente amplio - http://dbpedia.org/resource/Frente_Amplio
+ptc - http://dbpedia.org/resource/Christian_Labour_Party
+prime lending rate - http://dbpedia.org/resource/Prime_rate
+paranagua - http://dbpedia.org/resource/Paranaguá
+marine corps - http://dbpedia.org/resource/Marines
+oecd - http://dbpedia.org/resource/OECD
+civil law - http://dbpedia.org/resource/Law
+wood - http://dbpedia.org/resource/Lumber
+ciro nogueira - http://dbpedia.org/resource/Ciro_Nogueira_Lima_Filho
+social liberal party - http://dbpedia.org/resource/Danish_Social_Liberal_Party
+container port - http://dbpedia.org/resource/Port
+tripoint - http://dbpedia.org/resource/Tripoint
+ida - http://dbpedia.org/resource/Idaea
+pampas - http://dbpedia.org/resource/Pampas
+americas - http://dbpedia.org/resource/Americas
+roma - http://dbpedia.org/resource/Rome
+nickel - http://dbpedia.org/resource/Nickel
+populous - http://dbpedia.org/resource/Populous_(company)
+armed forces - http://dbpedia.org/resource/Military
+andean - http://dbpedia.org/resource/Andes
+plebiscite - http://dbpedia.org/resource/Referendum
+broad gauge - http://dbpedia.org/resource/Barge
+seals - http://dbpedia.org/resource/Pinniped
+coca - http://dbpedia.org/resource/Coca
+mixed race - http://dbpedia.org/resource/Mestizo
+birth rate - http://dbpedia.org/resource/Birth_rate
+dependency ratio - http://dbpedia.org/resource/Dependency_ratio
+chorus - http://dbpedia.org/resource/Choir
+pen - http://dbpedia.org/resource/Pen
+benchmark - http://dbpedia.org/resource/Benchmarking
+senado federal - http://dbpedia.org/resource/Federal_Senate
+fatf - http://dbpedia.org/resource/Financial_Action_Task_Force_on_Money_Laundering
+rare earth element - http://dbpedia.org/resource/Rare-earth_element
+oil - http://dbpedia.org/resource/Petroleum
+wetland - http://dbpedia.org/resource/Wetland
+court appeal - http://dbpedia.org/resource/Lock_Han_Chng_Jonathan_v_Goh_Jessiline
+social exclusion - http://dbpedia.org/resource/Social_exclusion
+almeida - http://dbpedia.org/resource/Francisco_de_Almeida
+martha montaner - http://dbpedia.org/resource/Martha_Montaner
+slavery - http://dbpedia.org/resource/Slavery_in_Brazil
+asian - http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
+ifrcs - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+obesity - http://dbpedia.org/resource/Obesity
+cplp - http://dbpedia.org/resource/Community_of_Portuguese_Language_Countries
+high court - http://dbpedia.org/resource/Supreme_court
+violent crime - http://dbpedia.org/resource/Violent_crime
+eduardo machado - http://dbpedia.org/resource/Eduardo_Machado
+rondonia - http://dbpedia.org/resource/Rondônia
+national anthem - http://dbpedia.org/resource/National_anthem
+footwear - http://dbpedia.org/resource/Footwear
+parana - http://dbpedia.org/resource/Paraná_(state)
+salto - http://dbpedia.org/resource/Somersault
+lumber - http://dbpedia.org/resource/Lumber
+asamblea uruguay - http://dbpedia.org/resource/Uruguay_Assembly
+sao - http://dbpedia.org/resource/Burmese_names
+political party - http://dbpedia.org/resource/Political_party
+manufacturing - http://dbpedia.org/resource/Manufacturing
+pco - http://dbpedia.org/resource/Pierre_Carl_Ouellet
+weather front - http://dbpedia.org/resource/Weather_front
+military government - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
+roraima - http://dbpedia.org/resource/Roraima
+pernambuco - http://dbpedia.org/resource/Paubrasilia
+latina - http://dbpedia.org/resource/Latino
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+judicial branch - http://dbpedia.org/resource/Judiciary
+congresso nacional - http://dbpedia.org/resource/National_Congress_of_Brazil
+pmn - http://dbpedia.org/resource/Party_of_National_Mobilization
+wftu - http://dbpedia.org/resource/World_Federation_of_Trade_Unions
+freshwater - http://dbpedia.org/resource/Ecoregion
+kyoto protocol - http://dbpedia.org/resource/Kyoto_Protocol
+elevation - http://dbpedia.org/resource/Altitude
+investment - http://dbpedia.org/resource/Foreign_direct_investment
+imso - http://dbpedia.org/resource/International_Mobile_Satellite_Organization
+monetary policy - http://dbpedia.org/resource/Monetary_policy
+gdp - http://dbpedia.org/resource/Gross_domestic_product
+violence - http://dbpedia.org/resource/Violence
+cnt - http://dbpedia.org/resource/Carbon_nanotube
+domestic satellite system - http://dbpedia.org/resource/Orbita_(TV_system)
+catholic - http://dbpedia.org/resource/Catholic_Church
+pcb - http://dbpedia.org/resource/Brazilian_Communist_Party
+city - http://dbpedia.org/resource/City
+amerindian language - http://dbpedia.org/resource/Indigenous_languages_of_the_Americas
+mining - http://dbpedia.org/resource/Mining
+cisplatine province - http://dbpedia.org/resource/Cisplatina
+christian social democratic party - http://dbpedia.org/resource/Christian_Democracy_(Brazil)
+ipu - http://dbpedia.org/resource/Ipu
+radio station - http://dbpedia.org/resource/Radio
+health expenditure - http://dbpedia.org/resource/Health_economics
+age structure - http://dbpedia.org/resource/Population_pyramid
+nondenominational - http://dbpedia.org/resource/Christian_denomination
+natural hazard - http://dbpedia.org/resource/Natural_hazard
+liquefy - http://dbpedia.org/resource/Liquefaction
+cellular phone - http://dbpedia.org/resource/Mobile_phone
+cep - http://dbpedia.org/resource/Boletus_edulis
+president - http://dbpedia.org/resource/President_of_Mexico
+ibrd - http://dbpedia.org/resource/International_Bank_for_Reconstruction_and_Development
+maternal mortality rate - http://dbpedia.org/resource/Maternal_death
+prp - http://dbpedia.org/resource/Probable_prime
+christian congregation - http://dbpedia.org/resource/Christian_Congregation_in_Brazil
+laia - http://dbpedia.org/resource/Laia_(tool)
+progressive party - http://dbpedia.org/resource/Progressistas
+committee - http://dbpedia.org/resource/Committee
+family - http://dbpedia.org/resource/Family
+clean water - http://dbpedia.org/resource/Drinking_water
+literacy - http://dbpedia.org/resource/Literacy
+acre - http://dbpedia.org/resource/Acre
+ituc - http://dbpedia.org/resource/International_Trade_Union_Confederation
+socialism - http://dbpedia.org/resource/Socialism
+currency - http://dbpedia.org/resource/United_States_dollar
+tropical timber 94 - http://dbpedia.org/resource/International_Tropical_Timber_Agreement,_1994
+mulatto - http://dbpedia.org/resource/Mulatto
+favela - http://dbpedia.org/resource/Favela
+rancher - http://dbpedia.org/resource/Ranch
+julissa reynoso - http://dbpedia.org/resource/Julissa_Reynoso
+socialist party - http://dbpedia.org/resource/Socialism
+poverty - http://dbpedia.org/resource/Poverty
+progressive alliance - http://dbpedia.org/resource/Progressive_alliance_(UK)
+labor party - http://dbpedia.org/resource/Farmer–Labor_Party
+populist - http://dbpedia.org/resource/Populism
+icct - http://dbpedia.org/resource/International_Criminal_Court
+statist - http://dbpedia.org/resource/Statism
+uruguayans - http://dbpedia.org/resource/Uruguayans
+destroy habitat - http://dbpedia.org/resource/Habitat_destruction
+amerindian - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
+unmogip - http://dbpedia.org/resource/UN_mediation_of_the_Kashmir_dispute
+broad money - http://dbpedia.org/resource/Central_Bank_of_Iran
+atlantis-2 - http://dbpedia.org/resource/Atlantis-2
+coffee - http://dbpedia.org/resource/Coffee
+pfl - http://dbpedia.org/resource/Professional_Fighters_League
+danilo astori - http://dbpedia.org/resource/Danilo_Astori
+mobile cellular - http://dbpedia.org/resource/Mobile_phone
+blue circle - http://dbpedia.org/resource/Blue_Circle_Industries
+bauxite - http://dbpedia.org/resource/Bauxite
+pampero - http://dbpedia.org/resource/Pampero_(wind)
+marshall islands - http://dbpedia.org/resource/Marshall_Islands
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+income inequality - http://dbpedia.org/resource/Economic_inequality
+educational attainment - http://dbpedia.org/resource/Educational_attainment_in_the_United_States
+supreme federal court - http://dbpedia.org/resource/Supreme_Federal_Court
+meat packing - http://dbpedia.org/resource/Meat_packing_industry
+unctad - http://dbpedia.org/resource/United_Nations_Conference_on_Trade_and_Development
+democratic labor party - http://dbpedia.org/resource/Democratic_Labor_Party_(historical)
+noronha - http://dbpedia.org/resource/Francisco_Noronha
+nacional - http://dbpedia.org/resource/Club_Nacional_de_Football
+rice - http://dbpedia.org/resource/Rice
+dem - http://dbpedia.org/resource/Deutsche_Mark
+education - http://dbpedia.org/resource/Education
+fernando de noronha - http://dbpedia.org/resource/Fernando_de_Noronha
+brazilian national anthem - http://dbpedia.org/resource/Brazilian_National_Anthem
+quadra - http://dbpedia.org/resource/Juan_Francisco_de_la_Bodega_y_Quadra
+spaniards - http://dbpedia.org/resource/Spaniards
+direct foreign investment - http://dbpedia.org/resource/Foreign_direct_investment
+fiscal year - http://dbpedia.org/resource/Fiscal_year
+pepe - http://dbpedia.org/resource/Guglielmo_Pepe
+smuggling - http://dbpedia.org/resource/Illegal_drug_trade
+drinking water - http://dbpedia.org/resource/Drinking_water
+wto - http://dbpedia.org/resource/World_Trade_Organization
+electronic - http://dbpedia.org/resource/Electronics
+portugal - http://dbpedia.org/resource/Portugal
+nsg - http://dbpedia.org/resource/Nuclear_Suppliers_Group
+liberia - http://dbpedia.org/resource/Liberia
+cellulose - http://dbpedia.org/resource/Cellulose
+music - http://dbpedia.org/resource/Music
+enrique rubio - http://dbpedia.org/resource/Enrique_Rubio
+water resource - http://dbpedia.org/resource/Water_resources
+ilha grande - http://dbpedia.org/resource/Ilha_Grande
+environmental protocol - http://dbpedia.org/resource/International_environmental_agreement
+luis alberto heber - http://dbpedia.org/resource/Luis_Alberto_Héber
+legend - http://dbpedia.org/resource/Cartography
+refined oil - http://dbpedia.org/resource/Petroleum_product
+pension - http://dbpedia.org/resource/Subsidy
+senate chamber - http://dbpedia.org/resource/Senate_of_Canada
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+immigrant - http://dbpedia.org/resource/Immigration
+air force - http://dbpedia.org/resource/Argentine_Air_Force
+resende - http://dbpedia.org/resource/Resende_FC
+region - http://dbpedia.org/resource/Region
+internet - http://dbpedia.org/resource/Internet
+sica - http://dbpedia.org/resource/Sica
+river port - http://dbpedia.org/resource/Port
+wco - http://dbpedia.org/resource/World_Customs_Organization
+estrada - http://dbpedia.org/resource/Music_of_the_Soviet_Union
+lulia - http://dbpedia.org/resource/Lulia
+union federation - http://dbpedia.org/resource/National_trade_union_center
+code - http://dbpedia.org/resource/Code_of_law
+pcdob - http://dbpedia.org/resource/Communist_Party_of_Brazil
+japanese brazilian - http://dbpedia.org/resource/Japanese_Brazilians
+humanist - http://dbpedia.org/resource/Humanism
+superior court - http://dbpedia.org/resource/Superior_court
+san francisco - http://dbpedia.org/resource/San_Francisco
+rocha - http://dbpedia.org/resource/Rocha_Department
+imo - http://dbpedia.org/resource/International_Maritime_Organization
+environment international - http://dbpedia.org/resource/Environment_International
+teledensity - http://dbpedia.org/resource/Telephone_density
+hiv - http://dbpedia.org/resource/HIV
+physician - http://dbpedia.org/resource/Physician
+dairy product - http://dbpedia.org/resource/Dairy_product
+national ecologic party - http://dbpedia.org/resource/Patriota
+steel - http://dbpedia.org/resource/Steel
+unwto - http://dbpedia.org/resource/World_Tourism_Organization
+tacuarembo - http://dbpedia.org/resource/Tacuarembó
+hazardous waste - http://dbpedia.org/resource/Hazardous_waste
+pv - http://dbpedia.org/resource/Photovoltaics
+belt - http://dbpedia.org/resource/Asteroid_belt
+unmit - http://dbpedia.org/resource/United_Nations_Integrated_Mission_in_East_Timor
+monusco - http://dbpedia.org/resource/MONUSCO
+latin america - http://dbpedia.org/resource/Latin_America
+arable land - http://dbpedia.org/resource/Agriculture
+los angeles - http://dbpedia.org/resource/Los_Angeles_Sparks
+ilo - http://dbpedia.org/resource/International_Labour_Organization
+young adult - http://dbpedia.org/resource/Youth
+ivan - http://dbpedia.org/resource/Hurricane_Ivan
+wmo - http://dbpedia.org/resource/World_Meteorological_Organization
+ethnic group - http://dbpedia.org/resource/Ethnic_groups_in_Europe
+urban guerrilla - http://dbpedia.org/resource/Urban_guerrilla_warfare
+federative - http://dbpedia.org/resource/Federation
+administrative division - http://dbpedia.org/resource/Administrative_division
+dollar - http://dbpedia.org/resource/United_States_dollar
+drug - http://dbpedia.org/resource/Illegal_drug_trade
+socialist workers party - http://dbpedia.org/resource/Socialist_Workers_Network
+natural harbor - http://dbpedia.org/resource/Harbor
+demographic transition - http://dbpedia.org/resource/Demographic_transition
+supreme court justice - http://dbpedia.org/resource/Supreme_Federal_Court
+landscape - http://dbpedia.org/resource/Landscape
+natural gas - http://dbpedia.org/resource/Natural_gas
+language - http://dbpedia.org/resource/Latin
+independence day - http://dbpedia.org/resource/Argentine_Declaration_of_Independence
+single - http://dbpedia.org/resource/Phonograph_record
+free homeland party - http://dbpedia.org/resource/Partido_Patria_Libre
+timber - http://dbpedia.org/resource/Lumber
+market - http://dbpedia.org/resource/Market_economy
+navais - http://dbpedia.org/resource/Navais
+volunteer - http://dbpedia.org/resource/Volunteering
+condensate - http://dbpedia.org/resource/Natural-gas_condensate
+compulsory military service - http://dbpedia.org/resource/Conscription
+narrow gauge - http://dbpedia.org/resource/Narrow-gauge_railway
+habsburg - http://dbpedia.org/resource/Habsburg_Spain
+bulk carrier - http://dbpedia.org/resource/Bulk_carrier
+prevalence - http://dbpedia.org/resource/Prevalence
+brazil 2008 - http://dbpedia.org/resource/2008_FIFA_Futsal_World_Cup
+manaus - http://dbpedia.org/resource/Manaus
+venezuela - http://dbpedia.org/resource/Venezuela
+merchant marine - http://dbpedia.org/resource/Maritime_transport
+sanitation - http://dbpedia.org/resource/Sanitation
+paris club - http://dbpedia.org/resource/Paris_Club
+santos - http://dbpedia.org/resource/Santo_(art)
+nautilus - http://dbpedia.org/resource/Nautilus
+ilha da trindade - http://dbpedia.org/resource/Trindade_and_Martin_Vaz
+water - http://dbpedia.org/resource/Water
+service sector - http://dbpedia.org/resource/Tertiary_sector_of_the_economy
+tannery - http://dbpedia.org/resource/Tanning_(leather)
+brake - http://dbpedia.org/resource/Brake
+transshipment - http://dbpedia.org/resource/Transshipment
+urban 13 - http://dbpedia.org/resource/Urban_13
+pmdb - http://dbpedia.org/resource/Brazilian_Democratic_Movement
+soriano - http://dbpedia.org/resource/Soriano_Department
+ceara - http://dbpedia.org/resource/Ceará
+distrito federal - http://dbpedia.org/resource/Buenos_Aires
+exclusive economic zone - http://dbpedia.org/resource/Exclusive_economic_zone
+paper mill - http://dbpedia.org/resource/Paper_mill
+economy - http://dbpedia.org/resource/Economy
+wave - http://dbpedia.org/resource/Wind_wave
+ppp - http://dbpedia.org/resource/Dynamics_(music)
+rio grande - http://dbpedia.org/resource/Rio_Grande_do_Sul
+automotive - http://dbpedia.org/resource/Car
+unhcr - http://dbpedia.org/resource/United_Nations_High_Commissioner_for_Refugees
+federal appeals court - http://dbpedia.org/resource/United_States_courts_of_appeals
+investor - http://dbpedia.org/resource/Investment
+court - http://dbpedia.org/resource/Court
+parity - http://dbpedia.org/resource/Purchasing_power_parity
+cargo - http://dbpedia.org/resource/Goods
+fau - http://dbpedia.org/resource/Florida_Atlantic_University
+levy fidelix - http://dbpedia.org/resource/Levy_Fidelix
+water pollution - http://dbpedia.org/resource/Water_pollution
+intra - http://dbpedia.org/resource/Verbania
+popular socialist party - http://dbpedia.org/resource/Cidadania
+network - http://dbpedia.org/resource/Television_network
+blanco party - http://dbpedia.org/resource/National_Party_(Uruguay)
+brazilian social democracy party - http://dbpedia.org/resource/Brazilian_Social_Democracy_Party
+intelsat - http://dbpedia.org/resource/Intelsat
+national color - http://dbpedia.org/resource/Flag_of_the_United_States
+pico da neblina - http://dbpedia.org/resource/Pico_da_Neblina
+narcotic - http://dbpedia.org/resource/Narcotic
+colombian - http://dbpedia.org/resource/Colombia
+durazno - http://dbpedia.org/resource/Durazno
+win independence - http://dbpedia.org/resource/Republic_of_Texas
+irrigated land - http://dbpedia.org/resource/Irrigation
+interest rate - http://dbpedia.org/resource/Interest_rate
+human capital - http://dbpedia.org/resource/Human_capital
+atheist - http://dbpedia.org/resource/Atheism
+cloud - http://dbpedia.org/resource/Cloud
+eduardo campos - http://dbpedia.org/resource/Eduardo_Campos
+phosphate - http://dbpedia.org/resource/Fertilizer
+cattle - http://dbpedia.org/resource/Cattle
+agnostic - http://dbpedia.org/resource/Agnosticism
+communist party - http://dbpedia.org/resource/Communism
+cannabis - http://dbpedia.org/resource/Cannabis
+nw - http://dbpedia.org/resource/Cardinal_direction
+paysandu - http://dbpedia.org/resource/Paysandu_Sport_Club
+pca - http://dbpedia.org/resource/Permanent_Court_of_Arbitration
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+brazilian air force - http://dbpedia.org/resource/Brazilian_Air_Force
+free market economy - http://dbpedia.org/resource/Market_economy
+recession - http://dbpedia.org/resource/Recession
+consumption - http://dbpedia.org/resource/Consumerism
+dilma rousseff - http://dbpedia.org/resource/Dilma_Rousseff
+inflation - http://dbpedia.org/resource/Inflation
+petroleum product - http://dbpedia.org/resource/Petroleum_product
+renewable - http://dbpedia.org/resource/Natural_resource
+deforestation - http://dbpedia.org/resource/Deforestation
+rafael michelini - http://dbpedia.org/resource/Rafael_Michelini
+plant - http://dbpedia.org/resource/Power_station
+aircraft - http://dbpedia.org/resource/Aircraft
+country code - http://dbpedia.org/resource/Telephone_numbering_plan
+psd - http://dbpedia.org/resource/Adobe_Photoshop
+commercial radio - http://dbpedia.org/resource/Radio
+continental margin - http://dbpedia.org/resource/Continental_margin
+superior electoral court - http://dbpedia.org/resource/Superior_Electoral_Court
+standard gauge - http://dbpedia.org/resource/Standard-gauge_railway
+afdb - http://dbpedia.org/resource/African_Development_Bank
+terminal - http://dbpedia.org/resource/Port
+recife - http://dbpedia.org/resource/Recife
+textile - http://dbpedia.org/resource/Textile
+uruguay river - http://dbpedia.org/resource/Uruguay_River
+lauro - http://dbpedia.org/resource/Antonio_Lauro
+radiobras - http://dbpedia.org/resource/Agência_Brasil
+yellow sun - http://dbpedia.org/resource/Yellow_Sun_(nuclear_weapon)
+sun - http://dbpedia.org/resource/Sun
+popular vote - http://dbpedia.org/resource/Referendum
+italians - http://dbpedia.org/resource/Italy
+foreign exchange market - http://dbpedia.org/resource/Foreign_exchange_market
+utc-3 - http://dbpedia.org/resource/UTC−03:00
+montevideo - http://dbpedia.org/resource/Montevideo
+health - http://dbpedia.org/resource/Health_care
+minas gerais - http://dbpedia.org/resource/Minas_Gerais
+inflation target - http://dbpedia.org/resource/Inflation_targeting
+uruguayan - http://dbpedia.org/resource/Uruguay
+consumer - http://dbpedia.org/resource/Final_good
+ptn - http://dbpedia.org/resource/Podemos_(Brazil)
+wool - http://dbpedia.org/resource/Wool
+current account balance - http://dbpedia.org/resource/Current_account_(balance_of_payments)
+church - http://dbpedia.org/resource/Catholic_Church
+oas - http://dbpedia.org/resource/Organization_of_American_States
+producer - http://dbpedia.org/resource/Filmmaking
+upsurge - http://dbpedia.org/resource/Upsurge
+luis henrique - http://dbpedia.org/resource/Luis_Henrique_(fighter)
+white point - http://dbpedia.org/resource/White_point
+platinum - http://dbpedia.org/resource/Platinum
+temperature - http://dbpedia.org/resource/Temperature
+teus - http://dbpedia.org/resource/Twenty-foot_equivalent_unit
+national mobilization party - http://dbpedia.org/resource/Party_of_National_Mobilization
+contraceptive - http://dbpedia.org/resource/Birth_control
+pereira - http://dbpedia.org/resource/William_Pereira
+weather - http://dbpedia.org/resource/Weather
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+banda oriental - http://dbpedia.org/resource/Uruguay
+getulio vargas - http://dbpedia.org/resource/Getúlio_Vargas
+umbrella - http://dbpedia.org/resource/Umbrella_organization

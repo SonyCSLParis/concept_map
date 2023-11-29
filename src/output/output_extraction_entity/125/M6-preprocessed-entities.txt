@@ -1,0 +1,56 @@
+church - http://dbpedia.org/resource/Christian_denomination
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+west virginia - http://dbpedia.org/resource/West_Virginia
+amazing grace - http://dbpedia.org/resource/Amazing_Grace
+baptist church - http://dbpedia.org/resource/Baptists
+church - http://dbpedia.org/resource/Christian_denomination
+baptist - http://dbpedia.org/resource/Baptists
+sbc - http://dbpedia.org/resource/Southern_Baptist_Convention
+bethel united methodist church - http://dbpedia.org/resource/Bethel_United_Methodist_Church_(Bethel,_Connecticut)
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+church - http://dbpedia.org/resource/Christian_denomination
+methodist - http://dbpedia.org/resource/Methodism
+umc - http://dbpedia.org/resource/United_Methodist_Church
+capon - http://dbpedia.org/resource/Capon
+bible - http://dbpedia.org/resource/Bible
+fellowship - http://dbpedia.org/resource/Koinonia
+church - http://dbpedia.org/resource/Christian_denomination
+christian missionary - http://dbpedia.org/resource/Christian_mission
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+foursquare church - http://dbpedia.org/resource/International_Church_of_the_Foursquare_Gospel
+church - http://dbpedia.org/resource/Christian_denomination
+foursquare - http://dbpedia.org/resource/American_Foursquare
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+church - http://dbpedia.org/resource/Christian_denomination
+methodist - http://dbpedia.org/resource/Methodism
+umc - http://dbpedia.org/resource/United_Methodist_Church
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+church - http://dbpedia.org/resource/Christian_denomination
+methodist - http://dbpedia.org/resource/Methodism
+umc - http://dbpedia.org/resource/United_Methodist_Church
+central united methodist church - http://dbpedia.org/resource/Central_United_Methodist_Church_(Detroit)
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+church - http://dbpedia.org/resource/Christian_denomination
+methodist - http://dbpedia.org/resource/Methodism
+umc - http://dbpedia.org/resource/United_Methodist_Church
+mountain view - http://dbpedia.org/resource/Mountain_View_station
+god - http://dbpedia.org/resource/God
+church - http://dbpedia.org/resource/Christian_denomination
+god - http://dbpedia.org/resource/God
+north river mills - http://dbpedia.org/resource/North_River_Mills,_West_Virginia
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+church - http://dbpedia.org/resource/Christian_denomination
+methodist - http://dbpedia.org/resource/Methodism
+umc - http://dbpedia.org/resource/United_Methodist_Church
+shiloh - http://dbpedia.org/resource/Battle_of_Shiloh
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+church - http://dbpedia.org/resource/Christian_denomination
+methodist - http://dbpedia.org/resource/Methodism
+umc - http://dbpedia.org/resource/United_Methodist_Church
+chapel - http://dbpedia.org/resource/Place_of_worship
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+church - http://dbpedia.org/resource/Christian_denomination
+methodist - http://dbpedia.org/resource/Methodism
+umc - http://dbpedia.org/resource/United_Methodist_Church

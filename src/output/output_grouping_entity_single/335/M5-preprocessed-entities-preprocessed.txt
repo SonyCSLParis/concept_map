@@ -1,0 +1,10 @@
+pendle - http://dbpedia.org/resource/Pendle_witches
+herbal - http://dbpedia.org/resource/Herbal_medicine
+witchcraft - http://dbpedia.org/resource/Witchcraft
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+alternative medicine - http://dbpedia.org/resource/Alternative_medicine
+crime - http://dbpedia.org/resource/Crime
+gcse - http://dbpedia.org/resource/General_Certificate_of_Secondary_Education
+english history - http://dbpedia.org/resource/History_of_England
+julia bradbury - http://dbpedia.org/resource/Julia_Bradbury
+lancashire - http://dbpedia.org/resource/Lancashire

@@ -1,0 +1,239 @@
+middle ages - http://dbpedia.org/resource/Middle_Ages
+garrison - http://dbpedia.org/resource/Garrison
+winter - http://dbpedia.org/resource/Winter
+enlightened ruler - http://dbpedia.org/resource/Enlightened_absolutism
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+idealist - http://dbpedia.org/resource/Idealism
+siege castle - http://dbpedia.org/resource/Counter-castle
+prestwich - http://dbpedia.org/resource/Prestwich
+llywelyn ap gruffydd - http://dbpedia.org/resource/Llywelyn_ap_Gruffudd
+town - http://dbpedia.org/resource/Market_town
+caernarvon castle - http://dbpedia.org/resource/Caernarfon_Castle
+revenue - http://dbpedia.org/resource/Tax
+effigy - http://dbpedia.org/resource/Effigy
+crusades - http://dbpedia.org/resource/Crusades
+white elephant - http://dbpedia.org/resource/White_elephant
+wage - http://dbpedia.org/resource/Wage
+communication - http://dbpedia.org/resource/Communication
+fort - http://dbpedia.org/resource/Fortification
+welsh marches - http://dbpedia.org/resource/Welsh_Marches
+welsh wars - http://dbpedia.org/resource/Wales_in_the_Late_Middle_Ages
+primary source - http://dbpedia.org/resource/Primary_source
+copyright - http://dbpedia.org/resource/Copyright
+marcher lord - http://dbpedia.org/resource/Marcher_Lord
+st george - http://dbpedia.org/resource/Saint_George
+reign edwards - http://dbpedia.org/resource/Reign_Edwards
+colvin - http://dbpedia.org/resource/Howard_Colvin
+anglicised - http://dbpedia.org/resource/English_language
+caerphilly castle - http://dbpedia.org/resource/Caerphilly_Castle
+main centre - http://dbpedia.org/resource/Main_Centre,_Saskatchewan
+cywyddau - http://dbpedia.org/resource/Cywydd
+pound - http://dbpedia.org/resource/Pound_sterling
+neith - http://dbpedia.org/resource/Neith
+capital - http://dbpedia.org/resource/Capital_punishment
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+iron - http://dbpedia.org/resource/Iron
+carmarthen - http://dbpedia.org/resource/Carmarthen
+sacred - http://dbpedia.org/resource/Sacred
+law - http://dbpedia.org/resource/English_law
+lincoln cathedral - http://dbpedia.org/resource/Lincoln_Cathedral
+statute - http://dbpedia.org/resource/Statute
+holy land - http://dbpedia.org/resource/Holy_Land
+bastide - http://dbpedia.org/resource/Bastide
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+secondary source - http://dbpedia.org/resource/Secondary_source
+assault - http://dbpedia.org/resource/Battle_of_France
+region - http://dbpedia.org/resource/Region
+royal welsh - http://dbpedia.org/resource/Royal_Welsh
+seal - http://dbpedia.org/resource/Pinniped
+quotation - http://dbpedia.org/resource/Quotation
+welsh history - http://dbpedia.org/resource/History_of_Wales
+coast - http://dbpedia.org/resource/Coast
+siege - http://dbpedia.org/resource/Siege
+mason - http://dbpedia.org/resource/Stonemasonry
+wales today - http://dbpedia.org/resource/BBC_Wales_Today
+edward master - http://dbpedia.org/resource/Edward_Master
+settler - http://dbpedia.org/resource/Settler
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+st. george - http://dbpedia.org/resource/Saint_George
+anglicisation - http://dbpedia.org/resource/Anglicisation
+music history - http://dbpedia.org/resource/Music_history
+hume - http://dbpedia.org/resource/David_Hume
+colonist - http://dbpedia.org/resource/Colonialism
+prerogative - http://dbpedia.org/resource/Royal_prerogative
+art history - http://dbpedia.org/resource/Art_history
+iolo goch - http://dbpedia.org/resource/Iolo_Goch
+english settlement - http://dbpedia.org/resource/English_Settlement
+conway - http://dbpedia.org/resource/Conwy
+military fortification - http://dbpedia.org/resource/Fortification
+town wall - http://dbpedia.org/resource/Defensive_wall
+alert - http://dbpedia.org/resource/Alertness
+true cross - http://dbpedia.org/resource/True_Cross
+military administrative - http://dbpedia.org/resource/Military_administration
+abergavenny - http://dbpedia.org/resource/Abergavenny
+beaumaris - http://dbpedia.org/resource/Beaumaris_Castle
+viceregal - http://dbpedia.org/resource/Viceroy
+baptism - http://dbpedia.org/resource/Baptism
+bastion - http://dbpedia.org/resource/Bastion
+jean froissart - http://dbpedia.org/resource/Jean_Froissart
+medieval - http://dbpedia.org/resource/Middle_Ages
+peace - http://dbpedia.org/resource/Peace
+llywelyn - http://dbpedia.org/resource/Llywelyn_ap_Gruffudd
+glimmer - http://dbpedia.org/resource/GLIMMER
+hereford - http://dbpedia.org/resource/Hereford
+rhuddlan - http://dbpedia.org/resource/Rhuddlan_Castle
+narrative - http://dbpedia.org/resource/Narrative
+warfare - http://dbpedia.org/resource/War
+total control - http://dbpedia.org/resource/Total_Control_(TV_series)
+untrue - http://dbpedia.org/resource/Untrue_(album)
+urban - http://dbpedia.org/resource/Urbanization
+entail - http://dbpedia.org/resource/Fee_tail
+castle town - http://dbpedia.org/resource/Castle_town
+fortification - http://dbpedia.org/resource/Castle
+legend - http://dbpedia.org/resource/Legend
+ring - http://dbpedia.org/resource/Ring_of_bells
+settlement - http://dbpedia.org/resource/Town
+caernarvon - http://dbpedia.org/resource/Caernarfonshire
+military rule - http://dbpedia.org/resource/Martial_law
+mediæval - http://dbpedia.org/resource/Middle_Ages
+peasant - http://dbpedia.org/resource/Peasant
+emperor maximus - http://dbpedia.org/resource/Magnus_Maximus
+resistance - http://dbpedia.org/resource/Resistance_movement
+propaganda - http://dbpedia.org/resource/Propaganda
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+edward english - http://dbpedia.org/resource/Edward_English
+poet - http://dbpedia.org/resource/Poetry
+edwardian - http://dbpedia.org/resource/Edward_I_of_England
+reliant - http://dbpedia.org/resource/Reliant_Motors
+plantation - http://dbpedia.org/resource/Plantations_of_Ireland
+liberty - http://dbpedia.org/resource/Liberty
+magistrate - http://dbpedia.org/resource/Magistrate
+caernarfon castle - http://dbpedia.org/resource/Caernarfon_Castle
+security - http://dbpedia.org/resource/Security
+tongue - http://dbpedia.org/resource/Language
+independent - http://dbpedia.org/resource/Independence
+control region - http://dbpedia.org/resource/MtDNA_control_region
+criminal law - http://dbpedia.org/resource/Law
+rebellion - http://dbpedia.org/resource/Rebellion
+revolution - http://dbpedia.org/resource/French_Revolution
+prepare - http://dbpedia.org/resource/PREPARE
+architect - http://dbpedia.org/resource/Architecture
+britain - http://dbpedia.org/resource/British_Empire
+welshmen - http://dbpedia.org/resource/Wales
+gwynedd - http://dbpedia.org/resource/Kingdom_of_Gwynedd
+crusade - http://dbpedia.org/resource/Crusades
+eleanor - http://dbpedia.org/resource/Eleanor_of_Castile
+crave - http://dbpedia.org/resource/Crave_Entertainment
+legal system - http://dbpedia.org/resource/English_law
+pin - http://dbpedia.org/resource/Brooch
+role play - http://dbpedia.org/resource/Role-playing
+castile - http://dbpedia.org/resource/Crown_of_Castile
+marcher - http://dbpedia.org/resource/Welsh_Marches
+anglesey - http://dbpedia.org/resource/Anglesey
+michael edwards - http://dbpedia.org/resource/Eddie_the_Eagle
+harlech - http://dbpedia.org/resource/Harlech_Castle
+investment - http://dbpedia.org/resource/Investment
+immunity - http://dbpedia.org/resource/Sovereign_immunity
+insurrection - http://dbpedia.org/resource/Rebellion
+english local government - http://dbpedia.org/resource/Local_government_in_England
+fortress - http://dbpedia.org/resource/Castle
+development town - http://dbpedia.org/resource/Development_town
+control tower - http://dbpedia.org/resource/Air_traffic_control
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+alo - http://dbpedia.org/resource/Alo_Creevey
+david - http://dbpedia.org/resource/David_I_of_Scotland
+chester - http://dbpedia.org/resource/Chester
+economy - http://dbpedia.org/resource/Economy
+propagandist - http://dbpedia.org/resource/Propaganda
+welsh castle - http://dbpedia.org/resource/Castle
+yverdon - http://dbpedia.org/resource/Yverdon-les-Bains_Castle
+crop - http://dbpedia.org/resource/Agriculture
+ordain - http://dbpedia.org/resource/Ordination
+rely - http://dbpedia.org/resource/Rely_(brand)
+settler town - http://dbpedia.org/resource/Sierra_Leone
+louth - http://dbpedia.org/resource/County_Louth
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
+constitutional crisis - http://dbpedia.org/resource/Constitutional_crisis
+colonisation - http://dbpedia.org/resource/Colonialism
+harlow - http://dbpedia.org/resource/Jean_Harlow
+aberystwyth - http://dbpedia.org/resource/Aberystwyth
+flint - http://dbpedia.org/resource/Flint
+welsh outlook - http://dbpedia.org/resource/Welsh_Outlook
+field army - http://dbpedia.org/resource/Army
+henry iv - http://dbpedia.org/resource/Henry_IV_of_England
+criccieth - http://dbpedia.org/resource/Criccieth
+city - http://dbpedia.org/resource/City
+fault - http://dbpedia.org/resource/Electrical_fault
+brereton - http://dbpedia.org/resource/Brereton_Hall
+welsh revolt - http://dbpedia.org/resource/Glyndŵr_Rising
+royal court - http://dbpedia.org/resource/Royal_court
+shrewsbury - http://dbpedia.org/resource/Shrewsbury
+litigation - http://dbpedia.org/resource/Lawsuit
+governance - http://dbpedia.org/resource/Government
+asylum - http://dbpedia.org/resource/Refugee
+exchequer - http://dbpedia.org/resource/Exchequer
+turret - http://dbpedia.org/resource/Turret
+bridge - http://dbpedia.org/resource/Bridge
+historian - http://dbpedia.org/resource/History
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+savoy - http://dbpedia.org/resource/Savoy
+culture - http://dbpedia.org/resource/Culture
+snowdonia - http://dbpedia.org/resource/Snowdonia
+madog - http://dbpedia.org/resource/Madoc
+echo - http://dbpedia.org/resource/Echo
+bypass - http://dbpedia.org/resource/Coronary_artery_bypass_surgery
+western europe - http://dbpedia.org/resource/Western_world
+family - http://dbpedia.org/resource/Family
+cambridge - http://dbpedia.org/resource/Cambridge
+system administration - http://dbpedia.org/resource/System_administrator
+thomas - http://dbpedia.org/resource/THOMAS
+administrative centre - http://dbpedia.org/resource/County_town
+hotmail.com - http://dbpedia.org/resource/Outlook.com
+revolt - http://dbpedia.org/resource/Rebellion
+dominion - http://dbpedia.org/resource/Dominion
+welsh law - http://dbpedia.org/resource/Welsh_law
+royal county - http://dbpedia.org/resource/Counties_of_Hungary_(before_1920)
+marcher lords - http://dbpedia.org/resource/Marcher_Lord
+peace treaty - http://dbpedia.org/resource/Treaty_of_Versailles
+beaumaris castle - http://dbpedia.org/resource/Beaumaris_Castle
+irfon - http://dbpedia.org/resource/Afon_Irfon
+principality - http://dbpedia.org/resource/Principality
+owain glyn dwr - http://dbpedia.org/resource/Owain_Glyndŵr
+memorial - http://dbpedia.org/resource/Memorial_to_the_throne
+emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
+essay - http://dbpedia.org/resource/Essay
+flint castle - http://dbpedia.org/resource/Flint_Castle
+formidable - http://dbpedia.org/resource/French_ship_Formidable
+morale - http://dbpedia.org/resource/Morale
+social role - http://dbpedia.org/resource/Role
+uprising - http://dbpedia.org/resource/Rebellion
+town life - http://dbpedia.org/resource/Town_Life
+carriage - http://dbpedia.org/resource/Typewriter
+conway castle - http://dbpedia.org/resource/Conwy_Castle
+caernarfon - http://dbpedia.org/resource/Caernarfon_Castle
+michael prestwich - http://dbpedia.org/resource/Michael_Prestwich
+invasion - http://dbpedia.org/resource/Invasion
+welsh english - http://dbpedia.org/resource/Welsh_English
+hereford cathedral school - http://dbpedia.org/resource/Hereford_Cathedral_School
+great tower - http://dbpedia.org/resource/Keep
+mould - http://dbpedia.org/resource/Mold
+edward strong - http://dbpedia.org/resource/Edward_Strong
+symbol - http://dbpedia.org/resource/Symbol
+benighted - http://dbpedia.org/resource/Benighted
+noble - http://dbpedia.org/resource/Nobility
+cardigan - http://dbpedia.org/resource/Cardigan_(sweater)
+edward oxford - http://dbpedia.org/resource/Edward_Oxford
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+monarch - http://dbpedia.org/resource/Monarch
+conwy castle - http://dbpedia.org/resource/Conwy_Castle
+north wales - http://dbpedia.org/resource/Wales
+nouveau riche - http://dbpedia.org/resource/Nouveau_riche
+native welsh - http://dbpedia.org/resource/Welsh_people
+imaginary - http://dbpedia.org/resource/Imagination
+archaeological - http://dbpedia.org/resource/Archaeology
+gascony - http://dbpedia.org/resource/Gascony
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+relic - http://dbpedia.org/resource/Relic
+mascot - http://dbpedia.org/resource/Mascot
+dispensation - http://dbpedia.org/resource/Dispensationalism

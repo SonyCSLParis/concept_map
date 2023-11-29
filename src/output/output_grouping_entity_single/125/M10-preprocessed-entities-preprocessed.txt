@@ -1,0 +1,125 @@
+caretaker - http://dbpedia.org/resource/Caregiver
+valley view - http://dbpedia.org/resource/Valley_View_(Romney,_West_Virginia)
+education - http://dbpedia.org/resource/Education
+bylaw - http://dbpedia.org/resource/By-law
+greenbrier county - http://dbpedia.org/resource/Greenbrier_County,_West_Virginia
+adjourn - http://dbpedia.org/resource/Adjournment
+charles morris - http://dbpedia.org/resource/Charles_W._Morris
+stone - http://dbpedia.org/resource/Stonemasonry
+spencer cemetery - http://dbpedia.org/resource/Spencer_Cemetery
+culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+oral - http://dbpedia.org/resource/Oral_sex
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+grain - http://dbpedia.org/resource/Paper
+golden horseshoe - http://dbpedia.org/resource/Golden_Horseshoe
+meigs county - http://dbpedia.org/resource/Meigs_County,_Ohio
+elkins - http://dbpedia.org/resource/Stephen_Benton_Elkins
+molding - http://dbpedia.org/resource/Injection_moulding
+president - http://dbpedia.org/resource/President_of_the_United_States
+gazette - http://dbpedia.org/resource/Gazette
+doh - http://dbpedia.org/resource/Health_department
+accrual - http://dbpedia.org/resource/Accrual
+scott smith - http://dbpedia.org/resource/Scott_Smith_(fighter)
+calendar - http://dbpedia.org/resource/Calendar
+telephone - http://dbpedia.org/resource/Telephone
+greco - http://dbpedia.org/resource/Greek_Revival_architecture
+hyatt - http://dbpedia.org/resource/Hyatt
+regional location - http://dbpedia.org/resource/Regions_of_France
+local government - http://dbpedia.org/resource/Local_government
+justification - http://dbpedia.org/resource/Defamation
+majority leader - http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate
+edgefield - http://dbpedia.org/resource/Multnomah_County_Poor_Farm
+monument - http://dbpedia.org/resource/Monument
+ms - http://dbpedia.org/resource/Millisecond
+attorney general office - http://dbpedia.org/resource/Attorney_General_of_Mexico
+wood - http://dbpedia.org/resource/Lumber
+ohio - http://dbpedia.org/resource/Ohio
+wastewater treatment facility - http://dbpedia.org/resource/Wastewater
+pocahontas county - http://dbpedia.org/resource/Pocahontas_County,_West_Virginia
+jeremy morris - http://dbpedia.org/resource/Jeremy_Morris
+smith - http://dbpedia.org/resource/Blacksmith
+newsletter - http://dbpedia.org/resource/Newsletter
+architectural drawing - http://dbpedia.org/resource/Architectural_drawing
+agriculture - http://dbpedia.org/resource/Agriculture
+digitize - http://dbpedia.org/resource/Digitization
+porch - http://dbpedia.org/resource/Porch
+deed - http://dbpedia.org/resource/Deed
+law - http://dbpedia.org/resource/Law
+charleston - http://dbpedia.org/resource/Hi-hat
+birth certificate - http://dbpedia.org/resource/Birth_certificate
+jackson county - http://dbpedia.org/resource/Jackson_County,_Missouri
+jefferson county - http://dbpedia.org/resource/Jefferson_County,_Kentucky
+contributing building - http://dbpedia.org/resource/Contributing_property
+trustee - http://dbpedia.org/resource/Trustee
+prepare - http://dbpedia.org/resource/PREPARE
+seebert - http://dbpedia.org/resource/Seebert,_West_Virginia
+historical society - http://dbpedia.org/resource/Historical_society
+cupola - http://dbpedia.org/resource/Cupola
+majority voting - http://dbpedia.org/resource/Majority_rule
+pierce - http://dbpedia.org/resource/Franklin_Pierce
+shpo - http://dbpedia.org/resource/State_historic_preservation_office
+architecture - http://dbpedia.org/resource/Architecture
+circuit clerk - http://dbpedia.org/resource/Court_clerk
+lord fairfax - http://dbpedia.org/resource/Thomas_Fairfax
+bill richardson - http://dbpedia.org/resource/Bill_Richardson
+brick - http://dbpedia.org/resource/Brick
+open meeting law - http://dbpedia.org/resource/Freedom_of_information_laws_by_country
+geological - http://dbpedia.org/resource/Geology
+attic - http://dbpedia.org/resource/Attic
+norman - http://dbpedia.org/resource/Norman_architecture
+sesquicentennial - http://dbpedia.org/resource/Anniversary
+potomac - http://dbpedia.org/resource/Potomac_River
+susan - http://dbpedia.org/resource/Susan_Kennedy
+parsonage - http://dbpedia.org/resource/Clergy_house
+civil war - http://dbpedia.org/resource/American_Civil_War
+joseph - http://dbpedia.org/resource/Joseph_Smith
+virginia - http://dbpedia.org/resource/Virginia
+winter meeting - http://dbpedia.org/resource/Winter_Meeting
+monroe - http://dbpedia.org/resource/Greg_Monroe
+arnett - http://dbpedia.org/resource/Peter_Arnett
+erin - http://dbpedia.org/resource/Erin_Hannon
+article - http://dbpedia.org/resource/No_Gun_Ri_massacre
+yearbook - http://dbpedia.org/resource/Yearbook
+greenbrier - http://dbpedia.org/resource/Smilax
+noel - http://dbpedia.org/resource/Wiki
+project inform - http://dbpedia.org/resource/Project_Inform
+conte - http://dbpedia.org/resource/Count
+motion - http://dbpedia.org/resource/Film
+library - http://dbpedia.org/resource/Library
+big creek high school - http://dbpedia.org/resource/Big_Creek_High_School
+brickwork - http://dbpedia.org/resource/Brickwork
+committee - http://dbpedia.org/resource/Committee
+quarry - http://dbpedia.org/resource/Quarry
+historic preservation - http://dbpedia.org/resource/Historic_preservation
+morgan - http://dbpedia.org/resource/Morgan_Grimes
+west virginia - http://dbpedia.org/resource/West_Virginia
+charles - http://dbpedia.org/resource/Charles_I_of_England
+wood county - http://dbpedia.org/resource/Wood_County,_West_Virginia
+horace mann - http://dbpedia.org/resource/Horace_Mann
+sandra - http://dbpedia.org/resource/List_of_Heroes_characters
+calendar year - http://dbpedia.org/resource/Gregorian_calendar
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+joan walker - http://dbpedia.org/resource/Joan_Walker
+overgrown - http://dbpedia.org/resource/Overgrown
+social history - http://dbpedia.org/resource/Social_history
+springfield brick house - http://dbpedia.org/resource/Springfield_Brick_House
+methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church
+messer - http://dbpedia.org/resource/Messer_(weapon)
+quorum - http://dbpedia.org/resource/Quorum
+foundation stone - http://dbpedia.org/resource/Cornerstone
+buffington island - http://dbpedia.org/resource/Buffington_Island
+cemeteries - http://dbpedia.org/resource/Cemetery
+church - http://dbpedia.org/resource/Catholic_Church
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+heritage - http://dbpedia.org/resource/Cultural_heritage
+lawyer - http://dbpedia.org/resource/Lawyer
+statehood - http://dbpedia.org/resource/U.S._state
+pine - http://dbpedia.org/resource/Pine
+hampshire county - http://dbpedia.org/resource/Hampshire
+plaster - http://dbpedia.org/resource/Plaster
+appropriation - http://dbpedia.org/resource/Appropriation_bill
+constitution day - http://dbpedia.org/resource/1978_Spanish_constitutional_referendum
+spring meeting - http://dbpedia.org/resource/Spring_Meeting
+courthouse - http://dbpedia.org/resource/Courthouse
+moorefield - http://dbpedia.org/resource/Battle_of_Moorefield
+alexander - http://dbpedia.org/resource/Alexander_I_of_Russia

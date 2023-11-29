@@ -1,0 +1,76 @@
+tv-14 - http://dbpedia.org/resource/TV_Parental_Guidelines
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+schrödinger cat - http://dbpedia.org/resource/Schrödinger's_cat
+nazi - http://dbpedia.org/resource/Nazism
+abby - http://dbpedia.org/resource/Abby_Lockhart
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+turnout - http://dbpedia.org/resource/Railroad_switch
+professor - http://dbpedia.org/resource/Professor
+santa fe - http://dbpedia.org/resource/Santa_Fe_Trail
+gun - http://dbpedia.org/resource/Gun
+john von neumann - http://dbpedia.org/resource/John_von_Neumann
+minsk - http://dbpedia.org/resource/Minsk
+lier - http://dbpedia.org/resource/De_Lier
+infrastructure - http://dbpedia.org/resource/Infrastructure
+poison - http://dbpedia.org/resource/Neutron_poison
+robert christy - http://dbpedia.org/resource/Robert_F._Christy
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+eye - http://dbpedia.org/resource/Human_eye
+train - http://dbpedia.org/resource/Train
+particle - http://dbpedia.org/resource/Particle_physics
+bulletin board - http://dbpedia.org/resource/Internet_forum
+previous episode - http://dbpedia.org/resource/What_Lies_Ahead
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+center city - http://dbpedia.org/resource/New_Orleans_Central_Business_District
+facebook - http://dbpedia.org/resource/Facebook
+spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
+george kistiakowsky - http://dbpedia.org/resource/George_Kistiakowsky
+random - http://dbpedia.org/resource/Randomness
+erwin schrödinger - http://dbpedia.org/resource/Erwin_Schrödinger
+grove - http://dbpedia.org/resource/Sacred_grove
+technical adviser - http://dbpedia.org/resource/Technical_advisor
+thin man - http://dbpedia.org/resource/The_Thin_Man
+predetonate - http://dbpedia.org/resource/Nuclear_chain_reaction
+hat - http://dbpedia.org/resource/Kippah
+emilio segrè - http://dbpedia.org/resource/Emilio_Segrè
+isotope - http://dbpedia.org/resource/Isotope
+acceleration - http://dbpedia.org/resource/Acceleration
+seth neddermeyer - http://dbpedia.org/resource/Seth_Neddermeyer
+churchill - http://dbpedia.org/resource/Winston_Churchill
+otto robert frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+time cat - http://dbpedia.org/resource/Time_Cat:_The_Remarkable_Journeys_of_Jason_and_Gareth
+william butler yeats - http://dbpedia.org/resource/W._B._Yeats
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
+cyclotron - http://dbpedia.org/resource/Cyclotron
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+city - http://dbpedia.org/resource/City
+scientist - http://dbpedia.org/resource/Scientist
+ussr - http://dbpedia.org/resource/Soviet_Union
+security - http://dbpedia.org/resource/Security
+wgn - http://dbpedia.org/resource/WGN_America
+neutron - http://dbpedia.org/resource/Neutron
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+pu-240 - http://dbpedia.org/resource/Plutonium-240
+james tuck - http://dbpedia.org/resource/James_L._Tuck
+holocaust - http://dbpedia.org/resource/The_Holocaust
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+los alamos - http://dbpedia.org/resource/Project_Y
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+mass number - http://dbpedia.org/resource/Mass_number
+virginia woolf - http://dbpedia.org/resource/Virginia_Woolf
+general leslie - http://dbpedia.org/resource/David_Leslie,_1st_Lord_Newark
+intelligence - http://dbpedia.org/resource/Espionage
+plutonium - http://dbpedia.org/resource/Plutonium
+pu-239 - http://dbpedia.org/resource/Plutonium
+girl scout - http://dbpedia.org/resource/Girl_Scouts_of_the_USA
+confer - http://dbpedia.org/resource/CONFER_(software)
+quantum mechanic - http://dbpedia.org/resource/Quantum_mechanics
+pizzeria - http://dbpedia.org/resource/Pizza
+historical society - http://dbpedia.org/resource/Historical_society
+street corner - http://dbpedia.org/resource/Street_Corner_(1953_film)
+bullet - http://dbpedia.org/resource/Ammunition
+scout uniform - http://dbpedia.org/resource/Uniform
+glen - http://dbpedia.org/resource/Ravine
+poem - http://dbpedia.org/resource/Poetry
+manhattan - http://dbpedia.org/resource/Manhattan

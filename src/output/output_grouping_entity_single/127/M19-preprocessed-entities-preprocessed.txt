@@ -1,0 +1,16 @@
+7 mile - http://dbpedia.org/resource/7_Mile_(group)
+ditch - http://dbpedia.org/resource/Moat
+mock castle - http://dbpedia.org/resource/Castle
+castle hill - http://dbpedia.org/resource/Electoral_district_of_Castle_Hill
+st10 - http://dbpedia.org/resource/C166_family
+alton towers - http://dbpedia.org/resource/Alton_Towers
+churnet valley - http://dbpedia.org/resource/River_Churnet
+gatehouse - http://dbpedia.org/resource/Gatehouse
+philip davis - http://dbpedia.org/resource/Phil_Davis_(actor)
+rock - http://dbpedia.org/resource/Rock_music
+uttoxeter - http://dbpedia.org/resource/Uttoxeter
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+stoke - http://dbpedia.org/resource/Stoke-on-Trent
+trent - http://dbpedia.org/resource/River_Trent
+civil war - http://dbpedia.org/resource/English_Civil_War
+alton - http://dbpedia.org/resource/Alton_railway_station

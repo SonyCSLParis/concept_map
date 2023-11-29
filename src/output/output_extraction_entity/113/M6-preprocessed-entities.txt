@@ -1,0 +1,8 @@
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+central java - http://dbpedia.org/resource/Central_Java
+stone - http://dbpedia.org/resource/Masonry
+borobudur - http://dbpedia.org/resource/Borobudur
+unesco - http://dbpedia.org/resource/World_Heritage_Site

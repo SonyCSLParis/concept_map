@@ -1,0 +1,98 @@
+nonfiction - http://dbpedia.org/resource/Non-fiction
+beauty - http://dbpedia.org/resource/Beauty
+fortress - http://dbpedia.org/resource/Castle
+fortress - http://dbpedia.org/resource/Castle
+queen - http://dbpedia.org/resource/Queen_consort
+majestic - http://dbpedia.org/resource/Majestic_12
+european castle - http://dbpedia.org/resource/Castle
+pinnacle - http://dbpedia.org/resource/Pinnacle
+culture - http://dbpedia.org/resource/Culture
+norman - http://dbpedia.org/resource/Normans
+norman - http://dbpedia.org/resource/Normans
+safety - http://dbpedia.org/resource/Safety
+rebellion - http://dbpedia.org/resource/Rebellion
+military operation - http://dbpedia.org/resource/Military_operation
+fiefdom - http://dbpedia.org/resource/Fief
+court - http://dbpedia.org/resource/Courtyard
+social center - http://dbpedia.org/resource/Community_centre
+medieval england - http://dbpedia.org/resource/Middle_Ages
+symbol - http://dbpedia.org/resource/Symbol
+loom - http://dbpedia.org/resource/Loom
+peasant - http://dbpedia.org/resource/Peasant
+timber - http://dbpedia.org/resource/Timber_framing
+hill river - http://dbpedia.org/resource/Hill_River_(South_Australia)
+defense - http://dbpedia.org/resource/Military
+wood - http://dbpedia.org/resource/Wood
+stone - http://dbpedia.org/resource/Masonry
+fortification - http://dbpedia.org/resource/Castle
+stone castle - http://dbpedia.org/resource/Stone_Castle
+fireproof - http://dbpedia.org/resource/Fireproofing
+object - http://dbpedia.org/resource/Object-oriented_programming
+middle ages - http://dbpedia.org/resource/Middle_Ages
+nobility - http://dbpedia.org/resource/Nobility
+plunder - http://dbpedia.org/resource/Looting
+vikings - http://dbpedia.org/resource/Vikings
+marauder - http://dbpedia.org/resource/MARAUDER
+defense update - http://dbpedia.org/resource/Defense_Update
+arrow slit - http://dbpedia.org/resource/Arrowslit
+arrow - http://dbpedia.org/resource/Arrow
+defender - http://dbpedia.org/resource/Defendant
+tower - http://dbpedia.org/resource/Keep
+defender - http://dbpedia.org/resource/Defendant
+flanking fire - http://dbpedia.org/resource/Enfilade_and_defilade
+tower - http://dbpedia.org/resource/Keep
+bridge tower - http://dbpedia.org/resource/Bridge_tower
+ring - http://dbpedia.org/resource/Ring_of_bells
+killing ground - http://dbpedia.org/resource/Killing_Ground
+defense - http://dbpedia.org/resource/Military
+gunpowder - http://dbpedia.org/resource/Gunpowder
+gunpowder - http://dbpedia.org/resource/Gunpowder
+gunpowder - http://dbpedia.org/resource/Gunpowder
+weapon - http://dbpedia.org/resource/Weapon
+artillery - http://dbpedia.org/resource/Artillery
+stone - http://dbpedia.org/resource/Masonry
+artillery - http://dbpedia.org/resource/Artillery
+fort - http://dbpedia.org/resource/Fortification
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+country house - http://dbpedia.org/resource/English_country_house
+majestic - http://dbpedia.org/resource/Majestic_12
+space - http://dbpedia.org/resource/Outer_space
+function - http://dbpedia.org/resource/Role
+symbol - http://dbpedia.org/resource/Symbol
+social center - http://dbpedia.org/resource/Community_centre
+medieval england - http://dbpedia.org/resource/Middle_Ages
+horse - http://dbpedia.org/resource/Cavalry
+norman - http://dbpedia.org/resource/Normans
+timber - http://dbpedia.org/resource/Timber_framing
+energy - http://dbpedia.org/resource/Energy
+stone castle - http://dbpedia.org/resource/Stone_Castle
+stone - http://dbpedia.org/resource/Masonry
+stone castle - http://dbpedia.org/resource/Stone_Castle
+fortification - http://dbpedia.org/resource/Castle
+fortress - http://dbpedia.org/resource/Castle
+fortification - http://dbpedia.org/resource/Castle
+fortification - http://dbpedia.org/resource/Castle
+fortification - http://dbpedia.org/resource/Castle
+stone castle - http://dbpedia.org/resource/Stone_Castle
+stone castle - http://dbpedia.org/resource/Stone_Castle
+defense - http://dbpedia.org/resource/Military
+stone castle - http://dbpedia.org/resource/Stone_Castle
+stay cool - http://dbpedia.org/resource/Stay_Cool
+summer - http://dbpedia.org/resource/Summer_solstice
+defense - http://dbpedia.org/resource/Military
+tower - http://dbpedia.org/resource/Keep
+main castle - http://dbpedia.org/resource/Inner_bailey
+ditch - http://dbpedia.org/resource/Moat
+gunpowder - http://dbpedia.org/resource/Gunpowder
+gun - http://dbpedia.org/resource/Cannon
+artillery - http://dbpedia.org/resource/Artillery
+fort - http://dbpedia.org/resource/Fortification
+cannon - http://dbpedia.org/resource/Cannon
+defender - http://dbpedia.org/resource/Defendant
+stone - http://dbpedia.org/resource/Masonry
+castle technology - http://dbpedia.org/resource/Castle_Technology
+medieval - http://dbpedia.org/resource/Middle_Ages
+stone - http://dbpedia.org/resource/Masonry
+wood - http://dbpedia.org/resource/Wood
+office administration - http://dbpedia.org/resource/Office_administration
+middle ages - http://dbpedia.org/resource/Middle_Ages

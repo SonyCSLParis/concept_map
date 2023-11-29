@@ -1,0 +1,25 @@
+jurisprudence - http://dbpedia.org/resource/Precedent
+common rule - http://dbpedia.org/resource/Common_Rule
+article - http://dbpedia.org/resource/Historicity_of_Jesus
+federal power - http://dbpedia.org/resource/Federalism
+strict construction - http://dbpedia.org/resource/Strict_constructionism
+sovereign - http://dbpedia.org/resource/Sovereignty
+james madison - http://dbpedia.org/resource/James_Madison
+lopez - http://dbpedia.org/resource/Jennifer_Lopez
+chief justice rehnquist - http://dbpedia.org/resource/William_Rehnquist
+rehnquist court - http://dbpedia.org/resource/William_Rehnquist
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+supreme court - http://dbpedia.org/resource/Supreme_Court_of_Canada
+federalism - http://dbpedia.org/resource/Federalism
+revolution - http://dbpedia.org/resource/Revolution
+justice o'connor - http://dbpedia.org/resource/Sandra_Day_O'Connor
+printz - http://dbpedia.org/resource/Printz_v._United_States
+alden - http://dbpedia.org/resource/Alden,_New_York
+liberty - http://dbpedia.org/resource/Liberty
+hook - http://dbpedia.org/resource/Hooking
+amendment - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
+object - http://dbpedia.org/resource/Object-oriented_programming
+ashcroft - http://dbpedia.org/resource/John_Ashcroft
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+reserve - http://dbpedia.org/resource/Indian_reserve
+york - http://dbpedia.org/resource/York

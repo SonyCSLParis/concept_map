@@ -1,0 +1,52 @@
+islam - http://dbpedia.org/resource/Islam
+arrow missile - http://dbpedia.org/resource/Arrow_(Israeli_missile)
+concentration - http://dbpedia.org/resource/Internment
+flood - http://dbpedia.org/resource/Flood
+cambridge university - http://dbpedia.org/resource/University_of_Cambridge
+anatolian turks - http://dbpedia.org/resource/Turkish_people
+soldier - http://dbpedia.org/resource/Soldier
+mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
+bullet - http://dbpedia.org/resource/Musket
+artillery - http://dbpedia.org/resource/Artillery
+turks - http://dbpedia.org/resource/Ottoman_Empire
+cannon - http://dbpedia.org/resource/Cannon
+uniform - http://dbpedia.org/resource/Military_uniform
+javelin - http://dbpedia.org/resource/Javelin
+columbia university press - http://dbpedia.org/resource/Columbia_University_Press
+york - http://dbpedia.org/resource/House_of_York
+greeks - http://dbpedia.org/resource/Ottoman_Greeks
+stone - http://dbpedia.org/resource/Masonry
+trumpet - http://dbpedia.org/resource/Roman_tuba
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+turkish army - http://dbpedia.org/resource/Military_of_the_Ottoman_Empire
+blast wall - http://dbpedia.org/resource/Blast_wall
+defense - http://dbpedia.org/resource/Military
+runciman - http://dbpedia.org/resource/Steven_Runciman
+ottoman turks - http://dbpedia.org/resource/Ottoman_Empire
+columbia encyclopedia - http://dbpedia.org/resource/Columbia_Encyclopedia
+istanbul - http://dbpedia.org/resource/Istanbul
+bear - http://dbpedia.org/resource/Bear
+golden horn - http://dbpedia.org/resource/Golden_Horn
+army attack - http://dbpedia.org/resource/Army_Attack
+judith - http://dbpedia.org/resource/Book_of_Judith
+stockade - http://dbpedia.org/resource/Stockade
+city - http://dbpedia.org/resource/City
+sultan mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
+mehmed - http://dbpedia.org/resource/Mehmed_the_Conqueror
+capital - http://dbpedia.org/resource/Capital_city
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+janissaries - http://dbpedia.org/resource/Janissaries
+empire call - http://dbpedia.org/resource/SS_Ingénieur_Général_Haarbleicher
+aqueduct - http://dbpedia.org/resource/Roman_aqueduct
+marmora - http://dbpedia.org/resource/Marmora,_Ontario
+warship - http://dbpedia.org/resource/Warship
+noise - http://dbpedia.org/resource/Noise
+siege - http://dbpedia.org/resource/Siege
+signal - http://dbpedia.org/resource/Military_communications
+mosque - http://dbpedia.org/resource/Mosque
+milet - http://dbpedia.org/resource/Miletus
+assault - http://dbpedia.org/resource/Amphibious_warfare
+loot - http://dbpedia.org/resource/Looting
+monument - http://dbpedia.org/resource/Monument
+gate - http://dbpedia.org/resource/City_gate
+religion - http://dbpedia.org/resource/Religion

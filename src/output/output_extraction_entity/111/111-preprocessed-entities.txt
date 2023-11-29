@@ -1,0 +1,29 @@
+bodiam - http://dbpedia.org/resource/Bodiam
+bodiam - http://dbpedia.org/resource/Bodiam
+national trust - http://dbpedia.org/resource/National_trust
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+east sussex - http://dbpedia.org/resource/East_Sussex
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+english civil war - http://dbpedia.org/resource/English_Civil_War
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+monument - http://dbpedia.org/resource/Monument
+toilet - http://dbpedia.org/resource/Toilet
+moat - http://dbpedia.org/resource/Moat
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+east sussex - http://dbpedia.org/resource/East_Sussex
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+bodiam - http://dbpedia.org/resource/Bodiam
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+national trust - http://dbpedia.org/resource/National_trust
+manor - http://dbpedia.org/resource/Manorialism

@@ -1,0 +1,42 @@
+prostitution - http://dbpedia.org/resource/Prostitution
+shoe - http://dbpedia.org/resource/Shoe
+temple view - http://dbpedia.org/resource/Temple_View
+indonesian government - http://dbpedia.org/resource/Government_of_Indonesia
+lay people - http://dbpedia.org/resource/Laity
+theravada - http://dbpedia.org/resource/Theravada
+pay attention - http://dbpedia.org/resource/Pay_Attention
+family - http://dbpedia.org/resource/Family
+meditate - http://dbpedia.org/resource/Meditation
+catholicism - http://dbpedia.org/resource/Catholic_Church
+buddhists - http://dbpedia.org/resource/Buddhism
+breakfast - http://dbpedia.org/resource/Breakfast
+intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
+enlightenment - http://dbpedia.org/resource/Enlightenment_in_Buddhism
+stone carving - http://dbpedia.org/resource/Stone_carving
+stone - http://dbpedia.org/resource/Masonry
+buddhism - http://dbpedia.org/resource/Buddhism
+bodhi tree - http://dbpedia.org/resource/Bodhi_Tree
+orange - http://dbpedia.org/resource/Larfleeze
+flower - http://dbpedia.org/resource/Flower
+tour guide - http://dbpedia.org/resource/Tour_guide
+borobudur - http://dbpedia.org/resource/Borobudur
+unesco - http://dbpedia.org/resource/UNESCO
+water - http://dbpedia.org/resource/Water
+tree - http://dbpedia.org/resource/Tree
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+volcanic - http://dbpedia.org/resource/Volcano
+gold - http://dbpedia.org/resource/Gold
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+carpet - http://dbpedia.org/resource/Carpet
+meditation - http://dbpedia.org/resource/Buddhist_meditation
+good day - http://dbpedia.org/resource/The_Humdinger
+alcohol - http://dbpedia.org/resource/Islamic_dietary_laws
+monk - http://dbpedia.org/resource/Bhikkhu
+gate - http://dbpedia.org/resource/Gate
+bear - http://dbpedia.org/resource/Teddy_bear
+mahayana - http://dbpedia.org/resource/Mahayana
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+temple - http://dbpedia.org/resource/Temple
+gossip - http://dbpedia.org/resource/Gossip
+religion - http://dbpedia.org/resource/Hinduism
+sexual relation - http://dbpedia.org/resource/Human_sexual_activity

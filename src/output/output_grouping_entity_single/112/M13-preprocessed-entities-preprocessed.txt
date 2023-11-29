@@ -1,0 +1,6 @@
+st. jerome - http://dbpedia.org/resource/Jerome
+vulgate - http://dbpedia.org/resource/Vulgate
+city year - http://dbpedia.org/resource/City_Year
+trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+latin - http://dbpedia.org/resource/Latin

@@ -1,0 +1,34 @@
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+west virginia - http://dbpedia.org/resource/West_Virginia
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+wind - http://dbpedia.org/resource/Wind
+weather - http://dbpedia.org/resource/Weather
+winchester - http://dbpedia.org/resource/Winchester
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+aerial image - http://dbpedia.org/resource/Aerial_image
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+map - http://dbpedia.org/resource/Map
+satellite - http://dbpedia.org/resource/Weather_satellite
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+church - http://dbpedia.org/resource/Church_architecture
+hampshire county - http://dbpedia.org/resource/Hampshire
+wv - http://dbpedia.org/resource/Wv_(software)
+elevation - http://dbpedia.org/resource/Elevation
+meter - http://dbpedia.org/resource/Metre
+sea level - http://dbpedia.org/resource/Sea_level
+capon - http://dbpedia.org/resource/Capon
+baptist - http://dbpedia.org/resource/Baptists
+chapel - http://dbpedia.org/resource/Place_of_worship
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+church - http://dbpedia.org/resource/Church_architecture
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+church - http://dbpedia.org/resource/Church_architecture
+chapel - http://dbpedia.org/resource/Place_of_worship
+mosque - http://dbpedia.org/resource/Mosque
+synagogue - http://dbpedia.org/resource/Synagogue
+tabernacle - http://dbpedia.org/resource/Church_tabernacle
+temple - http://dbpedia.org/resource/Hindu_temple
+latitude - http://dbpedia.org/resource/Latitude
+longitude - http://dbpedia.org/resource/Longitude
+latitude - http://dbpedia.org/resource/Latitude

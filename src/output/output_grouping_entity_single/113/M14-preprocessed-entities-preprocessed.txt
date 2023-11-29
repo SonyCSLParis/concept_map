@@ -1,0 +1,328 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+rape - http://dbpedia.org/resource/Rape
+hindu temple - http://dbpedia.org/resource/Hindu_temple
+rent - http://dbpedia.org/resource/Renting
+mask - http://dbpedia.org/resource/Mask
+resort - http://dbpedia.org/resource/Resort
+karma - http://dbpedia.org/resource/Karma
+achmad yani international airport - http://dbpedia.org/resource/Ahmad_Yani_International_Airport
+losman - http://dbpedia.org/resource/J._P._Losman
+hawker - http://dbpedia.org/resource/Peddler
+fax - http://dbpedia.org/resource/Fax
+standard indonesian - http://dbpedia.org/resource/Indonesian_language
+selo - http://dbpedia.org/resource/Village
+kuala lumpur - http://dbpedia.org/resource/Kuala_Lumpur
+stall turn - http://dbpedia.org/resource/Stall_turn
+muntilan - http://dbpedia.org/resource/Muntilan
+prince siddhartha - http://dbpedia.org/resource/Gautama_Buddha
+monument - http://dbpedia.org/resource/Monument
+gunung wukir - http://dbpedia.org/resource/Gunung_Wukir
+candi borobudur - http://dbpedia.org/resource/Borobudur
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+resort spa - http://dbpedia.org/resource/Destination_spa
+recount - http://dbpedia.org/resource/Election_recount
+mendut - http://dbpedia.org/resource/Mendut
+tree - http://dbpedia.org/resource/Tree
+door door - http://dbpedia.org/resource/Door_Door
+skip - http://dbpedia.org/resource/Dumpster
+candle - http://dbpedia.org/resource/Candle
+wheel - http://dbpedia.org/resource/Wheel
+nirvana - http://dbpedia.org/resource/Nirvana
+indonesians - http://dbpedia.org/resource/Indonesia
+borobudur ship - http://dbpedia.org/resource/Borobudur_ship
+bandung - http://dbpedia.org/resource/Bandung_(drink)
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+pilgrimage - http://dbpedia.org/resource/Pilgrimage
+tolerance - http://dbpedia.org/resource/Toleration
+surabaya - http://dbpedia.org/resource/Surabaya
+mount sundoro - http://dbpedia.org/resource/Mount_Sindoro
+sarong - http://dbpedia.org/resource/Sarong
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+flashlight - http://dbpedia.org/resource/Flashlight
+bank negara indonesia - http://dbpedia.org/resource/Bank_Negara_Indonesia
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+clog - http://dbpedia.org/resource/Clog
+lattice - http://dbpedia.org/resource/Latticework
+agency - http://dbpedia.org/resource/Institution
+soc - http://dbpedia.org/resource/System_on_a_chip
+magelang - http://dbpedia.org/resource/Magelang
+lush - http://dbpedia.org/resource/Lush_3
+heaven - http://dbpedia.org/resource/Buddhist_cosmology
+heritage - http://dbpedia.org/resource/Tradition
+open theatre - http://dbpedia.org/resource/The_Open_Theater
+area code - http://dbpedia.org/resource/Telephone_numbering_plan
+minibus - http://dbpedia.org/resource/Minibus
+rely - http://dbpedia.org/resource/Rely_(brand)
+medang kamulan - http://dbpedia.org/resource/Medang_Kamulan
+function - http://dbpedia.org/resource/Role
+batavia air - http://dbpedia.org/resource/Batavia_Air
+theory - http://dbpedia.org/resource/Theory
+government park - http://dbpedia.org/resource/Government_Park,_Ontario
+rain - http://dbpedia.org/resource/Rain
+mataram - http://dbpedia.org/resource/Central_Java
+maguwo - http://dbpedia.org/resource/Maguwo
+volcanic eruption - http://dbpedia.org/resource/Volcano
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+work permit - http://dbpedia.org/resource/Work_permit
+java war - http://dbpedia.org/resource/Java_War
+enlightenment - http://dbpedia.org/resource/Enlightenment_in_Buddhism
+borobudur - http://dbpedia.org/resource/Borobudur
+van lith - http://dbpedia.org/resource/Frans_van_Lith
+amazing - http://dbpedia.org/resource/Earth-616
+tout - http://dbpedia.org/resource/Tout
+pawon - http://dbpedia.org/resource/Pawon
+internet cafe - http://dbpedia.org/resource/Internet_café
+teak - http://dbpedia.org/resource/Teak
+hot work - http://dbpedia.org/resource/Hot_work
+theft - http://dbpedia.org/resource/Theft
+avadana - http://dbpedia.org/resource/Avadana
+sleep - http://dbpedia.org/resource/Sleep
+bus terminal - http://dbpedia.org/resource/Bus_stop
+spawn - http://dbpedia.org/resource/Reproduction
+dharma - http://dbpedia.org/resource/Dharma
+volcano - http://dbpedia.org/resource/Volcano
+british rule - http://dbpedia.org/resource/British_Empire
+hindu - http://dbpedia.org/resource/Hindus
+sunset - http://dbpedia.org/resource/Sunset
+amanjiwo - http://dbpedia.org/resource/Amanjiwo
+heart - http://dbpedia.org/resource/Heart
+backpacker - http://dbpedia.org/resource/Backpacking_(hiking)
+historic site - http://dbpedia.org/resource/Historic_site
+fear - http://dbpedia.org/resource/Fear
+great room - http://dbpedia.org/resource/Great_room
+purworejo - http://dbpedia.org/resource/Purworejo_Regency
+roman catholic - http://dbpedia.org/resource/Catholic_Church
+javanese dance - http://dbpedia.org/resource/Javanese_dance
+beautiful view - http://dbpedia.org/resource/Beautiful_View
+route 2b - http://dbpedia.org/resource/Quebec_Route_2
+telephone - http://dbpedia.org/resource/Telephone
+street sense - http://dbpedia.org/resource/Street_Sense_(horse)
+late afternoon - http://dbpedia.org/resource/Late_Afternoon
+transport - http://dbpedia.org/resource/Transport
+loot - http://dbpedia.org/resource/Looting
+early morning - http://dbpedia.org/resource/Early_Morning
+town - http://dbpedia.org/resource/Town
+hunter - http://dbpedia.org/resource/Hunting
+travel guide - http://dbpedia.org/resource/Guide_book
+ultimate truth - http://dbpedia.org/resource/Two_truths_doctrine
+hotel - http://dbpedia.org/resource/Hotel
+good deal - http://dbpedia.org/resource/Good_Deal
+sun - http://dbpedia.org/resource/Sunlight
+marketing - http://dbpedia.org/resource/Marketing
+bali - http://dbpedia.org/resource/Bali
+usd - http://dbpedia.org/resource/United_States_dollar
+motorbike - http://dbpedia.org/resource/Motorcycle
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+volcanic - http://dbpedia.org/resource/Volcano
+sanskrit - http://dbpedia.org/resource/Sanskrit
+law - http://dbpedia.org/resource/Sharia
+station - http://dbpedia.org/resource/Train_station
+lord buddha - http://dbpedia.org/resource/Gautama_Buddha
+lotus - http://dbpedia.org/resource/Nelumbo_nucifera
+family room - http://dbpedia.org/resource/Family_room
+mystical - http://dbpedia.org/resource/Mysticism
+eruption - http://dbpedia.org/resource/Volcano
+dome - http://dbpedia.org/resource/Dome
+ash fall - http://dbpedia.org/resource/Volcanic_ash
+silver - http://dbpedia.org/resource/Silver
+dieng plateau - http://dbpedia.org/resource/Dieng_Plateau
+volcanic ash - http://dbpedia.org/resource/Volcanic_ash
+school holiday - http://dbpedia.org/resource/Academic_year
+toy train - http://dbpedia.org/resource/Toy_train
+public bus - http://dbpedia.org/resource/Bus
+anglo - http://dbpedia.org/resource/Anglo
+relief - http://dbpedia.org/resource/Relief
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+procession - http://dbpedia.org/resource/Procession
+food - http://dbpedia.org/resource/Food
+idul fitri - http://dbpedia.org/resource/Eid_al-Fitr
+terminal - http://dbpedia.org/resource/Airport_terminal
+indonesian street food - http://dbpedia.org/resource/Street_food_of_Indonesia
+hassle - http://dbpedia.org/resource/Hassle_Records
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+bicycle - http://dbpedia.org/resource/Bicycle
+raffle - http://dbpedia.org/resource/Raffle
+bus conductor - http://dbpedia.org/resource/Bus_conductor
+drainage - http://dbpedia.org/resource/Drainage
+prambanan - http://dbpedia.org/resource/Prambanan
+june park - http://dbpedia.org/resource/June_Park,_Florida
+indonesian buddhist - http://dbpedia.org/resource/Buddhism_in_Indonesia
+rehabilitation - http://dbpedia.org/resource/Drug_rehabilitation
+reflection - http://dbpedia.org/resource/Introspection
+engineer - http://dbpedia.org/resource/Engineer
+2006 yogyakarta earthquake - http://dbpedia.org/resource/2006_Yogyakarta_earthquake
+unsteady - http://dbpedia.org/resource/Unsteady_(song)
+access time - http://dbpedia.org/resource/Access_time
+plain - http://dbpedia.org/resource/Great_Plains
+terrace - http://dbpedia.org/resource/Terraced_house
+shipping route - http://dbpedia.org/resource/Sea_lane
+buddhist - http://dbpedia.org/resource/Buddhism
+javanese history - http://dbpedia.org/resource/Java
+bear - http://dbpedia.org/resource/Bear
+moon - http://dbpedia.org/resource/Moon
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+checkout - http://dbpedia.org/resource/Point_of_sale
+indian ocean - http://dbpedia.org/resource/Indian_Ocean
+restaurant - http://dbpedia.org/resource/Restaurant
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+david - http://dbpedia.org/resource/David
+archaeological - http://dbpedia.org/resource/Archaeology
+islam - http://dbpedia.org/resource/Islam
+photography - http://dbpedia.org/resource/Photography
+acidic - http://dbpedia.org/resource/Acid
+crater - http://dbpedia.org/resource/Volcanic_crater
+cash - http://dbpedia.org/resource/United_States_dollar
+breakfast - http://dbpedia.org/resource/Breakfast
+late september - http://dbpedia.org/resource/Late_September
+clockwise - http://dbpedia.org/resource/Clockwise
+bus - http://dbpedia.org/resource/Bus
+concrete - http://dbpedia.org/resource/Concrete
+complement - http://dbpedia.org/resource/Complement_system
+high point - http://dbpedia.org/resource/West_Seattle
+light - http://dbpedia.org/resource/Sunlight
+jatakas - http://dbpedia.org/resource/Jataka_tales
+jungle - http://dbpedia.org/resource/Wikipedia
+mount merbabu - http://dbpedia.org/resource/Mount_Merbabu
+meditation - http://dbpedia.org/resource/Meditation
+calendar - http://dbpedia.org/resource/Calendar
+umbul - http://dbpedia.org/resource/Umbul_Temple
+swimming pool - http://dbpedia.org/resource/Swimming_pool
+manohara - http://dbpedia.org/resource/Manohara
+travel agent - http://dbpedia.org/resource/Travel_agency
+centre platform - http://dbpedia.org/resource/Island_platform
+no2 - http://dbpedia.org/resource/Nitrous_oxide
+plane - http://dbpedia.org/resource/Airplane
+merbabu - http://dbpedia.org/resource/Mount_Merbabu
+dusun - http://dbpedia.org/resource/Dusun_people
+torture - http://dbpedia.org/resource/Torture
+sediment - http://dbpedia.org/resource/Sediment
+thread - http://dbpedia.org/resource/Yarn
+remarkable - http://dbpedia.org/resource/ReMarkable
+lift - http://dbpedia.org/resource/Elevator
+stone - http://dbpedia.org/resource/Sandstone
+maritime - http://dbpedia.org/resource/Sea
+souvenir - http://dbpedia.org/resource/Souvenir
+budget set - http://dbpedia.org/resource/Budget_set
+philip beale - http://dbpedia.org/resource/Philip_Beale
+hinduism - http://dbpedia.org/resource/Hinduism
+trans - http://dbpedia.org/resource/Transgender
+adisucipto international airport - http://dbpedia.org/resource/Adisutjipto_International_Airport
+candi - http://dbpedia.org/resource/Candi_of_Indonesia
+rp - http://dbpedia.org/resource/Received_Pronunciation
+model ship - http://dbpedia.org/resource/Ship_model
+buddhist cosmology - http://dbpedia.org/resource/Buddhist_cosmology
+batik - http://dbpedia.org/resource/Batik
+taxi - http://dbpedia.org/resource/Taxicab
+guest house - http://dbpedia.org/resource/Bed_and_breakfast
+october november - http://dbpedia.org/resource/October_November
+west jakarta - http://dbpedia.org/resource/West_Jakarta
+stupa - http://dbpedia.org/resource/Stupa
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+condong - http://dbpedia.org/resource/Condong
+balaputradewa - http://dbpedia.org/resource/Balaputra
+atm - http://dbpedia.org/resource/Atmosphere
+buddha statue - http://dbpedia.org/resource/Buddharupa
+sunrise - http://dbpedia.org/resource/Sunrise
+plea - http://dbpedia.org/resource/Plea_bargain
+baffle - http://dbpedia.org/resource/Loudspeaker_enclosure
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+haphazard - http://dbpedia.org/resource/Haphazard_(album)
+stall - http://dbpedia.org/resource/Market_stall
+sailendra - http://dbpedia.org/resource/Shailendra_dynasty
+family - http://dbpedia.org/resource/Family
+kedu plain - http://dbpedia.org/resource/Kedu_Plain
+archaeologist - http://dbpedia.org/resource/Archaeology
+network - http://dbpedia.org/resource/Social_network
+cement - http://dbpedia.org/resource/Plaster
+iata - http://dbpedia.org/resource/International_Air_Transport_Association
+adisumarmo international airport - http://dbpedia.org/resource/Adisumarmo_International_Airport
+area 5 - http://dbpedia.org/resource/Frenchman_Flat
+censor - http://dbpedia.org/resource/Censorship
+pedlar - http://dbpedia.org/resource/Peddler
+friendly - http://dbpedia.org/resource/Exhibition
+slurry - http://dbpedia.org/resource/Slurry
+airasia - http://dbpedia.org/resource/AirAsia
+batu - http://dbpedia.org/resource/Batu_Khan
+lava stone - http://dbpedia.org/resource/Volcanic_rock
+british governor - http://dbpedia.org/resource/Governor_of_Hong_Kong
+javanese - http://dbpedia.org/resource/Java
+unearth - http://dbpedia.org/resource/Unearth
+avatamsaka sutra - http://dbpedia.org/resource/Avatamsaka_Sutra
+air asia - http://dbpedia.org/resource/AirAsia
+food price - http://dbpedia.org/resource/Food_prices
+maze - http://dbpedia.org/resource/Labyrinth
+semarang - http://dbpedia.org/resource/Semarang
+planned parenthood - http://dbpedia.org/resource/Family_planning
+aman - http://dbpedia.org/resource/Amun
+perfect wisdom - http://dbpedia.org/resource/Prajnaparamita
+coffee - http://dbpedia.org/resource/Coffeehouse
+space - http://dbpedia.org/resource/Space
+drama - http://dbpedia.org/resource/Theatre
+region - http://dbpedia.org/resource/Region
+tidar - http://dbpedia.org/resource/Tidar,_Bashagard
+jesuits - http://dbpedia.org/resource/Society_of_Jesus
+market town - http://dbpedia.org/resource/Market_town
+mount sumbing - http://dbpedia.org/resource/Mount_Sumbing
+village - http://dbpedia.org/resource/Village
+police - http://dbpedia.org/resource/Police
+landscape - http://dbpedia.org/resource/Landscape
+single - http://dbpedia.org/resource/Phonograph_record
+post office - http://dbpedia.org/resource/Post_office
+versa - http://dbpedia.org/resource/Suzuki_Carry
+sermon - http://dbpedia.org/resource/Sutra
+ngawen - http://dbpedia.org/resource/Ngawen
+merapi - http://dbpedia.org/resource/Mount_Merapi
+horde - http://dbpedia.org/resource/Forced_displacement
+folklore - http://dbpedia.org/resource/Folklore
+heat - http://dbpedia.org/resource/Central_heating
+lalitavistara - http://dbpedia.org/resource/Lalitavistara_Sūtra
+mountain west - http://dbpedia.org/resource/Mountain_states
+exit sign - http://dbpedia.org/resource/Exit_sign
+water - http://dbpedia.org/resource/Water
+technology - http://dbpedia.org/resource/Technology
+candi mendut - http://dbpedia.org/resource/Mendut
+air conditioning - http://dbpedia.org/resource/Air_conditioning
+cinnamon - http://dbpedia.org/resource/Cinnamon
+provenance - http://dbpedia.org/resource/Provenance
+landmark - http://dbpedia.org/resource/Landmark
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+train - http://dbpedia.org/resource/Train
+rail - http://dbpedia.org/resource/Rail_transport
+market - http://dbpedia.org/resource/Marketplace
+gate - http://dbpedia.org/resource/Gate
+central java - http://dbpedia.org/resource/Central_Java
+audio - http://dbpedia.org/resource/Music
+guesthouse - http://dbpedia.org/resource/Inn
+srg - http://dbpedia.org/resource/Swiss_Broadcasting_Corporation
+sudhana - http://dbpedia.org/resource/Sudhana
+european language - http://dbpedia.org/resource/Languages_of_Europe
+borobudur archaeological park - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+ironic - http://dbpedia.org/resource/Irony
+bottled water - http://dbpedia.org/resource/Bottled_water
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+double room - http://dbpedia.org/resource/Double_Room
+indonesian food - http://dbpedia.org/resource/Indonesian_cuisine
+temperature - http://dbpedia.org/resource/Atmosphere_of_Earth
+buddhism - http://dbpedia.org/resource/Buddhism
+bit - http://dbpedia.org/resource/Bit
+thomas stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
+tourist attraction - http://dbpedia.org/resource/Tourism
+british naval history - http://dbpedia.org/resource/Maritime_history_of_the_United_Kingdom
+map - http://dbpedia.org/resource/Map
+bus station - http://dbpedia.org/resource/Bus_station
+jakarta - http://dbpedia.org/resource/Jakarta
+tourism - http://dbpedia.org/resource/Tourism
+plant - http://dbpedia.org/resource/Factory
+gandavyuha - http://dbpedia.org/resource/Gandavyuha
+chamber - http://dbpedia.org/resource/Room
+noble - http://dbpedia.org/resource/Nobility
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+actual size - http://dbpedia.org/resource/Actual_Size
+adorn - http://dbpedia.org/resource/Adorn_(song)
+ambulance - http://dbpedia.org/resource/Ambulance
+western slope - http://dbpedia.org/resource/Colorado_Western_Slope
+andesite - http://dbpedia.org/resource/Andesite
+buttress - http://dbpedia.org/resource/Buttress
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+south park - http://dbpedia.org/resource/South_Park

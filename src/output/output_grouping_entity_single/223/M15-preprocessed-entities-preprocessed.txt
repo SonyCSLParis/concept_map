@@ -1,0 +1,103 @@
+duke - http://dbpedia.org/resource/Dux
+hierapolis - http://dbpedia.org/resource/Manbij
+pechenegs - http://dbpedia.org/resource/Pechenegs
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+bryennius - http://dbpedia.org/resource/Nikephoros_Bryennios_the_Younger
+franks - http://dbpedia.org/resource/Franks
+balkans - http://dbpedia.org/resource/Maurice's_Balkan_campaigns
+roussel de bailleul - http://dbpedia.org/resource/Roussel_de_Bailleul
+armenian - http://dbpedia.org/resource/Armenians
+alp - http://dbpedia.org/resource/Alpine_transhumance
+historian - http://dbpedia.org/resource/Roman_historiography
+armenia - http://dbpedia.org/resource/Armenian_Kingdom_of_Cilicia
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+capital - http://dbpedia.org/resource/Capital_punishment
+asia minor - http://dbpedia.org/resource/Anatolia
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+romanus - http://dbpedia.org/resource/Rome
+theodore alyates - http://dbpedia.org/resource/Theodore_Alyates
+aleppo - http://dbpedia.org/resource/Aleppo
+seljuk turkish - http://dbpedia.org/resource/Seljuq_dynasty
+turkish - http://dbpedia.org/resource/Turkic_peoples
+romanus iv diogenes - http://dbpedia.org/resource/Romanos_IV_Diogenes
+byzantine army - http://dbpedia.org/resource/Byzantine_Empire
+sultan - http://dbpedia.org/resource/Sultan
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+migration - http://dbpedia.org/resource/Human_migration
+forage - http://dbpedia.org/resource/Foraging
+eastern turkey - http://dbpedia.org/resource/Eastern_Anatolia_Region
+torture - http://dbpedia.org/resource/Torture
+sebasteia - http://dbpedia.org/resource/Sivas
+malazgirt - http://dbpedia.org/resource/Malazgirt
+intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
+baggage train - http://dbpedia.org/resource/Wagon_train
+khliat - http://dbpedia.org/resource/Ahlat
+heart - http://dbpedia.org/resource/Heart_(symbol)
+reserve - http://dbpedia.org/resource/Military_reserve
+norwich - http://dbpedia.org/resource/Norwich
+set free - http://dbpedia.org/resource/Set_Free_(film)
+manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
+root - http://dbpedia.org/resource/Root
+andronicus ducas - http://dbpedia.org/resource/Andronikos_Doukas_(cousin_of_Michael_VII)
+cavalry - http://dbpedia.org/resource/Cavalry
+prepare - http://dbpedia.org/resource/PREPARE
+mosul - http://dbpedia.org/resource/Mosul
+eastern christianity - http://dbpedia.org/resource/Eastern_Orthodox_Church
+arrow - http://dbpedia.org/resource/Arrow
+tarchaneiotes - http://dbpedia.org/resource/Tarchaneiotes
+curse - http://dbpedia.org/resource/Curse
+crusade - http://dbpedia.org/resource/Crusades
+mercenary - http://dbpedia.org/resource/Mercenary
+disaster - http://dbpedia.org/resource/Disaster
+seljuk - http://dbpedia.org/resource/Seljuq_dynasty
+counterattack - http://dbpedia.org/resource/Counterattack
+varangians - http://dbpedia.org/resource/Varangian_Guard
+recall - http://dbpedia.org/resource/Recall_election
+lake - http://dbpedia.org/resource/Lake
+siege - http://dbpedia.org/resource/Siege_of_Antioch
+sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
+fortress - http://dbpedia.org/resource/Fortification
+john tarchaneiotes - http://dbpedia.org/resource/John_Tarchaneiotes
+guard force - http://dbpedia.org/resource/Rhodesian_Security_Forces
+lament - http://dbpedia.org/resource/Lament
+a.d. - http://dbpedia.org/resource/Anno_Domini
+migrate - http://dbpedia.org/resource/Human_migration
+romanus iv - http://dbpedia.org/resource/Romanos_IV_Diogenes
+alp arslan - http://dbpedia.org/resource/Alp_Arslan
+pecheneg - http://dbpedia.org/resource/Pechenegs
+holy places - http://dbpedia.org/resource/Holy_place
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+normans - http://dbpedia.org/resource/Italo-Normans
+antioch - http://dbpedia.org/resource/Antioch
+wing - http://dbpedia.org/resource/Wing
+city - http://dbpedia.org/resource/City
+resistance - http://dbpedia.org/resource/French_Resistance
+nicephorus - http://dbpedia.org/resource/Nikephoros_I
+halys - http://dbpedia.org/resource/Kızılırmak_River
+middle east - http://dbpedia.org/resource/Middle_East
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
+varangian guard - http://dbpedia.org/resource/Varangian_Guard
+misunderstood - http://dbpedia.org/resource/The_Misunderstood
+trilogy - http://dbpedia.org/resource/Trilogy
+signal - http://dbpedia.org/resource/Railway_signal
+left wing - http://dbpedia.org/resource/Left-wing_politics
+seljuks - http://dbpedia.org/resource/Seljuq_dynasty
+embassy - http://dbpedia.org/resource/Diplomatic_mission
+ripple - http://dbpedia.org/resource/Ripple_marks
+edessa - http://dbpedia.org/resource/Edessa
+spy - http://dbpedia.org/resource/Espionage
+blind - http://dbpedia.org/resource/Visual_impairment
+archer - http://dbpedia.org/resource/Archery
+anatolia - http://dbpedia.org/resource/Anatolia
+battle formation - http://dbpedia.org/resource/Battle_Formation
+nicephorus bryennius - http://dbpedia.org/resource/Nikephoros_Bryennios_the_Younger
+melitene - http://dbpedia.org/resource/Malatya
+east west - http://dbpedia.org/resource/East_West_Records
+plunder - http://dbpedia.org/resource/Looting
+pitch battle - http://dbpedia.org/resource/Pitch_Battle
+arslan - http://dbpedia.org/resource/Arslan
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+turks - http://dbpedia.org/resource/Seljuq_dynasty
+withdrawal time - http://dbpedia.org/resource/Withdrawal_time
+anatolian - http://dbpedia.org/resource/Anatolia

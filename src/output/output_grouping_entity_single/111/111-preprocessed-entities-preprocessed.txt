@@ -1,0 +1,15 @@
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+national trust - http://dbpedia.org/resource/National_trust
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+monument - http://dbpedia.org/resource/Monument
+moat - http://dbpedia.org/resource/Moat
+english civil war - http://dbpedia.org/resource/English_Civil_War
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+east sussex - http://dbpedia.org/resource/East_Sussex
+manor - http://dbpedia.org/resource/Manorialism
+bodiam - http://dbpedia.org/resource/Bodiam
+toilet - http://dbpedia.org/resource/Toilet

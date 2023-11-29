@@ -1,0 +1,45 @@
+crave - http://dbpedia.org/resource/Crave_Entertainment
+eastern river - http://dbpedia.org/resource/Eastern_River
+coptic - http://dbpedia.org/resource/Coptic_Orthodox_Church_of_Alexandria
+luxor - http://dbpedia.org/resource/Luxor
+family - http://dbpedia.org/resource/Family
+lake - http://dbpedia.org/resource/Lake
+cafe - http://dbpedia.org/resource/Coffeehouse
+nile - http://dbpedia.org/resource/Nile
+randomness - http://dbpedia.org/resource/Randomness
+heart - http://dbpedia.org/resource/Heart
+architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
+big city - http://dbpedia.org/resource/Lenny_White
+alexandria - http://dbpedia.org/resource/Alexandria
+downtown - http://dbpedia.org/resource/Downtown
+oasis - http://dbpedia.org/resource/Oasis
+beach resort - http://dbpedia.org/resource/Seaside_resort
+downtown cairo - http://dbpedia.org/resource/Downtown_Cairo
+hurghada - http://dbpedia.org/resource/Hurghada
+daytrip - http://dbpedia.org/resource/Daytrip
+aswan - http://dbpedia.org/resource/Aswan
+fayoum - http://dbpedia.org/resource/Faiyum
+food - http://dbpedia.org/resource/Food
+human - http://dbpedia.org/resource/Human
+cultural diversity - http://dbpedia.org/resource/Cultural_diversity
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+pharaonic - http://dbpedia.org/resource/Pharaoh
+zamalek - http://dbpedia.org/resource/Zamalek
+egyptian culture - http://dbpedia.org/resource/Culture_of_Egypt
+multicultural - http://dbpedia.org/resource/Multiculturalism
+civilization - http://dbpedia.org/resource/Civilization
+city - http://dbpedia.org/resource/City
+waterfall - http://dbpedia.org/resource/Waterfall
+capital - http://dbpedia.org/resource/Capital_city
+mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
+paris - http://dbpedia.org/resource/Paris
+memoir - http://dbpedia.org/resource/Memoir
+restaurant - http://dbpedia.org/resource/Restaurant
+monument - http://dbpedia.org/resource/Monument
+sleep - http://dbpedia.org/resource/Sleep
+cairo - http://dbpedia.org/resource/Cairo_(graphics)
+beauty - http://dbpedia.org/resource/Aesthetics
+cradle - http://dbpedia.org/resource/Cradle_of_civilization
+sharm el sheikh - http://dbpedia.org/resource/Sharm_El_Sheikh
+culture - http://dbpedia.org/resource/Culture
+red sea - http://dbpedia.org/resource/Red_Sea

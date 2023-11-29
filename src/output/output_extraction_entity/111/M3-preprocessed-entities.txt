@@ -1,0 +1,181 @@
+east sussex - http://dbpedia.org/resource/East_Sussex
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+village - http://dbpedia.org/resource/Village
+pop - http://dbpedia.org/resource/Pop_music
+east sussex - http://dbpedia.org/resource/East_Sussex
+hastings - http://dbpedia.org/resource/Hastings
+a21 - http://dbpedia.org/resource/A21_autoroute
+town - http://dbpedia.org/resource/Market_town
+village - http://dbpedia.org/resource/Village
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+brightling - http://dbpedia.org/resource/Brightling
+hastings - http://dbpedia.org/resource/Hastings
+tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
+rye - http://dbpedia.org/resource/Rye
+breakfast - http://dbpedia.org/resource/Breakfast
+village - http://dbpedia.org/resource/Village
+inn - http://dbpedia.org/resource/Pub
+haunted - http://dbpedia.org/resource/Haunted_house
+pub - http://dbpedia.org/resource/Pub
+britain - http://dbpedia.org/resource/Roman_Britain
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+bruderhof - http://dbpedia.org/resource/Bruderhof_Communities
+faith - http://dbpedia.org/resource/Christianity
+commune - http://dbpedia.org/resource/Commune
+village - http://dbpedia.org/resource/Village
+village - http://dbpedia.org/resource/Village
+friendly - http://dbpedia.org/resource/Exhibition
+public footpath - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+toy - http://dbpedia.org/resource/Toy
+furniture - http://dbpedia.org/resource/Furniture
+brand - http://dbpedia.org/resource/Brand
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+station road - http://dbpedia.org/resource/Station_Road_Ground
+cricket bat - http://dbpedia.org/resource/Cricket_bat
+east sussex - http://dbpedia.org/resource/East_Sussex
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+station - http://dbpedia.org/resource/Train_station
+steam locomotive - http://dbpedia.org/resource/Steam_locomotive
+tenterden - http://dbpedia.org/resource/Tenterden
+bodiam - http://dbpedia.org/resource/Bodiam
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+a21 - http://dbpedia.org/resource/A21_autoroute
+planning permission - http://dbpedia.org/resource/Planning_permission
+steam train - http://dbpedia.org/resource/Steam_locomotive
+train carriage - http://dbpedia.org/resource/Passenger_car_(rail)
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+station - http://dbpedia.org/resource/Train_station
+short track - http://dbpedia.org/resource/Oval_track_racing
+a21 - http://dbpedia.org/resource/A21_autoroute
+london gatwick - http://dbpedia.org/resource/Gatwick_Airport
+rail - http://dbpedia.org/resource/Rail_transport
+port dover - http://dbpedia.org/resource/Port_Dover,_Ontario
+eurotunnel - http://dbpedia.org/resource/Channel_Tunnel
+a21 - http://dbpedia.org/resource/A21_autoroute
+south london - http://dbpedia.org/resource/London
+m25 - http://dbpedia.org/resource/M25_motorway
+hastings - http://dbpedia.org/resource/Hastings
+village - http://dbpedia.org/resource/Village
+central london - http://dbpedia.org/resource/Central_London
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+hastings - http://dbpedia.org/resource/Hastings
+train - http://dbpedia.org/resource/Rail_transport
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+train station - http://dbpedia.org/resource/Train_station
+hastings - http://dbpedia.org/resource/Hastings
+crowhurst - http://dbpedia.org/resource/Crowhurst_railway_station
+st. leonards - http://dbpedia.org/resource/St_Leonards-on-Sea
+st. leonards - http://dbpedia.org/resource/St_Leonards-on-Sea
+london charing cross - http://dbpedia.org/resource/Charing_Cross_railway_station
+etchingham - http://dbpedia.org/resource/Etchingham
+stonegate - http://dbpedia.org/resource/Ticehurst
+wadhurst - http://dbpedia.org/resource/Wadhurst
+frant - http://dbpedia.org/resource/Frant
+tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
+high brooms - http://dbpedia.org/resource/High_Brooms
+tonbridge - http://dbpedia.org/resource/Tonbridge
+sevenoaks - http://dbpedia.org/resource/Sevenoaks
+orpington - http://dbpedia.org/resource/Orpington
+london bridge - http://dbpedia.org/resource/London_Bridge
+bus - http://dbpedia.org/resource/Bus
+rural - http://dbpedia.org/resource/Rural_area
+bus - http://dbpedia.org/resource/Bus
+village - http://dbpedia.org/resource/Village
+settlement - http://dbpedia.org/resource/Town
+town - http://dbpedia.org/resource/Market_town
+train - http://dbpedia.org/resource/Rail_transport
+hastings - http://dbpedia.org/resource/Hastings
+tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
+bus - http://dbpedia.org/resource/Bus
+bodiam - http://dbpedia.org/resource/Bodiam
+hawkhurst - http://dbpedia.org/resource/Hawkhurst
+hawkhurst - http://dbpedia.org/resource/Hawkhurst
+kent - http://dbpedia.org/resource/Kent
+tenterden - http://dbpedia.org/resource/Tenterden
+cranbrook - http://dbpedia.org/resource/Cranbrook_Educational_Community
+rye - http://dbpedia.org/resource/Rye
+bus - http://dbpedia.org/resource/Bus
+high street - http://dbpedia.org/resource/High_Street
+bus - http://dbpedia.org/resource/Bus
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+country walk - http://dbpedia.org/resource/Country_Walk,_Florida
+public footpath - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+bridleway - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+village - http://dbpedia.org/resource/Village
+monty python - http://dbpedia.org/resource/Monty_Python
+holy grail - http://dbpedia.org/resource/Holy_Grail
+station road - http://dbpedia.org/resource/Station_Road_Ground
+village - http://dbpedia.org/resource/Village
+village - http://dbpedia.org/resource/Village
+brightling - http://dbpedia.org/resource/Brightling
+eccentric - http://dbpedia.org/resource/Orbital_eccentricity
+mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
+landmark - http://dbpedia.org/resource/Landmark
+village - http://dbpedia.org/resource/Village
+pyramid - http://dbpedia.org/resource/Pyramid
+mausoleum - http://dbpedia.org/resource/Mausoleum
+battle abbey - http://dbpedia.org/resource/Battle_Abbey
+town - http://dbpedia.org/resource/Market_town
+hastings - http://dbpedia.org/resource/Hastings
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+cistercian - http://dbpedia.org/resource/Cistercians
+historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+village - http://dbpedia.org/resource/Village
+a21 road - http://dbpedia.org/resource/A21_road_(England)
+abbot - http://dbpedia.org/resource/Abbot
+st - http://dbpedia.org/resource/SATB
+village - http://dbpedia.org/resource/Village
+village - http://dbpedia.org/resource/Village
+parade - http://dbpedia.org/resource/Parade
+carnival - http://dbpedia.org/resource/Carnival
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+station - http://dbpedia.org/resource/Train_station
+high street - http://dbpedia.org/resource/High_Street
+bonfire - http://dbpedia.org/resource/Bonfire
+light - http://dbpedia.org/resource/Sunlight
+guy fawkes - http://dbpedia.org/resource/Guy_Fawkes_Night
+effigy - http://dbpedia.org/resource/Effigy
+firework display - http://dbpedia.org/resource/Fireworks
+rural - http://dbpedia.org/resource/Rural_area
+charity - http://dbpedia.org/resource/Charitable_organization
+village - http://dbpedia.org/resource/Village
+convenience store - http://dbpedia.org/resource/Convenience_store
+chemist - http://dbpedia.org/resource/Pharmacy
+baker - http://dbpedia.org/resource/Bakery
+florist - http://dbpedia.org/resource/Floristry
+hair dresser - http://dbpedia.org/resource/Hairdresser
+pub - http://dbpedia.org/resource/Pub
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+indian restaurant - http://dbpedia.org/resource/Indian_cuisine
+spice - http://dbpedia.org/resource/Spice
+st - http://dbpedia.org/resource/SATB
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+inn - http://dbpedia.org/resource/Pub
+high street - http://dbpedia.org/resource/High_Street
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+east sussex - http://dbpedia.org/resource/East_Sussex
+haunted - http://dbpedia.org/resource/Haunted_house
+pub - http://dbpedia.org/resource/Pub
+george inn - http://dbpedia.org/resource/The_George_Inn,_Southwark
+high street - http://dbpedia.org/resource/High_Street
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+east sussex - http://dbpedia.org/resource/East_Sussex
+single - http://dbpedia.org/resource/Phonograph_record
+high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+food - http://dbpedia.org/resource/Food
+ostrich - http://dbpedia.org/resource/Ostrich
+hotel - http://dbpedia.org/resource/Pub
+ostrich - http://dbpedia.org/resource/Ostrich
+hotel - http://dbpedia.org/resource/Pub
+station road - http://dbpedia.org/resource/Station_Road_Ground
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+east sussex - http://dbpedia.org/resource/East_Sussex
+station - http://dbpedia.org/resource/Train_station
+single - http://dbpedia.org/resource/Phonograph_record
+double room - http://dbpedia.org/resource/Double_Room
+breakfast - http://dbpedia.org/resource/Breakfast
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+east sussex - http://dbpedia.org/resource/East_Sussex
+single - http://dbpedia.org/resource/Phonograph_record
+single - http://dbpedia.org/resource/Phonograph_record
+station - http://dbpedia.org/resource/Train_station

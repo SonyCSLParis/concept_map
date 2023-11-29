@@ -1,0 +1,116 @@
+erika - http://dbpedia.org/resource/Erika_Mann
+long expedition - http://dbpedia.org/resource/Long_Expedition
+texas - http://dbpedia.org/resource/Texas
+texas - http://dbpedia.org/resource/Texas
+independent - http://dbpedia.org/resource/Independence
+republic - http://dbpedia.org/resource/French_First_Republic
+erika - http://dbpedia.org/resource/Erika_Mann
+slide - http://dbpedia.org/resource/Slide_guitar
+long expedition - http://dbpedia.org/resource/Long_Expedition
+texas - http://dbpedia.org/resource/Texas
+texas - http://dbpedia.org/resource/Texas
+independent - http://dbpedia.org/resource/Independence
+republic - http://dbpedia.org/resource/French_First_Republic
+louisiana - http://dbpedia.org/resource/Louisiana
+long expedition - http://dbpedia.org/resource/Long_Expedition
+bahia - http://dbpedia.org/resource/Bahia
+goliad - http://dbpedia.org/resource/Goliad_massacre
+mexicans - http://dbpedia.org/resource/Mexico
+mexico city - http://dbpedia.org/resource/Mexico_City
+slide - http://dbpedia.org/resource/Slide_guitar
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+coahuila - http://dbpedia.org/resource/Coahuila
+set 3 - http://dbpedia.org/resource/SET_3
+term limit - http://dbpedia.org/resource/Term_limit
+immigration - http://dbpedia.org/resource/Immigration
+slide - http://dbpedia.org/resource/Slide_guitar
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+empresario - http://dbpedia.org/resource/Empresario
+immigration - http://dbpedia.org/resource/Immigration
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+slide - http://dbpedia.org/resource/Slide_guitar
+velasco - http://dbpedia.org/resource/Spanish_cruiser_Velasco
+texian - http://dbpedia.org/resource/Texians
+domingo de ugartechea - http://dbpedia.org/resource/Domingo_Ugartechea
+alcalde - http://dbpedia.org/resource/Alcalde
+john austin - http://dbpedia.org/resource/J._L._Austin
+cannon - http://dbpedia.org/resource/Cannon
+anahuac - http://dbpedia.org/resource/Valley_of_Mexico
+mexicans - http://dbpedia.org/resource/Mexico
+texians - http://dbpedia.org/resource/Texians
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+slide - http://dbpedia.org/resource/Slide_guitar
+austin - http://dbpedia.org/resource/Austin_College
+pres - http://dbpedia.org/resource/Pôle_de_recherche_et_d'enseignement_supérieur
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+tariff - http://dbpedia.org/resource/Tariff
+immigration - http://dbpedia.org/resource/Immigration
+primary school - http://dbpedia.org/resource/Primary_school
+texas - http://dbpedia.org/resource/Texas
+resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
+slide - http://dbpedia.org/resource/Slide_guitar
+independent - http://dbpedia.org/resource/Independence
+statehood - http://dbpedia.org/resource/U.S._state
+texas - http://dbpedia.org/resource/Texas
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+lift - http://dbpedia.org/resource/Elevator
+immigration - http://dbpedia.org/resource/Immigration
+texas - http://dbpedia.org/resource/Texas
+austin - http://dbpedia.org/resource/Austin_College
+petition - http://dbpedia.org/resource/Petition
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+slide - http://dbpedia.org/resource/Slide_guitar
+slide - http://dbpedia.org/resource/Slide_guitar
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+texians - http://dbpedia.org/resource/Texians
+cannon - http://dbpedia.org/resource/Cannon
+col - http://dbpedia.org/resource/Mountain_pass
+john moore - http://dbpedia.org/resource/John_Moore_(British_Army_officer)
+col - http://dbpedia.org/resource/Mountain_pass
+domingo de ugartechea - http://dbpedia.org/resource/Domingo_Ugartechea
+texians - http://dbpedia.org/resource/Texians
+cannon - http://dbpedia.org/resource/Cannon
+mexicans - http://dbpedia.org/resource/Mexico
+st - http://dbpedia.org/resource/SATB
+revolution - http://dbpedia.org/resource/French_Revolution
+slide - http://dbpedia.org/resource/Slide_guitar
+washington - http://dbpedia.org/resource/George_Washington
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+slide - http://dbpedia.org/resource/Slide_guitar
+february 13 - http://dbpedia.org/resource/February_13
+texians - http://dbpedia.org/resource/Texians
+die - http://dbpedia.org/resource/Death
+susanna dickinson - http://dbpedia.org/resource/Susanna_Dickinson
+angelina - http://dbpedia.org/resource/Angelina_River
+travis - http://dbpedia.org/resource/Travis_Manawa
+ltc - http://dbpedia.org/resource/Lieutenant_colonel
+travis - http://dbpedia.org/resource/Travis_Manawa
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+slide - http://dbpedia.org/resource/Slide_guitar
+goliad - http://dbpedia.org/resource/Goliad_massacre
+texians - http://dbpedia.org/resource/Texians
+col - http://dbpedia.org/resource/Mountain_pass
+fannin - http://dbpedia.org/resource/James_Fannin
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+slide - http://dbpedia.org/resource/Slide_guitar
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+houston - http://dbpedia.org/resource/Houston
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+texas - http://dbpedia.org/resource/Texas
+win independence - http://dbpedia.org/resource/Republic_of_Texas
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+slide - http://dbpedia.org/resource/Slide_guitar
+velasco - http://dbpedia.org/resource/Spanish_cruiser_Velasco
+treaty 1 - http://dbpedia.org/resource/Treaty_1
+republic - http://dbpedia.org/resource/French_First_Republic
+texas - http://dbpedia.org/resource/Texas
+rio grande - http://dbpedia.org/resource/Rio_Grande
+secret santa - http://dbpedia.org/resource/Secret_Santa
+anna - http://dbpedia.org/resource/Indian_anna
+republic - http://dbpedia.org/resource/French_First_Republic
+slide - http://dbpedia.org/resource/Slide_guitar
+republic - http://dbpedia.org/resource/French_First_Republic
+texas - http://dbpedia.org/resource/Texas
+bear - http://dbpedia.org/resource/Bear

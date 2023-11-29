@@ -1,0 +1,2530 @@
+socorro - http://dbpedia.org/resource/MIT_Lincoln_Laboratory
+
+russians - http://dbpedia.org/resource/Soviet_Union
+
+main task - http://dbpedia.org/resource/Main_Task
+
+max planck medal - http://dbpedia.org/resource/Max_Planck_Medal
+
+tony - http://dbpedia.org/resource/Tony_Award
+
+theoretical physicist - http://dbpedia.org/resource/Theoretical_physics
+
+resort - http://dbpedia.org/resource/Resort
+
+concert pianist - http://dbpedia.org/resource/Pianist
+
+bombard - http://dbpedia.org/resource/Bombardment
+
+stark - http://dbpedia.org/resource/Stark_Street
+
+beta - http://dbpedia.org/resource/Beta_particle
+
+pound - http://dbpedia.org/resource/Pound_sterling
+
+brig - http://dbpedia.org/resource/Military_prison
+
+dahlgren - http://dbpedia.org/resource/Naval_Surface_Warfare_Center_Dahlgren_Division
+
+british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+
+aqueous homogeneous reactor - http://dbpedia.org/resource/Aqueous_homogeneous_reactor
+
+south australia - http://dbpedia.org/resource/South_Australia
+
+u.s. army - http://dbpedia.org/resource/United_States_Army
+
+william hogarth - http://dbpedia.org/resource/William_Hogarth
+
+york - http://dbpedia.org/resource/York
+
+fallout - http://dbpedia.org/resource/Nuclear_fallout
+
+lord portal - http://dbpedia.org/resource/Charles_Portal,_1st_Viscount_Portal_of_Hungerford
+
+peace - http://dbpedia.org/resource/Peace
+
+eye - http://dbpedia.org/resource/Eye
+
+doom - http://dbpedia.org/resource/Doom_metal
+
+remote control - http://dbpedia.org/resource/Remote_control
+
+nuclear science - http://dbpedia.org/resource/Nuclear_physics
+
+navy department - http://dbpedia.org/resource/United_States_Navy
+
+intelligence corps - http://dbpedia.org/resource/Israeli_Intelligence_Corps
+
+wind - http://dbpedia.org/resource/Wind
+
+chemistry - http://dbpedia.org/resource/Nobel_Prize_in_Chemistry
+
+sail - http://dbpedia.org/resource/Sail
+
+vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
+
+wilbraham - http://dbpedia.org/resource/Baker_Wilbraham_baronets
+
+mackenzie king - http://dbpedia.org/resource/William_Lyon_Mackenzie_King
+
+einstein - http://dbpedia.org/resource/Albert_Einstein
+
+adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
+
+jeweler - http://dbpedia.org/resource/Bench_jeweler
+
+historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+
+joint defence - http://dbpedia.org/resource/Collective_security
+
+fat - http://dbpedia.org/resource/Obesity
+
+law - http://dbpedia.org/resource/Scientific_law
+
+rock - http://dbpedia.org/resource/Rock_music
+
+calutron - http://dbpedia.org/resource/Calutron
+
+nuclear reaction - http://dbpedia.org/resource/Nuclear_reaction
+
+graduate student - http://dbpedia.org/resource/Postgraduate_education
+
+code - http://dbpedia.org/resource/Code
+
+harry daghlian - http://dbpedia.org/resource/Harry_Daghlian
+
+air warfare - http://dbpedia.org/resource/Aerial_warfare
+
+henry tizard - http://dbpedia.org/resource/Henry_Tizard
+
+hurdle - http://dbpedia.org/resource/Hurdle
+
+culture - http://dbpedia.org/resource/Culture
+
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+
+birkbeck college - http://dbpedia.org/resource/Birkbeck,_University_of_London
+
+mexico - http://dbpedia.org/resource/Mexico
+
+samuel goudsmit - http://dbpedia.org/resource/Samuel_Goudsmit
+
+engine - http://dbpedia.org/resource/Jet_engine
+
+underwater explosion - http://dbpedia.org/resource/Underwater_explosion
+
+obelisk - http://dbpedia.org/resource/Obelisk
+
+rapidity - http://dbpedia.org/resource/Rapidity
+
+senator - http://dbpedia.org/resource/United_States_Senate
+
+genius - http://dbpedia.org/resource/Genius
+
+statistics - http://dbpedia.org/resource/Statistics
+
+fascist - http://dbpedia.org/resource/Fascism
+
+acquainted - http://dbpedia.org/resource/Acquainted
+
+franck report - http://dbpedia.org/resource/Franck_Report
+
+aldermaston - http://dbpedia.org/resource/Atomic_Weapons_Establishment
+
+pump - http://dbpedia.org/resource/Pump
+
+odessa - http://dbpedia.org/resource/Odessa
+
+nuclear programme - http://dbpedia.org/resource/India_and_weapons_of_mass_destruction
+
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+
+visa - http://dbpedia.org/resource/Travel_visa
+
+nazi era - http://dbpedia.org/resource/Nazism
+
+july 2 - http://dbpedia.org/resource/July_2
+
+bockscar - http://dbpedia.org/resource/Bockscar
+
+annihilation - http://dbpedia.org/resource/The_Holocaust
+
+nuclear technology - http://dbpedia.org/resource/Nuclear_technology
+
+dose - http://dbpedia.org/resource/Ionizing_radiation
+
+nazis - http://dbpedia.org/resource/Nazism
+
+fear - http://dbpedia.org/resource/Fear
+
+june 2 - http://dbpedia.org/resource/June_2
+
+hughes medal - http://dbpedia.org/resource/Hughes_Medal
+
+atomic spy - http://dbpedia.org/resource/Atomic_spies
+
+metal - http://dbpedia.org/resource/Metal
+
+gun - http://dbpedia.org/resource/Anti-aircraft_warfare
+
+leipzig - http://dbpedia.org/resource/Leipzig_University
+
+auxiliary - http://dbpedia.org/resource/International_auxiliary_language
+
+newport news - http://dbpedia.org/resource/Newport_News_Shipbuilding
+
+paper - http://dbpedia.org/resource/Scientific_literature
+
+kidney - http://dbpedia.org/resource/Kidney
+
+birmingham university - http://dbpedia.org/resource/University_of_Birmingham
+
+edgbaston - http://dbpedia.org/resource/Edgbaston
+
+windscale - http://dbpedia.org/resource/Sellafield
+
+sir john anderson - http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley
+
+torlesse - http://dbpedia.org/resource/Torlesse_Composite_Terrane
+
+gabrielle - http://dbpedia.org/resource/Gabrielle_Solis
+
+station - http://dbpedia.org/resource/Royal_Air_Force
+
+january 20 - http://dbpedia.org/resource/January_20
+
+article - http://dbpedia.org/resource/Bratislava
+
+nuclear decay - http://dbpedia.org/resource/Radioactive_decay
+
+leo szilard - http://dbpedia.org/resource/Leo_Szilard
+
+attlee - http://dbpedia.org/resource/Clement_Attlee
+
+hot metal - http://dbpedia.org/resource/Pig_iron
+
+pentagon - http://dbpedia.org/resource/Pentagon
+
+lee - http://dbpedia.org/resource/Windward_and_leeward
+
+security - http://dbpedia.org/resource/Security
+
+pu-240 - http://dbpedia.org/resource/Plutonium-240
+
+instrumental - http://dbpedia.org/resource/Musical_instrument
+
+fission - http://dbpedia.org/resource/Nuclear_fission
+
+sphere - http://dbpedia.org/resource/Sphere
+
+girl scout - http://dbpedia.org/resource/Girl_Scouts_of_the_USA
+
+maud committee - http://dbpedia.org/resource/MAUD_Committee
+
+elizabeth - http://dbpedia.org/resource/Elizabeth_II
+
+nuclear weapon design - http://dbpedia.org/resource/Nuclear_weapon_design
+
+henry - http://dbpedia.org/resource/Henry_(unit)
+
+doi - http://dbpedia.org/resource/Digital_object_identifier
+
+author - http://dbpedia.org/resource/Author
+
+minsk - http://dbpedia.org/resource/Minsk
+
+quantum - http://dbpedia.org/resource/Quantum_mechanics
+
+student teacher - http://dbpedia.org/resource/Student_teacher
+
+conventional war - http://dbpedia.org/resource/Conventional_warfare
+
+hat - http://dbpedia.org/resource/Kippah
+
+soviets - http://dbpedia.org/resource/Soviet_Union
+
+clinton engineering works - http://dbpedia.org/resource/Clinton_Engineer_Works
+
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+
+mathematician - http://dbpedia.org/resource/Mathematician
+
+uranium hexafluoride - http://dbpedia.org/resource/Uranium_hexafluoride
+
+kent - http://dbpedia.org/resource/Kent
+
+trinitrotoluene - http://dbpedia.org/resource/TNT
+
+plutonium - http://dbpedia.org/resource/Plutonium
+
+nazi germany - http://dbpedia.org/resource/Nazi_Germany
+
+codename - http://dbpedia.org/resource/Code_name
+
+acid - http://dbpedia.org/resource/Acid
+
+1941 committee - http://dbpedia.org/resource/1941_Committee
+
+explosive - http://dbpedia.org/resource/Explosive
+
+science fiction - http://dbpedia.org/resource/Science_fiction
+
+lier - http://dbpedia.org/resource/De_Lier
+
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+
+soviet union - http://dbpedia.org/resource/Soviet_Union
+
+facebook - http://dbpedia.org/resource/Facebook
+
+otto robert frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+
+precision - http://dbpedia.org/resource/Accuracy_and_precision
+
+invasion - http://dbpedia.org/resource/Invasion
+
+american canadian - http://dbpedia.org/resource/American_Canadians
+
+committee - http://dbpedia.org/resource/United_States_congressional_committee
+
+checkout - http://dbpedia.org/resource/Point_of_sale
+
+railroad tracks - http://dbpedia.org/resource/Track_(rail_transport)
+
+columbia university - http://dbpedia.org/resource/Columbia_University
+
+leipzig university - http://dbpedia.org/resource/Leipzig_University
+
+flag - http://dbpedia.org/resource/Flag_of_the_United_States
+
+berkshire - http://dbpedia.org/resource/Berkshire
+
+fireball - http://dbpedia.org/resource/Nuclear_weapon_yield
+
+webster - http://dbpedia.org/resource/Martell_Webster
+
+previous episode - http://dbpedia.org/resource/What_Lies_Ahead
+
+glad - http://dbpedia.org/resource/The_Glad_Products_Company
+
+advantageous - http://dbpedia.org/resource/Advantageous
+
+army engineer - http://dbpedia.org/resource/Military_engineering
+
+coast australia - http://dbpedia.org/resource/Coast_(TV_series)
+
+outline - http://dbpedia.org/resource/Nutrition
+
+professor - http://dbpedia.org/resource/Academy
+
+robert serber - http://dbpedia.org/resource/Robert_Serber
+
+knoxville - http://dbpedia.org/resource/Knoxville_campaign
+
+global defense - http://dbpedia.org/resource/SDI_(arcade_game)
+
+bird - http://dbpedia.org/resource/Bird
+
+frs - http://dbpedia.org/resource/Royal_Society
+
+olivia - http://dbpedia.org/resource/Olivia_Dunham
+
+plane - http://dbpedia.org/resource/Airplane
+
+security - http://dbpedia.org/resource/National_security
+
+visit england - http://dbpedia.org/resource/VisitEngland
+
+pasco - http://dbpedia.org/resource/Cerro_de_Pasco
+
+chemical - http://dbpedia.org/resource/Chemical_weapon
+
+particle accelerator - http://dbpedia.org/resource/Particle_accelerator
+
+hydrogen - http://dbpedia.org/resource/Thermonuclear_weapon
+
+franklin delano roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+
+visit london - http://dbpedia.org/resource/London_and_Partners
+
+jornada del muerto - http://dbpedia.org/resource/Jornada_del_Muerto
+
+entree - http://dbpedia.org/resource/Entrée
+
+river class frigate - http://dbpedia.org/resource/River-class_frigate
+
+apr - http://dbpedia.org/resource/Public_Radio_International
+
+decay - http://dbpedia.org/resource/Radioactive_decay
+
+conspiracy - http://dbpedia.org/resource/Conspiracy_theory
+
+prepare - http://dbpedia.org/resource/PREPARE
+
+switch - http://dbpedia.org/resource/Switch
+
+confer - http://dbpedia.org/resource/CONFER_(software)
+
+george placzek - http://dbpedia.org/resource/George_Placzek
+
+cavendish laboratory - http://dbpedia.org/resource/Cavendish_Laboratory
+
+viscount - http://dbpedia.org/resource/Viscount
+
+mathematic - http://dbpedia.org/resource/Mathematics
+
+lake - http://dbpedia.org/resource/Lake
+
+invasion - http://dbpedia.org/resource/Operation_Torch
+
+poison - http://dbpedia.org/resource/Neutron_poison
+
+igor - http://dbpedia.org/resource/Hurricane_Igor
+
+dewey - http://dbpedia.org/resource/John_Dewey
+
+heavy water reactor - http://dbpedia.org/resource/Pressurized_heavy-water_reactor
+
+compton - http://dbpedia.org/resource/Denis_Compton
+
+predetonate - http://dbpedia.org/resource/Nuclear_chain_reaction
+
+great leader - http://dbpedia.org/resource/Jimmy_Wales
+
+closed community - http://dbpedia.org/resource/Closed_community
+
+bedford park - http://dbpedia.org/resource/Bedford_Park,_London
+
+wire - http://dbpedia.org/resource/Telephone_tapping
+
+vapor - http://dbpedia.org/resource/Gas
+
+source energy - http://dbpedia.org/resource/Primary_energy
+
+instrumental - http://dbpedia.org/resource/Instrumentalism
+
+pulitzer prize - http://dbpedia.org/resource/Pulitzer_Prize
+
+humanitarian - http://dbpedia.org/resource/Humanitarianism
+
+economist - http://dbpedia.org/resource/Economist
+
+committee - http://dbpedia.org/resource/Committee
+
+explosive - http://dbpedia.org/resource/Explosion
+
+infrastructure - http://dbpedia.org/resource/Infrastructure
+
+nuclear war - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+
+mushroom cloud - http://dbpedia.org/resource/Mushroom_cloud
+rutherford - http://dbpedia.org/resource/Ernest_Rutherford
+
+chemical - http://dbpedia.org/resource/Chemistry
+
+radioactive - http://dbpedia.org/resource/Radioactive_decay
+
+norman - http://dbpedia.org/resource/Normandy
+
+wast - http://dbpedia.org/resource/WNYT_(TV)
+
+atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
+
+naturwissenschaften - http://dbpedia.org/resource/The_Science_of_Nature
+
+martin miller - http://dbpedia.org/resource/Martin_Miller_(actor)
+
+hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
+
+wgn - http://dbpedia.org/resource/WGN_America
+
+seabed - http://dbpedia.org/resource/Seabed
+
+wood - http://dbpedia.org/resource/Wood
+
+alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
+
+president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+
+los alamos - http://dbpedia.org/resource/Project_Y
+
+hiroshima city - http://dbpedia.org/resource/Hiroshima
+
+hanford - http://dbpedia.org/resource/Hanford_Site
+
+british american - http://dbpedia.org/resource/British_Americans
+
+imperial college - http://dbpedia.org/resource/Imperial_College_London
+
+winter - http://dbpedia.org/resource/Winter_solstice
+
+lev landau - http://dbpedia.org/resource/Lev_Landau
+
+code - http://dbpedia.org/resource/Source_code
+
+secret city - http://dbpedia.org/resource/Closed_city
+
+bear - http://dbpedia.org/resource/Market_trend
+
+gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
+
+cover letter - http://dbpedia.org/resource/Cover_letter
+
+light - http://dbpedia.org/resource/Electromagnetic_radiation
+
+rec - http://dbpedia.org/resource/Renewable_Energy_Corporation
+
+leningrad - http://dbpedia.org/resource/Saint_Petersburg
+
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+
+lord nuffield - http://dbpedia.org/resource/William_Morris,_1st_Viscount_Nuffield
+
+moral dilemma - http://dbpedia.org/resource/Ethical_dilemma
+
+nuclear - http://dbpedia.org/resource/Atomic_nucleus
+
+fusion - http://dbpedia.org/resource/Nuclear_fusion
+
+hitler - http://dbpedia.org/resource/Adolf_Hitler
+
+william penney - http://dbpedia.org/resource/William_Penney,_Baron_Penney
+
+gram - http://dbpedia.org/resource/Gram
+
+heat radiation - http://dbpedia.org/resource/Thermal_radiation
+
+atomic explosion - http://dbpedia.org/resource/Nuclear_explosion
+
+trinity nuclear test - http://dbpedia.org/resource/Trinity_(nuclear_test)
+
+gen. - http://dbpedia.org/resource/Divisional_general
+
+plutonium core - http://dbpedia.org/resource/Pit_(nuclear_weapon)
+
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
+
+steel - http://dbpedia.org/resource/Steel
+
+fascism - http://dbpedia.org/resource/Nazism
+
+vault - http://dbpedia.org/resource/Bank_vault
+
+ridge - http://dbpedia.org/resource/Mid-ocean_ridge
+
+murder - http://dbpedia.org/resource/Murder
+
+jennet conant - http://dbpedia.org/resource/Jennet_Conant
+
+energy release - http://dbpedia.org/resource/Energy_release_rate_(fracture_mechanics)
+
+dollar - http://dbpedia.org/resource/United_States_dollar
+
+energy - http://dbpedia.org/resource/Energy
+
+lyman briggs - http://dbpedia.org/resource/Lyman_James_Briggs
+
+defense - http://dbpedia.org/resource/National_security
+
+atomic bomb program - http://dbpedia.org/resource/Pakistan_and_weapons_of_mass_destruction
+
+translation - http://dbpedia.org/resource/Translation
+
+hydrodynamic - http://dbpedia.org/resource/Fluid_dynamics
+
+rem - http://dbpedia.org/resource/Roentgen_equivalent_man
+
+fat - http://dbpedia.org/resource/Lipid
+
+amazed - http://dbpedia.org/resource/Amazed
+
+photographer - http://dbpedia.org/resource/Photographer
+
+water - http://dbpedia.org/resource/Water
+
+tower - http://dbpedia.org/resource/Air_traffic_control
+
+heat - http://dbpedia.org/resource/Heat
+
+work design - http://dbpedia.org/resource/Job_design
+
+sir geoffrey taylor - http://dbpedia.org/resource/G._I._Taylor
+
+train - http://dbpedia.org/resource/Train
+
+colonel - http://dbpedia.org/resource/Colonel
+
+caesar - http://dbpedia.org/resource/Julius_Caesar
+
+maud report - http://dbpedia.org/resource/MAUD_Committee
+shock - http://dbpedia.org/resource/Shock_wave
+
+virginia - http://dbpedia.org/resource/Virginia
+
+graduate degree - http://dbpedia.org/resource/Master's_degree
+
+economist - http://dbpedia.org/resource/Economics
+
+critical mass - http://dbpedia.org/resource/Critical_mass
+
+fissionable - http://dbpedia.org/resource/Nuclear_fission
+
+news - http://dbpedia.org/resource/CBS_News
+
+neutron - http://dbpedia.org/resource/Neutron
+
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+
+coherent - http://dbpedia.org/resource/Laser
+
+cumberland - http://dbpedia.org/resource/Cumberland
+
+wykeham - http://dbpedia.org/resource/William_of_Wykeham
+
+strictly confidential - http://dbpedia.org/resource/Strictly_Confidential_(TV_series)
+
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+
+nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+
+anti nuclear - http://dbpedia.org/resource/Anti-nuclear_movement
+
+oxford university - http://dbpedia.org/resource/University_of_Oxford
+
+los alamos laboratory - http://dbpedia.org/resource/Project_Y
+
+escort carrier - http://dbpedia.org/resource/Escort_carrier
+
+mathematical - http://dbpedia.org/resource/Mathematical_physics
+
+draft - http://dbpedia.org/resource/Conscription
+
+ventura - http://dbpedia.org/resource/Jesse_Ventura
+
+nuclei - http://dbpedia.org/resource/Atomic_nucleus
+
+cooling water - http://dbpedia.org/resource/Water_cooling
+
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+
+joseph rotblat - http://dbpedia.org/resource/Joseph_Rotblat
+
+nuclear chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
+
+adelaide university - http://dbpedia.org/resource/University_of_Adelaide
+
+albert - http://dbpedia.org/resource/Uncle_Albert
+
+diagram - http://dbpedia.org/resource/Diagram
+
+hysteria - http://dbpedia.org/resource/Year_2000_problem
+
+nuclear testing - http://dbpedia.org/resource/Nuclear_weapons_testing
+
+vaporize - http://dbpedia.org/resource/Evaporation
+
+july 4 - http://dbpedia.org/resource/July_4
+
+console - http://dbpedia.org/resource/Video_game_console
+
+defence - http://dbpedia.org/resource/National_security
+
+john donne - http://dbpedia.org/resource/John_Donne
+
+experimental physicist - http://dbpedia.org/resource/Experimental_physics
+
+nuclear fission - http://dbpedia.org/resource/Nuclear_fission
+
+attack pearl harbor - http://dbpedia.org/resource/Attack_on_Pearl_Harbor
+
+munich - http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
+
+winter - http://dbpedia.org/resource/Winter
+
+isotope - http://dbpedia.org/resource/Isotopes_of_uranium
+
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+
+parsons - http://dbpedia.org/resource/C._A._Parsons_and_Company
+
+epic - http://dbpedia.org/resource/Epic_poetry
+
+haste - http://dbpedia.org/resource/Haste_(Han)_station
+
+mass - http://dbpedia.org/resource/Mass
+
+apprenticeship - http://dbpedia.org/resource/Apprenticeship
+
+columbia river - http://dbpedia.org/resource/Columbia_River
+
+codename - http://dbpedia.org/resource/Pseudonym
+
+war production board - http://dbpedia.org/resource/War_Production_Board
+
+lift - http://dbpedia.org/resource/Buoyancy
+
+natural philosophy - http://dbpedia.org/resource/Natural_philosophy
+
+physicist - http://dbpedia.org/resource/Theoretical_physics
+
+radioactive - http://dbpedia.org/resource/Radioactive_contamination
+
+scientific paper - http://dbpedia.org/resource/Scientific_literature
+
+detonator - http://dbpedia.org/resource/Detonator
+
+bridgewire - http://dbpedia.org/resource/Bridgewire
+
+thin man - http://dbpedia.org/resource/The_Thin_Man
+
+executive order - http://dbpedia.org/resource/Executive_order
+
+enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
+
+plym - http://dbpedia.org/resource/River_Plym
+
+set free - http://dbpedia.org/resource/Set_Free_(film)
+
+eugenia - http://dbpedia.org/resource/Eugenia_Gertsyk
+
+historical society - http://dbpedia.org/resource/Historical_society
+
+solution - http://dbpedia.org/resource/Malta
+
+knighthood - http://dbpedia.org/resource/Knight_Bachelor
+
+henry stimson - http://dbpedia.org/resource/Henry_L._Stimson
+
+silent - http://dbpedia.org/resource/Silent_film
+
+lb - http://dbpedia.org/resource/Rail_profile
+
+remote monitoring - http://dbpedia.org/resource/RMON
+
+hms campania - http://dbpedia.org/resource/HMS_Campania_(D48)
+
+brigadier general - http://dbpedia.org/resource/General_officer
+
+beam - http://dbpedia.org/resource/Particle_beam
+
+chester - http://dbpedia.org/resource/Chester
+
+uranium enrichment - http://dbpedia.org/resource/Enriched_uranium
+
+physics - http://dbpedia.org/resource/Theoretical_physics
+
+kaiser wilhelm institut - http://dbpedia.org/resource/Kaiser_Wilhelm_Society
+
+function - http://dbpedia.org/resource/Role
+
+churchill - http://dbpedia.org/resource/Winston_Churchill
+
+code - http://dbpedia.org/resource/Punched_card
+
+urge - http://dbpedia.org/resource/Urge_(digital_music_service)
+
+thermal conductivity - http://dbpedia.org/resource/Thermal_conductivity
+
+intuition - http://dbpedia.org/resource/Intuition
+
+uranium enrichment - http://dbpedia.org/resource/Gaseous_diffusion
+
+ray - http://dbpedia.org/resource/Batoidea
+
+theory - http://dbpedia.org/resource/Theory
+
+smoke - http://dbpedia.org/resource/Smoke
+
+lagoon - http://dbpedia.org/resource/Lagoon
+
+tv-14 - http://dbpedia.org/resource/TV_Parental_Guidelines
+
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+
+approximation - http://dbpedia.org/resource/Approximation_theory
+
+sir john dill - http://dbpedia.org/resource/John_Dill
+
+physics - http://dbpedia.org/resource/Physics
+
+diffusion - http://dbpedia.org/resource/Diffusion
+
+miller - http://dbpedia.org/resource/Gristmill
+
+valve - http://dbpedia.org/resource/Valve
+
+destroyer - http://dbpedia.org/resource/Destroyer
+
+implosion weapon - http://dbpedia.org/resource/Nuclear_weapon_design
+
+philadelphia navy yard - http://dbpedia.org/resource/Philadelphia_Naval_Shipyard
+
+fresh air - http://dbpedia.org/resource/Fresh_Air
+
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+
+sellafield - http://dbpedia.org/resource/Sellafield
+
+ardent - http://dbpedia.org/resource/Ardent_Records
+
+richard rhodes - http://dbpedia.org/resource/Richard_Rhodes
+
+crosley - http://dbpedia.org/resource/Crosley
+
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
+
+spinifex - http://dbpedia.org/resource/Spinifex_people
+
+sommerfeld - http://dbpedia.org/resource/Arnold_Sommerfeld
+
+u238 - http://dbpedia.org/resource/Uranium-238
+
+decision making - http://dbpedia.org/resource/Decision-making
+
+american president - http://dbpedia.org/resource/President_of_the_United_States
+
+atomic bombing - http://dbpedia.org/resource/Nuclear_weapon
+
+fog - http://dbpedia.org/resource/Fog
+
+moreton - http://dbpedia.org/resource/Moreton_Bay
+
+governor - http://dbpedia.org/resource/Governor
+
+gold - http://dbpedia.org/resource/Gold_standard
+
+alternative title - http://dbpedia.org/resource/Alternative_title
+
+human - http://dbpedia.org/resource/Human_rights
+
+sleep - http://dbpedia.org/resource/Sleep
+
+strasbourg - http://dbpedia.org/resource/Strasbourg
+
+1939–40 - http://dbpedia.org/resource/162nd_New_York_State_Legislature
+
+british citizenship - http://dbpedia.org/resource/British_nationality_law
+
+austria - http://dbpedia.org/resource/Austria
+
+moscow - http://dbpedia.org/resource/Battle_of_Moscow
+
+john von neumann - http://dbpedia.org/resource/John_von_Neumann
+
+fuel - http://dbpedia.org/resource/Nuclear_fuel
+
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+
+heart - http://dbpedia.org/resource/Heart
+
+president franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+
+stone - http://dbpedia.org/resource/Masonry
+
+paperback - http://dbpedia.org/resource/Paperback
+
+spring - http://dbpedia.org/resource/Hooke's_law
+
+memorandum - http://dbpedia.org/resource/Memorandum
+
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+
+erwin schrödinger - http://dbpedia.org/resource/Erwin_Schrödinger
+
+stack - http://dbpedia.org/resource/Chimney
+
+knighted - http://dbpedia.org/resource/Knight_Bachelor
+
+versed - http://dbpedia.org/resource/Midazolam
+
+radiation dose - http://dbpedia.org/resource/Ionizing_radiation
+
+sabine - http://dbpedia.org/resource/Sabines
+
+organizational structure - http://dbpedia.org/resource/Organizational_structure
+
+electromagnetic - http://dbpedia.org/resource/Calutron
+
+breakwater - http://dbpedia.org/resource/Glossary_of_nautical_terms
+
+polygraph test - http://dbpedia.org/resource/Polygraph
+
+chicago pile-1 - http://dbpedia.org/resource/Chicago_Pile-1
+
+wall street - http://dbpedia.org/resource/Wall_Street
+
+prophet - http://dbpedia.org/resource/Prophet
+
+thermonuclear warhead - http://dbpedia.org/resource/Nuclear_weapon
+
+fissionable material - http://dbpedia.org/resource/Nuclear_fission
+
+day school - http://dbpedia.org/resource/Day_school
+
+technical report - http://dbpedia.org/resource/Technical_report
+
+summer - http://dbpedia.org/resource/Summer
+
+refugee - http://dbpedia.org/resource/Refugee
+
+kilogram - http://dbpedia.org/resource/Kilogram
+
+feature selection - http://dbpedia.org/resource/Feature_selection
+
+leslie - http://dbpedia.org/resource/Leslie_speaker
+
+oliphant - http://dbpedia.org/resource/Olifant_(instrument)
+
+kokura - http://dbpedia.org/resource/Kokura
+
+morality - http://dbpedia.org/resource/Morality
+
+metallurgy - http://dbpedia.org/resource/Metallurgy
+
+ha - http://dbpedia.org/resource/Century
+
+eidgenössische technische hochschule zürich - http://dbpedia.org/resource/ETH_Zurich
+
+disaster - http://dbpedia.org/resource/Chernobyl_disaster
+
+ndrc - http://dbpedia.org/resource/National_Defense_Research_Committee
+
+hungerford - http://dbpedia.org/resource/Hungerford
+
+fuse - http://dbpedia.org/resource/Nuclear_fusion
+
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
+
+smith - http://dbpedia.org/resource/Metalsmith
+
+grove - http://dbpedia.org/resource/Orchard
+
+uranium-238 - http://dbpedia.org/resource/Uranium
+
+japanese mainland - http://dbpedia.org/resource/Honshu
+
+wing - http://dbpedia.org/resource/Wing
+
+subcommittee - http://dbpedia.org/resource/Committee
+
+hanford engineer works - http://dbpedia.org/resource/Hanford_Site
+
+lord president - http://dbpedia.org/resource/Lord_President_of_the_Council
+
+coast - http://dbpedia.org/resource/Intercontinental_ballistic_missile
+
+nagasaki - http://dbpedia.org/resource/Fat_Man
+
+devastation - http://dbpedia.org/resource/HMS_Devastation_(1871)
+
+physicist - http://dbpedia.org/resource/Nuclear_physics
+
+scout uniform - http://dbpedia.org/resource/Uniform
+
+manager - http://dbpedia.org/resource/Management
+
+rhodes - http://dbpedia.org/resource/Rhodes
+
+chemical engineering - http://dbpedia.org/resource/Chemical_engineering
+
+method call - http://dbpedia.org/resource/Method_(computer_programming)
+
+engineer - http://dbpedia.org/resource/Engineer
+
+revolutionary - http://dbpedia.org/resource/Revolutionary
+
+rudolf ernst - http://dbpedia.org/resource/Rudolf_Ernst
+
+evaporation - http://dbpedia.org/resource/Evaporation
+
+corrosive - http://dbpedia.org/resource/Corrosion
+
+admire - http://dbpedia.org/resource/Admire,_Kansas
+
+painter - http://dbpedia.org/resource/Painting
+
+ton - http://dbpedia.org/resource/Tonne
+
+potsdam declaration - http://dbpedia.org/resource/Potsdam_Declaration
+
+christopher hinton - http://dbpedia.org/resource/Christopher_Hinton,_Baron_Hinton_of_Bankside
+
+neglect - http://dbpedia.org/resource/Child_neglect
+
+clement attlee - http://dbpedia.org/resource/Clement_Attlee
+
+interim committee - http://dbpedia.org/resource/Interim_Committee
+
+stockholm - http://dbpedia.org/resource/Stockholm_University
+
+urey - http://dbpedia.org/resource/Harold_Urey
+
+shutdown - http://dbpedia.org/resource/Strike_action
+
+governess - http://dbpedia.org/resource/Governess
+
+electrical substation - http://dbpedia.org/resource/Electrical_substation
+
+workable - http://dbpedia.org/resource/Workable_FC
+
+puzzle - http://dbpedia.org/resource/Puzzle
+
+hms plym - http://dbpedia.org/resource/HMS_Plym_(K271)
+
+chief superintendent - http://dbpedia.org/resource/Chief_superintendent
+
+diffusion process - http://dbpedia.org/resource/Diffusion_process
+
+deterrence - http://dbpedia.org/resource/Deterrence_theory
+
+laser - http://dbpedia.org/resource/Laser
+communication - http://dbpedia.org/resource/Communication
+
+gravity wave - http://dbpedia.org/resource/Gravity_wave
+
+historian - http://dbpedia.org/resource/History_of_science
+
+isotope - http://dbpedia.org/resource/Isotope
+
+acceleration - http://dbpedia.org/resource/Acceleration
+
+seth neddermeyer - http://dbpedia.org/resource/Seth_Neddermeyer
+
+uranium - http://dbpedia.org/resource/Uranium
+
+lady godiva assembly - http://dbpedia.org/resource/Godiva_device
+
+oakenholt - http://dbpedia.org/resource/Oakenholt
+
+language - http://dbpedia.org/resource/Philosophy_of_language
+
+army corps - http://dbpedia.org/resource/Corps
+
+plant - http://dbpedia.org/resource/Chemical_plant
+
+soviet spy - http://dbpedia.org/resource/KGB
+
+fort halstead - http://dbpedia.org/resource/Fort_Halstead
+
+alex wellerstein - http://dbpedia.org/resource/Alex_Wellerstein
+
+breed - http://dbpedia.org/resource/Reproduction
+
+cold war - http://dbpedia.org/resource/Cold_War
+
+clinton engineer works - http://dbpedia.org/resource/Clinton_Engineer_Works
+
+canadians - http://dbpedia.org/resource/Canada
+
+disease - http://dbpedia.org/resource/Disease
+
+heritage - http://dbpedia.org/resource/History
+
+technical adviser - http://dbpedia.org/resource/Technical_advisor
+
+hanford site - http://dbpedia.org/resource/Hanford_Site
+
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+
+hydride - http://dbpedia.org/resource/Hydride
+
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+
+nazism - http://dbpedia.org/resource/Nazism
+
+topical - http://dbpedia.org/resource/Topical_medication
+
+gun - http://dbpedia.org/resource/Firearm
+
+alexander sachs - http://dbpedia.org/resource/Alexander_Sachs
+
+otto stern - http://dbpedia.org/resource/Otto_Stern
+
+nuclear device - http://dbpedia.org/resource/Nuclear_weapon
+
+defector - http://dbpedia.org/resource/Defection
+
+george - http://dbpedia.org/resource/George_(band)
+
+nuclear defence - http://dbpedia.org/resource/Missile_defense_systems_by_country
+
+stress - http://dbpedia.org/resource/Psychological_stress
+
+compression - http://dbpedia.org/resource/Compressor
+
+bunker - http://dbpedia.org/resource/Bunker
+
+implosion method - http://dbpedia.org/resource/Nuclear_weapon_design
+
+eugene reybold - http://dbpedia.org/resource/Eugene_Reybold
+
+japanese surrender - http://dbpedia.org/resource/Surrender_of_Japan
+
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+
+atomic age - http://dbpedia.org/resource/Atomic_Age
+
+toast - http://dbpedia.org/resource/Toast
+
+harness - http://dbpedia.org/resource/Harness_racing
+
+prime minister churchill - http://dbpedia.org/resource/Winston_Churchill
+
+lamp - http://dbpedia.org/resource/Incandescent_light_bulb
+
+amateur - http://dbpedia.org/resource/Amateur_theatre
+
+perfect combination - http://dbpedia.org/resource/Perfect_Combination
+
+city - http://dbpedia.org/resource/City
+
+mother tongue - http://dbpedia.org/resource/First_language
+
+tritium - http://dbpedia.org/resource/Tritium
+
+ici - http://dbpedia.org/resource/Imperial_Chemical_Industries
+
+physicist - http://dbpedia.org/resource/Physicist
+
+radioactive source - http://dbpedia.org/resource/Radioactive_source
+
+auguste - http://dbpedia.org/resource/Clown
+
+family - http://dbpedia.org/resource/Family
+
+acre - http://dbpedia.org/resource/Acre
+
+voluntary euthanasia - http://dbpedia.org/resource/Euthanasia
+
+nuclear program - http://dbpedia.org/resource/Nuclear_power
+
+fat - http://dbpedia.org/resource/Vegetable_oil
+
+ernest rutherford - http://dbpedia.org/resource/Ernest_Rutherford
+
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+
+main point - http://dbpedia.org/resource/West_Port,_Edinburgh
+
+homopolar generator - http://dbpedia.org/resource/Homopolar_generator
+
+stumble - http://dbpedia.org/resource/Stumble
+
+sir henry tizard - http://dbpedia.org/resource/Henry_Tizard
+
+babbitt - http://dbpedia.org/resource/Babbitt_(alloy)
+
+bomber - http://dbpedia.org/resource/Bomber
+
+zeitschrift für physik - http://dbpedia.org/resource/European_Physical_Journal
+
+cambridge - http://dbpedia.org/resource/University_of_Cambridge
+
+evolution - http://dbpedia.org/resource/Evolution
+
+joseph stalin - http://dbpedia.org/resource/Joseph_Stalin
+
+dunning - http://dbpedia.org/resource/Dunning_(process)
+
+detonation - http://dbpedia.org/resource/Nuclear_chain_reaction
+
+kt - http://dbpedia.org/resource/TNT_equivalent
+
+signify - http://dbpedia.org/resource/Signify
+
+radioactivity - http://dbpedia.org/resource/Radioactive_decay
+
+downwind - http://dbpedia.org/resource/Windward_and_leeward
+
+matteucci medal - http://dbpedia.org/resource/Matteucci_Medal
+
+blue plaque - http://dbpedia.org/resource/Blue_plaque
+
+uranium 235 - http://dbpedia.org/resource/Uranium-235
+
+fissile - http://dbpedia.org/resource/Nuclear_fission
+
+warship - http://dbpedia.org/resource/Warship
+
+atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
+
+major general - http://dbpedia.org/resource/Major_general
+
+kerrigan - http://dbpedia.org/resource/Characters_of_StarCraft
+
+woolwich - http://dbpedia.org/resource/Woolwich
+
+trifle - http://dbpedia.org/resource/Trifle
+
+peter douglas - http://dbpedia.org/resource/Peter_Douglas
+
+cambridge university - http://dbpedia.org/resource/University_of_Cambridge
+
+persuasion - http://dbpedia.org/resource/Persuasion
+
+nuclear age - http://dbpedia.org/resource/Atomic_Age
+
+industrial - http://dbpedia.org/resource/Industrial_Revolution
+
+primer - http://dbpedia.org/resource/Detonator
+
+robert christy - http://dbpedia.org/resource/Robert_F._Christy
+
+deliverable - http://dbpedia.org/resource/Deliverable
+
+stern - http://dbpedia.org/resource/Stern
+
+reservation - http://dbpedia.org/resource/Indian_reservation
+
+feign - http://dbpedia.org/resource/Feign_(album)
+
+c.p. snow - http://dbpedia.org/resource/C._P._Snow
+
+hans bethe - http://dbpedia.org/resource/Hans_Bethe
+
+casing - http://dbpedia.org/resource/Cabinetry
+
+lilli hornig - http://dbpedia.org/resource/Lilli_Hornig
+
+tide - http://dbpedia.org/resource/Tidal_force
+
+skepticism - http://dbpedia.org/resource/Skepticism
+
+intelligence - http://dbpedia.org/resource/Espionage
+
+hanford works - http://dbpedia.org/resource/Hanford_Site
+
+imperial chemical industries - http://dbpedia.org/resource/Imperial_Chemical_Industries
+
+brick - http://dbpedia.org/resource/Brick
+
+british citizen - http://dbpedia.org/resource/British_people
+
+professor - http://dbpedia.org/resource/Professor
+
+berlin university - http://dbpedia.org/resource/Humboldt_University_of_Berlin
+
+nazi party - http://dbpedia.org/resource/Nazi_Party
+
+cryptic - http://dbpedia.org/resource/Camouflage
+
+liverpool - http://dbpedia.org/resource/University_of_Liverpool
+
+final draft - http://dbpedia.org/resource/Marathi_theatre
+
+cathcart - http://dbpedia.org/resource/Cathcart
+
+protons - http://dbpedia.org/resource/Proton
+
+councillor - http://dbpedia.org/resource/Privy_council
+
+atom smash - http://dbpedia.org/resource/Atom_Smash
+
+barium - http://dbpedia.org/resource/Barium
+
+u.s. army - http://dbpedia.org/resource/United_States
+
+stem - http://dbpedia.org/resource/Stem_cell
+
+virginia woolf - http://dbpedia.org/resource/Virginia_Woolf
+
+nuclear power - http://dbpedia.org/resource/Nuclear_reactor
+
+mathematical physicist - http://dbpedia.org/resource/Mathematical_physics
+
+travel washington - http://dbpedia.org/resource/Travel_Washington
+
+2 john - http://dbpedia.org/resource/Second_Epistle_of_John
+
+coffin - http://dbpedia.org/resource/Coffin
+
+abby - http://dbpedia.org/resource/Abby_Lockhart
+
+news - http://dbpedia.org/resource/Journalism
+
+stanton - http://dbpedia.org/resource/Elizabeth_Cady_Stanton
+
+trinity site - http://dbpedia.org/resource/McDonald_Ranch_House
+
+bit - http://dbpedia.org/resource/Bit
+
+Odd Job - http://dbpedia.org/resource/Odd_Job_(film)
+
+leó szilárd - http://dbpedia.org/resource/Leo_Szilard
+
+spy - http://dbpedia.org/resource/Espionage
+
+map - http://dbpedia.org/resource/Map
+
+california - http://dbpedia.org/resource/California
+
+emilio segrè - http://dbpedia.org/resource/Emilio_Segrè
+
+acute radiation poisoning - http://dbpedia.org/resource/Acute_radiation_syndrome
+
+gun - http://dbpedia.org/resource/Artillery
+
+sacrificial - http://dbpedia.org/resource/Human_sacrifice
+
+vulnerable - http://dbpedia.org/resource/Vulnerability
+
+mark oliphant - http://dbpedia.org/resource/Mark_Oliphant
+
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+
+earth metal - http://dbpedia.org/resource/Boron_group
+
+implosion design - http://dbpedia.org/resource/Nuclear_weapon_design
+
+smyth report - http://dbpedia.org/resource/Smyth_Report
+
+work time - http://dbpedia.org/resource/Work_Time
+
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+
+contamination - http://dbpedia.org/resource/Radioactive_contamination
+
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+
+early britain - http://dbpedia.org/resource/History_of_the_British_Isles
+
+substitute - http://dbpedia.org/resource/Substitute_good
+
+germany - http://dbpedia.org/resource/Weimar_Republic
+
+alloy - http://dbpedia.org/resource/Alloy
+
+spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
+
+copley medal - http://dbpedia.org/resource/Copley_Medal
+
+july 9 - http://dbpedia.org/resource/July_9
+
+ussr - http://dbpedia.org/resource/Soviet_Union
+
+conant - http://dbpedia.org/resource/James_B._Conant
+
+dennis - http://dbpedia.org/resource/Dennis_Wilson
+
+nuclear bomb - http://dbpedia.org/resource/Nuclear_weapon
+
+japanese army - http://dbpedia.org/resource/Imperial_Japanese_Army
+
+pearl harbor attack - http://dbpedia.org/resource/Attack_on_Pearl_Harbor
+
+czechoslovakia - http://dbpedia.org/resource/Czechoslovakia
+
+belgian congo - http://dbpedia.org/resource/Belgian_Congo
+
+forge - http://dbpedia.org/resource/Forgery
+
+monopoly - http://dbpedia.org/resource/Monopoly
+
+dahlem - http://dbpedia.org/resource/Franz_Dahlem
+
+pressure - http://dbpedia.org/resource/Pressure
+
+hemisphere - http://dbpedia.org/resource/Earth
+
+liquid thermal diffusion - http://dbpedia.org/resource/Thermophoresis
+
+criticality accident - http://dbpedia.org/resource/Criticality_accident
+
+knowledge discovery - http://dbpedia.org/resource/Knowledge_extraction
+
+george kistiakowsky - http://dbpedia.org/resource/George_Kistiakowsky
+
+kilowatt hour - http://dbpedia.org/resource/Kilowatt_hour
+
+tender - http://dbpedia.org/resource/Destroyer_tender
+
+datum - http://dbpedia.org/resource/Data
+
+pres - http://dbpedia.org/resource/Pôle_de_recherche_et_d'enseignement_supérieur
+
+ethel - http://dbpedia.org/resource/Œ
+
+agency - http://dbpedia.org/resource/Institution
+
+anti semitism - http://dbpedia.org/resource/Antisemitism
+
+kilo - http://dbpedia.org/resource/Kilogram
+
+chemistry - http://dbpedia.org/resource/Nuclear_chemistry
+
+cambridge united - http://dbpedia.org/resource/Cambridge_United_F.C.
+
+tennessee - http://dbpedia.org/resource/Tennessee
+
+election - http://dbpedia.org/resource/Election
+
+controller - http://dbpedia.org/resource/Control_theory
+
+atomic device - http://dbpedia.org/resource/Nuclear_weapon
+
+nm - http://dbpedia.org/resource/Navigation
+
+mass - http://dbpedia.org/resource/Neutrino
+
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+
+genealogy - http://dbpedia.org/resource/Genealogy
+
+jewish religion - http://dbpedia.org/resource/Judaism
+
+library - http://dbpedia.org/resource/Library
+
+acae - http://dbpedia.org/resource/Achaei
+
+autobiography - http://dbpedia.org/resource/Autobiography
+
+fission bomb - http://dbpedia.org/resource/Nuclear_weapon
+
+left wing - http://dbpedia.org/resource/Left-wing_politics
+
+flavor - http://dbpedia.org/resource/Flavor
+
+carl spaatz - http://dbpedia.org/resource/Carl_Spaatz
+
+power bomb - http://dbpedia.org/resource/Powerbomb
+
+ton - http://dbpedia.org/resource/Ton
+
+espionage - http://dbpedia.org/resource/Atomic_spies
+
+innocent victim - http://dbpedia.org/resource/Innocent_Victim
+
+cae - http://dbpedia.org/resource/Computer-aided_engineering
+
+group theoretical - http://dbpedia.org/resource/Group_theory
+
+levitated pit - http://dbpedia.org/resource/Pit_(nuclear_weapon)
+
+paper - http://dbpedia.org/resource/Academic_publishing
+
+detonate - http://dbpedia.org/resource/Detonation
+
+diffraction - http://dbpedia.org/resource/Neutron_diffraction
+
+implosion system - http://dbpedia.org/resource/Nuclear_weapon_design
+
+irish sea - http://dbpedia.org/resource/Irish_Sea
+
+briton - http://dbpedia.org/resource/United_Kingdom
+
+discoverer - http://dbpedia.org/resource/List_of_minor_planet_discoverers
+
+lobbying - http://dbpedia.org/resource/Lobbying
+
+badge - http://dbpedia.org/resource/Badge
+
+deal breaker - http://dbpedia.org/resource/Deal_Breaker
+
+soviet - http://dbpedia.org/resource/Soviet_Union
+
+telephone - http://dbpedia.org/resource/Telephone
+
+mole - http://dbpedia.org/resource/Melanocytic_nevus
+
+john hersey - http://dbpedia.org/resource/John_Hersey
+
+electric power - http://dbpedia.org/resource/Electricity
+
+harvard - http://dbpedia.org/resource/Harvard_University
+
+mahon - http://dbpedia.org/resource/Police_of_The_Wire
+
+flicker - http://dbpedia.org/resource/Flicker_noise
+
+february 18 - http://dbpedia.org/resource/February_18
+
+physical sciences - http://dbpedia.org/resource/Physics
+
+newspaper - http://dbpedia.org/resource/News_media
+
+token - http://dbpedia.org/resource/Lexical_analysis
+
+slim - http://dbpedia.org/resource/Smart_Lander_for_Investigating_Moon
+
+switchyard - http://dbpedia.org/resource/Electrical_substation
+
+stagger - http://dbpedia.org/resource/Biplane
+
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+
+laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+
+obituary - http://dbpedia.org/resource/Obituary
+
+telegram - http://dbpedia.org/resource/Telegraphy
+
+interchange - http://dbpedia.org/resource/Transport_hub
+
+soviet leader - http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union
+
+atom bomb - http://dbpedia.org/resource/Nuclear_weapon
+
+ramsey - http://dbpedia.org/resource/Ramsey_Abbey
+
+alert - http://dbpedia.org/resource/Weather_warning
+
+street corner - http://dbpedia.org/resource/Street_Corner_(1953_film)
+
+official version - http://dbpedia.org/resource/Official_Version
+
+hungarian jewish - http://dbpedia.org/resource/History_of_the_Jews_in_Hungary
+
+chalk river - http://dbpedia.org/resource/Chalk_stream
+
+hydrogen bomb - http://dbpedia.org/resource/Nuclear_weapon
+
+holly - http://dbpedia.org/resource/Holly
+
+anglo american - http://dbpedia.org/resource/Anglo_American_plc
+
+panthers - http://dbpedia.org/resource/Black_panther
+
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+
+thermal - http://dbpedia.org/resource/Heat
+
+underwater - http://dbpedia.org/resource/Underwater_diving
+
+boss - http://dbpedia.org/resource/Crime_boss
+
+nucleus - http://dbpedia.org/resource/Atomic_nucleus
+
+harry boot - http://dbpedia.org/resource/Harry_Boot
+
+manhattan - http://dbpedia.org/resource/Manhattan
+security clearance - http://dbpedia.org/resource/Security_clearance
+
+lancashire - http://dbpedia.org/resource/Lancashire
+
+colossal - http://dbpedia.org/resource/Colossal_(film)
+
+paul - http://dbpedia.org/resource/Paul_of_Greece
+
+flag ship - http://dbpedia.org/resource/Flagship
+
+russian spy ring - http://dbpedia.org/resource/Illegals_Program
+
+time cat - http://dbpedia.org/resource/Time_Cat:_The_Remarkable_Journeys_of_Jason_and_Gareth
+
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+
+botanist - http://dbpedia.org/resource/Botany
+
+array - http://dbpedia.org/resource/Astronomical_interferometer
+
+captain - http://dbpedia.org/resource/Sea_captain
+
+truman - http://dbpedia.org/resource/Harry_S._Truman
+
+enriched uranium - http://dbpedia.org/resource/Enriched_uranium
+
+south oxford - http://dbpedia.org/resource/South_Oxford,_Maine
+
+mystery - http://dbpedia.org/resource/Mystery_fiction
+
+rudolph peierls - http://dbpedia.org/resource/Rudolf_Peierls
+
+heavy water - http://dbpedia.org/resource/Heavy_water
+
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+
+navy - http://dbpedia.org/resource/Navy
+
+hamburg - http://dbpedia.org/resource/University_of_Hamburg
+
+cyril smith - http://dbpedia.org/resource/Cyril_Stanley_Smith
+
+onward - http://dbpedia.org/resource/Tormato
+
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+
+radiation lab - http://dbpedia.org/resource/MIT_Radiation_Laboratory
+
+arthur - http://dbpedia.org/resource/Chester_A._Arthur
+
+bhagavad gita - http://dbpedia.org/resource/Bhagavad_Gita
+
+relativity - http://dbpedia.org/resource/Theory_of_relativity
+
+article - http://dbpedia.org/resource/Falklands_War
+
+random - http://dbpedia.org/resource/Randomness
+
+didactic - http://dbpedia.org/resource/Didacticism
+
+submarine - http://dbpedia.org/resource/Submarine
+
+doctoral dissertation - http://dbpedia.org/resource/Thesis
+
+moon - http://dbpedia.org/resource/Moon
+
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+
+implosion type - http://dbpedia.org/resource/Nuclear_weapon_design
+
+scrub - http://dbpedia.org/resource/Shrubland
+
+atomic test - http://dbpedia.org/resource/Nuclear_weapons_testing
+
+stone - http://dbpedia.org/resource/Stonemasonry
+
+working level - http://dbpedia.org/resource/Working_level
+
+imperial college london - http://dbpedia.org/resource/Imperial_College_London
+
+secret cabinet - http://dbpedia.org/resource/Shadow_government_(conspiracy)
+
+industrial - http://dbpedia.org/resource/Industry
+
+lise meitner - http://dbpedia.org/resource/Lise_Meitner
+
+population density - http://dbpedia.org/resource/Population_density
+
+thomas farrell - http://dbpedia.org/resource/Thomas_Farrell_(general)
+
+january 2 - http://dbpedia.org/resource/January_2
+
+plutonium-240 - http://dbpedia.org/resource/Plutonium-240
+
+blacklist - http://dbpedia.org/resource/Blacklisting
+
+glen - http://dbpedia.org/resource/Ravine
+
+scientific experiment - http://dbpedia.org/resource/Experiment
+
+heu - http://dbpedia.org/resource/Enriched_uranium
+
+remarkable - http://dbpedia.org/resource/ReMarkable
+
+air defence - http://dbpedia.org/resource/Anti-aircraft_warfare
+
+red scare - http://dbpedia.org/resource/McCarthyism
+
+rosenberg - http://dbpedia.org/resource/Julius_and_Ethel_Rosenberg
+
+veto - http://dbpedia.org/resource/United_Nations_Security_Council_veto_power
+
+john randall - http://dbpedia.org/resource/John_Ernest_Randall
+rome - http://dbpedia.org/resource/Rome
+
+national historic landmark - http://dbpedia.org/resource/National_Historic_Landmark
+
+csar - http://dbpedia.org/resource/Search_and_rescue
+
+manhattan engineer district - http://dbpedia.org/resource/Manhattan_Project
+
+operation 25 - http://dbpedia.org/resource/Invasion_of_Yugoslavia
+
+aircraft - http://dbpedia.org/resource/Fixed-wing_aircraft
+
+campania - http://dbpedia.org/resource/Campania
+
+shock wave - http://dbpedia.org/resource/Shock_wave
+manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
+
+gun - http://dbpedia.org/resource/Gun
+
+manufacturing - http://dbpedia.org/resource/Manufacturing
+
+magazine - http://dbpedia.org/resource/Magazine
+
+nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
+
+particle - http://dbpedia.org/resource/Particle_physics
+
+kew - http://dbpedia.org/resource/Kew_Gardens
+
+team columbia - http://dbpedia.org/resource/HTC–Highroad
+
+hodgkin disease - http://dbpedia.org/resource/Hodgkin's_lymphoma
+
+integral - http://dbpedia.org/resource/Integral
+
+health - http://dbpedia.org/resource/Health
+
+gable mountain - http://dbpedia.org/resource/Gable_Mountain
+
+nuclear test - http://dbpedia.org/resource/Nuclear_weapons_testing
+
+wave - http://dbpedia.org/resource/Electromagnetic_radiation
+
+uss indianapolis - http://dbpedia.org/resource/USS_Indianapolis_(CA-35)
+
+polygraph - http://dbpedia.org/resource/Polygraph
+
+white sands missile range - http://dbpedia.org/resource/White_Sands_Missile_Range
+
+analytical skill - http://dbpedia.org/resource/Analytical_skill
+
+eldorado - http://dbpedia.org/resource/El_Dorado
+
+wolfgang pauli - http://dbpedia.org/resource/Wolfgang_Pauli
+
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+
+arnold kramish - http://dbpedia.org/resource/Arnold_Kramish
+
+public record office - http://dbpedia.org/resource/Public_Record_Office
+
+kyoto - http://dbpedia.org/resource/Kyoto_Protocol
+
+beryllium - http://dbpedia.org/resource/Beryllium
+
+glass - http://dbpedia.org/resource/Glass
+
+franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+
+freedom - http://dbpedia.org/resource/Free_will
+
+monte bello islands - http://dbpedia.org/resource/Montebello_Islands
+
+montreal - http://dbpedia.org/resource/Montreal
+
+encyclopedia.com - http://dbpedia.org/resource/Encyclopedia.com
+
+australian - http://dbpedia.org/resource/Government_of_Australia
+
+u.s. army - http://dbpedia.org/resource/United_States_Army_Air_Forces
+
+german russian - http://dbpedia.org/resource/Germans_from_Russia
+
+james tuck - http://dbpedia.org/resource/James_L._Tuck
+
+pu-239 - http://dbpedia.org/resource/Plutonium
+
+nobel prize - http://dbpedia.org/resource/Nobel_Prize
+
+probability - http://dbpedia.org/resource/Probability
+
+telephone operator - http://dbpedia.org/resource/Switchboard_operator
+
+shock wave - http://dbpedia.org/resource/Shock_wave
+
+arnold sommerfeld - http://dbpedia.org/resource/Arnold_Sommerfeld
+
+education - http://dbpedia.org/resource/Education
+
+zulu time - http://dbpedia.org/resource/Coordinated_Universal_Time
+
+amazing - http://dbpedia.org/resource/Amazing_Stories
+
+fellowship - http://dbpedia.org/resource/Fellow
+time international - http://dbpedia.org/resource/Time_(magazine)
+
+britain - http://dbpedia.org/resource/United_Kingdom
+
+roman - http://dbpedia.org/resource/Chivalric_romance
+
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+
+operation crossroads - http://dbpedia.org/resource/Operation_Crossroads
+
+dust - http://dbpedia.org/resource/Dust
+
+fissile - http://dbpedia.org/resource/Fissile_material
+
+postulate - http://dbpedia.org/resource/Axiom
+
+july 18 - http://dbpedia.org/resource/Spanish_coup_of_July_1936
+
+irradiation - http://dbpedia.org/resource/Ionizing_radiation
+
+love - http://dbpedia.org/resource/Love
+
+swan - http://dbpedia.org/resource/Swan
+
+field test - http://dbpedia.org/resource/Batman:_Gotham_Knight
+
+atomic energy commission - http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
+
+nuclear explosive - http://dbpedia.org/resource/Nuclear_explosive
+
+poem - http://dbpedia.org/resource/Poetry
+
+trinity - http://dbpedia.org/resource/Trinity
+
+ralph fowler - http://dbpedia.org/resource/Ralph_H._Fowler
+
+nazi - http://dbpedia.org/resource/Nazism
+
+stafford - http://dbpedia.org/resource/Stafford
+
+defense - http://dbpedia.org/resource/Military
+
+grand alliance - http://dbpedia.org/resource/Grand_Alliance_(League_of_Augsburg)
+
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+
+joanna - http://dbpedia.org/resource/Joanna_I_of_Naples
+
+footman - http://dbpedia.org/resource/Footman
+
+single - http://dbpedia.org/resource/Phonograph_record
+
+enemy alien - http://dbpedia.org/resource/Enemy_alien
+
+die - http://dbpedia.org/resource/Integrated_circuit
+
+scientist - http://dbpedia.org/resource/Scientist
+
+albuquerque - http://dbpedia.org/resource/Kirtland_Air_Force_Base
+
+fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+
+german citizenship - http://dbpedia.org/resource/German_nationality_law
+
+oberschöneweide - http://dbpedia.org/resource/Oberschöneweide
+
+nwt - http://dbpedia.org/resource/Northwest_Territories
+
+pilot - http://dbpedia.org/resource/Aircraft_pilot
+
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+
+lie detector test - http://dbpedia.org/resource/Polygraph
+
+frank winter - http://dbpedia.org/resource/Frank_Winter
+
+recall - http://dbpedia.org/resource/Recall_election
+
+sublette - http://dbpedia.org/resource/William_Sublette
+
+screwdriver - http://dbpedia.org/resource/Screwdriver
+
+pilot plant - http://dbpedia.org/resource/Pilot_plant
+
+glenn seaborg - http://dbpedia.org/resource/Glenn_T._Seaborg
+
+joseph - http://dbpedia.org/resource/Joseph_Bonaparte
+
+radiation - http://dbpedia.org/resource/Radioactive_decay
+
+landmark - http://dbpedia.org/resource/Landmark
+
+leslie groves - http://dbpedia.org/resource/Leslie_Groves
+
+american british - http://dbpedia.org/resource/Americans_in_the_United_Kingdom
+
+court - http://dbpedia.org/resource/Court
+
+nuclear threat - http://dbpedia.org/resource/India_and_weapons_of_mass_destruction
+
+nose - http://dbpedia.org/resource/Warhead
+
+medicine - http://dbpedia.org/resource/Medicine
+
+ocean wave - http://dbpedia.org/resource/Wind_wave
+
+nuclear explosion - http://dbpedia.org/resource/Nuclear_explosion
+
+metallurgist - http://dbpedia.org/resource/Metallurgy
+
+szilard - http://dbpedia.org/resource/Leo_Szilard
+
+christ - http://dbpedia.org/resource/Jesus
+
+rear admiral - http://dbpedia.org/resource/Rear_admiral
+
+mesa - http://dbpedia.org/resource/Mesa
+
+radius - http://dbpedia.org/resource/Radius
+
+air marshal - http://dbpedia.org/resource/Air_marshal
+
+international cooperation - http://dbpedia.org/resource/Multilateralism
+
+niche - http://dbpedia.org/resource/Ecological_niche
+
+prime minister william lyon mackenzie king - http://dbpedia.org/resource/William_Lyon_Mackenzie_King
+
+turnout - http://dbpedia.org/resource/Railroad_switch
+
+edward teller - http://dbpedia.org/resource/Edward_Teller
+
+artificial radioactivity - http://dbpedia.org/resource/Induced_radioactivity
+
+coin - http://dbpedia.org/resource/Coin
+
+nuclear - http://dbpedia.org/resource/Nuclear_physics
+
+axis power - http://dbpedia.org/resource/Axis_powers
+
+progress report - http://dbpedia.org/resource/Report_card
+
+james conant - http://dbpedia.org/resource/James_B._Conant
+
+geopolitic - http://dbpedia.org/resource/Geopolitics
+
+wsmr - http://dbpedia.org/resource/White_Sands_Missile_Range
+
+philosophy - http://dbpedia.org/resource/Philosophy
+
+sun - http://dbpedia.org/resource/Sun
+
+manhattan district - http://dbpedia.org/resource/Manhattan_Project
+
+cabinet committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
+
+australian government - http://dbpedia.org/resource/Government_of_Australia
+
+lawyer - http://dbpedia.org/resource/Lawyer
+
+gas - http://dbpedia.org/resource/Gas
+
+temperature - http://dbpedia.org/resource/Temperature
+
+experiment - http://dbpedia.org/resource/Experiment
+
+chain reaction - http://dbpedia.org/resource/Nuclear_fission
+
+religion - http://dbpedia.org/resource/Religion
+
+eugene wigner - http://dbpedia.org/resource/Eugene_Wigner
+
+bubble chamber - http://dbpedia.org/resource/Bubble_chamber
+
+die - http://dbpedia.org/resource/Death
+
+james franck - http://dbpedia.org/resource/James_Franck
+
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+
+bulletin board - http://dbpedia.org/resource/Internet_forum
+
+physical evidence - http://dbpedia.org/resource/Evidence
+
+pegram - http://dbpedia.org/resource/Erric_Pegram
+
+mass number - http://dbpedia.org/resource/Mass_number
+
+risley - http://dbpedia.org/resource/ROF_Risley
+
+nuclear warfare - http://dbpedia.org/resource/Nuclear_warfare
+
+altitude - http://dbpedia.org/resource/Altitude
+
+chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
+
+untold - http://dbpedia.org/resource/Untold_(musician)
+
+stratford - http://dbpedia.org/resource/Stratford-upon-Avon
+
+d.c. - http://dbpedia.org/resource/Direct_current
+
+fissile material - http://dbpedia.org/resource/Fissile_material
+
+crime - http://dbpedia.org/resource/Crime
+
+cloud chamber - http://dbpedia.org/resource/Cloud_chamber
+
+zürich - http://dbpedia.org/resource/University_of_Zurich
+
+warren - http://dbpedia.org/resource/Burrow
+
+calutrons - http://dbpedia.org/resource/Calutron
+
+washington - http://dbpedia.org/resource/George_Washington
+
+tungsten carbide - http://dbpedia.org/resource/Tungsten_carbide
+
+racist - http://dbpedia.org/resource/Nazism_and_race
+
+perl - http://dbpedia.org/resource/Perl
+
+cpae - http://dbpedia.org/resource/National_Speakers_Association
+
+independent - http://dbpedia.org/resource/Independence
+
+parliamentary - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+
+transport - http://dbpedia.org/resource/Troopship
+
+rosa - http://dbpedia.org/resource/Rose
+
+amendment - http://dbpedia.org/resource/Law
+
+hermite - http://dbpedia.org/resource/Charles_Hermite
+
+graphite - http://dbpedia.org/resource/Graphite
+
+tragedy - http://dbpedia.org/resource/Tragedy
+
+metallurgical laboratory - http://dbpedia.org/resource/Metallurgical_Laboratory
+
+brain trust - http://dbpedia.org/resource/Brain_trust
+
+berkeley - http://dbpedia.org/resource/George_Berkeley
+
+skilled worker - http://dbpedia.org/resource/Skilled_worker
+
+los alamos science - http://dbpedia.org/resource/Los_Alamos_Science
+
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+
+tone - http://dbpedia.org/resource/Timbre
+
+washington - http://dbpedia.org/resource/University_of_Washington
+
+kenneth nichols - http://dbpedia.org/resource/Kenneth_Nichols
+
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+
+encyclopædia britannica - http://dbpedia.org/resource/Encyclopædia_Britannica
+
+isotope separation - http://dbpedia.org/resource/Isotope_separation
+
+electron theory - http://dbpedia.org/resource/Electron
+
+composite - http://dbpedia.org/resource/Composite_material
+
+civilisation - http://dbpedia.org/resource/Civilization
+
+rain - http://dbpedia.org/resource/Rain
+
+british americans - http://dbpedia.org/resource/British_Americans
+
+great britain - http://dbpedia.org/resource/United_Kingdom
+
+elucidate - http://dbpedia.org/resource/Elucidate
+
+adelaide - http://dbpedia.org/resource/Adelaide
+
+harold macmillan - http://dbpedia.org/resource/Harold_Macmillan
+
+u235 - http://dbpedia.org/resource/Uranium-235
+
+splitter - http://dbpedia.org/resource/Lumpers_and_splitters
+
+dentistry - http://dbpedia.org/resource/Medicine
+
+munich university - http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
+
+wwii - http://dbpedia.org/resource/World_War_II
+
+eye - http://dbpedia.org/resource/Human_eye
+
+screening test - http://dbpedia.org/resource/Presumptive_and_confirmatory_tests
+
+uranium - http://dbpedia.org/resource/Uranium-235
+
+nanny - http://dbpedia.org/resource/Nanny
+
+unwelcome - http://dbpedia.org/resource/Unwelcome
+
+echo valley - http://dbpedia.org/resource/Echo_Valley_Provincial_Park
+
+nuclear explosion - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+
+subset - http://dbpedia.org/resource/Subset
+
+compound - http://dbpedia.org/resource/Chemical_compound
+
+landing craft - http://dbpedia.org/resource/Landing_craft
+
+intellect - http://dbpedia.org/resource/Intelligence
+
+general leslie - http://dbpedia.org/resource/David_Leslie,_1st_Lord_Newark
+
+thermal diffusion - http://dbpedia.org/resource/Enriched_uranium
+
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+
+dicey - http://dbpedia.org/resource/A._V._Dicey
+
+moral - http://dbpedia.org/resource/Morality
+
+bullet - http://dbpedia.org/resource/Ammunition
+
+australian national university - http://dbpedia.org/resource/Australian_National_University
+
+pollution - http://dbpedia.org/resource/Pollution
+
+royal medal - http://dbpedia.org/resource/Royal_Medal
+
+plan 4 - http://dbpedia.org/resource/Plan_4
+
+race - http://dbpedia.org/resource/Racing
+
+rockefeller fellowship - http://dbpedia.org/resource/Rockefeller_Foundation
+
+big city - http://dbpedia.org/resource/Lenny_White
+
+policy committee - http://dbpedia.org/resource/Committee
+
+criticality - http://dbpedia.org/resource/Critical_mass
+
+harbour - http://dbpedia.org/resource/Harbor
+
+doctorate - http://dbpedia.org/resource/Doctor_of_Philosophy
+
+laser scan - http://dbpedia.org/resource/Laser_scanning
+
+military secret - http://dbpedia.org/resource/Secrecy
+
+stalin - http://dbpedia.org/resource/Joseph_Stalin
+
+louis nizer - http://dbpedia.org/resource/Louis_Nizer
+
+enola gay - http://dbpedia.org/resource/Enola_Gay
+
+germany - http://dbpedia.org/resource/Nazi_Germany
+
+hinton - http://dbpedia.org/resource/Geoffrey_Hinton
+
+norman ramsey - http://dbpedia.org/resource/Norman_Foster_Ramsey_Jr.
+
+quantum mechanic - http://dbpedia.org/resource/Quantum_mechanics
+
+pacific theater - http://dbpedia.org/resource/Pacific_War
+
+helium 3 - http://dbpedia.org/resource/Helium-3
+
+justinian - http://dbpedia.org/resource/Justinian_I
+
+nuclear program - http://dbpedia.org/resource/German_nuclear_weapons_program
+
+canberra - http://dbpedia.org/resource/Canberra
+
+plutonium-239 - http://dbpedia.org/resource/Plutonium
+
+radar - http://dbpedia.org/resource/Radar
+
+sigmund freud - http://dbpedia.org/resource/Sigmund_Freud
+
+early work - http://dbpedia.org/resource/Early_Work
+
+orange - http://dbpedia.org/resource/Orange_juice
+
+proton - http://dbpedia.org/resource/Proton
+
+moderator - http://dbpedia.org/resource/Neutron_moderator
+
+nationality - http://dbpedia.org/resource/Nationalism
+
+evans - http://dbpedia.org/resource/Godfrey_Evans
+
+berlin - http://dbpedia.org/resource/Humboldt_University_of_Berlin
+
+law - http://dbpedia.org/resource/Law
+
+wavelength - http://dbpedia.org/resource/Radio_wave
+
+nazi germany - http://dbpedia.org/resource/World_War_II
+
+aircraft production - http://dbpedia.org/resource/World_War_II_aircraft_production
+
+microfilm - http://dbpedia.org/resource/Microform
+
+patrick maynard stuart blackett - http://dbpedia.org/resource/Patrick_Blackett
+
+national archives - http://dbpedia.org/resource/National_archives
+
+schoolteacher - http://dbpedia.org/resource/Teacher
+
+denmark - http://dbpedia.org/resource/Denmark
+
+chronology - http://dbpedia.org/resource/Chronology
+
+chicago - http://dbpedia.org/resource/University_of_Chicago
+
+migrate - http://dbpedia.org/resource/Emigration
+
+british empire - http://dbpedia.org/resource/British_Empire
+
+british people - http://dbpedia.org/resource/United_Kingdom
+
+ethical - http://dbpedia.org/resource/Ethics
+
+tickle - http://dbpedia.org/resource/Tickling
+
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+werner heisenberg - http://dbpedia.org/resource/Werner_Heisenberg
+
+observation - http://dbpedia.org/resource/Reconnaissance
+
+hypothesis - http://dbpedia.org/resource/Hypothesis
+
+capenhurst - http://dbpedia.org/resource/Capenhurst
+
+tnt - http://dbpedia.org/resource/TNT
+
+magnetic moment - http://dbpedia.org/resource/Magnetic_moment
+
+poland - http://dbpedia.org/resource/Poland
+nuclear physicist - http://dbpedia.org/resource/Nuclear_physics
+
+fledge - http://dbpedia.org/resource/Fledge
+
+natural uranium - http://dbpedia.org/resource/Natural_uranium
+
+dessert - http://dbpedia.org/resource/Dessert
+
+weather - http://dbpedia.org/resource/Meteorology
+
+enrico fermi award - http://dbpedia.org/resource/Enrico_Fermi_Award
+
+bepo - http://dbpedia.org/resource/Nikolai_Volkoff
+
+supercritical mass - http://dbpedia.org/resource/Critical_mass
+
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+
+n11 - http://dbpedia.org/resource/N_postcode_area
+
+maud report - http://dbpedia.org/resource/MAUD_Committee
+
+harold urey - http://dbpedia.org/resource/Harold_Urey
+
+quartz fiber - http://dbpedia.org/resource/Quartz_fiber
+
+recall - http://dbpedia.org/resource/Product_recall
+
+tinian - http://dbpedia.org/resource/Tinian
+
+bear - http://dbpedia.org/resource/Bear
+
+pugwash conferences - http://dbpedia.org/resource/Pugwash_Conferences_on_Science_and_World_Affairs
+
+county kent - http://dbpedia.org/resource/Kent
+
+invasion - http://dbpedia.org/resource/Invasion_of_Normandy
+
+type design - http://dbpedia.org/resource/Type_certificate
+
+etest - http://dbpedia.org/resource/Etest
+
+atomic nucleus - http://dbpedia.org/resource/Atomic_nucleus
+
+project 1950 - http://dbpedia.org/resource/Project_1950
+
+louis slotin - http://dbpedia.org/resource/Louis_Slotin
+
+33a - http://dbpedia.org/resource/33a
+
+piping - http://dbpedia.org/resource/Plumbing
+
+fermi - http://dbpedia.org/resource/Femtometre
+
+alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
+
+normandy - http://dbpedia.org/resource/Normandy_landings
+
+royal society - http://dbpedia.org/resource/Royal_Society
+
+manchester - http://dbpedia.org/resource/University_of_Manchester
+
+inclination - http://dbpedia.org/resource/Orbital_inclination
+
+breakfast - http://dbpedia.org/resource/Breakfast
+
+fdr - http://dbpedia.org/resource/Franklin_D._Roosevelt
+
+jewelry - http://dbpedia.org/resource/Jewellery
+
+grave danger - http://dbpedia.org/resource/Grave_Danger
+
+royal shakespeare company - http://dbpedia.org/resource/Royal_Shakespeare_Company
+
+controversial subject - http://dbpedia.org/resource/The_The
+
+president - http://dbpedia.org/resource/President_of_the_United_States
+
+matriculate - http://dbpedia.org/resource/Matriculation
+
+housewife - http://dbpedia.org/resource/Housewife
+
+cyclotron - http://dbpedia.org/resource/Cyclotron
+
+509th composite group - http://dbpedia.org/resource/509th_Composite_Group
+
+bedside - http://dbpedia.org/resource/Bedside
+
+steak - http://dbpedia.org/resource/Steak
+
+poetry - http://dbpedia.org/resource/Poetry
+
+conservation - http://dbpedia.org/resource/Conservation_movement
+
+cell - http://dbpedia.org/resource/Solar_cell
+
+1943 quebec conference - http://dbpedia.org/resource/First_Quebec_Conference
+
+chemical element - http://dbpedia.org/resource/Chemical_element
+
+field marshal - http://dbpedia.org/resource/Generalfeldmarschall
+
+niels bohr - http://dbpedia.org/resource/Niels_Bohr
+
+santa fe - http://dbpedia.org/resource/Santa_Fe_Trail
+
+bikini atoll - http://dbpedia.org/resource/Bikini_Atoll
+
+u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+
+tinian island - http://dbpedia.org/resource/Tinian
+
+birmingham city - http://dbpedia.org/resource/Birmingham
+
+computer - http://dbpedia.org/resource/Computer_science
+
+ellen klages - http://dbpedia.org/resource/Ellen_Klages
+
+saucer - http://dbpedia.org/resource/Unidentified_flying_object
+
+warfare - http://dbpedia.org/resource/War
+
+anthology - http://dbpedia.org/resource/Anthology_series
+
+news - http://dbpedia.org/resource/News_media
+
+heisenberg - http://dbpedia.org/resource/Werner_Heisenberg
+
+sail - http://dbpedia.org/resource/Sailing
+
+pen - http://dbpedia.org/resource/Pen
+
+combined policy committee - http://dbpedia.org/resource/Quebec_Agreement
+
+otto hahn - http://dbpedia.org/resource/Otto_Hahn
+
+ard - http://dbpedia.org/resource/Ard_(plough)
+
+transmute - http://dbpedia.org/resource/Nuclear_transmutation
+
+priest - http://dbpedia.org/resource/Priest
+
+biographical - http://dbpedia.org/resource/Biography
+
+holocaust - http://dbpedia.org/resource/The_Holocaust
+
+uncertainty - http://dbpedia.org/resource/Entropy
+
+cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom
+
+catherine - http://dbpedia.org/resource/Catherine_the_Great
+
+anchor - http://dbpedia.org/resource/Anchor
+
+gmt - http://dbpedia.org/resource/Greenwich_Mean_Time
+
+justification - http://dbpedia.org/resource/Right_of_self-defense
+
+harwell - http://dbpedia.org/resource/Atomic_Energy_Research_Establishment
+
+high explosive - http://dbpedia.org/resource/Explosive
+
+bear - http://dbpedia.org/resource/Teddy_bear
+
+orlando - http://dbpedia.org/resource/Roland
+
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+
+runaway reaction - http://dbpedia.org/resource/Criticality_accident
+
+explosive material - http://dbpedia.org/resource/Explosive
+
+u.k. - http://dbpedia.org/resource/United_Kingdom
+
+sweepnik - http://dbpedia.org/resource/SWEEPNIK
+
+v20 - http://dbpedia.org/resource/NEC_V20
+
+fritz strassmann - http://dbpedia.org/resource/Fritz_Strassmann
+
+lie detection - http://dbpedia.org/resource/Lie_detection
+
+technology - http://dbpedia.org/resource/Nuclear_technology
+
+bohr - http://dbpedia.org/resource/Bohr_radius
+
+operation oak - http://dbpedia.org/resource/Gran_Sasso_raid
+
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+
+committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
+
+baker - http://dbpedia.org/resource/Bakery
+
+persecution - http://dbpedia.org/resource/Persecution
+
+irradiation - http://dbpedia.org/resource/Neutron_activation
+
+july 10 - http://dbpedia.org/resource/July_10
+
+abhorrence - http://dbpedia.org/resource/Abhorrence
+
+ernest lawrence - http://dbpedia.org/resource/Ernest_Lawrence
+
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+
+control panel - http://dbpedia.org/resource/Plugboard
+
+kungälv - http://dbpedia.org/resource/Kungälv
+
+godiva device - http://dbpedia.org/resource/Godiva_device
+
+radium - http://dbpedia.org/resource/Radium
+
+schrödinger cat - http://dbpedia.org/resource/Schrödinger's_cat
+
+vienna - http://dbpedia.org/resource/University_of_Vienna
+
+allied power - http://dbpedia.org/resource/Allies_of_World_War_II
+
+railgun - http://dbpedia.org/resource/Railgun
+
+dirac - http://dbpedia.org/resource/Paul_Dirac
+
+chemist - http://dbpedia.org/resource/Chemist
+
+bomb threat - http://dbpedia.org/resource/Bomb_threat
+
+blast wave - http://dbpedia.org/resource/Blast_wave
+
+basin - http://dbpedia.org/resource/Sink
+
+eleanor - http://dbpedia.org/resource/Eleanor_Roosevelt
+
+hiroshima bomb - http://dbpedia.org/resource/Little_Boy
+
+soviet russia - http://dbpedia.org/resource/Soviet_Union
+
+ve day - http://dbpedia.org/resource/Victory_in_Europe_Day
+
+stymie - http://dbpedia.org/resource/Stymie
+
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+
+prison - http://dbpedia.org/resource/Prison
+ball - http://dbpedia.org/resource/Ball
+
+emilio segre - http://dbpedia.org/resource/Emilio_Segrè
+
+diagnosis - http://dbpedia.org/resource/Medical_diagnosis
+
+surrender unconditionally - http://dbpedia.org/resource/Surrender_of_Japan
+
+july 20 - http://dbpedia.org/resource/20_July_plot
+
+woolwich arsenal - http://dbpedia.org/resource/Royal_Arsenal
+
+undergraduate - http://dbpedia.org/resource/Harvard_College
+
+crater - http://dbpedia.org/resource/Explosion_crater
+
+cockcroft - http://dbpedia.org/resource/John_Cockcroft
+
+center city - http://dbpedia.org/resource/New_Orleans_Central_Business_District
+
+haigerloch - http://dbpedia.org/resource/Haigerloch
+
+berkshire downs - http://dbpedia.org/resource/Berkshire_Downs
+
+u.k. prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+
+circle - http://dbpedia.org/resource/Circle
+
+online store - http://dbpedia.org/resource/Online_shopping
+
+conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
+
+transmutation - http://dbpedia.org/resource/Nuclear_transmutation
+
+bureaucratic inertia - http://dbpedia.org/resource/Bureaucratic_inertia
+
+volunteer - http://dbpedia.org/resource/Volunteering
+
+christmas holiday - http://dbpedia.org/resource/Christmas_Holiday
+
+charlie peace - http://dbpedia.org/resource/Charles_Peace
+
+radiation detector - http://dbpedia.org/resource/Particle_detector
+
+britain - http://dbpedia.org/resource/British_Empire
+
+electromagnetic separation - http://dbpedia.org/resource/Isotope_separation
+
+jemez mountains - http://dbpedia.org/resource/Jemez_Mountains
+
+ore - http://dbpedia.org/resource/Uranium_ore
+
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+
+scientific literature - http://dbpedia.org/resource/Scientific_literature
+
+norris bradbury - http://dbpedia.org/resource/Norris_Bradbury
+
+rail - http://dbpedia.org/resource/Rail_transport
+
+rebecca - http://dbpedia.org/resource/Rebecca
+
+drop test - http://dbpedia.org/resource/Drop_test
+
+cloud - http://dbpedia.org/resource/Cloud
+
+quotation - http://dbpedia.org/resource/Quotation_mark
+
+john cockroft - http://dbpedia.org/resource/John_Cockcroft
+
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+
+fission - http://dbpedia.org/resource/Nuclear_weapon
+
+franz simon - http://dbpedia.org/resource/Francis_Simon
+
+pizzeria - http://dbpedia.org/resource/Pizza
+
+inhalation - http://dbpedia.org/resource/Inhalation
+
+hardcover - http://dbpedia.org/resource/Hardcover
+swab - http://dbpedia.org/resource/Cotton_swab
+
+manhattan - http://dbpedia.org/resource/Manhattan
+
+ridge - http://dbpedia.org/resource/Ridge
+
+chemistry - http://dbpedia.org/resource/Chemistry
+
+copenhagen - http://dbpedia.org/resource/Copenhagen
+
+dark country - http://dbpedia.org/resource/Dark_Country
+
+[73 - http://dbpedia.org/resource/Debbie_Wasserman_Schultz
+
+planet - http://dbpedia.org/resource/Earth
+
+gadget - http://dbpedia.org/resource/Gadget
+
+nazi regime - http://dbpedia.org/resource/Nazi_Germany
+
+alsos mission - http://dbpedia.org/resource/Alsos_Mission
+
+safety - http://dbpedia.org/resource/Nuclear_safety_and_security
+
+grove - http://dbpedia.org/resource/Sacred_grove
+
+morale - http://dbpedia.org/resource/Morale
+
+collision - http://dbpedia.org/resource/Collision
+
+william butler yeats - http://dbpedia.org/resource/W._B._Yeats
+
+consent - http://dbpedia.org/resource/Informed_consent
+
+émigré - http://dbpedia.org/resource/Polish_government-in-exile
+
+production reactor - http://dbpedia.org/resource/Nuclear_reactor
+
+perth - http://dbpedia.org/resource/Perth
+
+sample - http://dbpedia.org/resource/Adsorption
+
+klaus - http://dbpedia.org/resource/Klaus_Mann

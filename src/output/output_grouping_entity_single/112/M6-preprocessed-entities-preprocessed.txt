@@ -1,0 +1,50 @@
+ms - http://dbpedia.org/resource/Millisecond
+columba - http://dbpedia.org/resource/Columba
+lucerne - http://dbpedia.org/resource/Lucerne
+abstract - http://dbpedia.org/resource/Abstraction
+renaissance latin - http://dbpedia.org/resource/Renaissance_Latin
+bible - http://dbpedia.org/resource/Bible
+ink - http://dbpedia.org/resource/Ink
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+vellum parchment - http://dbpedia.org/resource/Vellum
+vellum - http://dbpedia.org/resource/Vellum
+n.t. - http://dbpedia.org/resource/New_Testament
+mediaeval - http://dbpedia.org/resource/Middle_Ages
+surrogate - http://dbpedia.org/resource/Surrogate_key
+concordance - http://dbpedia.org/resource/Bible_concordance
+saint - http://dbpedia.org/resource/Saint
+copyright - http://dbpedia.org/resource/Copyright
+narrative - http://dbpedia.org/resource/Narrative
+switzerland - http://dbpedia.org/resource/Switzerland
+canon table - http://dbpedia.org/resource/Eusebian_Canons
+faksimile - http://dbpedia.org/resource/Facsimile
+calfskin - http://dbpedia.org/resource/Calfskin
+gospels - http://dbpedia.org/resource/Gospel
+vulgate - http://dbpedia.org/resource/Vulgate
+hebrew - http://dbpedia.org/resource/Hebrew_language
+gild - http://dbpedia.org/resource/Gilding
+dimension - http://dbpedia.org/resource/Dimension
+ornament - http://dbpedia.org/resource/Decorative_arts
+st jerome - http://dbpedia.org/resource/Jerome
+single - http://dbpedia.org/resource/Phonograph_record
+breve - http://dbpedia.org/resource/Breve
+trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
+intermix - http://dbpedia.org/resource/Intermix_(band)
+folio - http://dbpedia.org/resource/Folio
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+symbol - http://dbpedia.org/resource/Symbol
+transmission - http://dbpedia.org/resource/Automatic_transmission
+luke - http://dbpedia.org/resource/Luke_the_Evangelist
+medieval - http://dbpedia.org/resource/Medieval_art
+latin - http://dbpedia.org/resource/Latin
+translation - http://dbpedia.org/resource/Wycliffe's_Bible
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+celtic - http://dbpedia.org/resource/Celtic_languages
+digital - http://dbpedia.org/resource/Digital_data
+tcd - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
+transparency - http://dbpedia.org/resource/Reversal_film
+evangelist - http://dbpedia.org/resource/Four_Evangelists
+trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+insular majuscule - http://dbpedia.org/resource/Insular_script
+henry - http://dbpedia.org/resource/Henry_(unit)
+library - http://dbpedia.org/resource/Library

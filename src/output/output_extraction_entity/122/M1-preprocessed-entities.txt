@@ -1,0 +1,88 @@
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+library - http://dbpedia.org/resource/Library
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+customer service - http://dbpedia.org/resource/Customer_service
+library - http://dbpedia.org/resource/Library
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+tel - http://dbpedia.org/resource/.tel
+email - http://dbpedia.org/resource/Email
+castle museum - http://dbpedia.org/resource/Norwich_Castle
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+n17 - http://dbpedia.org/resource/N_postcode_area
+ona - http://dbpedia.org/resource/Original_net_animation
+wedding - http://dbpedia.org/resource/Wedding
+acre - http://dbpedia.org/resource/Acre
+wedding - http://dbpedia.org/resource/Wedding
+local history - http://dbpedia.org/resource/Local_history
+loan - http://dbpedia.org/resource/Loan
+bequest - http://dbpedia.org/resource/Bequest
+object - http://dbpedia.org/resource/Object-oriented_programming
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+accreditation - http://dbpedia.org/resource/Accreditation
+sandford - http://dbpedia.org/resource/Sandford-on-Thames
+heritage - http://dbpedia.org/resource/Heritage_railway
+education - http://dbpedia.org/resource/Education
+car park - http://dbpedia.org/resource/Parking_lot
+stair lift - http://dbpedia.org/resource/Stairlift
+wheelchair - http://dbpedia.org/resource/Wheelchair
+toilet - http://dbpedia.org/resource/Public_toilet
+large print - http://dbpedia.org/resource/Large-print
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+map - http://dbpedia.org/resource/Map
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+bicycle - http://dbpedia.org/resource/Police_bicycle
+charter - http://dbpedia.org/resource/Charter
+bicycle - http://dbpedia.org/resource/Police_bicycle
+bicycle - http://dbpedia.org/resource/Police_bicycle
+tower - http://dbpedia.org/resource/Tower
+train - http://dbpedia.org/resource/Train_station
+bruce grove station - http://dbpedia.org/resource/Bruce_Grove_railway_station
+london liverpool street - http://dbpedia.org/resource/Liverpool_Street_station
+station - http://dbpedia.org/resource/Metro_station
+bruce grove - http://dbpedia.org/resource/Bruce_Grove_railway_station
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle
+bus - http://dbpedia.org/resource/Bus
+bruce grove - http://dbpedia.org/resource/Bruce_Grove_railway_station
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle
+rail - http://dbpedia.org/resource/Handrail
+station - http://dbpedia.org/resource/Metro_station
+escalator - http://dbpedia.org/resource/Escalator
+station - http://dbpedia.org/resource/Metro_station
+newspaper - http://dbpedia.org/resource/Newspaper
+kiosk - http://dbpedia.org/resource/Kiosk
+bus - http://dbpedia.org/resource/Bus
+bus - http://dbpedia.org/resource/Bus
+high road - http://dbpedia.org/resource/Take_the_High_Road
+bus - http://dbpedia.org/resource/Bus
+bruce grove - http://dbpedia.org/resource/Bruce_Grove_railway_station
+bruce grove - http://dbpedia.org/resource/Bruce_Grove_railway_station
+automatic - http://dbpedia.org/resource/Automaton
+announcer - http://dbpedia.org/resource/Disc_jockey
+roundway - http://dbpedia.org/resource/Roundway
+east arm - http://dbpedia.org/resource/East_Arm
+bus - http://dbpedia.org/resource/Bus
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle
+piccadilly - http://dbpedia.org/resource/Piccadilly_line
+wood green station - http://dbpedia.org/resource/Wood_Green_tube_station
+station - http://dbpedia.org/resource/Metro_station
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+bus - http://dbpedia.org/resource/Bus
+bus - http://dbpedia.org/resource/Bus
+tfl - http://dbpedia.org/resource/Transport_for_London
+journey planner - http://dbpedia.org/resource/Journey_planner
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+underground station - http://dbpedia.org/resource/Metro_station
+tfl - http://dbpedia.org/resource/Transport_for_London
+journey planner - http://dbpedia.org/resource/Journey_planner
+car park - http://dbpedia.org/resource/Parking_lot
+church - http://dbpedia.org/resource/Church_service
+space - http://dbpedia.org/resource/Outer_space
+archive service - http://dbpedia.org/resource/Archive
+street parking - http://dbpedia.org/resource/Parking
+match day - http://dbpedia.org/resource/Match_Day_(video_game)
+tottenham hotspur fc - http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station

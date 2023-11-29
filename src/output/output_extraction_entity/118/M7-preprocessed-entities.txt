@@ -1,0 +1,521 @@
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+roman fort - http://dbpedia.org/resource/Castra
+brocavum - http://dbpedia.org/resource/Brocavum
+settlement - http://dbpedia.org/resource/Town
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+monument - http://dbpedia.org/resource/Monument
+archaeological - http://dbpedia.org/resource/Archaeology
+culture media - http://dbpedia.org/resource/Growth_medium
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+roman fort - http://dbpedia.org/resource/Castra
+brocavum - http://dbpedia.org/resource/Brocavum
+settlement - http://dbpedia.org/resource/Town
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+monument - http://dbpedia.org/resource/Monument
+cumbria - http://dbpedia.org/resource/Cumbria
+eden district - http://dbpedia.org/resource/Eden_District
+parish - http://dbpedia.org/resource/Civil_parish
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+ocn - http://dbpedia.org/resource/Open_Computer_Network
+paper - http://dbpedia.org/resource/Paper
+amendment - http://dbpedia.org/resource/Law
+legacy system - http://dbpedia.org/resource/Legacy_system
+rsm - http://dbpedia.org/resource/Royal_Saskatchewan_Museum
+asset - http://dbpedia.org/resource/Asset
+asset - http://dbpedia.org/resource/Asset
+asset - http://dbpedia.org/resource/Asset
+monument - http://dbpedia.org/resource/Monument
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+roman fort - http://dbpedia.org/resource/Castra
+brocavum - http://dbpedia.org/resource/Brocavum
+settlement - http://dbpedia.org/resource/Town
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+medieval - http://dbpedia.org/resource/Middle_Ages
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+roman fort - http://dbpedia.org/resource/Castra
+brocavum - http://dbpedia.org/resource/Brocavum
+settlement - http://dbpedia.org/resource/Town
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+monument - http://dbpedia.org/resource/Monument
+fabric - http://dbpedia.org/resource/Textile
+roman fort - http://dbpedia.org/resource/Castra
+earthwork - http://dbpedia.org/resource/Fortification
+defensive ditch - http://dbpedia.org/resource/Ditch_(fortification)
+archaeological excavation - http://dbpedia.org/resource/Excavation_(archaeology)
+vicus - http://dbpedia.org/resource/Vicus
+castle bailey - http://dbpedia.org/resource/Bailey_(castle)
+archaeological feature - http://dbpedia.org/resource/Feature_(archaeology)
+monument - http://dbpedia.org/resource/Monument
+archaeological - http://dbpedia.org/resource/Archaeology
+monument - http://dbpedia.org/resource/Monument
+roman - http://dbpedia.org/resource/Roman_Empire
+medieval - http://dbpedia.org/resource/Middle_Ages
+military occupation - http://dbpedia.org/resource/Military_occupation
+settlement - http://dbpedia.org/resource/Town
+northern england - http://dbpedia.org/resource/Kingdom_of_Northumbria
+roman fort - http://dbpedia.org/resource/Castra
+archaeological record - http://dbpedia.org/resource/Archaeological_record
+interest group - http://dbpedia.org/resource/Advocacy_group
+stainmore pass - http://dbpedia.org/resource/Stainmore
+pennines - http://dbpedia.org/resource/Pennines
+appleby - http://dbpedia.org/resource/Appleby_Castle
+brough - http://dbpedia.org/resource/Brough_Castle
+roman fort - http://dbpedia.org/resource/Castra
+fort - http://dbpedia.org/resource/Castra
+brough - http://dbpedia.org/resource/Brough_Castle
+kirkby thore - http://dbpedia.org/resource/Kirkby_Thore
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+carlisle - http://dbpedia.org/resource/Carlisle
+ambleside - http://dbpedia.org/resource/Ambleside
+roman fort - http://dbpedia.org/resource/Castra
+brocavum - http://dbpedia.org/resource/Brocavum
+river eamont - http://dbpedia.org/resource/River_Eamont
+confluence - http://dbpedia.org/resource/Confluence
+river lowther - http://dbpedia.org/resource/River_Lowther
+north south - http://dbpedia.org/resource/North_South_MRT_line
+east west - http://dbpedia.org/resource/East_West_MRT_line
+roman road - http://dbpedia.org/resource/Roman_roads
+river eamont - http://dbpedia.org/resource/River_Eamont
+fort - http://dbpedia.org/resource/Castra
+agricola - http://dbpedia.org/resource/Gnaeus_Julius_Agricola
+ad 78 - http://dbpedia.org/resource/AD_78
+c4 - http://dbpedia.org/resource/Command_and_control
+acre - http://dbpedia.org/resource/Acre
+ha - http://dbpedia.org/resource/Hectare
+altar - http://dbpedia.org/resource/Sanctuary
+belatucadrus - http://dbpedia.org/resource/Belatucadros
+deity - http://dbpedia.org/resource/Deity
+roman god - http://dbpedia.org/resource/Janus
+mount - http://dbpedia.org/resource/Mountain
+cohort - http://dbpedia.org/resource/Demography
+cohor - http://dbpedia.org/resource/Lineage_of_Ether
+portugal - http://dbpedia.org/resource/Portugal
+altar - http://dbpedia.org/resource/Sanctuary
+soldier - http://dbpedia.org/resource/Soldier
+cavalry - http://dbpedia.org/resource/Cavalry
+asia minor - http://dbpedia.org/resource/Anatolia
+station - http://dbpedia.org/resource/Train_station
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+fort - http://dbpedia.org/resource/Castra
+c3 - http://dbpedia.org/resource/List_of_bus_routes_in_London
+vicus - http://dbpedia.org/resource/Vicus
+settlement - http://dbpedia.org/resource/Town
+fort - http://dbpedia.org/resource/Castra
+westmorland - http://dbpedia.org/resource/Westmorland
+romans - http://dbpedia.org/resource/Romans_(musician)
+c5 - http://dbpedia.org/resource/Cervical_vertebrae
+normans - http://dbpedia.org/resource/Norman_conquest_of_England
+c11 - http://dbpedia.org/resource/List_of_bus_routes_in_London
+northumbrian - http://dbpedia.org/resource/Northumberland
+c9 - http://dbpedia.org/resource/FN_Minimi
+vacuum - http://dbpedia.org/resource/Vacuum
+satellite - http://dbpedia.org/resource/Satellite
+strathclyde - http://dbpedia.org/resource/Kingdom_of_Strathclyde
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+settlement - http://dbpedia.org/resource/Town
+seizure - http://dbpedia.org/resource/Silk_Road
+cumbria - http://dbpedia.org/resource/Cumbria
+rufus - http://dbpedia.org/resource/List_of_Kim_Possible_characters
+anglo - http://dbpedia.org/resource/Anglo
+scottish border - http://dbpedia.org/resource/Anglo-Scottish_border
+carlisle - http://dbpedia.org/resource/Carlisle
+warfare - http://dbpedia.org/resource/War
+king john - http://dbpedia.org/resource/John_Balliol
+lordship - http://dbpedia.org/resource/Manorialism
+westmorland - http://dbpedia.org/resource/Westmorland
+robert de vieuxpont - http://dbpedia.org/resource/Robert_de_Vieuxpont
+die - http://dbpedia.org/resource/Death
+lordship - http://dbpedia.org/resource/Manorialism
+documentary - http://dbpedia.org/resource/Documentary_film
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+rebellion - http://dbpedia.org/resource/American_Revolution
+civil war - http://dbpedia.org/resource/English_Civil_War
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+stone - http://dbpedia.org/resource/Sandstone
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+norman castle - http://dbpedia.org/resource/Normans
+brough - http://dbpedia.org/resource/Brough_Castle
+pennines - http://dbpedia.org/resource/Pennines
+stainmore pass - http://dbpedia.org/resource/Stainmore
+earthwork - http://dbpedia.org/resource/Fortification
+timber - http://dbpedia.org/resource/Timber_framing
+roman fort - http://dbpedia.org/resource/Castra
+outer bailey - http://dbpedia.org/resource/Outer_bailey
+virtue - http://dbpedia.org/resource/Morality
+marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+westmorland - http://dbpedia.org/resource/Westmorland
+heritage - http://dbpedia.org/resource/Cultural_heritage
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+stone - http://dbpedia.org/resource/Sandstone
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+gatehouse - http://dbpedia.org/resource/Gatehouse
+gatehouse - http://dbpedia.org/resource/Gatehouse
+roman fort - http://dbpedia.org/resource/Castra
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
+ascendance - http://dbpedia.org/resource/Ascendance_(novel)
+northern england - http://dbpedia.org/resource/Kingdom_of_Northumbria
+roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+defence - http://dbpedia.org/resource/Military
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+embark - http://dbpedia.org/resource/Embark_(transit_authority)
+curtain - http://dbpedia.org/resource/Curtain
+great hall - http://dbpedia.org/resource/Great_hall
+chapel - http://dbpedia.org/resource/Castle_chapel
+porch - http://dbpedia.org/resource/Porch
+peace - http://dbpedia.org/resource/Peace
+region - http://dbpedia.org/resource/Region
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+civil war - http://dbpedia.org/resource/English_Civil_War
+young adult - http://dbpedia.org/resource/Adult
+lady anne - http://dbpedia.org/resource/Anne_Neville
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+family - http://dbpedia.org/resource/Family
+northern england - http://dbpedia.org/resource/Kingdom_of_Northumbria
+pendragon - http://dbpedia.org/resource/Pendragon
+mallerstang - http://dbpedia.org/resource/Mallerstang
+brough - http://dbpedia.org/resource/Brough_Castle
+skipton - http://dbpedia.org/resource/Skipton
+appleby - http://dbpedia.org/resource/Appleby_Castle
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+wing - http://dbpedia.org/resource/Wing
+curtain - http://dbpedia.org/resource/Curtain
+fireplace - http://dbpedia.org/resource/Fireplace
+tudor style - http://dbpedia.org/resource/Tudor_architecture
+great hall - http://dbpedia.org/resource/Great_hall
+courthouse - http://dbpedia.org/resource/Courthouse
+gatehouse - http://dbpedia.org/resource/Gatehouse
+painted chamber - http://dbpedia.org/resource/Painted_Chamber
+gatehouse - http://dbpedia.org/resource/Gatehouse
+dual - http://dbpedia.org/resource/Multiple_citizenship
+withdrawing room - http://dbpedia.org/resource/Drawing_room
+great chamber - http://dbpedia.org/resource/Great_chamber
+lady anne - http://dbpedia.org/resource/Anne_Neville
+country seat - http://dbpedia.org/resource/English_country_house
+lady anne - http://dbpedia.org/resource/Anne_Neville
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+moat - http://dbpedia.org/resource/Moat
+archaeological - http://dbpedia.org/resource/Archaeology
+archaeological excavation - http://dbpedia.org/resource/Excavation_(archaeology)
+roman fort - http://dbpedia.org/resource/Castra
+antiquarian - http://dbpedia.org/resource/Antiquarian
+john leland - http://dbpedia.org/resource/John_Leland_(antiquary)
+william stukeley - http://dbpedia.org/resource/William_Stukeley
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+c16 - http://dbpedia.org/resource/Commodore_16
+leland - http://dbpedia.org/resource/Leland_Stanford
+stone - http://dbpedia.org/resource/Sandstone
+token - http://dbpedia.org/resource/Token_coin
+plough - http://dbpedia.org/resource/Plough
+soil - http://dbpedia.org/resource/Soil
+fort - http://dbpedia.org/resource/Castra
+ditch - http://dbpedia.org/resource/Moat
+roman wall - http://dbpedia.org/resource/Hadrian's_Wall
+vallum - http://dbpedia.org/resource/Vallum
+excavation - http://dbpedia.org/resource/Digging
+castle bailey - http://dbpedia.org/resource/Bailey_(castle)
+ditch - http://dbpedia.org/resource/Moat
+roman fort - http://dbpedia.org/resource/Castra
+post hole - http://dbpedia.org/resource/Posthole
+thorn - http://dbpedia.org/resource/Crataegus_monogyna
+hedge - http://dbpedia.org/resource/Hedge
+excavation - http://dbpedia.org/resource/Digging
+medieval - http://dbpedia.org/resource/Middle_Ages
+stone - http://dbpedia.org/resource/Sandstone
+rchme - http://dbpedia.org/resource/Royal_Commission_on_the_Historical_Monuments_of_England
+fort - http://dbpedia.org/resource/Castra
+trench - http://dbpedia.org/resource/Trench
+cottage - http://dbpedia.org/resource/Cottage
+trench - http://dbpedia.org/resource/Trench
+post hole - http://dbpedia.org/resource/Posthole
+timber - http://dbpedia.org/resource/Timber_framing
+medieval - http://dbpedia.org/resource/Middle_Ages
+pottery - http://dbpedia.org/resource/Pottery
+c14 - http://dbpedia.org/resource/Radiocarbon_dating
+gold coin - http://dbpedia.org/resource/Gold_coin
+edward iii - http://dbpedia.org/resource/Edward_II_of_England
+unstratified - http://dbpedia.org/resource/Stratum
+roman coin - http://dbpedia.org/resource/Roman_currency
+trench - http://dbpedia.org/resource/Trench
+stone - http://dbpedia.org/resource/Sandstone
+cobbled - http://dbpedia.org/resource/Cobblestone
+road castle - http://dbpedia.org/resource/Road_Castle
+unstratified - http://dbpedia.org/resource/Stratum
+pottery - http://dbpedia.org/resource/Pottery
+roman period - http://dbpedia.org/resource/Roman_Britain
+excavation - http://dbpedia.org/resource/Digging
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+south south - http://dbpedia.org/resource/South_South_(Nigeria)
+fort - http://dbpedia.org/resource/Castra
+c3 - http://dbpedia.org/resource/List_of_bus_routes_in_London
+c4 - http://dbpedia.org/resource/Command_and_control
+archaeological - http://dbpedia.org/resource/Archaeology
+romano british - http://dbpedia.org/resource/Romano-British_culture
+settlement - http://dbpedia.org/resource/Town
+fort - http://dbpedia.org/resource/Castra
+confine - http://dbpedia.org/resource/Confine
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+monument - http://dbpedia.org/resource/Monument
+earthwork - http://dbpedia.org/resource/Fortification
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+roman fort - http://dbpedia.org/resource/Castra
+fort - http://dbpedia.org/resource/Castra
+vicus - http://dbpedia.org/resource/Vicus
+settlement - http://dbpedia.org/resource/Town
+south south - http://dbpedia.org/resource/South_South_(Nigeria)
+fort - http://dbpedia.org/resource/Castra
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+fort - http://dbpedia.org/resource/Castra
+river eamont - http://dbpedia.org/resource/River_Eamont
+confluence - http://dbpedia.org/resource/Confluence
+river lowther - http://dbpedia.org/resource/River_Lowther
+monument - http://dbpedia.org/resource/Monument
+fort - http://dbpedia.org/resource/Castra
+vicus - http://dbpedia.org/resource/Vicus
+fort - http://dbpedia.org/resource/Castra
+vicus - http://dbpedia.org/resource/Vicus
+fort - http://dbpedia.org/resource/Castra
+vicus - http://dbpedia.org/resource/Vicus
+north river - http://dbpedia.org/resource/Hudson_River
+a66 - http://dbpedia.org/resource/A66_road
+sports - http://dbpedia.org/resource/Sport
+national heritage list - http://dbpedia.org/resource/Australian_National_Heritage_List
+roman - http://dbpedia.org/resource/Roman_Empire
+marching camp - http://dbpedia.org/resource/Castra
+a66 - http://dbpedia.org/resource/A66_road
+fort - http://dbpedia.org/resource/Castra
+nhle - http://dbpedia.org/resource/National_Heritage_List_for_England
+roman - http://dbpedia.org/resource/Roman_Empire
+settlement - http://dbpedia.org/resource/Town
+a66 - http://dbpedia.org/resource/A66_road
+ene - http://dbpedia.org/resource/Points_of_the_compass
+fort - http://dbpedia.org/resource/Castra
+nhle - http://dbpedia.org/resource/National_Heritage_List_for_England
+defence - http://dbpedia.org/resource/Military
+roman fort - http://dbpedia.org/resource/Castra
+medieval - http://dbpedia.org/resource/Middle_Ages
+defence - http://dbpedia.org/resource/Military
+rchme - http://dbpedia.org/resource/Royal_Commission_on_the_Historical_Monuments_of_England
+fort - http://dbpedia.org/resource/Castra
+north south - http://dbpedia.org/resource/North_South_MRT_line
+east west - http://dbpedia.org/resource/East_West_MRT_line
+ha - http://dbpedia.org/resource/Hectare
+acre - http://dbpedia.org/resource/Acre
+fort - http://dbpedia.org/resource/Castra
+defence - http://dbpedia.org/resource/Military
+turf - http://dbpedia.org/resource/Sod
+berm - http://dbpedia.org/resource/Berm
+ditch - http://dbpedia.org/resource/Moat
+defence - http://dbpedia.org/resource/Military
+fort - http://dbpedia.org/resource/Castra
+enclosure - http://dbpedia.org/resource/Enclosure
+fort - http://dbpedia.org/resource/Castra
+fort - http://dbpedia.org/resource/Castra
+gate - http://dbpedia.org/resource/Gate
+fort - http://dbpedia.org/resource/Castra
+ridge - http://dbpedia.org/resource/Ridge
+furrow - http://dbpedia.org/resource/Plough
+ploughing - http://dbpedia.org/resource/Plough
+drainage - http://dbpedia.org/resource/Drainage
+stone - http://dbpedia.org/resource/Sandstone
+fort - http://dbpedia.org/resource/Castra
+celle - http://dbpedia.org/resource/Celle
+archaeological excavation - http://dbpedia.org/resource/Excavation_(archaeology)
+vicus - http://dbpedia.org/resource/Vicus
+fort - http://dbpedia.org/resource/Castra
+roman road - http://dbpedia.org/resource/Roman_roads
+fort - http://dbpedia.org/resource/Castra
+gate - http://dbpedia.org/resource/Gate
+c3 - http://dbpedia.org/resource/List_of_bus_routes_in_London
+c4 - http://dbpedia.org/resource/Command_and_control
+rectilinear - http://dbpedia.org/resource/English_Gothic_architecture
+timber frame - http://dbpedia.org/resource/Timber_framing
+cobble - http://dbpedia.org/resource/Cobblestone
+field system - http://dbpedia.org/resource/Field_system
+ditch - http://dbpedia.org/resource/Moat
+moor lane - http://dbpedia.org/resource/Moor_Lane
+trackway - http://dbpedia.org/resource/Historic_roads_and_trails
+ditched - http://dbpedia.org/resource/Water_landing
+waterhole - http://dbpedia.org/resource/Well
+east field - http://dbpedia.org/resource/Giza_East_Field
+a66 - http://dbpedia.org/resource/A66_road
+trackways - http://dbpedia.org/resource/Historic_roads_and_trails
+waterhole - http://dbpedia.org/resource/Well
+cremation - http://dbpedia.org/resource/Cremation
+burial ground - http://dbpedia.org/resource/Tumulus
+widen - http://dbpedia.org/resource/Widen
+a66 - http://dbpedia.org/resource/A66_road
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+stone - http://dbpedia.org/resource/Sandstone
+defence - http://dbpedia.org/resource/Military
+roman fort - http://dbpedia.org/resource/Castra
+spur - http://dbpedia.org/resource/Spur
+river cliff - http://dbpedia.org/resource/Cut_bank
+floodplain - http://dbpedia.org/resource/Floodplain
+defence - http://dbpedia.org/resource/Military
+north northern - http://dbpedia.org/resource/North_Northern_Scots
+cobbled - http://dbpedia.org/resource/Cobblestone
+causeway - http://dbpedia.org/resource/Causeway
+moor lane - http://dbpedia.org/resource/Moor_Lane
+gatehouse - http://dbpedia.org/resource/Gatehouse
+gatehouse - http://dbpedia.org/resource/Gatehouse
+court - http://dbpedia.org/resource/Courtyard
+gatehouse - http://dbpedia.org/resource/Gatehouse
+cobbled - http://dbpedia.org/resource/Cobblestone
+courtyard - http://dbpedia.org/resource/Courtyard
+gatehouse - http://dbpedia.org/resource/Gatehouse
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+court - http://dbpedia.org/resource/Courtyard
+oven - http://dbpedia.org/resource/Oven
+courtyard - http://dbpedia.org/resource/Courtyard
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+court chapel - http://dbpedia.org/resource/Court_chapel
+tower - http://dbpedia.org/resource/Keep
+tower - http://dbpedia.org/resource/Keep
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+oven - http://dbpedia.org/resource/Oven
+curtain - http://dbpedia.org/resource/Curtain
+moat - http://dbpedia.org/resource/Moat
+ditch - http://dbpedia.org/resource/Moat
+counterscarp - http://dbpedia.org/resource/Counterscarp
+causeway - http://dbpedia.org/resource/Causeway
+cross ditch - http://dbpedia.org/resource/Moat
+moat - http://dbpedia.org/resource/Moat
+stone - http://dbpedia.org/resource/Sandstone
+revet - http://dbpedia.org/resource/Revetment
+causeway - http://dbpedia.org/resource/Causeway
+tower - http://dbpedia.org/resource/Keep
+moat - http://dbpedia.org/resource/Moat
+postern - http://dbpedia.org/resource/Postern
+enclosure - http://dbpedia.org/resource/Enclosure
+fort - http://dbpedia.org/resource/Castra
+enclosure - http://dbpedia.org/resource/Enclosure
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+roman fort - http://dbpedia.org/resource/Castra
+stone - http://dbpedia.org/resource/Sandstone
+moat - http://dbpedia.org/resource/Moat
+moat - http://dbpedia.org/resource/Moat
+turf - http://dbpedia.org/resource/Sod
+rchme - http://dbpedia.org/resource/Royal_Commission_on_the_Historical_Monuments_of_England
+summer house - http://dbpedia.org/resource/Gazebo
+enclosure - http://dbpedia.org/resource/Enclosure
+moor lane - http://dbpedia.org/resource/Moor_Lane
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+roman fort - http://dbpedia.org/resource/Castra
+vicus - http://dbpedia.org/resource/Vicus
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+monument - http://dbpedia.org/resource/Monument
+fort - http://dbpedia.org/resource/Castra
+vicus - http://dbpedia.org/resource/Vicus
+fort - http://dbpedia.org/resource/Castra
+vicus - http://dbpedia.org/resource/Vicus
+fort - http://dbpedia.org/resource/Castra
+monument - http://dbpedia.org/resource/Monument
+roman fort - http://dbpedia.org/resource/Castra
+south moor - http://dbpedia.org/resource/South_Moor
+river eamont - http://dbpedia.org/resource/River_Eamont
+monument - http://dbpedia.org/resource/Monument
+earthwork - http://dbpedia.org/resource/Fortification
+monument - http://dbpedia.org/resource/Monument
+rchme - http://dbpedia.org/resource/Royal_Commission_on_the_Historical_Monuments_of_England
+circuit - http://dbpedia.org/resource/Electrical_network
+monument - http://dbpedia.org/resource/Monument
+sse - http://dbpedia.org/resource/Points_of_the_compass
+gate - http://dbpedia.org/resource/Gate
+gatepost - http://dbpedia.org/resource/Gatepost
+telegraph pole - http://dbpedia.org/resource/Utility_pole
+stone - http://dbpedia.org/resource/Sandstone
+septic tank - http://dbpedia.org/resource/Septic_tank
+courtyard - http://dbpedia.org/resource/Courtyard
+monument - http://dbpedia.org/resource/Monument
+vicus - http://dbpedia.org/resource/Vicus
+field system - http://dbpedia.org/resource/Field_system
+roman fort - http://dbpedia.org/resource/Castra
+moor lane - http://dbpedia.org/resource/Moor_Lane
+wsw - http://dbpedia.org/resource/Points_of_the_compass
+west point - http://dbpedia.org/resource/United_States_Military_Academy
+sewage - http://dbpedia.org/resource/Sanitary_sewer
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+roman - http://dbpedia.org/resource/Roman_Empire
+field system - http://dbpedia.org/resource/Field_system
+vicus - http://dbpedia.org/resource/Vicus
+field system - http://dbpedia.org/resource/Field_system
+scheduled area - http://dbpedia.org/resource/Scheduled_Areas
+telegraph pole - http://dbpedia.org/resource/Utility_pole
+gate - http://dbpedia.org/resource/Gate
+gatepost - http://dbpedia.org/resource/Gatepost
+trench - http://dbpedia.org/resource/Trench
+sewage - http://dbpedia.org/resource/Sanitary_sewer
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+archaeologically - http://dbpedia.org/resource/Archaeology
+sterile - http://dbpedia.org/resource/Fertility
+excavation - http://dbpedia.org/resource/Digging
+monument - http://dbpedia.org/resource/Monument
+vicus - http://dbpedia.org/resource/Vicus
+field system - http://dbpedia.org/resource/Field_system
+east roman - http://dbpedia.org/resource/Byzantine_Empire
+fort - http://dbpedia.org/resource/Castra
+moor lane - http://dbpedia.org/resource/Moor_Lane
+a66 - http://dbpedia.org/resource/A66_road
+monument - http://dbpedia.org/resource/Monument
+south point - http://dbpedia.org/resource/Ka_Lae
+sewage - http://dbpedia.org/resource/Sanitary_sewer
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+moor lane - http://dbpedia.org/resource/Moor_Lane
+gate - http://dbpedia.org/resource/Gate
+gatepost - http://dbpedia.org/resource/Gatepost
+trench - http://dbpedia.org/resource/Trench
+sewage - http://dbpedia.org/resource/Sanitary_sewer
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+archaeologically - http://dbpedia.org/resource/Archaeology
+sterile - http://dbpedia.org/resource/Fertility
+excavation - http://dbpedia.org/resource/Digging
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+cumberland - http://dbpedia.org/resource/Cumberland
+westmorland - http://dbpedia.org/resource/Westmorland
+antiquarian - http://dbpedia.org/resource/Antiquarian
+archaeological - http://dbpedia.org/resource/Archaeology
+excavation - http://dbpedia.org/resource/Digging
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+cumberland - http://dbpedia.org/resource/Cumberland
+westmorland - http://dbpedia.org/resource/Westmorland
+antiquarian - http://dbpedia.org/resource/Antiquarian
+archaeological - http://dbpedia.org/resource/Archaeology
+excavation - http://dbpedia.org/resource/Digging
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+whinfell - http://dbpedia.org/resource/Whinfell
+holme - http://dbpedia.org/resource/River_Holme
+sewerage - http://dbpedia.org/resource/Sanitary_sewer
+hackthorpe - http://dbpedia.org/resource/Hackthorpe
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+roman fort - http://dbpedia.org/resource/Castra
+earthworks - http://dbpedia.org/resource/Fortification
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+rchme - http://dbpedia.org/resource/Royal_Commission_on_the_Historical_Monuments_of_England
+wooler - http://dbpedia.org/resource/Wooler
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+national grid - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
+grid reference - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
+crown copyright - http://dbpedia.org/resource/Crown_copyright
+database - http://dbpedia.org/resource/Database
+reserve - http://dbpedia.org/resource/Nature_reserve
+ordnance survey - http://dbpedia.org/resource/Ordnance_Survey
+british crown - http://dbpedia.org/resource/The_Crown
+reserve - http://dbpedia.org/resource/Nature_reserve
+datum - http://dbpedia.org/resource/Geodetic_datum
+subject term - http://dbpedia.org/resource/Index_term
+map - http://dbpedia.org/resource/Map
+map - http://dbpedia.org/resource/Map
+server - http://dbpedia.org/resource/Web_server
+apr - http://dbpedia.org/resource/Annual_percentage_rate

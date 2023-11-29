@@ -1,0 +1,32 @@
+coloma - http://dbpedia.org/resource/Coloma_High_School
+american river - http://dbpedia.org/resource/American_River
+mexican american war - http://dbpedia.org/resource/Mexican–American_War
+mormon island - http://dbpedia.org/resource/Mormon_Island,_California
+49er - http://dbpedia.org/resource/California_Gold_Rush
+prospector - http://dbpedia.org/resource/Prospecting
+hidalgo - http://dbpedia.org/resource/Hidalgo_(nobility)
+james polk - http://dbpedia.org/resource/James_K._Polk
+currency - http://dbpedia.org/resource/United_States_dollar
+john sutter - http://dbpedia.org/resource/John_Sutter
+california - http://dbpedia.org/resource/California_Trail
+news - http://dbpedia.org/resource/News
+california goldfields - http://dbpedia.org/resource/Lasthenia_californica
+goldfield - http://dbpedia.org/resource/Gold_mining
+dollar - http://dbpedia.org/resource/United_States_dollar
+sacramento river - http://dbpedia.org/resource/Sacramento_River
+map - http://dbpedia.org/resource/Map
+northern california - http://dbpedia.org/resource/Northern_California
+mormons - http://dbpedia.org/resource/Mormons
+weber - http://dbpedia.org/resource/Weber_(unit)
+president - http://dbpedia.org/resource/President_of_the_United_States
+gold - http://dbpedia.org/resource/Gold
+lumber mill - http://dbpedia.org/resource/Sutter's_Mill
+april 25 - http://dbpedia.org/resource/April_25_SC
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+guadalupe - http://dbpedia.org/resource/Our_Lady_of_Guadalupe
+rich bar - http://dbpedia.org/resource/Rich_Bar,_British_Columbia
+american president - http://dbpedia.org/resource/President_of_the_United_States
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+sutter - http://dbpedia.org/resource/John_Sutter
+furth - http://dbpedia.org/resource/Lists_of_mountains_and_hills_in_the_British_Isles
+strike - http://dbpedia.org/resource/Strike_action

@@ -1,0 +1,21 @@
+coloma - http://dbpedia.org/resource/Coloma_High_School
+land grant - http://dbpedia.org/resource/Ranchos_of_California
+farming - http://dbpedia.org/resource/Agriculture
+james marshall - http://dbpedia.org/resource/James_W._Marshall
+sacramento - http://dbpedia.org/resource/Sacramento_River
+acre - http://dbpedia.org/resource/Acre
+prospector - http://dbpedia.org/resource/Prospecting
+james polk - http://dbpedia.org/resource/James_K._Polk
+fort - http://dbpedia.org/resource/Fortification
+john sutter - http://dbpedia.org/resource/John_Sutter
+california - http://dbpedia.org/resource/California_Trail
+news - http://dbpedia.org/resource/News
+sawmill - http://dbpedia.org/resource/Sawmill
+president - http://dbpedia.org/resource/President_of_the_United_States
+metal - http://dbpedia.org/resource/Metal
+gold - http://dbpedia.org/resource/Gold
+immigrant - http://dbpedia.org/resource/Immigration
+sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+emigrant - http://dbpedia.org/resource/Emigration
+sutter - http://dbpedia.org/resource/John_Sutter
+station - http://dbpedia.org/resource/Radio_broadcasting

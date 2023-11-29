@@ -1,0 +1,168 @@
+california gold country - http://dbpedia.org/resource/Gold_Country
+downieville - http://dbpedia.org/resource/Downieville,_California
+millertown - http://dbpedia.org/resource/Millertown,_Newfoundland_and_Labrador
+lake - http://dbpedia.org/resource/Lake
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California_Trail
+nestle - http://dbpedia.org/resource/Eberhard_Nestle
+central valley - http://dbpedia.org/resource/Chilean_Central_Valley
+high sierra - http://dbpedia.org/resource/Ecology_of_the_Sierra_Nevada
+foothill - http://dbpedia.org/resource/Foothills
+region - http://dbpedia.org/resource/Region
+downtown - http://dbpedia.org/resource/Downtown
+winery - http://dbpedia.org/resource/Winery
+restaurant - http://dbpedia.org/resource/Restaurant
+enchant - http://dbpedia.org/resource/Enchant_(band)
+breakfast - http://dbpedia.org/resource/Breakfast
+mineral deposit - http://dbpedia.org/resource/Ore
+gold - http://dbpedia.org/resource/Gold_mining
+coloma - http://dbpedia.org/resource/Coloma_High_School
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California_Trail
+region - http://dbpedia.org/resource/Region
+prospector - http://dbpedia.org/resource/Prospecting
+landscape - http://dbpedia.org/resource/Landscape
+gape - http://dbpedia.org/resource/Beak
+black hole - http://dbpedia.org/resource/Black_hole
+grass valley - http://dbpedia.org/resource/Grass_valley
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California_Trail
+ounce - http://dbpedia.org/resource/Ounce
+gold - http://dbpedia.org/resource/Gold_mining
+hwy 49 - http://dbpedia.org/resource/California_State_Route_49
+wind - http://dbpedia.org/resource/Aeolian_processes
+meander - http://dbpedia.org/resource/Meander
+mother lode - http://dbpedia.org/resource/Mother_lode
+mining town - http://dbpedia.org/resource/Ghost_town
+crystal clear - http://dbpedia.org/resource/Everaldo_Coelho
+runoff - http://dbpedia.org/resource/Surface_runoff
+lake - http://dbpedia.org/resource/Lake
+white water rafting - http://dbpedia.org/resource/Rafting
+hiking - http://dbpedia.org/resource/Hiking
+mountain biking - http://dbpedia.org/resource/Mountain_biking
+boat fishing - http://dbpedia.org/resource/Recreational_boat_fishing
+south yuba river - http://dbpedia.org/resource/South_Yuba_River
+single - http://dbpedia.org/resource/Extended_play
+bridge - http://dbpedia.org/resource/Bridge
+trail - http://dbpedia.org/resource/Trail
+wheelchair accessible - http://dbpedia.org/resource/Accessibility
+trail - http://dbpedia.org/resource/Trail
+mountain bike - http://dbpedia.org/resource/Mountain_biking
+trail - http://dbpedia.org/resource/Trail
+american river - http://dbpedia.org/resource/American_River
+ranger station - http://dbpedia.org/resource/Park_ranger
+auburn - http://dbpedia.org/resource/Auburn_hair
+map - http://dbpedia.org/resource/Map
+lake - http://dbpedia.org/resource/Lake
+marina - http://dbpedia.org/resource/Marina
+nevada city - http://dbpedia.org/resource/Nevada_City,_California
+town - http://dbpedia.org/resource/Town
+jamestown - http://dbpedia.org/resource/Jamestown,_Virginia
+ohv - http://dbpedia.org/resource/Overhead_valve_engine
+wide range - http://dbpedia.org/resource/Fender_Wide_Range
+trail - http://dbpedia.org/resource/Trail
+middle fork american river - http://dbpedia.org/resource/Middle_Fork_American_River
+gold - http://dbpedia.org/resource/Gold_mining
+native american tribe - http://dbpedia.org/resource/Indigenous_peoples_of_California
+miwok - http://dbpedia.org/resource/Miwok
+nisenan - http://dbpedia.org/resource/Nisenan
+california - http://dbpedia.org/resource/California_Trail
+artifact - http://dbpedia.org/resource/Cultural_artifact
+grinding - http://dbpedia.org/resource/Grinding_machine
+rock - http://dbpedia.org/resource/Rock_music
+igr - http://dbpedia.org/resource/International_Gay_Rugby
+marbleized - http://dbpedia.org/resource/Marbleizing
+limestone - http://dbpedia.org/resource/Limestone
+mortar - http://dbpedia.org/resource/Mortar_and_pestle
+bedrock mortar - http://dbpedia.org/resource/Bedrock_mortar
+north america - http://dbpedia.org/resource/North_America
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+gold - http://dbpedia.org/resource/Gold_mining
+sutter - http://dbpedia.org/resource/John_Sutter
+coloma - http://dbpedia.org/resource/Coloma_High_School
+california - http://dbpedia.org/resource/California_Trail
+news - http://dbpedia.org/resource/News
+oregon - http://dbpedia.org/resource/Oregon
+sandwich - http://dbpedia.org/resource/Sandwich
+hawaii - http://dbpedia.org/resource/Hawaiian_Islands
+latin america - http://dbpedia.org/resource/Latin_America
+news - http://dbpedia.org/resource/News
+gold - http://dbpedia.org/resource/Gold_mining
+california - http://dbpedia.org/resource/California_Trail
+gold - http://dbpedia.org/resource/Gold_mining
+latin america - http://dbpedia.org/resource/Latin_America
+gold - http://dbpedia.org/resource/Gold_mining
+settlement - http://dbpedia.org/resource/Town
+town - http://dbpedia.org/resource/Town
+church - http://dbpedia.org/resource/Catholic_Church
+agriculture - http://dbpedia.org/resource/Agriculture
+ranching - http://dbpedia.org/resource/Ranch
+settler - http://dbpedia.org/resource/Settler
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+california - http://dbpedia.org/resource/California_Trail
+gold - http://dbpedia.org/resource/Gold_mining
+native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+mining - http://dbpedia.org/resource/Gold_mining
+california indians - http://dbpedia.org/resource/Indigenous_peoples_of_California
+die - http://dbpedia.org/resource/Death
+immigration - http://dbpedia.org/resource/Immigration
+region - http://dbpedia.org/resource/Region
+gold - http://dbpedia.org/resource/Gold_mining
+gold mining - http://dbpedia.org/resource/Gold_mining
+native american history - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+gold - http://dbpedia.org/resource/Gold_mining
+western slope - http://dbpedia.org/resource/Colorado_Western_Slope
+sierra nevada - http://dbpedia.org/resource/Trans-Mexican_Volcanic_Belt
+sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+stud - http://dbpedia.org/resource/Stud_farm
+region - http://dbpedia.org/resource/Region
+pine - http://dbpedia.org/resource/Pine
+tree - http://dbpedia.org/resource/Tree
+high hill - http://dbpedia.org/resource/High_Hill,_Missouri
+multitudes - http://dbpedia.org/resource/Multitudes
+gold - http://dbpedia.org/resource/Gold_mining
+north fork american river - http://dbpedia.org/resource/North_Fork_American_River
+foresthill bridge - http://dbpedia.org/resource/Foresthill_Bridge
+bridge - http://dbpedia.org/resource/Bridge
+california - http://dbpedia.org/resource/California_Trail
+american river - http://dbpedia.org/resource/American_River
+yuba - http://dbpedia.org/resource/Tofu_skin
+bear - http://dbpedia.org/resource/American_black_bear
+mokelumne - http://dbpedia.org/resource/Mokelumne_River
+tuolumne - http://dbpedia.org/resource/Tuolumne_River
+san joaquin - http://dbpedia.org/resource/San_Joaquin_River
+merced - http://dbpedia.org/resource/Merced_River
+lake - http://dbpedia.org/resource/Lake
+reservoir - http://dbpedia.org/resource/Reservoir
+region - http://dbpedia.org/resource/Region
+folsom - http://dbpedia.org/resource/Folsom_tradition
+comanche - http://dbpedia.org/resource/Comanche
+hogan - http://dbpedia.org/resource/Hogan
+melones - http://dbpedia.org/resource/Melones,_California
+don pedro - http://dbpedia.org/resource/Don_Pedro_Dam
+millertown - http://dbpedia.org/resource/Millertown,_Newfoundland_and_Labrador
+weather - http://dbpedia.org/resource/Weathering
+climate - http://dbpedia.org/resource/Alpine_climate
+coast - http://dbpedia.org/resource/Coast
+gold - http://dbpedia.org/resource/Gold_mining
+climate - http://dbpedia.org/resource/Alpine_climate
+resemble - http://dbpedia.org/resource/SoltyRei
+wine - http://dbpedia.org/resource/Viticulture
+grape - http://dbpedia.org/resource/Grape
+vineyard - http://dbpedia.org/resource/Vineyard
+region - http://dbpedia.org/resource/Region
+crop - http://dbpedia.org/resource/Agriculture
+summer - http://dbpedia.org/resource/Summer
+heat wave - http://dbpedia.org/resource/Heat_wave
+temperature - http://dbpedia.org/resource/Temperature
+digit - http://dbpedia.org/resource/Toe
+winter - http://dbpedia.org/resource/Winter
+snowfall - http://dbpedia.org/resource/Snow
+foothill - http://dbpedia.org/resource/Foothills
+winter - http://dbpedia.org/resource/Winter
+temperature - http://dbpedia.org/resource/Temperature
+auburn - http://dbpedia.org/resource/Auburn_hair
+fog - http://dbpedia.org/resource/Fog
+central valley - http://dbpedia.org/resource/Chilean_Central_Valley
+sunny day - http://dbpedia.org/resource/Sunny_Day_(TV_series)

@@ -1,0 +1,13 @@
+rifle - http://dbpedia.org/resource/Rifle
+british imperialism - http://dbpedia.org/resource/British_Empire
+machine gun - http://dbpedia.org/resource/Machine_gun
+communication - http://dbpedia.org/resource/Communication
+patchwork - http://dbpedia.org/resource/Patchwork
+christianity - http://dbpedia.org/resource/Christianity
+precision - http://dbpedia.org/resource/Accuracy_and_precision
+british empire - http://dbpedia.org/resource/British_Empire
+motivation - http://dbpedia.org/resource/Motivation
+navy - http://dbpedia.org/resource/Navy
+sun - http://dbpedia.org/resource/Solar_deity
+consumer good - http://dbpedia.org/resource/Final_good
+race - http://dbpedia.org/resource/Racing

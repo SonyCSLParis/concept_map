@@ -1,0 +1,90 @@
+hindu - http://dbpedia.org/resource/Hindus
+sir thomas stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
+article - http://dbpedia.org/resource/Historicity_of_Jesus
+book review - http://dbpedia.org/resource/Book_review
+free thought - http://dbpedia.org/resource/Freethought
+buddhists - http://dbpedia.org/resource/Buddhism
+stone - http://dbpedia.org/resource/Masonry
+object - http://dbpedia.org/resource/Non-physical_entity
+hand signs - http://dbpedia.org/resource/Sign_language
+muscle - http://dbpedia.org/resource/Muscle
+buddhist art - http://dbpedia.org/resource/Buddhist_art
+buddhist pilgrimage - http://dbpedia.org/resource/Buddhist_pilgrimage_sites
+encompass - http://dbpedia.org/resource/Encompass
+native indonesians - http://dbpedia.org/resource/Native_Indonesians
+meditation - http://dbpedia.org/resource/Meditation
+hand gesture - http://dbpedia.org/resource/List_of_gestures
+library journal - http://dbpedia.org/resource/Library_Journal
+region - http://dbpedia.org/resource/Region
+proportional - http://dbpedia.org/resource/Typeface
+mahayana - http://dbpedia.org/resource/Mahayana
+denise - http://dbpedia.org/resource/Denise_Fox
+faith - http://dbpedia.org/resource/Faith
+rib cage - http://dbpedia.org/resource/Rib_cage
+light - http://dbpedia.org/resource/Light
+kamadhatu - http://dbpedia.org/resource/Buddhist_cosmology
+finger - http://dbpedia.org/resource/Finger
+hair - http://dbpedia.org/resource/Hair
+ball - http://dbpedia.org/resource/Ball
+gale - http://dbpedia.org/resource/Gale
+hand stand - http://dbpedia.org/resource/Handstand
+center platform - http://dbpedia.org/resource/Island_platform
+attachment - http://dbpedia.org/resource/Attachment_theory
+eastern michigan university - http://dbpedia.org/resource/Eastern_Michigan_University
+arupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+circle - http://dbpedia.org/resource/Circle
+ring - http://dbpedia.org/resource/Ring_of_bells
+iconography - http://dbpedia.org/resource/Iconography
+erosion - http://dbpedia.org/resource/Erosion
+sentient - http://dbpedia.org/resource/Sentience
+wheel - http://dbpedia.org/resource/Wheel
+hour glass - http://dbpedia.org/resource/Hourglass
+deep insight - http://dbpedia.org/resource/Deep_Insight
+hand surgery - http://dbpedia.org/resource/Hand_surgery
+lotus - http://dbpedia.org/resource/Lotus_position
+pilgrimage - http://dbpedia.org/resource/Pilgrimage
+formlessness - http://dbpedia.org/resource/Formlessness
+dome - http://dbpedia.org/resource/Dome
+architecture - http://dbpedia.org/resource/Architecture
+buddhist faith - http://dbpedia.org/resource/Buddhism
+buddhist cosmology - http://dbpedia.org/resource/Buddhist_cosmology
+provenance - http://dbpedia.org/resource/Provenance
+consciousness - http://dbpedia.org/resource/Consciousness
+abstract - http://dbpedia.org/resource/Abstraction
+crack - http://dbpedia.org/resource/Fracture
+volcanic ash - http://dbpedia.org/resource/Volcanic_ash
+rupadhatu - http://dbpedia.org/resource/Dhyāna_in_Buddhism
+kinesthetic - http://dbpedia.org/resource/Proprioception
+relief - http://dbpedia.org/resource/Relief
+mudra - http://dbpedia.org/resource/Mudra
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+human - http://dbpedia.org/resource/Human
+finger stick - http://dbpedia.org/resource/Fingerstick
+function - http://dbpedia.org/resource/Role
+interlock - http://dbpedia.org/resource/Interlock_(engineering)
+lip - http://dbpedia.org/resource/Lip
+ear - http://dbpedia.org/resource/Ear
+thumb - http://dbpedia.org/resource/Thumb
+central java - http://dbpedia.org/resource/Central_Java
+gesture - http://dbpedia.org/resource/Mudra
+culture - http://dbpedia.org/resource/Culture
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+library - http://dbpedia.org/resource/Library
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+spirit - http://dbpedia.org/resource/Spirit
+concentration - http://dbpedia.org/resource/Samadhi
+buddhism - http://dbpedia.org/resource/Buddhism
+nose - http://dbpedia.org/resource/Nose
+borobudur - http://dbpedia.org/resource/Borobudur
+buddhist - http://dbpedia.org/resource/Buddhism
+chamber - http://dbpedia.org/resource/Chamber_tomb
+wisdom - http://dbpedia.org/resource/Prajnaparamita
+elbow - http://dbpedia.org/resource/Elbow
+sculpture - http://dbpedia.org/resource/Sculpture
+doctrine - http://dbpedia.org/resource/Doctrine
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
+buddha image - http://dbpedia.org/resource/Buddhist_art
+japanese buddhist - http://dbpedia.org/resource/Buddhism_in_Japan
+dharma - http://dbpedia.org/resource/Dharma
+monument - http://dbpedia.org/resource/Funerary_art
+compound - http://dbpedia.org/resource/Leaf

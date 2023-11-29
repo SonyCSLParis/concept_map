@@ -1,0 +1,34 @@
+hackley library - http://dbpedia.org/resource/Hackley_Library
+monastery - http://dbpedia.org/resource/Monastery
+library - http://dbpedia.org/resource/Library
+irish american - http://dbpedia.org/resource/Irish_Americans
+silver - http://dbpedia.org/resource/Silver
+painting - http://dbpedia.org/resource/Painting
+monk - http://dbpedia.org/resource/Monk
+entwine - http://dbpedia.org/resource/Entwine
+medieval - http://dbpedia.org/resource/Middle_Ages
+village - http://dbpedia.org/resource/Village
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+catholic encyclopedia - http://dbpedia.org/resource/Catholic_Encyclopedia
+vellum - http://dbpedia.org/resource/Vellum
+reproduction - http://dbpedia.org/resource/Copying
+display case - http://dbpedia.org/resource/Display_case
+book hand - http://dbpedia.org/resource/Book_hand
+color dye - http://dbpedia.org/resource/Dye
+trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
+ireland - http://dbpedia.org/resource/Ireland
+muskegon - http://dbpedia.org/resource/Muskegon_River
+face figure - http://dbpedia.org/resource/Vertex_figure
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+black box - http://dbpedia.org/resource/Black_box_theater
+bird - http://dbpedia.org/resource/Bird
+paper - http://dbpedia.org/resource/Paper
+north america - http://dbpedia.org/resource/North_America
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+medieval ireland - http://dbpedia.org/resource/Ireland_in_the_Middle_Ages
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+insular majuscule - http://dbpedia.org/resource/Insular_script
+facsimile - http://dbpedia.org/resource/Facsimile
+calf skin - http://dbpedia.org/resource/Calfskin
+latin - http://dbpedia.org/resource/Latin

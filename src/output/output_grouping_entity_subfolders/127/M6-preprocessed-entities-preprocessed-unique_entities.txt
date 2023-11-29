@@ -1,0 +1,2651 @@
+aesthetic - http://dbpedia.org/resource/Aesthetics
+
+8mr - http://dbpedia.org/resource/8_Metre_(keelboat)
+
+churnet valley - http://dbpedia.org/resource/River_Churnet
+
+englishman - http://dbpedia.org/resource/Kingdom_of_England
+
+turkey - http://dbpedia.org/resource/Turkey
+
+buff - http://dbpedia.org/resource/Enthusiasm
+
+thoor ballylee - http://dbpedia.org/resource/Thoor_Ballylee
+
+revenue - http://dbpedia.org/resource/Tax
+
+resort - http://dbpedia.org/resource/Resort
+
+feature film - http://dbpedia.org/resource/Film
+
+bombard - http://dbpedia.org/resource/Bombardment
+
+pound - http://dbpedia.org/resource/Pound_sterling
+
+glue - http://dbpedia.org/resource/Adhesive
+
+doh - http://dbpedia.org/resource/Health_department
+
+statute - http://dbpedia.org/resource/Statute
+
+parapet - http://dbpedia.org/resource/Parapet
+
+machicolation - http://dbpedia.org/resource/Machicolation
+
+assault - http://dbpedia.org/resource/Battle_of_France
+
+rural - http://dbpedia.org/resource/Rural_area
+
+st vitus cathedral - http://dbpedia.org/resource/St._Vitus_Cathedral
+
+archer - http://dbpedia.org/resource/Bow_and_arrow
+
+longthorpe - http://dbpedia.org/resource/Longthorpe,_Peterborough
+
+north africa - http://dbpedia.org/resource/North_Africa
+
+castle technology - http://dbpedia.org/resource/Castle_Technology
+
+spoon - http://dbpedia.org/resource/Spoon
+
+barbie - http://dbpedia.org/resource/Barbie
+princess cinderella - http://dbpedia.org/resource/Princess_Cinderella
+
+alert - http://dbpedia.org/resource/Alertness
+
+town wall - http://dbpedia.org/resource/Defensive_wall
+
+tudor conquest - http://dbpedia.org/resource/Tudor_conquest_of_Ireland
+
+peace - http://dbpedia.org/resource/Peace
+
+trebuchets - http://dbpedia.org/resource/Trebuchet
+
+ring work - http://dbpedia.org/resource/Ringwork
+
+eye - http://dbpedia.org/resource/Eye
+
+video game - http://dbpedia.org/resource/Video_game
+
+stay cool - http://dbpedia.org/resource/Stay_Cool
+
+alnwick - http://dbpedia.org/resource/Alnwick_Castle
+
+ireland - http://dbpedia.org/resource/Ireland
+
+caernarfon castle - http://dbpedia.org/resource/Caernarfon_Castle
+
+sabotage - http://dbpedia.org/resource/Sabotage
+
+hospitallers - http://dbpedia.org/resource/Knights_Hospitaller
+
+control region - http://dbpedia.org/resource/MtDNA_control_region
+
+safety - http://dbpedia.org/resource/Safety
+
+knight service - http://dbpedia.org/resource/Knight-service
+
+edinburgh castle - http://dbpedia.org/resource/Edinburgh_Castle
+
+princess castle - http://dbpedia.org/resource/Golden_Films
+
+design history - http://dbpedia.org/resource/Design_history
+
+floor plan - http://dbpedia.org/resource/Floor_plan
+
+military strategist - http://dbpedia.org/resource/Military_strategy
+
+marcher - http://dbpedia.org/resource/Welsh_Marches
+
+vikings - http://dbpedia.org/resource/Vikings
+
+pulley - http://dbpedia.org/resource/Pulley
+
+control tower - http://dbpedia.org/resource/Air_traffic_control
+
+column - http://dbpedia.org/resource/Column
+
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+
+masonry - http://dbpedia.org/resource/Masonry
+
+welsh outlook - http://dbpedia.org/resource/Welsh_Outlook
+
+murder mystery - http://dbpedia.org/resource/Mystery_fiction
+
+rock - http://dbpedia.org/resource/Rock_music
+
+baron - http://dbpedia.org/resource/English_feudal_barony
+
+felton - http://dbpedia.org/resource/Beau_Felton
+
+swing - http://dbpedia.org/resource/Swing_bridge
+
+castle hill - http://dbpedia.org/resource/Electoral_district_of_Castle_Hill
+
+nottingham - http://dbpedia.org/resource/Nottingham
+
+norman bailey - http://dbpedia.org/resource/Norman_Bailey_(bass-baritone)
+
+culture - http://dbpedia.org/resource/Culture
+
+historical monument - http://dbpedia.org/resource/Monument_historique
+
+esk - http://dbpedia.org/resource/Esk_War_Memorial
+
+caste - http://dbpedia.org/resource/Caste
+
+plunder - http://dbpedia.org/resource/Looting
+
+gargoyle - http://dbpedia.org/resource/Gargoyle
+
+transylvania - http://dbpedia.org/resource/Transylvania
+
+paper - http://dbpedia.org/resource/Paper
+
+native welsh - http://dbpedia.org/resource/Welsh_people
+
+intramural - http://dbpedia.org/resource/Intramural_sports
+
+thorpe - http://dbpedia.org/resource/Benjamin_Thorpe
+
+lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+
+richard redmayne - http://dbpedia.org/resource/Richard_Redmayne
+
+space - http://dbpedia.org/resource/Outer_space
+
+concentration - http://dbpedia.org/resource/Internment
+
+siege warfare - http://dbpedia.org/resource/Siege
+
+brace - http://dbpedia.org/resource/Orthotics
+
+jed water - http://dbpedia.org/resource/Jed_Water
+
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+
+idealist - http://dbpedia.org/resource/Idealism
+
+dover castle - http://dbpedia.org/resource/Dover_Castle
+
+pontefract castle - http://dbpedia.org/resource/Pontefract_Castle
+
+stockpile - http://dbpedia.org/resource/War_reserve_stock
+
+culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+
+fear - http://dbpedia.org/resource/Fear
+
+stone mason - http://dbpedia.org/resource/Stonemasonry
+
+craigievar castle - http://dbpedia.org/resource/Craigievar_Castle
+
+sybil - http://dbpedia.org/resource/Sybil_Fawlty
+
+emery - http://dbpedia.org/resource/Nail_file
+
+piel - http://dbpedia.org/resource/Piel_Island
+
+anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
+
+french army - http://dbpedia.org/resource/French_Army
+
+mongol - http://dbpedia.org/resource/Mongols
+
+metal - http://dbpedia.org/resource/Metal
+
+sacred - http://dbpedia.org/resource/Sacred
+
+hook - http://dbpedia.org/resource/Fish_hook
+
+mason - http://dbpedia.org/resource/Stonemasonry
+
+anglicisation - http://dbpedia.org/resource/Anglicisation
+
+decay - http://dbpedia.org/resource/Decomposition
+
+prague castle - http://dbpedia.org/resource/Prague_Castle
+
+gothic - http://dbpedia.org/resource/Gothic_architecture
+
+duke - http://dbpedia.org/resource/Duke
+
+alton - http://dbpedia.org/resource/Alton_railway_station
+wedge - http://dbpedia.org/resource/Wedge
+
+norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
+
+clip art - http://dbpedia.org/resource/Clip_art
+
+article - http://dbpedia.org/resource/Bratislava
+
+henry iii - http://dbpedia.org/resource/Henry_III_of_England
+
+buttery - http://dbpedia.org/resource/Buttery_(room)
+
+arsenal - http://dbpedia.org/resource/Arsenal
+
+untrue - http://dbpedia.org/resource/Untrue_(album)
+
+castle town - http://dbpedia.org/resource/Castle_town
+
+ring - http://dbpedia.org/resource/Ring_of_bells
+
+diminutive - http://dbpedia.org/resource/Diminutive
+
+gawthorpe - http://dbpedia.org/resource/Gawthorpe_Hall
+
+extreme poverty - http://dbpedia.org/resource/Extreme_poverty
+
+security - http://dbpedia.org/resource/Security
+
+hanging - http://dbpedia.org/resource/Hanging
+
+instrumental - http://dbpedia.org/resource/Musical_instrument
+
+rich family - http://dbpedia.org/resource/Rich_family
+
+military architect - http://dbpedia.org/resource/Military_engineering
+
+rebellion - http://dbpedia.org/resource/Rebellion
+
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+
+lord king - http://dbpedia.org/resource/Earl_of_Lovelace
+
+pond - http://dbpedia.org/resource/Pond
+
+henry - http://dbpedia.org/resource/Henry_(unit)
+
+author - http://dbpedia.org/resource/Author
+
+day tripper - http://dbpedia.org/resource/Day_Tripper
+
+bolt - http://dbpedia.org/resource/Crossbow
+
+fairy tale - http://dbpedia.org/resource/Fairy_tale
+
+toss - http://dbpedia.org/resource/Coin_flipping
+
+halloughton - http://dbpedia.org/resource/Halloughton
+
+anglo - http://dbpedia.org/resource/Anglo
+
+relief - http://dbpedia.org/resource/Relief
+
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+
+food - http://dbpedia.org/resource/Food
+
+tudor - http://dbpedia.org/resource/House_of_Tudor
+
+pointed arch - http://dbpedia.org/resource/Gothic_architecture
+
+antioch - http://dbpedia.org/resource/Antioch
+
+field army - http://dbpedia.org/resource/Army
+
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+
+kent - http://dbpedia.org/resource/Kent
+
+nordic country - http://dbpedia.org/resource/Nordic_countries
+
+tintagel - http://dbpedia.org/resource/Tintagel
+
+sand - http://dbpedia.org/resource/Sand
+
+savoy - http://dbpedia.org/resource/Savoy
+
+queen isabella - http://dbpedia.org/resource/Isabella_of_France
+
+ravage - http://dbpedia.org/resource/Ravage_2099
+
+american library association - http://dbpedia.org/resource/American_Library_Association
+
+longthorpe tower - http://dbpedia.org/resource/Longthorpe_Tower
+
+hohensalzburg castle - http://dbpedia.org/resource/Hohensalzburg_Fortress
+
+colour photograph - http://dbpedia.org/resource/Color_photography
+
+gothic fiction - http://dbpedia.org/resource/Gothic_fiction
+
+brass rubbing - http://dbpedia.org/resource/Brass_rubbing
+
+franciscan friar - http://dbpedia.org/resource/Franciscans
+
+invasion - http://dbpedia.org/resource/Invasion
+
+nouveau riche - http://dbpedia.org/resource/Nouveau_riche
+
+tower houses - http://dbpedia.org/resource/Tower_house
+
+hastings - http://dbpedia.org/resource/Hastings
+
+oxen - http://dbpedia.org/resource/Ox
+
+archaeological - http://dbpedia.org/resource/Archaeology
+
+tower - http://dbpedia.org/resource/Keep
+
+genre - http://dbpedia.org/resource/Genre
+
+prison - http://dbpedia.org/resource/Prison
+
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+
+dominicans - http://dbpedia.org/resource/Dominican_Order
+
+angle - http://dbpedia.org/resource/Azimuth
+
+administrative centre - http://dbpedia.org/resource/Capital_city
+
+springald - http://dbpedia.org/resource/Springald
+
+caernarvon castle - http://dbpedia.org/resource/Caernarfon_Castle
+
+crusades - http://dbpedia.org/resource/Crusades
+
+julian - http://dbpedia.org/resource/Istrian_Italians
+
+saltpeter - http://dbpedia.org/resource/Potassium_nitrate
+
+outline - http://dbpedia.org/resource/Nutrition
+
+royalty - http://dbpedia.org/resource/Royal_family
+
+small arm - http://dbpedia.org/resource/Firearm
+
+gunpowder - http://dbpedia.org/resource/Gunpowder
+
+hunyad castle - http://dbpedia.org/resource/Corvin_Castle
+
+ordinate - http://dbpedia.org/resource/Abscissa_and_ordinate
+
+romans - http://dbpedia.org/resource/Romans_(musician)
+
+turkey - http://dbpedia.org/resource/Turkey_as_food
+
+lordship - http://dbpedia.org/resource/Manorialism
+
+bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
+
+stone - http://dbpedia.org/resource/Sandstone
+
+maiden castle - http://dbpedia.org/resource/Maiden_Castle,_Dorset
+
+promontory - http://dbpedia.org/resource/Promontory
+
+roundheads - http://dbpedia.org/resource/Roundhead
+
+edward english - http://dbpedia.org/resource/Edward_English
+
+starvation - http://dbpedia.org/resource/Starvation
+
+simon de montfort - http://dbpedia.org/resource/Simon_III_de_Montfort
+
+mason - http://dbpedia.org/resource/Masonry
+
+revolution - http://dbpedia.org/resource/French_Revolution
+
+prepare - http://dbpedia.org/resource/PREPARE
+
+city beautiful - http://dbpedia.org/resource/City_Beautiful_movement
+
+welshmen - http://dbpedia.org/resource/Wales
+
+pyrenees - http://dbpedia.org/resource/Pyrenees
+
+legal system - http://dbpedia.org/resource/English_law
+
+lake - http://dbpedia.org/resource/Lake
+
+resemble - http://dbpedia.org/resource/SoltyRei
+
+english local government - http://dbpedia.org/resource/Local_government_in_England
+
+development town - http://dbpedia.org/resource/Development_town
+
+alo - http://dbpedia.org/resource/Alo_Creevey
+
+warwick castle - http://dbpedia.org/resource/Warwick_Castle
+
+mote - http://dbpedia.org/resource/Sensor_node
+
+welsh castle - http://dbpedia.org/resource/Castle
+
+chain - http://dbpedia.org/resource/Chain
+
+grain - http://dbpedia.org/resource/Grain
+
+office administration - http://dbpedia.org/resource/Office_administration
+
+ducal - http://dbpedia.org/resource/Duke
+
+catholic - http://dbpedia.org/resource/Catholic_Church
+
+emotion - http://dbpedia.org/resource/Emotion
+
+sinew - http://dbpedia.org/resource/Tendon
+
+miner - http://dbpedia.org/resource/Mining
+
+turret - http://dbpedia.org/resource/Turret
+
+cumbria - http://dbpedia.org/resource/Cumbria
+
+greek fire - http://dbpedia.org/resource/Greek_fire
+
+norman castle - http://dbpedia.org/resource/Normans
+
+mock castle - http://dbpedia.org/resource/Castle
+
+repel - http://dbpedia.org/resource/Repel
+
+surface area - http://dbpedia.org/resource/Surface_area
+
+airy - http://dbpedia.org/resource/George_Biddell_Airy
+
+perrier - http://dbpedia.org/resource/Perrier
+
+gaillard - http://dbpedia.org/resource/Gaillard
+
+gothic fashion - http://dbpedia.org/resource/Gothic_fashion
+
+rochester castle - http://dbpedia.org/resource/Rochester_Castle
+
+siege machine - http://dbpedia.org/resource/Siege_engine
+
+norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+
+wood - http://dbpedia.org/resource/Wood
+
+winch - http://dbpedia.org/resource/Winch
+
+bell tower - http://dbpedia.org/resource/Bell_tower
+
+portcullis - http://dbpedia.org/resource/Portcullis
+
+imaginary - http://dbpedia.org/resource/Imagination
+
+access point - http://dbpedia.org/resource/Wireless_access_point
+
+dart - http://dbpedia.org/resource/Darts
+
+enlightened ruler - http://dbpedia.org/resource/Enlightened_absolutism
+
+castello - http://dbpedia.org/resource/Municipalities_of_San_Marino
+
+witch hat - http://dbpedia.org/resource/Witch_hat
+
+critical role - http://dbpedia.org/resource/Critical_Role
+
+plain - http://dbpedia.org/resource/Plain
+
+tent - http://dbpedia.org/resource/Tent
+
+anjou - http://dbpedia.org/resource/Anjou
+
+st george - http://dbpedia.org/resource/Saint_George
+
+warwick - http://dbpedia.org/resource/Warwick
+
+torch - http://dbpedia.org/resource/Oxy-fuel_welding_and_cutting
+
+precipitate - http://dbpedia.org/resource/Precipitation
+
+medieval history - http://dbpedia.org/resource/Middle_Ages
+
+knock castle - http://dbpedia.org/resource/Knock_Castle_(Isle_of_Skye)
+
+long play - http://dbpedia.org/resource/Album
+
+dresden - http://dbpedia.org/resource/Dresden
+
+caerlaverock castle - http://dbpedia.org/resource/Caerlaverock_Castle
+
+music history - http://dbpedia.org/resource/Music_history
+
+intensify - http://dbpedia.org/resource/Intensify
+
+fragmentation - http://dbpedia.org/resource/Grenade
+
+art history - http://dbpedia.org/resource/Art_history
+
+spiral - http://dbpedia.org/resource/Spiral
+
+fantasy - http://dbpedia.org/resource/Fantasy
+
+conway - http://dbpedia.org/resource/Conwy
+
+vault - http://dbpedia.org/resource/Bank_vault
+
+jean froissart - http://dbpedia.org/resource/Jean_Froissart
+
+intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
+
+murder - http://dbpedia.org/resource/Murder
+
+robert de belleme - http://dbpedia.org/resource/Robert_of_Bellême,_3rd_Earl_of_Shrewsbury
+
+hereford - http://dbpedia.org/resource/Hereford
+
+water - http://dbpedia.org/resource/Water
+total control - http://dbpedia.org/resource/Total_Control_(TV_series)
+
+teutonic knights - http://dbpedia.org/resource/Teutonic_Order
+
+crathes castle - http://dbpedia.org/resource/Crathes_Castle
+
+majestic - http://dbpedia.org/resource/Majestic_12
+
+ornament - http://dbpedia.org/resource/Decorative_arts
+
+slope - http://dbpedia.org/resource/Slope
+
+energy - http://dbpedia.org/resource/Energy
+
+castle building - http://dbpedia.org/resource/Castle_Building
+
+moat - http://dbpedia.org/resource/Moat
+
+gatehouse - http://dbpedia.org/resource/Gatehouse
+
+turret - http://dbpedia.org/resource/Gun_turret
+
+great hall - http://dbpedia.org/resource/Great_hall
+
+clare - http://dbpedia.org/resource/County_Clare
+
+gwynedd - http://dbpedia.org/resource/Kingdom_of_Gwynedd
+
+crusade - http://dbpedia.org/resource/Crusades
+
+moulding - http://dbpedia.org/resource/Crown_molding
+
+water - http://dbpedia.org/resource/Water
+
+postern - http://dbpedia.org/resource/Postern
+
+work design - http://dbpedia.org/resource/Job_design
+
+tower - http://dbpedia.org/resource/Keep
+military elite - http://dbpedia.org/resource/Special_forces
+
+john cutler - http://dbpedia.org/resource/John_Cutler_(sailor)
+
+gorse - http://dbpedia.org/resource/Ulex
+
+cinderella - http://dbpedia.org/resource/Cinderella_stamp
+
+barricade - http://dbpedia.org/resource/Barricade
+
+cernavoda - http://dbpedia.org/resource/Cernavodă
+
+cluster - http://dbpedia.org/resource/Cluster_munition
+
+harlow - http://dbpedia.org/resource/Jean_Harlow
+
+montreuil - http://dbpedia.org/resource/Domain_of_Montreuil
+
+bell - http://dbpedia.org/resource/Bell_tower
+
+iron - http://dbpedia.org/resource/Cast_iron
+
+engine arm - http://dbpedia.org/resource/Engine_Arm
+
+spur castle - http://dbpedia.org/resource/Spur_castle
+
+gothic novels - http://dbpedia.org/resource/Gothic_fiction
+
+level staff - http://dbpedia.org/resource/Level_staff
+
+middle east - http://dbpedia.org/resource/Middle_East
+
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+
+springboard - http://dbpedia.org/resource/Professional_wrestling_strikes
+
+enceinte - http://dbpedia.org/resource/Enceinte
+
+military operation - http://dbpedia.org/resource/Military_operation
+
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+
+disney - http://dbpedia.org/resource/The_Walt_Disney_Company
+
+king charles - http://dbpedia.org/resource/Charles_I_of_England
+
+system administration - http://dbpedia.org/resource/System_administrator
+
+malbork - http://dbpedia.org/resource/Malbork
+
+gonzales - http://dbpedia.org/resource/Chilly_Gonzales
+
+overgrown - http://dbpedia.org/resource/Overgrown
+
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+
+pop - http://dbpedia.org/resource/Pop_music
+
+javelin - http://dbpedia.org/resource/Pilum
+
+straight flight - http://dbpedia.org/resource/Straight_Flight
+
+mining - http://dbpedia.org/resource/Tunnel_warfare
+
+political history - http://dbpedia.org/resource/Political_history
+
+thurles - http://dbpedia.org/resource/Thurles
+
+agincourt - http://dbpedia.org/resource/Battle_of_Agincourt
+
+heritage - http://dbpedia.org/resource/Cultural_heritage
+
+people today - http://dbpedia.org/resource/People_Today_(magazine)
+
+north wales - http://dbpedia.org/resource/Wales
+
+castle island - http://dbpedia.org/resource/Castleisland
+assault - http://dbpedia.org/resource/Amphibious_warfare
+
+barbican - http://dbpedia.org/resource/Barbican
+
+craignethan castle - http://dbpedia.org/resource/Craignethan_Castle
+
+feudal baron - http://dbpedia.org/resource/English_feudal_barony
+winter - http://dbpedia.org/resource/Winter
+
+ransom - http://dbpedia.org/resource/Ransom
+
+fodder - http://dbpedia.org/resource/Fodder
+
+effigy - http://dbpedia.org/resource/Effigy
+
+quarryman - http://dbpedia.org/resource/Quarry
+
+castelnaudary - http://dbpedia.org/resource/Castelnaudary
+
+welsh marches - http://dbpedia.org/resource/Welsh_Marches
+
+stud - http://dbpedia.org/resource/Wall_stud
+
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+
+farney - http://dbpedia.org/resource/Farney_(barony)
+
+com4 - http://dbpedia.org/resource/DOS
+
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+
+bodiam - http://dbpedia.org/resource/Bodiam
+
+flooring - http://dbpedia.org/resource/Tile
+
+bornholm - http://dbpedia.org/resource/Bornholm
+
+tourist attraction - http://dbpedia.org/resource/Tourist_attraction
+
+arable - http://dbpedia.org/resource/Arable_land
+
+tableaux - http://dbpedia.org/resource/Tableau_vivant
+
+aldeburgh - http://dbpedia.org/resource/Aldeburgh
+
+knights hospitaller - http://dbpedia.org/resource/Knights_Hospitaller
+
+viceregal - http://dbpedia.org/resource/Viceroy
+
+burgh - http://dbpedia.org/resource/Burh
+
+cannibalize - http://dbpedia.org/resource/Cannibalism
+
+smack - http://dbpedia.org/resource/Heroin
+
+fortification - http://dbpedia.org/resource/Castle
+
+switzerland - http://dbpedia.org/resource/Switzerland
+
+northern england - http://dbpedia.org/resource/Northern_England
+
+renaissance - http://dbpedia.org/resource/Renaissance_architecture
+
+wheel - http://dbpedia.org/resource/Wheel
+
+plantation - http://dbpedia.org/resource/Plantations_of_Ireland
+
+magistrate - http://dbpedia.org/resource/Magistrate
+
+tongue - http://dbpedia.org/resource/Language
+
+pardon - http://dbpedia.org/resource/Pardon
+
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+
+solution - http://dbpedia.org/resource/Malta
+
+bourchiers - http://dbpedia.org/resource/Earl_of_Bath
+
+halfway - http://dbpedia.org/resource/Mosborough_(ward)
+
+enclosure castle - http://dbpedia.org/resource/Enclosure_castle
+
+role play - http://dbpedia.org/resource/Role-playing
+
+swine - http://dbpedia.org/resource/Pig
+
+castile - http://dbpedia.org/resource/Crown_of_Castile
+
+timber frame - http://dbpedia.org/resource/Timber_framing
+
+late medieval - http://dbpedia.org/resource/Middle_Ages
+
+impose - http://dbpedia.org/resource/Impose_(magazine)
+
+springhouse - http://dbpedia.org/resource/Spring_house
+
+chester - http://dbpedia.org/resource/Chester
+
+scarred - http://dbpedia.org/resource/Scarred_(TV_series)
+
+repulse - http://dbpedia.org/resource/Sinking_of_Prince_of_Wales_and_Repulse
+
+rely - http://dbpedia.org/resource/Rely_(brand)
+
+craigmillar castle - http://dbpedia.org/resource/Craigmillar_Castle
+
+frankish - http://dbpedia.org/resource/Franks
+
+function - http://dbpedia.org/resource/Role
+
+churchill - http://dbpedia.org/resource/Winston_Churchill
+
+lympne castle - http://dbpedia.org/resource/Lympne_Castle
+
+medieval europe - http://dbpedia.org/resource/Middle_Ages
+
+romantic revival - http://dbpedia.org/resource/Romantic_Revival
+
+fire engine - http://dbpedia.org/resource/Fire_engine
+
+theory - http://dbpedia.org/resource/Theory
+
+traitor - http://dbpedia.org/resource/Treason
+
+governance - http://dbpedia.org/resource/Government
+
+worksheet - http://dbpedia.org/resource/Worksheet
+
+cheshire - http://dbpedia.org/resource/Cheshire
+
+switch - http://dbpedia.org/resource/Railroad_switch
+
+feudal - http://dbpedia.org/resource/Feudalism
+
+bailey - http://dbpedia.org/resource/Inner_bailey
+
+historian - http://dbpedia.org/resource/Historian
+
+urban - http://dbpedia.org/resource/Urban_warfare
+
+cambridge - http://dbpedia.org/resource/Cambridge
+
+syracuse - http://dbpedia.org/resource/Syracuse_Orange_football
+
+thomas - http://dbpedia.org/resource/THOMAS
+
+smyrna - http://dbpedia.org/resource/Smyrna
+
+fresh air - http://dbpedia.org/resource/Fresh_Air
+
+intimidation - http://dbpedia.org/resource/Intimidation
+
+ardent - http://dbpedia.org/resource/Ardent_Records
+
+belfry - http://dbpedia.org/resource/Bell_tower
+
+germany - http://dbpedia.org/resource/Kingdom_of_Germany
+
+communal defence - http://dbpedia.org/resource/Mobbing_(animal_behavior)
+
+arrear - http://dbpedia.org/resource/Arrears
+
+object - http://dbpedia.org/resource/Object-oriented_programming
+
+shropshire - http://dbpedia.org/resource/Shropshire
+
+knights - http://dbpedia.org/resource/Knight
+
+gothic - http://dbpedia.org/resource/Gothic_fiction
+
+austria - http://dbpedia.org/resource/Austria
+
+sénéchal - http://dbpedia.org/resource/Seneschal
+
+heart - http://dbpedia.org/resource/Heart
+
+kinlough - http://dbpedia.org/resource/Kinlough
+
+king henry iii - http://dbpedia.org/resource/Henry_III_of_England
+
+stone - http://dbpedia.org/resource/Masonry
+
+historic site - http://dbpedia.org/resource/Historic_site
+
+trajectory - http://dbpedia.org/resource/Trajectory
+
+reign edwards - http://dbpedia.org/resource/Reign_Edwards
+
+incendiary device - http://dbpedia.org/resource/Incendiary_device
+
+pengersick castle - http://dbpedia.org/resource/Pengersick_Castle
+
+time attack - http://dbpedia.org/resource/Time_attack
+
+horror - http://dbpedia.org/resource/Horror_fiction
+
+castle bailey - http://dbpedia.org/resource/Bailey_(castle)
+
+cathedral city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+bavaria - http://dbpedia.org/resource/Bavaria
+
+latin - http://dbpedia.org/resource/Latin
+fatigue - http://dbpedia.org/resource/Fatigue
+
+bastide - http://dbpedia.org/resource/Bastide
+
+exeter - http://dbpedia.org/resource/Exeter
+
+quotation - http://dbpedia.org/resource/Quotation
+
+royal welsh - http://dbpedia.org/resource/Royal_Welsh
+
+settler - http://dbpedia.org/resource/Settler
+
+az - http://dbpedia.org/resource/Arizona
+
+loom - http://dbpedia.org/resource/Loom
+
+town - http://dbpedia.org/resource/Town
+
+forage - http://dbpedia.org/resource/Foraging
+
+monastery - http://dbpedia.org/resource/Monastery
+
+military administrative - http://dbpedia.org/resource/Military_administration
+
+summer - http://dbpedia.org/resource/Summer
+
+true cross - http://dbpedia.org/resource/True_Cross
+
+charcoal - http://dbpedia.org/resource/Charcoal
+
+harewood castle - http://dbpedia.org/resource/Harewood_Castle
+
+mercenary soldier - http://dbpedia.org/resource/Mercenary
+
+château de najac - http://dbpedia.org/resource/Château_de_Najac
+
+archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
+
+kyme - http://dbpedia.org/resource/Cumae
+
+landscape garden - http://dbpedia.org/resource/English_landscape_garden
+
+liberty - http://dbpedia.org/resource/Liberty
+
+harewood - http://dbpedia.org/resource/Harewood
+
+country house - http://dbpedia.org/resource/English_country_house
+
+cité de carcassonne - http://dbpedia.org/resource/Cité_de_Carcassonne
+
+summer - http://dbpedia.org/resource/Summer_solstice
+
+outcrop - http://dbpedia.org/resource/Outcrop
+
+kinda - http://dbpedia.org/resource/Kindah
+
+dome - http://dbpedia.org/resource/Dome
+
+roman fort - http://dbpedia.org/resource/Castra
+
+escalade - http://dbpedia.org/resource/Escalade
+
+defense update - http://dbpedia.org/resource/Defense_Update
+
+shakespeare - http://dbpedia.org/resource/William_Shakespeare
+
+lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+
+history ireland - http://dbpedia.org/resource/History_Ireland
+
+noble family - http://dbpedia.org/resource/Nobility
+
+renaissance - http://dbpedia.org/resource/Renaissance
+
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+
+palatinate - http://dbpedia.org/resource/County_palatine
+
+colonisation - http://dbpedia.org/resource/Colonialism
+
+social emulation - http://dbpedia.org/resource/Imitation
+
+horse - http://dbpedia.org/resource/Horse
+
+bayeux tapestry - http://dbpedia.org/resource/Bayeux_Tapestry
+
+king john - http://dbpedia.org/resource/John_Balliol
+
+wing - http://dbpedia.org/resource/Wing
+
+medieval english - http://dbpedia.org/resource/Middle_English
+
+popular crusades - http://dbpedia.org/resource/Popular_crusades
+
+prop - http://dbpedia.org/resource/Propeller
+
+wine - http://dbpedia.org/resource/Wine
+
+devastation - http://dbpedia.org/resource/HMS_Devastation_(1871)
+
+cachet - http://dbpedia.org/resource/Cachet
+
+blood - http://dbpedia.org/resource/Blood
+
+krak des chevaliers - http://dbpedia.org/resource/Krak_des_Chevaliers
+
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+
+english literature - http://dbpedia.org/resource/English_literature
+
+drawbridge - http://dbpedia.org/resource/Drawbridge
+
+captor - http://dbpedia.org/resource/Euroradar_CAPTOR
+
+rhodes - http://dbpedia.org/resource/Rhodes
+
+medieval france - http://dbpedia.org/resource/France_in_the_Middle_Ages
+
+romanesque style - http://dbpedia.org/resource/Romanesque_architecture
+
+gentry - http://dbpedia.org/resource/Gentry
+
+essay - http://dbpedia.org/resource/Essay
+
+london class - http://dbpedia.org/resource/London-class_ship_of_the_line
+
+theodosian walls - http://dbpedia.org/resource/Walls_of_Constantinople
+
+quicklime - http://dbpedia.org/resource/Calcium_oxide
+
+dispensation - http://dbpedia.org/resource/Dispensationalism
+belvoir - http://dbpedia.org/resource/Belvoir_Fortress
+
+richard lionheart - http://dbpedia.org/resource/Richard_I_of_England
+
+hereford cathedral school - http://dbpedia.org/resource/Hereford_Cathedral_School
+
+arnside tower - http://dbpedia.org/resource/Arnside_Tower
+
+pouch - http://dbpedia.org/resource/Bag
+
+hard attack - http://dbpedia.org/resource/Liquid_Metal_(Sirius_XM)
+
+cardigan - http://dbpedia.org/resource/Cardigan_(sweater)
+
+trestle - http://dbpedia.org/resource/Trestle_bridge
+
+western europe - http://dbpedia.org/resource/Western_Europe
+
+puzzle - http://dbpedia.org/resource/Puzzle
+
+dream castle - http://dbpedia.org/resource/Dream_Castle_(film)
+
+town - http://dbpedia.org/resource/Market_town
+
+cinderella castle - http://dbpedia.org/resource/Cinderella_Castle
+
+stable - http://dbpedia.org/resource/Stable
+
+communication - http://dbpedia.org/resource/Communication
+
+gothic architecture - http://dbpedia.org/resource/Gothic_architecture
+
+modern history - http://dbpedia.org/resource/Early_modern_period
+
+main centre - http://dbpedia.org/resource/Main_Centre,_Saskatchewan
+
+holy land - http://dbpedia.org/resource/Holy_Land
+
+obsolescence - http://dbpedia.org/resource/Obsolescence
+
+frankenstein - http://dbpedia.org/resource/Frankenstein
+
+trademark - http://dbpedia.org/resource/Trademark
+
+nobleman - http://dbpedia.org/resource/Nobility
+
+white flag - http://dbpedia.org/resource/White_flag
+
+durham - http://dbpedia.org/resource/Durham_Cathedral
+
+alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
+
+tote - http://dbpedia.org/resource/Parimutuel_betting
+
+bent entrance - http://dbpedia.org/resource/Bent_entrance
+
+flanking fire - http://dbpedia.org/resource/Enfilade_and_defilade
+
+grille - http://dbpedia.org/resource/Grille
+
+iolo goch - http://dbpedia.org/resource/Iolo_Goch
+
+english settlement - http://dbpedia.org/resource/English_Settlement
+
+eastern civilization - http://dbpedia.org/resource/Eastern_world
+
+erection - http://dbpedia.org/resource/Erection
+
+heart - http://dbpedia.org/resource/Heart_(symbol)
+
+disease - http://dbpedia.org/resource/Disease
+
+heritage - http://dbpedia.org/resource/History
+
+bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+
+masterful - http://dbpedia.org/resource/Master_of_Puppets_(song)
+
+polygon - http://dbpedia.org/resource/Polygon
+
+breton - http://dbpedia.org/resource/Breton_language
+
+architect - http://dbpedia.org/resource/Architecture
+
+wall painting - http://dbpedia.org/resource/Fresco
+
+eleanor - http://dbpedia.org/resource/Eleanor_of_Castile
+
+crave - http://dbpedia.org/resource/Crave_Entertainment
+
+black flag - http://dbpedia.org/resource/Jolly_Roger
+
+skein - http://dbpedia.org/resource/Ell
+
+chepstow castle - http://dbpedia.org/resource/Chepstow_Castle
+
+marauder - http://dbpedia.org/resource/MARAUDER
+
+ram head - http://dbpedia.org/resource/Ram_Head
+
+david - http://dbpedia.org/resource/David_I_of_Scotland
+
+close range - http://dbpedia.org/resource/Close_Range
+
+northern central - http://dbpedia.org/resource/Northern_Central_Railway
+
+cartoon - http://dbpedia.org/resource/Cartoon
+
+gift shop - http://dbpedia.org/resource/Gift_shop
+
+decayed - http://dbpedia.org/resource/Decomposition
+
+city - http://dbpedia.org/resource/City
+
+krak - http://dbpedia.org/resource/Krak_des_Chevaliers
+
+exchequer - http://dbpedia.org/resource/Exchequer
+
+spice - http://dbpedia.org/resource/Spice
+
+family - http://dbpedia.org/resource/Family
+
+pembroke castle - http://dbpedia.org/resource/Pembroke_Castle
+
+acre - http://dbpedia.org/resource/Acre
+
+siegecraft - http://dbpedia.org/resource/Siege
+
+notre dame cathedral - http://dbpedia.org/resource/Notre-Dame_de_Paris
+
+liddel - http://dbpedia.org/resource/Liddel_Water
+
+harewood estate - http://dbpedia.org/resource/Harewood_House
+
+peace treaty - http://dbpedia.org/resource/Treaty_of_Versailles
+
+glamorgan - http://dbpedia.org/resource/Glamorgan
+
+fortified tower - http://dbpedia.org/resource/Fortified_tower
+
+straw - http://dbpedia.org/resource/Straw
+
+evolution - http://dbpedia.org/resource/Evolution
+
+relic - http://dbpedia.org/resource/Relic
+
+scorch - http://dbpedia.org/resource/Scorch_(TV_series)
+
+siege castle - http://dbpedia.org/resource/Counter-castle
+
+contour - http://dbpedia.org/resource/Contour_line
+
+fable - http://dbpedia.org/resource/Fable
+
+cask - http://dbpedia.org/resource/Barrel
+
+welsh wars - http://dbpedia.org/resource/Wales_in_the_Late_Middle_Ages
+
+silt - http://dbpedia.org/resource/Silt
+
+european castle - http://dbpedia.org/resource/Castle
+
+early medieval - http://dbpedia.org/resource/Early_Middle_Ages
+
+gunner - http://dbpedia.org/resource/Artillery
+
+coast - http://dbpedia.org/resource/Coast
+
+kenilworth castle - http://dbpedia.org/resource/Kenilworth_Castle
+
+harfleur - http://dbpedia.org/resource/Harfleur
+
+administration - http://dbpedia.org/resource/Route_of_administration
+
+scramble - http://dbpedia.org/resource/Golf
+
+onrush - http://dbpedia.org/resource/Onrush
+
+crimson - http://dbpedia.org/resource/Crimson
+
+ditch - http://dbpedia.org/resource/Moat
+
+slinger - http://dbpedia.org/resource/Sling_(weapon)
+
+warwolf - http://dbpedia.org/resource/Warwolf
+
+pop culture - http://dbpedia.org/resource/Popular_culture
+
+llywelyn - http://dbpedia.org/resource/Llywelyn_ap_Gruffudd
+
+northern europe - http://dbpedia.org/resource/Northern_Europe
+
+entail - http://dbpedia.org/resource/Fee_tail
+
+river thames - http://dbpedia.org/resource/River_Thames
+
+timber - http://dbpedia.org/resource/Lumber
+
+fiefdom - http://dbpedia.org/resource/Fief
+
+criminal law - http://dbpedia.org/resource/Law
+
+late middle ages - http://dbpedia.org/resource/Late_Middle_Ages
+
+defender - http://dbpedia.org/resource/Defendant
+
+carcassonne - http://dbpedia.org/resource/Carcassonne
+
+pin - http://dbpedia.org/resource/Brooch
+
+otranto - http://dbpedia.org/resource/The_Castle_of_Otranto
+
+brick - http://dbpedia.org/resource/Brick
+
+dowse - http://dbpedia.org/resource/Dowsing
+
+a.d. - http://dbpedia.org/resource/Anno_Domini
+
+mathematician - http://dbpedia.org/resource/Mathematics
+
+william de aldeburgh - http://dbpedia.org/resource/William_de_Aldeburgh,_1st_Baron_Aldeburgh
+
+wave - http://dbpedia.org/resource/Wind_wave
+
+chapel - http://dbpedia.org/resource/Chapel
+
+ratchet - http://dbpedia.org/resource/Socket_wrench
+
+spring water - http://dbpedia.org/resource/Mineral_water
+
+yield - http://dbpedia.org/resource/TNT_equivalent
+
+light - http://dbpedia.org/resource/Light_machine_gun
+
+killing ground - http://dbpedia.org/resource/Killing_Ground
+
+mountain pass - http://dbpedia.org/resource/Mountain_pass
+
+bookstore - http://dbpedia.org/resource/Bookselling
+
+fashion - http://dbpedia.org/resource/Fashion
+
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+
+john felton - http://dbpedia.org/resource/John_Felton_(assassin)
+
+greeks - http://dbpedia.org/resource/Ancient_Greece
+
+administration - http://dbpedia.org/resource/Public_administration
+
+pennsylvania - http://dbpedia.org/resource/Pennsylvania
+
+tunnel - http://dbpedia.org/resource/Tunnel
+
+penthouse - http://dbpedia.org/resource/Penthouse_apartment
+
+defensive weapon - http://dbpedia.org/resource/Self-defense
+
+siege week - http://dbpedia.org/resource/Siege_Week
+
+westminster - http://dbpedia.org/resource/Palace_of_Westminster
+
+donjon - http://dbpedia.org/resource/Keep
+
+insanity - http://dbpedia.org/resource/Insanity
+
+ram - http://dbpedia.org/resource/Battering_ram
+
+map - http://dbpedia.org/resource/Map
+
+wall walk - http://dbpedia.org/resource/Chemin_de_ronde
+
+vulnerable - http://dbpedia.org/resource/Vulnerability
+
+chamber - http://dbpedia.org/resource/Room
+
+ward - http://dbpedia.org/resource/Wards_of_the_City_of_London
+
+arrow - http://dbpedia.org/resource/Arrow
+monastery - http://dbpedia.org/resource/Abbey
+
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+
+adorn - http://dbpedia.org/resource/Adorn_(song)
+
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+
+harlech castle - http://dbpedia.org/resource/Harlech_Castle
+
+armor - http://dbpedia.org/resource/Armour
+
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+
+gundulf - http://dbpedia.org/resource/Gundulf_of_Rochester
+
+rhombus - http://dbpedia.org/resource/Rhombus
+
+wage - http://dbpedia.org/resource/Wage
+
+yardley - http://dbpedia.org/resource/Norman_Yardley
+
+defender - http://dbpedia.org/resource/Association_football
+
+neuschwanstein - http://dbpedia.org/resource/Neuschwanstein_Castle
+
+strain - http://dbpedia.org/resource/Cannabis_strains
+
+corvin castle - http://dbpedia.org/resource/Corvin_Castle
+
+weapon - http://dbpedia.org/resource/Weapon
+
+mound - http://dbpedia.org/resource/Tumulus
+
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+
+lice - http://dbpedia.org/resource/Louse
+
+percys - http://dbpedia.org/resource/House_of_Percy
+
+battlements - http://dbpedia.org/resource/Battlement
+
+freedom - http://dbpedia.org/resource/Freedom_of_the_City
+
+bunratty castle - http://dbpedia.org/resource/Bunratty_Castle
+
+rosieres - http://dbpedia.org/resource/Operation_Michael
+
+golden age - http://dbpedia.org/resource/Golden_Age
+
+cafe - http://dbpedia.org/resource/Coffeehouse
+
+ramming - http://dbpedia.org/resource/Ramming
+
+delaware - http://dbpedia.org/resource/Delaware
+
+stock - http://dbpedia.org/resource/Livestock
+
+narrative - http://dbpedia.org/resource/Narrative
+
+sand castle - http://dbpedia.org/resource/Sand_art_and_play
+
+emperor maximus - http://dbpedia.org/resource/Magnus_Maximus
+
+architectural style - http://dbpedia.org/resource/Architecture
+
+arrow slit - http://dbpedia.org/resource/Arrowslit
+
+walter - http://dbpedia.org/resource/Walter_(wrestler)
+
+root - http://dbpedia.org/resource/Semitic_root
+
+timber - http://dbpedia.org/resource/Timber_framing
+
+mouse - http://dbpedia.org/resource/Computer_mouse
+
+armored knight - http://dbpedia.org/resource/Knight
+
+kaffa - http://dbpedia.org/resource/Feodosia
+
+virulent - http://dbpedia.org/resource/Virulence
+
+winchester - http://dbpedia.org/resource/Winchester
+
+ford - http://dbpedia.org/resource/Ford_Motor_Company
+
+strike - http://dbpedia.org/resource/Strike_action
+
+citadel - http://dbpedia.org/resource/Citadel
+
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+
+muslim - http://dbpedia.org/resource/Muslims
+
+silesia - http://dbpedia.org/resource/Silesia
+
+wheel - http://dbpedia.org/resource/Potter's_wheel
+
+mount - http://dbpedia.org/resource/Working_animal
+
+henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+
+battery - http://dbpedia.org/resource/Artillery_battery
+
+compact - http://dbpedia.org/resource/Compact_car
+
+lego - http://dbpedia.org/resource/Lego
+
+owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
+
+leisure - http://dbpedia.org/resource/Leisure
+
+bird - http://dbpedia.org/resource/Poultry
+
+fault - http://dbpedia.org/resource/Electrical_fault
+
+dark tower - http://dbpedia.org/resource/The_Dark_Tower_(series)
+
+crossbow - http://dbpedia.org/resource/Crossbow
+
+william marshall - http://dbpedia.org/resource/William_Marshal,_1st_Earl_of_Pembroke
+
+jar - http://dbpedia.org/resource/Jar
+
+roller - http://dbpedia.org/resource/Wheel
+
+concentric design - http://dbpedia.org/resource/Concentric_castle
+
+english heritage - http://dbpedia.org/resource/English_Heritage
+
+parliament - http://dbpedia.org/resource/Parliament_of_England
+
+western europe - http://dbpedia.org/resource/Western_world
+
+northern tower - http://dbpedia.org/resource/Northern_Tower
+
+king richard ii - http://dbpedia.org/resource/Richard_II_of_England
+
+chateau - http://dbpedia.org/resource/Château
+
+hunger - http://dbpedia.org/resource/Starvation
+
+dumfries castle - http://dbpedia.org/resource/Dumfries_Castle
+
+owain glyn dwr - http://dbpedia.org/resource/Owain_Glyndŵr
+
+bridge castle - http://dbpedia.org/resource/Bridge_castle
+
+pot - http://dbpedia.org/resource/Pottery
+
+maxwell - http://dbpedia.org/resource/Maxwell_(unit)
+
+ton - http://dbpedia.org/resource/Ton
+
+uprising - http://dbpedia.org/resource/Rebellion
+
+dog - http://dbpedia.org/resource/Dog
+
+michael prestwich - http://dbpedia.org/resource/Michael_Prestwich
+
+endeavour - http://dbpedia.org/resource/HMS_Endeavour
+
+church - http://dbpedia.org/resource/Church_architecture
+
+spooky - http://dbpedia.org/resource/Spooky_the_Tuff_Little_Ghost
+
+aveyron - http://dbpedia.org/resource/Aveyron
+
+castle howard - http://dbpedia.org/resource/Castle_Howard
+cross wall - http://dbpedia.org/resource/Cross-wall
+
+common control - http://dbpedia.org/resource/Common_control
+
+uttoxeter - http://dbpedia.org/resource/Uttoxeter
+
+carlisle - http://dbpedia.org/resource/Carlisle
+
+rampart - http://dbpedia.org/resource/Defensive_wall
+
+batter - http://dbpedia.org/resource/Assault
+
+rothenburg - http://dbpedia.org/resource/Rothenburg_ob_der_Tauber
+
+royalty - http://dbpedia.org/resource/Monarch
+
+white elephant - http://dbpedia.org/resource/White_elephant
+
+liquid - http://dbpedia.org/resource/Fluid
+
+primary source - http://dbpedia.org/resource/Primary_source
+
+marcher lord - http://dbpedia.org/resource/Marcher_Lord
+
+château de chenonceau - http://dbpedia.org/resource/Château_de_Chenonceau
+
+counterweight - http://dbpedia.org/resource/Counterweight
+
+molding - http://dbpedia.org/resource/Injection_moulding
+
+iron - http://dbpedia.org/resource/Iron
+
+dracula - http://dbpedia.org/resource/Dracula
+
+cathedral church - http://dbpedia.org/resource/Cathedral
+
+bartizan - http://dbpedia.org/resource/Bartizan
+
+canterbury - http://dbpedia.org/resource/Canterbury
+
+trebuchet - http://dbpedia.org/resource/Trebuchet
+
+castle architecture - http://dbpedia.org/resource/Castle
+
+light - http://dbpedia.org/resource/Light
+
+dissent - http://dbpedia.org/resource/English_Dissenters
+
+hunter - http://dbpedia.org/resource/Hunting
+
+south lanarkshire - http://dbpedia.org/resource/South_Lanarkshire
+
+defensive ditch - http://dbpedia.org/resource/Ditch_(fortification)
+
+fireproof - http://dbpedia.org/resource/Fireproofing
+
+arnulf de montgomery - http://dbpedia.org/resource/Arnulf_de_Montgomery
+
+torre grossa - http://dbpedia.org/resource/Torre_Grossa
+
+white tower - http://dbpedia.org/resource/Tower_of_London
+
+pounds - http://dbpedia.org/resource/Pound_sterling
+
+castelnuovo bocca d'adda - http://dbpedia.org/resource/Castelnuovo_Bocca_d'Adda
+
+loop - http://dbpedia.org/resource/Aerobatic_maneuver
+
+peasant - http://dbpedia.org/resource/Peasant
+
+mediæval - http://dbpedia.org/resource/Middle_Ages
+
+resistance - http://dbpedia.org/resource/Resistance_movement
+
+ron - http://dbpedia.org/resource/Ron_Weasley
+
+scorched earth - http://dbpedia.org/resource/Scorched_earth
+
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+
+poet - http://dbpedia.org/resource/Poetry
+
+edwardian - http://dbpedia.org/resource/Edward_I_of_England
+
+constable - http://dbpedia.org/resource/Castellan
+
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+
+military theater - http://dbpedia.org/resource/Theater_(warfare)
+
+joist - http://dbpedia.org/resource/Joist
+
+lock - http://dbpedia.org/resource/Lock_and_key
+
+victorian - http://dbpedia.org/resource/Victorian_era
+
+holy land crusades - http://dbpedia.org/resource/Crusades
+
+meat - http://dbpedia.org/resource/Meat
+
+status symbol - http://dbpedia.org/resource/Status_symbol
+
+blockade - http://dbpedia.org/resource/Blockade
+
+architecture - http://dbpedia.org/resource/Architecture
+
+sulfur - http://dbpedia.org/resource/Sulfur
+
+queen - http://dbpedia.org/resource/Queen_consort
+
+immunity - http://dbpedia.org/resource/Sovereign_immunity
+
+stoke - http://dbpedia.org/resource/Stoke-on-Trent
+
+arc - http://dbpedia.org/resource/Electric_arc
+
+yverdon - http://dbpedia.org/resource/Yverdon-les-Bains_Castle
+
+drop curtain - http://dbpedia.org/resource/Theater_drapes_and_stage_curtains
+
+louth - http://dbpedia.org/resource/County_Louth
+
+lancashire - http://dbpedia.org/resource/Lancashire
+
+warfare - http://dbpedia.org/resource/Medieval_warfare
+
+alps - http://dbpedia.org/resource/Alps
+
+fireplace - http://dbpedia.org/resource/Fireplace
+
+window frame - http://dbpedia.org/resource/Window
+
+beauty - http://dbpedia.org/resource/Beauty
+
+mystery - http://dbpedia.org/resource/Mystery_fiction
+
+asylum - http://dbpedia.org/resource/Refugee
+
+proliferation - http://dbpedia.org/resource/Nuclear_proliferation
+
+bridge tower - http://dbpedia.org/resource/Bridge_tower
+
+pig - http://dbpedia.org/resource/Pig
+
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+
+castle moat - http://dbpedia.org/resource/Moat
+
+bore - http://dbpedia.org/resource/Gun_barrel
+
+ludwig ii - http://dbpedia.org/resource/Ludwig_II_of_Bavaria
+
+nest - http://dbpedia.org/resource/Defensive_fighting_position
+
+teviot - http://dbpedia.org/resource/River_Teviot
+
+king noble - http://dbpedia.org/resource/Reynard_the_Fox
+
+mediaeval architecture - http://dbpedia.org/resource/Medieval_architecture
+
+article - http://dbpedia.org/resource/Falklands_War
+
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+
+mansion - http://dbpedia.org/resource/Mansion
+
+hubert de burgh - http://dbpedia.org/resource/Hubert_de_Burgh,_1st_Earl_of_Kent
+
+town life - http://dbpedia.org/resource/Town_Life
+
+cell - http://dbpedia.org/resource/Prison_cell
+
+caernarfon - http://dbpedia.org/resource/Caernarfon_Castle
+
+delve - http://dbpedia.org/resource/Microsoft_Office_shared_tools
+
+grace - http://dbpedia.org/resource/Divine_grace
+
+build order - http://dbpedia.org/resource/Build_order
+
+wax - http://dbpedia.org/resource/Wax
+
+secular - http://dbpedia.org/resource/Secularity
+
+chevenon - http://dbpedia.org/resource/Chevenon
+
+gascony - http://dbpedia.org/resource/Gascony
+
+political economic - http://dbpedia.org/resource/Political_economy
+
+tower house - http://dbpedia.org/resource/Tower_house
+
+royalist - http://dbpedia.org/resource/Cavalier
+
+spis - http://dbpedia.org/resource/Spiš
+
+stirling castle - http://dbpedia.org/resource/Stirling_Castle
+
+tuscany - http://dbpedia.org/resource/Tuscany
+
+dark age - http://dbpedia.org/resource/Early_Middle_Ages
+
+imprint - http://dbpedia.org/resource/Printing
+
+bread - http://dbpedia.org/resource/Sacramental_bread
+
+neith - http://dbpedia.org/resource/Neith
+
+capital - http://dbpedia.org/resource/Capital_punishment
+
+prince bishop - http://dbpedia.org/resource/Prince-bishop
+
+scandinavia - http://dbpedia.org/resource/Scandinavia
+
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
+
+castle house - http://dbpedia.org/resource/Sheffield_Co-operative_Society
+
+fort henry - http://dbpedia.org/resource/Battle_of_Fort_Henry
+
+beam - http://dbpedia.org/resource/Bending
+
+ass - http://dbpedia.org/resource/Donkey
+
+castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
+
+horse - http://dbpedia.org/resource/Cavalry
+
+torture - http://dbpedia.org/resource/Torture
+
+crimean peninsula - http://dbpedia.org/resource/Crimea
+
+remarkable - http://dbpedia.org/resource/ReMarkable
+
+chillon castle - http://dbpedia.org/resource/Chillon_Castle
+
+asian - http://dbpedia.org/resource/Asia
+
+mullioned - http://dbpedia.org/resource/Mullion
+
+reliant - http://dbpedia.org/resource/Reliant_Motors
+
+galway - http://dbpedia.org/resource/Galway
+
+hunyad - http://dbpedia.org/resource/Hunedoara
+
+trent - http://dbpedia.org/resource/River_Trent
+
+memory - http://dbpedia.org/resource/Memory
+
+arthur - http://dbpedia.org/resource/King_Arthur
+
+lancelot - http://dbpedia.org/resource/Lancelot
+
+scorpion - http://dbpedia.org/resource/Scorpion
+
+latrine - http://dbpedia.org/resource/Latrine
+
+large wall - http://dbpedia.org/resource/Lasiommata_maera
+
+anglesey - http://dbpedia.org/resource/Anglesey
+
+michael edwards - http://dbpedia.org/resource/Eddie_the_Eagle
+
+manufacturing - http://dbpedia.org/resource/Manufacturing
+
+spiral staircase - http://dbpedia.org/resource/Stairs
+
+onager - http://dbpedia.org/resource/Onager
+
+import - http://dbpedia.org/resource/Import
+
+obligate - http://dbpedia.org/resource/Obligate_parasite
+
+royalty - http://dbpedia.org/resource/Monarchy
+
+english army - http://dbpedia.org/resource/English_Army
+
+settler town - http://dbpedia.org/resource/Sierra_Leone
+
+integral - http://dbpedia.org/resource/Integral
+
+chateau gaillard - http://dbpedia.org/resource/Château_Gaillard
+
+country style - http://dbpedia.org/resource/Country_Style
+
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+
+black death - http://dbpedia.org/resource/Black_Death
+
+crack - http://dbpedia.org/resource/Structural_integrity_and_failure
+
+henry iv - http://dbpedia.org/resource/Henry_IV_of_England
+
+crenellation - http://dbpedia.org/resource/Battlement
+
+battering ram - http://dbpedia.org/resource/Battering_ram
+
+shrewsbury - http://dbpedia.org/resource/Shrewsbury
+
+burg eltz - http://dbpedia.org/resource/Eltz_Castle
+
+horror story - http://dbpedia.org/resource/Horror_fiction
+
+bridge - http://dbpedia.org/resource/Bridge
+
+hobby - http://dbpedia.org/resource/Hobby
+
+space tower - http://dbpedia.org/resource/Non-rocket_spacelaunch
+
+tartar - http://dbpedia.org/resource/Calculus_(dental)
+
+genre fiction - http://dbpedia.org/resource/Genre_fiction
+
+ufo - http://dbpedia.org/resource/Unidentified_flying_object
+
+usher - http://dbpedia.org/resource/Rashidun_Caliphate
+
+medieval period - http://dbpedia.org/resource/Middle_Ages
+
+glass - http://dbpedia.org/resource/Glass
+
+propel - http://dbpedia.org/resource/Steroid_eluting_sinus_stent
+
+oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+
+dominion - http://dbpedia.org/resource/Dominion
+
+tower castle - http://dbpedia.org/resource/Tower_castle
+
+welsh law - http://dbpedia.org/resource/Welsh_law
+
+philip davis - http://dbpedia.org/resource/Phil_Davis_(actor)
+
+beaumaris castle - http://dbpedia.org/resource/Beaumaris_Castle
+
+emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
+
+freedom - http://dbpedia.org/resource/Free_will
+
+fire arrow - http://dbpedia.org/resource/Fire_arrow
+
+concentric - http://dbpedia.org/resource/Concentric_castle
+
+town - http://dbpedia.org/resource/German_town_law
+
+carriage - http://dbpedia.org/resource/Typewriter
+
+exceed - http://dbpedia.org/resource/Hummingbird_Ltd.
+
+milford haven - http://dbpedia.org/resource/Milford_Haven_Waterway
+
+carcass - http://dbpedia.org/resource/Cadaver
+
+draw bridge - http://dbpedia.org/resource/Drawbridge
+
+charles castle - http://dbpedia.org/resource/Charles_Castle
+
+pavise - http://dbpedia.org/resource/Pavise
+
+patrician - http://dbpedia.org/resource/Norwegian_patriciate
+
+castle guard - http://dbpedia.org/resource/Castle-guard
+
+soldier - http://dbpedia.org/resource/Soldier
+
+amazing - http://dbpedia.org/resource/Amazing_Stories
+
+gerald de windsor - http://dbpedia.org/resource/Gerald_de_Windsor
+
+llywelyn ap gruffydd - http://dbpedia.org/resource/Llywelyn_ap_Gruffudd
+
+warwickshire - http://dbpedia.org/resource/Warwickshire
+
+wattle - http://dbpedia.org/resource/Wattle_and_daub
+
+main castle - http://dbpedia.org/resource/Inner_bailey
+
+lever - http://dbpedia.org/resource/Lever
+
+colvin - http://dbpedia.org/resource/Howard_Colvin
+
+mural - http://dbpedia.org/resource/Mural
+
+law - http://dbpedia.org/resource/English_law
+
+siege engine - http://dbpedia.org/resource/Siege_engine
+
+love - http://dbpedia.org/resource/Love
+
+gear - http://dbpedia.org/resource/Landing_gear
+
+ladder - http://dbpedia.org/resource/Ladder
+
+helmet - http://dbpedia.org/resource/Helmet
+
+crenellate - http://dbpedia.org/resource/Battlement
+
+military orders - http://dbpedia.org/resource/Military_order_(religious_society)
+
+livestock - http://dbpedia.org/resource/Livestock
+
+engine - http://dbpedia.org/resource/Steam_engine
+
+military installation - http://dbpedia.org/resource/Military_base
+
+poem - http://dbpedia.org/resource/Poetry
+
+claustrophobic - http://dbpedia.org/resource/Claustrophobia
+
+slovakia - http://dbpedia.org/resource/Slovakia
+
+military fortification - http://dbpedia.org/resource/Fortification
+
+novelist - http://dbpedia.org/resource/Novel
+
+bit - http://dbpedia.org/resource/Horse_tack
+
+flanking tower - http://dbpedia.org/resource/Flanking_tower
+
+village - http://dbpedia.org/resource/Village
+
+bastion - http://dbpedia.org/resource/Bastion
+
+defence - http://dbpedia.org/resource/Military
+
+capitulation - http://dbpedia.org/resource/Armistice_of_Cassibile
+
+space - http://dbpedia.org/resource/Outer_space
+defense - http://dbpedia.org/resource/Military
+
+fortified wall - http://dbpedia.org/resource/Defensive_wall
+
+urban - http://dbpedia.org/resource/Urban_area
+
+monster - http://dbpedia.org/resource/Monster
+
+caerlaverock - http://dbpedia.org/resource/Caerlaverock_Castle
+
+hugh le despenser - http://dbpedia.org/resource/Hugh_Despenser_the_younger
+
+prop - http://dbpedia.org/resource/Theatrical_property
+
+normans - http://dbpedia.org/resource/Normans
+
+truce - http://dbpedia.org/resource/Ceasefire
+
+archimedes - http://dbpedia.org/resource/Buoyancy
+
+animal hide - http://dbpedia.org/resource/Hide_(skin)
+
+horace walpole - http://dbpedia.org/resource/Horace_Walpole
+
+engineer - http://dbpedia.org/resource/Combat_engineer
+
+thrust - http://dbpedia.org/resource/Rocket
+
+nevilles - http://dbpedia.org/resource/House_of_Neville
+
+role play - http://dbpedia.org/resource/Role-playing_game
+
+harlech - http://dbpedia.org/resource/Harlech_Castle
+
+medieval warfare - http://dbpedia.org/resource/Medieval_warfare
+
+lord family - http://dbpedia.org/resource/Lord_family
+
+cannon - http://dbpedia.org/resource/Cannon
+
+economy - http://dbpedia.org/resource/Economy
+
+sizergh - http://dbpedia.org/resource/Sizergh_Castle_and_Garden
+
+gothic style - http://dbpedia.org/resource/Gothic_architecture
+
+brother robert - http://dbpedia.org/resource/Brother_Robert
+
+crop - http://dbpedia.org/resource/Agriculture
+
+east sussex - http://dbpedia.org/resource/East_Sussex
+
+great country house - http://dbpedia.org/resource/English_country_house
+
+protocol - http://dbpedia.org/resource/Treaty
+
+court - http://dbpedia.org/resource/Courtyard
+
+crenellated - http://dbpedia.org/resource/Battlement
+
+return fire - http://dbpedia.org/resource/Return_Fire
+
+device fort - http://dbpedia.org/resource/Device_Forts
+
+early modern - http://dbpedia.org/resource/Early_modern_period
+
+snowdonia - http://dbpedia.org/resource/Snowdonia
+
+7 mile - http://dbpedia.org/resource/7_Mile_(group)
+
+madog - http://dbpedia.org/resource/Madoc
+
+parade - http://dbpedia.org/resource/Military_parade
+
+spirit - http://dbpedia.org/resource/Spirit
+
+container - http://dbpedia.org/resource/Intermodal_container
+
+edward - http://dbpedia.org/resource/Edward_I_of_England
+
+coin - http://dbpedia.org/resource/Coin
+
+hotmail.com - http://dbpedia.org/resource/Outlook.com
+
+rural community - http://dbpedia.org/resource/Administrative_divisions_of_Armenia
+
+revolt - http://dbpedia.org/resource/Rebellion
+
+gunpowder - http://dbpedia.org/resource/Early_modern_warfare
+
+royal county - http://dbpedia.org/resource/Counties_of_Hungary_(before_1920)
+
+roger bigod - http://dbpedia.org/resource/Roger_Bigod_of_Norfolk
+
+principality - http://dbpedia.org/resource/Principality
+
+ulm - http://dbpedia.org/resource/Ulm
+
+ballast - http://dbpedia.org/resource/Ballast
+
+grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
+
+safe room - http://dbpedia.org/resource/Safe_room
+
+formidable - http://dbpedia.org/resource/French_ship_Formidable
+
+conway castle - http://dbpedia.org/resource/Conwy_Castle
+
+lincolnshire - http://dbpedia.org/resource/Lincolnshire
+
+iron - http://dbpedia.org/resource/Wrought_iron
+
+welsh english - http://dbpedia.org/resource/Welsh_English
+
+sap - http://dbpedia.org/resource/Sapping
+
+watch tower - http://dbpedia.org/resource/Watchtower
+
+edward strong - http://dbpedia.org/resource/Edward_Strong
+
+benighted - http://dbpedia.org/resource/Benighted
+
+noble - http://dbpedia.org/resource/Nobility
+
+pitch battle - http://dbpedia.org/resource/Pitch_Battle
+
+cornwall - http://dbpedia.org/resource/Cornwall
+
+lead castle - http://dbpedia.org/resource/Lead_castle
+
+heraldry - http://dbpedia.org/resource/Heraldry
+
+flammable - http://dbpedia.org/resource/Flamethrower
+
+buttress - http://dbpedia.org/resource/Buttress
+
+weather - http://dbpedia.org/resource/Weather
+
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+
+pembroke - http://dbpedia.org/resource/Pembroke_Parish
+
+seep - http://dbpedia.org/resource/Soil_mechanics
+
+battlement - http://dbpedia.org/resource/Battlement
+
+die - http://dbpedia.org/resource/Death
+
+pastoral - http://dbpedia.org/resource/Pasture
+
+copyright - http://dbpedia.org/resource/Copyright
+
+cywyddau - http://dbpedia.org/resource/Cywydd
+
+disney princess - http://dbpedia.org/resource/Disney_Princess
+
+earl - http://dbpedia.org/resource/Earl
+
+glean - http://dbpedia.org/resource/Gleaning
+
+welsh history - http://dbpedia.org/resource/History_of_Wales
+
+literature - http://dbpedia.org/resource/Literature
+
+malbork castle - http://dbpedia.org/resource/Malbork_Castle
+
+gawthorpe hall - http://dbpedia.org/resource/Gawthorpe_Hall
+
+hair - http://dbpedia.org/resource/Hair
+
+ballista - http://dbpedia.org/resource/Ballista
+
+st10 - http://dbpedia.org/resource/C166_family
+
+castle fraser - http://dbpedia.org/resource/Castle_Fraser
+
+eastern europe - http://dbpedia.org/resource/Eastern_Europe
+
+medieval - http://dbpedia.org/resource/Middle_Ages
+
+urine - http://dbpedia.org/resource/Urination
+
+wholesale - http://dbpedia.org/resource/Wholesaling
+
+gable - http://dbpedia.org/resource/Gable
+
+tree - http://dbpedia.org/resource/Tree
+
+urban - http://dbpedia.org/resource/Urbanization
+
+building material - http://dbpedia.org/resource/Building_material
+
+middle age - http://dbpedia.org/resource/Middle_age
+
+caernarvon - http://dbpedia.org/resource/Caernarfonshire
+
+agriculture - http://dbpedia.org/resource/Agriculture
+
+arrow slits - http://dbpedia.org/resource/Arrowslit
+
+administrative center - http://dbpedia.org/resource/Capital_city
+
+social center - http://dbpedia.org/resource/Community_centre
+
+independent - http://dbpedia.org/resource/Independence
+
+manor - http://dbpedia.org/resource/Manor_house
+
+european history - http://dbpedia.org/resource/History_of_Europe
+
+furness peninsula - http://dbpedia.org/resource/Furness
+
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+
+fortress - http://dbpedia.org/resource/Castle
+
+germany - http://dbpedia.org/resource/German_Empire
+
+chimney - http://dbpedia.org/resource/Chimney
+
+aberdeenshire - http://dbpedia.org/resource/Aberdeenshire
+
+Lion Heart - http://dbpedia.org/resource/Lion_Heart_(song)
+
+stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
+
+tortoise - http://dbpedia.org/resource/Tortoise
+
+scottish borders - http://dbpedia.org/resource/Anglo-Scottish_border
+
+wharfedale - http://dbpedia.org/resource/Wharfedale
+
+stone castle - http://dbpedia.org/resource/Stone_Castle
+
+concentric castle - http://dbpedia.org/resource/Concentric_castle
+
+paris - http://dbpedia.org/resource/Paris
+
+fuel - http://dbpedia.org/resource/Fuel
+
+torsion - http://dbpedia.org/resource/Torsion_spring
+
+wall tower - http://dbpedia.org/resource/Fortified_tower
+
+nobility - http://dbpedia.org/resource/Nobility
+
+technology change - http://dbpedia.org/resource/Technological_change
+
+famine - http://dbpedia.org/resource/Famine
+
+syria - http://dbpedia.org/resource/Syria
+
+arrow - http://dbpedia.org/resource/Bow_and_arrow
+
+siege tower - http://dbpedia.org/resource/Siege_tower
+
+wwii - http://dbpedia.org/resource/World_War_II
+
+stone throw - http://dbpedia.org/resource/Stone_throwing
+
+pinnacle - http://dbpedia.org/resource/Pinnacle
+
+negotiation - http://dbpedia.org/resource/Negotiation
+
+crenelation - http://dbpedia.org/resource/Battlement
+
+ghoul - http://dbpedia.org/resource/Ghoul
+
+hill fort - http://dbpedia.org/resource/Hillfort
+
+tipperary - http://dbpedia.org/resource/County_Tipperary
+harewood house - http://dbpedia.org/resource/Harewood_House
+great tower - http://dbpedia.org/resource/Keep
+
+caen - http://dbpedia.org/resource/Caen
+
+manor house - http://dbpedia.org/resource/Manor_house
+
+roman empire - http://dbpedia.org/resource/Roman_Empire
+
+zwinger - http://dbpedia.org/resource/Zwinger
+
+concentration - http://dbpedia.org/resource/Nazi_concentration_camps
+
+military unit - http://dbpedia.org/resource/Military_organization
+
+poland - http://dbpedia.org/resource/Poland
+
+hoist - http://dbpedia.org/resource/Glossary_of_vexillology
+
+middle ages - http://dbpedia.org/resource/Middle_Ages
+
+innovation - http://dbpedia.org/resource/Innovation
+
+garrison - http://dbpedia.org/resource/Garrison
+
+bóbr - http://dbpedia.org/resource/Bóbr
+
+prestwich - http://dbpedia.org/resource/Prestwich
+
+coloring book - http://dbpedia.org/resource/Coloring_book
+
+pummel - http://dbpedia.org/resource/Pummel_(album)
+
+usher - http://dbpedia.org/resource/Schoolmaster
+
+big city - http://dbpedia.org/resource/Lenny_White
+
+chess - http://dbpedia.org/resource/Chess
+
+feud - http://dbpedia.org/resource/Feudalism
+
+caerphilly castle - http://dbpedia.org/resource/Caerphilly_Castle
+
+anglicised - http://dbpedia.org/resource/English_language
+
+relief - http://dbpedia.org/resource/Terrain
+
+clothing - http://dbpedia.org/resource/Clothing
+
+seal - http://dbpedia.org/resource/Pinniped
+
+transport - http://dbpedia.org/resource/Transport
+
+edward master - http://dbpedia.org/resource/Edward_Master
+
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+
+st. george - http://dbpedia.org/resource/Saint_George
+
+prerogative - http://dbpedia.org/resource/Royal_prerogative
+
+rope - http://dbpedia.org/resource/Rope
+
+daub - http://dbpedia.org/resource/Wattle_and_daub
+
+amazon.com - http://dbpedia.org/resource/Amazon_(company)
+
+medieval gothic architecture - http://dbpedia.org/resource/Gothic_architecture
+
+toy - http://dbpedia.org/resource/Toy
+
+dark secret - http://dbpedia.org/resource/Dark_Secret_(film)
+
+settlement - http://dbpedia.org/resource/Town
+
+military rule - http://dbpedia.org/resource/Martial_law
+
+civil war - http://dbpedia.org/resource/English_Civil_War
+
+denmark - http://dbpedia.org/resource/Denmark
+
+norman period - http://dbpedia.org/resource/Norman_conquest_of_England
+
+siege weapon - http://dbpedia.org/resource/Siege_engine
+
+medieval england - http://dbpedia.org/resource/Middle_Ages
+
+preston - http://dbpedia.org/resource/Preston_railway_station
+
+time share - http://dbpedia.org/resource/Timeshare
+
+investment - http://dbpedia.org/resource/Investment
+
+painting - http://dbpedia.org/resource/Painting
+
+northern germany - http://dbpedia.org/resource/Holy_Roman_Empire
+
+insurrection - http://dbpedia.org/resource/Rebellion
+
+germany - http://dbpedia.org/resource/Germany
+
+nenagh castle - http://dbpedia.org/resource/Nenagh
+
+religious architecture - http://dbpedia.org/resource/Sacral_architecture
+
+anglo norman - http://dbpedia.org/resource/Anglo-Normans
+
+technology - http://dbpedia.org/resource/Renaissance_technology
+
+constitutional crisis - http://dbpedia.org/resource/Constitutional_crisis
+
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+
+nonfiction - http://dbpedia.org/resource/Non-fiction
+
+echo - http://dbpedia.org/resource/Glossary_of_music_terminology
+
+poland - http://dbpedia.org/resource/Poland
+belfry - http://dbpedia.org/resource/Siege_tower
+
+missile - http://dbpedia.org/resource/Missile
+
+wagon - http://dbpedia.org/resource/Wagon
+
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+
+criccieth - http://dbpedia.org/resource/Criccieth
+
+britain - http://dbpedia.org/resource/Roman_Britain
+
+excommunicate - http://dbpedia.org/resource/Excommunication
+
+welsh revolt - http://dbpedia.org/resource/Glyndŵr_Rising
+
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+
+royal court - http://dbpedia.org/resource/Royal_court
+
+historian - http://dbpedia.org/resource/History
+
+echo - http://dbpedia.org/resource/Echo
+
+continent - http://dbpedia.org/resource/Continental_Europe
+
+bypass - http://dbpedia.org/resource/Coronary_artery_bypass_surgery
+
+humiliation - http://dbpedia.org/resource/Humiliation
+
+vauban - http://dbpedia.org/resource/Sébastien_Le_Prestre_de_Vauban
+
+crossbowman - http://dbpedia.org/resource/Arbalist_(crossbowman)
+
+400 meter - http://dbpedia.org/resource/400_metres
+
+bear - http://dbpedia.org/resource/Bear
+
+comrade - http://dbpedia.org/resource/Comrade
+
+fighter - http://dbpedia.org/resource/Fighter_aircraft
+
+jan - http://dbpedia.org/resource/Joint_Electronics_Type_Designation_System
+
+mould - http://dbpedia.org/resource/Mold
+
+symbol - http://dbpedia.org/resource/Symbol
+
+strongbow - http://dbpedia.org/resource/Richard_de_Clare,_2nd_Earl_of_Pembroke
+monarch - http://dbpedia.org/resource/Monarch
+
+castellum - http://dbpedia.org/resource/Castra
+
+vinegar - http://dbpedia.org/resource/Vinegar
+
+gate - http://dbpedia.org/resource/City_gate
+
+european castles - http://dbpedia.org/resource/Castle
+
+mud - http://dbpedia.org/resource/Mud
+
+mascot - http://dbpedia.org/resource/Mascot
+
+retrofitting - http://dbpedia.org/resource/Retrofitting
+
+tribe - http://dbpedia.org/resource/Tribe
+
+conjecture - http://dbpedia.org/resource/Etruscan_civilization
+
+prince louis - http://dbpedia.org/resource/Louis_VIII_of_France
+
+onslaught - http://dbpedia.org/resource/Onslaught_(comics)
+
+cloak - http://dbpedia.org/resource/Cloaking_device
+
+carmarthen - http://dbpedia.org/resource/Carmarthen
+
+lincoln cathedral - http://dbpedia.org/resource/Lincoln_Cathedral
+
+tie beam - http://dbpedia.org/resource/Joist
+
+crusader - http://dbpedia.org/resource/Crusader_states
+
+wogan - http://dbpedia.org/resource/Wogan
+
+defy - http://dbpedia.org/resource/Motorola_Defy
+
+poetry - http://dbpedia.org/resource/Poetry
+
+hull - http://dbpedia.org/resource/Chassis
+
+dorset - http://dbpedia.org/resource/Dorset
+
+skewer - http://dbpedia.org/resource/Skewer
+
+wales today - http://dbpedia.org/resource/BBC_Wales_Today
+
+audit - http://dbpedia.org/resource/Audit
+
+medieval ireland - http://dbpedia.org/resource/Ireland_in_the_Middle_Ages
+
+anglo saxons - http://dbpedia.org/resource/Anglo-Saxons
+
+reinforcement - http://dbpedia.org/resource/Rebar
+
+walled city - http://dbpedia.org/resource/Defensive_wall
+
+french tower - http://dbpedia.org/resource/French_Tower
+
+barefoot - http://dbpedia.org/resource/Barefoot
+
+alton towers - http://dbpedia.org/resource/Alton_Towers
+
+flue - http://dbpedia.org/resource/Flue
+
+abergavenny - http://dbpedia.org/resource/Abergavenny
+
+beaumaris - http://dbpedia.org/resource/Beaumaris_Castle
+
+baptism - http://dbpedia.org/resource/Baptism
+
+wind - http://dbpedia.org/resource/Windmill
+
+high tower - http://dbpedia.org/resource/High_Tower
+
+rhuddlan - http://dbpedia.org/resource/Rhuddlan_Castle
+
+norman - http://dbpedia.org/resource/Normans
+
+warfare - http://dbpedia.org/resource/War
+
+strong tower - http://dbpedia.org/resource/Strong_Tower
+
+legend - http://dbpedia.org/resource/Legend
+
+mangonel - http://dbpedia.org/resource/Mangonel
+
+nostalgia - http://dbpedia.org/resource/Nostalgia
+
+dover - http://dbpedia.org/resource/Dover
+
+bribery - http://dbpedia.org/resource/Bribery
+
+float - http://dbpedia.org/resource/Buoyancy
+
+genoese - http://dbpedia.org/resource/Genoa
+
+calais - http://dbpedia.org/resource/Calais
+
+geograph.org.uk - http://dbpedia.org/resource/Geograph_Britain_and_Ireland
+
+dog tooth - http://dbpedia.org/resource/Dog-tooth
+
+amalgamation - http://dbpedia.org/resource/Miscegenation
+
+pond - http://dbpedia.org/resource/Fish_pond
+
+knights templar - http://dbpedia.org/resource/Knights_Templar
+
+irish gaelic - http://dbpedia.org/resource/Gaels
+
+siege train - http://dbpedia.org/resource/Siege_engine
+
+catapult - http://dbpedia.org/resource/Catapult
+
+conwy - http://dbpedia.org/resource/Conwy_Castle
+
+porter station - http://dbpedia.org/resource/Porter_station
+
+spring - http://dbpedia.org/resource/Coil_spring
+
+artillery - http://dbpedia.org/resource/Artillery
+
+summer - http://dbpedia.org/resource/Midsummer
+
+fashion innovation - http://dbpedia.org/resource/History_of_fashion_design
+
+steward - http://dbpedia.org/resource/Butler
+
+city wall - http://dbpedia.org/resource/Defensive_wall
+
+propagandist - http://dbpedia.org/resource/Propaganda
+
+network - http://dbpedia.org/resource/Computer_network
+
+arch - http://dbpedia.org/resource/Arch
+
+bedford castle - http://dbpedia.org/resource/Bedford_Castle
+
+violence - http://dbpedia.org/resource/Violence
+
+bedrock - http://dbpedia.org/resource/Bedrock
+
+flint - http://dbpedia.org/resource/Flint
+
+stone yard - http://dbpedia.org/resource/Stonemasonry
+
+gaze - http://dbpedia.org/resource/Gaze
+
+litigation - http://dbpedia.org/resource/Lawsuit
+
+margat - http://dbpedia.org/resource/Margat
+
+semperoper - http://dbpedia.org/resource/Semperoper
+
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+
+uniform - http://dbpedia.org/resource/Uniform
+
+norman king - http://dbpedia.org/resource/Norman_King_(bowls)
+
+beam - http://dbpedia.org/resource/Laser
+
+lichtenstein castle - http://dbpedia.org/resource/Lichtenstein_Castle_(Württemberg)
+
+lordship - http://dbpedia.org/resource/Feudalism
+
+signal - http://dbpedia.org/resource/Railway_signal
+
+personal property - http://dbpedia.org/resource/Personal_property
+
+normandy - http://dbpedia.org/resource/Normandy
+
+peterborough - http://dbpedia.org/resource/Peterborough_Cathedral
+
+network - http://dbpedia.org/resource/Social_network
+
+memorial - http://dbpedia.org/resource/Memorial_to_the_throne
+
+irfon - http://dbpedia.org/resource/Afon_Irfon
+
+fortified manor house - http://dbpedia.org/resource/Manor_house
+
+social role - http://dbpedia.org/resource/Role
+
+dungeon - http://dbpedia.org/resource/Dungeon
+
+lord monarch - http://dbpedia.org/resource/Lord_Monarch
+
+latin - http://dbpedia.org/resource/Latin
+
+master mason - http://dbpedia.org/resource/Masonry
+
+bronze age - http://dbpedia.org/resource/Bronze_Age
+
+man engine - http://dbpedia.org/resource/Man_engine
+
+romance - http://dbpedia.org/resource/Romanticism
+
+fort - http://dbpedia.org/resource/Fortification
+
+british army - http://dbpedia.org/resource/British_Army
+
+genre - http://dbpedia.org/resource/Genre_art
+
+planet - http://dbpedia.org/resource/Planet
+
+border security - http://dbpedia.org/resource/Border_control
+
+earthwork - http://dbpedia.org/resource/Fortification
+
+secondary source - http://dbpedia.org/resource/Secondary_source
+
+region - http://dbpedia.org/resource/Region
+
+flying buttress - http://dbpedia.org/resource/Flying_buttress
+
+gun - http://dbpedia.org/resource/Cannon
+
+siege - http://dbpedia.org/resource/Siege
+
+handgun - http://dbpedia.org/resource/Hand_cannon
+
+hume - http://dbpedia.org/resource/David_Hume
+
+limerick - http://dbpedia.org/resource/Limerick
+
+secret passage - http://dbpedia.org/resource/Secret_passage
+
+kurds - http://dbpedia.org/resource/Kurds
+
+english royal family - http://dbpedia.org/resource/House_of_Windsor
+
+colonist - http://dbpedia.org/resource/Colonialism
+
+calendar - http://dbpedia.org/resource/Chinese_calendar
+
+gothic tale - http://dbpedia.org/resource/Gothic_fiction
+
+prison - http://dbpedia.org/resource/Prison
+projectile - http://dbpedia.org/resource/Projectile
+
+scaffolding - http://dbpedia.org/resource/Scaffolding
+
+cart - http://dbpedia.org/resource/Cart
+
+ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
+
+wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
+
+edinburgh - http://dbpedia.org/resource/Edinburgh_Castle
+
+tuscan - http://dbpedia.org/resource/Tuscan_order
+
+glimmer - http://dbpedia.org/resource/GLIMMER
+
+ryther - http://dbpedia.org/resource/Ryther_cum_Ossendyke
+
+courtyard - http://dbpedia.org/resource/Courtyard
+
+landscape - http://dbpedia.org/resource/Landscape
+
+sword - http://dbpedia.org/resource/Sword
+
+language - http://dbpedia.org/resource/Latin
+
+propaganda - http://dbpedia.org/resource/Propaganda
+
+urban castle - http://dbpedia.org/resource/Urban_castle
+
+hut - http://dbpedia.org/resource/Hut
+
+castrum - http://dbpedia.org/resource/Castle
+
+britain - http://dbpedia.org/resource/British_Empire
+
+arrow - http://dbpedia.org/resource/Arrow
+
+cave - http://dbpedia.org/resource/Cave
+
+technology - http://dbpedia.org/resource/Technology
+
+san gimignano - http://dbpedia.org/resource/San_Gimignano
+
+amy dudley - http://dbpedia.org/resource/Amy_Robsart
+
+feudal - http://dbpedia.org/resource/Feudalism
+charitable trust - http://dbpedia.org/resource/Charitable_trust
+
+ordain - http://dbpedia.org/resource/Ordination
+
+aberystwyth - http://dbpedia.org/resource/Aberystwyth
+
+hoard - http://dbpedia.org/resource/Hoard
+
+heidelberg castle - http://dbpedia.org/resource/Heidelberg_Castle
+
+gate - http://dbpedia.org/resource/Gate
+
+brereton - http://dbpedia.org/resource/Brereton_Hall
+
+winter - http://dbpedia.org/resource/Tilia
+
+king john - http://dbpedia.org/resource/John_II_of_France
+
+roman - http://dbpedia.org/resource/Roman_Empire
+
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+
+ridge - http://dbpedia.org/resource/Ridge
+
+highclere castle - http://dbpedia.org/resource/Highclere_Castle
+
+brand - http://dbpedia.org/resource/Brand
+
+portchester castle - http://dbpedia.org/resource/Portchester_Castle
+
+leather - http://dbpedia.org/resource/Leather
+
+hill river - http://dbpedia.org/resource/Hill_River_(South_Australia)
+
+neuschwanstein castle - http://dbpedia.org/resource/Neuschwanstein_Castle
+
+administrative centre - http://dbpedia.org/resource/County_town
+
+slip - http://dbpedia.org/resource/Slipway
+
+counterpoise - http://dbpedia.org/resource/Menat
+
+marcher lords - http://dbpedia.org/resource/Marcher_Lord
+
+fertile crescent - http://dbpedia.org/resource/Fertile_Crescent
+
+flint castle - http://dbpedia.org/resource/Flint_Castle
+
+morale - http://dbpedia.org/resource/Morale
+
+disney castle - http://dbpedia.org/resource/Cinderella_Castle
+
+blacksmith - http://dbpedia.org/resource/Blacksmith
+
+edward oxford - http://dbpedia.org/resource/Edward_Oxford
+
+jawor - http://dbpedia.org/resource/Duchy_of_Jawor
+
+conwy castle - http://dbpedia.org/resource/Conwy_Castle
+
+central europe - http://dbpedia.org/resource/Central_Europe
+
+meter - http://dbpedia.org/resource/Hymn

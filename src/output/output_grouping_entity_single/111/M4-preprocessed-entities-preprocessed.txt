@@ -1,0 +1,86 @@
+soldier - http://dbpedia.org/resource/Soldier
+postern door - http://dbpedia.org/resource/Postern
+battlement - http://dbpedia.org/resource/Battlement
+drum tower - http://dbpedia.org/resource/Drum
+metal - http://dbpedia.org/resource/Metal
+merlon - http://dbpedia.org/resource/Merlon
+outline - http://dbpedia.org/resource/Nutrition
+weapon - http://dbpedia.org/resource/Weapon
+love - http://dbpedia.org/resource/Love
+bodiam - http://dbpedia.org/resource/Bodiam
+pantry - http://dbpedia.org/resource/Pantry
+liquor - http://dbpedia.org/resource/Liquor
+archer - http://dbpedia.org/resource/Bow_and_arrow
+courageous - http://dbpedia.org/resource/Operation_Courageous
+trebuchet - http://dbpedia.org/resource/Trebuchet
+vegetable - http://dbpedia.org/resource/Vegetable
+turnip - http://dbpedia.org/resource/Turnip
+perishable food - http://dbpedia.org/resource/Shelf_life
+murder hole - http://dbpedia.org/resource/Murder_hole
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+defence - http://dbpedia.org/resource/Military
+south east england - http://dbpedia.org/resource/South_East_England
+buttery - http://dbpedia.org/resource/Buttery_(room)
+quadrangle - http://dbpedia.org/resource/Quadrilateral
+majestic - http://dbpedia.org/resource/Majestic_12
+banquet - http://dbpedia.org/resource/Banquet
+peasant - http://dbpedia.org/resource/Peasant
+landscape - http://dbpedia.org/resource/Landscape
+sword - http://dbpedia.org/resource/Sword
+moat - http://dbpedia.org/resource/Moat
+cauliflower - http://dbpedia.org/resource/Cauliflower
+timber - http://dbpedia.org/resource/Timber_framing
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+meat - http://dbpedia.org/resource/Meat
+great hall - http://dbpedia.org/resource/Great_hall
+solar - http://dbpedia.org/resource/Solar_panel
+defender - http://dbpedia.org/resource/Defendant
+cabbage - http://dbpedia.org/resource/Cabbage
+water - http://dbpedia.org/resource/Water
+technology - http://dbpedia.org/resource/Technology
+catapult - http://dbpedia.org/resource/Catapult
+chewy - http://dbpedia.org/resource/Chewy_(company)
+lake - http://dbpedia.org/resource/Lake
+lord family - http://dbpedia.org/resource/Lord_family
+coat - http://dbpedia.org/resource/Fur_clothing
+bolt - http://dbpedia.org/resource/Crossbow
+lush - http://dbpedia.org/resource/Lush_3
+marvellous - http://dbpedia.org/resource/Marvellous
+train - http://dbpedia.org/resource/Train
+garderobe - http://dbpedia.org/resource/Garderobe
+east sussex - http://dbpedia.org/resource/East_Sussex
+food - http://dbpedia.org/resource/Food
+fireplace - http://dbpedia.org/resource/Fireplace
+missile - http://dbpedia.org/resource/Missile
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+crenellation - http://dbpedia.org/resource/Battlement
+landscaping - http://dbpedia.org/resource/Landscaping
+crossbow - http://dbpedia.org/resource/Crossbow
+excavation - http://dbpedia.org/resource/Excavator
+milk - http://dbpedia.org/resource/Milk
+ballistas - http://dbpedia.org/resource/Ballista
+turret - http://dbpedia.org/resource/Turret
+bridge - http://dbpedia.org/resource/Bridge
+diligent - http://dbpedia.org/resource/Hired_armed_cutter_Diligent
+maid - http://dbpedia.org/resource/Domestic_worker
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+castle moat - http://dbpedia.org/resource/Moat
+drawbridge - http://dbpedia.org/resource/Drawbridge
+grass - http://dbpedia.org/resource/Cereal
+pork - http://dbpedia.org/resource/Pork
+point guard - http://dbpedia.org/resource/Point_guard
+larissa - http://dbpedia.org/resource/Larissa
+contemporary architecture - http://dbpedia.org/resource/Contemporary_architecture
+map - http://dbpedia.org/resource/Map
+trap door - http://dbpedia.org/resource/Trapdoor
+carrot - http://dbpedia.org/resource/Carrot
+diagram - http://dbpedia.org/resource/Diagram
+dungeon - http://dbpedia.org/resource/Dungeon
+blacksmith - http://dbpedia.org/resource/Blacksmith
+straw - http://dbpedia.org/resource/Straw
+vantage - http://dbpedia.org/resource/Aston_Martin_Vantage
+barbican - http://dbpedia.org/resource/Barbican
+romantic - http://dbpedia.org/resource/Romanticism
+hoarding - http://dbpedia.org/resource/Billboard
+knife - http://dbpedia.org/resource/Knife
+space - http://dbpedia.org/resource/Outer_space

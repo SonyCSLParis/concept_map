@@ -1,0 +1,21 @@
+defendant - http://dbpedia.org/resource/Defendant
+technology - http://dbpedia.org/resource/Technology
+crime scene investigator - http://dbpedia.org/resource/Forensic_science
+perception - http://dbpedia.org/resource/Perception
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+acquit - http://dbpedia.org/resource/Acquittal
+criminal investigation - http://dbpedia.org/resource/Criminal_procedure
+warrant - http://dbpedia.org/resource/Search_warrant
+forensic science - http://dbpedia.org/resource/Forensic_science
+prosecutor - http://dbpedia.org/resource/Prosecutor
+forensic - http://dbpedia.org/resource/Forensic_identification
+forensic scientist - http://dbpedia.org/resource/Forensic_science
+defense attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
+csi - http://dbpedia.org/resource/Forensic_science
+lawyer - http://dbpedia.org/resource/Lawyer
+reasonable doubt - http://dbpedia.org/resource/Reasonable_doubt
+jury trial - http://dbpedia.org/resource/Jury_trial
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+juror - http://dbpedia.org/resource/Jury
+defense - http://dbpedia.org/resource/Criminal_defense_lawyer
+jury selection - http://dbpedia.org/resource/Jury_selection

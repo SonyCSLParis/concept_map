@@ -1,0 +1,5 @@
+cold stream - http://dbpedia.org/resource/Cold_Stream,_West_Virginia
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+wv - http://dbpedia.org/resource/Wv_(software)

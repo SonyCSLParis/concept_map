@@ -1,0 +1,80 @@
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+archetypal - http://dbpedia.org/resource/Archetype
+moate - http://dbpedia.org/resource/Moate
+medieval - http://dbpedia.org/resource/Middle_Ages
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+easter egg hunt - http://dbpedia.org/resource/Egg_hunt
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+egg - http://dbpedia.org/resource/Egg_as_food
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+easter bunny - http://dbpedia.org/resource/Easter_Bunny
+egg - http://dbpedia.org/resource/Egg_as_food
+siege - http://dbpedia.org/resource/Siege
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+medieval - http://dbpedia.org/resource/Middle_Ages
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+spring - http://dbpedia.org/resource/March_equinox
+medieval - http://dbpedia.org/resource/Middle_Ages
+family - http://dbpedia.org/resource/Family
+st george - http://dbpedia.org/resource/Saint_George
+george day - http://dbpedia.org/resource/George_Day_(bishop)
+family - http://dbpedia.org/resource/Family
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+st george - http://dbpedia.org/resource/Saint_George
+george day - http://dbpedia.org/resource/George_Day_(bishop)
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+winter - http://dbpedia.org/resource/Winter
+herb - http://dbpedia.org/resource/Herb
+bodiam - http://dbpedia.org/resource/Bodiam
+medieval - http://dbpedia.org/resource/Middle_Ages
+manuscript - http://dbpedia.org/resource/Manuscript
+gardening - http://dbpedia.org/resource/Gardening
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+family - http://dbpedia.org/resource/Family
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+moat - http://dbpedia.org/resource/Moat
+tower - http://dbpedia.org/resource/Keep
+family - http://dbpedia.org/resource/Family
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+spring - http://dbpedia.org/resource/March_equinox
+spring - http://dbpedia.org/resource/March_equinox
+medieval - http://dbpedia.org/resource/Middle_Ages
+great activity - http://dbpedia.org/resource/Great_Activity
+st. george - http://dbpedia.org/resource/Saint_George
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+coffee - http://dbpedia.org/resource/Coffeehouse
+national trust - http://dbpedia.org/resource/National_trust
+cream tea - http://dbpedia.org/resource/Cream_tea
+tea room - http://dbpedia.org/resource/Teahouse
+coffee shop - http://dbpedia.org/resource/Coffeehouse
+food - http://dbpedia.org/resource/Food
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+national trust - http://dbpedia.org/resource/National_trust
+core product - http://dbpedia.org/resource/Core_product
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+majestic - http://dbpedia.org/resource/Majestic_12
+tower - http://dbpedia.org/resource/Keep
+moat - http://dbpedia.org/resource/Moat
+wedding - http://dbpedia.org/resource/Wedding
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+castle ground - http://dbpedia.org/resource/Castle_Ground
+bodiam - http://dbpedia.org/resource/Bodiam
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+gatehouse - http://dbpedia.org/resource/Gatehouse
+tower - http://dbpedia.org/resource/Keep
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+piers - http://dbpedia.org/resource/Pier
+ollie - http://dbpedia.org/resource/Ollie_(skateboarding)
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+volunteer - http://dbpedia.org/resource/Volunteering

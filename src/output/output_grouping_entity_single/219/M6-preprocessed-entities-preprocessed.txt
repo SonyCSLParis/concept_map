@@ -1,0 +1,108 @@
+socorro - http://dbpedia.org/resource/MIT_Lincoln_Laboratory
+early britain - http://dbpedia.org/resource/History_of_the_British_Isles
+implosion system - http://dbpedia.org/resource/Nuclear_weapon_design
+atomic test - http://dbpedia.org/resource/Nuclear_weapons_testing
+nuclear technology - http://dbpedia.org/resource/Nuclear_technology
+code - http://dbpedia.org/resource/Source_code
+die - http://dbpedia.org/resource/Death
+britain - http://dbpedia.org/resource/United_Kingdom
+substitute - http://dbpedia.org/resource/Substitute_good
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+dust - http://dbpedia.org/resource/Dust
+uranium 235 - http://dbpedia.org/resource/Uranium-235
+memorandum - http://dbpedia.org/resource/Memorandum
+industrial - http://dbpedia.org/resource/Industry
+mass - http://dbpedia.org/resource/Mass
+president - http://dbpedia.org/resource/President_of_the_United_States
+british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+mole - http://dbpedia.org/resource/Melanocytic_nevus
+william penney - http://dbpedia.org/resource/William_Penney,_Baron_Penney
+germany - http://dbpedia.org/resource/Nazi_Germany
+poetry - http://dbpedia.org/resource/Poetry
+u.s. army - http://dbpedia.org/resource/United_States_Army
+plant - http://dbpedia.org/resource/Chemical_plant
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+nuclear bomb - http://dbpedia.org/resource/Nuclear_weapon
+trinity - http://dbpedia.org/resource/Trinity
+japanese army - http://dbpedia.org/resource/Imperial_Japanese_Army
+fissionable material - http://dbpedia.org/resource/Nuclear_fission
+radioactive - http://dbpedia.org/resource/Radioactive_contamination
+washington - http://dbpedia.org/resource/George_Washington
+thin man - http://dbpedia.org/resource/The_Thin_Man
+nuclear science - http://dbpedia.org/resource/Nuclear_physics
+datum - http://dbpedia.org/resource/Data
+jornada del muerto - http://dbpedia.org/resource/Jornada_del_Muerto
+casing - http://dbpedia.org/resource/Cabinetry
+pen - http://dbpedia.org/resource/Pen
+national historic landmark - http://dbpedia.org/resource/National_Historic_Landmark
+intelligence corps - http://dbpedia.org/resource/Israeli_Intelligence_Corps
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+security - http://dbpedia.org/resource/Security
+intelligence - http://dbpedia.org/resource/Espionage
+gun - http://dbpedia.org/resource/Firearm
+radiation detector - http://dbpedia.org/resource/Particle_detector
+einstein - http://dbpedia.org/resource/Albert_Einstein
+lie detector test - http://dbpedia.org/resource/Polygraph
+manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
+panthers - http://dbpedia.org/resource/Black_panther
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+magazine - http://dbpedia.org/resource/Magazine
+landmark - http://dbpedia.org/resource/Landmark
+radiation - http://dbpedia.org/resource/Radioactive_decay
+tickle - http://dbpedia.org/resource/Tickling
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+tennessee - http://dbpedia.org/resource/Tennessee
+security clearance - http://dbpedia.org/resource/Security_clearance
+fat - http://dbpedia.org/resource/Obesity
+nose - http://dbpedia.org/resource/Warhead
+perfect combination - http://dbpedia.org/resource/Perfect_Combination
+city - http://dbpedia.org/resource/City
+rock - http://dbpedia.org/resource/Rock_music
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+john cockroft - http://dbpedia.org/resource/John_Cockcroft
+nagasaki - http://dbpedia.org/resource/Fat_Man
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+plutonium - http://dbpedia.org/resource/Plutonium
+harry daghlian - http://dbpedia.org/resource/Harry_Daghlian
+fission - http://dbpedia.org/resource/Nuclear_weapon
+inhalation - http://dbpedia.org/resource/Inhalation
+swab - http://dbpedia.org/resource/Cotton_swab
+ridge - http://dbpedia.org/resource/Ridge
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+coffin - http://dbpedia.org/resource/Coffin
+lie detection - http://dbpedia.org/resource/Lie_detection
+technology - http://dbpedia.org/resource/Nuclear_technology
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+committee - http://dbpedia.org/resource/Committee
+mexico - http://dbpedia.org/resource/Mexico
+planet - http://dbpedia.org/resource/Earth
+trinity site - http://dbpedia.org/resource/McDonald_Ranch_House
+gadget - http://dbpedia.org/resource/Gadget
+screening test - http://dbpedia.org/resource/Presumptive_and_confirmatory_tests
+obelisk - http://dbpedia.org/resource/Obelisk
+radiation lab - http://dbpedia.org/resource/MIT_Radiation_Laboratory
+safety - http://dbpedia.org/resource/Nuclear_safety_and_security
+article - http://dbpedia.org/resource/Falklands_War
+uranium - http://dbpedia.org/resource/Uranium-235
+nuclear chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
+encyclopedia.com - http://dbpedia.org/resource/Encyclopedia.com
+acute radiation poisoning - http://dbpedia.org/resource/Acute_radiation_syndrome
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
+president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+louis slotin - http://dbpedia.org/resource/Louis_Slotin
+los alamos - http://dbpedia.org/resource/Project_Y
+hanford - http://dbpedia.org/resource/Hanford_Site
+john donne - http://dbpedia.org/resource/John_Donne
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+nuclear fission - http://dbpedia.org/resource/Nuclear_fission
+detonate - http://dbpedia.org/resource/Detonation
+experiment - http://dbpedia.org/resource/Experiment
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+prison - http://dbpedia.org/resource/Prison

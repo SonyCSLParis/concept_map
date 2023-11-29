@@ -1,0 +1,667 @@
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+british history - http://dbpedia.org/resource/History_of_the_United_Kingdom
+international law - http://dbpedia.org/resource/International_law
+dependent territory - http://dbpedia.org/resource/Dependent_territory
+autonomy - http://dbpedia.org/resource/Autonomous_administrative_division
+independence - http://dbpedia.org/resource/Independence
+suzerainty - http://dbpedia.org/resource/British_Empire
+sovereign - http://dbpedia.org/resource/Sovereignty
+autonomous - http://dbpedia.org/resource/Autonomous_administrative_division
+sovereign - http://dbpedia.org/resource/Sovereignty
+colony - http://dbpedia.org/resource/Colony
+immigration - http://dbpedia.org/resource/Immigration
+settler - http://dbpedia.org/resource/Settler
+suzerainty - http://dbpedia.org/resource/British_Empire
+independence - http://dbpedia.org/resource/Independence
+amical - http://dbpedia.org/resource/Amicale_F.C.
+amical - http://dbpedia.org/resource/Amicale_F.C.
+moral - http://dbpedia.org/resource/Ethics
+moral obligation - http://dbpedia.org/resource/Deontological_ethics
+ideology - http://dbpedia.org/resource/Ideology
+dynastic - http://dbpedia.org/resource/Dynasty
+ethno - http://dbpedia.org/resource/Ethnic_group
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+sacrifice - http://dbpedia.org/resource/Human_sacrifice
+amical - http://dbpedia.org/resource/Amicale_F.C.
+great power - http://dbpedia.org/resource/Great_power
+qing dynasty - http://dbpedia.org/resource/Qing_dynasty
+amical - http://dbpedia.org/resource/Amicale_F.C.
+amical - http://dbpedia.org/resource/Amicale_F.C.
+microstate - http://dbpedia.org/resource/Microstate
+microstate - http://dbpedia.org/resource/Microstate
+sovereign - http://dbpedia.org/resource/Sovereignty
+sovereignty - http://dbpedia.org/resource/Sovereignty
+power exchange - http://dbpedia.org/resource/Electricity_market
+benign - http://dbpedia.org/resource/Cancer
+political economic - http://dbpedia.org/resource/Political_economy
+demographic - http://dbpedia.org/resource/Demography
+microstate - http://dbpedia.org/resource/Microstate
+liechtenstein - http://dbpedia.org/resource/Liechtenstein
+san marino - http://dbpedia.org/resource/San_Marino
+monaco - http://dbpedia.org/resource/Monaco
+niue - http://dbpedia.org/resource/Niue
+cook islands - http://dbpedia.org/resource/Cook_Islands
+palau - http://dbpedia.org/resource/Palau
+protection international - http://dbpedia.org/resource/Protection_International
+law - http://dbpedia.org/resource/Law
+de facto - http://dbpedia.org/resource/De_facto
+colony - http://dbpedia.org/resource/Colony
+indirect rule - http://dbpedia.org/resource/Indirect_rule
+indirect rule - http://dbpedia.org/resource/Indirect_rule
+de facto - http://dbpedia.org/resource/De_facto
+independent - http://dbpedia.org/resource/Independence
+foreign policy - http://dbpedia.org/resource/Foreign_policy
+armed force - http://dbpedia.org/resource/Military
+logic - http://dbpedia.org/resource/Logic
+berlin agreement - http://dbpedia.org/resource/Congress_of_Berlin
+colonial power - http://dbpedia.org/resource/British_Empire
+black africa - http://dbpedia.org/resource/Sub-Saharan_Africa
+region - http://dbpedia.org/resource/Region
+colony - http://dbpedia.org/resource/Colony
+amalgamation - http://dbpedia.org/resource/Miscegenation
+de facto - http://dbpedia.org/resource/De_facto
+logic - http://dbpedia.org/resource/Logic
+rely - http://dbpedia.org/resource/Rely_(brand)
+defence - http://dbpedia.org/resource/Military
+annexation - http://dbpedia.org/resource/Annexation
+power control - http://dbpedia.org/resource/Power_control
+united nations trust territories - http://dbpedia.org/resource/United_Nations_trust_territories
+administration - http://dbpedia.org/resource/Public_administration
+international community - http://dbpedia.org/resource/United_Nations
+bilateral agreement - http://dbpedia.org/resource/Bilateralism
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+de facto - http://dbpedia.org/resource/De_facto
+belgian - http://dbpedia.org/resource/Belgium
+ruanda - http://dbpedia.org/resource/Rwanda
+east african campaign - http://dbpedia.org/resource/East_African_campaign_(World_War_II)
+german east africa - http://dbpedia.org/resource/German_East_Africa
+ruanda - http://dbpedia.org/resource/Rwanda
+urundi - http://dbpedia.org/resource/Burundi
+belgian - http://dbpedia.org/resource/Belgium
+congolese - http://dbpedia.org/resource/Democratic_Republic_of_the_Congo
+versailles - http://dbpedia.org/resource/Treaty_of_Versailles
+german east africa - http://dbpedia.org/resource/German_East_Africa
+ruanda - http://dbpedia.org/resource/Rwanda
+urundi - http://dbpedia.org/resource/Burundi
+belgium - http://dbpedia.org/resource/Belgium
+congo - http://dbpedia.org/resource/Belgian_Congo
+belgian - http://dbpedia.org/resource/Belgium
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+united nations trust territory - http://dbpedia.org/resource/United_Nations_trust_territories
+independence - http://dbpedia.org/resource/Independence
+rwanda - http://dbpedia.org/resource/Rwanda
+burundi - http://dbpedia.org/resource/Burundi
+belgian colonial empire - http://dbpedia.org/resource/Belgian_colonial_empire
+british protectorates - http://dbpedia.org/resource/Protectorate
+ultimate power - http://dbpedia.org/resource/Ultimate_Power
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+britannic - http://dbpedia.org/resource/HMHS_Britannic
+foreign affair - http://dbpedia.org/resource/Foreign_Affair_(Tina_Turner_album)
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+colony - http://dbpedia.org/resource/Colony
+colonial office - http://dbpedia.org/resource/Colonial_Office
+zanzibar protectorate - http://dbpedia.org/resource/Sultanate_of_Zanzibar
+colony - http://dbpedia.org/resource/Colony
+britain - http://dbpedia.org/resource/British_Empire
+prime minister salisbury - http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury
+race - http://dbpedia.org/resource/Racing
+dominion - http://dbpedia.org/resource/Dominion
+west african - http://dbpedia.org/resource/Africa
+king george iii - http://dbpedia.org/resource/George_III_of_the_United_Kingdom
+royal proclamation - http://dbpedia.org/resource/Proclamation
+negotiation - http://dbpedia.org/resource/Negotiation
+aboriginal - http://dbpedia.org/resource/Indigenous_peoples
+north america - http://dbpedia.org/resource/North_America
+american interior - http://dbpedia.org/resource/American_Interior
+indian reserve - http://dbpedia.org/resource/Indian_reserve
+king george - http://dbpedia.org/resource/George_V
+reserve - http://dbpedia.org/resource/Reserve_fleet
+tribe - http://dbpedia.org/resource/Tribe
+hunting ground - http://dbpedia.org/resource/Hunting_Ground_(comics)
+sovereign territory - http://dbpedia.org/resource/Sovereignty
+dominion - http://dbpedia.org/resource/Dominion
+region - http://dbpedia.org/resource/Region
+tribe - http://dbpedia.org/resource/Tribe
+protectorate treaty - http://dbpedia.org/resource/Japan–Korea_Treaty_of_1905
+colony - http://dbpedia.org/resource/Colony
+dominion - http://dbpedia.org/resource/Dominion
+hudson bay - http://dbpedia.org/resource/Hudson_Bay
+land tenure - http://dbpedia.org/resource/Papua_New_Guinea
+prairie province - http://dbpedia.org/resource/Canadian_Prairies
+northern ontario - http://dbpedia.org/resource/Northern_Ontario
+outline - http://dbpedia.org/resource/Nutrition
+royal proclamation - http://dbpedia.org/resource/Proclamation
+royal proclamation - http://dbpedia.org/resource/Proclamation
+aboriginal - http://dbpedia.org/resource/Indigenous_peoples
+cephalonia - http://dbpedia.org/resource/Cephalonia
+cephalonia - http://dbpedia.org/resource/Cephalonia
+ionian islands - http://dbpedia.org/resource/Ionian_Islands
+napoleonic war - http://dbpedia.org/resource/Napoleonic_Wars
+paris - http://dbpedia.org/resource/Paris
+independent - http://dbpedia.org/resource/Independence
+ionian islands - http://dbpedia.org/resource/Ionian_Islands
+malta - http://dbpedia.org/resource/Malta
+british protectorate - http://dbpedia.org/resource/Protectorate
+capitulation - http://dbpedia.org/resource/Capitulations_of_the_Ottoman_Empire
+paris - http://dbpedia.org/resource/Paris
+british protectorate - http://dbpedia.org/resource/Protectorate
+pacific ocean - http://dbpedia.org/resource/Oceania
+gilberts - http://dbpedia.org/resource/Kiribati
+kiribati - http://dbpedia.org/resource/Kiribati
+british protectorate - http://dbpedia.org/resource/Protectorate
+captain - http://dbpedia.org/resource/Sea_captain
+r.n. - http://dbpedia.org/resource/Royal_Navy
+hms royalist - http://dbpedia.org/resource/HMS_Royalist_(89)
+royalist - http://dbpedia.org/resource/Spanish_Empire
+ellice islands - http://dbpedia.org/resource/Tuvalu
+captain - http://dbpedia.org/resource/Sea_captain
+british flag - http://dbpedia.org/resource/Union_Jack
+ellice islands - http://dbpedia.org/resource/Tuvalu
+tuvalu - http://dbpedia.org/resource/Tuvalu
+british protectorate - http://dbpedia.org/resource/Protectorate
+captain - http://dbpedia.org/resource/Sea_captain
+gibson - http://dbpedia.org/resource/Gibson
+r.n. - http://dbpedia.org/resource/Royal_Navy
+curacoa - http://dbpedia.org/resource/HMS_Curacoa
+britain - http://dbpedia.org/resource/British_Empire
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
+captain - http://dbpedia.org/resource/Sea_captain
+gibson - http://dbpedia.org/resource/Gibson
+r.n. - http://dbpedia.org/resource/Royal_Navy
+curacoa - http://dbpedia.org/resource/HMS_Curacoa
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
+british protectorate - http://dbpedia.org/resource/Protectorate
+british solomon islands protectorate - http://dbpedia.org/resource/Solomon_Islands
+prime minister - http://dbpedia.org/resource/Prime_minister
+william ewart gladstone - http://dbpedia.org/resource/William_Ewart_Gladstone
+uganda - http://dbpedia.org/resource/Uganda
+british protectorate - http://dbpedia.org/resource/Protectorate
+muslim - http://dbpedia.org/resource/Islam
+administration - http://dbpedia.org/resource/Public_administration
+indirect rule - http://dbpedia.org/resource/Indirect_rule
+oligarchy - http://dbpedia.org/resource/Oligarchy
+network - http://dbpedia.org/resource/Social_network
+civil service - http://dbpedia.org/resource/Civil_service
+british protectorate - http://dbpedia.org/resource/Protectorate
+high commissioner - http://dbpedia.org/resource/High_commissioner
+governor - http://dbpedia.org/resource/Governor
+british law - http://dbpedia.org/resource/Law_of_the_United_Kingdom
+britain - http://dbpedia.org/resource/British_Empire
+defence - http://dbpedia.org/resource/Military
+british protectorate - http://dbpedia.org/resource/Protectorate
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+trust territory - http://dbpedia.org/resource/United_Nations_trust_territories
+protected persons - http://dbpedia.org/resource/Protected_persons
+nationality - http://dbpedia.org/resource/Sovereign_state
+independence - http://dbpedia.org/resource/Independence
+british protectorate - http://dbpedia.org/resource/Protectorate
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
+independence - http://dbpedia.org/resource/Independence
+brunei - http://dbpedia.org/resource/Brunei
+independence - http://dbpedia.org/resource/Independence
+americas - http://dbpedia.org/resource/Americas
+colony - http://dbpedia.org/resource/Colony
+william courteen - http://dbpedia.org/resource/William_Courten
+james hay - http://dbpedia.org/resource/James_Hay_Partnership
+mosquito coast - http://dbpedia.org/resource/Mosquito_Coast
+central america - http://dbpedia.org/resource/Central_America
+miskito indian - http://dbpedia.org/resource/Miskito_people
+aden - http://dbpedia.org/resource/Aden
+yemen - http://dbpedia.org/resource/Yemen
+sultanate - http://dbpedia.org/resource/Sultan
+anglo - http://dbpedia.org/resource/Anglo
+sudan - http://dbpedia.org/resource/Sudan
+condominium - http://dbpedia.org/resource/Anglo-Egyptian_Sudan
+british residency - http://dbpedia.org/resource/British_Residency
+persian gulf - http://dbpedia.org/resource/Persian_Gulf
+bahrain - http://dbpedia.org/resource/Bahrain
+kuwait - http://dbpedia.org/resource/Kuwait
+qatar - http://dbpedia.org/resource/Qatar
+emirate - http://dbpedia.org/resource/Emirate
+uae - http://dbpedia.org/resource/United_Arab_Emirates
+oman - http://dbpedia.org/resource/Oman
+south east asia - http://dbpedia.org/resource/Southeast_Asia
+north borneo - http://dbpedia.org/resource/North_Borneo
+brunei - http://dbpedia.org/resource/Brunei
+federation - http://dbpedia.org/resource/Federation
+malaya - http://dbpedia.org/resource/British_Malaya
+federated - http://dbpedia.org/resource/Federation
+malay - http://dbpedia.org/resource/Malay_language
+negeri sembilan - http://dbpedia.org/resource/Negeri_Sembilan
+sungai ujong - http://dbpedia.org/resource/Seremban
+jelebu - http://dbpedia.org/resource/Jelebu_District
+pahang - http://dbpedia.org/resource/Pahang
+perak - http://dbpedia.org/resource/Perak
+selangor - http://dbpedia.org/resource/Selangor
+malay - http://dbpedia.org/resource/Malay_language
+johor - http://dbpedia.org/resource/Johor
+kedah - http://dbpedia.org/resource/Kedah
+kelantan - http://dbpedia.org/resource/Kelantan
+perlis - http://dbpedia.org/resource/Perlis
+terengganu - http://dbpedia.org/resource/Terengganu
+maldive - http://dbpedia.org/resource/Maldives
+sikkim - http://dbpedia.org/resource/Sikkim
+sarawak - http://dbpedia.org/resource/Sarawak
+british empire - http://dbpedia.org/resource/British_Empire
+total control - http://dbpedia.org/resource/Total_Control_(TV_series)
+foreign policy - http://dbpedia.org/resource/Foreign_policy
+bhutan - http://dbpedia.org/resource/Bhutan
+saharan - http://dbpedia.org/resource/Sahara
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+colony - http://dbpedia.org/resource/Colony
+basutoland - http://dbpedia.org/resource/Basutoland
+bechuanaland protectorate - http://dbpedia.org/resource/Bechuanaland_Protectorate
+east africa protectorate - http://dbpedia.org/resource/East_Africa_Protectorate
+gambia protectorate - http://dbpedia.org/resource/History_of_the_Gambia
+barotseland - http://dbpedia.org/resource/Barotseland
+northern rhodesia - http://dbpedia.org/resource/Northern_Rhodesia
+nyasaland protectorate - http://dbpedia.org/resource/Nyasaland
+british central africa - http://dbpedia.org/resource/British_Central_Africa_Protectorate
+northern nigeria protectorate - http://dbpedia.org/resource/Northern_Nigeria_Protectorate
+southern nigeria protectorate - http://dbpedia.org/resource/Southern_Nigeria_Protectorate
+sierra leone - http://dbpedia.org/resource/Sierra_Leone
+swaziland - http://dbpedia.org/resource/Eswatini
+uganda protectorate - http://dbpedia.org/resource/Uganda_Protectorate
+walvis bay - http://dbpedia.org/resource/Walvis_Bay
+zanzibar - http://dbpedia.org/resource/Zanzibar
+oceania - http://dbpedia.org/resource/Oceania
+guinea - http://dbpedia.org/resource/Guinea
+british solomon islands - http://dbpedia.org/resource/British_Solomon_Islands
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
+cook islands - http://dbpedia.org/resource/Cook_Islands
+gilbert - http://dbpedia.org/resource/Gilbert_(unit)
+ellice islands - http://dbpedia.org/resource/Tuvalu
+niue - http://dbpedia.org/resource/Niue
+tokelau - http://dbpedia.org/resource/Tokelau
+tonga - http://dbpedia.org/resource/Tanga_(carriage)
+han dynasty - http://dbpedia.org/resource/Han_dynasty
+tang dynasty - http://dbpedia.org/resource/Tang_dynasty
+qing dynasty - http://dbpedia.org/resource/Qing_dynasty
+tibet - http://dbpedia.org/resource/Tibet
+china proper - http://dbpedia.org/resource/China_proper
+lifan yuan - http://dbpedia.org/resource/Lifan_Yuan
+aruba - http://dbpedia.org/resource/Aruba
+curaçao - http://dbpedia.org/resource/Curaçao
+sint maarten - http://dbpedia.org/resource/Sint_Maarten
+constituent country - http://dbpedia.org/resource/Kingdom_of_the_Netherlands
+netherlands antilles - http://dbpedia.org/resource/Netherlands_Antilles
+sultanate - http://dbpedia.org/resource/Sultan
+dutch east indies - http://dbpedia.org/resource/Dutch_East_Indies
+saar - http://dbpedia.org/resource/Saar_Protectorate
+amical - http://dbpedia.org/resource/Amicale_F.C.
+germany - http://dbpedia.org/resource/German_Empire
+referendum - http://dbpedia.org/resource/Referendum
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+french protectorate - http://dbpedia.org/resource/Protectorate
+arcot - http://dbpedia.org/resource/Arcot_State
+carnatic - http://dbpedia.org/resource/Carnatic_music
+french protectorate - http://dbpedia.org/resource/Protectorate
+independence - http://dbpedia.org/resource/Independence
+british protectorate - http://dbpedia.org/resource/Protectorate
+french indochina - http://dbpedia.org/resource/French_Indochina
+cambodia - http://dbpedia.org/resource/French_Protectorate_of_Cambodia
+annam - http://dbpedia.org/resource/Vietnam
+tonkin - http://dbpedia.org/resource/Tonkin
+laos - http://dbpedia.org/resource/French_Protectorate_of_Laos
+madagascar - http://dbpedia.org/resource/Madagascar
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+french protectorate - http://dbpedia.org/resource/Protectorate
+anjouan - http://dbpedia.org/resource/Anjouan
+djibouti - http://dbpedia.org/resource/Djibouti
+obock - http://dbpedia.org/resource/Djibouti
+tadjoura - http://dbpedia.org/resource/Tadjoura
+tadjoura - http://dbpedia.org/resource/Tadjoura
+somalis - http://dbpedia.org/resource/Somalia
+french protectorate - http://dbpedia.org/resource/Protectorate
+britain - http://dbpedia.org/resource/British_Empire
+french somaliland - http://dbpedia.org/resource/Djibouti
+somalis - http://dbpedia.org/resource/Somalia
+mauritania - http://dbpedia.org/resource/Mauritania
+french protectorate - http://dbpedia.org/resource/Protectorate
+adrar - http://dbpedia.org/resource/Adrar_Region
+emirate - http://dbpedia.org/resource/Emirate
+french protectorate - http://dbpedia.org/resource/Protectorate
+confederation - http://dbpedia.org/resource/Confederation
+emirate - http://dbpedia.org/resource/Emirate
+french protectorate - http://dbpedia.org/resource/Protectorate
+brakna - http://dbpedia.org/resource/Brakna_Region
+confederation - http://dbpedia.org/resource/Confederation
+emirate - http://dbpedia.org/resource/Emirate
+emirate - http://dbpedia.org/resource/Emirate
+trarza - http://dbpedia.org/resource/Trarza_Region
+french protectorate - http://dbpedia.org/resource/Protectorate
+sultanate - http://dbpedia.org/resource/Sultan
+french protectorate - http://dbpedia.org/resource/Protectorate
+theory - http://dbpedia.org/resource/Theory
+sovereign - http://dbpedia.org/resource/Sovereignty
+fez - http://dbpedia.org/resource/Fez
+court - http://dbpedia.org/resource/Court
+spanish protectorate - http://dbpedia.org/resource/Spanish_protectorate_in_Morocco
+madagascar - http://dbpedia.org/resource/Madagascar
+imerina - http://dbpedia.org/resource/Merina_Kingdom
+french protectorate - http://dbpedia.org/resource/Protectorate
+french madagascar - http://dbpedia.org/resource/French_Madagascar
+colony - http://dbpedia.org/resource/Colony
+tunisia - http://dbpedia.org/resource/Tunisia
+french protectorate - http://dbpedia.org/resource/Protectorate
+saharan - http://dbpedia.org/resource/Sahara
+french colonial - http://dbpedia.org/resource/French_colonial_empire
+french west africa - http://dbpedia.org/resource/French_West_Africa
+direct rule - http://dbpedia.org/resource/British_Raj
+recreation - http://dbpedia.org/resource/Cycling
+authority figure - http://dbpedia.org/resource/Authority
+cercles - http://dbpedia.org/resource/Cercles_of_Mali
+benin - http://dbpedia.org/resource/Benin
+independent - http://dbpedia.org/resource/Independence
+french protectorate - http://dbpedia.org/resource/Protectorate
+porto novo - http://dbpedia.org/resource/Porto-Novo
+french protectorate - http://dbpedia.org/resource/Protectorate
+cotonou - http://dbpedia.org/resource/Cotonou
+french protectorate - http://dbpedia.org/resource/Protectorate
+porto novo - http://dbpedia.org/resource/Porto-Novo
+french protectorate - http://dbpedia.org/resource/Protectorate
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+central african republic - http://dbpedia.org/resource/Central_African_Republic
+french protectorate - http://dbpedia.org/resource/Protectorate
+dar al kuti - http://dbpedia.org/resource/Dar_al_Kuti
+sultanate - http://dbpedia.org/resource/Sultan
+french protectorate - http://dbpedia.org/resource/Protectorate
+sultanate - http://dbpedia.org/resource/Sultan
+bangassou - http://dbpedia.org/resource/Bangassou
+burkina faso - http://dbpedia.org/resource/Burkina_Faso
+french protectorate - http://dbpedia.org/resource/Protectorate
+upper volta - http://dbpedia.org/resource/French_Upper_Volta
+volta - http://dbpedia.org/resource/Volta_(literature)
+chad - http://dbpedia.org/resource/Chad_(paper)
+french protectorate - http://dbpedia.org/resource/Protectorate
+ivory coast - http://dbpedia.org/resource/Ivory_Coast
+guinea - http://dbpedia.org/resource/Guinea
+french protectorate - http://dbpedia.org/resource/Protectorate
+region - http://dbpedia.org/resource/Region
+sud - http://dbpedia.org/resource/Ninlil
+sultanate - http://dbpedia.org/resource/Sultan
+damagaram - http://dbpedia.org/resource/Sultanate_of_Damagaram
+zinder - http://dbpedia.org/resource/Zinder
+french protectorate - http://dbpedia.org/resource/Protectorate
+damagaram - http://dbpedia.org/resource/Sultanate_of_Damagaram
+sultan - http://dbpedia.org/resource/Sultan
+senegal - http://dbpedia.org/resource/Senegal
+french protectorate - http://dbpedia.org/resource/Protectorate
+oceania - http://dbpedia.org/resource/Oceania
+french polynesia - http://dbpedia.org/resource/French_Polynesia
+society islands - http://dbpedia.org/resource/Society_Islands
+annexed - http://dbpedia.org/resource/Annexation
+rahi - http://dbpedia.org/resource/Rahi_(film)
+french protectorate - http://dbpedia.org/resource/Protectorate
+tahiti - http://dbpedia.org/resource/French_Polynesia
+annexation - http://dbpedia.org/resource/Annexation
+french protectorate - http://dbpedia.org/resource/Protectorate
+mangareva - http://dbpedia.org/resource/Gambier_Islands
+gambier - http://dbpedia.org/resource/Uncaria
+french protectorate - http://dbpedia.org/resource/Protectorate
+wallis - http://dbpedia.org/resource/Wallis_and_Futuna
+wallis - http://dbpedia.org/resource/Wallis_and_Futuna
+french protectorate - http://dbpedia.org/resource/Protectorate
+uvea - http://dbpedia.org/resource/Uvea
+captain - http://dbpedia.org/resource/Sea_captain
+french protectorate - http://dbpedia.org/resource/Protectorate
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+sigave - http://dbpedia.org/resource/Sigave
+alo - http://dbpedia.org/resource/Alo_Creevey
+alofi - http://dbpedia.org/resource/Alofi
+french protectorate - http://dbpedia.org/resource/Protectorate
+german empire - http://dbpedia.org/resource/German_Empire
+schutzgebiet - http://dbpedia.org/resource/Protectorate
+colony - http://dbpedia.org/resource/Colony
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+indirect rule - http://dbpedia.org/resource/Indirect_rule
+guinea - http://dbpedia.org/resource/Guinea
+marshall islands - http://dbpedia.org/resource/Marshall_Islands
+nauru - http://dbpedia.org/resource/Nauru
+solomon island - http://dbpedia.org/resource/Solomon_Islands
+samoa - http://dbpedia.org/resource/Samoa
+western samoa - http://dbpedia.org/resource/Samoa
+sultanate - http://dbpedia.org/resource/Sultan
+witu - http://dbpedia.org/resource/Wituland
+wituland - http://dbpedia.org/resource/Wituland
+german south west africa - http://dbpedia.org/resource/German_South_West_Africa
+namibia - http://dbpedia.org/resource/Namibia
+mwami - http://dbpedia.org/resource/Mwami
+urundi - http://dbpedia.org/resource/Burundi
+mwami - http://dbpedia.org/resource/Mwami
+sultan - http://dbpedia.org/resource/Sultan
+nazi germany - http://dbpedia.org/resource/Nazi_Germany
+bohemia - http://dbpedia.org/resource/Bohemia
+moravia - http://dbpedia.org/resource/Moravia
+region - http://dbpedia.org/resource/Region
+czechoslovakia - http://dbpedia.org/resource/Czechoslovakia
+albania - http://dbpedia.org/resource/Albania
+independent - http://dbpedia.org/resource/Independence
+croatia - http://dbpedia.org/resource/Croatia
+monaco - http://dbpedia.org/resource/Monaco
+amical protectorate - http://dbpedia.org/resource/Protectorate
+sardinia - http://dbpedia.org/resource/Kingdom_of_Sardinia
+ethiopia - http://dbpedia.org/resource/Ethiopia
+wuchale - http://dbpedia.org/resource/Wuchale
+italian language - http://dbpedia.org/resource/Italian_language
+ethiopia - http://dbpedia.org/resource/Ethiopia
+ethiopian - http://dbpedia.org/resource/Ethiopia
+amharic language - http://dbpedia.org/resource/Amharic
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+foreign affair - http://dbpedia.org/resource/Foreign_Affair_(Tina_Turner_album)
+light - http://dbpedia.org/resource/Light_infantry
+emperor menelik ii - http://dbpedia.org/resource/Menelik_II
+menelik ii - http://dbpedia.org/resource/Menelik_II
+article - http://dbpedia.org/resource/Bratislava
+ethiopian war - http://dbpedia.org/resource/Second_Italo-Ethiopian_War
+ethiopia - http://dbpedia.org/resource/Ethiopia
+sovereignty - http://dbpedia.org/resource/Sovereignty
+libya - http://dbpedia.org/resource/Libya
+cirenaica - http://dbpedia.org/resource/Cyrenaica
+cyrenaica - http://dbpedia.org/resource/Cyrenaica
+somalia - http://dbpedia.org/resource/Somalia
+benadir - http://dbpedia.org/resource/Banaadir
+coast - http://dbpedia.org/resource/Coast
+italian somaliland - http://dbpedia.org/resource/Somalia
+majeerteen sultanate - http://dbpedia.org/resource/Majeerteen_Sultanate
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+colony - http://dbpedia.org/resource/Colony
+sultanate - http://dbpedia.org/resource/Sultan
+hobyo - http://dbpedia.org/resource/Sultanate_of_Hobyo
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+colony - http://dbpedia.org/resource/Colony
+obbia - http://dbpedia.org/resource/Hobyo
+korean empire - http://dbpedia.org/resource/Korean_Empire
+portuguese - http://dbpedia.org/resource/Portugal
+kongo - http://dbpedia.org/resource/Belgian_Congo
+cabinda - http://dbpedia.org/resource/Cabinda_Province
+portuguese congo - http://dbpedia.org/resource/Cabinda_Province
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+sovereignty - http://dbpedia.org/resource/Sovereignty
+cabinda - http://dbpedia.org/resource/Cabinda_Province
+cabinda - http://dbpedia.org/resource/Cabinda_Province
+portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
+governor - http://dbpedia.org/resource/Governor
+cabinda - http://dbpedia.org/resource/Cabinda_Province
+gaza empire - http://dbpedia.org/resource/Gaza_Empire
+angoche sultanate - http://dbpedia.org/resource/Angoche_Sultanate
+kartli - http://dbpedia.org/resource/Kartli
+kakheti - http://dbpedia.org/resource/Kingdom_of_Kartli-Kakheti
+imereti - http://dbpedia.org/resource/Kingdom_of_Imereti
+emirate - http://dbpedia.org/resource/Emirate
+bukhara - http://dbpedia.org/resource/Bukhara
+khanate - http://dbpedia.org/resource/Khanate
+khiva - http://dbpedia.org/resource/Khanate_of_Khiva
+mauritania - http://dbpedia.org/resource/Mauritania
+adrar - http://dbpedia.org/resource/Adrar_Region
+emirate - http://dbpedia.org/resource/Emirate
+spanish protectorate - http://dbpedia.org/resource/Spanish_protectorate_in_Morocco
+french protectorate - http://dbpedia.org/resource/Protectorate
+spanish morocco - http://dbpedia.org/resource/Spanish_protectorate_in_Morocco
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+zone 7 - http://dbpedia.org/resource/A_roads_in_Zone_7_of_the_Great_Britain_numbering_scheme
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+cape juby - http://dbpedia.org/resource/Cape_Juby
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+liberia - http://dbpedia.org/resource/Liberia
+cuba - http://dbpedia.org/resource/Cuba
+panama canal zone - http://dbpedia.org/resource/Panama_Canal_Zone
+honduras - http://dbpedia.org/resource/Honduras
+nicaragua - http://dbpedia.org/resource/Nicaragua
+dominican republic - http://dbpedia.org/resource/Dominican_Republic
+sultanate - http://dbpedia.org/resource/Sultan
+sulu - http://dbpedia.org/resource/Sulu_(skirt)
+philippine commonwealth - http://dbpedia.org/resource/Commonwealth_of_the_Philippines
+hawaii islands - http://dbpedia.org/resource/Hawaiian_Islands
+foreign affair - http://dbpedia.org/resource/Foreign_Affair_(Tina_Turner_album)
+compact - http://dbpedia.org/resource/Compact_car
+marshall islands - http://dbpedia.org/resource/Marshall_Islands
+federated - http://dbpedia.org/resource/Federation
+micronesia - http://dbpedia.org/resource/Micronesia
+palau - http://dbpedia.org/resource/Palau
+independence - http://dbpedia.org/resource/Independence
+agency - http://dbpedia.org/resource/Institution
+environmental protection agency - http://dbpedia.org/resource/United_States_Environmental_Protection_Agency
+insular area - http://dbpedia.org/resource/Insular_area
+guam - http://dbpedia.org/resource/Guam
+commonwealth - http://dbpedia.org/resource/Republic
+mariana islands - http://dbpedia.org/resource/Northern_Mariana_Islands
+commonwealth - http://dbpedia.org/resource/Republic
+puerto rico - http://dbpedia.org/resource/Puerto_Rico
+u.s. virgin islands - http://dbpedia.org/resource/United_States_Virgin_Islands
+virgin islands - http://dbpedia.org/resource/British_Virgin_Islands
+philippines - http://dbpedia.org/resource/Philippines
+platt amendment - http://dbpedia.org/resource/Platt_Amendment
+cuba - http://dbpedia.org/resource/Cuba
+spanish colonial rule - http://dbpedia.org/resource/Spanish_Empire
+liberia - http://dbpedia.org/resource/Liberia
+african continent - http://dbpedia.org/resource/Africa
+colony - http://dbpedia.org/resource/Colony
+independence - http://dbpedia.org/resource/Independence
+liberia - http://dbpedia.org/resource/Liberia
+african americans - http://dbpedia.org/resource/African_Americans
+slave - http://dbpedia.org/resource/History_of_slavery
+settler - http://dbpedia.org/resource/Settler
+american colonization society - http://dbpedia.org/resource/American_Colonization_Society
+agency - http://dbpedia.org/resource/Institution
+administration - http://dbpedia.org/resource/Public_administration
+insular affairs - http://dbpedia.org/resource/United_States_House_Committee_on_Natural_Resources
+oia - http://dbpedia.org/resource/Oia,_Greece
+insular area - http://dbpedia.org/resource/Insular_area
+guinea - http://dbpedia.org/resource/Guinea
+west irian - http://dbpedia.org/resource/Western_New_Guinea
+united nations temporary executive authority - http://dbpedia.org/resource/United_Nations_Temporary_Executive_Authority
+cambodia - http://dbpedia.org/resource/French_Protectorate_of_Cambodia
+cambodia - http://dbpedia.org/resource/French_Protectorate_of_Cambodia
+croatia - http://dbpedia.org/resource/Croatia
+slavonia - http://dbpedia.org/resource/Slavonia
+baranja - http://dbpedia.org/resource/Baranya_(region)
+sirmium - http://dbpedia.org/resource/Syrmia
+east timor - http://dbpedia.org/resource/East_Timor
+transitional administration - http://dbpedia.org/resource/Transitional_Islamic_State_of_Afghanistan
+east timor - http://dbpedia.org/resource/East_Timor
+kosovo - http://dbpedia.org/resource/Kosovo
+administration - http://dbpedia.org/resource/Public_administration
+kosovo - http://dbpedia.org/resource/Kosovo
+condominium - http://dbpedia.org/resource/Anglo-Egyptian_Sudan
+international law - http://dbpedia.org/resource/International_law
+adriatic - http://dbpedia.org/resource/Adriatic_Sea
+republic - http://dbpedia.org/resource/Republic
+ragusa - http://dbpedia.org/resource/Republic_of_Ragusa
+dubrovnik - http://dbpedia.org/resource/Republic_of_Ragusa
+dalmatia - http://dbpedia.org/resource/Dalmatia
+habsburg austrian - http://dbpedia.org/resource/Habsburg_Monarchy
+ottoman turkish - http://dbpedia.org/resource/Ottoman_Empire
+catholic - http://dbpedia.org/resource/Catholic_Church
+muslim - http://dbpedia.org/resource/Islam
+ionian islands - http://dbpedia.org/resource/Ionian_Islands
+septinsular republic - http://dbpedia.org/resource/Septinsular_Republic
+provveditore - http://dbpedia.org/resource/Provveditore
+ionian island - http://dbpedia.org/resource/Ionian_Islands
+corfu - http://dbpedia.org/resource/Corfu
+cephalonia - http://dbpedia.org/resource/Cephalonia
+santa maura - http://dbpedia.org/resource/Lefkada
+ithaca - http://dbpedia.org/resource/Ithaca
+cerigo - http://dbpedia.org/resource/Kythira
+paxos - http://dbpedia.org/resource/Paxi
+de facto - http://dbpedia.org/resource/De_facto
+amical protectorate - http://dbpedia.org/resource/Protectorate
+bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+austria hungary - http://dbpedia.org/resource/Austria-Hungary
+bosnian crisis - http://dbpedia.org/resource/Bosnian_Crisis
+dayton agreement - http://dbpedia.org/resource/Dayton_Agreement
+bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+de facto - http://dbpedia.org/resource/De_facto
+bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+peace implementation council - http://dbpedia.org/resource/Peace_Implementation_Council
+high representative - http://dbpedia.org/resource/High_commissioner
+bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+european union - http://dbpedia.org/resource/European_Union
+police mission - http://dbpedia.org/resource/European_Union_Police_Mission_in_Bosnia_and_Herzegovina
+bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+eufor - http://dbpedia.org/resource/European_Union_Military_Operation_in_Chad_and_the_Central_African_Republic
+althea - http://dbpedia.org/resource/Cyclone_Althea
+chinese protectorate - http://dbpedia.org/resource/Chinese_Protectorate
+puerto rico - http://dbpedia.org/resource/Puerto_Rico
+microstate - http://dbpedia.org/resource/Microstate
+micro - http://dbpedia.org/resource/Microeconomics
+statehood - http://dbpedia.org/resource/Sovereign_state
+paper - http://dbpedia.org/resource/Academic_publishing
+statesman - http://dbpedia.org/resource/Diplomat
+yearbook - http://dbpedia.org/resource/Yearbook
+andrew roberts - http://dbpedia.org/resource/Andrew_Roberts_(historian)
+salisbury - http://dbpedia.org/resource/Harare
+victorian - http://dbpedia.org/resource/Victorian_era
+titan - http://dbpedia.org/resource/Titan_(mythology)
+lakshmi - http://dbpedia.org/resource/Lakshmi
+iyer - http://dbpedia.org/resource/Iyer
+colonial rule - http://dbpedia.org/resource/British_Empire
+statistics - http://dbpedia.org/resource/Statistics
+warrant chiefs - http://dbpedia.org/resource/Indirect_rule
+indirect rule - http://dbpedia.org/resource/Indirect_rule
+southeastern nigeria - http://dbpedia.org/resource/Igboland
+longman - http://dbpedia.org/resource/Longman
+article - http://dbpedia.org/resource/Bratislava
+jane - http://dbpedia.org/resource/Jane_Fonda
+tuvalu - http://dbpedia.org/resource/Tuvalu
+royalist - http://dbpedia.org/resource/Spanish_Empire
+ellice islands - http://dbpedia.org/resource/Tuvalu
+captain - http://dbpedia.org/resource/Sea_captain
+noatia - http://dbpedia.org/resource/Noatia
+teo - http://dbpedia.org/resource/Teo_Fabi
+colonial rule - http://dbpedia.org/resource/British_Empire
+tuvalu - http://dbpedia.org/resource/Tuvalu
+south pacific - http://dbpedia.org/resource/Oceania
+tuvalu - http://dbpedia.org/resource/Tuvalu
+commonwealth - http://dbpedia.org/resource/Republic
+law - http://dbpedia.org/resource/Law
+kenneth roberts - http://dbpedia.org/resource/Kenneth_Roberts_(author)
+wray - http://dbpedia.org/resource/WRAY-FM
+map - http://dbpedia.org/resource/Map
+british india - http://dbpedia.org/resource/British_Raj
+freedom - http://dbpedia.org/resource/Freedom_of_religion
+french west africa - http://dbpedia.org/resource/French_West_Africa
+oxford university - http://dbpedia.org/resource/University_of_Oxford
+robert aldrich - http://dbpedia.org/resource/Robert_Aldrich
+alice - http://dbpedia.org/resource/Alice_and_Bob
+republican - http://dbpedia.org/resource/Republic
+west africa - http://dbpedia.org/resource/French_West_Africa
+stanford - http://dbpedia.org/resource/Stanford_University
+stanford university press - http://dbpedia.org/resource/Stanford_University_Press
+patrick manning - http://dbpedia.org/resource/Patrick_Manning
+francophone - http://dbpedia.org/resource/French_language
+saharan - http://dbpedia.org/resource/Sahara
+cambridge university - http://dbpedia.org/resource/University_of_Cambridge
+paris - http://dbpedia.org/resource/Paris
+translation - http://dbpedia.org/resource/Translation
+french colonialism - http://dbpedia.org/resource/French_colonial_empire
+tropical africa - http://dbpedia.org/resource/Tropical_Africa
+york - http://dbpedia.org/resource/York
+newbury - http://dbpedia.org/resource/Newbury_railway_station
+pacific historical review - http://dbpedia.org/resource/Pacific_Historical_Review
+colonies - http://dbpedia.org/resource/French_colonial_empire
+paul - http://dbpedia.org/resource/Paul_I_of_Russia
+claude augé - http://dbpedia.org/resource/Claude_Augé
+petit larousse illustré - http://dbpedia.org/resource/Petit_Larousse

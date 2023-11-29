@@ -1,0 +1,100 @@
+temporal - http://dbpedia.org/resource/Temporal_power_of_the_Holy_See
+austria - http://dbpedia.org/resource/Austria
+church - http://dbpedia.org/resource/One_true_church
+eastern empire - http://dbpedia.org/resource/Byzantine_Empire
+batter - http://dbpedia.org/resource/Assault
+soldier - http://dbpedia.org/resource/Soldier
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+christianity - http://dbpedia.org/resource/Christianity
+turkey - http://dbpedia.org/resource/Turkey
+stone - http://dbpedia.org/resource/Stonemasonry
+hack - http://dbpedia.org/resource/Security_hacker
+european union - http://dbpedia.org/resource/European_Union
+serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+die - http://dbpedia.org/resource/Death
+bosnia - http://dbpedia.org/resource/Kingdom_of_Bosnia
+slide - http://dbpedia.org/resource/Pistol_slide
+bombard - http://dbpedia.org/resource/Bombardment
+ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
+rome - http://dbpedia.org/resource/Roman_Empire
+eastern orthodoxy - http://dbpedia.org/resource/Eastern_Orthodox_Church
+faith - http://dbpedia.org/resource/Christianity
+virgin mary - http://dbpedia.org/resource/Theotokos
+iron - http://dbpedia.org/resource/Iron
+assault - http://dbpedia.org/resource/Battle_of_France
+revenue - http://dbpedia.org/resource/Revenue
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+gunpowder - http://dbpedia.org/resource/Gunpowder
+terrified - http://dbpedia.org/resource/Terrified_(album)
+bronze - http://dbpedia.org/resource/Bronze
+multinational - http://dbpedia.org/resource/Multinational_state
+emergent - http://dbpedia.org/resource/Rainforest
+trinity - http://dbpedia.org/resource/Trinity
+sacrifice - http://dbpedia.org/resource/Sacrifice
+austro - http://dbpedia.org/resource/Habsburg_Monarchy
+turks - http://dbpedia.org/resource/Ottoman_Empire
+icon - http://dbpedia.org/resource/Icon
+drum - http://dbpedia.org/resource/Tholobate
+migrant labour - http://dbpedia.org/resource/Migrant_worker
+thunderstorm - http://dbpedia.org/resource/Thunderstorm
+saint - http://dbpedia.org/resource/Saint
+portent - http://dbpedia.org/resource/Omen
+albania - http://dbpedia.org/resource/Albania
+warfare - http://dbpedia.org/resource/War
+refugee - http://dbpedia.org/resource/Refugee
+moscow - http://dbpedia.org/resource/Grand_Duchy_of_Moscow
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+genoese - http://dbpedia.org/resource/Genoa
+vienna - http://dbpedia.org/resource/Vienna
+europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
+watershed - http://dbpedia.org/resource/Drainage_divide
+northern cyprus - http://dbpedia.org/resource/Northern_Cyprus
+patriarch - http://dbpedia.org/resource/Ecumenical_Patriarch_of_Constantinople
+defender - http://dbpedia.org/resource/Defendant
+byzantium - http://dbpedia.org/resource/Constantinople
+looting - http://dbpedia.org/resource/Looting
+muslim - http://dbpedia.org/resource/Muslims
+war cry - http://dbpedia.org/resource/Battle_cry
+germany - http://dbpedia.org/resource/German_Empire
+fortress - http://dbpedia.org/resource/Fortification
+renaissance - http://dbpedia.org/resource/Renaissance
+queen city - http://dbpedia.org/resource/Cincinnati
+train - http://dbpedia.org/resource/Train
+altar - http://dbpedia.org/resource/Altar
+patriarchate - http://dbpedia.org/resource/Patriarchate
+greece - http://dbpedia.org/resource/Kingdom_of_Greece
+procession - http://dbpedia.org/resource/Procession
+political capital - http://dbpedia.org/resource/Capital_city
+south eastern europe - http://dbpedia.org/resource/Southeast_Europe
+lunar eclipse - http://dbpedia.org/resource/Lunar_eclipse
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+marble - http://dbpedia.org/resource/Marble
+city - http://dbpedia.org/resource/City
+turkish invasion - http://dbpedia.org/resource/Turkish_invasion_of_Cyprus
+christian community - http://dbpedia.org/resource/The_Christian_Community
+clergy - http://dbpedia.org/resource/Clergy
+noise - http://dbpedia.org/resource/Noise
+schism - http://dbpedia.org/resource/Schism
+imam - http://dbpedia.org/resource/Shia_Islam
+great church - http://dbpedia.org/resource/Hagia_Sophia
+patriot - http://dbpedia.org/resource/Patriotism
+family - http://dbpedia.org/resource/Family
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+slip - http://dbpedia.org/resource/Slipway
+trumpet - http://dbpedia.org/resource/Trumpet
+janissary - http://dbpedia.org/resource/Janissaries
+holy apostles - http://dbpedia.org/resource/Apostles
+emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
+sophia - http://dbpedia.org/resource/Sophia_(wisdom)
+anatolia - http://dbpedia.org/resource/Anatolia
+eastern christendom - http://dbpedia.org/resource/Eastern_Christianity
+priest - http://dbpedia.org/resource/Clergy
+muslim conquest - http://dbpedia.org/resource/Spread_of_Islam
+east west - http://dbpedia.org/resource/East_West_Records
+sultan - http://dbpedia.org/resource/Ottoman_dynasty
+greek orthodox - http://dbpedia.org/resource/Greek_Orthodox_Church
+doctrine - http://dbpedia.org/resource/Doctrine
+russia - http://dbpedia.org/resource/Russia
+sovereign - http://dbpedia.org/resource/Monarch
+nato - http://dbpedia.org/resource/NATO
+anatolian - http://dbpedia.org/resource/Anatolia

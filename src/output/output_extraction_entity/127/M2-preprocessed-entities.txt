@@ -1,0 +1,21 @@
+wood - http://dbpedia.org/resource/Wood
+stone - http://dbpedia.org/resource/Masonry
+castle moat - http://dbpedia.org/resource/Moat
+draw bridge - http://dbpedia.org/resource/Drawbridge
+bailey - http://dbpedia.org/resource/Inner_bailey
+castle bailey - http://dbpedia.org/resource/Bailey_(castle)
+lake - http://dbpedia.org/resource/Lake
+defender - http://dbpedia.org/resource/Association_football
+archer - http://dbpedia.org/resource/Bow_and_arrow
+arrow - http://dbpedia.org/resource/Arrow
+iron - http://dbpedia.org/resource/Wrought_iron
+medieval - http://dbpedia.org/resource/Middle_Ages
+nobleman - http://dbpedia.org/resource/Nobility
+family - http://dbpedia.org/resource/Family
+lord king - http://dbpedia.org/resource/Earl_of_Lovelace
+village - http://dbpedia.org/resource/Village
+food - http://dbpedia.org/resource/Food
+chamber - http://dbpedia.org/resource/Room
+middle ages - http://dbpedia.org/resource/Middle_Ages
+a.d. - http://dbpedia.org/resource/Anno_Domini
+cannon - http://dbpedia.org/resource/Cannon

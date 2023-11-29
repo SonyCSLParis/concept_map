@@ -1,0 +1,144 @@
+dart - http://dbpedia.org/resource/Darts
+middle bronze age - http://dbpedia.org/resource/Bronze_Age
+matrix - http://dbpedia.org/resource/Composite_material
+jerusalem - http://dbpedia.org/resource/Jerusalem
+greenbrier county - http://dbpedia.org/resource/Greenbrier_County,_West_Virginia
+foam - http://dbpedia.org/resource/Foam
+denominational - http://dbpedia.org/resource/Christian_denomination
+hickory grove - http://dbpedia.org/resource/Hickory_Grove,_South_Carolina
+unincorporated community - http://dbpedia.org/resource/Unincorporated_area
+3 group - http://dbpedia.org/resource/No._3_Group_RAF
+craftsman style - http://dbpedia.org/resource/American_Craftsman
+alloy - http://dbpedia.org/resource/Alloy
+metastable - http://dbpedia.org/resource/Metastability
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+algorithm - http://dbpedia.org/resource/Algorithm
+egg - http://dbpedia.org/resource/Oval
+molding - http://dbpedia.org/resource/Injection_moulding
+metal - http://dbpedia.org/resource/Metal
+berkeley county - http://dbpedia.org/resource/Berkeley_County,_West_Virginia
+clapboard - http://dbpedia.org/resource/Clapperboard
+neighborhood - http://dbpedia.org/resource/Local_government_in_New_Jersey
+space - http://dbpedia.org/resource/Space
+rural - http://dbpedia.org/resource/Rural_area
+netherlands - http://dbpedia.org/resource/Netherlands
+intersection - http://dbpedia.org/resource/Intersection
+randolph township - http://dbpedia.org/resource/Randolph,_New_Jersey
+hedgesville - http://dbpedia.org/resource/Hedgesville_High_School
+romney - http://dbpedia.org/resource/New_Romney
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+folk - http://dbpedia.org/resource/Folk_art
+helton - http://dbpedia.org/resource/Helton_Arruda
+winnsboro - http://dbpedia.org/resource/Winnsboro,_Louisiana
+lap siding - http://dbpedia.org/resource/Siding
+arrow - http://dbpedia.org/resource/Arrowhead
+york - http://dbpedia.org/resource/York
+rotterdam - http://dbpedia.org/resource/Rotterdam
+morris county - http://dbpedia.org/resource/Morris_County,_New_Jersey
+romans - http://dbpedia.org/resource/Romans_(musician)
+springfield - http://dbpedia.org/resource/Springfield,_Massachusetts
+presbyterian - http://dbpedia.org/resource/Presbyterianism
+7/11 - http://dbpedia.org/resource/7-Eleven
+ai - http://dbpedia.org/resource/Artificial_intelligence
+weatherboard - http://dbpedia.org/resource/Clapboard_(architecture)
+gable - http://dbpedia.org/resource/Gable
+chamber tomb - http://dbpedia.org/resource/Chamber_tomb
+megalithic - http://dbpedia.org/resource/Megalith
+urban - http://dbpedia.org/resource/Urban_park
+mount - http://dbpedia.org/resource/Mountain
+stone - http://dbpedia.org/resource/Sandstone
+mount bethel church - http://dbpedia.org/resource/Mount_Bethel_Church_(Three_Churches,_West_Virginia)
+jersey mountain road - http://dbpedia.org/resource/Jersey_Mountain_Road
+bevel - http://dbpedia.org/resource/Bevel
+settlement - http://dbpedia.org/resource/Town
+capon - http://dbpedia.org/resource/Capon
+slope - http://dbpedia.org/resource/Slope
+evans - http://dbpedia.org/resource/Godfrey_Evans
+bungalow - http://dbpedia.org/resource/Bungalow
+energy consumption - http://dbpedia.org/resource/Efficient_energy_use
+tile - http://dbpedia.org/resource/Tile
+charleston - http://dbpedia.org/resource/Hi-hat
+surface 3 - http://dbpedia.org/resource/Surface_3
+north carolina - http://dbpedia.org/resource/North_Carolina
+ovolo - http://dbpedia.org/resource/Ovolo
+presbyterian church u.s.a. - http://dbpedia.org/resource/Presbyterian_Church_(USA)
+stele - http://dbpedia.org/resource/Headstone
+lewisburg - http://dbpedia.org/resource/Lewisburg,_Pennsylvania
+maccabean period - http://dbpedia.org/resource/Maccabees
+fairfield county - http://dbpedia.org/resource/Fairfield_County,_Connecticut
+headstone - http://dbpedia.org/resource/Headstone
+jackson county - http://dbpedia.org/resource/Jackson_County,_Missouri
+moulding - http://dbpedia.org/resource/Crown_molding
+8/11 - http://dbpedia.org/resource/Odds
+baptist church - http://dbpedia.org/resource/Baptists
+architecture - http://dbpedia.org/resource/Architecture
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+essex county - http://dbpedia.org/resource/Essex
+vernacular - http://dbpedia.org/resource/Vernacular_architecture
+lake - http://dbpedia.org/resource/Lake
+sussex - http://dbpedia.org/resource/Sussex
+fuse - http://dbpedia.org/resource/Nuclear_fusion
+quiz - http://dbpedia.org/resource/Quiz
+pronunciation - http://dbpedia.org/resource/International_Phonetic_Alphabet
+anchor - http://dbpedia.org/resource/Anchor
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+tomb - http://dbpedia.org/resource/Tomb
+chapel - http://dbpedia.org/resource/Chapel
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+high density housing - http://dbpedia.org/resource/Apartment
+4/11 - http://dbpedia.org/resource/Odds
+piet blom - http://dbpedia.org/resource/Piet_Blom
+integral - http://dbpedia.org/resource/Integral
+mount freedom - http://dbpedia.org/resource/Mount_Freedom,_New_Jersey
+dormer - http://dbpedia.org/resource/Dormer
+plaster - http://dbpedia.org/resource/Stucco
+plane - http://dbpedia.org/resource/Two-dimensional_space
+brandywine - http://dbpedia.org/resource/Battle_of_Brandywine
+rock - http://dbpedia.org/resource/Rock_music
+eave - http://dbpedia.org/resource/Eaves
+helmond - http://dbpedia.org/resource/Helmond
+coving - http://dbpedia.org/resource/Molding_(decorative)
+lutheran church - http://dbpedia.org/resource/Evangelical_Lutheran_Church_in_America
+transom - http://dbpedia.org/resource/Stern
+9/11 - http://dbpedia.org/resource/September_11_attacks
+cluster - http://dbpedia.org/resource/Cluster_analysis
+shepherdstown - http://dbpedia.org/resource/Battle_of_Shepherdstown
+carbon - http://dbpedia.org/resource/Carbon_steel
+nw - http://dbpedia.org/resource/Cardinal_direction
+ridge - http://dbpedia.org/resource/Ridge
+frenchwood - http://dbpedia.org/resource/Avenham
+structural element - http://dbpedia.org/resource/Structural_element
+gravestone - http://dbpedia.org/resource/Headstone
+rehavia - http://dbpedia.org/resource/Rehavia
+structural beam - http://dbpedia.org/resource/Beam_(structure)
+methodist church - http://dbpedia.org/resource/Methodism
+port henry - http://dbpedia.org/resource/Port_Henry,_New_York
+west virginia - http://dbpedia.org/resource/West_Virginia
+archaeologist - http://dbpedia.org/resource/Archaeology
+glass - http://dbpedia.org/resource/Glass
+county route 5 - http://dbpedia.org/resource/New_York_State_Route_95
+pearlitic - http://dbpedia.org/resource/Pearlite
+slag - http://dbpedia.org/resource/Slag
+pendleton county - http://dbpedia.org/resource/Pendleton_County,_West_Virginia
+town - http://dbpedia.org/resource/New_England_town
+atlantic europe - http://dbpedia.org/resource/Atlantic_Europe
+moriah - http://dbpedia.org/resource/Moriah
+springfield brick house - http://dbpedia.org/resource/Springfield_Brick_House
+purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
+baptist - http://dbpedia.org/resource/Baptists
+ashe county - http://dbpedia.org/resource/Ashe_County,_North_Carolina
+gablefront house - http://dbpedia.org/resource/Gablefront_house
+1 group - http://dbpedia.org/resource/No._1_Group_RAF
+iron - http://dbpedia.org/resource/Wrought_iron
+object - http://dbpedia.org/resource/Object-oriented_programming
+st. albans - http://dbpedia.org/resource/St_Albans
+church - http://dbpedia.org/resource/Church_architecture
+mould - http://dbpedia.org/resource/Mold
+italian renaissance - http://dbpedia.org/resource/Italianate_architecture
+wood - http://dbpedia.org/resource/Wood
+pine - http://dbpedia.org/resource/Pine
+hampshire county - http://dbpedia.org/resource/Hampshire
+insulation - http://dbpedia.org/resource/Thermal_insulation
+bedmould - http://dbpedia.org/resource/Bed-mould
+commonwealth - http://dbpedia.org/resource/Virginia
+south carolina - http://dbpedia.org/resource/South_Carolina

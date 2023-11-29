@@ -1,0 +1,106 @@
+roman province - http://dbpedia.org/resource/Roman_province
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+roman province - http://dbpedia.org/resource/Roman_province
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+30 bc - http://dbpedia.org/resource/30_BC
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+lose control - http://dbpedia.org/resource/Lose_Control_(Missy_Elliott_song)
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+roman province - http://dbpedia.org/resource/Roman_province
+augustus - http://dbpedia.org/resource/Augustus
+30 bc - http://dbpedia.org/resource/30_BC
+mark anthony - http://dbpedia.org/resource/Mark_Antony
+queen - http://dbpedia.org/resource/Queen_regnant
+cleopatra - http://dbpedia.org/resource/Cleopatra
+capital - http://dbpedia.org/resource/Financial_capital
+alexandria - http://dbpedia.org/resource/Alexandria
+greek mythology - http://dbpedia.org/resource/Greek_mythology
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+ancient greek - http://dbpedia.org/resource/Ancient_Greek
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+roman province - http://dbpedia.org/resource/Roman_province
+augustus - http://dbpedia.org/resource/Augustus
+gaius cornelius gallus - http://dbpedia.org/resource/Cornelius_Gallus
+governor - http://dbpedia.org/resource/Roman_governor
+governor - http://dbpedia.org/resource/Roman_governor
+governor - http://dbpedia.org/resource/Roman_governor
+hierarchy - http://dbpedia.org/resource/Hierarchy
+administration - http://dbpedia.org/resource/Public_administration
+security - http://dbpedia.org/resource/Security
+legion - http://dbpedia.org/resource/Roman_legion
+cohort - http://dbpedia.org/resource/Demography
+peace - http://dbpedia.org/resource/Peace
+roman law - http://dbpedia.org/resource/Roman_law
+romans - http://dbpedia.org/resource/Romans_(musician)
+revenue - http://dbpedia.org/resource/Tax
+administration - http://dbpedia.org/resource/Public_administration
+town council - http://dbpedia.org/resource/Town_council
+town council - http://dbpedia.org/resource/Town_council
+greeks - http://dbpedia.org/resource/Ancient_Greece
+independent - http://dbpedia.org/resource/Independence
+town council - http://dbpedia.org/resource/Town_council
+romans - http://dbpedia.org/resource/Romans_(musician)
+tax - http://dbpedia.org/resource/Roman_Empire
+cash - http://dbpedia.org/resource/Money
+cash - http://dbpedia.org/resource/Money
+public service - http://dbpedia.org/resource/Public_service
+officer - http://dbpedia.org/resource/Civil_Services_of_India
+tenant - http://dbpedia.org/resource/Land_tenure
+poll tax - http://dbpedia.org/resource/Poll_tax
+romans - http://dbpedia.org/resource/Romans_(musician)
+metropolis - http://dbpedia.org/resource/Colonies_in_antiquity
+tax - http://dbpedia.org/resource/Roman_Empire
+egyptians - http://dbpedia.org/resource/Ptolemaic_Kingdom
+social hierarchy - http://dbpedia.org/resource/Social_class_in_ancient_Rome
+romans - http://dbpedia.org/resource/Romans_(musician)
+romans - http://dbpedia.org/resource/Romans_(musician)
+metropolite - http://dbpedia.org/resource/Metropolitan_bishop
+village - http://dbpedia.org/resource/Villages_of_Brunei
+citizenship - http://dbpedia.org/resource/Roman_citizenship
+legion - http://dbpedia.org/resource/Roman_legion
+alexandria - http://dbpedia.org/resource/Alexandria
+roman citizenship - http://dbpedia.org/resource/Roman_citizenship
+food - http://dbpedia.org/resource/Food
+romans - http://dbpedia.org/resource/Romans_(musician)
+food - http://dbpedia.org/resource/Food
+transport - http://dbpedia.org/resource/Transport
+rome - http://dbpedia.org/resource/Roman_Empire
+roman province - http://dbpedia.org/resource/Roman_province
+coin - http://dbpedia.org/resource/Roman_currency
+egyptians - http://dbpedia.org/resource/Ptolemaic_Kingdom
+revolt - http://dbpedia.org/resource/Revolution
+taxation - http://dbpedia.org/resource/Tax
+revenue - http://dbpedia.org/resource/Tax
+revolution - http://dbpedia.org/resource/Revolution
+economy - http://dbpedia.org/resource/Economy
+roman province - http://dbpedia.org/resource/Roman_province
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+christianity - http://dbpedia.org/resource/Christianity
+coptic christian - http://dbpedia.org/resource/Copts
+sect - http://dbpedia.org/resource/Sect
+christianity - http://dbpedia.org/resource/Christianity
+christianity - http://dbpedia.org/resource/Christianity
+alexandria - http://dbpedia.org/resource/Alexandria
+christianity - http://dbpedia.org/resource/Christianity
+roman province - http://dbpedia.org/resource/Roman_province
+arianism - http://dbpedia.org/resource/Arianism
+gnosticism - http://dbpedia.org/resource/Gnosticism
+manichaeism - http://dbpedia.org/resource/Manichaeism
+monasticism - http://dbpedia.org/resource/Christian_monasticism
+partition - http://dbpedia.org/resource/Partitions_of_Poland
+roman empire - http://dbpedia.org/resource/Roman_Empire
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+capital - http://dbpedia.org/resource/Financial_capital
+language - http://dbpedia.org/resource/Latin
+alexandria - http://dbpedia.org/resource/Alexandria
+main source - http://dbpedia.org/resource/Main_Source
+food - http://dbpedia.org/resource/Food
+romans - http://dbpedia.org/resource/Romans_(musician)
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+roman province - http://dbpedia.org/resource/Roman_province
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt

@@ -1,0 +1,5 @@
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+bit.ly - http://dbpedia.org/resource/Bitly
+article - http://dbpedia.org/resource/Equality_Mississippi
+town - http://dbpedia.org/resource/Market_town

@@ -1,0 +1,47 @@
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+november 22nd - http://dbpedia.org/resource/November_22
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+swift - http://dbpedia.org/resource/Swift
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+johns - http://dbpedia.org/resource/Prostitution
+north england - http://dbpedia.org/resource/Northern_England
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+build order - http://dbpedia.org/resource/Build_order
+river eamont - http://dbpedia.org/resource/River_Eamont
+lowther - http://dbpedia.org/resource/River_Lowther
+eamont - http://dbpedia.org/resource/River_Eamont
+north south - http://dbpedia.org/resource/North_South_MRT_line
+east west - http://dbpedia.org/resource/East_West_MRT_line
+romans - http://dbpedia.org/resource/Romans_(musician)
+fort - http://dbpedia.org/resource/Castra
+brocavum - http://dbpedia.org/resource/Brocavum
+stone - http://dbpedia.org/resource/Stonemasonry
+earthwork - http://dbpedia.org/resource/Fortification
+medieval - http://dbpedia.org/resource/Middle_Ages
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+stone - http://dbpedia.org/resource/Stonemasonry
+timber - http://dbpedia.org/resource/Timber_framing
+stone - http://dbpedia.org/resource/Stonemasonry
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
+robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+gatehouse - http://dbpedia.org/resource/Gatehouse
+tower - http://dbpedia.org/resource/Keep
+castle bailey - http://dbpedia.org/resource/Bailey_(castle)
+stone - http://dbpedia.org/resource/Stonemasonry
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+defence - http://dbpedia.org/resource/Military
+anglo - http://dbpedia.org/resource/Anglo
+scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+stone - http://dbpedia.org/resource/Stonemasonry
+gatehouse - http://dbpedia.org/resource/Gatehouse
+sack - http://dbpedia.org/resource/Looting
+forge - http://dbpedia.org/resource/Forge
+coin - http://dbpedia.org/resource/Roman_currency

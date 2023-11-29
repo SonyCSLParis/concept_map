@@ -1,0 +1,151 @@
+middle ages - http://dbpedia.org/resource/Middle_Ages
+witch hat - http://dbpedia.org/resource/Witch_hat
+seep - http://dbpedia.org/resource/Soil_mechanics
+battlement - http://dbpedia.org/resource/Battlement
+buff - http://dbpedia.org/resource/Enthusiasm
+dover castle - http://dbpedia.org/resource/Dover_Castle
+fable - http://dbpedia.org/resource/Fable
+usher - http://dbpedia.org/resource/Schoolmaster
+stone - http://dbpedia.org/resource/Masonry
+feature film - http://dbpedia.org/resource/Film
+romance - http://dbpedia.org/resource/Romanticism
+fear - http://dbpedia.org/resource/Fear
+imprint - http://dbpedia.org/resource/Printing
+gothic architecture - http://dbpedia.org/resource/Gothic_architecture
+strain - http://dbpedia.org/resource/Cannabis_strains
+corvin castle - http://dbpedia.org/resource/Corvin_Castle
+stud - http://dbpedia.org/resource/Wall_stud
+horror - http://dbpedia.org/resource/Horror_fiction
+dracula - http://dbpedia.org/resource/Dracula
+love - http://dbpedia.org/resource/Love
+machicolation - http://dbpedia.org/resource/Machicolation
+cathedral church - http://dbpedia.org/resource/Cathedral
+frankenstein - http://dbpedia.org/resource/Frankenstein
+st vitus cathedral - http://dbpedia.org/resource/St._Vitus_Cathedral
+trademark - http://dbpedia.org/resource/Trademark
+flying buttress - http://dbpedia.org/resource/Flying_buttress
+poetry - http://dbpedia.org/resource/Poetry
+hunyad castle - http://dbpedia.org/resource/Corvin_Castle
+literature - http://dbpedia.org/resource/Literature
+secret passage - http://dbpedia.org/resource/Secret_passage
+malbork castle - http://dbpedia.org/resource/Malbork_Castle
+gothic tale - http://dbpedia.org/resource/Gothic_fiction
+castle architecture - http://dbpedia.org/resource/Castle
+decay - http://dbpedia.org/resource/Decomposition
+prague castle - http://dbpedia.org/resource/Prague_Castle
+light - http://dbpedia.org/resource/Light
+crimson - http://dbpedia.org/resource/Crimson
+hunter - http://dbpedia.org/resource/Hunting
+claustrophobic - http://dbpedia.org/resource/Claustrophobia
+vault - http://dbpedia.org/resource/Bank_vault
+amazon.com - http://dbpedia.org/resource/Amazon_(company)
+novelist - http://dbpedia.org/resource/Novel
+eastern europe - http://dbpedia.org/resource/Eastern_Europe
+turkey - http://dbpedia.org/resource/Turkey_as_food
+bit - http://dbpedia.org/resource/Horse_tack
+medieval gothic architecture - http://dbpedia.org/resource/Gothic_architecture
+medieval - http://dbpedia.org/resource/Middle_Ages
+intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
+defence - http://dbpedia.org/resource/Military
+murder - http://dbpedia.org/resource/Murder
+video game - http://dbpedia.org/resource/Video_game
+heritage - http://dbpedia.org/resource/History
+chillon castle - http://dbpedia.org/resource/Chillon_Castle
+legend - http://dbpedia.org/resource/Legend
+fortification - http://dbpedia.org/resource/Castle
+teutonic knights - http://dbpedia.org/resource/Teutonic_Order
+dark secret - http://dbpedia.org/resource/Dark_Secret_(film)
+monster - http://dbpedia.org/resource/Monster
+middle age - http://dbpedia.org/resource/Middle_age
+courtyard - http://dbpedia.org/resource/Courtyard
+majestic - http://dbpedia.org/resource/Majestic_12
+float - http://dbpedia.org/resource/Buoyancy
+architectural style - http://dbpedia.org/resource/Architecture
+prop - http://dbpedia.org/resource/Theatrical_property
+hunyad - http://dbpedia.org/resource/Hunedoara
+manor - http://dbpedia.org/resource/Manor_house
+amalgamation - http://dbpedia.org/resource/Miscegenation
+horace walpole - http://dbpedia.org/resource/Horace_Walpole
+memory - http://dbpedia.org/resource/Memory
+arthur - http://dbpedia.org/resource/King_Arthur
+crusade - http://dbpedia.org/resource/Crusades
+water - http://dbpedia.org/resource/Water
+architecture - http://dbpedia.org/resource/Architecture
+technology - http://dbpedia.org/resource/Technology
+otranto - http://dbpedia.org/resource/The_Castle_of_Otranto
+brick - http://dbpedia.org/resource/Brick
+amy dudley - http://dbpedia.org/resource/Amy_Robsart
+fortress - http://dbpedia.org/resource/Castle
+lord family - http://dbpedia.org/resource/Lord_family
+toss - http://dbpedia.org/resource/Coin_flipping
+renaissance - http://dbpedia.org/resource/Renaissance
+gothic style - http://dbpedia.org/resource/Gothic_architecture
+column - http://dbpedia.org/resource/Column
+arch - http://dbpedia.org/resource/Arch
+religious architecture - http://dbpedia.org/resource/Sacral_architecture
+cernavoda - http://dbpedia.org/resource/Cernavodă
+echo - http://dbpedia.org/resource/Glossary_of_music_terminology
+catholic - http://dbpedia.org/resource/Catholic_Church
+pointed arch - http://dbpedia.org/resource/Gothic_architecture
+bedrock - http://dbpedia.org/resource/Bedrock
+emotion - http://dbpedia.org/resource/Emotion
+decayed - http://dbpedia.org/resource/Decomposition
+murder mystery - http://dbpedia.org/resource/Mystery_fiction
+city - http://dbpedia.org/resource/City
+crenellated - http://dbpedia.org/resource/Battlement
+gaze - http://dbpedia.org/resource/Gaze
+stone castle - http://dbpedia.org/resource/Stone_Castle
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+dark tower - http://dbpedia.org/resource/The_Dark_Tower_(series)
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+gothic novels - http://dbpedia.org/resource/Gothic_fiction
+paris - http://dbpedia.org/resource/Paris
+blood - http://dbpedia.org/resource/Blood
+bookstore - http://dbpedia.org/resource/Bookselling
+mystery - http://dbpedia.org/resource/Mystery_fiction
+turret - http://dbpedia.org/resource/Turret
+horror story - http://dbpedia.org/resource/Horror_fiction
+tintagel - http://dbpedia.org/resource/Tintagel
+english literature - http://dbpedia.org/resource/English_literature
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+captor - http://dbpedia.org/resource/Euroradar_CAPTOR
+genre fiction - http://dbpedia.org/resource/Genre_fiction
+family - http://dbpedia.org/resource/Family
+ravage - http://dbpedia.org/resource/Ravage_2099
+acre - http://dbpedia.org/resource/Acre
+notre dame cathedral - http://dbpedia.org/resource/Notre-Dame_de_Paris
+airy - http://dbpedia.org/resource/George_Biddell_Airy
+wwii - http://dbpedia.org/resource/World_War_II
+coin - http://dbpedia.org/resource/Coin
+malbork - http://dbpedia.org/resource/Malbork
+gonzales - http://dbpedia.org/resource/Chilly_Gonzales
+tower castle - http://dbpedia.org/resource/Tower_castle
+american library association - http://dbpedia.org/resource/American_Library_Association
+fresh air - http://dbpedia.org/resource/Fresh_Air
+ghoul - http://dbpedia.org/resource/Ghoul
+insanity - http://dbpedia.org/resource/Insanity
+freedom - http://dbpedia.org/resource/Free_will
+colour photograph - http://dbpedia.org/resource/Color_photography
+grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
+gothic fiction - http://dbpedia.org/resource/Gothic_fiction
+gothic fashion - http://dbpedia.org/resource/Gothic_fashion
+dungeon - http://dbpedia.org/resource/Dungeon
+cell - http://dbpedia.org/resource/Prison_cell
+church - http://dbpedia.org/resource/Church_architecture
+spooky - http://dbpedia.org/resource/Spooky_the_Tuff_Little_Ghost
+knights - http://dbpedia.org/resource/Knight
+monastery - http://dbpedia.org/resource/Abbey
+hard attack - http://dbpedia.org/resource/Liquid_Metal_(Sirius_XM)
+gargoyle - http://dbpedia.org/resource/Gargoyle
+delve - http://dbpedia.org/resource/Microsoft_Office_shared_tools
+gothic - http://dbpedia.org/resource/Gothic_fiction
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+people today - http://dbpedia.org/resource/People_Today_(magazine)
+transylvania - http://dbpedia.org/resource/Transylvania
+paper - http://dbpedia.org/resource/Paper
+adorn - http://dbpedia.org/resource/Adorn_(song)
+bell tower - http://dbpedia.org/resource/Bell_tower
+buttress - http://dbpedia.org/resource/Buttress
+tower - http://dbpedia.org/resource/Keep
+genre - http://dbpedia.org/resource/Genre
+poland - http://dbpedia.org/resource/Poland

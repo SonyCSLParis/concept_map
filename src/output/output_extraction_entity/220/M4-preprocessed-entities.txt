@@ -1,0 +1,477 @@
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+britain - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+north america - http://dbpedia.org/resource/North_America
+commonwealth nations - http://dbpedia.org/resource/Commonwealth_of_Nations
+distillation - http://dbpedia.org/resource/Distillation
+britannic - http://dbpedia.org/resource/HMHS_Britannic
+heritage - http://dbpedia.org/resource/Cultural_heritage
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+strike - http://dbpedia.org/resource/Strike_action
+root - http://dbpedia.org/resource/Root
+hong kong - http://dbpedia.org/resource/British_Hong_Kong
+culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+language - http://dbpedia.org/resource/Language
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+peace - http://dbpedia.org/resource/Peace
+good government - http://dbpedia.org/resource/Good_governance
+raymond - http://dbpedia.org/resource/Raymond_of_Poitiers
+de souza - http://dbpedia.org/resource/Érika_de_Souza
+national post - http://dbpedia.org/resource/National_Post
+british empire - http://dbpedia.org/resource/British_Empire
+middle ages - http://dbpedia.org/resource/Middle_Ages
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+british empire - http://dbpedia.org/resource/British_Empire
+john cabot - http://dbpedia.org/resource/John_Cabot
+newfoundland - http://dbpedia.org/resource/Dominion_of_Newfoundland
+british empire - http://dbpedia.org/resource/British_Empire
+zenith - http://dbpedia.org/resource/Zenith
+britain - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+industrial - http://dbpedia.org/resource/Industrial_Revolution
+germany - http://dbpedia.org/resource/German_Empire
+britain - http://dbpedia.org/resource/British_Empire
+royal navy - http://dbpedia.org/resource/Royal_Navy
+britain - http://dbpedia.org/resource/British_Empire
+wave - http://dbpedia.org/resource/Wind_wave
+continent - http://dbpedia.org/resource/Africa
+time zone - http://dbpedia.org/resource/Time_zone
+pine - http://dbpedia.org/resource/Pine
+sun - http://dbpedia.org/resource/Sun
+technology - http://dbpedia.org/resource/Technology
+language - http://dbpedia.org/resource/Language
+pax britannica - http://dbpedia.org/resource/Pax_Britannica
+hegemony - http://dbpedia.org/resource/Hegemony
+british empire - http://dbpedia.org/resource/British_Empire
+technology - http://dbpedia.org/resource/Technology
+philosophy - http://dbpedia.org/resource/Philosophy
+literature - http://dbpedia.org/resource/Literature
+medicine - http://dbpedia.org/resource/Medicine
+investment - http://dbpedia.org/resource/Investment
+plain - http://dbpedia.org/resource/Great_Plains
+british empire - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+colonisation - http://dbpedia.org/resource/Colonialism
+colony - http://dbpedia.org/resource/Crown_colony
+mughal empire - http://dbpedia.org/resource/Mughal_Empire
+britain - http://dbpedia.org/resource/British_Empire
+britain - http://dbpedia.org/resource/British_Empire
+mughal empire - http://dbpedia.org/resource/Mughal_Empire
+west indies - http://dbpedia.org/resource/West_Indies
+hong kong - http://dbpedia.org/resource/British_Hong_Kong
+burma - http://dbpedia.org/resource/British_rule_in_Burma
+south pacific - http://dbpedia.org/resource/Oceania
+settlement - http://dbpedia.org/resource/Town
+turkish - http://dbpedia.org/resource/Ottoman_Empire
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+britain - http://dbpedia.org/resource/British_Empire
+colony - http://dbpedia.org/resource/Crown_colony
+american revolution - http://dbpedia.org/resource/American_Revolution
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+commonwealth nations - http://dbpedia.org/resource/Commonwealth_of_Nations
+colony - http://dbpedia.org/resource/Crown_colony
+independent - http://dbpedia.org/resource/Independence
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+belgium - http://dbpedia.org/resource/Belgium
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+voluntary organisation - http://dbpedia.org/resource/Voluntary_association
+human - http://dbpedia.org/resource/Human
+democracy - http://dbpedia.org/resource/Democracy
+language - http://dbpedia.org/resource/Language
+map - http://dbpedia.org/resource/Map
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+map - http://dbpedia.org/resource/Map
+badge - http://dbpedia.org/resource/Glossary_of_vexillology
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+independence - http://dbpedia.org/resource/Independence
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+british sovereign - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
+british empire - http://dbpedia.org/resource/British_Empire
+gibraltar - http://dbpedia.org/resource/Gibraltar
+british land - http://dbpedia.org/resource/British_Land
+continent - http://dbpedia.org/resource/Africa
+girdle - http://dbpedia.org/resource/Girdle
+fly union - http://dbpedia.org/resource/Fly_Union
+jack - http://dbpedia.org/resource/Maritime_flag
+snow - http://dbpedia.org/resource/Snow
+cap - http://dbpedia.org/resource/Hat
+summit - http://dbpedia.org/resource/Arab_League
+rockies - http://dbpedia.org/resource/Rocky_Mountains
+himalayas - http://dbpedia.org/resource/Himalayas
+sun - http://dbpedia.org/resource/Sun
+scorch - http://dbpedia.org/resource/Scorch_(TV_series)
+plain - http://dbpedia.org/resource/Great_Plains
+climate - http://dbpedia.org/resource/Climate
+guinea coast - http://dbpedia.org/resource/Guinea_(region)
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+polar - http://dbpedia.org/resource/Polar_regions_of_Earth
+plant - http://dbpedia.org/resource/Plant
+soil - http://dbpedia.org/resource/Soil
+lichen - http://dbpedia.org/resource/Lichen
+tundra - http://dbpedia.org/resource/Tundra
+teak - http://dbpedia.org/resource/Teak
+burma - http://dbpedia.org/resource/British_rule_in_Burma
+dog - http://dbpedia.org/resource/Dog
+inuit - http://dbpedia.org/resource/Inuit
+camel - http://dbpedia.org/resource/Camel
+union jack - http://dbpedia.org/resource/Union_Jack
+race - http://dbpedia.org/resource/Racing
+british empire - http://dbpedia.org/resource/British_Empire
+bbc radio - http://dbpedia.org/resource/BBC
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+british empire - http://dbpedia.org/resource/British_Empire
+maritime - http://dbpedia.org/resource/Freight_transport
+hardy - http://dbpedia.org/resource/Hardiness_zone
+sailor - http://dbpedia.org/resource/Royal_Navy
+uttermost - http://dbpedia.org/resource/Uttermost
+britain - http://dbpedia.org/resource/British_Empire
+royal navy - http://dbpedia.org/resource/Royal_Navy
+merchant vessel - http://dbpedia.org/resource/Merchant_ship
+wheat - http://dbpedia.org/resource/Wheat
+wool - http://dbpedia.org/resource/Wool
+tea - http://dbpedia.org/resource/Tea
+ceylon - http://dbpedia.org/resource/Dominion_of_Ceylon
+lanka - http://dbpedia.org/resource/Sri_Lanka
+apple - http://dbpedia.org/resource/Apple
+market - http://dbpedia.org/resource/Market_economy
+communication - http://dbpedia.org/resource/Telecommunication
+communication - http://dbpedia.org/resource/Telecommunication
+merchant fleet - http://dbpedia.org/resource/Merchant_navy
+britain - http://dbpedia.org/resource/British_Empire
+colony - http://dbpedia.org/resource/Crown_colony
+bond - http://dbpedia.org/resource/Surety
+dominion - http://dbpedia.org/resource/Dominion
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+navy - http://dbpedia.org/resource/Royal_Navy
+coaling station - http://dbpedia.org/resource/Fuelling_station
+steam - http://dbpedia.org/resource/Steamship
+bunker - http://dbpedia.org/resource/Bunker
+interval - http://dbpedia.org/resource/Time
+trade route - http://dbpedia.org/resource/Trade_route
+station - http://dbpedia.org/resource/Royal_Air_Force
+coal - http://dbpedia.org/resource/Coal
+british isles - http://dbpedia.org/resource/British_Isles
+coal - http://dbpedia.org/resource/Coal
+st. helena - http://dbpedia.org/resource/Saint_Helena
+falkland islands - http://dbpedia.org/resource/Falkland_Islands
+south atlantic - http://dbpedia.org/resource/Atlantic_Ocean
+jamaica - http://dbpedia.org/resource/Jamaica
+north atlantic - http://dbpedia.org/resource/Atlantic_Ocean
+gibraltar - http://dbpedia.org/resource/Gibraltar
+malta - http://dbpedia.org/resource/Malta
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+aden - http://dbpedia.org/resource/Aden
+gulf - http://dbpedia.org/resource/Arab_states_of_the_Persian_Gulf
+aden - http://dbpedia.org/resource/Aden
+colombo - http://dbpedia.org/resource/Colombo
+ceylon - http://dbpedia.org/resource/Dominion_of_Ceylon
+lanka - http://dbpedia.org/resource/Sri_Lanka
+labuan - http://dbpedia.org/resource/Labuan
+hong kong - http://dbpedia.org/resource/British_Hong_Kong
+coast - http://dbpedia.org/resource/Coast
+chagos - http://dbpedia.org/resource/Chagos_Archipelago
+seychelles - http://dbpedia.org/resource/Seychelles
+mauritius - http://dbpedia.org/resource/Mauritius
+indian ocean - http://dbpedia.org/resource/Indian_Ocean
+thursday island - http://dbpedia.org/resource/Thursday_Island
+suva - http://dbpedia.org/resource/Suva
+fiji - http://dbpedia.org/resource/Fiji_(software)
+south pacific - http://dbpedia.org/resource/Oceania
+coaling station - http://dbpedia.org/resource/Fuelling_station
+coal - http://dbpedia.org/resource/Coal
+garrison - http://dbpedia.org/resource/Garrison
+communication - http://dbpedia.org/resource/Telecommunication
+submarine cable - http://dbpedia.org/resource/Submarine_communications_cable
+submarine cable - http://dbpedia.org/resource/Submarine_communications_cable
+cable - http://dbpedia.org/resource/Submarine_communications_cable
+cable - http://dbpedia.org/resource/Submarine_communications_cable
+royal navy - http://dbpedia.org/resource/Royal_Navy
+cable - http://dbpedia.org/resource/Submarine_communications_cable
+british isles - http://dbpedia.org/resource/British_Isles
+trinity bay - http://dbpedia.org/resource/Little_Catalina
+newfoundland - http://dbpedia.org/resource/Dominion_of_Newfoundland
+cape breton island - http://dbpedia.org/resource/Cape_Breton_Island
+halifax - http://dbpedia.org/resource/Handley_Page_Halifax
+communication - http://dbpedia.org/resource/Telecommunication
+vancouver - http://dbpedia.org/resource/Vancouver
+pacific coast - http://dbpedia.org/resource/Pacific_Ocean
+vancouver - http://dbpedia.org/resource/Vancouver
+cable - http://dbpedia.org/resource/Submarine_communications_cable
+fanning island - http://dbpedia.org/resource/Tabuaeran
+fiji - http://dbpedia.org/resource/Fiji_(software)
+norfolk island - http://dbpedia.org/resource/Norfolk_Island
+auckland - http://dbpedia.org/resource/Auckland
+brisbane - http://dbpedia.org/resource/Brisbane
+city - http://dbpedia.org/resource/City
+telegraphic - http://dbpedia.org/resource/Telegraphy
+city - http://dbpedia.org/resource/City
+albany - http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Albany
+perth - http://dbpedia.org/resource/Perth
+cable - http://dbpedia.org/resource/Submarine_communications_cable
+indian ocean - http://dbpedia.org/resource/Indian_Ocean
+cocos - http://dbpedia.org/resource/Coconut
+colombo - http://dbpedia.org/resource/Colombo
+madras - http://dbpedia.org/resource/Chennai
+bombay - http://dbpedia.org/resource/Bombay_Presidency
+aden - http://dbpedia.org/resource/Aden
+aden - http://dbpedia.org/resource/Aden
+red sea - http://dbpedia.org/resource/Red_Sea
+mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
+atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
+suez - http://dbpedia.org/resource/Suez_Canal
+malta - http://dbpedia.org/resource/Malta
+gibraltar - http://dbpedia.org/resource/Gibraltar
+cocos island - http://dbpedia.org/resource/Cocos_Island
+mauritius - http://dbpedia.org/resource/Mauritius
+durban - http://dbpedia.org/resource/Durban
+cape town - http://dbpedia.org/resource/Cape_Town
+st. helena - http://dbpedia.org/resource/Saint_Helena
+sierra leone - http://dbpedia.org/resource/Sierra_Leone
+wireless - http://dbpedia.org/resource/Wireless_telegraphy
+cable - http://dbpedia.org/resource/Submarine_communications_cable
+safety - http://dbpedia.org/resource/Occupational_safety_and_health
+british isles - http://dbpedia.org/resource/British_Isles
+british isles - http://dbpedia.org/resource/British_Isles
+atlantic canada - http://dbpedia.org/resource/Atlantic_Canada
+canadian national - http://dbpedia.org/resource/Canadian_National_Railway
+pacific ocean - http://dbpedia.org/resource/Pacific_Ocean
+hong kong - http://dbpedia.org/resource/British_Hong_Kong
+british isles - http://dbpedia.org/resource/British_Isles
+panama canal - http://dbpedia.org/resource/Panama_Canal
+british isles - http://dbpedia.org/resource/British_Isles
+gibraltar - http://dbpedia.org/resource/Gibraltar
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+suez - http://dbpedia.org/resource/Suez_Canal
+red sea - http://dbpedia.org/resource/Red_Sea
+indian ocean - http://dbpedia.org/resource/Indian_Ocean
+british isles - http://dbpedia.org/resource/British_Isles
+coast - http://dbpedia.org/resource/Coast
+cape town - http://dbpedia.org/resource/Cape_Town
+indian ocean - http://dbpedia.org/resource/Indian_Ocean
+indian empire - http://dbpedia.org/resource/British_Raj
+crown colonies - http://dbpedia.org/resource/Crown_colony
+mandated territories - http://dbpedia.org/resource/League_of_Nations_mandate
+scotland - http://dbpedia.org/resource/Scotland
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+unitary - http://dbpedia.org/resource/Unitary_state
+british isles - http://dbpedia.org/resource/British_Isles
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+westminster - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+governor - http://dbpedia.org/resource/Governor
+westminster - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+southern ireland - http://dbpedia.org/resource/Irish_Free_State
+secede - http://dbpedia.org/resource/Secession
+dominion - http://dbpedia.org/resource/Dominion
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+single parliament - http://dbpedia.org/resource/Parliament_of_Great_Britain
+westminster - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+eire - http://dbpedia.org/resource/Ireland
+republican constitution - http://dbpedia.org/resource/Constitution_of_India
+republic ireland - http://dbpedia.org/resource/Republic_of_Ireland
+british empire - http://dbpedia.org/resource/British_Empire
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+direct rule - http://dbpedia.org/resource/British_Raj
+westminster - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+single - http://dbpedia.org/resource/Phonograph_record
+unitary - http://dbpedia.org/resource/Unitary_state
+parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+westminster - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+nationalist - http://dbpedia.org/resource/Nationalism
+aspiration - http://dbpedia.org/resource/Aspirated_consonant
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+scotland - http://dbpedia.org/resource/Scotland
+scotland - http://dbpedia.org/resource/Scotland
+parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+united kingdom parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+westminster - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+unitary - http://dbpedia.org/resource/Unitary_state
+federation - http://dbpedia.org/resource/Federation
+dominion - http://dbpedia.org/resource/Dominion
+dominion - http://dbpedia.org/resource/Dominion
+south africa - http://dbpedia.org/resource/Union_of_South_Africa
+sovereign - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
+eire - http://dbpedia.org/resource/Ireland
+dominion - http://dbpedia.org/resource/Dominion
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+dominion - http://dbpedia.org/resource/Dominion
+dominion - http://dbpedia.org/resource/Dominion
+governor general - http://dbpedia.org/resource/Governor-general
+governor - http://dbpedia.org/resource/Governor
+parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+dominion - http://dbpedia.org/resource/Dominion
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+newfoundland - http://dbpedia.org/resource/Dominion_of_Newfoundland
+dominion - http://dbpedia.org/resource/Dominion
+colony - http://dbpedia.org/resource/Crown_colony
+malta - http://dbpedia.org/resource/Malta
+southern rhodesia - http://dbpedia.org/resource/Southern_Rhodesia
+dominion status - http://dbpedia.org/resource/Dominion
+god - http://dbpedia.org/resource/God
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+british dominions - http://dbpedia.org/resource/Dominion
+defender - http://dbpedia.org/resource/Defendant
+faith - http://dbpedia.org/resource/Religion
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+dominion status - http://dbpedia.org/resource/Dominion
+commonwealth realms - http://dbpedia.org/resource/Commonwealth_realm
+monarch - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
+god - http://dbpedia.org/resource/God
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+queen - http://dbpedia.org/resource/Queen_regnant
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+defender - http://dbpedia.org/resource/Defendant
+faith - http://dbpedia.org/resource/Religion
+united kingdom parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+constitution - http://dbpedia.org/resource/Constitution
+south africa - http://dbpedia.org/resource/Union_of_South_Africa
+republic - http://dbpedia.org/resource/Republic
+independent - http://dbpedia.org/resource/Independence
+indian empire - http://dbpedia.org/resource/British_Raj
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+imperial cabinet - http://dbpedia.org/resource/Prince_Qing's_Cabinet
+british raj - http://dbpedia.org/resource/British_Raj
+indian government - http://dbpedia.org/resource/British_Raj
+viceroy - http://dbpedia.org/resource/Viceroy
+governor general - http://dbpedia.org/resource/Governor-general
+legislative assembly - http://dbpedia.org/resource/Parliament
+viceroy - http://dbpedia.org/resource/Viceroy
+governor general - http://dbpedia.org/resource/Governor-general
+executive council - http://dbpedia.org/resource/Executive_Council_of_British_Columbia
+governor - http://dbpedia.org/resource/Governor
+legislature - http://dbpedia.org/resource/Legislature
+resemble - http://dbpedia.org/resource/SoltyRei
+indian nationalist movement - http://dbpedia.org/resource/Indian_independence_movement
+endeavour - http://dbpedia.org/resource/HMS_Endeavour
+freedom - http://dbpedia.org/resource/Political_freedom
+indian government - http://dbpedia.org/resource/British_Raj
+pertain - http://dbpedia.org/resource/Pertain
+british government - http://dbpedia.org/resource/British_Empire
+indian empire - http://dbpedia.org/resource/British_Raj
+independence - http://dbpedia.org/resource/Independence
+crown colonies - http://dbpedia.org/resource/Crown_colony
+climate - http://dbpedia.org/resource/Climate
+europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
+crown colonies - http://dbpedia.org/resource/Crown_colony
+crown colonies - http://dbpedia.org/resource/Crown_colony
+trade route - http://dbpedia.org/resource/Trade_route
+colony - http://dbpedia.org/resource/Crown_colony
+governor - http://dbpedia.org/resource/Governor
+gibraltar - http://dbpedia.org/resource/Gibraltar
+st. helena - http://dbpedia.org/resource/Saint_Helena
+governor - http://dbpedia.org/resource/Governor
+ceylon - http://dbpedia.org/resource/Dominion_of_Ceylon
+straits settlements - http://dbpedia.org/resource/Straits_Settlements
+british west indies - http://dbpedia.org/resource/British_West_Indies
+malta - http://dbpedia.org/resource/Malta
+law - http://dbpedia.org/resource/English_law
+legislature - http://dbpedia.org/resource/Legislature
+colony - http://dbpedia.org/resource/Crown_colony
+crown colonies - http://dbpedia.org/resource/Crown_colony
+independence - http://dbpedia.org/resource/Independence
+crown colonies - http://dbpedia.org/resource/Crown_colony
+independence - http://dbpedia.org/resource/Independence
+colony - http://dbpedia.org/resource/Crown_colony
+colony - http://dbpedia.org/resource/Crown_colony
+british overseas territories - http://dbpedia.org/resource/British_Overseas_Territories
+falkland islands - http://dbpedia.org/resource/Falkland_Islands
+gibraltar - http://dbpedia.org/resource/Gibraltar
+somaliland - http://dbpedia.org/resource/Somaliland
+bechuanaland - http://dbpedia.org/resource/Bechuanaland_Protectorate
+nyasaland - http://dbpedia.org/resource/Nyasaland
+crown colonies - http://dbpedia.org/resource/Crown_colony
+crown colonies - http://dbpedia.org/resource/Crown_colony
+australian - http://dbpedia.org/resource/Australia
+independence - http://dbpedia.org/resource/Independence
+british protectorate - http://dbpedia.org/resource/Protectorate
+independence - http://dbpedia.org/resource/Independence
+british solomon islands - http://dbpedia.org/resource/British_Solomon_Islands
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
+tanganyika - http://dbpedia.org/resource/Tanganyika
+cameroon - http://dbpedia.org/resource/French_Cameroons
+togoland - http://dbpedia.org/resource/Togoland
+palestine - http://dbpedia.org/resource/Mandatory_Palestine
+trans - http://dbpedia.org/resource/Translation
+iraq - http://dbpedia.org/resource/Iraq
+mandated territories - http://dbpedia.org/resource/League_of_Nations_mandate
+crown colonies - http://dbpedia.org/resource/Crown_colony
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+british dominions - http://dbpedia.org/resource/Dominion
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+guinea - http://dbpedia.org/resource/Guinea
+archipelago - http://dbpedia.org/resource/Archipelago
+south pacific - http://dbpedia.org/resource/Oceania
+german samoa - http://dbpedia.org/resource/German_Samoa
+south africa - http://dbpedia.org/resource/Union_of_South_Africa
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+southwest africa - http://dbpedia.org/resource/German_South_West_Africa
+mandate territory - http://dbpedia.org/resource/League_of_Nations_mandate
+united nations trust territories - http://dbpedia.org/resource/United_Nations_trust_territories
+crown colonies - http://dbpedia.org/resource/Crown_colony
+united nations trusteeship council - http://dbpedia.org/resource/United_Nations_Trusteeship_Council
+trust territory - http://dbpedia.org/resource/United_Nations_trust_territories
+independence - http://dbpedia.org/resource/Independence
+southwest africa - http://dbpedia.org/resource/German_South_West_Africa
+namibia - http://dbpedia.org/resource/Namibia
+british empire - http://dbpedia.org/resource/British_Empire
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+map - http://dbpedia.org/resource/Map
+map - http://dbpedia.org/resource/Map
+atlas - http://dbpedia.org/resource/Atlas
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+map - http://dbpedia.org/resource/Map
+british empire - http://dbpedia.org/resource/British_Empire
+commonwealth nations - http://dbpedia.org/resource/Commonwealth_of_Nations
+south africa - http://dbpedia.org/resource/Union_of_South_Africa
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+constitution - http://dbpedia.org/resource/Constitution
+british subject - http://dbpedia.org/resource/British_subject
+committee - http://dbpedia.org/resource/Committee
+court appeal - http://dbpedia.org/resource/Lock_Han_Chng_Jonathan_v_Goh_Jessiline
+commonwealth nations - http://dbpedia.org/resource/Commonwealth_of_Nations
+independent - http://dbpedia.org/resource/Independence
+light - http://dbpedia.org/resource/Light
+republic - http://dbpedia.org/resource/Republic
+monarchies - http://dbpedia.org/resource/Commonwealth_realm
+map - http://dbpedia.org/resource/Map
+sample - http://dbpedia.org/resource/Sample_size_determination
+map - http://dbpedia.org/resource/Map
+british empire - http://dbpedia.org/resource/British_Empire
+map - http://dbpedia.org/resource/Map
+map - http://dbpedia.org/resource/Map
+map - http://dbpedia.org/resource/Map
+copyright - http://dbpedia.org/resource/Copyright
+resolution - http://dbpedia.org/resource/United_Nations_Security_Council_resolution
+thumbnail - http://dbpedia.org/resource/Thumbnail
+slide - http://dbpedia.org/resource/Reversal_film
+map - http://dbpedia.org/resource/Map
+a.d. - http://dbpedia.org/resource/Anno_Domini
+map - http://dbpedia.org/resource/Map
+immigration - http://dbpedia.org/resource/Immigration
+feedback - http://dbpedia.org/resource/Feedback

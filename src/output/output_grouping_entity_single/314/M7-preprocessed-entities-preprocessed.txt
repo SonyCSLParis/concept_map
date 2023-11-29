@@ -1,0 +1,129 @@
+defendant - http://dbpedia.org/resource/Defendant
+television series - http://dbpedia.org/resource/Television_show
+mystery film - http://dbpedia.org/resource/Mystery_fiction
+education - http://dbpedia.org/resource/Education
+popular culture - http://dbpedia.org/resource/Popular_culture
+rape - http://dbpedia.org/resource/Rape
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+nij - http://dbpedia.org/resource/National_Institute_of_Justice
+questionnaire - http://dbpedia.org/resource/Questionnaire
+fodder - http://dbpedia.org/resource/Fodder
+acquit - http://dbpedia.org/resource/Acquittal
+criminal sexual conduct - http://dbpedia.org/resource/Sexual_assault
+convict - http://dbpedia.org/resource/Conviction
+attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
+bear - http://dbpedia.org/resource/Market_trend
+district attorney - http://dbpedia.org/resource/District_attorney
+dust - http://dbpedia.org/resource/Dust
+ph.d. - http://dbpedia.org/resource/Thesis
+acquittal - http://dbpedia.org/resource/Acquittal
+forensic science - http://dbpedia.org/resource/Forensic_science
+forensic analysis - http://dbpedia.org/resource/Forensic_science
+prosecutor - http://dbpedia.org/resource/Prosecutor
+type case - http://dbpedia.org/resource/Type_case
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+television rating - http://dbpedia.org/resource/Nielsen_ratings
+guilt - http://dbpedia.org/resource/Culpability
+jury selection - http://dbpedia.org/resource/Voir_dire
+television program - http://dbpedia.org/resource/Television_show
+professor - http://dbpedia.org/resource/Academy
+courtroom drama - http://dbpedia.org/resource/Legal_drama
+internet - http://dbpedia.org/resource/Internet
+distortion - http://dbpedia.org/resource/Distortion
+franchise - http://dbpedia.org/resource/Media_franchise
+judge - http://dbpedia.org/resource/Judge
+crime lab - http://dbpedia.org/resource/Forensic_science
+heart - http://dbpedia.org/resource/Cardiovascular_disease
+jury duty - http://dbpedia.org/resource/Jury
+blanket - http://dbpedia.org/resource/Blanket
+law - http://dbpedia.org/resource/Common_law
+defense - http://dbpedia.org/resource/Criminal_defense_lawyer
+mass medium - http://dbpedia.org/resource/Mass_media
+news nation - http://dbpedia.org/resource/News_Nation
+reality television - http://dbpedia.org/resource/Reality_television
+rational - http://dbpedia.org/resource/Reason
+crime - http://dbpedia.org/resource/Crime
+police - http://dbpedia.org/resource/Police
+dub - http://dbpedia.org/resource/Dub_music
+murder - http://dbpedia.org/resource/Murder
+eastern michigan university - http://dbpedia.org/resource/Eastern_Michigan_University
+numb3rs - http://dbpedia.org/resource/Numbers_(TV_series)
+computer technology - http://dbpedia.org/resource/Web_2.0
+criminal justice system - http://dbpedia.org/resource/Criminal_justice
+young kim - http://dbpedia.org/resource/Young_Kim
+fiction - http://dbpedia.org/resource/Fiction
+empirical evidence - http://dbpedia.org/resource/Empirical_research
+csi - http://dbpedia.org/resource/Forensic_science
+habit - http://dbpedia.org/resource/Habit
+reasonable doubt - http://dbpedia.org/resource/Reasonable_doubt
+gun - http://dbpedia.org/resource/Firearm
+psyche - http://dbpedia.org/resource/Nafs
+fingerprint - http://dbpedia.org/resource/DNA_profiling
+firearm - http://dbpedia.org/resource/Firearm
+barak - http://dbpedia.org/resource/Ehud_Barak
+technology - http://dbpedia.org/resource/Technology
+csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
+technology law - http://dbpedia.org/resource/IT_law
+author - http://dbpedia.org/resource/Author
+ann arbor michigan - http://dbpedia.org/resource/Ann_Arbor,_Michigan
+magazine - http://dbpedia.org/resource/News_magazine
+american justice - http://dbpedia.org/resource/American_Justice
+criminal case - http://dbpedia.org/resource/Criminal_law
+agency - http://dbpedia.org/resource/Institution
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+crime laboratory - http://dbpedia.org/resource/Crime_lab
+dateline nbc - http://dbpedia.org/resource/Dateline_NBC
+scientist - http://dbpedia.org/resource/Science
+mystery - http://dbpedia.org/resource/Whodunit
+court - http://dbpedia.org/resource/Court
+revolution - http://dbpedia.org/resource/Revolution
+rely - http://dbpedia.org/resource/Rely_(brand)
+fault - http://dbpedia.org/resource/South_African_law_of_delict
+demographic - http://dbpedia.org/resource/Demography
+criminology - http://dbpedia.org/resource/Criminology
+hypothesis - http://dbpedia.org/resource/Hypothesis
+gavel - http://dbpedia.org/resource/Gavel
+amass - http://dbpedia.org/resource/Airport_Movement_Area_Safety_System
+respondent - http://dbpedia.org/resource/Defendant
+felony - http://dbpedia.org/resource/Felony
+test case - http://dbpedia.org/resource/Test_case
+crime fiction - http://dbpedia.org/resource/Crime_fiction
+lawn - http://dbpedia.org/resource/Lawn_mower
+nielsen rating - http://dbpedia.org/resource/Nielsen_ratings
+laboratory - http://dbpedia.org/resource/Crime_lab
+law enforcement - http://dbpedia.org/resource/Law_enforcement
+juror - http://dbpedia.org/resource/Jury
+drama - http://dbpedia.org/resource/Rwandan_genocide
+michigan - http://dbpedia.org/resource/University_of_Michigan
+jurors - http://dbpedia.org/resource/Jury
+television drama - http://dbpedia.org/resource/Television_show
+endeavor - http://dbpedia.org/resource/HMS_Endeavour
+laypeople - http://dbpedia.org/resource/Laity
+officer - http://dbpedia.org/resource/Police_officer
+computer application - http://dbpedia.org/resource/Application_software
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+circumstantial evidence - http://dbpedia.org/resource/Circumstantial_evidence
+cold case - http://dbpedia.org/resource/Cold_case
+gregg - http://dbpedia.org/resource/Gregg_v._Georgia
+journalist - http://dbpedia.org/resource/Journalism
+scriptwriter - http://dbpedia.org/resource/Screenwriter
+eyewitness testimony - http://dbpedia.org/resource/Eyewitness_testimony
+forensic - http://dbpedia.org/resource/Forensic_identification
+legal system - http://dbpedia.org/resource/Law_of_the_United_States
+assault - http://dbpedia.org/resource/Assault
+catalyst - http://dbpedia.org/resource/Catalysis
+television watch - http://dbpedia.org/resource/Television_Watch
+television - http://dbpedia.org/resource/Television
+transmission - http://dbpedia.org/resource/Data_transmission
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+jury - http://dbpedia.org/resource/Jury
+miniaturization - http://dbpedia.org/resource/Miniaturization
+theft - http://dbpedia.org/resource/Theft
+criminal justice - http://dbpedia.org/resource/Criminal_justice
+envelope - http://dbpedia.org/resource/Envelope
+human - http://dbpedia.org/resource/Human_rights
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+spawn - http://dbpedia.org/resource/Reproduction
+court tv - http://dbpedia.org/resource/Court_TV
+shelton - http://dbpedia.org/resource/Connecticut

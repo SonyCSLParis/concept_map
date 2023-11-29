@@ -1,0 +1,57 @@
+bristol city centre - http://dbpedia.org/resource/Bristol_city_centre
+aesthetic - http://dbpedia.org/resource/Aesthetics
+deer - http://dbpedia.org/resource/Deer
+london waterloo - http://dbpedia.org/resource/London_Waterloo_station
+geometric - http://dbpedia.org/resource/Geometry
+heritage asset - http://dbpedia.org/resource/Heritage_asset
+investment - http://dbpedia.org/resource/Investment
+family - http://dbpedia.org/resource/Family
+lake - http://dbpedia.org/resource/Lake
+stone - http://dbpedia.org/resource/Stonemasonry
+lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+britain - http://dbpedia.org/resource/United_Kingdom
+hampshire - http://dbpedia.org/resource/Hampshire
+prodigy houses - http://dbpedia.org/resource/Prodigy_house
+red cross - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+king james - http://dbpedia.org/resource/James_VI_and_I
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+harringworth - http://dbpedia.org/resource/Harringworth
+emma - http://dbpedia.org/resource/Emma_Darwin
+police - http://dbpedia.org/resource/Police
+john thorpe - http://dbpedia.org/resource/John_Thorpe
+listed - http://dbpedia.org/resource/Listed_building
+archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
+exile - http://dbpedia.org/resource/Exile
+historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+chapel - http://dbpedia.org/resource/Chapel
+m4 - http://dbpedia.org/resource/M4_(computer_language)
+frontispiece - http://dbpedia.org/resource/Book_frontispiece
+asset - http://dbpedia.org/resource/Asset_management
+antrim - http://dbpedia.org/resource/County_Antrim
+bramshill - http://dbpedia.org/resource/Bramshill
+knight frank - http://dbpedia.org/resource/Knight_Frank
+sir robert henley - http://dbpedia.org/resource/Robert_Henley,_1st_Earl_of_Northington
+rail - http://dbpedia.org/resource/Rail_transport
+majestic - http://dbpedia.org/resource/Majestic_12
+mansion - http://dbpedia.org/resource/English_country_house
+managing director - http://dbpedia.org/resource/Chief_executive_officer
+helen moore - http://dbpedia.org/resource/Helen_Moore_(mathematician)
+earl - http://dbpedia.org/resource/Earl
+winchfield - http://dbpedia.org/resource/Winchfield
+gatwick airport - http://dbpedia.org/resource/Gatwick_Airport
+planning permission - http://dbpedia.org/resource/Town_and_country_planning_in_the_United_Kingdom
+south downs national park - http://dbpedia.org/resource/South_Downs_National_Park
+heathrow - http://dbpedia.org/resource/Heathrow_Airport
+neglect - http://dbpedia.org/resource/Urban_decay
+motorway - http://dbpedia.org/resource/Controlled-access_highway
+heritage - http://dbpedia.org/resource/Cultural_heritage
+grade ii listed - http://dbpedia.org/resource/Listed_building
+mystical - http://dbpedia.org/resource/Mysticism
+banquet hall - http://dbpedia.org/resource/Assembly_hall
+domesday book - http://dbpedia.org/resource/Domesday_Book
+canterbury - http://dbpedia.org/resource/Canterbury
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+king edward vii - http://dbpedia.org/resource/Edward_VII
+sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
+walled garden - http://dbpedia.org/resource/Walled_garden
+library - http://dbpedia.org/resource/Library

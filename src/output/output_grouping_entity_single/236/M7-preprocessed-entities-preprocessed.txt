@@ -1,0 +1,210 @@
+authoritarian - http://dbpedia.org/resource/Authoritarianism
+fuel - http://dbpedia.org/resource/Gasoline
+concentration - http://dbpedia.org/resource/Internment
+purge - http://dbpedia.org/resource/Purge
+global power - http://dbpedia.org/resource/Great_power
+legion - http://dbpedia.org/resource/Roman_legion
+rape - http://dbpedia.org/resource/Rape
+moro - http://dbpedia.org/resource/Aldo_Moro
+neoliberal - http://dbpedia.org/resource/Neoliberalism
+greed - http://dbpedia.org/resource/Greed
+chevron - http://dbpedia.org/resource/Glossary_of_vexillology
+gdp - http://dbpedia.org/resource/Economic_growth
+tyler durden - http://dbpedia.org/resource/Fight_Club
+vassal - http://dbpedia.org/resource/Feudalism
+capital - http://dbpedia.org/resource/Financial_capital
+mercosur - http://dbpedia.org/resource/Mercosur
+portugal - http://dbpedia.org/resource/Portugal
+cadre - http://dbpedia.org/resource/Leninism
+brics - http://dbpedia.org/resource/BRIC
+sao paulo - http://dbpedia.org/resource/São_Paulo
+headache - http://dbpedia.org/resource/Headache
+imprint - http://dbpedia.org/resource/Printing
+commodity - http://dbpedia.org/resource/Commodity
+senate - http://dbpedia.org/resource/United_States_Senate
+mani pulite - http://dbpedia.org/resource/Mani_pulite
+prosecutor - http://dbpedia.org/resource/Prosecutor
+appraisal - http://dbpedia.org/resource/Real_estate_appraisal
+money laundering - http://dbpedia.org/resource/Money_laundering
+dodgy - http://dbpedia.org/resource/Dodgy
+italian communist party - http://dbpedia.org/resource/Italian_Communist_Party
+salt deposit - http://dbpedia.org/resource/Salt_mining
+oligarchic - http://dbpedia.org/resource/Oligarchy
+judicial police - http://dbpedia.org/resource/Law_enforcement_in_France
+permeate - http://dbpedia.org/resource/Permeation
+invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
+unemployment - http://dbpedia.org/resource/Unemployment
+drill - http://dbpedia.org/resource/Drill
+news.com - http://dbpedia.org/resource/CNET
+president - http://dbpedia.org/resource/President_of_the_United_States
+public opinion - http://dbpedia.org/resource/Public_opinion
+cocaine - http://dbpedia.org/resource/Cocaine
+crass - http://dbpedia.org/resource/Crass
+brazil - http://dbpedia.org/resource/Brazil
+corruption - http://dbpedia.org/resource/Political_corruption
+public debt - http://dbpedia.org/resource/Government_debt
+judge - http://dbpedia.org/resource/Judge
+boil - http://dbpedia.org/resource/Boiling
+fernando henrique cardoso - http://dbpedia.org/resource/Fernando_Henrique_Cardoso
+farcical - http://dbpedia.org/resource/Farce
+john vi - http://dbpedia.org/resource/John_VI_of_Portugal
+serial - http://dbpedia.org/resource/Serialism
+presidential - http://dbpedia.org/resource/President_of_the_United_States
+wall street - http://dbpedia.org/resource/Wall_Street
+winger - http://dbpedia.org/resource/Association_football
+brazilian presidential election - http://dbpedia.org/resource/2014_Brazilian_general_election
+rope - http://dbpedia.org/resource/Rope
+kickback scheme - http://dbpedia.org/resource/Kickback_(bribery)
+democracy - http://dbpedia.org/resource/Democracy
+sheldon adelson - http://dbpedia.org/resource/Sheldon_Adelson
+modern history - http://dbpedia.org/resource/Historiography
+plea bargain - http://dbpedia.org/resource/Plea_bargain
+array - http://dbpedia.org/resource/Array_data_structure
+maggot - http://dbpedia.org/resource/Maggot
+number 26 - http://dbpedia.org/resource/Pennsylvania_State_Game_Lands_Number_26
+embraer - http://dbpedia.org/resource/Embraer
+federal police - http://dbpedia.org/resource/Federal_Police_of_Brazil
+delinquent - http://dbpedia.org/resource/Juvenile_delinquency
+crime - http://dbpedia.org/resource/Crime
+technological innovation - http://dbpedia.org/resource/Innovation
+public ministry - http://dbpedia.org/resource/Ministry_of_Jesus
+police - http://dbpedia.org/resource/Police
+simultaneously attack - http://dbpedia.org/resource/October_2009_Lahore_attacks
+unasur - http://dbpedia.org/resource/Union_of_South_American_Nations
+ranch - http://dbpedia.org/resource/Ranch
+washington consensus - http://dbpedia.org/resource/Washington_Consensus
+political crisis - http://dbpedia.org/resource/Crisis
+aecio neves - http://dbpedia.org/resource/Aécio_Neves
+washington - http://dbpedia.org/resource/George_Washington
+dollar - http://dbpedia.org/resource/United_States_dollar
+news - http://dbpedia.org/resource/News_media
+political animal - http://dbpedia.org/resource/Political_Animal_(radio_show)
+fiscal adjustment - http://dbpedia.org/resource/Fiscal_adjustment
+government budget - http://dbpedia.org/resource/Government_budget
+antonio di pietro - http://dbpedia.org/resource/Antonio_Di_Pietro
+federal judge - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+landscape - http://dbpedia.org/resource/Landscape
+sputnik - http://dbpedia.org/resource/Sputnik_1
+napoleon - http://dbpedia.org/resource/Napoleon
+benchmark - http://dbpedia.org/resource/Benchmarking
+oil - http://dbpedia.org/resource/Petroleum
+bill clinton - http://dbpedia.org/resource/Bill_Clinton
+logic - http://dbpedia.org/resource/Logic
+complex society - http://dbpedia.org/resource/Complex_society
+mineral - http://dbpedia.org/resource/Mining
+subversion - http://dbpedia.org/resource/Subversion
+social relation - http://dbpedia.org/resource/Social_relation
+sergio moro - http://dbpedia.org/resource/Sérgio_Moro
+president rousseff - http://dbpedia.org/resource/Dilma_Rousseff
+politician - http://dbpedia.org/resource/Politics
+moniz bandeira - http://dbpedia.org/resource/Moniz_Bandeira
+regional power - http://dbpedia.org/resource/Regional_power
+nationalist - http://dbpedia.org/resource/Nationalism
+prejudice - http://dbpedia.org/resource/Racism
+eden - http://dbpedia.org/resource/Garden_of_Eden
+stock - http://dbpedia.org/resource/Stock_market
+hilt - http://dbpedia.org/resource/Kris
+crusade - http://dbpedia.org/resource/Crusades
+hijack - http://dbpedia.org/resource/Piracy
+economic crisis - http://dbpedia.org/resource/Financial_crisis
+fester - http://dbpedia.org/resource/Uncle_Fester
+strike - http://dbpedia.org/resource/Strike_action
+digit - http://dbpedia.org/resource/Finger
+single - http://dbpedia.org/resource/Extended_play
+news cycle - http://dbpedia.org/resource/24-hour_news_cycle
+embezzle - http://dbpedia.org/resource/Embezzlement
+water - http://dbpedia.org/resource/Water
+casino - http://dbpedia.org/resource/Casino
+capitalism - http://dbpedia.org/resource/Capitalism
+informer - http://dbpedia.org/resource/Informant
+economic power - http://dbpedia.org/resource/Economic_power
+clean hands - http://dbpedia.org/resource/Clean_hands
+perception - http://dbpedia.org/resource/Perception
+blitz - http://dbpedia.org/resource/Blitzkrieg
+investment - http://dbpedia.org/resource/Investment
+universe - http://dbpedia.org/resource/Universe
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+magazine - http://dbpedia.org/resource/Magazine
+petrobras - http://dbpedia.org/resource/Petrobras
+brazilian federal police - http://dbpedia.org/resource/Federal_Police_of_Brazil
+angel - http://dbpedia.org/resource/Angel
+developmentalist - http://dbpedia.org/resource/Development_economics
+toxic - http://dbpedia.org/resource/Poison
+racket - http://dbpedia.org/resource/Rackett
+projection - http://dbpedia.org/resource/Psychological_projection
+impeachment - http://dbpedia.org/resource/Impeachment
+economy - http://dbpedia.org/resource/Economy
+emperor - http://dbpedia.org/resource/Roman_emperor
+geopolitically - http://dbpedia.org/resource/Geopolitics
+gambit - http://dbpedia.org/resource/Gambit
+exploitation - http://dbpedia.org/resource/Exploitation_of_labour
+plunder - http://dbpedia.org/resource/Embezzlement
+pci - http://dbpedia.org/resource/Italian_Communist_Party
+investor - http://dbpedia.org/resource/Investment
+left field - http://dbpedia.org/resource/Baseball_field
+reserve - http://dbpedia.org/resource/Bank_reserves
+hypothesis - http://dbpedia.org/resource/Hypothesis
+government leader - http://dbpedia.org/resource/Premier_of_Yukon
+enforcer - http://dbpedia.org/resource/Crime
+pepe escobar - http://dbpedia.org/resource/Pepe_Escobar
+car wash - http://dbpedia.org/resource/Car_wash
+weapon - http://dbpedia.org/resource/Arms_trafficking
+big oil - http://dbpedia.org/resource/Big_Oil
+rail - http://dbpedia.org/resource/Rail_transport
+regime change - http://dbpedia.org/resource/Regime_change
+industrial sector - http://dbpedia.org/resource/Industry
+reflection - http://dbpedia.org/resource/Self-reflection
+investment credit - http://dbpedia.org/resource/Tax_credit
+wing - http://dbpedia.org/resource/Wing
+mining - http://dbpedia.org/resource/Mining
+notorious - http://dbpedia.org/resource/Notorious_(2009_film)
+interest rate - http://dbpedia.org/resource/Interest_rate
+portuguese - http://dbpedia.org/resource/Portuguese_language
+stark - http://dbpedia.org/resource/House_of_Night
+natural resource - http://dbpedia.org/resource/Natural_resource
+beauty - http://dbpedia.org/resource/Beauty
+hollywood - http://dbpedia.org/resource/Hollywood
+lecture circuit - http://dbpedia.org/resource/Lecture_circuit
+euphemism - http://dbpedia.org/resource/Euphemism
+brazilian gdp - http://dbpedia.org/resource/Economy_of_Brazil
+asset - http://dbpedia.org/resource/Asset
+public prosecutor - http://dbpedia.org/resource/Prosecutor
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+spin - http://dbpedia.org/resource/Rotation
+smoking gun - http://dbpedia.org/resource/Nixon_White_House_tapes
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+consumption - http://dbpedia.org/resource/Consumerism
+recession - http://dbpedia.org/resource/Recession
+dilma rousseff - http://dbpedia.org/resource/Dilma_Rousseff
+family - http://dbpedia.org/resource/Family
+inflation - http://dbpedia.org/resource/Inflation
+undeniable - http://dbpedia.org/resource/ROH_Undeniable
+evaporate - http://dbpedia.org/resource/Evaporation
+infrastructure - http://dbpedia.org/resource/Infrastructure
+planet - http://dbpedia.org/resource/Earth
+legend - http://dbpedia.org/resource/Urban_legend
+engineer - http://dbpedia.org/resource/Engineer
+bndes - http://dbpedia.org/resource/Brazilian_Development_Bank
+goldman sachs - http://dbpedia.org/resource/Goldman_Sachs
+earthquake - http://dbpedia.org/resource/Earthquake
+comprador - http://dbpedia.org/resource/Comprador
+extol - http://dbpedia.org/resource/Extol
+brazilian economy - http://dbpedia.org/resource/Economy_of_Brazil
+financial system - http://dbpedia.org/resource/Finance
+workers party - http://dbpedia.org/resource/Workers_Party_of_America
+article - http://dbpedia.org/resource/Falklands_War
+lula - http://dbpedia.org/resource/Lula_oil_field
+saga - http://dbpedia.org/resource/Transformers
+blind - http://dbpedia.org/resource/Visual_impairment
+koch brothers - http://dbpedia.org/resource/Koch_family
+rascal - http://dbpedia.org/resource/Suzuki_Carry
+rentier - http://dbpedia.org/resource/Rentier_capitalism
+dam - http://dbpedia.org/resource/Mother
+regional integration - http://dbpedia.org/resource/Regional_integration
+marinho family - http://dbpedia.org/resource/Category:Marinho_family
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+charity - http://dbpedia.org/resource/Charitable_organization
+russia - http://dbpedia.org/resource/Russia
+artful dodger - http://dbpedia.org/resource/Artful_Dodger
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+slavery - http://dbpedia.org/resource/Slavery

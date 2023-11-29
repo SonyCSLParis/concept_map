@@ -1,0 +1,183 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+castrillón - http://dbpedia.org/resource/Castrillón
+soldier - http://dbpedia.org/resource/Soldier
+settlement - http://dbpedia.org/resource/Israeli_settlement
+stone - http://dbpedia.org/resource/Stonemasonry
+rio grande - http://dbpedia.org/resource/Rio_Grande
+die - http://dbpedia.org/resource/Death
+1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
+refugio - http://dbpedia.org/resource/Battle_of_Refugio
+francisco duque - http://dbpedia.org/resource/Francisco_Duque
+mexicans - http://dbpedia.org/resource/Mexico
+tampico - http://dbpedia.org/resource/Tampico
+texans - http://dbpedia.org/resource/Texas
+antonio lópez de santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+xalapa - http://dbpedia.org/resource/Xalapa
+newspaper - http://dbpedia.org/resource/Newspaper
+fort - http://dbpedia.org/resource/Fortification
+february 13 - http://dbpedia.org/resource/February_13
+bayou - http://dbpedia.org/resource/Bayou
+trigger - http://dbpedia.org/resource/Hypnosis
+mexican army - http://dbpedia.org/resource/Mexican_Army
+gregorio gómez - http://dbpedia.org/resource/Gregorio_Gómez
+customhouse - http://dbpedia.org/resource/Custom_house
+aaron burr - http://dbpedia.org/resource/Aaron_Burr
+february 23 - http://dbpedia.org/resource/February_23
+precipitate - http://dbpedia.org/resource/Precipitation
+san patricio - http://dbpedia.org/resource/Battle_of_San_Patricio
+medina - http://dbpedia.org/resource/Medina
+volunteer army - http://dbpedia.org/resource/Volunteer_Army
+mexico city - http://dbpedia.org/resource/Mexico_City
+treaties - http://dbpedia.org/resource/Treaty
+córdoba - http://dbpedia.org/resource/Nicaraguan_córdoba
+matamoros - http://dbpedia.org/resource/Matamoros_Expedition
+region - http://dbpedia.org/resource/Region
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+troop command - http://dbpedia.org/resource/Troop_command
+james bowie - http://dbpedia.org/resource/James_Bowie
+settler - http://dbpedia.org/resource/Settler
+dragoon - http://dbpedia.org/resource/Dragoon
+william travis - http://dbpedia.org/resource/William_B._Travis
+naturalize - http://dbpedia.org/resource/Naturalization
+john henry moore - http://dbpedia.org/resource/John_Henry_Moore_(Texas)
+siege - http://dbpedia.org/resource/Siege
+david - http://dbpedia.org/resource/David_II_of_Scotland
+domingo ugartechea - http://dbpedia.org/resource/Domingo_Ugartechea
+tejano - http://dbpedia.org/resource/Tejano
+gen. - http://dbpedia.org/resource/Divisional_general
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+bexar - http://dbpedia.org/resource/San_Antonio
+travis - http://dbpedia.org/resource/Travis_Manawa
+colony - http://dbpedia.org/resource/Colony_of_Virginia
+rockbridge county - http://dbpedia.org/resource/Rockbridge_County,_Virginia
+february 21 - http://dbpedia.org/resource/February_21
+saluda county - http://dbpedia.org/resource/Saluda_County,_South_Carolina
+laura - http://dbpedia.org/resource/Lavra
+copano - http://dbpedia.org/resource/Copano,_Texas
+martín perfecto de cos - http://dbpedia.org/resource/Martín_Perfecto_de_Cos
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+veracruz - http://dbpedia.org/resource/Veracruz
+marche - http://dbpedia.org/resource/Marche
+defense - http://dbpedia.org/resource/Military
+reinforcement - http://dbpedia.org/resource/Reinforced_concrete
+washington - http://dbpedia.org/resource/George_Washington
+presidio - http://dbpedia.org/resource/Presidio
+militia - http://dbpedia.org/resource/Militia
+medina river - http://dbpedia.org/resource/Medina_River
+mary jane - http://dbpedia.org/resource/Mary_Jane_(shoe)
+houston - http://dbpedia.org/resource/Houston
+independent - http://dbpedia.org/resource/Independence
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_States
+tampico expedition - http://dbpedia.org/resource/Tampico_Expedition
+revolution - http://dbpedia.org/resource/French_Revolution
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+george fisher - http://dbpedia.org/resource/George_Fisher_(actor)
+juan almonte - http://dbpedia.org/resource/Juan_Almonte
+amos - http://dbpedia.org/resource/Book_of_Amos
+concepción - http://dbpedia.org/resource/CSS_Robert_E._Lee
+cavalry - http://dbpedia.org/resource/Cavalry
+josé antonio mexía - http://dbpedia.org/resource/José_Antonio_Mexía
+jim - http://dbpedia.org/resource/Jim_Henson
+james fannin - http://dbpedia.org/resource/James_Fannin
+general santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+defender - http://dbpedia.org/resource/Defendant
+bahia - http://dbpedia.org/resource/Bahia
+frank johnson - http://dbpedia.org/resource/Frank_W._Johnson
+february 22 - http://dbpedia.org/resource/February_22
+republic - http://dbpedia.org/resource/French_First_Republic
+soledad - http://dbpedia.org/resource/Correctional_Training_Facility
+hockley - http://dbpedia.org/resource/Hockley
+grass fight - http://dbpedia.org/resource/Grass_Fight
+petition - http://dbpedia.org/resource/Petition
+wiley - http://dbpedia.org/resource/Wiley_College
+elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+artillery - http://dbpedia.org/resource/Artillery
+cannon - http://dbpedia.org/resource/Cannon
+beason - http://dbpedia.org/resource/Beason,_Illinois
+south carolina - http://dbpedia.org/resource/Province_of_South_Carolina
+nolichucky river - http://dbpedia.org/resource/Nolichucky_River
+fannin - http://dbpedia.org/resource/James_Fannin
+agua dulce - http://dbpedia.org/resource/Battle_of_Agua_Dulce
+colonel - http://dbpedia.org/resource/Colonel
+san antonio - http://dbpedia.org/resource/San_Antonio
+anglo - http://dbpedia.org/resource/Anglo
+san antonio texans - http://dbpedia.org/resource/San_Antonio_Texans
+greene county - http://dbpedia.org/resource/Greene_County,_New_York
+tennessee - http://dbpedia.org/resource/Tennessee
+virginia - http://dbpedia.org/resource/Virginia
+nueces - http://dbpedia.org/resource/Nueces_River
+election - http://dbpedia.org/resource/Election
+velasco - http://dbpedia.org/resource/Velasco_the_Basque
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+coleto - http://dbpedia.org/resource/Coleto
+february 17 - http://dbpedia.org/resource/February_17
+martin perfecto de cos - http://dbpedia.org/resource/Martín_Perfecto_de_Cos
+city - http://dbpedia.org/resource/City
+goliad - http://dbpedia.org/resource/Goliad_massacre
+u.s. vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+anahuac - http://dbpedia.org/resource/Valley_of_Mexico
+alamo force - http://dbpedia.org/resource/Sixth_United_States_Army
+family - http://dbpedia.org/resource/Chicago_Outfit
+texian - http://dbpedia.org/resource/Texians
+plea - http://dbpedia.org/resource/Plea_bargain
+harrisburg - http://dbpedia.org/resource/Harrisburg_Senators
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+liberal - http://dbpedia.org/resource/Liberalism_in_Mexico
+bonham - http://dbpedia.org/resource/John_Bonham
+joaquín ramírez - http://dbpedia.org/resource/Joaquín_Ramírez
+morgan point - http://dbpedia.org/resource/Morgan_Point_Light
+president - http://dbpedia.org/resource/President_of_Mexico
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+shell - http://dbpedia.org/resource/Seashell
+galveston bay - http://dbpedia.org/resource/Galveston_Bay
+freedom - http://dbpedia.org/resource/Manumission
+saltillo - http://dbpedia.org/resource/Saltillo
+orleans - http://dbpedia.org/resource/New_Orleans
+relief - http://dbpedia.org/resource/Humanitarian_aid
+texas - http://dbpedia.org/resource/Texas
+mercurio - http://dbpedia.org/resource/Mercurio_the_4-D_Man
+january 6 - http://dbpedia.org/resource/January_6
+almonte - http://dbpedia.org/resource/Juan_Almonte
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+february 16 - http://dbpedia.org/resource/Act_of_Independence_of_Lithuania
+goliad massacre - http://dbpedia.org/resource/Goliad_massacre
+kentucky - http://dbpedia.org/resource/Kentucky
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+sidney sherman - http://dbpedia.org/resource/Sidney_Sherman
+revolt - http://dbpedia.org/resource/Rebellion
+tejanos - http://dbpedia.org/resource/Tejano
+pin - http://dbpedia.org/resource/Professional_wrestling
+james bonham - http://dbpedia.org/resource/James_Bonham
+texas independence - http://dbpedia.org/resource/Texas_secession_movements
+guerrero - http://dbpedia.org/resource/Vicente_Guerrero
+james grant - http://dbpedia.org/resource/James_Grant_(British_Army_officer,_born_1720)
+negotiation - http://dbpedia.org/resource/Negotiation
+haden harrison edwards - http://dbpedia.org/resource/Haden_Harrison_Edwards
+die son - http://dbpedia.org/resource/Die_Son
+masonic lodge - http://dbpedia.org/resource/Freemasonry
+josé de urrea - http://dbpedia.org/resource/José_de_Urrea
+york rite - http://dbpedia.org/resource/York_Rite
+native americans - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
+bear - http://dbpedia.org/resource/Bear
+texan - http://dbpedia.org/resource/Republic_of_Texas
+specific charge - http://dbpedia.org/resource/Mass-to-charge_ratio
+february 11 - http://dbpedia.org/resource/February_11
+manuel romero - http://dbpedia.org/resource/Manuel_Romero
+baker - http://dbpedia.org/resource/Baker
+january 14 - http://dbpedia.org/resource/January_14
+texan army - http://dbpedia.org/resource/Army_of_the_Republic_of_Texas
+ward - http://dbpedia.org/resource/Wards_of_the_City_of_London
+davy crockett - http://dbpedia.org/resource/Davy_Crockett
+george washington - http://dbpedia.org/resource/George_Washington
+february 3 - http://dbpedia.org/resource/Old_Style_and_New_Style_dates
+treason - http://dbpedia.org/resource/Treason
+anahuac disturbances - http://dbpedia.org/resource/Anahuac_Disturbances
+brazos river - http://dbpedia.org/resource/Brazos_River
+crockett - http://dbpedia.org/resource/Davy_Crockett
+assault - http://dbpedia.org/resource/Amphibious_warfare
+moses austin - http://dbpedia.org/resource/Moses_Austin
+schooner - http://dbpedia.org/resource/Schooner
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+runaway scrape - http://dbpedia.org/resource/Runaway_Scrape
+mosley - http://dbpedia.org/resource/Oswald_Mosley

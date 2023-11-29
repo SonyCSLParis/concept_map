@@ -1,0 +1,33 @@
+police - http://dbpedia.org/resource/Police
+edward lord - http://dbpedia.org/resource/Edward_Lord
+harringworth - http://dbpedia.org/resource/Harringworth
+east wing - http://dbpedia.org/resource/East_Wing
+jacobean style - http://dbpedia.org/resource/Jacobean_architecture
+elevation - http://dbpedia.org/resource/Architectural_drawing
+court - http://dbpedia.org/resource/Courtyard
+elevation - http://dbpedia.org/resource/Architectural_drawing
+single - http://dbpedia.org/resource/Phonograph_record
+tile - http://dbpedia.org/resource/Roof_tiles
+gable - http://dbpedia.org/resource/Gable
+diagonal - http://dbpedia.org/resource/Diagonal
+flue - http://dbpedia.org/resource/Flue
+chimney stack - http://dbpedia.org/resource/Chimney
+brick - http://dbpedia.org/resource/Brickwork
+stone - http://dbpedia.org/resource/Sandstone
+pierce - http://dbpedia.org/resource/Franklin_Pierce
+stone - http://dbpedia.org/resource/Sandstone
+balustrade - http://dbpedia.org/resource/Baluster
+parapet - http://dbpedia.org/resource/Parapet
+stone - http://dbpedia.org/resource/Sandstone
+porch - http://dbpedia.org/resource/Porch
+wing - http://dbpedia.org/resource/Wing
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+police - http://dbpedia.org/resource/Police
+train - http://dbpedia.org/resource/Train_station
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+national policing improvement agency - http://dbpedia.org/resource/National_Policing_Improvement_Agency
+police - http://dbpedia.org/resource/Police
+crime analysis - http://dbpedia.org/resource/Crime_analysis
+policing - http://dbpedia.org/resource/Police
+technology - http://dbpedia.org/resource/Information_technology
+bramshill house - http://dbpedia.org/resource/Bramshill_House

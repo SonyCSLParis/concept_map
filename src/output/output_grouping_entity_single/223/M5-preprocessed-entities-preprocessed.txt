@@ -1,0 +1,77 @@
+coin silver - http://dbpedia.org/resource/Fineness
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+eastern empire - http://dbpedia.org/resource/Byzantine_Empire
+soldier - http://dbpedia.org/resource/Soldier
+christianity - http://dbpedia.org/resource/Christianity
+amateur - http://dbpedia.org/resource/Amateur
+tribe - http://dbpedia.org/resource/Tribe
+army general - http://dbpedia.org/resource/Pakistan_Army
+food price - http://dbpedia.org/resource/Food_prices
+franks - http://dbpedia.org/resource/Franks
+british isles - http://dbpedia.org/resource/British_Isles
+rome - http://dbpedia.org/resource/Roman_Empire
+roman catholic - http://dbpedia.org/resource/Catholic_Church
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+corruption - http://dbpedia.org/resource/Political_corruption
+region - http://dbpedia.org/resource/Region
+solidify - http://dbpedia.org/resource/Solidify_(Grip_Inc._album)
+sack - http://dbpedia.org/resource/Looting
+loot - http://dbpedia.org/resource/Looting
+romans - http://dbpedia.org/resource/Romans_(musician)
+traditional roman religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+goth - http://dbpedia.org/resource/Goths
+roman emperor - http://dbpedia.org/resource/Roman_emperor
+licinius - http://dbpedia.org/resource/Licinius
+roman army - http://dbpedia.org/resource/Roman_army
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+luxury good - http://dbpedia.org/resource/Luxury_goods
+mercenary - http://dbpedia.org/resource/Mercenary
+roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+trade deficit - http://dbpedia.org/resource/Balance_of_trade
+persecution - http://dbpedia.org/resource/Persecution_of_Christians_in_the_Roman_Empire
+saxons - http://dbpedia.org/resource/Saxons
+emperor - http://dbpedia.org/resource/Roman_emperor
+wave - http://dbpedia.org/resource/Wind_wave
+sack rome - http://dbpedia.org/resource/Sack_of_Rome_(1527)
+odoacer - http://dbpedia.org/resource/Odoacer
+capital city - http://dbpedia.org/resource/Capital_city
+city - http://dbpedia.org/resource/City
+piracy - http://dbpedia.org/resource/Piracy
+capital - http://dbpedia.org/resource/Capital_city
+roman - http://dbpedia.org/resource/Roman_Empire
+christian church - http://dbpedia.org/resource/Christianity
+roman religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+god - http://dbpedia.org/resource/Deity
+visigoths - http://dbpedia.org/resource/Visigoths
+millennium city - http://dbpedia.org/resource/Millennium_City,_Hong_Kong
+frontier - http://dbpedia.org/resource/Frontier
+hun - http://dbpedia.org/resource/Huns
+germanic tribe - http://dbpedia.org/resource/Germanic_peoples
+toleration - http://dbpedia.org/resource/Toleration
+thrive - http://dbpedia.org/resource/Thrive_Music
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+dominant - http://dbpedia.org/resource/Dominance_hierarchy
+eastern orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+attila - http://dbpedia.org/resource/Attila
+inflation - http://dbpedia.org/resource/Inflation
+western roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+romulus - http://dbpedia.org/resource/Romulus
+ravage - http://dbpedia.org/resource/Ravage_2099
+god emperor - http://dbpedia.org/resource/Leto_II_Atreides
+polytheistic - http://dbpedia.org/resource/Polytheism
+ostrogoths - http://dbpedia.org/resource/Ostrogoths
+late antiquity - http://dbpedia.org/resource/Late_antiquity
+emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
+emperor justinian - http://dbpedia.org/resource/Justinian_I
+map - http://dbpedia.org/resource/Map
+alaric - http://dbpedia.org/resource/Alaric_I
+monotheistic - http://dbpedia.org/resource/Monotheism
+western europe - http://dbpedia.org/resource/Western_Roman_Empire
+vicious - http://dbpedia.org/resource/Sid_Vicious
+christian religion - http://dbpedia.org/resource/Christianity
+lombards - http://dbpedia.org/resource/Lombards
+medallion - http://dbpedia.org/resource/Medal
+empress theodora - http://dbpedia.org/resource/Theodora_(6th_century)
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+barbarian - http://dbpedia.org/resource/Barbarian
+latin - http://dbpedia.org/resource/Latin

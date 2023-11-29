@@ -1,0 +1,36 @@
+agnes - http://dbpedia.org/resource/Agnes_of_Rome
+windsor - http://dbpedia.org/resource/Windsor_Castle
+queen - http://dbpedia.org/resource/Queen_consort
+saxon - http://dbpedia.org/resource/Saxons
+family - http://dbpedia.org/resource/Family
+acre - http://dbpedia.org/resource/Acre
+court - http://dbpedia.org/resource/Royal_court
+king michael - http://dbpedia.org/resource/Michael_I_of_Romania
+hampshire - http://dbpedia.org/resource/Hampshire
+sussex - http://dbpedia.org/resource/Sussex
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+harringworth - http://dbpedia.org/resource/Harringworth
+archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
+exile - http://dbpedia.org/resource/Exile
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+civil parish - http://dbpedia.org/resource/Civil_parish
+bramshill - http://dbpedia.org/resource/Bramshill
+fortified manor house - http://dbpedia.org/resource/Manor_house
+thomas foxley - http://dbpedia.org/resource/Thomas_Foxley
+surrey - http://dbpedia.org/resource/Surrey
+thornhurst - http://dbpedia.org/resource/Thornhurst_Township,_Lackawanna_County,_Pennsylvania
+mansion - http://dbpedia.org/resource/English_country_house
+police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
+chapel - http://dbpedia.org/resource/Chapel_of_ease
+edward - http://dbpedia.org/resource/Edward_III_of_England
+priest hole - http://dbpedia.org/resource/Priest_hole
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+lord brocket - http://dbpedia.org/resource/Ronald_Nall-Cain,_2nd_Baron_Brocket
+cross bow - http://dbpedia.org/resource/Crossbow
+canterbury - http://dbpedia.org/resource/Canterbury
+kent - http://dbpedia.org/resource/Kent
+mason - http://dbpedia.org/resource/Stonemasonry
+ha - http://dbpedia.org/resource/Hectare
+sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
+george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
+baron zouche - http://dbpedia.org/resource/Baron_Zouche

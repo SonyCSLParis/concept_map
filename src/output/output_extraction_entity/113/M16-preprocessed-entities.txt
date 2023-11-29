@@ -1,0 +1,82 @@
+security - http://dbpedia.org/resource/Security
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+isis - http://dbpedia.org/resource/Isis
+police - http://dbpedia.org/resource/Indonesian_National_Police
+alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage - http://dbpedia.org/resource/Cultural_heritage
+facebook - http://dbpedia.org/resource/Facebook
+facebook - http://dbpedia.org/resource/Facebook
+isis - http://dbpedia.org/resource/Isis
+god - http://dbpedia.org/resource/Deity
+borobudur - http://dbpedia.org/resource/Borobudur
+islamic caliphate - http://dbpedia.org/resource/Caliphate
+mujahidin - http://dbpedia.org/resource/Mujahideen
+security - http://dbpedia.org/resource/Security
+borobudur - http://dbpedia.org/resource/Borobudur
+police - http://dbpedia.org/resource/Indonesian_National_Police
+central java - http://dbpedia.org/resource/Central_Java
+datum - http://dbpedia.org/resource/Geodetic_datum
+internet - http://dbpedia.org/resource/Internet
+police - http://dbpedia.org/resource/Indonesian_National_Police
+jakarta - http://dbpedia.org/resource/Jakarta
+central java - http://dbpedia.org/resource/Central_Java
+police chief - http://dbpedia.org/resource/Iraqi_Police
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+security - http://dbpedia.org/resource/Security
+indonesian military - http://dbpedia.org/resource/Indonesian_National_Armed_Forces
+tni - http://dbpedia.org/resource/Indonesian_National_Armed_Forces
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+capital city - http://dbpedia.org/resource/Capital_city
+jakarta - http://dbpedia.org/resource/Jakarta
+borobudur - http://dbpedia.org/resource/Borobudur
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+agency - http://dbpedia.org/resource/Intelligence_agency
+prepare - http://dbpedia.org/resource/PREPARE
+security - http://dbpedia.org/resource/Security
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+agency - http://dbpedia.org/resource/Intelligence_agency
+marsis - http://dbpedia.org/resource/MARSIS
+security officer - http://dbpedia.org/resource/Security_guard
+candi borobudur - http://dbpedia.org/resource/Borobudur
+tourism - http://dbpedia.org/resource/Tourism_in_Indonesia
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+police - http://dbpedia.org/resource/Indonesian_National_Police
+magelang - http://dbpedia.org/resource/Magelang
+indonesian army - http://dbpedia.org/resource/Indonesian_National_Armed_Forces
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+diponegoro - http://dbpedia.org/resource/Diponegoro
+java district - http://dbpedia.org/resource/Dzau_District
+major general - http://dbpedia.org/resource/Major_general
+security - http://dbpedia.org/resource/Security
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+central java - http://dbpedia.org/resource/Central_Java
+ix century - http://dbpedia.org/resource/9th_century
+borobudur - http://dbpedia.org/resource/Borobudur
+buddhist - http://dbpedia.org/resource/Buddhism
+monument - http://dbpedia.org/resource/Monument
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+heritage list - http://dbpedia.org/resource/State_Register_of_Heritage_Places
+buddha statue - http://dbpedia.org/resource/Buddharupa
+tourist attraction - http://dbpedia.org/resource/Tourism_in_Indonesia
+pilgrimage - http://dbpedia.org/resource/Pilgrimage
+mahayana - http://dbpedia.org/resource/Mahayana
+buddhists - http://dbpedia.org/resource/Buddhism
+borobudur - http://dbpedia.org/resource/Borobudur
+archipelago - http://dbpedia.org/resource/Nusantara
+muslim - http://dbpedia.org/resource/Islam
+official religion - http://dbpedia.org/resource/State_religion
+bomb - http://dbpedia.org/resource/Car_bomb
+stupa - http://dbpedia.org/resource/Stupa
+borobudur - http://dbpedia.org/resource/Borobudur
+muslim - http://dbpedia.org/resource/Islam
+radical - http://dbpedia.org/resource/Radicalization
+security - http://dbpedia.org/resource/Security
+borobudur - http://dbpedia.org/resource/Borobudur
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+ekayana - http://dbpedia.org/resource/Ekayāna
+vihara - http://dbpedia.org/resource/Vihara
+jakarta - http://dbpedia.org/resource/Jakarta

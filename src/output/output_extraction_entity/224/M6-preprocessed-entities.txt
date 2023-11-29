@@ -1,0 +1,48 @@
+gold - http://dbpedia.org/resource/Gold
+california - http://dbpedia.org/resource/California_Trail
+gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold
+sutter - http://dbpedia.org/resource/John_Sutter
+gold - http://dbpedia.org/resource/Gold
+john sutter - http://dbpedia.org/resource/John_Sutter
+emigrant - http://dbpedia.org/resource/Emigration
+california - http://dbpedia.org/resource/California_Trail
+land grant - http://dbpedia.org/resource/Ranchos_of_California
+acre - http://dbpedia.org/resource/Acre
+sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+sutter - http://dbpedia.org/resource/John_Sutter
+fort - http://dbpedia.org/resource/Fortification
+sacramento - http://dbpedia.org/resource/Sacramento_River
+sutter - http://dbpedia.org/resource/John_Sutter
+fort - http://dbpedia.org/resource/Fortification
+farming - http://dbpedia.org/resource/Agriculture
+sutter - http://dbpedia.org/resource/John_Sutter
+fort - http://dbpedia.org/resource/Fortification
+station - http://dbpedia.org/resource/Radio_broadcasting
+immigrant - http://dbpedia.org/resource/Immigration
+california - http://dbpedia.org/resource/California_Trail
+sutter - http://dbpedia.org/resource/John_Sutter
+fort - http://dbpedia.org/resource/Fortification
+gold - http://dbpedia.org/resource/Gold
+john sutter - http://dbpedia.org/resource/John_Sutter
+james marshall - http://dbpedia.org/resource/James_W._Marshall
+sawmill - http://dbpedia.org/resource/Sawmill
+coloma - http://dbpedia.org/resource/Coloma_High_School
+coloma - http://dbpedia.org/resource/Coloma_High_School
+james marshall - http://dbpedia.org/resource/James_W._Marshall
+metal - http://dbpedia.org/resource/Metal
+gold - http://dbpedia.org/resource/Gold
+metal - http://dbpedia.org/resource/Metal
+sutter - http://dbpedia.org/resource/John_Sutter
+gold - http://dbpedia.org/resource/Gold
+sutter - http://dbpedia.org/resource/John_Sutter
+gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold
+prospector - http://dbpedia.org/resource/Prospecting
+gold - http://dbpedia.org/resource/Gold
+president - http://dbpedia.org/resource/President_of_the_United_States
+james polk - http://dbpedia.org/resource/James_K._Polk
+gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold
+california - http://dbpedia.org/resource/California_Trail
+news - http://dbpedia.org/resource/News

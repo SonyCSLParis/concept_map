@@ -1,0 +1,94 @@
+middle ages - http://dbpedia.org/resource/Middle_Ages
+innovation - http://dbpedia.org/resource/Innovation
+aesthetic - http://dbpedia.org/resource/Aesthetics
+castello - http://dbpedia.org/resource/Municipalities_of_San_Marino
+siege castle - http://dbpedia.org/resource/Counter-castle
+battlement - http://dbpedia.org/resource/Battlement
+crusades - http://dbpedia.org/resource/Crusades
+stone - http://dbpedia.org/resource/Masonry
+fort - http://dbpedia.org/resource/Fortification
+gothic architecture - http://dbpedia.org/resource/Gothic_architecture
+anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
+prince bishop - http://dbpedia.org/resource/Prince-bishop
+earl - http://dbpedia.org/resource/Earl
+machicolation - http://dbpedia.org/resource/Machicolation
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+rural - http://dbpedia.org/resource/Rural_area
+nobleman - http://dbpedia.org/resource/Nobility
+dorset - http://dbpedia.org/resource/Dorset
+castle technology - http://dbpedia.org/resource/Castle_Technology
+siege - http://dbpedia.org/resource/Siege
+durham - http://dbpedia.org/resource/Durham_Cathedral
+crenellate - http://dbpedia.org/resource/Battlement
+castle architecture - http://dbpedia.org/resource/Castle
+duke - http://dbpedia.org/resource/Duke
+flanking fire - http://dbpedia.org/resource/Enfilade_and_defilade
+military administrative - http://dbpedia.org/resource/Military_administration
+defence - http://dbpedia.org/resource/Military
+wind - http://dbpedia.org/resource/Windmill
+heart - http://dbpedia.org/resource/Heart_(symbol)
+fortified wall - http://dbpedia.org/resource/Defensive_wall
+norman - http://dbpedia.org/resource/Normans
+fortification - http://dbpedia.org/resource/Castle
+switzerland - http://dbpedia.org/resource/Switzerland
+maiden castle - http://dbpedia.org/resource/Maiden_Castle,_Dorset
+diminutive - http://dbpedia.org/resource/Diminutive
+settlement - http://dbpedia.org/resource/Town
+renaissance - http://dbpedia.org/resource/Renaissance_architecture
+landscape - http://dbpedia.org/resource/Landscape
+language - http://dbpedia.org/resource/Latin
+castle building - http://dbpedia.org/resource/Castle_Building
+country house - http://dbpedia.org/resource/English_country_house
+arrow slit - http://dbpedia.org/resource/Arrowslit
+moat - http://dbpedia.org/resource/Moat
+root - http://dbpedia.org/resource/Semitic_root
+timber - http://dbpedia.org/resource/Timber_framing
+urban castle - http://dbpedia.org/resource/Urban_castle
+rebellion - http://dbpedia.org/resource/Rebellion
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+castrum - http://dbpedia.org/resource/Castle
+holy land crusades - http://dbpedia.org/resource/Crusades
+pond - http://dbpedia.org/resource/Pond
+latin - http://dbpedia.org/resource/Latin
+denmark - http://dbpedia.org/resource/Denmark
+crusade - http://dbpedia.org/resource/Crusades
+roman fort - http://dbpedia.org/resource/Castra
+artillery - http://dbpedia.org/resource/Artillery
+fortress - http://dbpedia.org/resource/Castle
+medieval warfare - http://dbpedia.org/resource/Medieval_warfare
+cannon - http://dbpedia.org/resource/Cannon
+chester - http://dbpedia.org/resource/Chester
+rely - http://dbpedia.org/resource/Rely_(brand)
+integral - http://dbpedia.org/resource/Integral
+frankish - http://dbpedia.org/resource/Franks
+lancashire - http://dbpedia.org/resource/Lancashire
+technology - http://dbpedia.org/resource/Renaissance_technology
+palatinate - http://dbpedia.org/resource/County_palatine
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+violence - http://dbpedia.org/resource/Violence
+function - http://dbpedia.org/resource/Role
+antioch - http://dbpedia.org/resource/Antioch
+romantic revival - http://dbpedia.org/resource/Romantic_Revival
+fashion - http://dbpedia.org/resource/Fashion
+proliferation - http://dbpedia.org/resource/Nuclear_proliferation
+middle east - http://dbpedia.org/resource/Middle_East
+cheshire - http://dbpedia.org/resource/Cheshire
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+historian - http://dbpedia.org/resource/History
+mock castle - http://dbpedia.org/resource/Castle
+administration - http://dbpedia.org/resource/Public_administration
+drawbridge - http://dbpedia.org/resource/Drawbridge
+chateau - http://dbpedia.org/resource/Château
+gunpowder - http://dbpedia.org/resource/Early_modern_warfare
+hill fort - http://dbpedia.org/resource/Hillfort
+communal defence - http://dbpedia.org/resource/Mobbing_(animal_behavior)
+concentric - http://dbpedia.org/resource/Concentric_castle
+town - http://dbpedia.org/resource/German_town_law
+iron - http://dbpedia.org/resource/Wrought_iron
+symbol - http://dbpedia.org/resource/Symbol
+norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+monarch - http://dbpedia.org/resource/Monarch
+castellum - http://dbpedia.org/resource/Castra
+lord monarch - http://dbpedia.org/resource/Lord_Monarch
+tower - http://dbpedia.org/resource/Keep
+prison - http://dbpedia.org/resource/Prison

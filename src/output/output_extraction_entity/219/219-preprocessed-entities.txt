@@ -1,0 +1,39 @@
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+fissile - http://dbpedia.org/resource/Fissile_material
+isotope - http://dbpedia.org/resource/Isotope
+uranium - http://dbpedia.org/resource/Uranium-235
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+critical mass - http://dbpedia.org/resource/Critical_mass
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+critical mass - http://dbpedia.org/resource/Critical_mass
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+klaus - http://dbpedia.org/resource/Klaus_Mann
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+uranium - http://dbpedia.org/resource/Uranium-235
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+maud report - http://dbpedia.org/resource/MAUD_Committee
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+soviet - http://dbpedia.org/resource/Soviet_Union
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+alloy - http://dbpedia.org/resource/Alloy
+maud report - http://dbpedia.org/resource/MAUD_Committee
+uranium - http://dbpedia.org/resource/Uranium-235
+critical mass - http://dbpedia.org/resource/Critical_mass
+uranium - http://dbpedia.org/resource/Uranium-235
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+critical mass - http://dbpedia.org/resource/Critical_mass
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project

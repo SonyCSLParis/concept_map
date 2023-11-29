@@ -1,0 +1,32 @@
+primitive baptists - http://dbpedia.org/resource/Primitive_Baptists
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+james caudy - http://dbpedia.org/resource/James_Caudy
+sarah - http://dbpedia.org/resource/SAR-Lupe
+die - http://dbpedia.org/resource/Death
+january 23 - http://dbpedia.org/resource/January_23
+mary - http://dbpedia.org/resource/Mary_Shelley
+william nixon - http://dbpedia.org/resource/William_Nixon_(architect)
+lyons - http://dbpedia.org/resource/Lyon
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+david - http://dbpedia.org/resource/Jacques-Louis_David
+martha - http://dbpedia.org/resource/Martha_Jefferson_Randolph
+william jackson - http://dbpedia.org/resource/Jackson_of_Exeter
+virginia - http://dbpedia.org/resource/Virginia
+va - http://dbpedia.org/resource/Virginia
+bear - http://dbpedia.org/resource/Bear
+hampshire - http://dbpedia.org/resource/Hampshire_county_cricket_teams
+december 23 - http://dbpedia.org/resource/December_23
+rebecca - http://dbpedia.org/resource/Rebecca
+chapel - http://dbpedia.org/resource/Chapel_of_ease
+law - http://dbpedia.org/resource/Law
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+john monroe - http://dbpedia.org/resource/John_Monroe_(lawyer)
+nixon - http://dbpedia.org/resource/Richard_Nixon
+george washington - http://dbpedia.org/resource/George_Washington
+church - http://dbpedia.org/resource/Catholic_Church
+april 01 - http://dbpedia.org/resource/April_1
+jane - http://dbpedia.org/resource/Jane_Fonda
+rachel - http://dbpedia.org/resource/Rachel
+george - http://dbpedia.org/resource/George_(band)

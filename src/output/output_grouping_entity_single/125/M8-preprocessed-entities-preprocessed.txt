@@ -1,0 +1,234 @@
+trough - http://dbpedia.org/resource/Watering_trough
+fertility - http://dbpedia.org/resource/Soil_fertility
+maryland - http://dbpedia.org/resource/Maryland
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+valley view - http://dbpedia.org/resource/Valley_View_(Romney,_West_Virginia)
+rice - http://dbpedia.org/resource/Rice
+issn - http://dbpedia.org/resource/International_Standard_Book_Number
+philadelphia - http://dbpedia.org/resource/Philadelphia
+newspapers.com - http://dbpedia.org/resource/Ancestry.com
+hickory grove - http://dbpedia.org/resource/Hickory_Grove,_South_Carolina
+unincorporated community - http://dbpedia.org/resource/Unincorporated_area
+south church - http://dbpedia.org/resource/South_Zelenchuksky_Church
+wood floor - http://dbpedia.org/resource/Wood_flooring
+balustrade - http://dbpedia.org/resource/Baluster
+church house - http://dbpedia.org/resource/Church_House_Publishing
+culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+fort - http://dbpedia.org/resource/Fortification
+peripatetic - http://dbpedia.org/resource/Nomad
+plank - http://dbpedia.org/resource/Lumber
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+denominations - http://dbpedia.org/resource/Christian_denomination
+marla - http://dbpedia.org/resource/Marla_(unit)
+baron colepeper - http://dbpedia.org/resource/Baron_Colepeper
+internet archive - http://dbpedia.org/resource/Internet_Archive
+granite - http://dbpedia.org/resource/Granite
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+architectural plan - http://dbpedia.org/resource/Architectural_plan
+east west - http://dbpedia.org/resource/East_West_MRT_line
+encompass - http://dbpedia.org/resource/Encompass
+patent - http://dbpedia.org/resource/Land_grant
+county commission - http://dbpedia.org/resource/County_commission
+scribner - http://dbpedia.org/resource/Charles_Scribner's_Sons
+lexington kentucky - http://dbpedia.org/resource/Lexington,_Kentucky
+brethren church - http://dbpedia.org/resource/Brethren_Church
+anabaptist - http://dbpedia.org/resource/Anabaptism
+morgantown - http://dbpedia.org/resource/Morgantown_High_School
+schwarzenau brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
+space - http://dbpedia.org/resource/Space
+surname - http://dbpedia.org/resource/Surname
+rural - http://dbpedia.org/resource/Rural_area
+region - http://dbpedia.org/resource/Region
+sanctuary - http://dbpedia.org/resource/Sanctuary
+hook - http://dbpedia.org/resource/Fish_hook
+footstone - http://dbpedia.org/resource/Footstone
+slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+parsons - http://dbpedia.org/resource/Parsons_School_of_Design
+thomas fairfax - http://dbpedia.org/resource/Thomas_Fairfax
+camden - http://dbpedia.org/resource/Camden_Town
+settler - http://dbpedia.org/resource/Settler
+selden - http://dbpedia.org/resource/John_Selden
+homecoming - http://dbpedia.org/resource/Homecoming
+romney - http://dbpedia.org/resource/New_Romney
+immersion - http://dbpedia.org/resource/Baptism
+mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
+beam - http://dbpedia.org/resource/Bending
+slaveholder - http://dbpedia.org/resource/Slavery_in_the_United_States
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
+slave labor - http://dbpedia.org/resource/Slavery_in_the_United_States
+christian denomination - http://dbpedia.org/resource/Christian_denomination
+york - http://dbpedia.org/resource/York
+inventory - http://dbpedia.org/resource/Inventory
+south branch potomac river - http://dbpedia.org/resource/Potomac_River
+leatherman - http://dbpedia.org/resource/Leather_subculture
+collective ownership - http://dbpedia.org/resource/Common_ownership
+church window - http://dbpedia.org/resource/Church_window
+denomination - http://dbpedia.org/resource/Christian_denomination
+rail - http://dbpedia.org/resource/Handrail
+wood - http://dbpedia.org/resource/Lumber
+baptism - http://dbpedia.org/resource/Baptism
+interment site - http://dbpedia.org/resource/Burial
+upright piano - http://dbpedia.org/resource/Piano
+hampshire - http://dbpedia.org/resource/Hampshire
+mary - http://dbpedia.org/resource/Mary_II_of_England
+shareholder - http://dbpedia.org/resource/Shareholder
+wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
+elevation - http://dbpedia.org/resource/Multiview_projection
+weatherboard - http://dbpedia.org/resource/Clapboard_(architecture)
+gable - http://dbpedia.org/resource/Gable
+tavern - http://dbpedia.org/resource/Tavern
+revival meeting - http://dbpedia.org/resource/Revival_meeting
+fieldstone - http://dbpedia.org/resource/Fieldstone
+nonresistance - http://dbpedia.org/resource/Nonresistance
+mount - http://dbpedia.org/resource/Mountain
+northern neck - http://dbpedia.org/resource/Northern_Neck
+log church - http://dbpedia.org/resource/Log_cabin
+tree - http://dbpedia.org/resource/Tree
+clain - http://dbpedia.org/resource/Clain
+stone - http://dbpedia.org/resource/Sandstone
+mount bethel church - http://dbpedia.org/resource/Mount_Bethel_Church_(Three_Churches,_West_Virginia)
+triune - http://dbpedia.org/resource/Trinity
+american civil war - http://dbpedia.org/resource/American_Civil_War
+pulpit - http://dbpedia.org/resource/Pulpit
+limestone - http://dbpedia.org/resource/Limestone
+settlement - http://dbpedia.org/resource/Town
+quadrangle - http://dbpedia.org/resource/Quadrilateral
+geological survey - http://dbpedia.org/resource/Geological_survey
+virginia college - http://dbpedia.org/resource/Virginia_College
+slope - http://dbpedia.org/resource/Slope
+valley east - http://dbpedia.org/resource/Valley_East
+potomac highlands - http://dbpedia.org/resource/Potomac_Highlands
+log building - http://dbpedia.org/resource/Log_cabin
+liberty - http://dbpedia.org/resource/Liberty
+sash - http://dbpedia.org/resource/Sash_window
+single - http://dbpedia.org/resource/Phonograph_record
+post office - http://dbpedia.org/resource/Post_office
+deed - http://dbpedia.org/resource/Deed
+charles ii - http://dbpedia.org/resource/Charles_II_of_England
+google books - http://dbpedia.org/resource/Google_Books
+symposium - http://dbpedia.org/resource/Symposium
+cumberland - http://dbpedia.org/resource/Cumberland_River
+timber - http://dbpedia.org/resource/Timber_framing
+aisle - http://dbpedia.org/resource/Aisle
+church history - http://dbpedia.org/resource/History_of_Christianity
+seam - http://dbpedia.org/resource/Coal_mining
+creed - http://dbpedia.org/resource/Creed
+ecclesiastical - http://dbpedia.org/resource/Church_architecture
+methodists - http://dbpedia.org/resource/Methodism
+headstone - http://dbpedia.org/resource/Headstone
+metal - http://dbpedia.org/resource/Metalworking
+charles baker - http://dbpedia.org/resource/Charlie_Baker
+cornelia - http://dbpedia.org/resource/Cornelia_Metella
+anticlinal - http://dbpedia.org/resource/Anticline
+trustee - http://dbpedia.org/resource/Trustee
+roberta - http://dbpedia.org/resource/Roberta_Williams
+cameron - http://dbpedia.org/resource/David_Cameron
+embark - http://dbpedia.org/resource/Embark_(transit_authority)
+heat - http://dbpedia.org/resource/Central_heating
+historical society - http://dbpedia.org/resource/Historical_society
+intrusion - http://dbpedia.org/resource/Intrusive_rock
+henry - http://dbpedia.org/resource/Henry_(unit)
+howard - http://dbpedia.org/resource/Howard_University
+pressed metal ceiling - http://dbpedia.org/resource/Tin_ceiling
+george - http://dbpedia.org/resource/George_(band)
+architecture - http://dbpedia.org/resource/Architecture
+foothill - http://dbpedia.org/resource/Foothills
+rural area - http://dbpedia.org/resource/Rural_area
+penobscot - http://dbpedia.org/resource/Penobscot
+resident minister - http://dbpedia.org/resource/Resident_(title)
+petition - http://dbpedia.org/resource/Petition
+attic - http://dbpedia.org/resource/Attic
+north river mills historic district - http://dbpedia.org/resource/North_River_Mills_Historic_District
+chimney - http://dbpedia.org/resource/Chimney
+plasterboard - http://dbpedia.org/resource/Drywall
+chicken wire - http://dbpedia.org/resource/Chicken_wire
+north south - http://dbpedia.org/resource/North_South_MRT_line
+compliance officer - http://dbpedia.org/resource/Regulatory_compliance
+allegheny - http://dbpedia.org/resource/Allegheny_Mountains
+indicative - http://dbpedia.org/resource/Realis_mood
+native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+tenon - http://dbpedia.org/resource/Mortise_and_tenon
+mortise - http://dbpedia.org/resource/Mortise_and_tenon
+historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+elevation church - http://dbpedia.org/resource/Elevation_Church
+white pine - http://dbpedia.org/resource/Pinus_strobus
+virginia - http://dbpedia.org/resource/Virginia
+religious architecture - http://dbpedia.org/resource/Sacral_architecture
+otis - http://dbpedia.org/resource/Otis_Elevator_Company
+hardy county - http://dbpedia.org/resource/Hardy_County,_West_Virginia
+wodrow - http://dbpedia.org/resource/Robert_Wodrow
+uncut - http://dbpedia.org/resource/Uncut_(magazine)
+extant - http://dbpedia.org/resource/Neontology
+lord fairfax - http://dbpedia.org/resource/Lord_Fairfax_of_Cameron
+methodist - http://dbpedia.org/resource/Methodism
+village - http://dbpedia.org/resource/Administrative_divisions_of_Wisconsin
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+façade - http://dbpedia.org/resource/Facade
+oak tree - http://dbpedia.org/resource/Oak
+swisher - http://dbpedia.org/resource/Swisher_County,_Texas
+city - http://dbpedia.org/resource/City
+gate - http://dbpedia.org/resource/Gate
+cattle - http://dbpedia.org/resource/Cattle
+dunker - http://dbpedia.org/resource/Wilhelm_Dunker
+kerns - http://dbpedia.org/resource/Kern_(soldier)
+minimalist - http://dbpedia.org/resource/Minimalism
+open access - http://dbpedia.org/resource/Open_access
+decorative molding - http://dbpedia.org/resource/Molding_(decorative)
+arlington county - http://dbpedia.org/resource/Arlington_County,_Virginia
+trading post - http://dbpedia.org/resource/Trading_post
+ridge - http://dbpedia.org/resource/Ridge
+building construction - http://dbpedia.org/resource/Construction
+gravestone - http://dbpedia.org/resource/Headstone
+patterson creek mountain - http://dbpedia.org/resource/Patterson_Creek_Mountain
+frontier west virginia - http://dbpedia.org/resource/Frontier_West_Virginia
+committee - http://dbpedia.org/resource/Committee
+historic preservation - http://dbpedia.org/resource/Historic_preservation
+acre - http://dbpedia.org/resource/Acre
+west virginia - http://dbpedia.org/resource/West_Virginia
+concrete block - http://dbpedia.org/resource/Masonry
+news - http://dbpedia.org/resource/Journalism
+bibliography - http://dbpedia.org/resource/Bibliography
+mill creek mountain - http://dbpedia.org/resource/Mill_Creek_Mountain
+eds - http://dbpedia.org/resource/Electronic_Data_Systems
+sandra - http://dbpedia.org/resource/List_of_Heroes_characters
+northern neck proprietary - http://dbpedia.org/resource/Northern_Neck_Proprietary
+pisciotta - http://dbpedia.org/resource/Pisciotta
+kentucky - http://dbpedia.org/resource/Kentucky
+bark - http://dbpedia.org/resource/Birch_bark
+wold - http://dbpedia.org/resource/The_Wolds
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+obelisk - http://dbpedia.org/resource/Obelisk
+church service - http://dbpedia.org/resource/Church_service
+north wall - http://dbpedia.org/resource/North_Wall_railway_station
+springfield brick house - http://dbpedia.org/resource/Springfield_Brick_House
+purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
+overhang - http://dbpedia.org/resource/Overhang_seat
+map - http://dbpedia.org/resource/Map
+hampshire review - http://dbpedia.org/resource/Hampshire_Review
+spindle - http://dbpedia.org/resource/Axle
+surveying - http://dbpedia.org/resource/Surveying
+maxwell - http://dbpedia.org/resource/Maxwell_(unit)
+bittinger - http://dbpedia.org/resource/Bittinger,_Maryland
+printing - http://dbpedia.org/resource/Printing
+national park service - http://dbpedia.org/resource/National_Park_Service
+blacksmith - http://dbpedia.org/resource/Blacksmith
+wilmer - http://dbpedia.org/resource/Elisha_Cook_Jr.
+u.s. route 220 - http://dbpedia.org/resource/U.S._Route_220
+church - http://dbpedia.org/resource/Church_architecture
+printer - http://dbpedia.org/resource/Printing
+meeting house - http://dbpedia.org/resource/Meeting_house
+topographic - http://dbpedia.org/resource/Topography
+stove - http://dbpedia.org/resource/Wood-burning_stove
+dunkard - http://dbpedia.org/resource/Schwarzenau_Brethren
+ha - http://dbpedia.org/resource/Hectare
+hampshire county - http://dbpedia.org/resource/Hampshire
+bluff - http://dbpedia.org/resource/Hill
+high church - http://dbpedia.org/resource/High_church
+german baptist brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
+wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+williamsburg - http://dbpedia.org/resource/Colonial_Williamsburg
+thomas colepeper - http://dbpedia.org/resource/Thomas_Colepeper,_2nd_Baron_Colepeper
+early church - http://dbpedia.org/resource/History_of_Christianity
+land grant - http://dbpedia.org/resource/Land_grant
+architectural historian - http://dbpedia.org/resource/Architectural_historian
+east wall - http://dbpedia.org/resource/East_Wall

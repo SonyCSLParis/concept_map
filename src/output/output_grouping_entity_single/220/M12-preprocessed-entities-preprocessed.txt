@@ -1,0 +1,96 @@
+rt - http://dbpedia.org/resource/RT_UK
+associate professor - http://dbpedia.org/resource/Professor
+education - http://dbpedia.org/resource/Education
+media lens - http://dbpedia.org/resource/Media_Lens
+bastard - http://dbpedia.org/resource/Profanity
+british nigerian - http://dbpedia.org/resource/British_Nigerian
+socialist tradition - http://dbpedia.org/resource/History_of_socialism
+public opinion - http://dbpedia.org/resource/Public_opinion
+stalin - http://dbpedia.org/resource/Joseph_Stalin
+racism - http://dbpedia.org/resource/Racism
+king college - http://dbpedia.org/resource/King_University
+germany - http://dbpedia.org/resource/Nazi_Germany
+water - http://dbpedia.org/resource/Water_industry
+journalism - http://dbpedia.org/resource/Journalism
+truth - http://dbpedia.org/resource/Truth
+january 20 - http://dbpedia.org/resource/January_20
+medialens - http://dbpedia.org/resource/Media_Lens
+sunday business post - http://dbpedia.org/resource/Business_Post
+month day - http://dbpedia.org/resource/Calendar_date
+crime - http://dbpedia.org/resource/Crime
+override - http://dbpedia.org/resource/Veto
+lenin - http://dbpedia.org/resource/Vladimir_Lenin
+downplay - http://dbpedia.org/resource/Downplay
+famine - http://dbpedia.org/resource/Holodomor
+military history - http://dbpedia.org/resource/Military_history
+curriculum - http://dbpedia.org/resource/Curriculum
+washington - http://dbpedia.org/resource/George_Washington
+news - http://dbpedia.org/resource/News_media
+language - http://dbpedia.org/resource/Language
+british colonial history - http://dbpedia.org/resource/British_Empire
+jeremy corbyn - http://dbpedia.org/resource/Jeremy_Corbyn
+indian nationalist - http://dbpedia.org/resource/Indian_independence_movement
+law - http://dbpedia.org/resource/Law
+digital - http://dbpedia.org/resource/Digital_media
+independent - http://dbpedia.org/resource/Independence
+dictator - http://dbpedia.org/resource/Dictator
+varnish - http://dbpedia.org/resource/Varnish
+bbc - http://dbpedia.org/resource/BBC_News
+amnesia - http://dbpedia.org/resource/Amnesia
+slave trading - http://dbpedia.org/resource/Slavery
+imperialism - http://dbpedia.org/resource/Imperialism
+cameron - http://dbpedia.org/resource/David_Cameron
+mumble - http://dbpedia.org/resource/Happy_Feet
+frith - http://dbpedia.org/resource/Frith
+britain - http://dbpedia.org/resource/British_Empire
+bias - http://dbpedia.org/resource/Media_bias
+concentration camp - http://dbpedia.org/resource/Internment
+author - http://dbpedia.org/resource/Author
+slave trade - http://dbpedia.org/resource/Slavery
+ashley jackson - http://dbpedia.org/resource/Ashley_Jackson_(field_hockey)
+leeds - http://dbpedia.org/resource/University_of_Leeds
+british empire - http://dbpedia.org/resource/British_Empire
+reincarnation - http://dbpedia.org/resource/Reincarnation
+iraq - http://dbpedia.org/resource/2003_invasion_of_Iraq
+hypocrisy - http://dbpedia.org/resource/Hypocrisy
+rehabilitation - http://dbpedia.org/resource/Political_rehabilitation
+danielle ryan - http://dbpedia.org/resource/Danielle_Ryan
+eyelid - http://dbpedia.org/resource/Eyelid
+tony blair - http://dbpedia.org/resource/Tony_Blair
+briton - http://dbpedia.org/resource/British_people
+gulag - http://dbpedia.org/resource/Gulag
+unvarnished - http://dbpedia.org/resource/Unvarnished
+exploitation - http://dbpedia.org/resource/Exploitation_of_labour
+british people - http://dbpedia.org/resource/British_people
+edward - http://dbpedia.org/resource/Edward_VIII
+violence - http://dbpedia.org/resource/Violence
+freelance journalist - http://dbpedia.org/resource/Freelancer
+february 17 - http://dbpedia.org/resource/February_17
+twitter - http://dbpedia.org/resource/Twitter
+amritsar massacre - http://dbpedia.org/resource/Jallianwala_Bagh_massacre
+indian railway - http://dbpedia.org/resource/Indian_Railways
+unapologetically - http://dbpedia.org/resource/Unapologetically
+professor - http://dbpedia.org/resource/Teacher
+cnn - http://dbpedia.org/resource/CNN
+putin - http://dbpedia.org/resource/Vladimir_Putin
+uk prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+historian - http://dbpedia.org/resource/Historian
+syria - http://dbpedia.org/resource/Syria
+respondent - http://dbpedia.org/resource/Classical_conditioning
+moscow - http://dbpedia.org/resource/Moscow
+amritsar - http://dbpedia.org/resource/Jallianwala_Bagh_massacre
+astounded - http://dbpedia.org/resource/Astounded_(Bran_Van_3000_song)
+column - http://dbpedia.org/resource/Columnist
+brits - http://dbpedia.org/resource/United_Kingdom
+trade union - http://dbpedia.org/resource/Trade_union
+great power - http://dbpedia.org/resource/Great_power
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+isis - http://dbpedia.org/resource/Isis
+vladimir putin - http://dbpedia.org/resource/Vladimir_Putin
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+britons - http://dbpedia.org/resource/British_people
+foreign policy - http://dbpedia.org/resource/Foreign_policy_of_the_United_States
+russia - http://dbpedia.org/resource/Russia
+david - http://dbpedia.org/resource/David
+slavery - http://dbpedia.org/resource/Slavery
+ottomans - http://dbpedia.org/resource/Ottoman_(furniture)

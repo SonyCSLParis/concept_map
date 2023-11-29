@@ -1,0 +1,73 @@
+fuel - http://dbpedia.org/resource/Gasoline
+criminal offence - http://dbpedia.org/resource/Crime
+lawless - http://dbpedia.org/resource/Baron_Cloncurry
+jennet - http://dbpedia.org/resource/Jennet
+family - http://dbpedia.org/resource/Family
+herb - http://dbpedia.org/resource/Herbal_medicine
+malkin tower - http://dbpedia.org/resource/Malkin_Tower
+summer - http://dbpedia.org/resource/Midsummer
+cistercian - http://dbpedia.org/resource/Cistercians
+countie - http://dbpedia.org/resource/Uyezd
+die - http://dbpedia.org/resource/Death
+village - http://dbpedia.org/resource/Village
+crime - http://dbpedia.org/resource/Crime
+impose - http://dbpedia.org/resource/Impose_(magazine)
+catholicism - http://dbpedia.org/resource/Catholic_Church
+york - http://dbpedia.org/resource/House_of_York
+family feud - http://dbpedia.org/resource/Family_Feud
+king james - http://dbpedia.org/resource/James_VI_and_I
+trawden forest - http://dbpedia.org/resource/Trawden_Forest
+dark tale - http://dbpedia.org/resource/Dark_Tale
+folk - http://dbpedia.org/resource/Folklore
+peace - http://dbpedia.org/resource/Peace
+fear - http://dbpedia.org/resource/Fear
+court - http://dbpedia.org/resource/Court
+healer - http://dbpedia.org/resource/Folk_healer
+sheep - http://dbpedia.org/resource/Sheep
+galore - http://dbpedia.org/resource/Galore_(The_Cure_album)
+legend - http://dbpedia.org/resource/Legend
+poverty - http://dbpedia.org/resource/Poverty
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+dissolution - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+lancashire - http://dbpedia.org/resource/Lancashire
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+guilt - http://dbpedia.org/resource/Culpability
+century village - http://dbpedia.org/resource/Century_Village,_Florida
+village life - http://dbpedia.org/resource/Village_Life
+witches - http://dbpedia.org/resource/Witchcraft
+medicine - http://dbpedia.org/resource/Medicine
+anne - http://dbpedia.org/resource/Anne_of_Denmark
+fascinate - http://dbpedia.org/resource/Because_of_You...
+scepticism - http://dbpedia.org/resource/Skepticism
+thomas potts - http://dbpedia.org/resource/Thomas_Potts
+law - http://dbpedia.org/resource/English_law
+catholic - http://dbpedia.org/resource/Catholic_Church
+reserve - http://dbpedia.org/resource/Nature_reserve
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+dungeon - http://dbpedia.org/resource/Dungeon
+notorious - http://dbpedia.org/resource/Notorious_(2009_film)
+newchurch - http://dbpedia.org/resource/Newchurch_and_Merthyr
+pedlar - http://dbpedia.org/resource/Peddler
+pin - http://dbpedia.org/resource/Pin
+monasteries - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
+region - http://dbpedia.org/resource/Region
+doctrine - http://dbpedia.org/resource/Doctrine
+queen mary - http://dbpedia.org/resource/Mary_I_of_England
+judge - http://dbpedia.org/resource/Judge
+church - http://dbpedia.org/resource/Catholic_Church
+stroke - http://dbpedia.org/resource/Stroke
+blood - http://dbpedia.org/resource/Blood
+devil - http://dbpedia.org/resource/Devil
+pendle - http://dbpedia.org/resource/Pendle_witches
+witch trial - http://dbpedia.org/resource/Witch-hunt
+soul - http://dbpedia.org/resource/Soul
+magic - http://dbpedia.org/resource/Witchcraft
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+witchcraft - http://dbpedia.org/resource/Witchcraft
+daemonologie - http://dbpedia.org/resource/Daemonologie
+curse - http://dbpedia.org/resource/Curse
+john law - http://dbpedia.org/resource/John_Law_(economist)
+southerns - http://dbpedia.org/resource/Southerns_cricket_team
+clay - http://dbpedia.org/resource/Clay_tablet
+knee - http://dbpedia.org/resource/Knee

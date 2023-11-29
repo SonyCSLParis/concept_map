@@ -1,0 +1,69 @@
+lanka - http://dbpedia.org/resource/Sri_Lanka
+british rule - http://dbpedia.org/resource/British_Empire
+democracy - http://dbpedia.org/resource/Democracy
+global power - http://dbpedia.org/resource/Great_power
+west africa - http://dbpedia.org/resource/West_Africa
+guinea - http://dbpedia.org/resource/Guinea
+windward islands - http://dbpedia.org/resource/British_Windward_Islands
+case control - http://dbpedia.org/resource/Case–control_study
+queen victoria - http://dbpedia.org/resource/Queen_Victoria
+profiteer - http://dbpedia.org/resource/War_profiteering
+pitcairn islands - http://dbpedia.org/resource/Pitcairn_Islands
+malta - http://dbpedia.org/resource/Malta
+guyana - http://dbpedia.org/resource/Guyana
+namibia - http://dbpedia.org/resource/Namibia
+british empire - http://dbpedia.org/resource/British_Empire
+honduras - http://dbpedia.org/resource/Honduras
+ghana - http://dbpedia.org/resource/Ghana
+belize - http://dbpedia.org/resource/British_Honduras
+dominant - http://dbpedia.org/resource/Dominant-party_system
+brunei - http://dbpedia.org/resource/Brunei
+tanzania - http://dbpedia.org/resource/Tanzania
+botswana - http://dbpedia.org/resource/Botswana
+trinidad tobago - http://dbpedia.org/resource/Trinidad_and_Tobago_national_football_team
+economy - http://dbpedia.org/resource/Economy
+victorian times - http://dbpedia.org/resource/Victorian_era
+helena - http://dbpedia.org/resource/Helena_Cassadine
+st vincent - http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines
+pax britannica - http://dbpedia.org/resource/Pax_Britannica
+mauritius - http://dbpedia.org/resource/Mauritius
+isl - http://dbpedia.org/resource/Integer_set_library
+united arab emirates - http://dbpedia.org/resource/United_Arab_Emirates
+west malaysia - http://dbpedia.org/resource/Peninsular_Malaysia
+somaliland - http://dbpedia.org/resource/Somaliland
+cyprus - http://dbpedia.org/resource/Cyprus
+legacy debt - http://dbpedia.org/resource/Legacy_debt
+bear - http://dbpedia.org/resource/Bear
+netherlands - http://dbpedia.org/resource/Dutch_Republic
+argentina - http://dbpedia.org/resource/Argentina
+zimbabwe - http://dbpedia.org/resource/Zimbabwe
+naval supremacy - http://dbpedia.org/resource/Command_of_the_sea
+borneo - http://dbpedia.org/resource/Borneo
+oman - http://dbpedia.org/resource/Oman
+statistic - http://dbpedia.org/resource/Statistics
+ceylon - http://dbpedia.org/resource/Dominion_of_Ceylon
+sun - http://dbpedia.org/resource/Sun
+malawi - http://dbpedia.org/resource/Malawi
+seychelles - http://dbpedia.org/resource/Seychelles
+uganda - http://dbpedia.org/resource/Uganda
+british flag - http://dbpedia.org/resource/Union_Jack
+leone - http://dbpedia.org/resource/Sierra_Leonean_leone
+newfoundland - http://dbpedia.org/resource/Newfoundland_Colony
+sabah - http://dbpedia.org/resource/Sabah
+union jack - http://dbpedia.org/resource/Union_Jack
+coast - http://dbpedia.org/resource/Coast
+union flag - http://dbpedia.org/resource/Union_Jack
+north america - http://dbpedia.org/resource/North_America
+siam - http://dbpedia.org/resource/Thailand
+global policeman - http://dbpedia.org/resource/Global_policeman
+cameroons - http://dbpedia.org/resource/British_Cameroons
+colony - http://dbpedia.org/resource/Crown_colony
+john wilson - http://dbpedia.org/resource/John_J._B._Wilson
+russia - http://dbpedia.org/resource/Russia
+tristan da cunha - http://dbpedia.org/resource/Tristan_da_Cunha
+britain - http://dbpedia.org/resource/British_Empire
+superpower - http://dbpedia.org/resource/Superpower
+south africa - http://dbpedia.org/resource/South_Africa
+east africa - http://dbpedia.org/resource/Africa
+central africa - http://dbpedia.org/resource/Central_Africa
+great exhibition - http://dbpedia.org/resource/Great_Exhibition

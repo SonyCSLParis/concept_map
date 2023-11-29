@@ -1,0 +1,40 @@
+synonym - http://dbpedia.org/resource/Synonym
+prospector - http://dbpedia.org/resource/Prospecting
+california - http://dbpedia.org/resource/California
+1849 gold rush - http://dbpedia.org/resource/California_Gold_Rush
+dominant - http://dbpedia.org/resource/Dominance_and_submission
+quintet - http://dbpedia.org/resource/Quintet
+jessica - http://dbpedia.org/resource/Jessica_Buchanan
+trent - http://dbpedia.org/resource/River_Trent
+ranch - http://dbpedia.org/resource/Ranch
+evelyn raymond - http://dbpedia.org/resource/Evelyn_Raymond
+california - http://dbpedia.org/resource/California
+minnesota - http://dbpedia.org/resource/Minnesota
+frontier - http://dbpedia.org/resource/American_frontier
+charles - http://dbpedia.org/resource/Charles_II_of_England
+sleep - http://dbpedia.org/resource/Sleep
+lounge - http://dbpedia.org/resource/Bar
+jessica - http://dbpedia.org/resource/Jessica_Buchanan
+evelyn raymond - http://dbpedia.org/resource/Evelyn_Raymond
+california - http://dbpedia.org/resource/California
+tent - http://dbpedia.org/resource/Tent
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+custer - http://dbpedia.org/resource/George_Armstrong_Custer
+francis - http://dbpedia.org/resource/Francis_I_of_France
+dust - http://dbpedia.org/resource/Dust
+wing - http://dbpedia.org/resource/Rugby_union_positions
+gold - http://dbpedia.org/resource/Gold
+gertrude franklin horn - http://dbpedia.org/resource/Gertrude_Atherton
+atherton - http://dbpedia.org/resource/Atherton_Tableland
+frank norris - http://dbpedia.org/resource/Frank_Norris
+loneliness - http://dbpedia.org/resource/Loneliness
+bret harte - http://dbpedia.org/resource/Bret_Harte
+henry childs - http://dbpedia.org/resource/Henry_Childs
+california - http://dbpedia.org/resource/California
+squatter - http://dbpedia.org/resource/Squatting
+sutter - http://dbpedia.org/resource/John_Sutter
+land claim - http://dbpedia.org/resource/Land_claim
+william burgess - http://dbpedia.org/resource/William_Burgess_(painter)
+gun - http://dbpedia.org/resource/Gun
+spit - http://dbpedia.org/resource/Shoal
+francis - http://dbpedia.org/resource/Francis_I_of_France

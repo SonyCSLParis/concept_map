@@ -1,0 +1,76 @@
+gate - http://dbpedia.org/resource/Gate
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+monk - http://dbpedia.org/resource/Bhikkhu
+stone - http://dbpedia.org/resource/Masonry
+water - http://dbpedia.org/resource/Water
+monk - http://dbpedia.org/resource/Bhikkhu
+shoe - http://dbpedia.org/resource/Shoe
+carpet - http://dbpedia.org/resource/Carpet
+orange - http://dbpedia.org/resource/Larfleeze
+gold - http://dbpedia.org/resource/Gold
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+monk - http://dbpedia.org/resource/Bhikkhu
+buddhism - http://dbpedia.org/resource/Buddhism
+theravada - http://dbpedia.org/resource/Theravada
+mahayana - http://dbpedia.org/resource/Mahayana
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+theravada - http://dbpedia.org/resource/Theravada
+monk - http://dbpedia.org/resource/Bhikkhu
+sexual relation - http://dbpedia.org/resource/Human_sexual_activity
+monk - http://dbpedia.org/resource/Bhikkhu
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+buddhists - http://dbpedia.org/resource/Buddhism
+family - http://dbpedia.org/resource/Family
+catholicism - http://dbpedia.org/resource/Catholic_Church
+buddhism - http://dbpedia.org/resource/Buddhism
+buddhism - http://dbpedia.org/resource/Buddhism
+intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
+breakfast - http://dbpedia.org/resource/Breakfast
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+lay people - http://dbpedia.org/resource/Laity
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+enlightenment - http://dbpedia.org/resource/Enlightenment_in_Buddhism
+stone - http://dbpedia.org/resource/Masonry
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+monk - http://dbpedia.org/resource/Bhikkhu
+enlightenment - http://dbpedia.org/resource/Enlightenment_in_Buddhism
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+bodhi tree - http://dbpedia.org/resource/Bodhi_Tree
+tree - http://dbpedia.org/resource/Tree
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+enlightenment - http://dbpedia.org/resource/Enlightenment_in_Buddhism
+flower - http://dbpedia.org/resource/Flower
+tree - http://dbpedia.org/resource/Tree
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+bear - http://dbpedia.org/resource/Teddy_bear
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+meditation - http://dbpedia.org/resource/Buddhist_meditation
+meditate - http://dbpedia.org/resource/Meditation
+monk - http://dbpedia.org/resource/Bhikkhu
+pay attention - http://dbpedia.org/resource/Pay_Attention
+buddha - http://dbpedia.org/resource/Gautama_Buddha
+monastery - http://dbpedia.org/resource/Buddhist_monasticism
+borobudur - http://dbpedia.org/resource/Borobudur
+temple - http://dbpedia.org/resource/Temple
+mahayana - http://dbpedia.org/resource/Mahayana
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+temple - http://dbpedia.org/resource/Temple
+volcanic - http://dbpedia.org/resource/Volcano
+unesco - http://dbpedia.org/resource/UNESCO
+indonesian government - http://dbpedia.org/resource/Government_of_Indonesia
+temple - http://dbpedia.org/resource/Temple
+temple - http://dbpedia.org/resource/Temple
+enlightenment - http://dbpedia.org/resource/Enlightenment_in_Buddhism
+stone carving - http://dbpedia.org/resource/Stone_carving
+gossip - http://dbpedia.org/resource/Gossip
+prostitution - http://dbpedia.org/resource/Prostitution
+alcohol - http://dbpedia.org/resource/Islamic_dietary_laws
+tour guide - http://dbpedia.org/resource/Tour_guide
+temple view - http://dbpedia.org/resource/Temple_View
+religion - http://dbpedia.org/resource/Hinduism
+temple - http://dbpedia.org/resource/Temple
+borobudur - http://dbpedia.org/resource/Borobudur
+good day - http://dbpedia.org/resource/The_Humdinger

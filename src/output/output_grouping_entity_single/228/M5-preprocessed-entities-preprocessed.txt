@@ -1,0 +1,146 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+farming - http://dbpedia.org/resource/Farmer
+custom duty - http://dbpedia.org/resource/Tariff
+texas army - http://dbpedia.org/resource/Texian_Army
+illinois - http://dbpedia.org/resource/Illinois
+education - http://dbpedia.org/resource/Education
+winter - http://dbpedia.org/resource/Winter
+polk - http://dbpedia.org/resource/James_K._Polk
+die - http://dbpedia.org/resource/Death
+jury - http://dbpedia.org/resource/Jury_trial
+1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
+san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
+mexicans - http://dbpedia.org/resource/Mexico
+exile - http://dbpedia.org/resource/Exile
+abolish slavery - http://dbpedia.org/resource/Abolitionism_in_the_United_States
+convict - http://dbpedia.org/resource/Convict
+gadsden purchase - http://dbpedia.org/resource/Gadsden_Purchase
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+vicente guerrero - http://dbpedia.org/resource/Vicente_Guerrero
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+troublemaker - http://dbpedia.org/resource/Troublemaker_(Olly_Murs_song)
+outline - http://dbpedia.org/resource/Nutrition
+mexico city - http://dbpedia.org/resource/Mexico_City
+secularize - http://dbpedia.org/resource/Spanish_missions_in_California
+kidnap - http://dbpedia.org/resource/Kidnapping
+immigrant - http://dbpedia.org/resource/Immigration
+opium - http://dbpedia.org/resource/Opium
+head family - http://dbpedia.org/resource/Alec_Head
+slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+germany - http://dbpedia.org/resource/Nazi_Germany
+defy - http://dbpedia.org/resource/Motorola_Defy
+migration - http://dbpedia.org/resource/Illegal_immigration
+warship - http://dbpedia.org/resource/Warship
+settler - http://dbpedia.org/resource/Settler
+william travis - http://dbpedia.org/resource/William_B._Travis
+presidential - http://dbpedia.org/resource/President_of_the_United_States
+monterrey - http://dbpedia.org/resource/Battle_of_Monterrey
+blanket - http://dbpedia.org/resource/Blanket
+freedom press - http://dbpedia.org/resource/Freedom_Press
+newspaper - http://dbpedia.org/resource/News_media
+valentín gómez farías - http://dbpedia.org/resource/Valentín_Gómez_Farías
+zacatecas - http://dbpedia.org/resource/Zacatecas
+vow - http://dbpedia.org/resource/Oath
+farmer - http://dbpedia.org/resource/Farmer
+california - http://dbpedia.org/resource/History_of_California
+anastasio bustamante - http://dbpedia.org/resource/Anastasio_Bustamante
+incline - http://dbpedia.org/resource/Cable_railway
+switzerland - http://dbpedia.org/resource/Switzerland
+sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+anglo americans - http://dbpedia.org/resource/English_Americans
+dollar - http://dbpedia.org/resource/United_States_dollar
+annexation - http://dbpedia.org/resource/Texas_annexation
+corn - http://dbpedia.org/resource/Maize
+sword - http://dbpedia.org/resource/Sword
+houston - http://dbpedia.org/resource/Houston
+law - http://dbpedia.org/resource/Law
+organic law - http://dbpedia.org/resource/Organic_law
+fight death - http://dbpedia.org/resource/Fight_Death
+independent - http://dbpedia.org/resource/Independence
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+tithe - http://dbpedia.org/resource/Tithe
+passport - http://dbpedia.org/resource/Passport
+landslide - http://dbpedia.org/resource/Landslide_victory
+dictator - http://dbpedia.org/resource/Dictator
+rebellion - http://dbpedia.org/resource/Rebellion
+habeas corpus - http://dbpedia.org/resource/Habeas_corpus
+culture - http://dbpedia.org/resource/Culture_of_the_United_States
+prepare - http://dbpedia.org/resource/PREPARE
+horde - http://dbpedia.org/resource/Forced_displacement
+guerrilla war - http://dbpedia.org/resource/Guerrilla_warfare
+arkansas - http://dbpedia.org/resource/Arkansas
+austin - http://dbpedia.org/resource/Austin_Motor_Company
+amnesty law - http://dbpedia.org/resource/Amnesty_law
+holland - http://dbpedia.org/resource/Holland
+jackson - http://dbpedia.org/resource/Andrew_Jackson
+coahuila - http://dbpedia.org/resource/Coahuila
+peace - http://dbpedia.org/resource/1954_Geneva_Conference
+republic - http://dbpedia.org/resource/French_First_Republic
+insurrection - http://dbpedia.org/resource/Rebellion
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+fortress - http://dbpedia.org/resource/Fortification
+texas fight - http://dbpedia.org/resource/Texas_Fight
+ambush - http://dbpedia.org/resource/Ambush
+agua dulce - http://dbpedia.org/resource/Battle_of_Agua_Dulce
+colonel - http://dbpedia.org/resource/Colonel
+volunteer - http://dbpedia.org/resource/Military_volunteer
+immigration - http://dbpedia.org/resource/Immigration
+san antonio - http://dbpedia.org/resource/San_Antonio
+crop - http://dbpedia.org/resource/Agriculture
+anglo - http://dbpedia.org/resource/Anglo
+van buren - http://dbpedia.org/resource/Martin_Van_Buren
+tennessee - http://dbpedia.org/resource/Tennessee
+davy crocket - http://dbpedia.org/resource/Davy_Crockett
+cotton - http://dbpedia.org/resource/Cotton
+election - http://dbpedia.org/resource/Election
+ohio - http://dbpedia.org/resource/Ohio_River
+missouri - http://dbpedia.org/resource/Missouri
+catholic - http://dbpedia.org/resource/Catholic_Church
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+provisional government - http://dbpedia.org/resource/Provisional_government
+pass law - http://dbpedia.org/resource/Pass_laws
+city - http://dbpedia.org/resource/City
+goliad - http://dbpedia.org/resource/Goliad_massacre
+bear - http://dbpedia.org/resource/Teddy_bear
+buena vista - http://dbpedia.org/resource/Battle_of_Buena_Vista
+scarlet - http://dbpedia.org/resource/Color_in_Chinese_culture
+anglos - http://dbpedia.org/resource/Anglo
+potato - http://dbpedia.org/resource/Potato
+frontier - http://dbpedia.org/resource/Frontier
+unsettled - http://dbpedia.org/resource/Unsettled
+conservative - http://dbpedia.org/resource/Conservatism
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+president - http://dbpedia.org/resource/President_of_Mexico
+belgium - http://dbpedia.org/resource/Belgium
+saltillo - http://dbpedia.org/resource/Saltillo
+orleans - http://dbpedia.org/resource/New_Orleans
+travel washington - http://dbpedia.org/resource/Travel_Washington
+texas - http://dbpedia.org/resource/Texas
+mexican military - http://dbpedia.org/resource/Mexican_Armed_Forces
+officer - http://dbpedia.org/resource/Police_officer
+acre - http://dbpedia.org/resource/Acre
+kentucky - http://dbpedia.org/resource/Kentucky
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+guerrero - http://dbpedia.org/resource/Vicente_Guerrero
+nap - http://dbpedia.org/resource/Nap
+belfry - http://dbpedia.org/resource/Bell_tower
+uprising - http://dbpedia.org/resource/Rebellion
+vera cruz - http://dbpedia.org/resource/Veracruz
+judicial reform - http://dbpedia.org/resource/Judicial_reform
+celebrity - http://dbpedia.org/resource/Celebrity
+andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
+conservative force - http://dbpedia.org/resource/Conservative_force
+fruit tree - http://dbpedia.org/resource/Fruit_tree
+conscience - http://dbpedia.org/resource/Freedom_of_religion
+church - http://dbpedia.org/resource/Catholic_Church
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+yankee - http://dbpedia.org/resource/Yankee
+freedom - http://dbpedia.org/resource/Freedom_of_the_press
+fighter - http://dbpedia.org/resource/Warrior
+stephen austin - http://dbpedia.org/resource/Stephen_F._Austin
+crockett - http://dbpedia.org/resource/Davy_Crockett
+moses austin - http://dbpedia.org/resource/Moses_Austin
+universal suffrage - http://dbpedia.org/resource/Universal_suffrage
+flag - http://dbpedia.org/resource/Flag_of_the_United_States
+land grant - http://dbpedia.org/resource/Land_grant
+prison - http://dbpedia.org/resource/Prison

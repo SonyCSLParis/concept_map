@@ -1,0 +1,1818 @@
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+
+aesthetic - http://dbpedia.org/resource/Aesthetics
+
+nose - http://dbpedia.org/resource/Human_nose
+
+geometric - http://dbpedia.org/resource/Geometry
+
+winter - http://dbpedia.org/resource/Winter
+
+whalley - http://dbpedia.org/resource/Whalley_Abbey
+
+sir thomas leighton - http://dbpedia.org/resource/Thomas_Leighton_(governor)
+
+formal garden - http://dbpedia.org/resource/Formal_garden
+
+fencing - http://dbpedia.org/resource/Fence
+
+sir anthony wagner - http://dbpedia.org/resource/Anthony_Wagner
+
+hackney - http://dbpedia.org/resource/Hackney_carriage
+
+great perfection - http://dbpedia.org/resource/Dzogchen
+
+mask - http://dbpedia.org/resource/Mask
+
+die - http://dbpedia.org/resource/Death
+
+landscape - http://dbpedia.org/resource/Landscape_architect
+
+petition - http://dbpedia.org/resource/Lawsuit
+
+red cross - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+
+society girl - http://dbpedia.org/resource/Society_Girl_(1976_film)
+
+marriage - http://dbpedia.org/resource/Marriage_in_Islam
+
+derbyshire - http://dbpedia.org/resource/Derbyshire
+
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+
+dissenter - http://dbpedia.org/resource/English_Dissenters
+
+plateau - http://dbpedia.org/resource/Plateau
+
+canterbury - http://dbpedia.org/resource/Canterbury_Cathedral
+
+hilton - http://dbpedia.org/resource/Hilton_Worldwide
+
+sir walter raleigh - http://dbpedia.org/resource/Walter_Raleigh
+
+intimate apparel - http://dbpedia.org/resource/Undergarment
+
+grief - http://dbpedia.org/resource/Grief
+
+beehive - http://dbpedia.org/resource/Beehive_oven
+
+angle - http://dbpedia.org/resource/Angle
+
+skeletal - http://dbpedia.org/resource/Skeleton
+
+northern range - http://dbpedia.org/resource/Northern_Range
+
+antiquarian - http://dbpedia.org/resource/Antiquarian
+
+johns - http://dbpedia.org/resource/Prostitution
+
+metope - http://dbpedia.org/resource/Metope
+
+pendant - http://dbpedia.org/resource/Pendant
+
+mannerism - http://dbpedia.org/resource/Mannerism
+jacobean style - http://dbpedia.org/resource/Jacobean_architecture
+
+earl - http://dbpedia.org/resource/Earl
+
+parapet - http://dbpedia.org/resource/Parapet
+
+captivate - http://dbpedia.org/resource/Adobe_Captivate
+
+bridegroom - http://dbpedia.org/resource/Wedding
+
+eversley - http://dbpedia.org/resource/Eversley
+
+mistletoe - http://dbpedia.org/resource/Mistletoe
+
+hazeley - http://dbpedia.org/resource/Hazeley
+
+priest hole - http://dbpedia.org/resource/Priest_hole
+
+rural - http://dbpedia.org/resource/Rural_area
+
+elizabethan era - http://dbpedia.org/resource/Elizabethan_era
+
+sametime - http://dbpedia.org/resource/HCL_Sametime
+
+assemblage - http://dbpedia.org/resource/Glossary_of_archaeology
+
+jewelled - http://dbpedia.org/resource/Gemstone
+
+taste - http://dbpedia.org/resource/Taste
+
+malmsey - http://dbpedia.org/resource/Malvasia
+
+paper - http://dbpedia.org/resource/Origami
+
+ment - http://dbpedia.org/resource/M.E.N.T._B.C.
+
+awaken - http://dbpedia.org/resource/Going_for_the_One
+
+torrent - http://dbpedia.org/resource/Stream
+
+baron zouche - http://dbpedia.org/resource/Baron_Zouche
+
+tate - http://dbpedia.org/resource/Tate
+
+medieval - http://dbpedia.org/resource/Medieval_architecture
+
+st. mary magdalene - http://dbpedia.org/resource/Mary_Magdalene
+
+knee - http://dbpedia.org/resource/Knee
+
+fragrance - http://dbpedia.org/resource/Perfume
+
+ms - http://dbpedia.org/resource/Millisecond
+
+hair - http://dbpedia.org/resource/Hair
+
+mannerism - http://dbpedia.org/resource/Mannerism
+
+projection - http://dbpedia.org/resource/Mercator_projection
+
+tile - http://dbpedia.org/resource/Roof_tiles
+
+lessen - http://dbpedia.org/resource/Łasin
+
+drawing room - http://dbpedia.org/resource/Drawing_room
+
+sculpture - http://dbpedia.org/resource/Gothic_art
+
+wedding - http://dbpedia.org/resource/Wedding
+
+leicester - http://dbpedia.org/resource/Earl_of_Leicester
+
+tread - http://dbpedia.org/resource/Stair_tread
+
+hampshire - http://dbpedia.org/resource/Hampshire
+
+crime - http://dbpedia.org/resource/Crime
+
+medieval - http://dbpedia.org/resource/Middle_Ages
+
+ambassador - http://dbpedia.org/resource/Ambassador
+
+lord burghley - http://dbpedia.org/resource/William_Cecil,_1st_Baron_Burghley
+
+pillar - http://dbpedia.org/resource/Column
+
+eye - http://dbpedia.org/resource/Eye
+
+oxfordshire - http://dbpedia.org/resource/Oxfordshire
+
+gable - http://dbpedia.org/resource/Gable
+
+listed - http://dbpedia.org/resource/Listed_building
+
+doom - http://dbpedia.org/resource/Doom_metal
+
+flute - http://dbpedia.org/resource/Flute
+
+sturgis - http://dbpedia.org/resource/John_Hubbard_Sturgis
+
+mysterious woman - http://dbpedia.org/resource/Mysterious_Woman
+
+camel - http://dbpedia.org/resource/Camel
+
+tree - http://dbpedia.org/resource/Tree
+
+antrim - http://dbpedia.org/resource/County_Antrim
+
+gardener - http://dbpedia.org/resource/Gardener
+
+odour - http://dbpedia.org/resource/Odor
+
+auction house - http://dbpedia.org/resource/Auction
+renaissance - http://dbpedia.org/resource/Renaissance_architecture
+
+somersetshire - http://dbpedia.org/resource/Somerset
+
+virgin mary - http://dbpedia.org/resource/Veneration_of_Mary_in_the_Catholic_Church
+
+parish - http://dbpedia.org/resource/Parish
+
+gamekeeper - http://dbpedia.org/resource/Professional_hunter
+
+tile - http://dbpedia.org/resource/Tile
+
+james vi - http://dbpedia.org/resource/James_VI_and_I
+
+manor - http://dbpedia.org/resource/Manor_house
+
+weather - http://dbpedia.org/resource/Weathering
+
+brill - http://dbpedia.org/resource/Brill_(fish)
+
+halnaker - http://dbpedia.org/resource/Halnaker
+
+emblazon - http://dbpedia.org/resource/Blazon
+
+green man - http://dbpedia.org/resource/Green_Man
+
+terrace - http://dbpedia.org/resource/Terrace_garden
+
+mystery - http://dbpedia.org/resource/Mystery_play
+
+statesman - http://dbpedia.org/resource/Roman_Senate
+
+ionic - http://dbpedia.org/resource/Ionic_order
+
+gossip - http://dbpedia.org/resource/Gossip
+
+mayflower - http://dbpedia.org/resource/Epigaea_repens
+
+tragedy - http://dbpedia.org/resource/Tragedy
+
+exorcism - http://dbpedia.org/resource/Exorcism
+
+young generation - http://dbpedia.org/resource/Dougie_Squires
+
+hatfield house - http://dbpedia.org/resource/Hatfield_House
+
+pomegranate - http://dbpedia.org/resource/Pomegranate
+
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+
+late medieval - http://dbpedia.org/resource/Middle_Ages
+
+ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+
+inigo jones - http://dbpedia.org/resource/Inigo_Jones
+
+attic - http://dbpedia.org/resource/Attic
+
+chimney - http://dbpedia.org/resource/Chimney
+
+diagonal - http://dbpedia.org/resource/Diagonal
+
+king michael - http://dbpedia.org/resource/Michael_I_of_Romania
+
+hook - http://dbpedia.org/resource/Golf_stroke_mechanics
+
+racket - http://dbpedia.org/resource/Rackett
+
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+
+gay - http://dbpedia.org/resource/Homosexuality
+
+andiron - http://dbpedia.org/resource/Andiron
+
+altar - http://dbpedia.org/resource/Altar
+
+orsini - http://dbpedia.org/resource/Orsini_family
+
+john gerard - http://dbpedia.org/resource/John_Gerard
+
+flower - http://dbpedia.org/resource/Flower
+
+oriel window - http://dbpedia.org/resource/Oriel_window
+
+foliage - http://dbpedia.org/resource/Leaf
+
+herm - http://dbpedia.org/resource/Herma
+
+column - http://dbpedia.org/resource/Column
+
+canary - http://dbpedia.org/resource/Domestic_canary
+
+copse - http://dbpedia.org/resource/Coppicing
+
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+
+historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+
+m4 - http://dbpedia.org/resource/M4_(computer_language)
+
+frontispiece - http://dbpedia.org/resource/Book_frontispiece
+
+stain - http://dbpedia.org/resource/Wood_stain
+
+pedestal - http://dbpedia.org/resource/Pedestal
+
+delicacy - http://dbpedia.org/resource/Chinese_cuisine
+
+nuffield - http://dbpedia.org/resource/Nuffield_Foundation
+
+bridge - http://dbpedia.org/resource/Contract_bridge
+thornhurst - http://dbpedia.org/resource/Thornhurst_Township,_Lackawanna_County,_Pennsylvania
+
+francis - http://dbpedia.org/resource/Francis_I_of_France
+
+plaster - http://dbpedia.org/resource/Stucco
+
+façade - http://dbpedia.org/resource/Facade
+
+hartford bridge - http://dbpedia.org/resource/RAF_Blackbushe
+
+green head - http://dbpedia.org/resource/Green_Head,_Western_Australia
+
+thomas haynes bayly - http://dbpedia.org/resource/Thomas_Haynes_Bayly
+
+perch - http://dbpedia.org/resource/Perch
+
+elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
+
+foxley - http://dbpedia.org/resource/Foxley
+
+paris - http://dbpedia.org/resource/Paris
+
+sir james harington - http://dbpedia.org/resource/James_Harington_(lawyer)
+
+crossbow - http://dbpedia.org/resource/Crossbow
+
+rain - http://dbpedia.org/resource/Rain
+
+singular - http://dbpedia.org/resource/Grammatical_number
+
+willingly - http://dbpedia.org/resource/Willingly
+
+brams - http://dbpedia.org/resource/Steven_Brams
+
+st. alban - http://dbpedia.org/resource/Saint_Alban
+
+independence - http://dbpedia.org/resource/Independence
+
+edward lord - http://dbpedia.org/resource/Edward_Lord
+
+etch - http://dbpedia.org/resource/Etching
+
+beauty - http://dbpedia.org/resource/Aesthetics
+
+flannel - http://dbpedia.org/resource/Flannel
+
+walled garden - http://dbpedia.org/resource/Walled_garden
+
+library - http://dbpedia.org/resource/Library
+
+nobility - http://dbpedia.org/resource/Nobility
+
+joseph nash - http://dbpedia.org/resource/Joseph_Nash
+
+historian - http://dbpedia.org/resource/Historian
+
+baron zouche - http://dbpedia.org/resource/Baron_Zouche
+parliament - http://dbpedia.org/resource/Parliament_of_England
+
+dyer - http://dbpedia.org/resource/Dye
+
+sake - http://dbpedia.org/resource/Sake
+
+dth - http://dbpedia.org/resource/Satellite_television
+
+high feature - http://dbpedia.org/resource/GM_High_Feature_engine
+
+york - http://dbpedia.org/resource/House_of_York
+
+cecil bisshopp - http://dbpedia.org/resource/Cecil_Bisshopp
+
+pinnacle - http://dbpedia.org/resource/Pinnacle
+
+obelisk - http://dbpedia.org/resource/Obelisk
+
+nostril - http://dbpedia.org/resource/Nostril
+
+giacomo barozzi da vignola - http://dbpedia.org/resource/Giacomo_Barozzi_da_Vignola
+
+chamber - http://dbpedia.org/resource/Debate_chamber
+
+flesh - http://dbpedia.org/resource/Pith
+
+hertfordshire - http://dbpedia.org/resource/Hertfordshire
+
+knight frank - http://dbpedia.org/resource/Knight_Frank
+
+prodigy house - http://dbpedia.org/resource/Prodigy_house
+
+viscount dorchester - http://dbpedia.org/resource/Dudley_Carleton,_1st_Viscount_Dorchester
+
+pot - http://dbpedia.org/resource/Pottery
+
+lal - http://dbpedia.org/resource/Lal_Waterson
+
+amazing - http://dbpedia.org/resource/Earth-616
+
+carpet - http://dbpedia.org/resource/Carpet
+
+helen moore - http://dbpedia.org/resource/Helen_Moore_(mathematician)
+
+doric order - http://dbpedia.org/resource/Doric_order
+
+dog - http://dbpedia.org/resource/Dog
+
+fig - http://dbpedia.org/resource/Ficus
+
+object - http://dbpedia.org/resource/Object-oriented_programming
+
+wiltshire - http://dbpedia.org/resource/Wiltshire
+
+richmond herald - http://dbpedia.org/resource/Richmond_Herald
+
+police training centre - http://dbpedia.org/resource/Police_Training_Centre
+
+anthony blunt - http://dbpedia.org/resource/Anthony_Blunt
+
+governor - http://dbpedia.org/resource/Governor
+
+snap - http://dbpedia.org/resource/Snap_fastener
+
+ha - http://dbpedia.org/resource/Hectare
+
+manor house - http://dbpedia.org/resource/Manor_house
+
+biggs - http://dbpedia.org/resource/List_of_Star_Wars_characters
+
+consecrate - http://dbpedia.org/resource/Consecration
+
+arms - http://dbpedia.org/resource/Heraldry
+
+thorpe - http://dbpedia.org/resource/Benjamin_Thorpe
+
+evangelist - http://dbpedia.org/resource/Four_Evangelists
+
+walled garden - http://dbpedia.org/resource/Walled_garden
+alexander - http://dbpedia.org/resource/Alexander_I_of_Russia
+
+florentine - http://dbpedia.org/resource/Florence
+
+giles - http://dbpedia.org/resource/Saint_Giles
+privy counsellor - http://dbpedia.org/resource/Privy_council
+
+lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+
+retainer - http://dbpedia.org/resource/Retinue
+
+national police library - http://dbpedia.org/resource/National_Police_Library
+
+impost - http://dbpedia.org/resource/Tax
+
+tapestry - http://dbpedia.org/resource/Tapestry
+
+hartley wintney - http://dbpedia.org/resource/Hartley_Wintney
+
+ironbound - http://dbpedia.org/resource/The_Ironbound
+
+warden - http://dbpedia.org/resource/Churchwarden
+
+overlook park - http://dbpedia.org/resource/Overlook_Park_(Portland,_Oregon)
+
+mobile phone - http://dbpedia.org/resource/Mobile_phone
+son thomas - http://dbpedia.org/resource/James_Thomas_(blues_musician)
+
+xxvii - http://dbpedia.org/resource/Super_Bowl_XXVII
+
+shaw - http://dbpedia.org/resource/Shaw_(woodland)
+
+dover castle - http://dbpedia.org/resource/Dover_Castle
+
+avon - http://dbpedia.org/resource/Avon_Barksdale
+
+coronet - http://dbpedia.org/resource/Coronet
+
+bramshill park - http://dbpedia.org/resource/Bramshill_House
+
+cape cod harbor - http://dbpedia.org/resource/Cape_Cod
+
+race - http://dbpedia.org/resource/Racing
+
+archi - http://dbpedia.org/resource/Archi_language
+
+lovell - http://dbpedia.org/resource/Thomas_Lovell
+
+vitruvius britannicus - http://dbpedia.org/resource/Colen_Campbell
+
+wall arch - http://dbpedia.org/resource/Wall_Arch
+
+beautiful child - http://dbpedia.org/resource/Beautiful_Child
+
+henry daubeney - http://dbpedia.org/resource/Henry_Daubeney,_1st_Earl_of_Bridgewater
+
+herbalist - http://dbpedia.org/resource/Herbal_medicine
+
+folk tales - http://dbpedia.org/resource/Fairy_tale
+
+fear - http://dbpedia.org/resource/Fear
+
+simple game - http://dbpedia.org/resource/Cooperative_game_theory
+
+exile - http://dbpedia.org/resource/Exile
+
+recreation - http://dbpedia.org/resource/Recreation
+
+police officer - http://dbpedia.org/resource/Police
+
+triglyph - http://dbpedia.org/resource/Triglyph
+
+asset - http://dbpedia.org/resource/Asset_management
+
+barony - http://dbpedia.org/resource/Peerage
+
+jasper - http://dbpedia.org/resource/Jasper
+
+period piece - http://dbpedia.org/resource/Historical_period_drama
+
+elevation - http://dbpedia.org/resource/Architectural_drawing
+
+woodland - http://dbpedia.org/resource/Woodland
+
+white lady - http://dbpedia.org/resource/White_Lady_(ghost)
+
+entablature - http://dbpedia.org/resource/Entablature
+
+coat - http://dbpedia.org/resource/Fur
+
+xxxv - http://dbpedia.org/resource/Super_Bowl_XXXV
+
+arch form - http://dbpedia.org/resource/Arch_form
+
+beautiful view - http://dbpedia.org/resource/Beautiful_View
+
+trinity college cambridge - http://dbpedia.org/resource/Trinity_College,_Cambridge
+
+middle house - http://dbpedia.org/resource/Burwash_Hall
+
+budgetary control committee - http://dbpedia.org/resource/European_Parliament_Committee_on_Budgetary_Control
+
+monument - http://dbpedia.org/resource/Funerary_art
+corruption - http://dbpedia.org/resource/Political_corruption
+
+marquess - http://dbpedia.org/resource/Marquess
+
+parliamentarian - http://dbpedia.org/resource/Parliament_of_England
+
+canterbury - http://dbpedia.org/resource/Canterbury
+
+east wing - http://dbpedia.org/resource/East_Wing
+
+continuous - http://dbpedia.org/resource/Continuous_function
+
+english architecture - http://dbpedia.org/resource/Architecture_of_England
+
+mason - http://dbpedia.org/resource/Stonemasonry
+
+west sussex - http://dbpedia.org/resource/West_Sussex
+
+veteran tree - http://dbpedia.org/resource/Veteran_tree
+
+william wykeham - http://dbpedia.org/resource/William_of_Wykeham
+
+armorial - http://dbpedia.org/resource/Coat_of_arms
+
+young henry - http://dbpedia.org/resource/Henry_the_Young_King
+
+light - http://dbpedia.org/resource/Light
+
+match play - http://dbpedia.org/resource/Glossary_of_golf
+
+jacobean revival - http://dbpedia.org/resource/Jacobean_architecture
+
+gothic - http://dbpedia.org/resource/Gothic_architecture
+
+dissent - http://dbpedia.org/resource/English_Dissenters
+
+duke - http://dbpedia.org/resource/Duke
+
+lordship - http://dbpedia.org/resource/Lord_of_the_manor
+
+guernsey - http://dbpedia.org/resource/Guernsey
+
+good deal - http://dbpedia.org/resource/Good_Deal
+
+inseparable - http://dbpedia.org/resource/Inseparable_(song)
+
+san gallo - http://dbpedia.org/resource/St._Gallen
+
+st. stephen - http://dbpedia.org/resource/Saint_Stephen
+
+sun - http://dbpedia.org/resource/Sunlight
+
+wath - http://dbpedia.org/resource/Wath_upon_Dearne
+
+budapest - http://dbpedia.org/resource/Budapest
+
+xxxiii - http://dbpedia.org/resource/Super_Bowl_XXXIII
+
+prodigy houses - http://dbpedia.org/resource/Prodigy_house
+
+adventurer - http://dbpedia.org/resource/Player_character
+
+crime analysis - http://dbpedia.org/resource/Crime_analysis
+
+wink - http://dbpedia.org/resource/Wink
+
+amplitude - http://dbpedia.org/resource/Sound
+
+armchair - http://dbpedia.org/resource/Chair
+
+strapwork - http://dbpedia.org/resource/Strapwork
+
+archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
+
+import - http://dbpedia.org/resource/International_trade
+
+nall - http://dbpedia.org/resource/Craig_Nall
+
+bury parish church - http://dbpedia.org/resource/Church_of_St_Mary_the_Virgin,_Bury
+
+philosophical - http://dbpedia.org/resource/Philosophy
+
+brick - http://dbpedia.org/resource/Brickwork
+
+england xi - http://dbpedia.org/resource/England_cricket_team
+
+corinthian order - http://dbpedia.org/resource/Corinthian_order
+
+rowan - http://dbpedia.org/resource/Rowan
+
+constable - http://dbpedia.org/resource/Constable
+
+high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+
+john zouche - http://dbpedia.org/resource/John_Zouche_(died_1585)
+
+mezzanine - http://dbpedia.org/resource/Mezzanine
+
+napoleon - http://dbpedia.org/resource/Napoleon
+
+crest - http://dbpedia.org/resource/Coat_of_arms
+
+country house - http://dbpedia.org/resource/English_country_house
+
+dif - http://dbpedia.org/resource/National_System_for_Integral_Family_Development
+
+constable - http://dbpedia.org/resource/Castellan
+
+double door - http://dbpedia.org/resource/Double_Door
+
+lord chief justice - http://dbpedia.org/resource/Lord_Chief_Justice_of_England_and_Wales
+
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+
+billiard room - http://dbpedia.org/resource/Billiard_room
+
+audley - http://dbpedia.org/resource/Baron_Audley
+
+lock - http://dbpedia.org/resource/Lock_and_key
+
+mystical - http://dbpedia.org/resource/Mysticism
+
+object - http://dbpedia.org/resource/Astronomical_object
+
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+
+place house - http://dbpedia.org/resource/Place_House
+
+deathlord - http://dbpedia.org/resource/Deathlord
+
+denmark - http://dbpedia.org/resource/Denmark
+
+wisdom - http://dbpedia.org/resource/Solomon
+
+lord lovell - http://dbpedia.org/resource/Francis_Lovell,_1st_Viscount_Lovell
+
+sir julius caesar - http://dbpedia.org/resource/Julius_Caesar_(judge)
+
+munich gallery - http://dbpedia.org/resource/Alte_Pinakothek
+
+stockton - http://dbpedia.org/resource/Stockton-on-Tees
+
+lord hastings - http://dbpedia.org/resource/Baron_Hastings
+
+henry - http://dbpedia.org/resource/Henry_(unit)
+
+chief minister - http://dbpedia.org/resource/Prime_minister
+
+reredo - http://dbpedia.org/resource/Reredos
+
+hue - http://dbpedia.org/resource/Hue
+
+south downs national park - http://dbpedia.org/resource/South_Downs_National_Park
+
+holly - http://dbpedia.org/resource/Holly
+
+queen anne - http://dbpedia.org/resource/Queen_Anne_style_architecture_in_the_United_States
+
+london waterloo - http://dbpedia.org/resource/London_Waterloo_station
+
+weather ship - http://dbpedia.org/resource/Weather_ship
+
+queen - http://dbpedia.org/resource/Queen_consort
+
+mep - http://dbpedia.org/resource/Member_of_the_European_Parliament
+
+andrew henley - http://dbpedia.org/resource/Sir_Andrew_Henley,_1st_Baronet
+
+investment - http://dbpedia.org/resource/Investment
+
+farnborough - http://dbpedia.org/resource/Farnborough_Airport
+
+painting - http://dbpedia.org/resource/Painting
+
+lees - http://dbpedia.org/resource/Lees_(fermentation)
+
+ancient house - http://dbpedia.org/resource/Ancient_House,_Clare
+
+sarah - http://dbpedia.org/resource/SAR-Lupe
+
+minerva - http://dbpedia.org/resource/Minerva
+
+lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+
+noble family - http://dbpedia.org/resource/Nobility
+
+adultery - http://dbpedia.org/resource/Adultery
+
+north south - http://dbpedia.org/resource/North_South_MRT_line
+
+fairy - http://dbpedia.org/resource/Fairy
+
+wicket - http://dbpedia.org/resource/Wicket_gate
+
+nov - http://dbpedia.org/resource/NOV_(gene)
+
+matthias - http://dbpedia.org/resource/Matthias_Corvinus
+
+bride - http://dbpedia.org/resource/False_hero
+
+tomb - http://dbpedia.org/resource/Tomb
+
+grape - http://dbpedia.org/resource/Grape
+
+typhoid - http://dbpedia.org/resource/Typhoid_fever
+
+roasted - http://dbpedia.org/resource/Roasting
+
+rib - http://dbpedia.org/resource/Rib_vault
+
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+
+medieval - http://dbpedia.org/resource/England_in_the_Middle_Ages
+
+taine - http://dbpedia.org/resource/Hippolyte_Taine
+
+cornice - http://dbpedia.org/resource/Cornice
+
+puzzle - http://dbpedia.org/resource/Puzzle_video_game
+
+verse - http://dbpedia.org/resource/Poetry
+
+knighthood - http://dbpedia.org/resource/Knight
+
+lawn - http://dbpedia.org/resource/Lawn
+
+pointed arch - http://dbpedia.org/resource/Gothic_architecture
+
+fireplace - http://dbpedia.org/resource/Fireplace
+
+south hall - http://dbpedia.org/resource/San_Jose_Convention_Center
+
+thompson - http://dbpedia.org/resource/Thompson_River
+
+noise - http://dbpedia.org/resource/Noise_music
+
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+
+wing - http://dbpedia.org/resource/Wing
+
+grace - http://dbpedia.org/resource/Charites
+
+essex - http://dbpedia.org/resource/Essex
+
+queen anne - http://dbpedia.org/resource/Anne_of_Denmark
+
+william paulet - http://dbpedia.org/resource/Lord_William_Powlett
+
+sir anthony cope - http://dbpedia.org/resource/Sir_Anthony_Cope,_1st_Baronet
+
+hilton family - http://dbpedia.org/resource/Hilton_family
+
+capital - http://dbpedia.org/resource/Capital_city
+
+belt - http://dbpedia.org/resource/Belt_armor
+
+cross bow - http://dbpedia.org/resource/Crossbow
+
+wine - http://dbpedia.org/resource/Wine
+
+lord president - http://dbpedia.org/resource/Lord_President_of_the_Council
+
+kent - http://dbpedia.org/resource/Kent
+
+captain - http://dbpedia.org/resource/Sea_captain
+
+arcaded - http://dbpedia.org/resource/Arcade_(architecture)
+
+mystery - http://dbpedia.org/resource/Mystery_fiction
+
+night patrol - http://dbpedia.org/resource/Night_Patrol
+
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+
+great oak - http://dbpedia.org/resource/Oak
+
+high street - http://dbpedia.org/resource/High_Street
+
+boot - http://dbpedia.org/resource/Boot
+
+cross hall - http://dbpedia.org/resource/Cross_Hall
+
+historian - http://dbpedia.org/resource/History
+
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+
+hatfield - http://dbpedia.org/resource/Hatfield_House
+
+friendly - http://dbpedia.org/resource/Friendship
+
+emblem - http://dbpedia.org/resource/Emblem
+
+nadder - http://dbpedia.org/resource/River_Nadder
+
+xl - http://dbpedia.org/resource/Super_Bowl_XL
+
+baron edward la zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+
+flushing - http://dbpedia.org/resource/Flush_toilet
+
+officer - http://dbpedia.org/resource/Police_officer
+
+king james - http://dbpedia.org/resource/James_VI_and_I
+
+strap - http://dbpedia.org/resource/Strap
+
+phs - http://dbpedia.org/resource/United_States_Public_Health_Service
+
+uncertainty - http://dbpedia.org/resource/Uncertainty
+
+mathematical instrument - http://dbpedia.org/resource/Mathematical_instrument
+
+gentry - http://dbpedia.org/resource/Gentry
+
+intersection - http://dbpedia.org/resource/Intersectionality
+
+furniture - http://dbpedia.org/resource/Furniture
+
+apollo - http://dbpedia.org/resource/Apollo
+
+godalming - http://dbpedia.org/resource/Godalming
+
+chimneypiece - http://dbpedia.org/resource/Fireplace_mantel
+
+mullion window - http://dbpedia.org/resource/Mullion
+
+bear - http://dbpedia.org/resource/Bear
+
+rubens - http://dbpedia.org/resource/Peter_Paul_Rubens
+
+mansion - http://dbpedia.org/resource/Mansion
+
+sixteen foot - http://dbpedia.org/resource/Eight-foot_pitch
+
+perpendicular architecture - http://dbpedia.org/resource/English_Gothic_architecture
+
+amiable - http://dbpedia.org/resource/Amiable
+
+oaken - http://dbpedia.org/resource/Oaken
+
+palmer - http://dbpedia.org/resource/Palmer_(pilgrim)
+
+chapel - http://dbpedia.org/resource/Chapel_of_ease
+
+grey lady - http://dbpedia.org/resource/Fort_St._Angelo
+
+metal - http://dbpedia.org/resource/Heavy_metal_music
+
+arcade - http://dbpedia.org/resource/Pedestrian_zone
+
+splendid - http://dbpedia.org/resource/Splendid_Geyser
+
+ionic order - http://dbpedia.org/resource/Ionic_order
+
+library - http://dbpedia.org/resource/Library
+grade ii listed - http://dbpedia.org/resource/Listed_building
+
+m.a. - http://dbpedia.org/resource/Master_of_Arts
+
+fox - http://dbpedia.org/resource/Fox_hunting
+
+incumbent - http://dbpedia.org/resource/Vicar
+
+berkshire - http://dbpedia.org/resource/Berkshire
+
+pen - http://dbpedia.org/resource/Quill
+
+unifor - http://dbpedia.org/resource/Unifor
+
+neglect - http://dbpedia.org/resource/Urban_decay
+
+philosopher - http://dbpedia.org/resource/Philosopher
+
+invisible - http://dbpedia.org/resource/Invisibility
+
+stucco - http://dbpedia.org/resource/Stucco
+
+king charles ii - http://dbpedia.org/resource/Charles_II_of_England
+
+european parliament - http://dbpedia.org/resource/European_Parliament
+
+rapier - http://dbpedia.org/resource/Rapier
+
+stout - http://dbpedia.org/resource/Stout
+
+ballad - http://dbpedia.org/resource/Ballad
+
+stone - http://dbpedia.org/resource/Stonemasonry
+
+gilded - http://dbpedia.org/resource/Gilding
+
+curtain - http://dbpedia.org/resource/Curtain
+
+email - http://dbpedia.org/resource/Email
+
+veryfine - http://dbpedia.org/resource/Veryfine
+
+holland house - http://dbpedia.org/resource/Holland_House
+
+chief superintendent - http://dbpedia.org/resource/Chief_superintendent
+
+sofa - http://dbpedia.org/resource/Couch
+
+sconce - http://dbpedia.org/resource/Sconce_(fortification)
+
+town - http://dbpedia.org/resource/Market_town
+
+william cecil - http://dbpedia.org/resource/William_Amherst_Vanderbilt_Cecil
+
+policing - http://dbpedia.org/resource/Police
+
+horticulture - http://dbpedia.org/resource/Horticulture
+
+corinthian - http://dbpedia.org/resource/Corinthian_order
+
+dairy - http://dbpedia.org/resource/Dairy
+
+tennis - http://dbpedia.org/resource/Tennis
+
+cyprus - http://dbpedia.org/resource/Cyprus
+
+upper class - http://dbpedia.org/resource/Upper_class
+
+penny - http://dbpedia.org/resource/Penny
+
+xxxii - http://dbpedia.org/resource/Super_Bowl_XXXII
+
+pediment - http://dbpedia.org/resource/Pediment
+
+formal garden - http://dbpedia.org/resource/French_formal_garden
+
+mixed woodland - http://dbpedia.org/resource/Woodland
+
+extinct - http://dbpedia.org/resource/Hereditary_peer
+
+capital - http://dbpedia.org/resource/Capital_punishment
+
+matriculate - http://dbpedia.org/resource/Matriculation
+
+gazette - http://dbpedia.org/resource/Gazette
+
+president - http://dbpedia.org/resource/President_of_the_United_States
+
+pilaster - http://dbpedia.org/resource/Pilaster
+
+chaste - http://dbpedia.org/resource/Chastity
+
+managing director - http://dbpedia.org/resource/Chief_executive_officer
+
+bate - http://dbpedia.org/resource/FC_BATE_Borisov
+
+ben jonson - http://dbpedia.org/resource/Ben_Jonson
+
+ance - http://dbpedia.org/resource/Ance,_Pyrénées-Atlantiques
+
+freaky - http://dbpedia.org/resource/Freaky_(song)
+
+nobleman - http://dbpedia.org/resource/Nobility
+
+bird - http://dbpedia.org/resource/Bird
+
+bedside - http://dbpedia.org/resource/Bedside
+
+police officer - http://dbpedia.org/resource/Police_officer
+
+anecdote - http://dbpedia.org/resource/Anecdote
+
+spirit - http://dbpedia.org/resource/Ghost
+
+niche - http://dbpedia.org/resource/Niche_market
+
+collar - http://dbpedia.org/resource/Livery_collar
+
+behead - http://dbpedia.org/resource/Decapitation
+
+portsmouth - http://dbpedia.org/resource/Portsmouth
+
+manor - http://dbpedia.org/resource/Manor
+
+parallelogram - http://dbpedia.org/resource/Parallelogram
+
+lily - http://dbpedia.org/resource/Lilium
+
+engrave - http://dbpedia.org/resource/Engraving
+
+cepol - http://dbpedia.org/resource/European_Police_College
+
+frieze - http://dbpedia.org/resource/Frieze
+
+flue - http://dbpedia.org/resource/Flue
+
+long gallery - http://dbpedia.org/resource/Long_gallery
+
+ere - http://dbpedia.org/resource/Eredivisie
+
+technology - http://dbpedia.org/resource/Information_technology
+
+national policing improvement agency - http://dbpedia.org/resource/National_Policing_Improvement_Agency
+
+colony - http://dbpedia.org/resource/Colony_of_Virginia
+
+antique - http://dbpedia.org/resource/Antique
+
+kensington - http://dbpedia.org/resource/Kensington
+
+haunted house - http://dbpedia.org/resource/Haunted_house
+
+south east england - http://dbpedia.org/resource/South_East_England
+
+remarkable - http://dbpedia.org/resource/ReMarkable
+
+elevation - http://dbpedia.org/resource/Multiview_projection
+
+heart - http://dbpedia.org/resource/Heart_(symbol)
+
+dudley carleton - http://dbpedia.org/resource/Dudley_Carleton,_1st_Viscount_Dorchester
+
+shropshire - http://dbpedia.org/resource/High_Sheriff_of_Shropshire
+
+james lee - http://dbpedia.org/resource/James_Yimm_Lee
+
+legend - http://dbpedia.org/resource/Legend
+
+civil parish - http://dbpedia.org/resource/Civil_parish
+
+har - http://dbpedia.org/resource/Penn_FC
+
+stone - http://dbpedia.org/resource/Sandstone
+
+embankment - http://dbpedia.org/resource/Levee
+
+skirt - http://dbpedia.org/resource/Skirt
+
+nicholas stone - http://dbpedia.org/resource/Nicholas_Stone
+
+european police - http://dbpedia.org/resource/Europol
+
+e34 - http://dbpedia.org/resource/International_E-road_network
+
+mullioned - http://dbpedia.org/resource/Mullion
+
+lozenge - http://dbpedia.org/resource/Lozenge
+
+float - http://dbpedia.org/resource/Buoyancy
+
+porch - http://dbpedia.org/resource/Porch
+
+river lea - http://dbpedia.org/resource/River_Lea
+
+historian - http://dbpedia.org/resource/Art_history
+
+charles ii - http://dbpedia.org/resource/Charles_II_of_England
+
+security officer - http://dbpedia.org/resource/Security_guard
+
+edward vi - http://dbpedia.org/resource/Edward_VI_of_England
+
+bristle - http://dbpedia.org/resource/Bristle
+
+question mark - http://dbpedia.org/resource/Question_mark
+
+die - http://dbpedia.org/resource/Dice
+
+south terrace - http://dbpedia.org/resource/South_Terrace,_Adelaide
+
+drive south - http://dbpedia.org/resource/Drive_South
+
+pond - http://dbpedia.org/resource/Fish_pond
+
+stag hunt - http://dbpedia.org/resource/Deer_hunting
+
+montacute house - http://dbpedia.org/resource/Montacute_House
+
+banquet hall - http://dbpedia.org/resource/Assembly_hall
+
+domesday book - http://dbpedia.org/resource/Domesday_Book
+
+heritage - http://dbpedia.org/resource/Historic_site
+
+dean - http://dbpedia.org/resource/Dean_of_York
+
+antiquity - http://dbpedia.org/resource/Ancient_Egypt
+
+martyrdom - http://dbpedia.org/resource/Martyr
+
+sir john wheeler - http://dbpedia.org/resource/John_Wheeler_(British_politician)
+
+fertility - http://dbpedia.org/resource/Fertility
+
+loggia - http://dbpedia.org/resource/Loggia
+
+partition - http://dbpedia.org/resource/Wall
+
+baronetcies - http://dbpedia.org/resource/Baronet
+
+eleanor - http://dbpedia.org/resource/Eleanor_of_Castile
+
+george - http://dbpedia.org/resource/George_(band)
+
+bay window - http://dbpedia.org/resource/Bay_window
+
+pierce - http://dbpedia.org/resource/Franklin_Pierce
+
+bristol city centre - http://dbpedia.org/resource/Bristol_city_centre
+
+george kingsmill - http://dbpedia.org/resource/George_Kingsmill
+
+privy councillor - http://dbpedia.org/resource/Privy_Council_of_England
+
+mélange - http://dbpedia.org/resource/Mélange
+
+lake - http://dbpedia.org/resource/Lake
+
+consciousness - http://dbpedia.org/resource/Consciousness
+
+plant - http://dbpedia.org/resource/Plant
+
+steward - http://dbpedia.org/resource/Butler
+
+christmas eve - http://dbpedia.org/resource/Christmas_Eve
+
+spiral staircase - http://dbpedia.org/resource/Stairs
+
+government department - http://dbpedia.org/resource/Departments_of_the_Government_of_the_United_Kingdom
+prelate - http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church
+
+richmond - http://dbpedia.org/resource/Richmond_Football_Club
+
+basingstoke - http://dbpedia.org/resource/Basingstoke
+
+kilburn - http://dbpedia.org/resource/Kilburn_tube_station
+
+orna - http://dbpedia.org/resource/Dupatta
+
+sergeant - http://dbpedia.org/resource/Man-at-arms
+
+pheasantry - http://dbpedia.org/resource/Pheasantry
+
+anchor - http://dbpedia.org/resource/Anchor
+
+seed - http://dbpedia.org/resource/Seed
+
+european parliament member - http://dbpedia.org/resource/Member_of_the_European_Parliament
+
+john hardwick - http://dbpedia.org/resource/John_Hardwick_(director)
+
+stratfield saye - http://dbpedia.org/resource/Stratfield_Saye_House
+
+arch - http://dbpedia.org/resource/Arch
+
+edward 11th baron zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+
+spring - http://dbpedia.org/resource/Mineral_spring
+
+refectory table - http://dbpedia.org/resource/Refectory_table
+
+yarmouth - http://dbpedia.org/resource/Great_Yarmouth
+
+duke wellington - http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington
+
+health - http://dbpedia.org/resource/Health
+
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+
+fleur de lys - http://dbpedia.org/resource/Fleur-de-lis
+
+couch - http://dbpedia.org/resource/Couch
+
+baron st maur - http://dbpedia.org/resource/Baron_St_Maur
+
+minstrel - http://dbpedia.org/resource/Minstrel
+
+virginia company - http://dbpedia.org/resource/Virginia_Company
+
+prince phillip - http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh
+
+clatter - http://dbpedia.org/resource/Clatter,_Powys
+
+geese - http://dbpedia.org/resource/Goose
+
+thump - http://dbpedia.org/resource/Vice_Media
+
+wall garden - http://dbpedia.org/resource/Walled_garden
+
+marble - http://dbpedia.org/resource/Marble
+
+panelling - http://dbpedia.org/resource/Panelling
+
+piano - http://dbpedia.org/resource/Piano
+
+city - http://dbpedia.org/resource/City
+
+police college - http://dbpedia.org/resource/Police_academy
+
+bear - http://dbpedia.org/resource/Teddy_bear
+
+shorten - http://dbpedia.org/resource/Shadow_Ministry_of_Anthony_Albanese
+
+lord brocket - http://dbpedia.org/resource/Ronald_Nall-Cain,_2nd_Baron_Brocket
+
+inventory - http://dbpedia.org/resource/Glossary_of_video_game_terms
+
+arabesque - http://dbpedia.org/resource/Arabesque
+
+classical - http://dbpedia.org/resource/Classical_architecture
+
+shrewsbury - http://dbpedia.org/resource/Shrewsbury
+
+italian gardens - http://dbpedia.org/resource/Italian_Renaissance_garden
+
+stain glass - http://dbpedia.org/resource/Stained_glass
+
+francis hastings - http://dbpedia.org/resource/Francis_Hastings_of_Madras
+
+child marriage - http://dbpedia.org/resource/Child_marriage
+
+jacobean architecture - http://dbpedia.org/resource/Jacobean_architecture
+
+ghastly - http://dbpedia.org/resource/Ghastly_(DJ)
+
+xxix - http://dbpedia.org/resource/Super_Bowl_XXIX
+
+baron - http://dbpedia.org/resource/Baron
+
+exchequer - http://dbpedia.org/resource/Exchequer
+
+taste - http://dbpedia.org/resource/Wine_tasting
+
+xxxviii - http://dbpedia.org/resource/Super_Bowl_XXXVIII
+
+bridge - http://dbpedia.org/resource/Bridge
+
+john smithson - http://dbpedia.org/resource/John_Smithson
+
+turret - http://dbpedia.org/resource/Turret
+
+dear friend - http://dbpedia.org/resource/Dear_Friend
+
+uniform - http://dbpedia.org/resource/Uniform
+
+miscarry - http://dbpedia.org/resource/Miscarriage
+
+dutch gable - http://dbpedia.org/resource/Dutch_gable
+
+national police college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
+
+forthe - http://dbpedia.org/resource/River_Forth
+
+penelope - http://dbpedia.org/resource/Penelope
+
+hospitality - http://dbpedia.org/resource/Hospitality
+
+bridal gown - http://dbpedia.org/resource/Wedding_dress
+
+family - http://dbpedia.org/resource/Family
+
+committee - http://dbpedia.org/resource/Committee
+
+acre - http://dbpedia.org/resource/Acre
+
+charles - http://dbpedia.org/resource/Charles_I_of_England
+
+finery - http://dbpedia.org/resource/Finery_forge
+
+eversley manor - http://dbpedia.org/resource/Eversley_Manor
+
+apprentice - http://dbpedia.org/resource/Apprenticeship
+
+banbury - http://dbpedia.org/resource/Banbury
+
+evening wear - http://dbpedia.org/resource/Evening_gown
+
+harringworth - http://dbpedia.org/resource/Harringworth
+
+virginia - http://dbpedia.org/resource/Colony_of_Virginia
+
+john thorpe - http://dbpedia.org/resource/John_Thorpe
+
+henry frederick - http://dbpedia.org/resource/Henry_Frederick,_Prince_of_Wales
+
+samuel rogers - http://dbpedia.org/resource/Samuel_Rogers
+
+nuptial - http://dbpedia.org/resource/Wedding
+
+registered historic park - http://dbpedia.org/resource/Register_of_Historic_Parks_and_Gardens_of_Special_Historic_Interest_in_England
+
+century house - http://dbpedia.org/resource/Century_House,_London
+
+compas - http://dbpedia.org/resource/Compas
+
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+
+robe - http://dbpedia.org/resource/Robe
+
+fortified manor house - http://dbpedia.org/resource/Manor_house
+
+thomas foxley - http://dbpedia.org/resource/Thomas_Foxley
+
+xxxi - http://dbpedia.org/resource/Super_Bowl_XXXI
+
+scent - http://dbpedia.org/resource/Odor
+
+gatwick airport - http://dbpedia.org/resource/Gatwick_Airport
+
+sir william tate - http://dbpedia.org/resource/William_Tate_(MP)
+
+train - http://dbpedia.org/resource/Train_station
+
+english bond - http://dbpedia.org/resource/Brickwork
+
+edna - http://dbpedia.org/resource/Environmental_DNA
+
+wood - http://dbpedia.org/resource/Wood_carving
+
+candelabra - http://dbpedia.org/resource/Candelabra
+
+nikolaus pevsner - http://dbpedia.org/resource/Nikolaus_Pevsner
+
+poultry - http://dbpedia.org/resource/Chicken
+
+née - http://dbpedia.org/resource/Personal_name
+
+lord zouch - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+
+patrimony - http://dbpedia.org/resource/Inheritance
+
+bodice - http://dbpedia.org/resource/Bodice
+
+lead pipe - http://dbpedia.org/resource/Pipe_(fluid_conveyance)
+
+skeleton - http://dbpedia.org/resource/Skeleton
+
+wild boar - http://dbpedia.org/resource/Wild_boar
+
+landscape - http://dbpedia.org/resource/Landscape_painting
+
+francis bacon - http://dbpedia.org/resource/Francis_Bacon
+
+relic - http://dbpedia.org/resource/Relic
+
+banquet - http://dbpedia.org/resource/Banquet
+
+harrington - http://dbpedia.org/resource/John_Peabody_Harrington
+
+mary magdalene - http://dbpedia.org/resource/Mary_Magdalene
+
+deer - http://dbpedia.org/resource/Deer
+
+agnes - http://dbpedia.org/resource/Agnes_of_Rome
+
+north cape - http://dbpedia.org/resource/Nordkapp
+
+british government - http://dbpedia.org/resource/United_Kingdom
+
+pardon - http://dbpedia.org/resource/Royal_prerogative_of_mercy
+
+heritage asset - http://dbpedia.org/resource/Heritage_asset
+
+public knowledge - http://dbpedia.org/resource/Public_Knowledge
+
+homerton - http://dbpedia.org/resource/Homerton
+
+tudor - http://dbpedia.org/resource/Tudor_architecture
+
+ukip - http://dbpedia.org/resource/UK_Independence_Party
+
+plain - http://dbpedia.org/resource/Plain
+
+britain - http://dbpedia.org/resource/United_Kingdom
+
+elephant - http://dbpedia.org/resource/Elephant
+
+ont - http://dbpedia.org/resource/Ontario
+
+balustrade - http://dbpedia.org/resource/Baluster
+
+portrait - http://dbpedia.org/resource/Portrait
+
+pursuer - http://dbpedia.org/resource/Plaintiff
+
+romance - http://dbpedia.org/resource/Romanticism
+
+music - http://dbpedia.org/resource/Music
+
+terminal - http://dbpedia.org/resource/Train_station
+good cheer - http://dbpedia.org/resource/Good_Cheer
+
+project wing - http://dbpedia.org/resource/X_(company)
+
+grotesque - http://dbpedia.org/resource/Grotesque
+
+cinque ports - http://dbpedia.org/resource/Cinque_Ports
+
+abbot - http://dbpedia.org/resource/Abbot
+
+heathland - http://dbpedia.org/resource/Heath
+
+east west - http://dbpedia.org/resource/East_West_MRT_line
+
+great house - http://dbpedia.org/resource/Great_house
+
+fresh water - http://dbpedia.org/resource/Fresh_water
+
+law - http://dbpedia.org/resource/English_law
+
+police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
+
+winchfield - http://dbpedia.org/resource/Winchfield
+
+love - http://dbpedia.org/resource/Love
+
+xxxix - http://dbpedia.org/resource/Super_Bowl_XXXIX
+
+space - http://dbpedia.org/resource/Space
+
+gear - http://dbpedia.org/resource/Landing_gear
+
+christen - http://dbpedia.org/resource/Infant_baptism
+
+motorway - http://dbpedia.org/resource/Controlled-access_highway
+
+edward baker - http://dbpedia.org/resource/Edward_Dickinson_Baker
+
+helmet - http://dbpedia.org/resource/Helmet
+
+cain - http://dbpedia.org/resource/Cain_and_Abel
+
+xxxiv - http://dbpedia.org/resource/Super_Bowl_XXXIV
+
+swan - http://dbpedia.org/resource/Swan
+
+land registry - http://dbpedia.org/resource/Land_registration
+
+henry shaw - http://dbpedia.org/resource/Henry_Shaw_(philanthropist)
+
+fat - http://dbpedia.org/resource/Fat
+
+ecclesiastical - http://dbpedia.org/resource/Canon_law
+
+poem - http://dbpedia.org/resource/Poetry
+
+ball - http://dbpedia.org/resource/Ball
+
+plaster - http://dbpedia.org/resource/Plasterwork
+
+france 4 - http://dbpedia.org/resource/France_4
+
+young bride - http://dbpedia.org/resource/Young_Bride
+
+puritanical - http://dbpedia.org/resource/Puritans
+
+dado - http://dbpedia.org/resource/Dado_rail
+
+escarpment - http://dbpedia.org/resource/Escarpment
+
+vault - http://dbpedia.org/resource/Bank_vault
+
+saxon - http://dbpedia.org/resource/Saxons
+
+central london - http://dbpedia.org/resource/London
+
+property developer - http://dbpedia.org/resource/Real_estate_development
+
+sir james ley - http://dbpedia.org/resource/James_Ley,_1st_Earl_of_Marlborough
+
+court - http://dbpedia.org/resource/Royal_court
+
+garden room - http://dbpedia.org/resource/Sunroom
+
+maid - http://dbpedia.org/resource/Maid
+
+village - http://dbpedia.org/resource/Village
+
+st - http://dbpedia.org/resource/SATB
+
+abeyance - http://dbpedia.org/resource/Abeyance
+
+tap - http://dbpedia.org/resource/Tap_dance
+
+ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
+
+police - http://dbpedia.org/resource/Police
+
+wing house - http://dbpedia.org/resource/Wing_House_Museum
+
+emma - http://dbpedia.org/resource/Emma_Darwin
+
+gaiety - http://dbpedia.org/resource/Gaiety_Theatre,_London
+
+auburn hair - http://dbpedia.org/resource/Auburn_hair
+
+doric - http://dbpedia.org/resource/Doric_order
+
+oft - http://dbpedia.org/resource/Office_of_Fair_Trading
+
+courtyard - http://dbpedia.org/resource/Courtyard
+
+xxxvi - http://dbpedia.org/resource/Super_Bowl_XXXVI
+
+armorial bearing - http://dbpedia.org/resource/Achievement_(heraldry)
+
+oriel - http://dbpedia.org/resource/Oriel_window
+
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+
+ornament - http://dbpedia.org/resource/Decorative_arts
+
+majestic - http://dbpedia.org/resource/Majestic_12
+
+gild - http://dbpedia.org/resource/Gilding
+
+dimension - http://dbpedia.org/resource/Dimension
+
+elizabethan period - http://dbpedia.org/resource/Elizabethan_era
+
+landscape - http://dbpedia.org/resource/Landscape
+
+ancient furniture - http://dbpedia.org/resource/Ancient_furniture
+
+single - http://dbpedia.org/resource/Phonograph_record
+
+gatehouse - http://dbpedia.org/resource/Gatehouse
+
+volunteer - http://dbpedia.org/resource/Volunteering
+
+hrh - http://dbpedia.org/resource/Royal_Highness
+
+edward - http://dbpedia.org/resource/Edward_III_of_England
+
+heathrow - http://dbpedia.org/resource/Heathrow_Airport
+
+chamber - http://dbpedia.org/resource/Great_chamber
+
+christmas holiday - http://dbpedia.org/resource/Christmas_Holiday
+
+arum lily - http://dbpedia.org/resource/Zantedeschia
+
+george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
+
+wedding dress - http://dbpedia.org/resource/Wedding_dress
+
+great hall - http://dbpedia.org/resource/Great_hall
+
+constance - http://dbpedia.org/resource/Konstanz
+
+accounting - http://dbpedia.org/resource/Accounting
+
+arrow - http://dbpedia.org/resource/Arrow
+
+crack - http://dbpedia.org/resource/Crack_cocaine
+
+uk police - http://dbpedia.org/resource/Law_enforcement_in_the_United_Kingdom
+
+pulse - http://dbpedia.org/resource/Pulse
+
+moulding - http://dbpedia.org/resource/Crown_molding
+
+water - http://dbpedia.org/resource/Water
+
+housekeeping - http://dbpedia.org/resource/Housekeeping
+
+diplomat - http://dbpedia.org/resource/Diplomat
+
+hardwick - http://dbpedia.org/resource/Hardwick_Hall
+
+diana - http://dbpedia.org/resource/Diana_(album)
+
+alte pinakothek - http://dbpedia.org/resource/Alte_Pinakothek
+
+corinthian style - http://dbpedia.org/resource/Corinthian_order
+
+melancholy - http://dbpedia.org/resource/Melancholia
+
+windsor - http://dbpedia.org/resource/Windsor_Castle
+
+south pass - http://dbpedia.org/resource/South_Pass_(Wyoming)
+
+sussex - http://dbpedia.org/resource/Sussex
+
+southeast village - http://dbpedia.org/resource/Southeast_Village
+
+splendid - http://dbpedia.org/resource/Le_Splendid
+
+auction - http://dbpedia.org/resource/Auction
+
+bride - http://dbpedia.org/resource/Bride
+
+chapel - http://dbpedia.org/resource/Chapel
+
+bramshill - http://dbpedia.org/resource/Bramshill
+
+xxxvii - http://dbpedia.org/resource/Super_Bowl_XXXVII
+
+baron daubeney - http://dbpedia.org/resource/Earl_of_Bridgewater
+
+auctioneer - http://dbpedia.org/resource/Auction
+
+market - http://dbpedia.org/resource/Marketplace
+
+rail - http://dbpedia.org/resource/Rail_transport
+
+compound - http://dbpedia.org/resource/Leaf
+devonshire - http://dbpedia.org/resource/Devon
+
+specie - http://dbpedia.org/resource/Coin
+
+inn - http://dbpedia.org/resource/Inns_of_Court
+
+tower - http://dbpedia.org/resource/Bell_tower
+
+chimney stack - http://dbpedia.org/resource/Chimney
+
+councillor - http://dbpedia.org/resource/Privy_council
+
+robert bailey - http://dbpedia.org/resource/Robert_Bailey_(American_football)
+
+square bay - http://dbpedia.org/resource/Square_Bay
+
+planning permission - http://dbpedia.org/resource/Town_and_country_planning_in_the_United_Kingdom
+
+jesuit - http://dbpedia.org/resource/Society_of_Jesus
+
+salon - http://dbpedia.org/resource/Drawing_room
+
+court - http://dbpedia.org/resource/Courtyard
+
+salisbury - http://dbpedia.org/resource/Salisbury_Cathedral
+
+florence - http://dbpedia.org/resource/Florence
+
+mary - http://dbpedia.org/resource/Mary_I_of_England
+
+king james vi - http://dbpedia.org/resource/James_VI_and_I
+
+deanery - http://dbpedia.org/resource/Deanery
+
+grade ii - http://dbpedia.org/resource/Listed_building
+
+butler - http://dbpedia.org/resource/Butler
+
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+
+henley - http://dbpedia.org/resource/Henley-on-Thames
+
+king edward vii - http://dbpedia.org/resource/Edward_VII
+
+extant - http://dbpedia.org/resource/Existence
+
+sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
+
+withered - http://dbpedia.org/resource/Withered
+
+baron brocket - http://dbpedia.org/resource/Baron_Brocket
+
+sin - http://dbpedia.org/resource/Sin
+
+hybrid - http://dbpedia.org/resource/Cross-genre
+
+ridge - http://dbpedia.org/resource/Ridge
+
+facade - http://dbpedia.org/resource/Facade
+
+fish - http://dbpedia.org/resource/Fish
+
+european police college - http://dbpedia.org/resource/European_Police_College
+
+john thorp - http://dbpedia.org/resource/John_Thorp
+
+tunnel - http://dbpedia.org/resource/Tunnel
+
+edward lord - http://dbpedia.org/resource/Edward_Lord
+italian renaissance - http://dbpedia.org/resource/Renaissance_architecture
+
+swish - http://dbpedia.org/resource/Swish_cymbal
+
+ashlar - http://dbpedia.org/resource/Ashlar
+
+la zouche - http://dbpedia.org/resource/Baron_Zouche
+
+dais - http://dbpedia.org/resource/Dais
+
+hindon - http://dbpedia.org/resource/Hindon_River
+
+deep valley - http://dbpedia.org/resource/Deep_Valley
+
+sion - http://dbpedia.org/resource/Zion
+
+gil - http://dbpedia.org/resource/Recurring_elements_in_the_Final_Fantasy_series
+
+breathing - http://dbpedia.org/resource/Breathing
+
+pavilion - http://dbpedia.org/resource/Pavilion
+
+xxviii - http://dbpedia.org/resource/Roman_numerals
+
+overgrown - http://dbpedia.org/resource/Overgrown
+
+revelry - http://dbpedia.org/resource/Revelry_(song)
+
+queen anne - http://dbpedia.org/resource/Queen_Anne_style_architecture
+
+heptameron - http://dbpedia.org/resource/Heptaméron
+
+heraldic device - http://dbpedia.org/resource/Heraldry
+
+river hart - http://dbpedia.org/resource/River_Hart
+
+surrey - http://dbpedia.org/resource/Surrey
+
+grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
+
+high north - http://dbpedia.org/resource/Arctic
+
+sir robert henley - http://dbpedia.org/resource/Robert_Henley,_1st_Earl_of_Northington
+
+thomas leighton - http://dbpedia.org/resource/Thomas_Leighton_(governor)
+
+brussels - http://dbpedia.org/resource/Brussels
+
+queen anne style - http://dbpedia.org/resource/Queen_Anne_style_architecture
+
+mansion - http://dbpedia.org/resource/English_country_house
+
+elizabethan style - http://dbpedia.org/resource/Elizabethan_architecture
+
+marta andreasen - http://dbpedia.org/resource/Marta_Andreasen
+
+roman history - http://dbpedia.org/resource/History_of_Rome
+
+evacuee - http://dbpedia.org/resource/Evacuations_of_civilians_in_Britain_during_World_War_II
+
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+
+armorial achievement - http://dbpedia.org/resource/Coat_of_arms
+
+chamber - http://dbpedia.org/resource/Room
+
+fruit - http://dbpedia.org/resource/Fruit
+
+wick - http://dbpedia.org/resource/Capillary_action
+
+ward - http://dbpedia.org/resource/Wards_of_the_City_of_London
+
+noble - http://dbpedia.org/resource/Nobility
+
+spandril - http://dbpedia.org/resource/Spandrel
+
+architrave - http://dbpedia.org/resource/Architrave
+
+heritage - http://dbpedia.org/resource/Cultural_heritage
+
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+
+lightness - http://dbpedia.org/resource/Lightness
+
+adorn - http://dbpedia.org/resource/Adorn_(song)
+
+eccentricity - http://dbpedia.org/resource/Ellipse
+
+flemish - http://dbpedia.org/resource/Flemish
+
+troco - http://dbpedia.org/resource/Trucco
+
+northamptonshire - http://dbpedia.org/resource/Northamptonshire
+
+fotheringhay - http://dbpedia.org/resource/Fotheringhay_Castle
+
+katherine - http://dbpedia.org/resource/Samuel_More
+
+experiment - http://dbpedia.org/resource/Experiment
+
+hugh de port - http://dbpedia.org/resource/Hugh_de_Port
+
+vaulted - http://dbpedia.org/resource/Barrel_vault
+
+inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+
+baluster - http://dbpedia.org/resource/Baluster
+
+laro - http://dbpedia.org/resource/Laro_language
+
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England

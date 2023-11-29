@@ -1,0 +1,144 @@
+historical society - http://dbpedia.org/resource/Historical_society
+wgn - http://dbpedia.org/resource/WGN_America
+manhattan - http://dbpedia.org/resource/Manhattan
+turnout - http://dbpedia.org/resource/Railroad_switch
+los alamos - http://dbpedia.org/resource/Project_Y
+historical society - http://dbpedia.org/resource/Historical_society
+wgn - http://dbpedia.org/resource/WGN_America
+manhattan - http://dbpedia.org/resource/Manhattan
+los alamos - http://dbpedia.org/resource/Project_Y
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+lier - http://dbpedia.org/resource/De_Lier
+girl scout - http://dbpedia.org/resource/Girl_Scouts_of_the_USA
+scout uniform - http://dbpedia.org/resource/Uniform
+bulletin board - http://dbpedia.org/resource/Internet_forum
+previous episode - http://dbpedia.org/resource/What_Lies_Ahead
+facebook - http://dbpedia.org/resource/Facebook
+los alamos - http://dbpedia.org/resource/Project_Y
+los alamos - http://dbpedia.org/resource/Project_Y
+historical society - http://dbpedia.org/resource/Historical_society
+pizzeria - http://dbpedia.org/resource/Pizza
+los alamos - http://dbpedia.org/resource/Project_Y
+manhattan - http://dbpedia.org/resource/Manhattan
+tv-14 - http://dbpedia.org/resource/TV_Parental_Guidelines
+scientist - http://dbpedia.org/resource/Scientist
+los alamos - http://dbpedia.org/resource/Project_Y
+scientist - http://dbpedia.org/resource/Scientist
+los alamos - http://dbpedia.org/resource/Project_Y
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+scientist - http://dbpedia.org/resource/Scientist
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+scientist - http://dbpedia.org/resource/Scientist
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+churchill - http://dbpedia.org/resource/Winston_Churchill
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+professor - http://dbpedia.org/resource/Professor
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+technical adviser - http://dbpedia.org/resource/Technical_advisor
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+los alamos - http://dbpedia.org/resource/Project_Y
+otto robert frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+james tuck - http://dbpedia.org/resource/James_L._Tuck
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+general leslie - http://dbpedia.org/resource/David_Leslie,_1st_Lord_Newark
+grove - http://dbpedia.org/resource/Sacred_grove
+confer - http://dbpedia.org/resource/CONFER_(software)
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+security - http://dbpedia.org/resource/Security
+intelligence - http://dbpedia.org/resource/Espionage
+eye - http://dbpedia.org/resource/Human_eye
+los alamos - http://dbpedia.org/resource/Project_Y
+train - http://dbpedia.org/resource/Train
+abby - http://dbpedia.org/resource/Abby_Lockhart
+santa fe - http://dbpedia.org/resource/Santa_Fe_Trail
+hat - http://dbpedia.org/resource/Kippah
+street corner - http://dbpedia.org/resource/Street_Corner_(1953_film)
+thin man - http://dbpedia.org/resource/The_Thin_Man
+thin man - http://dbpedia.org/resource/The_Thin_Man
+gun - http://dbpedia.org/resource/Gun
+plutonium - http://dbpedia.org/resource/Plutonium
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+emilio segrè - http://dbpedia.org/resource/Emilio_Segrè
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+plutonium - http://dbpedia.org/resource/Plutonium
+pu-240 - http://dbpedia.org/resource/Plutonium-240
+cyclotron - http://dbpedia.org/resource/Cyclotron
+plutonium - http://dbpedia.org/resource/Plutonium
+isotope - http://dbpedia.org/resource/Isotope
+mass number - http://dbpedia.org/resource/Mass_number
+neutron - http://dbpedia.org/resource/Neutron
+pu-240 - http://dbpedia.org/resource/Plutonium-240
+spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
+pu-239 - http://dbpedia.org/resource/Plutonium
+gun - http://dbpedia.org/resource/Gun
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+plutonium - http://dbpedia.org/resource/Plutonium
+predetonate - http://dbpedia.org/resource/Nuclear_chain_reaction
+bullet - http://dbpedia.org/resource/Ammunition
+plutonium - http://dbpedia.org/resource/Plutonium
+plutonium - http://dbpedia.org/resource/Plutonium
+acceleration - http://dbpedia.org/resource/Acceleration
+bullet - http://dbpedia.org/resource/Ammunition
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+plutonium - http://dbpedia.org/resource/Plutonium
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+isotope - http://dbpedia.org/resource/Isotope
+scientist - http://dbpedia.org/resource/Scientist
+plutonium - http://dbpedia.org/resource/Plutonium
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+thin man - http://dbpedia.org/resource/The_Thin_Man
+predetonate - http://dbpedia.org/resource/Nuclear_chain_reaction
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+thin man - http://dbpedia.org/resource/The_Thin_Man
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+seth neddermeyer - http://dbpedia.org/resource/Seth_Neddermeyer
+george kistiakowsky - http://dbpedia.org/resource/George_Kistiakowsky
+john von neumann - http://dbpedia.org/resource/John_von_Neumann
+james tuck - http://dbpedia.org/resource/James_L._Tuck
+robert christy - http://dbpedia.org/resource/Robert_F._Christy
+city - http://dbpedia.org/resource/City
+minsk - http://dbpedia.org/resource/Minsk
+abby - http://dbpedia.org/resource/Abby_Lockhart
+center city - http://dbpedia.org/resource/New_Orleans_Central_Business_District
+minsk - http://dbpedia.org/resource/Minsk
+minsk - http://dbpedia.org/resource/Minsk
+ussr - http://dbpedia.org/resource/Soviet_Union
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+city - http://dbpedia.org/resource/City
+infrastructure - http://dbpedia.org/resource/Infrastructure
+city - http://dbpedia.org/resource/City
+minsk - http://dbpedia.org/resource/Minsk
+nazi - http://dbpedia.org/resource/Nazism
+minsk - http://dbpedia.org/resource/Minsk
+holocaust - http://dbpedia.org/resource/The_Holocaust
+schrödinger cat - http://dbpedia.org/resource/Schrödinger's_cat
+erwin schrödinger - http://dbpedia.org/resource/Erwin_Schrödinger
+quantum mechanic - http://dbpedia.org/resource/Quantum_mechanics
+particle - http://dbpedia.org/resource/Particle_physics
+poison - http://dbpedia.org/resource/Neutron_poison
+random - http://dbpedia.org/resource/Randomness
+time cat - http://dbpedia.org/resource/Time_Cat:_The_Remarkable_Journeys_of_Jason_and_Gareth
+poem - http://dbpedia.org/resource/Poetry
+william butler yeats - http://dbpedia.org/resource/W._B._Yeats
+glen - http://dbpedia.org/resource/Ravine
+virginia woolf - http://dbpedia.org/resource/Virginia_Woolf

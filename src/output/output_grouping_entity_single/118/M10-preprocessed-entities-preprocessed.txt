@@ -1,0 +1,49 @@
+rampart - http://dbpedia.org/resource/Defensive_wall
+english heritage - http://dbpedia.org/resource/English_Heritage
+roman fort - http://dbpedia.org/resource/Castra
+family - http://dbpedia.org/resource/Family
+robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+stone - http://dbpedia.org/resource/Stonemasonry
+lady anne - http://dbpedia.org/resource/Anne_Neville
+george clifford - http://dbpedia.org/resource/George_Clifford_III
+brough - http://dbpedia.org/resource/Brough_Castle
+clifford family - http://dbpedia.org/resource/Baron_de_Clifford
+die - http://dbpedia.org/resource/Death
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+defence - http://dbpedia.org/resource/Military
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+administrative centre - http://dbpedia.org/resource/County_town
+queens - http://dbpedia.org/resource/Queen_consort
+edward ii - http://dbpedia.org/resource/Edward_II_of_England
+bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
+anglo - http://dbpedia.org/resource/Anglo
+confluence - http://dbpedia.org/resource/Confluence
+scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+river lowther - http://dbpedia.org/resource/River_Lowther
+edward iii - http://dbpedia.org/resource/Edward_II_of_England
+robert de clifford - http://dbpedia.org/resource/Robert_Clifford,_1st_Baron_Clifford
+penrith castle - http://dbpedia.org/resource/Penrith_Castle
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+lord thanet - http://dbpedia.org/resource/Sackville_Tufton,_8th_Earl_of_Thanet
+skipton castle - http://dbpedia.org/resource/Skipton_Castle
+eden valley - http://dbpedia.org/resource/Eden_Valley_Railway
+baron de clifford - http://dbpedia.org/resource/Baron_de_Clifford
+yorkshire - http://dbpedia.org/resource/Yorkshire
+earl - http://dbpedia.org/resource/Earl
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+gatehouse - http://dbpedia.org/resource/Gatehouse
+bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+caput - http://dbpedia.org/resource/Caput
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
+eamont - http://dbpedia.org/resource/River_Eamont
+south england - http://dbpedia.org/resource/Southern_England
+isabella - http://dbpedia.org/resource/Isabelline_(colour)
+cliffords - http://dbpedia.org/resource/Baron_de_Clifford
+traitor - http://dbpedia.org/resource/Treason
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+sack - http://dbpedia.org/resource/Looting
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+appleby castle - http://dbpedia.org/resource/Appleby_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+cumberland - http://dbpedia.org/resource/Cumberland
+appleby - http://dbpedia.org/resource/Appleby_Castle

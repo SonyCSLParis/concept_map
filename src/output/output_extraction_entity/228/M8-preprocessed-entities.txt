@@ -1,0 +1,990 @@
+texian - http://dbpedia.org/resource/Texians
+san - http://dbpedia.org/resource/Japanese_honorifics
+texans - http://dbpedia.org/resource/Texas
+memorial - http://dbpedia.org/resource/Memorial
+grievance - http://dbpedia.org/resource/Grievance
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+houston - http://dbpedia.org/resource/Houston
+romance - http://dbpedia.org/resource/Romanticism
+tragedy - http://dbpedia.org/resource/Tragedy
+texas history - http://dbpedia.org/resource/History_of_Texas
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+independent - http://dbpedia.org/resource/Independence
+texas - http://dbpedia.org/resource/Texas
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+decree - http://dbpedia.org/resource/Papal_bull
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+immigration - http://dbpedia.org/resource/Immigration
+texas - http://dbpedia.org/resource/Texas
+tariff - http://dbpedia.org/resource/Tariff
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+colonist - http://dbpedia.org/resource/Colonialism
+texas - http://dbpedia.org/resource/Texas
+liberal - http://dbpedia.org/resource/Liberalism
+republicanism - http://dbpedia.org/resource/Republicanism
+republic - http://dbpedia.org/resource/Republic
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+settlement - http://dbpedia.org/resource/Israeli_settlement
+colonist - http://dbpedia.org/resource/Colonialism
+dictator - http://dbpedia.org/resource/Dictatorship
+antonio lopez de santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+republicanism - http://dbpedia.org/resource/Republicanism
+xenophobic - http://dbpedia.org/resource/Xenophobia
+racist - http://dbpedia.org/resource/Racism
+mexia - http://dbpedia.org/resource/Mexia,_Texas
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+colonist - http://dbpedia.org/resource/Colonialism
+horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman
+alcalde - http://dbpedia.org/resource/Alcalde
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+john austin - http://dbpedia.org/resource/J._L._Austin
+alcalde - http://dbpedia.org/resource/Alcalde
+brazoria - http://dbpedia.org/resource/Brazoria_National_Wildlife_Refuge
+municipality - http://dbpedia.org/resource/Municipality
+credential - http://dbpedia.org/resource/Credential
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+william wharton - http://dbpedia.org/resource/William_H._Wharton
+francis - http://dbpedia.org/resource/Pope_Francis
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+committee - http://dbpedia.org/resource/Committee
+prepare - http://dbpedia.org/resource/PREPARE
+memorial - http://dbpedia.org/resource/Memorial
+san antonio - http://dbpedia.org/resource/San_Antonio
+bahia - http://dbpedia.org/resource/Bahia
+rafael manchola - http://dbpedia.org/resource/Rafael_Manchola
+dewitt - http://dbpedia.org/resource/Bryce_DeWitt
+colonist - http://dbpedia.org/resource/Colonialism
+handbook - http://dbpedia.org/resource/Handbook
+texas - http://dbpedia.org/resource/Texas
+colorado - http://dbpedia.org/resource/Colorado
+bruff - http://dbpedia.org/resource/Bruff
+david - http://dbpedia.org/resource/David
+demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
+hensley - http://dbpedia.org/resource/Clay_Hensley
+jesse - http://dbpedia.org/resource/Jesse_Pinkman
+burnham - http://dbpedia.org/resource/Frederick_Russell_Burnham
+bayou - http://dbpedia.org/resource/Bayou
+wyatt - http://dbpedia.org/resource/Wyatt_Earp
+garrett - http://dbpedia.org/resource/Garrett_AiResearch
+claiborne - http://dbpedia.org/resource/William_C._C._Claiborne
+stinnett - http://dbpedia.org/resource/Stinnett,_Texas
+clay - http://dbpedia.org/resource/Clay
+alexander thompson - http://dbpedia.org/resource/Alexander_M._Thompson
+kerr - http://dbpedia.org/resource/KERR
+joseph - http://dbpedia.org/resource/Joseph_Smith
+looney - http://dbpedia.org/resource/LoOney
+george sutherland - http://dbpedia.org/resource/George_Sutherland
+jack - http://dbpedia.org/resource/Jackfruit
+claiborne - http://dbpedia.org/resource/William_C._C._Claiborne
+james morgan - http://dbpedia.org/resource/Juliette_Pochin
+john connell - http://dbpedia.org/resource/John_Connell
+douglass - http://dbpedia.org/resource/Frederick_Douglass
+mina - http://dbpedia.org/resource/Mina_(unit)
+bastrop - http://dbpedia.org/resource/Bastrop_State_Park
+ira ingram - http://dbpedia.org/resource/Ira_Ingram
+silas - http://dbpedia.org/resource/Silas
+dinsmore - http://dbpedia.org/resource/Dinsmore,_California
+eli - http://dbpedia.org/resource/List_of_Heroes_characters
+mercer - http://dbpedia.org/resource/Worshipful_Company_of_Mercers
+thomas hastings - http://dbpedia.org/resource/Thomas_Hastings_(architect)
+freeman - http://dbpedia.org/resource/Feudalism
+holt - http://dbpedia.org/resource/Woodland
+absalom - http://dbpedia.org/resource/Absalom
+jesse - http://dbpedia.org/resource/Jesse_Pinkman
+parker - http://dbpedia.org/resource/Charlie_Parker
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+wiley - http://dbpedia.org/resource/Wiley-Blackwell
+francis johnson - http://dbpedia.org/resource/Francis_Johnson_(Brownist)
+luke - http://dbpedia.org/resource/Gospel_of_Luke
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+archelaus - http://dbpedia.org/resource/Archelaus_I_of_Macedon
+bynum - http://dbpedia.org/resource/Andrew_Bynum
+george - http://dbpedia.org/resource/George_(band)
+robert wilson - http://dbpedia.org/resource/Robert_Thomas_Wilson
+snow - http://dbpedia.org/resource/Snow
+neches - http://dbpedia.org/resource/Neches_River
+elijah - http://dbpedia.org/resource/Elijah
+looney - http://dbpedia.org/resource/LoOney
+james looney - http://dbpedia.org/resource/James_Looney
+bradley - http://dbpedia.org/resource/Omar_Bradley
+frederick - http://dbpedia.org/resource/Frederick_the_Great
+george butler - http://dbpedia.org/resource/George_Ide_Butler
+william robinson - http://dbpedia.org/resource/Smokey_Robinson
+joshua - http://dbpedia.org/resource/Joshua
+hadley - http://dbpedia.org/resource/Hadley_Richardson
+brazoria - http://dbpedia.org/resource/Brazoria_National_Wildlife_Refuge
+john austin - http://dbpedia.org/resource/J._L._Austin
+george - http://dbpedia.org/resource/George_(band)
+charles - http://dbpedia.org/resource/Charles_II_of_England
+sayre - http://dbpedia.org/resource/Sayre,_Pennsylvania
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+committee - http://dbpedia.org/resource/Committee
+prepare - http://dbpedia.org/resource/PREPARE
+memorial - http://dbpedia.org/resource/Memorial
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+texas - http://dbpedia.org/resource/Texas
+colonist - http://dbpedia.org/resource/Colonialism
+attachment - http://dbpedia.org/resource/Attachment_theory
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+law - http://dbpedia.org/resource/Common_law
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+draft - http://dbpedia.org/resource/Conscription
+memorial - http://dbpedia.org/resource/Memorial
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+import - http://dbpedia.org/resource/Import
+texas - http://dbpedia.org/resource/Texas
+san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
+texas - http://dbpedia.org/resource/Texas
+custom house - http://dbpedia.org/resource/Custom_house
+prepare - http://dbpedia.org/resource/PREPARE
+petition - http://dbpedia.org/resource/Prayer
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+texas - http://dbpedia.org/resource/Texas
+primary school - http://dbpedia.org/resource/Primary_education
+petition - http://dbpedia.org/resource/Prayer
+texas - http://dbpedia.org/resource/Texas
+independent - http://dbpedia.org/resource/Independence
+coahuila - http://dbpedia.org/resource/Coahuila
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+land grant - http://dbpedia.org/resource/Land_grant
+petition - http://dbpedia.org/resource/Prayer
+tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+anxiety - http://dbpedia.org/resource/Anxiety
+memorial - http://dbpedia.org/resource/Memorial
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+federal congress - http://dbpedia.org/resource/Congress_of_the_Union
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+memorialist - http://dbpedia.org/resource/Memorialism
+anglo americans - http://dbpedia.org/resource/Anglo-America
+texas - http://dbpedia.org/resource/Texas
+sacred - http://dbpedia.org/resource/Glossary_of_ancient_Roman_religion
+republican - http://dbpedia.org/resource/Republicanism
+grievance - http://dbpedia.org/resource/Grievance
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+mortification - http://dbpedia.org/resource/Mortification_of_the_flesh
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+law - http://dbpedia.org/resource/Common_law
+memorialist - http://dbpedia.org/resource/Memorialism
+independent - http://dbpedia.org/resource/Independence
+texas - http://dbpedia.org/resource/Texas
+mexican constitution - http://dbpedia.org/resource/Constitution_of_Mexico
+endeavor - http://dbpedia.org/resource/HMS_Endeavour
+colonization - http://dbpedia.org/resource/Colonialism
+law - http://dbpedia.org/resource/Common_law
+texas - http://dbpedia.org/resource/Texas
+family - http://dbpedia.org/resource/Family
+sitio - http://dbpedia.org/resource/Sitio
+envision - http://dbpedia.org/resource/Buick_Envision
+bounty - http://dbpedia.org/resource/Land_grant
+gratuity - http://dbpedia.org/resource/Gratuity
+heart - http://dbpedia.org/resource/Heart
+region - http://dbpedia.org/resource/Region
+revenue - http://dbpedia.org/resource/Tax
+capital - http://dbpedia.org/resource/Capital_punishment
+intercourse - http://dbpedia.org/resource/Sexual_intercourse
+privation - http://dbpedia.org/resource/Privation
+heaven - http://dbpedia.org/resource/Heaven
+immigrant - http://dbpedia.org/resource/Immigration
+intercourse - http://dbpedia.org/resource/Sexual_intercourse
+texas - http://dbpedia.org/resource/Texas
+case government - http://dbpedia.org/resource/Case_government
+settlement - http://dbpedia.org/resource/Israeli_settlement
+revenue - http://dbpedia.org/resource/Tax
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+colonized land - http://dbpedia.org/resource/Terrestrial_animal
+texas - http://dbpedia.org/resource/Texas
+settlement - http://dbpedia.org/resource/Israeli_settlement
+texas - http://dbpedia.org/resource/Texas
+animate - http://dbpedia.org/resource/Animation
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+torture - http://dbpedia.org/resource/Torture
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+patriotism - http://dbpedia.org/resource/Patriotism
+infatuate - http://dbpedia.org/resource/Infatuation
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+settler - http://dbpedia.org/resource/Settler
+single - http://dbpedia.org/resource/Extended_play
+soldier - http://dbpedia.org/resource/Soldier
+awaken - http://dbpedia.org/resource/Going_for_the_One
+desperate man - http://dbpedia.org/resource/Desperate_Man_(album)
+misguided - http://dbpedia.org/resource/Misguided
+settler - http://dbpedia.org/resource/Settler
+patriotism - http://dbpedia.org/resource/Patriotism
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+law - http://dbpedia.org/resource/Common_law
+melancholy - http://dbpedia.org/resource/Major_depressive_disorder
+texas - http://dbpedia.org/resource/Texas
+mortify - http://dbpedia.org/resource/Mortification_of_the_flesh
+mortify - http://dbpedia.org/resource/Mortification_of_the_flesh
+texas - http://dbpedia.org/resource/Texas
+prepare - http://dbpedia.org/resource/PREPARE
+law - http://dbpedia.org/resource/Common_law
+immigration - http://dbpedia.org/resource/Immigration
+sister republic - http://dbpedia.org/resource/Sister_republic
+mexicans - http://dbpedia.org/resource/Mexico
+knowledge foundation - http://dbpedia.org/resource/Knowledge_Fund
+liberty - http://dbpedia.org/resource/Liberty
+habitable - http://dbpedia.org/resource/Habitability
+texas - http://dbpedia.org/resource/Texas
+ideal - http://dbpedia.org/resource/Thought_experiment
+republican government - http://dbpedia.org/resource/Republicanism
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+revolutionary - http://dbpedia.org/resource/American_Revolution
+rejoice - http://dbpedia.org/resource/Word_Records
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+parasite - http://dbpedia.org/resource/Parasitism
+immigration - http://dbpedia.org/resource/Immigration
+inequality - http://dbpedia.org/resource/Economic_inequality
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+hereditary nobility - http://dbpedia.org/resource/Russian_nobility
+republic - http://dbpedia.org/resource/Republic
+theory - http://dbpedia.org/resource/Theory
+immigrant - http://dbpedia.org/resource/Immigration
+liberty - http://dbpedia.org/resource/Liberty
+welfare - http://dbpedia.org/resource/Welfare
+republic - http://dbpedia.org/resource/Republic
+immigrant - http://dbpedia.org/resource/Immigration
+liberal - http://dbpedia.org/resource/Liberalism
+cradle - http://dbpedia.org/resource/Earth
+freedom - http://dbpedia.org/resource/Liberty
+habit - http://dbpedia.org/resource/Habit
+education - http://dbpedia.org/resource/Education
+contradiction - http://dbpedia.org/resource/Reductio_ad_absurdum
+memorialist - http://dbpedia.org/resource/Memorialism
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+law - http://dbpedia.org/resource/Common_law
+goad - http://dbpedia.org/resource/Goad
+tenant - http://dbpedia.org/resource/Leasehold_estate
+texas - http://dbpedia.org/resource/Texas
+gaze - http://dbpedia.org/resource/Gaze
+region - http://dbpedia.org/resource/Region
+prepare - http://dbpedia.org/resource/PREPARE
+specie - http://dbpedia.org/resource/Money
+privation - http://dbpedia.org/resource/Privation
+wheel - http://dbpedia.org/resource/Wheel
+uplifted - http://dbpedia.org/resource/Tectonic_uplift
+tile - http://dbpedia.org/resource/Tile
+law - http://dbpedia.org/resource/Common_law
+general santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+vindicator - http://dbpedia.org/resource/Phlebiac_Brothers
+liberty - http://dbpedia.org/resource/Liberty
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+evil - http://dbpedia.org/resource/Evil
+magnitude - http://dbpedia.org/resource/Euclidean_vector
+magnitude - http://dbpedia.org/resource/Euclidean_vector
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+general santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+sacred - http://dbpedia.org/resource/Glossary_of_ancient_Roman_religion
+defense - http://dbpedia.org/resource/Military
+charter - http://dbpedia.org/resource/Charter
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+tile - http://dbpedia.org/resource/Tile
+defense - http://dbpedia.org/resource/Military
+liberty - http://dbpedia.org/resource/Liberty
+spurn - http://dbpedia.org/resource/Spurn
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+defense - http://dbpedia.org/resource/Military
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+opportune - http://dbpedia.org/resource/HMS_Opportune_(G80)
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+heart - http://dbpedia.org/resource/Heart
+god - http://dbpedia.org/resource/God
+truth - http://dbpedia.org/resource/Truth
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+anglo american - http://dbpedia.org/resource/Anglo-America
+texas - http://dbpedia.org/resource/Texas
+heart - http://dbpedia.org/resource/Heart
+mexican republic - http://dbpedia.org/resource/First_Mexican_Republic
+agriculture - http://dbpedia.org/resource/Agriculture
+learning - http://dbpedia.org/resource/Education
+virtue - http://dbpedia.org/resource/Virtue
+freedom - http://dbpedia.org/resource/Liberty
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+coalescence - http://dbpedia.org/resource/Coalescent_theory
+memorialist - http://dbpedia.org/resource/Memorialism
+president - http://dbpedia.org/resource/President_of_the_United_States
+neches river - http://dbpedia.org/resource/Neches_River
+sabine - http://dbpedia.org/resource/Sabines
+republic - http://dbpedia.org/resource/Republic
+texas - http://dbpedia.org/resource/Texas
+memorialist - http://dbpedia.org/resource/Memorialism
+tenor - http://dbpedia.org/resource/Tenor
+patriotism - http://dbpedia.org/resource/Patriotism
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+texas - http://dbpedia.org/resource/Texas
+law - http://dbpedia.org/resource/Common_law
+law - http://dbpedia.org/resource/Common_law
+national revenue - http://dbpedia.org/resource/Minister_of_National_Revenue_(Canada)
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+texas - http://dbpedia.org/resource/Texas
+law - http://dbpedia.org/resource/Common_law
+native mexican - http://dbpedia.org/resource/Indigenous_peoples_of_Mexico
+republic - http://dbpedia.org/resource/Republic
+europeans - http://dbpedia.org/resource/White_people
+europeans - http://dbpedia.org/resource/White_people
+texas - http://dbpedia.org/resource/Texas
+train - http://dbpedia.org/resource/Rail_transport
+republicanism - http://dbpedia.org/resource/Republicanism
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+climate - http://dbpedia.org/resource/Global_warming
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+texas - http://dbpedia.org/resource/Texas
+national revenue - http://dbpedia.org/resource/Minister_of_National_Revenue_(Canada)
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+garrison - http://dbpedia.org/resource/Garrison
+texas - http://dbpedia.org/resource/Texas
+law - http://dbpedia.org/resource/Common_law
+settlement - http://dbpedia.org/resource/Israeli_settlement
+defenseless - http://dbpedia.org/resource/Defenseless
+garrison - http://dbpedia.org/resource/Garrison
+soldier - http://dbpedia.org/resource/Soldier
+garrison - http://dbpedia.org/resource/Garrison
+paralyzed - http://dbpedia.org/resource/Paralysis
+powerless - http://dbpedia.org/resource/Powerless_(TV_series)
+officer - http://dbpedia.org/resource/Police_officer
+law - http://dbpedia.org/resource/Common_law
+defiance - http://dbpedia.org/resource/Defiance_(TV_series)
+trespass - http://dbpedia.org/resource/Trespass
+deprecate - http://dbpedia.org/resource/Deprecation
+william wharton - http://dbpedia.org/resource/William_H._Wharton
+luke - http://dbpedia.org/resource/Gospel_of_Luke
+jonas - http://dbpedia.org/resource/Jonas_(TV_series)
+harrison george - http://dbpedia.org/resource/Harrison_George
+george sutherland - http://dbpedia.org/resource/George_Sutherland
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+bexar - http://dbpedia.org/resource/San_Antonio
+bexar - http://dbpedia.org/resource/San_Antonio
+alcalde - http://dbpedia.org/resource/Alcalde
+municipality - http://dbpedia.org/resource/Municipality
+texas - http://dbpedia.org/resource/Texas
+town - http://dbpedia.org/resource/Town
+object - http://dbpedia.org/resource/Physical_object
+texas - http://dbpedia.org/resource/Texas
+deliberation - http://dbpedia.org/resource/Deliberation
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+law - http://dbpedia.org/resource/Common_law
+texas - http://dbpedia.org/resource/Texas
+singly - http://dbpedia.org/resource/Singly
+coahuila - http://dbpedia.org/resource/Coahuila
+maritime - http://dbpedia.org/resource/Admiralty_law
+tariff - http://dbpedia.org/resource/Tariff
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+law - http://dbpedia.org/resource/Common_law
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+immigration - http://dbpedia.org/resource/Immigration
+settlement - http://dbpedia.org/resource/Israeli_settlement
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+sabine river - http://dbpedia.org/resource/Sabine_River_(Texas–Louisiana)
+ayuntamientos - http://dbpedia.org/resource/Cabildo_(council)
+texas - http://dbpedia.org/resource/Texas
+language - http://dbpedia.org/resource/Latin
+militia - http://dbpedia.org/resource/Militia
+committee - http://dbpedia.org/resource/Committee
+town - http://dbpedia.org/resource/Town
+committee - http://dbpedia.org/resource/Committee
+committee - http://dbpedia.org/resource/Committee
+committee - http://dbpedia.org/resource/Committee
+emergency general meeting - http://dbpedia.org/resource/Extraordinary_general_meeting
+texas - http://dbpedia.org/resource/Texas
+committee - http://dbpedia.org/resource/Committee
+bexar - http://dbpedia.org/resource/San_Antonio
+forego - http://dbpedia.org/resource/Forego
+object - http://dbpedia.org/resource/Physical_object
+saltillo - http://dbpedia.org/resource/Saltillo
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+urge - http://dbpedia.org/resource/Urge_(digital_music_service)
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+bexar - http://dbpedia.org/resource/San_Antonio
+goliad - http://dbpedia.org/resource/Goliad_massacre
+town - http://dbpedia.org/resource/Town
+confide - http://dbpedia.org/resource/Confide
+goliad - http://dbpedia.org/resource/Goliad_massacre
+committee - http://dbpedia.org/resource/Committee
+goliad - http://dbpedia.org/resource/Goliad_massacre
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+rafael manchola - http://dbpedia.org/resource/Rafael_Manchola
+committee - http://dbpedia.org/resource/Committee
+goliad - http://dbpedia.org/resource/Goliad_massacre
+concurrence - http://dbpedia.org/resource/Concurring_opinion
+committee - http://dbpedia.org/resource/Committee
+committee - http://dbpedia.org/resource/Committee
+dollar - http://dbpedia.org/resource/United_States_dollar
+dollar - http://dbpedia.org/resource/United_States_dollar
+bexar - http://dbpedia.org/resource/San_Antonio
+committee - http://dbpedia.org/resource/Committee
+city - http://dbpedia.org/resource/City
+committee - http://dbpedia.org/resource/Committee
+town - http://dbpedia.org/resource/Town
+rafael manchola - http://dbpedia.org/resource/Rafael_Manchola
+saltillo - http://dbpedia.org/resource/Saltillo
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+committee - http://dbpedia.org/resource/Committee
+town - http://dbpedia.org/resource/Town
+committee - http://dbpedia.org/resource/Committee
+city - http://dbpedia.org/resource/City
+committee - http://dbpedia.org/resource/Committee
+city - http://dbpedia.org/resource/City
+god - http://dbpedia.org/resource/God
+texas - http://dbpedia.org/resource/Texas
+miller - http://dbpedia.org/resource/Gristmill
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+memorial - http://dbpedia.org/resource/Memorial
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+bexar - http://dbpedia.org/resource/San_Antonio
+fear - http://dbpedia.org/resource/Fear
+object - http://dbpedia.org/resource/Physical_object
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+bexar - http://dbpedia.org/resource/San_Antonio
+alcalde - http://dbpedia.org/resource/Alcalde
+angel - http://dbpedia.org/resource/Angel
+utility - http://dbpedia.org/resource/Utility
+municipality - http://dbpedia.org/resource/Municipality
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+henry brown - http://dbpedia.org/resource/Henry_Billings_Brown
+claiborne - http://dbpedia.org/resource/William_C._C._Claiborne
+stinnett - http://dbpedia.org/resource/Stinnett,_Texas
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+alcalde - http://dbpedia.org/resource/Alcalde
+committee - http://dbpedia.org/resource/Committee
+francis - http://dbpedia.org/resource/Pope_Francis
+miller - http://dbpedia.org/resource/Gristmill
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+rafael manchola - http://dbpedia.org/resource/Rafael_Manchola
+saltillo - http://dbpedia.org/resource/Saltillo
+mexico city - http://dbpedia.org/resource/Mexico_City
+memorial - http://dbpedia.org/resource/Memorial
+texans - http://dbpedia.org/resource/Texas
+politico - http://dbpedia.org/resource/Politics
+garza - http://dbpedia.org/resource/Matt_Garza
+san antonio - http://dbpedia.org/resource/San_Antonio
+bexar - http://dbpedia.org/resource/San_Antonio
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+colonization - http://dbpedia.org/resource/Colonialism
+liberal - http://dbpedia.org/resource/Liberalism
+texas - http://dbpedia.org/resource/Texas
+patriot - http://dbpedia.org/resource/Patriotism
+evil - http://dbpedia.org/resource/Evil
+peace - http://dbpedia.org/resource/Peace
+texans - http://dbpedia.org/resource/Texas
+governor - http://dbpedia.org/resource/Governor
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+garza - http://dbpedia.org/resource/Matt_Garza
+texas - http://dbpedia.org/resource/Texas
+peculiar situation - http://dbpedia.org/resource/Peculiar_Situation
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+insurrection - http://dbpedia.org/resource/Rebellion
+settlement - http://dbpedia.org/resource/Israeli_settlement
+colorado - http://dbpedia.org/resource/Colorado
+sabine - http://dbpedia.org/resource/Sabines
+rational argument - http://dbpedia.org/resource/Reason
+citizenship - http://dbpedia.org/resource/Citizenship
+nov - http://dbpedia.org/resource/NOV_(gene)
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+enclosure - http://dbpedia.org/resource/Enclosure
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+ramon musquiz - http://dbpedia.org/resource/Ramón_Músquiz
+bexar - http://dbpedia.org/resource/San_Antonio
+garza - http://dbpedia.org/resource/Matt_Garza
+politico - http://dbpedia.org/resource/Politics
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+john henry brown - http://dbpedia.org/resource/John_Henry_Brown
+texas - http://dbpedia.org/resource/Texas
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+law - http://dbpedia.org/resource/Common_law
+wisdom - http://dbpedia.org/resource/Wisdom
+sovereign - http://dbpedia.org/resource/Sovereign_state
+nullity - http://dbpedia.org/resource/Declaration_of_nullity
+committee - http://dbpedia.org/resource/Committee
+col - http://dbpedia.org/resource/Mountain_pass
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+president - http://dbpedia.org/resource/President_of_the_United_States
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+nov - http://dbpedia.org/resource/NOV_(gene)
+revolutionary - http://dbpedia.org/resource/American_Revolution
+conscience - http://dbpedia.org/resource/Conscience
+law - http://dbpedia.org/resource/Common_law
+polar star - http://dbpedia.org/resource/Pole_star
+texas - http://dbpedia.org/resource/Texas
+anterior - http://dbpedia.org/resource/Anatomical_terms_of_location
+communication - http://dbpedia.org/resource/Communication
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+revolutionary - http://dbpedia.org/resource/American_Revolution
+colonel - http://dbpedia.org/resource/Colonel
+prudence - http://dbpedia.org/resource/Wisdom
+evil - http://dbpedia.org/resource/Evil
+mantle - http://dbpedia.org/resource/Bird
+communication - http://dbpedia.org/resource/Communication
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+probability - http://dbpedia.org/resource/Probability
+stable - http://dbpedia.org/resource/Stable
+texas - http://dbpedia.org/resource/Texas
+welfare - http://dbpedia.org/resource/Welfare
+incline - http://dbpedia.org/resource/Slope
+chief magistrate - http://dbpedia.org/resource/Chief_magistrate
+texas - http://dbpedia.org/resource/Texas
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+confederation - http://dbpedia.org/resource/Confederate_States_of_America
+assemble peaceably - http://dbpedia.org/resource/Freedom_of_assembly
+texas - http://dbpedia.org/resource/Texas
+fear - http://dbpedia.org/resource/Fear
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+texas - http://dbpedia.org/resource/Texas
+glad - http://dbpedia.org/resource/The_Glad_Products_Company
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+presidential election - http://dbpedia.org/resource/2016_United_States_presidential_election
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+settlement - http://dbpedia.org/resource/Israeli_settlement
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+saltillo - http://dbpedia.org/resource/Saltillo
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+memorial - http://dbpedia.org/resource/Memorial
+colonist - http://dbpedia.org/resource/Colonialism
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+memorial - http://dbpedia.org/resource/Memorial
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+president - http://dbpedia.org/resource/President_of_the_United_States
+thomas hastings - http://dbpedia.org/resource/Thomas_Hastings_(architect)
+texas - http://dbpedia.org/resource/Texas
+decree - http://dbpedia.org/resource/Papal_bull
+tariff - http://dbpedia.org/resource/Tariff
+relief - http://dbpedia.org/resource/Welfare
+independent - http://dbpedia.org/resource/Independence
+statehood - http://dbpedia.org/resource/Sovereign_state
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+draft - http://dbpedia.org/resource/Conscription
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+republic - http://dbpedia.org/resource/Republic
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+petition - http://dbpedia.org/resource/Prayer
+independent - http://dbpedia.org/resource/Independence
+statehood - http://dbpedia.org/resource/Sovereign_state
+draft - http://dbpedia.org/resource/Conscription
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+archer - http://dbpedia.org/resource/Bow_and_arrow
+columbia - http://dbpedia.org/resource/Cuban_rumba
+austin austin - http://dbpedia.org/resource/Austin_Austin
+francis - http://dbpedia.org/resource/Pope_Francis
+bingham - http://dbpedia.org/resource/Bingham_McCutchen
+charles baird - http://dbpedia.org/resource/Charles_A._Baird
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+gail borden - http://dbpedia.org/resource/Gail_Borden
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+bradley - http://dbpedia.org/resource/Omar_Bradley
+henry - http://dbpedia.org/resource/Henry_(unit)
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+edward burleson - http://dbpedia.org/resource/Edward_Burleson
+mina - http://dbpedia.org/resource/Mina_(unit)
+jesse - http://dbpedia.org/resource/Jesse_Pinkman
+burnham - http://dbpedia.org/resource/Frederick_Russell_Burnham
+david - http://dbpedia.org/resource/David
+liberty - http://dbpedia.org/resource/Liberty
+george butler - http://dbpedia.org/resource/George_Ide_Butler
+joseph bell - http://dbpedia.org/resource/Joseph_Bell
+washington - http://dbpedia.org/resource/George_Washington
+nestor - http://dbpedia.org/resource/Nestor_the_Chronicler
+clay - http://dbpedia.org/resource/Clay
+san patricio - http://dbpedia.org/resource/Saint_Patrick
+washington - http://dbpedia.org/resource/George_Washington
+george - http://dbpedia.org/resource/George_(band)
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+de witt - http://dbpedia.org/resource/Johan_de_Witt
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+silas - http://dbpedia.org/resource/Silas
+thomas - http://dbpedia.org/resource/THOMAS
+duke - http://dbpedia.org/resource/Duke
+matagorda - http://dbpedia.org/resource/Matagorda_Bay
+john english - http://dbpedia.org/resource/John_English_(director)
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+farmer - http://dbpedia.org/resource/Farmer
+mina - http://dbpedia.org/resource/Mina_(unit)
+thomas - http://dbpedia.org/resource/THOMAS
+mina - http://dbpedia.org/resource/Mina_(unit)
+garrett - http://dbpedia.org/resource/Garrett_AiResearch
+jesse grimes - http://dbpedia.org/resource/Jesse_Grimes
+washington - http://dbpedia.org/resource/George_Washington
+jared - http://dbpedia.org/resource/Jared_Leto
+viesca - http://dbpedia.org/resource/Viesca
+viesca - http://dbpedia.org/resource/Viesca
+wyatt - http://dbpedia.org/resource/Wyatt_Earp
+augustine - http://dbpedia.org/resource/Augustine_of_Hippo
+william hardin - http://dbpedia.org/resource/William_Hardin
+liberty - http://dbpedia.org/resource/Liberty
+thomas hastings - http://dbpedia.org/resource/Thomas_Hastings_(architect)
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+jonas - http://dbpedia.org/resource/Jonas_(TV_series)
+harrison - http://dbpedia.org/resource/William_Henry_Harrison
+absalom - http://dbpedia.org/resource/Absalom
+francis - http://dbpedia.org/resource/Pope_Francis
+holland - http://dbpedia.org/resource/Holland
+washington - http://dbpedia.org/resource/George_Washington
+benjamin holt - http://dbpedia.org/resource/Benjamin_Holt
+houston - http://dbpedia.org/resource/Houston
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+ira ingram - http://dbpedia.org/resource/Ira_Ingram
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+jack - http://dbpedia.org/resource/Jackfruit
+liberty - http://dbpedia.org/resource/Liberty
+achilles - http://dbpedia.org/resource/Achilles
+bayou - http://dbpedia.org/resource/Bayou
+jone - http://dbpedia.org/resource/Jone_(opera)
+james kerr - http://dbpedia.org/resource/James_Kerr_(Texas)
+luke - http://dbpedia.org/resource/Gospel_of_Luke
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+ira - http://dbpedia.org/resource/Irish_Republican_Army
+eli - http://dbpedia.org/resource/List_of_Heroes_characters
+mercer - http://dbpedia.org/resource/Worshipful_Company_of_Mercers
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+joseph - http://dbpedia.org/resource/Joseph_Smith
+coy - http://dbpedia.org/resource/NBA_Coach_of_the_Year_Award
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+eli - http://dbpedia.org/resource/List_of_Heroes_characters
+mercer - http://dbpedia.org/resource/Worshipful_Company_of_Mercers
+mina - http://dbpedia.org/resource/Mina_(unit)
+miller - http://dbpedia.org/resource/Gristmill
+mina - http://dbpedia.org/resource/Mina_(unit)
+robert mills - http://dbpedia.org/resource/Wonderbound
+james morgan - http://dbpedia.org/resource/Juliette_Pochin
+viesca - http://dbpedia.org/resource/Viesca
+andrew - http://dbpedia.org/resource/Telephone_exchange_names
+rabb - http://dbpedia.org/resource/Rabb
+mina - http://dbpedia.org/resource/Mina_(unit)
+elisha - http://dbpedia.org/resource/Elisha
+bayou - http://dbpedia.org/resource/Bayou
+william robinson - http://dbpedia.org/resource/Smokey_Robinson
+viesca - http://dbpedia.org/resource/Viesca
+matagorda - http://dbpedia.org/resource/Matagorda_Bay
+thomas - http://dbpedia.org/resource/THOMAS
+saul - http://dbpedia.org/resource/Paul_the_Apostle
+washington - http://dbpedia.org/resource/George_Washington
+william shaw - http://dbpedia.org/resource/William_Shaw_(Irish_politician)
+harrisburg - http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Harrisburg
+sims - http://dbpedia.org/resource/Secondary_ion_mass_spectrometry
+mina - http://dbpedia.org/resource/Mina_(unit)
+mina - http://dbpedia.org/resource/Mina_(unit)
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+claiborne - http://dbpedia.org/resource/William_C._C._Claiborne
+stinnett - http://dbpedia.org/resource/Stinnett,_Texas
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+bayou - http://dbpedia.org/resource/Bayou
+george sutherland - http://dbpedia.org/resource/George_Sutherland
+mina - http://dbpedia.org/resource/Mina_(unit)
+charles - http://dbpedia.org/resource/Charles_II_of_England
+alexander thompson - http://dbpedia.org/resource/Alexander_M._Thompson
+charlton - http://dbpedia.org/resource/Charlton_Athletic_F.C.
+thompson - http://dbpedia.org/resource/Thompson_River
+matagorda - http://dbpedia.org/resource/Matagorda_Bay
+thorn - http://dbpedia.org/resource/Crataegus_monogyna
+claiborne - http://dbpedia.org/resource/William_C._C._Claiborne
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+whiting - http://dbpedia.org/resource/Chalk
+liberty - http://dbpedia.org/resource/Liberty
+matagorda - http://dbpedia.org/resource/Matagorda_Bay
+washington - http://dbpedia.org/resource/George_Washington
+charles - http://dbpedia.org/resource/Charles_II_of_England
+matagorda - http://dbpedia.org/resource/Matagorda_Bay
+jesse - http://dbpedia.org/resource/Jesse_Pinkman
+woodbury - http://dbpedia.org/resource/Woodbury,_New_Jersey
+liberty - http://dbpedia.org/resource/Liberty
+harrisburg - http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Harrisburg
+dewitt - http://dbpedia.org/resource/Bryce_DeWitt
+colonist - http://dbpedia.org/resource/Colonialism
+committee - http://dbpedia.org/resource/Committee
+prepare - http://dbpedia.org/resource/PREPARE
+memorial - http://dbpedia.org/resource/Memorial
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+texas - http://dbpedia.org/resource/Texas
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+decree - http://dbpedia.org/resource/Papal_bull
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+immigration - http://dbpedia.org/resource/Immigration
+texas - http://dbpedia.org/resource/Texas
+tariff - http://dbpedia.org/resource/Tariff
+law - http://dbpedia.org/resource/Common_law
+immigration - http://dbpedia.org/resource/Immigration
+agriculture - http://dbpedia.org/resource/Agriculture
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+draft - http://dbpedia.org/resource/Conscription
+committee - http://dbpedia.org/resource/Committee
+houston - http://dbpedia.org/resource/Houston
+nestor - http://dbpedia.org/resource/Nestor_the_Chronicler
+clay - http://dbpedia.org/resource/Clay
+james kerr - http://dbpedia.org/resource/James_Kerr_(Texas)
+oliver jones - http://dbpedia.org/resource/Oliver_Jones_(pianist)
+luke - http://dbpedia.org/resource/Gospel_of_Luke
+henry smith - http://dbpedia.org/resource/Henry_Smith_(Texas_governor)
+houston - http://dbpedia.org/resource/Houston
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+jacksonian - http://dbpedia.org/resource/Andrew_Jackson
+radical - http://dbpedia.org/resource/Political_radicalism
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+houston - http://dbpedia.org/resource/Houston
+banking institution - http://dbpedia.org/resource/Financial_institution
+david - http://dbpedia.org/resource/David
+houston - http://dbpedia.org/resource/Houston
+texas - http://dbpedia.org/resource/Texas
+memorial - http://dbpedia.org/resource/Memorial
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+statehood - http://dbpedia.org/resource/Sovereign_state
+petition - http://dbpedia.org/resource/Prayer
+independent - http://dbpedia.org/resource/Independence
+statehood - http://dbpedia.org/resource/Sovereign_state
+decree - http://dbpedia.org/resource/Papal_bull
+texas - http://dbpedia.org/resource/Texas
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+dependence - http://dbpedia.org/resource/Correlation_and_dependence
+coahuila - http://dbpedia.org/resource/Coahuila
+david - http://dbpedia.org/resource/David
+texas - http://dbpedia.org/resource/Texas
+treatise - http://dbpedia.org/resource/Discourse
+republic - http://dbpedia.org/resource/Republic
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+sovereign - http://dbpedia.org/resource/Sovereign_state
+republic - http://dbpedia.org/resource/Republic
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+texas - http://dbpedia.org/resource/Texas
+town - http://dbpedia.org/resource/Town
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+texas - http://dbpedia.org/resource/Texas
+coahuila - http://dbpedia.org/resource/Coahuila
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+mexican republic - http://dbpedia.org/resource/First_Mexican_Republic
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+texas - http://dbpedia.org/resource/Texas
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+soil - http://dbpedia.org/resource/Soil
+climate - http://dbpedia.org/resource/Global_warming
+law - http://dbpedia.org/resource/Common_law
+texas - http://dbpedia.org/resource/Texas
+law - http://dbpedia.org/resource/Common_law
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+law - http://dbpedia.org/resource/Common_law
+native mexicans - http://dbpedia.org/resource/Indigenous_peoples_of_Mexico
+retail - http://dbpedia.org/resource/Retail
+colonist - http://dbpedia.org/resource/Colonialism
+naturalize - http://dbpedia.org/resource/Naturalization
+security - http://dbpedia.org/resource/National_security
+settlement - http://dbpedia.org/resource/Israeli_settlement
+aborigines - http://dbpedia.org/resource/Indigenous_peoples
+republic - http://dbpedia.org/resource/Republic
+texas - http://dbpedia.org/resource/Texas
+aborigine - http://dbpedia.org/resource/Aboriginal_Australians
+flood - http://dbpedia.org/resource/Flood
+texas - http://dbpedia.org/resource/Texas
+emigrant - http://dbpedia.org/resource/Emigration
+texas - http://dbpedia.org/resource/Texas
+coahuila - http://dbpedia.org/resource/Coahuila
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+coahuila - http://dbpedia.org/resource/Coahuila
+defense - http://dbpedia.org/resource/Military
+energy - http://dbpedia.org/resource/Energy
+texas - http://dbpedia.org/resource/Texas
+calamity - http://dbpedia.org/resource/Disaster
+unshackled - http://dbpedia.org/resource/Unshackled!
+independent - http://dbpedia.org/resource/Independence
+texas - http://dbpedia.org/resource/Texas
+texas - http://dbpedia.org/resource/Texas
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+paper - http://dbpedia.org/resource/Paper
+shawnees - http://dbpedia.org/resource/Shawnee
+tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+incline - http://dbpedia.org/resource/Slope
+oppression - http://dbpedia.org/resource/Oppression
+tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+concession - http://dbpedia.org/resource/Contract
+military officer - http://dbpedia.org/resource/Burkina_Faso_Armed_Forces
+deception - http://dbpedia.org/resource/Deception
+conciliation - http://dbpedia.org/resource/Conciliation
+oppression - http://dbpedia.org/resource/Oppression
+extirpation - http://dbpedia.org/resource/Local_extinction
+native mexican - http://dbpedia.org/resource/Indigenous_peoples_of_Mexico
+cherokee - http://dbpedia.org/resource/Cherokee
+confide - http://dbpedia.org/resource/Confide
+texas - http://dbpedia.org/resource/Texas
+actuate - http://dbpedia.org/resource/Actuate_Corporation
+spirit - http://dbpedia.org/resource/Soul
+oppressor - http://dbpedia.org/resource/Oppressor
+misrepresentation - http://dbpedia.org/resource/Misrepresentation
+truth - http://dbpedia.org/resource/Truth
+bark - http://dbpedia.org/resource/Barque
+destine - http://dbpedia.org/resource/Destine
+friendly - http://dbpedia.org/resource/Friendship
+sail - http://dbpedia.org/resource/Sail
+propel - http://dbpedia.org/resource/Steroid_eluting_sinus_stent
+impunity - http://dbpedia.org/resource/Impunity
+permanence - http://dbpedia.org/resource/Permanence_(album)
+confederacy - http://dbpedia.org/resource/Federalism
+independent - http://dbpedia.org/resource/Independence
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+decree - http://dbpedia.org/resource/Papal_bull
+texas - http://dbpedia.org/resource/Texas
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+texas - http://dbpedia.org/resource/Texas
+petition - http://dbpedia.org/resource/Prayer
+texas - http://dbpedia.org/resource/Texas
+attachment - http://dbpedia.org/resource/Attachment_theory
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+republic - http://dbpedia.org/resource/Republic
+life support - http://dbpedia.org/resource/Life_support
+tariff - http://dbpedia.org/resource/Tariff
+relief - http://dbpedia.org/resource/Welfare
+texas - http://dbpedia.org/resource/Texas
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+texas - http://dbpedia.org/resource/Texas
+prohibition - http://dbpedia.org/resource/Prohibition
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+tariff - http://dbpedia.org/resource/Tariff
+settler - http://dbpedia.org/resource/Settler
+texas - http://dbpedia.org/resource/Texas
+arid - http://dbpedia.org/resource/Desert
+republic - http://dbpedia.org/resource/Republic
+farmer - http://dbpedia.org/resource/Farmer
+manufacturing - http://dbpedia.org/resource/Manufacturing
+texas - http://dbpedia.org/resource/Texas
+petition - http://dbpedia.org/resource/Prayer
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+texas - http://dbpedia.org/resource/Texas
+iron - http://dbpedia.org/resource/Iron
+steel - http://dbpedia.org/resource/Steel
+farming - http://dbpedia.org/resource/Farmer
+mechanic arts - http://dbpedia.org/resource/Artes_Mechanicae
+hardware - http://dbpedia.org/resource/Computer_hardware
+hollowware - http://dbpedia.org/resource/Holloware
+nails - http://dbpedia.org/resource/Onychomycosis
+cotton - http://dbpedia.org/resource/Cotton
+rope - http://dbpedia.org/resource/Rope
+cotton - http://dbpedia.org/resource/Cotton
+goods - http://dbpedia.org/resource/Goods
+clothing - http://dbpedia.org/resource/Inuit
+furniture - http://dbpedia.org/resource/Furniture
+tobacco - http://dbpedia.org/resource/Tobacco
+powder - http://dbpedia.org/resource/Gunpowder
+lead shot - http://dbpedia.org/resource/Shot_(pellet)
+stationery - http://dbpedia.org/resource/Stationery
+forego - http://dbpedia.org/resource/Forego
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+import - http://dbpedia.org/resource/Import
+texas - http://dbpedia.org/resource/Texas
+prohibition - http://dbpedia.org/resource/Prohibition
+texas - http://dbpedia.org/resource/Texas
+liberal policy - http://dbpedia.org/resource/Liberal_Period_(Dutch_East_Indies)
+yield - http://dbpedia.org/resource/Crop_yield
+revenue - http://dbpedia.org/resource/Tax
+miller - http://dbpedia.org/resource/Gristmill
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+politico - http://dbpedia.org/resource/Politics
+san antonio - http://dbpedia.org/resource/San_Antonio
+bexar - http://dbpedia.org/resource/San_Antonio
+deliberation - http://dbpedia.org/resource/Deliberation
+texas - http://dbpedia.org/resource/Texas
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+law - http://dbpedia.org/resource/Common_law
+independent - http://dbpedia.org/resource/Independence
+coahuila - http://dbpedia.org/resource/Coahuila
+petition - http://dbpedia.org/resource/Prayer
+texas - http://dbpedia.org/resource/Texas
+confederation - http://dbpedia.org/resource/Confederate_States_of_America
+petition - http://dbpedia.org/resource/Prayer
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+miller - http://dbpedia.org/resource/Gristmill
+law - http://dbpedia.org/resource/Common_law
+statehood - http://dbpedia.org/resource/Sovereign_state
+coahuila - http://dbpedia.org/resource/Coahuila
+texas - http://dbpedia.org/resource/Texas
+texas - http://dbpedia.org/resource/Texas
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+houston - http://dbpedia.org/resource/Houston
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+miller - http://dbpedia.org/resource/Gristmill
+erasmo seguin - http://dbpedia.org/resource/Erasmo_Seguín
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+mexico city - http://dbpedia.org/resource/Mexico_City
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+president - http://dbpedia.org/resource/President_of_the_United_States
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+republicans - http://dbpedia.org/resource/Republicanism
+1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
+centralist - http://dbpedia.org/resource/Centralized_government
+dictatorship - http://dbpedia.org/resource/Dictatorship
+president - http://dbpedia.org/resource/President_of_the_United_States
+gomez farias - http://dbpedia.org/resource/Gómez_Farías_Municipality,_Tamaulipas
+carlos garcia - http://dbpedia.org/resource/Carlos_P._Garcia
+colonist - http://dbpedia.org/resource/Colonialism
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+statehood - http://dbpedia.org/resource/Sovereign_state
+texas - http://dbpedia.org/resource/Texas
+coahuila - http://dbpedia.org/resource/Coahuila
+law - http://dbpedia.org/resource/Common_law
+immigration - http://dbpedia.org/resource/Immigration
+texas - http://dbpedia.org/resource/Texas
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+bexar - http://dbpedia.org/resource/San_Antonio
+urge - http://dbpedia.org/resource/Urge_(digital_music_service)
+petition - http://dbpedia.org/resource/Prayer
+texas government - http://dbpedia.org/resource/Government_of_Texas
+saltillo - http://dbpedia.org/resource/Saltillo
+texas - http://dbpedia.org/resource/Texas
+summer - http://dbpedia.org/resource/Summer
+texas - http://dbpedia.org/resource/Texas
+rebellion - http://dbpedia.org/resource/American_Revolution
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+brazoria - http://dbpedia.org/resource/Brazoria_National_Wildlife_Refuge
+prepare - http://dbpedia.org/resource/PREPARE
+mexico - http://dbpedia.org/resource/First_Mexican_Republic

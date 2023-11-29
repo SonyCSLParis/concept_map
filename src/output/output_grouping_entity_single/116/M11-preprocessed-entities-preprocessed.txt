@@ -1,0 +1,27 @@
+pierce - http://dbpedia.org/resource/Franklin_Pierce
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+tile - http://dbpedia.org/resource/Roof_tiles
+flue - http://dbpedia.org/resource/Flue
+technology - http://dbpedia.org/resource/Information_technology
+national policing improvement agency - http://dbpedia.org/resource/National_Policing_Improvement_Agency
+diagonal - http://dbpedia.org/resource/Diagonal
+balustrade - http://dbpedia.org/resource/Baluster
+harringworth - http://dbpedia.org/resource/Harringworth
+police - http://dbpedia.org/resource/Police
+crime analysis - http://dbpedia.org/resource/Crime_analysis
+policing - http://dbpedia.org/resource/Police
+gable - http://dbpedia.org/resource/Gable
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+stone - http://dbpedia.org/resource/Sandstone
+elevation - http://dbpedia.org/resource/Architectural_drawing
+brick - http://dbpedia.org/resource/Brickwork
+single - http://dbpedia.org/resource/Phonograph_record
+porch - http://dbpedia.org/resource/Porch
+chimney stack - http://dbpedia.org/resource/Chimney
+jacobean style - http://dbpedia.org/resource/Jacobean_architecture
+parapet - http://dbpedia.org/resource/Parapet
+wing - http://dbpedia.org/resource/Wing
+train - http://dbpedia.org/resource/Train_station
+court - http://dbpedia.org/resource/Courtyard
+east wing - http://dbpedia.org/resource/East_Wing
+edward lord - http://dbpedia.org/resource/Edward_Lord

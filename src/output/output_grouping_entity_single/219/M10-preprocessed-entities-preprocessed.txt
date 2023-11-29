@@ -1,0 +1,79 @@
+manchester - http://dbpedia.org/resource/University_of_Manchester
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+britain - http://dbpedia.org/resource/United_Kingdom
+heart - http://dbpedia.org/resource/Heart
+nazis - http://dbpedia.org/resource/Nazism
+memorandum - http://dbpedia.org/resource/Memorandum
+uranium 235 - http://dbpedia.org/resource/Uranium-235
+royal shakespeare company - http://dbpedia.org/resource/Royal_Shakespeare_Company
+haste - http://dbpedia.org/resource/Haste_(Han)_station
+historian - http://dbpedia.org/resource/History_of_science
+harbour - http://dbpedia.org/resource/Harbor
+apprenticeship - http://dbpedia.org/resource/Apprenticeship
+cyclotron - http://dbpedia.org/resource/Cyclotron
+lord nuffield - http://dbpedia.org/resource/William_Morris,_1st_Viscount_Nuffield
+bird - http://dbpedia.org/resource/Bird
+swan - http://dbpedia.org/resource/Swan
+edgbaston - http://dbpedia.org/resource/Edgbaston
+prophet - http://dbpedia.org/resource/Prophet
+nuclear bomb - http://dbpedia.org/resource/Nuclear_weapon
+stratford - http://dbpedia.org/resource/Stratford-upon-Avon
+peter douglas - http://dbpedia.org/resource/Peter_Douglas
+nazi - http://dbpedia.org/resource/Nazism
+niels bohr - http://dbpedia.org/resource/Niels_Bohr
+industrial - http://dbpedia.org/resource/Industrial_Revolution
+birmingham city - http://dbpedia.org/resource/Birmingham
+energy release - http://dbpedia.org/resource/Energy_release_rate_(fracture_mechanics)
+refugee - http://dbpedia.org/resource/Refugee
+set free - http://dbpedia.org/resource/Set_Free_(film)
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+scientist - http://dbpedia.org/resource/Scientist
+oliphant - http://dbpedia.org/resource/Olifant_(instrument)
+tide - http://dbpedia.org/resource/Tidal_force
+denmark - http://dbpedia.org/resource/Denmark
+einstein - http://dbpedia.org/resource/Albert_Einstein
+mathematic - http://dbpedia.org/resource/Mathematics
+professor - http://dbpedia.org/resource/Professor
+agency - http://dbpedia.org/resource/Institution
+quantum - http://dbpedia.org/resource/Quantum_mechanics
+british people - http://dbpedia.org/resource/United_Kingdom
+kilo - http://dbpedia.org/resource/Kilogram
+smith - http://dbpedia.org/resource/Metalsmith
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+colossal - http://dbpedia.org/resource/Colossal_(film)
+churchill - http://dbpedia.org/resource/Winston_Churchill
+councillor - http://dbpedia.org/resource/Privy_council
+amateur - http://dbpedia.org/resource/Amateur_theatre
+atom smash - http://dbpedia.org/resource/Atom_Smash
+bear - http://dbpedia.org/resource/Teddy_bear
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+theory - http://dbpedia.org/resource/Theory
+stem - http://dbpedia.org/resource/Stem_cell
+great britain - http://dbpedia.org/resource/United_Kingdom
+nuclear power - http://dbpedia.org/resource/Nuclear_reactor
+physicist - http://dbpedia.org/resource/Physicist
+u235 - http://dbpedia.org/resource/Uranium-235
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+splitter - http://dbpedia.org/resource/Lumpers_and_splitters
+dark country - http://dbpedia.org/resource/Dark_Country
+science fiction - http://dbpedia.org/resource/Science_fiction
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+physics - http://dbpedia.org/resource/Physics
+nuclear - http://dbpedia.org/resource/Nuclear_physics
+ernest rutherford - http://dbpedia.org/resource/Ernest_Rutherford
+relativity - http://dbpedia.org/resource/Theory_of_relativity
+revolutionary - http://dbpedia.org/resource/Revolutionary
+sun - http://dbpedia.org/resource/Sun
+ton - http://dbpedia.org/resource/Tonne
+vulnerable - http://dbpedia.org/resource/Vulnerability
+stumble - http://dbpedia.org/resource/Stumble
+mark oliphant - http://dbpedia.org/resource/Mark_Oliphant
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+moreton - http://dbpedia.org/resource/Moreton_Bay
+temperature - http://dbpedia.org/resource/Temperature
+nobel prize - http://dbpedia.org/resource/Nobel_Prize
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+nuclear fission - http://dbpedia.org/resource/Nuclear_fission
+chain reaction - http://dbpedia.org/resource/Nuclear_fission
+weapon - http://dbpedia.org/resource/Nuclear_weapon

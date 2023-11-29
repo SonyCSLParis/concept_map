@@ -1,0 +1,132 @@
+austria - http://dbpedia.org/resource/Austria
+nazi era - http://dbpedia.org/resource/Nazism
+detonation - http://dbpedia.org/resource/Nuclear_chain_reaction
+bubble chamber - http://dbpedia.org/resource/Bubble_chamber
+winter - http://dbpedia.org/resource/Winter
+royal society - http://dbpedia.org/resource/Royal_Society
+vienna - http://dbpedia.org/resource/University_of_Vienna
+tony - http://dbpedia.org/resource/Tony_Award
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+dose - http://dbpedia.org/resource/Ionizing_radiation
+bear - http://dbpedia.org/resource/Market_trend
+concert pianist - http://dbpedia.org/resource/Pianist
+criticality - http://dbpedia.org/resource/Critical_mass
+physical evidence - http://dbpedia.org/resource/Evidence
+blue plaque - http://dbpedia.org/resource/Blue_plaque
+memorandum - http://dbpedia.org/resource/Memorandum
+badge - http://dbpedia.org/resource/Badge
+lise meitner - http://dbpedia.org/resource/Lise_Meitner
+stack - http://dbpedia.org/resource/Chimney
+metal - http://dbpedia.org/resource/Metal
+laser scan - http://dbpedia.org/resource/Laser_scanning
+lady godiva assembly - http://dbpedia.org/resource/Godiva_device
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+love - http://dbpedia.org/resource/Love
+nuclear - http://dbpedia.org/resource/Atomic_nucleus
+radiation dose - http://dbpedia.org/resource/Ionizing_radiation
+germany - http://dbpedia.org/resource/Nazi_Germany
+frs - http://dbpedia.org/resource/Royal_Society
+birmingham university - http://dbpedia.org/resource/University_of_Birmingham
+atomic explosion - http://dbpedia.org/resource/Nuclear_explosion
+flicker - http://dbpedia.org/resource/Flicker_noise
+natural philosophy - http://dbpedia.org/resource/Natural_philosophy
+cambridge university - http://dbpedia.org/resource/University_of_Cambridge
+fallout - http://dbpedia.org/resource/Nuclear_fallout
+niels bohr - http://dbpedia.org/resource/Niels_Bohr
+justinian - http://dbpedia.org/resource/Justinian_I
+summer - http://dbpedia.org/resource/Summer
+dahlem - http://dbpedia.org/resource/Franz_Dahlem
+computer - http://dbpedia.org/resource/Computer_science
+cloud chamber - http://dbpedia.org/resource/Cloud_chamber
+energy release - http://dbpedia.org/resource/Energy_release_rate_(fracture_mechanics)
+stern - http://dbpedia.org/resource/Stern
+proton - http://dbpedia.org/resource/Proton
+energy - http://dbpedia.org/resource/Energy
+nationality - http://dbpedia.org/resource/Nationalism
+berlin - http://dbpedia.org/resource/Humboldt_University_of_Berlin
+laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+obituary - http://dbpedia.org/resource/Obituary
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+die - http://dbpedia.org/resource/Integrated_circuit
+scientist - http://dbpedia.org/resource/Scientist
+hydride - http://dbpedia.org/resource/Hydride
+patrick maynard stuart blackett - http://dbpedia.org/resource/Patrick_Blackett
+christmas holiday - http://dbpedia.org/resource/Christmas_Holiday
+otto hahn - http://dbpedia.org/resource/Otto_Hahn
+fission - http://dbpedia.org/resource/Nuclear_fission
+denmark - http://dbpedia.org/resource/Denmark
+otto stern - http://dbpedia.org/resource/Otto_Stern
+george placzek - http://dbpedia.org/resource/George_Placzek
+biographical - http://dbpedia.org/resource/Biography
+doi - http://dbpedia.org/resource/Digital_object_identifier
+george - http://dbpedia.org/resource/George_(band)
+british citizen - http://dbpedia.org/resource/British_people
+adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
+professor - http://dbpedia.org/resource/Professor
+radiation - http://dbpedia.org/resource/Radioactive_decay
+kaiser wilhelm institut - http://dbpedia.org/resource/Kaiser_Wilhelm_Society
+cambridge united - http://dbpedia.org/resource/Cambridge_United_F.C.
+nucleus - http://dbpedia.org/resource/Atomic_nucleus
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+harwell - http://dbpedia.org/resource/Atomic_Energy_Research_Establishment
+magnetic moment - http://dbpedia.org/resource/Magnetic_moment
+lamp - http://dbpedia.org/resource/Incandescent_light_bulb
+protons - http://dbpedia.org/resource/Proton
+atomic device - http://dbpedia.org/resource/Nuclear_weapon
+critical mass - http://dbpedia.org/resource/Critical_mass
+mass - http://dbpedia.org/resource/Neutrino
+neutron - http://dbpedia.org/resource/Neutron
+barium - http://dbpedia.org/resource/Barium
+nuclear reaction - http://dbpedia.org/resource/Nuclear_reaction
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+enriched uranium - http://dbpedia.org/resource/Enriched_uranium
+physicist - http://dbpedia.org/resource/Physicist
+runaway reaction - http://dbpedia.org/resource/Criticality_accident
+auguste - http://dbpedia.org/resource/Clown
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+culture - http://dbpedia.org/resource/Culture
+hamburg - http://dbpedia.org/resource/University_of_Hamburg
+sweepnik - http://dbpedia.org/resource/SWEEPNIK
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+v20 - http://dbpedia.org/resource/NEC_V20
+fritz strassmann - http://dbpedia.org/resource/Fritz_Strassmann
+copenhagen - http://dbpedia.org/resource/Copenhagen
+birkbeck college - http://dbpedia.org/resource/Birkbeck,_University_of_London
+rhodes - http://dbpedia.org/resource/Rhodes
+technology - http://dbpedia.org/resource/Nuclear_technology
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+explosive - http://dbpedia.org/resource/Explosion
+physics - http://dbpedia.org/resource/Physics
+news - http://dbpedia.org/resource/Journalism
+n11 - http://dbpedia.org/resource/N_postcode_area
+artificial radioactivity - http://dbpedia.org/resource/Induced_radioactivity
+coin - http://dbpedia.org/resource/Coin
+eye - http://dbpedia.org/resource/Human_eye
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+nuclei - http://dbpedia.org/resource/Atomic_nucleus
+recall - http://dbpedia.org/resource/Product_recall
+nuclear chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
+collision - http://dbpedia.org/resource/Collision
+irradiation - http://dbpedia.org/resource/Neutron_activation
+naturwissenschaften - http://dbpedia.org/resource/The_Science_of_Nature
+otto robert frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+painter - http://dbpedia.org/resource/Painting
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+earth metal - http://dbpedia.org/resource/Boron_group
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+33a - http://dbpedia.org/resource/33a
+stockholm - http://dbpedia.org/resource/Stockholm_University
+nobel prize - http://dbpedia.org/resource/Nobel_Prize
+kungälv - http://dbpedia.org/resource/Kungälv
+paper - http://dbpedia.org/resource/Academic_publishing
+experiment - http://dbpedia.org/resource/Experiment
+nuclear fission - http://dbpedia.org/resource/Nuclear_fission
+1939–40 - http://dbpedia.org/resource/162nd_New_York_State_Legislature
+cambridge - http://dbpedia.org/resource/University_of_Cambridge
+godiva device - http://dbpedia.org/resource/Godiva_device
+zeitschrift für physik - http://dbpedia.org/resource/European_Physical_Journal
+diffraction - http://dbpedia.org/resource/Neutron_diffraction
+laser - http://dbpedia.org/resource/Laser

@@ -1,0 +1,41 @@
+spit - http://dbpedia.org/resource/Shoal
+hindu - http://dbpedia.org/resource/Hindus
+wave - http://dbpedia.org/resource/Wave
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_Nations
+muslim - http://dbpedia.org/resource/Muslims
+british empire - http://dbpedia.org/resource/British_Empire
+colonial power - http://dbpedia.org/resource/British_Empire
+race - http://dbpedia.org/resource/Racing
+industrial - http://dbpedia.org/resource/Industrial_Revolution
+dominion - http://dbpedia.org/resource/Dominion
+queen - http://dbpedia.org/resource/Queen_regnant
+international language - http://dbpedia.org/resource/International_auxiliary_language
+network - http://dbpedia.org/resource/Social_network
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+netherlands - http://dbpedia.org/resource/Dutch_Republic
+commonwealth nation - http://dbpedia.org/resource/Commonwealth_of_Nations
+law - http://dbpedia.org/resource/English_law
+napoleon - http://dbpedia.org/resource/Napoleon
+sun - http://dbpedia.org/resource/Sun
+british government - http://dbpedia.org/resource/British_Empire
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+trading post - http://dbpedia.org/resource/French_colonization_of_the_Americas
+portuguese - http://dbpedia.org/resource/Portuguese_language
+american canadian - http://dbpedia.org/resource/American_Canadians
+independent - http://dbpedia.org/resource/Independence
+queen elizabeth ii - http://dbpedia.org/resource/Commonwealth_realm
+victorian - http://dbpedia.org/resource/Victorian_era
+overseas possession - http://dbpedia.org/resource/Stato_da_Màr
+settler - http://dbpedia.org/resource/Settler
+north america - http://dbpedia.org/resource/North_America
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+colony - http://dbpedia.org/resource/Crown_colony
+bankrupt - http://dbpedia.org/resource/Bankruptcy
+westward - http://dbpedia.org/resource/Westward_Television
+independence - http://dbpedia.org/resource/Independence
+britain - http://dbpedia.org/resource/British_Empire
+empire builder - http://dbpedia.org/resource/Empire_Builder
+thy - http://dbpedia.org/resource/Thy_(district)
+great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
+americas - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+british influence - http://dbpedia.org/resource/British_Influence
