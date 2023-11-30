@@ -9,7 +9,7 @@ nlp = spacy.load("en_core_web_lg")
 API_KEY_GPT = ""
 RND_SEED = 42
 
-ROOT_DIR = os.path.dirname(os.getcwd())
+ROOT_DIR = os.getcwd()
 SRC_DIR = os.path.join(ROOT_DIR + '/src')
 
 # DATA DIR

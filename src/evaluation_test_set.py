@@ -5,6 +5,22 @@ from nltk.tokenize import word_tokenize
 from nltk.translate.meteor_score import meteor_score
 from rouge_score import rouge_scorer
 
+class Metrics:
+    """ Metrics for evaluation """
+    def __init__(self):
+        self.meteor = meteor_score
+
+        self.rouge_metrics = ['rouge1', 'rouge2', 'rougeL']
+        self.rouge = rouge_scorer.RougeScorer(self.rouge_metrics, use_stemmer=True)
+    
+    def __call__(self, tokens, gt_tokens, text, gt_text):
+        m_score = self.meteor(tokens, gt_tokens)
+        r_scores = self.rouge.score(text, gt_text)
+
+        res = {m: r_scores[m].fmeasure for m in self.rouge_metrics}
+        res.update({"meteor": m_score})
+        return res
+
 
 def get_folder_name_of_txt_file(file_path):
     folder_name = os.path.dirname(file_path)
