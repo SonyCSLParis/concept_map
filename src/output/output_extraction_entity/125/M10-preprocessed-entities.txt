@@ -17,42 +17,39 @@ pierce - http://dbpedia.org/resource/Franklin_Pierce
 historic preservation - http://dbpedia.org/resource/Historic_preservation
 charles morris - http://dbpedia.org/resource/Charles_W._Morris
 smith - http://dbpedia.org/resource/Blacksmith
-culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+culture - http://dbpedia.org/resource/Culture
 historic preservation - http://dbpedia.org/resource/Historic_preservation
 erin - http://dbpedia.org/resource/Erin_Hannon
 conte - http://dbpedia.org/resource/Count
 motion - http://dbpedia.org/resource/Film
 motion - http://dbpedia.org/resource/Film
 arnett - http://dbpedia.org/resource/Peter_Arnett
-prepare - http://dbpedia.org/resource/PREPARE
+word records - http://dbpedia.org/resource/Word_Records
+appointments secretary - http://dbpedia.org/resource/Secretary_to_the_President_of_the_United_States
 conte - http://dbpedia.org/resource/Count
-bylaw - http://dbpedia.org/resource/By-law
+wished - http://dbpedia.org/resource/Wished_(film)
+bylaws - http://dbpedia.org/resource/By-law
 quorum - http://dbpedia.org/resource/Quorum
-majority voting - http://dbpedia.org/resource/Majority_rule
 quorum - http://dbpedia.org/resource/Quorum
 motion - http://dbpedia.org/resource/Film
 conte - http://dbpedia.org/resource/Count
 library - http://dbpedia.org/resource/Library
-alexander - http://dbpedia.org/resource/Alexander_I_of_Russia
+alexander - http://dbpedia.org/resource/Alexander_the_Great
 messer - http://dbpedia.org/resource/Messer_(weapon)
-digitize - http://dbpedia.org/resource/Digitization
+digitized - http://dbpedia.org/resource/Digitization
 article - http://dbpedia.org/resource/No_Gun_Ri_massacre
 charleston - http://dbpedia.org/resource/Hi-hat
-gazette - http://dbpedia.org/resource/Gazette
+gazette - http://dbpedia.org/resource/Government_gazette
 jefferson county - http://dbpedia.org/resource/Jefferson_County,_Kentucky
 circuit clerk - http://dbpedia.org/resource/Court_clerk
 norman - http://dbpedia.org/resource/Norman_architecture
-architectural drawing - http://dbpedia.org/resource/Architectural_drawing
-birth certificate - http://dbpedia.org/resource/Birth_certificate
-regional location - http://dbpedia.org/resource/Regions_of_France
+birth certificates - http://dbpedia.org/resource/Birth_certificate
 horace mann - http://dbpedia.org/resource/Horace_Mann
 golden horseshoe - http://dbpedia.org/resource/Golden_Horseshoe
 greenbrier - http://dbpedia.org/resource/Smilax
 historical society - http://dbpedia.org/resource/Historical_society
 constitution day - http://dbpedia.org/resource/1978_Spanish_constitutional_referendum
-yearbook - http://dbpedia.org/resource/Yearbook
 sesquicentennial - http://dbpedia.org/resource/Anniversary
-project inform - http://dbpedia.org/resource/Project_Inform
 doh - http://dbpedia.org/resource/Health_department
 sesquicentennial - http://dbpedia.org/resource/Anniversary
 civil war - http://dbpedia.org/resource/American_Civil_War
@@ -71,6 +68,7 @@ ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
 shpo - http://dbpedia.org/resource/State_historic_preservation_office
 local government - http://dbpedia.org/resource/Local_government
+printing - http://dbpedia.org/resource/Printing
 newsletter - http://dbpedia.org/resource/Newsletter
 calendar - http://dbpedia.org/resource/Calendar
 civil war - http://dbpedia.org/resource/American_Civil_War
@@ -79,18 +77,18 @@ draft - http://dbpedia.org/resource/Conscription_in_the_United_States
 moorefield - http://dbpedia.org/resource/Battle_of_Moorefield
 wastewater treatment facility - http://dbpedia.org/resource/Wastewater
 big creek high school - http://dbpedia.org/resource/Big_Creek_High_School
-courthouse - http://dbpedia.org/resource/Courthouse
+courthouses - http://dbpedia.org/resource/Courthouse
 courthouse - http://dbpedia.org/resource/Courthouse
 telephone - http://dbpedia.org/resource/Telephone
+conference call - http://dbpedia.org/resource/Conference_call
 calendar year - http://dbpedia.org/resource/Gregorian_calendar
 ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
 accrual - http://dbpedia.org/resource/Accrual
 courthouse - http://dbpedia.org/resource/Courthouse
 west virginia - http://dbpedia.org/resource/West_Virginia
-courthouse - http://dbpedia.org/resource/Courthouse
+courthouses - http://dbpedia.org/resource/Courthouse
 shpo - http://dbpedia.org/resource/State_historic_preservation_office
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
 committee - http://dbpedia.org/resource/Committee
@@ -103,10 +101,11 @@ ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
 charles morris - http://dbpedia.org/resource/Charles_W._Morris
 smith - http://dbpedia.org/resource/Blacksmith
-culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+culture - http://dbpedia.org/resource/Culture
 ms - http://dbpedia.org/resource/Millisecond
 monroe - http://dbpedia.org/resource/Greg_Monroe
 wood county - http://dbpedia.org/resource/Wood_County,_West_Virginia
+listed - http://dbpedia.org/resource/Listed_building
 conte - http://dbpedia.org/resource/Count
 edgefield - http://dbpedia.org/resource/Multnomah_County_Poor_Farm
 greenbrier county - http://dbpedia.org/resource/Greenbrier_County,_West_Virginia
@@ -121,13 +120,11 @@ hampshire county - http://dbpedia.org/resource/Hampshire
 architecture - http://dbpedia.org/resource/Architecture
 sandra - http://dbpedia.org/resource/List_of_Heroes_characters
 ms - http://dbpedia.org/resource/Millisecond
-foundation stone - http://dbpedia.org/resource/Cornerstone
 ms - http://dbpedia.org/resource/Millisecond
-stone - http://dbpedia.org/resource/Stonemasonry
 church - http://dbpedia.org/resource/Catholic_Church
 ms - http://dbpedia.org/resource/Millisecond
 deed - http://dbpedia.org/resource/Deed
-contributing building - http://dbpedia.org/resource/Contributing_property
+contributing buildings - http://dbpedia.org/resource/Contributing_property
 greco - http://dbpedia.org/resource/Greek_Revival_architecture
 arnett - http://dbpedia.org/resource/Peter_Arnett
 motion - http://dbpedia.org/resource/Film
@@ -140,6 +137,7 @@ hyatt - http://dbpedia.org/resource/Hyatt
 trustee - http://dbpedia.org/resource/Trustee
 caretaker - http://dbpedia.org/resource/Caregiver
 molding - http://dbpedia.org/resource/Injection_moulding
+altar - http://dbpedia.org/resource/Altar
 ms - http://dbpedia.org/resource/Millisecond
 hyatt - http://dbpedia.org/resource/Hyatt
 oral - http://dbpedia.org/resource/Oral_sex
@@ -188,7 +186,6 @@ cupola - http://dbpedia.org/resource/Cupola
 ms - http://dbpedia.org/resource/Millisecond
 ms - http://dbpedia.org/resource/Millisecond
 ms - http://dbpedia.org/resource/Millisecond
-grain - http://dbpedia.org/resource/Paper
 wood - http://dbpedia.org/resource/Lumber
 ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
@@ -212,6 +209,7 @@ arnett - http://dbpedia.org/resource/Peter_Arnett
 overgrown - http://dbpedia.org/resource/Overgrown
 ms - http://dbpedia.org/resource/Millisecond
 west virginia - http://dbpedia.org/resource/West_Virginia
+listed - http://dbpedia.org/resource/Listed_building
 arnett - http://dbpedia.org/resource/Peter_Arnett
 ms - http://dbpedia.org/resource/Millisecond
 motion - http://dbpedia.org/resource/Film
@@ -231,7 +229,6 @@ ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
 ohio - http://dbpedia.org/resource/Ohio
 shpo - http://dbpedia.org/resource/State_historic_preservation_office
-prepare - http://dbpedia.org/resource/PREPARE
 west virginia - http://dbpedia.org/resource/West_Virginia
 ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
@@ -243,13 +240,12 @@ west virginia - http://dbpedia.org/resource/West_Virginia
 shpo - http://dbpedia.org/resource/State_historic_preservation_office
 ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
+tabling - http://dbpedia.org/resource/Memoization
 ms - http://dbpedia.org/resource/Millisecond
 social history - http://dbpedia.org/resource/Social_history
 ms - http://dbpedia.org/resource/Millisecond
 social history - http://dbpedia.org/resource/Social_history
-monument - http://dbpedia.org/resource/Monument
 morgan - http://dbpedia.org/resource/Morgan_Grimes
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 ms - http://dbpedia.org/resource/Millisecond
 ms - http://dbpedia.org/resource/Millisecond
 pierce - http://dbpedia.org/resource/Franklin_Pierce
@@ -258,31 +254,23 @@ arnett - http://dbpedia.org/resource/Peter_Arnett
 greco - http://dbpedia.org/resource/Greek_Revival_architecture
 motion - http://dbpedia.org/resource/Film
 conte - http://dbpedia.org/resource/Count
-law - http://dbpedia.org/resource/Law
+revised version - http://dbpedia.org/resource/Revised_Version
 conte - http://dbpedia.org/resource/Count
-law - http://dbpedia.org/resource/Law
-law - http://dbpedia.org/resource/Law
 open meeting law - http://dbpedia.org/resource/Freedom_of_information_laws_by_country
-culture history - http://dbpedia.org/resource/Culture-historical_archaeology
-lawyer - http://dbpedia.org/resource/Lawyer
+culture - http://dbpedia.org/resource/Culture
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
 conte - http://dbpedia.org/resource/Count
 conte - http://dbpedia.org/resource/Count
-culture history - http://dbpedia.org/resource/Culture-historical_archaeology
-attorney general office - http://dbpedia.org/resource/Attorney_General_of_Mexico
+culture - http://dbpedia.org/resource/Culture
+attorney general - http://dbpedia.org/resource/United_States_Attorney_General
 quorum - http://dbpedia.org/resource/Quorum
-majority voting - http://dbpedia.org/resource/Majority_rule
 conte - http://dbpedia.org/resource/Count
-law - http://dbpedia.org/resource/Law
-majority voting - http://dbpedia.org/resource/Majority_rule
 telephone - http://dbpedia.org/resource/Telephone
-attorney general office - http://dbpedia.org/resource/Attorney_General_of_Mexico
-majority voting - http://dbpedia.org/resource/Majority_rule
+attorney general - http://dbpedia.org/resource/United_States_Attorney_General
 quorum - http://dbpedia.org/resource/Quorum
 arnett - http://dbpedia.org/resource/Peter_Arnett
 justification - http://dbpedia.org/resource/Defamation
-law - http://dbpedia.org/resource/Law
 motion - http://dbpedia.org/resource/Film
-law - http://dbpedia.org/resource/Law
 greco - http://dbpedia.org/resource/Greek_Revival_architecture
 motion - http://dbpedia.org/resource/Film
 ms - http://dbpedia.org/resource/Millisecond
@@ -296,5 +284,4 @@ arnett - http://dbpedia.org/resource/Peter_Arnett
 motion - http://dbpedia.org/resource/Film
 adjourn - http://dbpedia.org/resource/Adjournment
 conte - http://dbpedia.org/resource/Count
-adjourn - http://dbpedia.org/resource/Adjournment
 joseph - http://dbpedia.org/resource/Joseph_Smith

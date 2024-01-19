@@ -2,7 +2,6 @@ siege - http://dbpedia.org/resource/Siege
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 capital - http://dbpedia.org/resource/Capital_city
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-city - http://dbpedia.org/resource/City
 sultan mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
 mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
 ottoman turks - http://dbpedia.org/resource/Ottoman_Empire
@@ -13,29 +12,19 @@ siege - http://dbpedia.org/resource/Siege
 turks - http://dbpedia.org/resource/Ottoman_Empire
 city - http://dbpedia.org/resource/City
 cannon - http://dbpedia.org/resource/Cannon
-warship - http://dbpedia.org/resource/Warship
 city - http://dbpedia.org/resource/City
 defense - http://dbpedia.org/resource/Military
 city - http://dbpedia.org/resource/City
 artillery - http://dbpedia.org/resource/Artillery
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 anatolian turks - http://dbpedia.org/resource/Turkish_people
-uniform - http://dbpedia.org/resource/Military_uniform
-cannon - http://dbpedia.org/resource/Cannon
-blast wall - http://dbpedia.org/resource/Blast_wall
 city - http://dbpedia.org/resource/City
-trumpet - http://dbpedia.org/resource/Roman_tuba
-noise - http://dbpedia.org/resource/Noise
+trumpets - http://dbpedia.org/resource/Trumpet
 concentration - http://dbpedia.org/resource/Internment
 city - http://dbpedia.org/resource/City
-army attack - http://dbpedia.org/resource/Army_Attack
 janissaries - http://dbpedia.org/resource/Janissaries
-arrow missile - http://dbpedia.org/resource/Arrow_(Israeli_missile)
-bullet - http://dbpedia.org/resource/Musket
-stone - http://dbpedia.org/resource/Masonry
-javelin - http://dbpedia.org/resource/Javelin
+javelins - http://dbpedia.org/resource/Javelin
 stockade - http://dbpedia.org/resource/Stockade
-soldier - http://dbpedia.org/resource/Soldier
 turks - http://dbpedia.org/resource/Ottoman_Empire
 gate - http://dbpedia.org/resource/City_gate
 turkish army - http://dbpedia.org/resource/Military_of_the_Ottoman_Empire
@@ -46,10 +35,8 @@ golden horn - http://dbpedia.org/resource/Golden_Horn
 marmora - http://dbpedia.org/resource/Marmora,_Ontario
 siege - http://dbpedia.org/resource/Siege
 city - http://dbpedia.org/resource/City
-soldier - http://dbpedia.org/resource/Soldier
 signal - http://dbpedia.org/resource/Military_communications
-flood - http://dbpedia.org/resource/Flood
-loot - http://dbpedia.org/resource/Looting
+looting - http://dbpedia.org/resource/Looting
 city - http://dbpedia.org/resource/City
 city - http://dbpedia.org/resource/City
 turks - http://dbpedia.org/resource/Ottoman_Empire
@@ -57,16 +44,14 @@ mehmed - http://dbpedia.org/resource/Mehmed_the_Conqueror
 city - http://dbpedia.org/resource/City
 istanbul - http://dbpedia.org/resource/Istanbul
 city - http://dbpedia.org/resource/City
-mosque - http://dbpedia.org/resource/Mosque
-monument - http://dbpedia.org/resource/Monument
-aqueduct - http://dbpedia.org/resource/Roman_aqueduct
+mosques - http://dbpedia.org/resource/Mosque
+aqueducts - http://dbpedia.org/resource/Roman_aqueduct
 city - http://dbpedia.org/resource/City
 islam - http://dbpedia.org/resource/Islam
-greeks - http://dbpedia.org/resource/Ottoman_Greeks
-empire call - http://dbpedia.org/resource/SS_Ingénieur_Général_Haarbleicher
-milet - http://dbpedia.org/resource/Miletus
-religion - http://dbpedia.org/resource/Religion
+greeks - http://dbpedia.org/resource/Ancient_Greece
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
 bear - http://dbpedia.org/resource/Bear
+arms - http://dbpedia.org/resource/Weapon
 city - http://dbpedia.org/resource/City
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 judith - http://dbpedia.org/resource/Book_of_Judith

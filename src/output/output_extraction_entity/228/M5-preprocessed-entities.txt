@@ -31,19 +31,18 @@ mexico - http://dbpedia.org/resource/First_Mexican_Republic
 land grant - http://dbpedia.org/resource/Land_grant
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 austin - http://dbpedia.org/resource/Austin_Motor_Company
-settler - http://dbpedia.org/resource/Settler
 stephen austin - http://dbpedia.org/resource/Stephen_F._Austin
-settler - http://dbpedia.org/resource/Settler
+advertising - http://dbpedia.org/resource/Advertising
 frontier - http://dbpedia.org/resource/Frontier
-newspaper - http://dbpedia.org/resource/News_media
+cents - http://dbpedia.org/resource/United_States_dollar
 acre - http://dbpedia.org/resource/Acre
 austin - http://dbpedia.org/resource/Austin_Motor_Company
-crop - http://dbpedia.org/resource/Agriculture
+farming - http://dbpedia.org/resource/Farmer
 cotton - http://dbpedia.org/resource/Cotton
 sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
 corn - http://dbpedia.org/resource/Maize
-potato - http://dbpedia.org/resource/Potato
-fruit tree - http://dbpedia.org/resource/Fruit_tree
+potatoes - http://dbpedia.org/resource/Potato
+fruit - http://dbpedia.org/resource/Fruit
 missouri - http://dbpedia.org/resource/Missouri
 arkansas - http://dbpedia.org/resource/Arkansas
 kentucky - http://dbpedia.org/resource/Kentucky
@@ -52,10 +51,7 @@ illinois - http://dbpedia.org/resource/Illinois
 ohio - http://dbpedia.org/resource/Ohio_River
 texas - http://dbpedia.org/resource/Texas
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
-acre - http://dbpedia.org/resource/Acre
-head family - http://dbpedia.org/resource/Alec_Head
-acre - http://dbpedia.org/resource/Acre
-dollar - http://dbpedia.org/resource/United_States_dollar
+family - http://dbpedia.org/resource/Family
 president - http://dbpedia.org/resource/President_of_Mexico
 andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
 texas - http://dbpedia.org/resource/Texas
@@ -68,34 +64,31 @@ mexico - http://dbpedia.org/resource/First_Mexican_Republic
 texas - http://dbpedia.org/resource/Texas
 farming - http://dbpedia.org/resource/Farmer
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
-farmer - http://dbpedia.org/resource/Farmer
 texas - http://dbpedia.org/resource/Texas
 texas - http://dbpedia.org/resource/Texas
 unsettled - http://dbpedia.org/resource/Unsettled
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
 mexicans - http://dbpedia.org/resource/Mexico
 mexico city - http://dbpedia.org/resource/Mexico_City
-immigrant - http://dbpedia.org/resource/Immigration
+immigrants - http://dbpedia.org/resource/Immigration
 texas - http://dbpedia.org/resource/Texas
-convict - http://dbpedia.org/resource/Convict
+convicts - http://dbpedia.org/resource/Convict
 texas - http://dbpedia.org/resource/Texas
 catholic - http://dbpedia.org/resource/Catholic_Church
 president - http://dbpedia.org/resource/President_of_Mexico
 guerrero - http://dbpedia.org/resource/Vicente_Guerrero
-abolish slavery - http://dbpedia.org/resource/Abolitionism_in_the_United_States
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
 yankee - http://dbpedia.org/resource/Yankee
 migration - http://dbpedia.org/resource/Illegal_immigration
 anastasio bustamante - http://dbpedia.org/resource/Anastasio_Bustamante
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
-pass law - http://dbpedia.org/resource/Pass_laws
+law - http://dbpedia.org/resource/Law
 passport - http://dbpedia.org/resource/Passport
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
-vow - http://dbpedia.org/resource/Oath
-law - http://dbpedia.org/resource/Law
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
-custom duty - http://dbpedia.org/resource/Tariff
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
+customs duties - http://dbpedia.org/resource/Tariff
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
 mexicans - http://dbpedia.org/resource/Mexico
 switzerland - http://dbpedia.org/resource/Switzerland
@@ -109,21 +102,22 @@ president - http://dbpedia.org/resource/President_of_Mexico
 vicente guerrero - http://dbpedia.org/resource/Vicente_Guerrero
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 uprising - http://dbpedia.org/resource/Rebellion
+liberals - http://dbpedia.org/resource/Liberalism
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 republic - http://dbpedia.org/resource/French_First_Republic
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 mexico city - http://dbpedia.org/resource/Mexico_City
-election - http://dbpedia.org/resource/Election
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 landslide - http://dbpedia.org/resource/Landslide_victory
+liberal - http://dbpedia.org/resource/Liberalism_in_Mexico
 valentín gómez farías - http://dbpedia.org/resource/Valentín_Gómez_Farías
 vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 president - http://dbpedia.org/resource/President_of_Mexico
 presidential - http://dbpedia.org/resource/President_of_the_United_States
 vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
-conservative force - http://dbpedia.org/resource/Conservative_force
+conservative - http://dbpedia.org/resource/Conservatism
 church - http://dbpedia.org/resource/Catholic_Church
 secularize - http://dbpedia.org/resource/Spanish_missions_in_California
 education - http://dbpedia.org/resource/Education
@@ -134,6 +128,7 @@ conscience - http://dbpedia.org/resource/Freedom_of_religion
 anglos - http://dbpedia.org/resource/Anglo
 texas - http://dbpedia.org/resource/Texas
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+liberal - http://dbpedia.org/resource/Liberalism_in_Mexico
 anglos - http://dbpedia.org/resource/Anglo
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 san antonio - http://dbpedia.org/resource/San_Antonio
@@ -149,18 +144,17 @@ mexico - http://dbpedia.org/resource/First_Mexican_Republic
 judicial reform - http://dbpedia.org/resource/Judicial_reform
 habeas corpus - http://dbpedia.org/resource/Habeas_corpus
 jury - http://dbpedia.org/resource/Jury_trial
-freedom press - http://dbpedia.org/resource/Freedom_Press
+freedom - http://dbpedia.org/resource/Freedom_of_the_press
 universal suffrage - http://dbpedia.org/resource/Universal_suffrage
 stephen austin - http://dbpedia.org/resource/Stephen_F._Austin
 mexico city - http://dbpedia.org/resource/Mexico_City
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
 vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
-kidnap - http://dbpedia.org/resource/Kidnapping
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 dictator - http://dbpedia.org/resource/Dictator
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
-conservative - http://dbpedia.org/resource/Conservatism
+conservatives - http://dbpedia.org/resource/Conservatism
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 mexico city - http://dbpedia.org/resource/Mexico_City
 texas - http://dbpedia.org/resource/Texas
@@ -175,46 +169,40 @@ exile - http://dbpedia.org/resource/Exile
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 freedom - http://dbpedia.org/resource/Freedom_of_the_press
-incline - http://dbpedia.org/resource/Cable_railway
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 amnesty law - http://dbpedia.org/resource/Amnesty_law
 orleans - http://dbpedia.org/resource/New_Orleans
 texas - http://dbpedia.org/resource/Texas
 anglo americans - http://dbpedia.org/resource/English_Americans
-defy - http://dbpedia.org/resource/Motorola_Defy
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
 1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
-volunteer - http://dbpedia.org/resource/Military_volunteer
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 law - http://dbpedia.org/resource/Law
 texas - http://dbpedia.org/resource/Texas
-settler - http://dbpedia.org/resource/Settler
-troublemaker - http://dbpedia.org/resource/Troublemaker_(Olly_Murs_song)
+troublemakers - http://dbpedia.org/resource/Troublemakers_(1994_film)
 anglo americans - http://dbpedia.org/resource/English_Americans
 organic law - http://dbpedia.org/resource/Organic_law
-outline - http://dbpedia.org/resource/Nutrition
 provisional government - http://dbpedia.org/resource/Provisional_government
 texas - http://dbpedia.org/resource/Texas
 san antonio - http://dbpedia.org/resource/San_Antonio
 fortress - http://dbpedia.org/resource/Fortification
 horde - http://dbpedia.org/resource/Forced_displacement
 anglo - http://dbpedia.org/resource/Anglo
-farmer - http://dbpedia.org/resource/Farmer
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 rebellion - http://dbpedia.org/resource/Rebellion
 zacatecas - http://dbpedia.org/resource/Zacatecas
 texas - http://dbpedia.org/resource/Texas
 winter - http://dbpedia.org/resource/Winter
-texas army - http://dbpedia.org/resource/Texian_Army
+weather - http://dbpedia.org/resource/Meteorology
+texas - http://dbpedia.org/resource/Texas
 anglos - http://dbpedia.org/resource/Anglo
-texas fight - http://dbpedia.org/resource/Texas_Fight
+texas - http://dbpedia.org/resource/Texas
 anglos - http://dbpedia.org/resource/Anglo
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 anglos - http://dbpedia.org/resource/Anglo
 houston - http://dbpedia.org/resource/Houston
-fighter - http://dbpedia.org/resource/Warrior
 san antonio - http://dbpedia.org/resource/San_Antonio
 anglos - http://dbpedia.org/resource/Anglo
 colonel - http://dbpedia.org/resource/Colonel
@@ -222,29 +210,25 @@ william travis - http://dbpedia.org/resource/William_B._Travis
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 scarlet - http://dbpedia.org/resource/Color_in_Chinese_culture
 flag - http://dbpedia.org/resource/Flag_of_the_United_States
-belfry - http://dbpedia.org/resource/Bell_tower
+belfry - http://dbpedia.org/resource/Siege_tower
 san antonio - http://dbpedia.org/resource/San_Antonio
 church - http://dbpedia.org/resource/Catholic_Church
 anglo - http://dbpedia.org/resource/Anglo
 anglos - http://dbpedia.org/resource/Anglo
-fight death - http://dbpedia.org/resource/Fight_Death
 mexicans - http://dbpedia.org/resource/Mexico
-die - http://dbpedia.org/resource/Death
-officer - http://dbpedia.org/resource/Police_officer
 mexicans - http://dbpedia.org/resource/Mexico
 anglo - http://dbpedia.org/resource/Anglo
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 blanket - http://dbpedia.org/resource/Blanket
 davy crocket - http://dbpedia.org/resource/Davy_Crockett
-sword - http://dbpedia.org/resource/Sword
 celebrity - http://dbpedia.org/resource/Celebrity
 crockett - http://dbpedia.org/resource/Davy_Crockett
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 anglos - http://dbpedia.org/resource/Anglo
 texas - http://dbpedia.org/resource/Texas
 anglos - http://dbpedia.org/resource/Anglo
-bear - http://dbpedia.org/resource/Teddy_bear
-ambush - http://dbpedia.org/resource/Ambush
+arms - http://dbpedia.org/resource/Weapon
+pirates - http://dbpedia.org/resource/Piracy
 anglos - http://dbpedia.org/resource/Anglo
 agua dulce - http://dbpedia.org/resource/Battle_of_Agua_Dulce
 anglos - http://dbpedia.org/resource/Anglo
@@ -264,7 +248,6 @@ houston - http://dbpedia.org/resource/Houston
 houston - http://dbpedia.org/resource/Houston
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
-nap - http://dbpedia.org/resource/Nap
 anglos - http://dbpedia.org/resource/Anglo
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 opium - http://dbpedia.org/resource/Opium
@@ -287,7 +270,7 @@ mexican military - http://dbpedia.org/resource/Mexican_Armed_Forces
 texas - http://dbpedia.org/resource/Texas
 houston - http://dbpedia.org/resource/Houston
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
-travel washington - http://dbpedia.org/resource/Travel_Washington
+washington - http://dbpedia.org/resource/George_Washington
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 president - http://dbpedia.org/resource/President_of_Mexico
 andrew jackson - http://dbpedia.org/resource/Andrew_Jackson

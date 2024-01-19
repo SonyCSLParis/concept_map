@@ -1,3 +1,3 @@
 canadians - http://dbpedia.org/resource/Canadians
-igloo - http://dbpedia.org/resource/Igloo
+igloos - http://dbpedia.org/resource/Igloo
 kells - http://dbpedia.org/resource/Abbey_of_Kells

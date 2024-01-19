@@ -1,11 +1,11 @@
+borobudur - http://dbpedia.org/resource/Borobudur
 buddha statue - http://dbpedia.org/resource/Buddharupa
-mahayana - http://dbpedia.org/resource/Mahayana
-sunrise - http://dbpedia.org/resource/Sunrise
 buddhist temple - http://dbpedia.org/resource/Buddhist_temple
-jogjakarta - http://dbpedia.org/resource/Yogyakarta
-stupa - http://dbpedia.org/resource/Stupa
 barabudur - http://dbpedia.org/resource/Borobudur
 stock photo - http://dbpedia.org/resource/Stock_photography
+stupa - http://dbpedia.org/resource/Stupa
+jogjakarta - http://dbpedia.org/resource/Yogyakarta
+sunrise - http://dbpedia.org/resource/Sunrise
 resolution - http://dbpedia.org/resource/Image_resolution
-borobudur - http://dbpedia.org/resource/Borobudur
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
+mahayana - http://dbpedia.org/resource/Mahayana

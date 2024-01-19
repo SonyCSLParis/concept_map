@@ -3,31 +3,28 @@ brougham castle - http://dbpedia.org/resource/Brougham_Castle
 river eamont - http://dbpedia.org/resource/River_Eamont
 roman fort - http://dbpedia.org/resource/Castra
 brocavum - http://dbpedia.org/resource/Brocavum
+stairs - http://dbpedia.org/resource/Stairs
 vipont - http://dbpedia.org/resource/Vieuxpont
 timber - http://dbpedia.org/resource/Timber_framing
 roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
-marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 gatehouse - http://dbpedia.org/resource/Gatehouse
 gatehouse - http://dbpedia.org/resource/Gatehouse
 courtyard - http://dbpedia.org/resource/Courtyard
 garrison - http://dbpedia.org/resource/Garrison
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-stone - http://dbpedia.org/resource/Masonry
+stone - http://dbpedia.org/resource/Stonemasonry
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 timber - http://dbpedia.org/resource/Timber_framing
 tower - http://dbpedia.org/resource/Keep
-chamber - http://dbpedia.org/resource/Debate_chamber
 oratory - http://dbpedia.org/resource/Public_speaking
 robert clifford - http://dbpedia.org/resource/Bob_Clifford
 bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
-sack - http://dbpedia.org/resource/Looting
 clifford family - http://dbpedia.org/resource/Baron_de_Clifford
 lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-die - http://dbpedia.org/resource/Dice
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
-clifford castle - http://dbpedia.org/resource/Clifford_Castle
 earl - http://dbpedia.org/resource/Earl
 thanet - http://dbpedia.org/resource/Isle_of_Thanet
 earl - http://dbpedia.org/resource/Earl

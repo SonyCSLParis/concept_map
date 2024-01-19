@@ -1,128 +1,124 @@
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-north cape - http://dbpedia.org/resource/Nordkapp
-winter - http://dbpedia.org/resource/Winter
-whalley - http://dbpedia.org/resource/Whalley_Abbey
-homerton - http://dbpedia.org/resource/Homerton
-sir thomas leighton - http://dbpedia.org/resource/Thomas_Leighton_(governor)
-sir anthony wagner - http://dbpedia.org/resource/Anthony_Wagner
-hackney - http://dbpedia.org/resource/Hackney_carriage
-dover castle - http://dbpedia.org/resource/Dover_Castle
-die - http://dbpedia.org/resource/Death
-petition - http://dbpedia.org/resource/Lawsuit
-cape cod harbor - http://dbpedia.org/resource/Cape_Cod
-william cecil - http://dbpedia.org/resource/William_Amherst_Vanderbilt_Cecil
-herbalist - http://dbpedia.org/resource/Herbal_medicine
-horticulture - http://dbpedia.org/resource/Horticulture
-barony - http://dbpedia.org/resource/Peerage
-canterbury - http://dbpedia.org/resource/Canterbury_Cathedral
-jasper - http://dbpedia.org/resource/Jasper
-penny - http://dbpedia.org/resource/Penny
-cinque ports - http://dbpedia.org/resource/Cinque_Ports
-abbot - http://dbpedia.org/resource/Abbot
-matriculate - http://dbpedia.org/resource/Matriculation
-president - http://dbpedia.org/resource/President_of_the_United_States
-law - http://dbpedia.org/resource/English_law
-trinity college cambridge - http://dbpedia.org/resource/Trinity_College,_Cambridge
-police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
-ben jonson - http://dbpedia.org/resource/Ben_Jonson
-parliamentarian - http://dbpedia.org/resource/Parliament_of_England
-baron zouche - http://dbpedia.org/resource/Baron_Zouche
-manor - http://dbpedia.org/resource/Manor
-tate - http://dbpedia.org/resource/Tate
-ecclesiastical - http://dbpedia.org/resource/Canon_law
-dissent - http://dbpedia.org/resource/English_Dissenters
-france 4 - http://dbpedia.org/resource/France_4
-guernsey - http://dbpedia.org/resource/Guernsey
-ere - http://dbpedia.org/resource/Eredivisie
-sir james ley - http://dbpedia.org/resource/James_Ley,_1st_Earl_of_Marlborough
-court - http://dbpedia.org/resource/Royal_court
-abeyance - http://dbpedia.org/resource/Abeyance
-colony - http://dbpedia.org/resource/Colony_of_Virginia
-hampshire - http://dbpedia.org/resource/Hampshire
 tap - http://dbpedia.org/resource/Tap_dance
-ambassador - http://dbpedia.org/resource/Ambassador
-lord burghley - http://dbpedia.org/resource/William_Cecil,_1st_Baron_Burghley
-shropshire - http://dbpedia.org/resource/High_Sheriff_of_Shropshire
-archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
-bury parish church - http://dbpedia.org/resource/Church_of_St_Mary_the_Virgin,_Bury
-oft - http://dbpedia.org/resource/Office_of_Fair_Trading
-gardener - http://dbpedia.org/resource/Gardener
-warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
-constable - http://dbpedia.org/resource/Constable
-john zouche - http://dbpedia.org/resource/John_Zouche_(died_1585)
-gamekeeper - http://dbpedia.org/resource/Professional_hunter
-lord chief justice - http://dbpedia.org/resource/Lord_Chief_Justice_of_England_and_Wales
-brill - http://dbpedia.org/resource/Brill_(fish)
-stag hunt - http://dbpedia.org/resource/Deer_hunting
-mystery - http://dbpedia.org/resource/Mystery_play
-dean - http://dbpedia.org/resource/Dean_of_York
-deathlord - http://dbpedia.org/resource/Deathlord
-denmark - http://dbpedia.org/resource/Denmark
-george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
-sir julius caesar - http://dbpedia.org/resource/Julius_Caesar_(judge)
-lord hastings - http://dbpedia.org/resource/Baron_Hastings
 uk police - http://dbpedia.org/resource/Law_enforcement_in_the_United_Kingdom
-mayflower - http://dbpedia.org/resource/Epigaea_repens
-eleanor - http://dbpedia.org/resource/Eleanor_of_Castile
-george - http://dbpedia.org/resource/George_(band)
-diplomat - http://dbpedia.org/resource/Diplomat
-george kingsmill - http://dbpedia.org/resource/George_Kingsmill
-privy councillor - http://dbpedia.org/resource/Privy_Council_of_England
-weather ship - http://dbpedia.org/resource/Weather_ship
-queen - http://dbpedia.org/resource/Queen_consort
-ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
-sarah - http://dbpedia.org/resource/SAR-Lupe
-lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
-adultery - http://dbpedia.org/resource/Adultery
-john gerard - http://dbpedia.org/resource/John_Gerard
-anchor - http://dbpedia.org/resource/Anchor
-nov - http://dbpedia.org/resource/NOV_(gene)
-matthias - http://dbpedia.org/resource/Matthias_Corvinus
-seed - http://dbpedia.org/resource/Seed
-chapel - http://dbpedia.org/resource/Chapel
-bramshill - http://dbpedia.org/resource/Bramshill
-couch - http://dbpedia.org/resource/Couch
-verse - http://dbpedia.org/resource/Poetry
-knighthood - http://dbpedia.org/resource/Knight
-baron st maur - http://dbpedia.org/resource/Baron_St_Maur
-virginia company - http://dbpedia.org/resource/Virginia_Company
-inn - http://dbpedia.org/resource/Inns_of_Court
-councillor - http://dbpedia.org/resource/Privy_council
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-jesuit - http://dbpedia.org/resource/Society_of_Jesus
-mary - http://dbpedia.org/resource/Mary_I_of_England
-lord president - http://dbpedia.org/resource/Lord_President_of_the_Council
-sir james harington - http://dbpedia.org/resource/James_Harington_(lawyer)
-francis hastings - http://dbpedia.org/resource/Francis_Hastings_of_Madras
-child marriage - http://dbpedia.org/resource/Child_marriage
-high street - http://dbpedia.org/resource/High_Street
-baron - http://dbpedia.org/resource/Baron
-independence - http://dbpedia.org/resource/Independence
-scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-etch - http://dbpedia.org/resource/Etching
-la zouche - http://dbpedia.org/resource/Baron_Zouche
-flushing - http://dbpedia.org/resource/Flush_toilet
-cecil bisshopp - http://dbpedia.org/resource/Cecil_Bisshopp
-harringworth - http://dbpedia.org/resource/Harringworth
-virginia - http://dbpedia.org/resource/Colony_of_Virginia
+weather - http://dbpedia.org/resource/Meteorology
+etching - http://dbpedia.org/resource/Engraving
 chamber - http://dbpedia.org/resource/Debate_chamber
-bramshill house - http://dbpedia.org/resource/Bramshill_House
-thomas leighton - http://dbpedia.org/resource/Thomas_Leighton_(governor)
-mansion - http://dbpedia.org/resource/English_country_house
-sir william tate - http://dbpedia.org/resource/William_Tate_(MP)
-margaret - http://dbpedia.org/resource/Margaret_Tudor
-richmond herald - http://dbpedia.org/resource/Richmond_Herald
-née - http://dbpedia.org/resource/Personal_name
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-patrimony - http://dbpedia.org/resource/Inheritance
-m.a. - http://dbpedia.org/resource/Master_of_Arts
-governor - http://dbpedia.org/resource/Governor
-northamptonshire - http://dbpedia.org/resource/Northamptonshire
-fotheringhay - http://dbpedia.org/resource/Fotheringhay_Castle
-katherine - http://dbpedia.org/resource/Samuel_More
-consecrate - http://dbpedia.org/resource/Consecration
-arms - http://dbpedia.org/resource/Heraldry
+shropshire - http://dbpedia.org/resource/High_Sheriff_of_Shropshire
+seeds - http://dbpedia.org/resource/Seed
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
 harrington - http://dbpedia.org/resource/John_Peabody_Harrington
-pen - http://dbpedia.org/resource/Quill
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+tate - http://dbpedia.org/resource/Tate
+petition - http://dbpedia.org/resource/Lawsuit
+sir julius caesar - http://dbpedia.org/resource/Julius_Caesar_(judge)
+abbot - http://dbpedia.org/resource/Abbot
+lord burghley - http://dbpedia.org/resource/William_Cecil,_1st_Baron_Burghley
+privy councillor - http://dbpedia.org/resource/Privy_Council_of_England
+mary - http://dbpedia.org/resource/Mary_I_of_England
+dover castle - http://dbpedia.org/resource/Dover_Castle
+nov - http://dbpedia.org/resource/NOV_(gene)
+francis hastings - http://dbpedia.org/resource/Francis_Hastings_of_Madras
+katherine - http://dbpedia.org/resource/Samuel_More
+mansion - http://dbpedia.org/resource/English_country_house
+cape cod harbor - http://dbpedia.org/resource/Cape_Cod
+john zouche - http://dbpedia.org/resource/John_Zouche_(died_1585)
+la zouche - http://dbpedia.org/resource/Baron_Zouche
+baron zouche - http://dbpedia.org/resource/Baron_Zouche
+matthias - http://dbpedia.org/resource/Matthias_Corvinus
+herbalist - http://dbpedia.org/resource/Herbal_medicine
+compounding - http://dbpedia.org/resource/Compound_interest
+stag hunt - http://dbpedia.org/resource/Deer_hunting
+hackney - http://dbpedia.org/resource/Hackney_carriage
+parish church - http://dbpedia.org/resource/Church_of_England
+cecil bisshopp - http://dbpedia.org/resource/Cecil_Bisshopp
+indentured servants - http://dbpedia.org/resource/Indentured_servitude
+patrimony - http://dbpedia.org/resource/Inheritance
+lord president - http://dbpedia.org/resource/Lord_President_of_the_Council
+sir james ley - http://dbpedia.org/resource/James_Ley,_1st_Earl_of_Marlborough
+richmond herald - http://dbpedia.org/resource/Richmond_Herald
+lord chief justice - http://dbpedia.org/resource/Lord_Chief_Justice_of_England_and_Wales
+baron - http://dbpedia.org/resource/Baron
+ecclesiastical - http://dbpedia.org/resource/Canon_law
+northamptonshire - http://dbpedia.org/resource/Northamptonshire
+trinity college cambridge - http://dbpedia.org/resource/Trinity_College,_Cambridge
+harringworth - http://dbpedia.org/resource/Harringworth
+fotheringhay - http://dbpedia.org/resource/Fotheringhay_Castle
+die - http://dbpedia.org/resource/Death
+brill - http://dbpedia.org/resource/Brill_(fish)
+dissent - http://dbpedia.org/resource/English_Dissenters
+mystery - http://dbpedia.org/resource/Mystery_play
+sir anthony wagner - http://dbpedia.org/resource/Anthony_Wagner
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+diplomat - http://dbpedia.org/resource/Diplomat
+william cecil - http://dbpedia.org/resource/William_Amherst_Vanderbilt_Cecil
+gamekeeper - http://dbpedia.org/resource/Professional_hunter
 privy counsellor - http://dbpedia.org/resource/Privy_council
-compound - http://dbpedia.org/resource/Leaf
+jasper - http://dbpedia.org/resource/Jasper
+flushing - http://dbpedia.org/resource/Flush_toilet
+canterbury - http://dbpedia.org/resource/Canterbury_Cathedral
+high street - http://dbpedia.org/resource/High_Street
+barony - http://dbpedia.org/resource/Peerage
+george kingsmill - http://dbpedia.org/resource/George_Kingsmill
+councillor - http://dbpedia.org/resource/Privy_council
+john gerard - http://dbpedia.org/resource/John_Gerard
+bramshill - http://dbpedia.org/resource/Bramshill
+cinque ports - http://dbpedia.org/resource/Cinque_Ports
+colony - http://dbpedia.org/resource/Colony_of_Virginia
+governor - http://dbpedia.org/resource/Governor
+inn - http://dbpedia.org/resource/Inns_of_Court
+deathlord - http://dbpedia.org/resource/Deathlord
+ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+née - http://dbpedia.org/resource/Personal_name
+homerton - http://dbpedia.org/resource/Homerton
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+penny - http://dbpedia.org/resource/Penny
+dean - http://dbpedia.org/resource/Dean_of_York
+jesuits - http://dbpedia.org/resource/Society_of_Jesus
+mayflower - http://dbpedia.org/resource/Epigaea_repens
+george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
+manor - http://dbpedia.org/resource/Manor
+archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
+queen - http://dbpedia.org/resource/Queen_consort
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+lord hastings - http://dbpedia.org/resource/Baron_Hastings
+chapel - http://dbpedia.org/resource/Chapel
+adultery - http://dbpedia.org/resource/Adultery
+police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
+ere - http://dbpedia.org/resource/Eredivisie
+sir james harington - http://dbpedia.org/resource/James_Harington_(lawyer)
+abeyance - http://dbpedia.org/resource/Abeyance
+pirates - http://dbpedia.org/resource/Barbary_pirates
+m.a. - http://dbpedia.org/resource/Master_of_Arts
+court - http://dbpedia.org/resource/Royal_court
+parliamentarian - http://dbpedia.org/resource/Parliament_of_England
+george - http://dbpedia.org/resource/George_(band)
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+law - http://dbpedia.org/resource/English_law
+constable - http://dbpedia.org/resource/Constable
+president - http://dbpedia.org/resource/President_of_the_United_States
+sarah - http://dbpedia.org/resource/SAR-Lupe
+hampshire - http://dbpedia.org/resource/Hampshire
+france 4 - http://dbpedia.org/resource/France_4
+gardener - http://dbpedia.org/resource/Gardener
+sir william tate - http://dbpedia.org/resource/William_Tate_(MP)
+eleanor - http://dbpedia.org/resource/Eleanor_of_Castile
+denmark - http://dbpedia.org/resource/Denmark
+thomas leighton - http://dbpedia.org/resource/Thomas_Leighton_(governor)
+sir thomas leighton - http://dbpedia.org/resource/Thomas_Leighton_(governor)
+oft - http://dbpedia.org/resource/Office_of_Fair_Trading
+virginia company - http://dbpedia.org/resource/Virginia_Company
+knighthoods - http://dbpedia.org/resource/Knight
+whalley - http://dbpedia.org/resource/Whalley_Abbey
+matriculated - http://dbpedia.org/resource/Matriculation
+arms - http://dbpedia.org/resource/Heraldry
+baron st maur - http://dbpedia.org/resource/Baron_St_Maur
+guernsey - http://dbpedia.org/resource/Guernsey
+winter - http://dbpedia.org/resource/Winter_solstice
+virginia - http://dbpedia.org/resource/Colony_of_Virginia
+ambassador - http://dbpedia.org/resource/Ambassador
+ben jonson - http://dbpedia.org/resource/Ben_Jonson
+lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+consecrate - http://dbpedia.org/resource/Consecration
+couch - http://dbpedia.org/resource/Couch
+horticulture - http://dbpedia.org/resource/Horticulture

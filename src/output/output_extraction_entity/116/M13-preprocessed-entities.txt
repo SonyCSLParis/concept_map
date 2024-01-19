@@ -1,10 +1,11 @@
 police - http://dbpedia.org/resource/Police
+listed building - http://dbpedia.org/resource/Listed_building
 police - http://dbpedia.org/resource/Police
 bramshill house - http://dbpedia.org/resource/Bramshill_House
-grade ii - http://dbpedia.org/resource/Listed_building
+grade ii listed - http://dbpedia.org/resource/Listed_building
 medieval - http://dbpedia.org/resource/Middle_Ages
 heritage - http://dbpedia.org/resource/Cultural_heritage
-property developer - http://dbpedia.org/resource/Real_estate_development
+property developers - http://dbpedia.org/resource/Real_estate_development
 city - http://dbpedia.org/resource/City
 jacobean - http://dbpedia.org/resource/Jacobean_architecture
 government department - http://dbpedia.org/resource/Departments_of_the_Government_of_the_United_Kingdom

@@ -1,2 +1,2 @@
-pendle - http://dbpedia.org/resource/Pendle_witches
-acquit - http://dbpedia.org/resource/Acquittal
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+acquitted - http://dbpedia.org/resource/Acquittal

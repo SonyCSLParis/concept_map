@@ -3,8 +3,6 @@ april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holding
 san fernando - http://dbpedia.org/resource/San_Fernando_Valley
 san antonio - http://dbpedia.org/resource/San_Antonio
 austin - http://dbpedia.org/resource/Austin_College
-settlement - http://dbpedia.org/resource/Settlement_movement
-settler - http://dbpedia.org/resource/Settler
 antonio lópez de santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 san antonio - http://dbpedia.org/resource/San_Antonio
 ramón músquiz - http://dbpedia.org/resource/Ramón_Músquiz
@@ -12,14 +10,13 @@ houston - http://dbpedia.org/resource/Houston
 nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
 wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
 thomas hastings - http://dbpedia.org/resource/Thomas_Hastings_(architect)
-petition - http://dbpedia.org/resource/Petition
 immigration - http://dbpedia.org/resource/Immigration
 law - http://dbpedia.org/resource/Law_of_the_United_States
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 indian defense - http://dbpedia.org/resource/Indian_Defence
 judicial reform - http://dbpedia.org/resource/Judicial_reform
 tariff - http://dbpedia.org/resource/Tariff
-resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 slave - http://dbpedia.org/resource/Slavery_in_the_United_States
 texas - http://dbpedia.org/resource/Texas
 coahuila - http://dbpedia.org/resource/Coahuila
@@ -28,32 +25,25 @@ petition - http://dbpedia.org/resource/Petition
 statehood - http://dbpedia.org/resource/U.S._state
 committee - http://dbpedia.org/resource/United_States_congressional_committee
 houston - http://dbpedia.org/resource/Houston
-prepare - http://dbpedia.org/resource/PREPARE
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-document model - http://dbpedia.org/resource/Information_retrieval
 republicanism - http://dbpedia.org/resource/Republicanism_in_the_United_States
-fashion - http://dbpedia.org/resource/Fashion
 massachusetts constitution - http://dbpedia.org/resource/Constitution_of_Massachusetts
 jury - http://dbpedia.org/resource/Jury_trial
 habeas corpus - http://dbpedia.org/resource/Habeas_corpus
-freedom press - http://dbpedia.org/resource/Freedom_Press
+freedom - http://dbpedia.org/resource/Freedom_of_the_press
 universal suffrage - http://dbpedia.org/resource/Universal_suffrage
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 david - http://dbpedia.org/resource/David
 committee - http://dbpedia.org/resource/United_States_congressional_committee
-prepare - http://dbpedia.org/resource/PREPARE
 memorial - http://dbpedia.org/resource/Memorial
 mexican government - http://dbpedia.org/resource/First_Mexican_Republic
-extol - http://dbpedia.org/resource/Extol
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 erasmo seguín - http://dbpedia.org/resource/Erasmo_Seguín
 miller - http://dbpedia.org/resource/Miller
 austin - http://dbpedia.org/resource/Austin_College
-petition - http://dbpedia.org/resource/Petition
 miller - http://dbpedia.org/resource/Miller
 austin - http://dbpedia.org/resource/Austin_College
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
-adjourn - http://dbpedia.org/resource/Adjournment
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 bibliography - http://dbpedia.org/resource/Bibliography
 austin - http://dbpedia.org/resource/Austin_College

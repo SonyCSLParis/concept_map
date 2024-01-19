@@ -1,33 +1,28 @@
-defendant - http://dbpedia.org/resource/Defendant
-technology - http://dbpedia.org/resource/Technology
-csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+lisa - http://dbpedia.org/resource/Lisa_Simpson
+criminal minds - http://dbpedia.org/resource/Criminal_Minds
+forensic scientists - http://dbpedia.org/resource/Forensic_science
 infection - http://dbpedia.org/resource/Infection
-perception - http://dbpedia.org/resource/Perception
-detective - http://dbpedia.org/resource/Detective
 quickness - http://dbpedia.org/resource/Quickness
-crime - http://dbpedia.org/resource/Crime
+ncis - http://dbpedia.org/resource/Naval_Criminal_Investigative_Service
+judge - http://dbpedia.org/resource/Judge
+perception - http://dbpedia.org/resource/Perception
 convict - http://dbpedia.org/resource/Conviction
+reasonable doubt - http://dbpedia.org/resource/Reasonable_doubt
+clear cut - http://dbpedia.org/resource/Clearcutting
+spoon - http://dbpedia.org/resource/Spoon
+bullet - http://dbpedia.org/resource/Bullet
+jurors - http://dbpedia.org/resource/Jury
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+csi - http://dbpedia.org/resource/Forensic_science
+smoking gun - http://dbpedia.org/resource/Smoking_gun
 forensic science - http://dbpedia.org/resource/Forensic_science
+dna forensics - http://dbpedia.org/resource/DNA_profiling
+television - http://dbpedia.org/resource/Television_show
+csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
 garcia - http://dbpedia.org/resource/Penelope_Garcia
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+law - http://dbpedia.org/resource/Law_of_the_United_States
+technology - http://dbpedia.org/resource/Technology
 forensic - http://dbpedia.org/resource/Forensic_identification
 sacrifice - http://dbpedia.org/resource/Human_sacrifice
-criminal minds - http://dbpedia.org/resource/Criminal_Minds
-ncis - http://dbpedia.org/resource/Naval_Criminal_Investigative_Service
-law - http://dbpedia.org/resource/Law_of_the_United_States
-bullet - http://dbpedia.org/resource/Bullet
-producer - http://dbpedia.org/resource/Television_producer
-forensic scientist - http://dbpedia.org/resource/Forensic_science
-smoking gun - http://dbpedia.org/resource/Smoking_gun
-judge - http://dbpedia.org/resource/Judge
-csi - http://dbpedia.org/resource/Forensic_science
-dna - http://dbpedia.org/resource/DNA
-television - http://dbpedia.org/resource/Television_show
-lisa - http://dbpedia.org/resource/Lisa_Simpson
-reasonable doubt - http://dbpedia.org/resource/Reasonable_doubt
-spoon - http://dbpedia.org/resource/Spoon
-clear cut - http://dbpedia.org/resource/Clearcutting
-bone - http://dbpedia.org/resource/Bone
-juror - http://dbpedia.org/resource/Jury
-forensic evidence - http://dbpedia.org/resource/Forensic_identification
-fingerprint - http://dbpedia.org/resource/DNA_profiling
+crime - http://dbpedia.org/resource/Crime

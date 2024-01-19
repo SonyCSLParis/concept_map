@@ -1,1395 +1,1306 @@
-armor - http://dbpedia.org/resource/Armour
-
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-
-winter - http://dbpedia.org/resource/Winter
-
-shirburn - http://dbpedia.org/resource/Shirburn
-
-battlement - http://dbpedia.org/resource/Battlement
-
-die - http://dbpedia.org/resource/Death
-
-steam train - http://dbpedia.org/resource/Steam_locomotive
-
-easter bunny - http://dbpedia.org/resource/Easter_Bunny
-
-etchingham - http://dbpedia.org/resource/Etchingham
-
-tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
-
-church house - http://dbpedia.org/resource/Church_House_Publishing
-
-effigy - http://dbpedia.org/resource/Effigy
-
-marriage - http://dbpedia.org/resource/Marriage_in_Islam
-
-vernacular - http://dbpedia.org/resource/Vernacular
-
-professional soldier - http://dbpedia.org/resource/Professional_Soldier
-
-angle - http://dbpedia.org/resource/Angle
-
-spring - http://dbpedia.org/resource/March_equinox
-
-powell - http://dbpedia.org/resource/Lewis_F._Powell_Jr.
-
-mast - http://dbpedia.org/resource/Strained_yogurt
-
-robertsbridge - http://dbpedia.org/resource/Robertsbridge
-
-maxstoke castle - http://dbpedia.org/resource/Maxstoke_Castle
-
-weapon - http://dbpedia.org/resource/Weapon
-
-earl - http://dbpedia.org/resource/Earl
-
-richard ii - http://dbpedia.org/resource/Richard_II_of_England
-
-rural - http://dbpedia.org/resource/Rural_area
-
-bodiam - http://dbpedia.org/resource/Bodiam
-
-character day - http://dbpedia.org/resource/Character_Day
-
-archer - http://dbpedia.org/resource/Bow_and_arrow
-
-london gatwick - http://dbpedia.org/resource/Gatwick_Airport
-
-wadhurst - http://dbpedia.org/resource/Wadhurst
-
-courageous - http://dbpedia.org/resource/Operation_Courageous
-
-turnip - http://dbpedia.org/resource/Turnip
-
-vegetable - http://dbpedia.org/resource/Vegetable
-
-monument - http://dbpedia.org/resource/Monument
-
-david - http://dbpedia.org/resource/David_II_of_Scotland
-
-country lane - http://dbpedia.org/resource/Country_lane
-
-honorific - http://dbpedia.org/resource/Honorific
-
-coffee shop - http://dbpedia.org/resource/Coffeehouse
-
-colin - http://dbpedia.org/resource/Large_intestine
-
-outlaw - http://dbpedia.org/resource/Outlaw
-
-counties - http://dbpedia.org/resource/County
-
-skenfrith castle - http://dbpedia.org/resource/Skenfrith_Castle
-
-anne - http://dbpedia.org/resource/Anne_Boleyn
-
-monnow - http://dbpedia.org/resource/River_Monnow
-
-thomas dagworth - http://dbpedia.org/resource/Thomas_Dagworth
-
-edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
-
-wedding - http://dbpedia.org/resource/Wedding
-
-medieval - http://dbpedia.org/resource/Middle_Ages
-
-enclosure - http://dbpedia.org/resource/Enclosure
-
-manager - http://dbpedia.org/resource/Talent_manager
-liverpool - http://dbpedia.org/resource/Liverpool
-
-ceramic - http://dbpedia.org/resource/Pottery
-
-stock - http://dbpedia.org/resource/Livestock
-
-richard iii - http://dbpedia.org/resource/Richard_III_of_England
-
-tree - http://dbpedia.org/resource/Tree
-
-fortification - http://dbpedia.org/resource/Castle
-
-building material - http://dbpedia.org/resource/Building_material
-
-military theorist - http://dbpedia.org/resource/Military_theory
-
-epitome - http://dbpedia.org/resource/Ab_Urbe_Condita_Libri
-
-herb - http://dbpedia.org/resource/Herb
-
-tenterden - http://dbpedia.org/resource/Tenterden
-french wine - http://dbpedia.org/resource/French_wine
-
-eccentric - http://dbpedia.org/resource/Orbital_eccentricity
-
-flanders - http://dbpedia.org/resource/County_of_Flanders
-
-manor - http://dbpedia.org/resource/Manor_house
-
-timber - http://dbpedia.org/resource/Timber_framing
-
-bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-
-archetypal - http://dbpedia.org/resource/Archetype
-
-guardhouse - http://dbpedia.org/resource/Watchtower
-
-floor plan - http://dbpedia.org/resource/Floor_plan
-
-salix - http://dbpedia.org/resource/Willow
-
-strike - http://dbpedia.org/resource/Strike_action
-
-early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
-
-commune - http://dbpedia.org/resource/Commune
-
-edward iii - http://dbpedia.org/resource/Edward_III_of_England
-
-general waller - http://dbpedia.org/resource/William_Waller
-
-thicket - http://dbpedia.org/resource/Thicket
-
-sir roger fiennes - http://dbpedia.org/resource/Roger_Fiennes
-
-fortress - http://dbpedia.org/resource/Castle
-
-coat - http://dbpedia.org/resource/Fur_clothing
-
-impose - http://dbpedia.org/resource/Impose_(magazine)
-
-barley wine - http://dbpedia.org/resource/Barley_wine
-
-millpond - http://dbpedia.org/resource/Mill_pond
-
-water feature - http://dbpedia.org/resource/Water_feature
-
-lush - http://dbpedia.org/resource/Lush_3
-
-mount - http://dbpedia.org/resource/Working_animal
-
-henry vii - http://dbpedia.org/resource/Henry_VII_of_England
-
-control flow - http://dbpedia.org/resource/Control_flow
-
-sandstone - http://dbpedia.org/resource/Sandstone
-
-holy grail - http://dbpedia.org/resource/Holy_Grail
-
-supply ship - http://dbpedia.org/resource/Cargo_ship
-
-historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
-
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
-
-east grinstead - http://dbpedia.org/resource/East_Grinstead
-
-garderobe - http://dbpedia.org/resource/Garderobe
-
-meat - http://dbpedia.org/resource/Lamb_and_mutton
-
-winchelsea - http://dbpedia.org/resource/Winchelsea
-
-owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
-
-east sussex - http://dbpedia.org/resource/East_Sussex
-function - http://dbpedia.org/resource/Role
-
-ivy - http://dbpedia.org/resource/Hedera
-
-masonry - http://dbpedia.org/resource/Masonry
-
-bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
-
-kent county - http://dbpedia.org/resource/Kent_County_Cricket_Club
-
-monmouthshire - http://dbpedia.org/resource/Monmouthshire
-
-temptation - http://dbpedia.org/resource/Temptation
-
-resistance - http://dbpedia.org/resource/French_Resistance
-
-rock - http://dbpedia.org/resource/Rock_music
-
-bridleway - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
-
-marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
-
-concentric castle - http://dbpedia.org/resource/Concentric_castle
-
-crossbow - http://dbpedia.org/resource/Crossbow
-
-hamlet - http://dbpedia.org/resource/Unincorporated_area
-
-charles coulson - http://dbpedia.org/resource/Charles_Coulson
-
-cadbury - http://dbpedia.org/resource/Cadbury
-
-caparison - http://dbpedia.org/resource/Caparison
-
-brest - http://dbpedia.org/resource/Battle_for_Brest
-
-wall tower - http://dbpedia.org/resource/Fortified_tower
-
-diligent - http://dbpedia.org/resource/Hired_armed_cutter_Diligent
-
-food - http://dbpedia.org/resource/Fish_as_food
-
-feudal - http://dbpedia.org/resource/Feudalism
-
-poitiers - http://dbpedia.org/resource/Battle_of_Poitiers
-
-nobility - http://dbpedia.org/resource/Nobility
-
-marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
-
-orleans - http://dbpedia.org/resource/New_Orleans
-
-planning permission - http://dbpedia.org/resource/Planning_permission
-
-barry castle - http://dbpedia.org/resource/Barry_Castle
-
-parliament - http://dbpedia.org/resource/Parliament_of_England
-
-pea bean - http://dbpedia.org/resource/Pea_bean
-
-king richard ii - http://dbpedia.org/resource/Richard_II_of_England
-
-bottle - http://dbpedia.org/resource/Bottle
-
-symmetry - http://dbpedia.org/resource/Symmetry
-
-parliamentarian - http://dbpedia.org/resource/Roundhead
-
-york - http://dbpedia.org/resource/House_of_York
-
-wharf - http://dbpedia.org/resource/Wharf
-
-john tufton - http://dbpedia.org/resource/John_Tufton_(cricketer)
-
-bruderhof - http://dbpedia.org/resource/Bruderhof_Communities
-
-os map - http://dbpedia.org/resource/Ordnance_Survey
-
-pope - http://dbpedia.org/resource/Pope
-
-rye - http://dbpedia.org/resource/Rye
-
-trackway - http://dbpedia.org/resource/Historic_roads_and_trails
-
-priest - http://dbpedia.org/resource/Clergy
-
-dog - http://dbpedia.org/resource/Dog
-
-great tower - http://dbpedia.org/resource/Keep
-
-causeway - http://dbpedia.org/resource/Causeway
-
-humphrey stafford - http://dbpedia.org/resource/Humphrey_Stafford,_1st_Duke_of_Buckingham
-
-weobley castle - http://dbpedia.org/resource/Weobley_Castle,_Gower
-
-london charing cross - http://dbpedia.org/resource/Charing_Cross_railway_station
-
-shetland - http://dbpedia.org/resource/Shetland
-
-charing cross station - http://dbpedia.org/resource/Charing_Cross_railway_station
-
-salehurst - http://dbpedia.org/resource/Salehurst
-
-plunder - http://dbpedia.org/resource/Looting
-
-time book - http://dbpedia.org/resource/Time_book
-
-fog - http://dbpedia.org/resource/Fog
-
-governor - http://dbpedia.org/resource/Governor
-
-levett - http://dbpedia.org/resource/Levett
-
-leicestershire - http://dbpedia.org/resource/Leicestershire
-
-manor house - http://dbpedia.org/resource/Manor_house
-
-kinross - http://dbpedia.org/resource/Kinross
-
-anthropology - http://dbpedia.org/resource/Cultural_anthropology
-
-middle ages - http://dbpedia.org/resource/Middle_Ages
-
-garrison - http://dbpedia.org/resource/Garrison
-
-compact - http://dbpedia.org/resource/Compact_space
-
-postern door - http://dbpedia.org/resource/Postern
-
-sir robert lorimer - http://dbpedia.org/resource/Robert_Lorimer
-
-picton castle - http://dbpedia.org/resource/Picton_Castle
-
-roman road - http://dbpedia.org/resource/Roman_roads
-
-train - http://dbpedia.org/resource/Rail_transport
-
-matthew johnson - http://dbpedia.org/resource/Matthew_Johnson_(rugby_union)
-
-northumberland - http://dbpedia.org/resource/Northumberland
-
-pottery - http://dbpedia.org/resource/Pottery
-
-harbour - http://dbpedia.org/resource/Harbor
-
-tearoom - http://dbpedia.org/resource/Teahouse
-
-observation - http://dbpedia.org/resource/Observation
-
-cake - http://dbpedia.org/resource/Cake
-
-kirby muxloe castle - http://dbpedia.org/resource/Kirby_Muxloe_Castle
-
-metal - http://dbpedia.org/resource/Metal
-
-william de clinton - http://dbpedia.org/resource/William_de_Clinton,_1st_Earl_of_Huntingdon
-
-sully - http://dbpedia.org/resource/Sully_Historic_Site
-
-telephone - http://dbpedia.org/resource/Telephone
-
-yorkshire - http://dbpedia.org/resource/Yorkshire
-
-latin - http://dbpedia.org/resource/Latin
-french port - http://dbpedia.org/resource/Mask_Singer_(French_TV_series)
-
-anabaptist - http://dbpedia.org/resource/Anabaptism
-
-river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
-
-vegetation - http://dbpedia.org/resource/Vegetation
-
-century building - http://dbpedia.org/resource/Century_Building_(Chicago)
-
-average height - http://dbpedia.org/resource/Human_height
-
-pantry - http://dbpedia.org/resource/Pantry
-
-seal - http://dbpedia.org/resource/Pinniped
-
-topographical - http://dbpedia.org/resource/Landscape
-
-parliamentarian - http://dbpedia.org/resource/Parliament_of_England
-
-sack - http://dbpedia.org/resource/Looting
-
-trebuchet - http://dbpedia.org/resource/Trebuchet
-
-st. george - http://dbpedia.org/resource/Saint_George
-
-sir hugh calveley - http://dbpedia.org/resource/Hugh_Calveley
-
-fishpond - http://dbpedia.org/resource/Fish_pond
-
-public footpath - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
-
-south lanarkshire - http://dbpedia.org/resource/South_Lanarkshire
-
-cash - http://dbpedia.org/resource/Cash
-
-murder hole - http://dbpedia.org/resource/Murder_hole
-
-tax - http://dbpedia.org/resource/Tax
-
-ideal - http://dbpedia.org/resource/Thought_experiment
-
-toy - http://dbpedia.org/resource/Toy
-
-lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
-
-buttery - http://dbpedia.org/resource/Buttery_(room)
-
-port dover - http://dbpedia.org/resource/Port_Dover,_Ontario
-
-tea room - http://dbpedia.org/resource/Teahouse
-
-a21 - http://dbpedia.org/resource/A21_autoroute
-
-tea cake - http://dbpedia.org/resource/Teacake
-
-iron - http://dbpedia.org/resource/Ferrous_metallurgy
-
-quadrangle - http://dbpedia.org/resource/Quadrilateral
-
-settlement - http://dbpedia.org/resource/Town
-
-pele tower - http://dbpedia.org/resource/Peel_tower
-
-english coast - http://dbpedia.org/resource/English_Coast
-
-george cubitt - http://dbpedia.org/resource/George_Cubitt,_1st_Baron_Ashcombe
-
-peasant - http://dbpedia.org/resource/Peasant
-
-dissection - http://dbpedia.org/resource/Dissection
-
-high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
-
-firework display - http://dbpedia.org/resource/Fireworks
-
-roundtrip - http://dbpedia.org/resource/Roundtrip_(film)
-
-station - http://dbpedia.org/resource/Train_station
-
-spit - http://dbpedia.org/resource/Rotisserie
-
-picardy - http://dbpedia.org/resource/Picardy
-
-judith - http://dbpedia.org/resource/Book_of_Judith
-
-constable - http://dbpedia.org/resource/Castellan
-
-florist - http://dbpedia.org/resource/Floristry
-
-security - http://dbpedia.org/resource/Security
-
-claret - http://dbpedia.org/resource/Bordeaux_wine
-
-castell moel - http://dbpedia.org/resource/Castell_Moel
-
-windsor castle - http://dbpedia.org/resource/Windsor_Castle
-
-civil war - http://dbpedia.org/resource/English_Civil_War
-
-angus - http://dbpedia.org/resource/Earl_of_Angus
-
-lock - http://dbpedia.org/resource/Lock_and_key
-
-stonegate - http://dbpedia.org/resource/Ticehurst
-
-onion - http://dbpedia.org/resource/Onion
-
-object - http://dbpedia.org/resource/Astronomical_object
-
-tonbridge - http://dbpedia.org/resource/Tonbridge
-
-meat - http://dbpedia.org/resource/Meat
-
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-
-pond - http://dbpedia.org/resource/Pond
-
-lord hastings - http://dbpedia.org/resource/Baron_Hastings
-
-jackson - http://dbpedia.org/resource/Andrew_Jackson
-
-medieval england - http://dbpedia.org/resource/Middle_Ages
-
-country walk - http://dbpedia.org/resource/Country_Walk,_Florida
+beauty - http://dbpedia.org/resource/Beauty
 
 station road - http://dbpedia.org/resource/Station_Road_Ground
 
-thomas lewknor - http://dbpedia.org/resource/Thomas_Lewknor_(MP_for_Midhurst)
-
-water - http://dbpedia.org/resource/Water_supply
-
-human - http://dbpedia.org/resource/Human_nature
-
-architecture - http://dbpedia.org/resource/Architecture
-
-hawkhurst - http://dbpedia.org/resource/Hawkhurst
-
-queen - http://dbpedia.org/resource/Queen_consort
-
-hutchinson - http://dbpedia.org/resource/Shaun_Hutchinson
-
-painting - http://dbpedia.org/resource/Painting
-
-bolt - http://dbpedia.org/resource/Crossbow
-
-central london - http://dbpedia.org/resource/Central_London
-
-kedleston - http://dbpedia.org/resource/Kedleston
-
-school holiday - http://dbpedia.org/resource/Academic_year
-
-bread - http://dbpedia.org/resource/Bread
-
-nov - http://dbpedia.org/resource/NOV_(gene)
-
-dunster castle - http://dbpedia.org/resource/Dunster_Castle
-
-mausoleum - http://dbpedia.org/resource/Mausoleum
-
-grove - http://dbpedia.org/resource/Orchard
-
-rede - http://dbpedia.org/resource/Wiccan_Rede
-
-sj - http://dbpedia.org/resource/Society_of_Jesus
-
-baron ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
-
-food - http://dbpedia.org/resource/Food
-
-quadrangular design - http://dbpedia.org/resource/Quadrangular_castle
-manuscript - http://dbpedia.org/resource/Manuscript
-
-memorabilia - http://dbpedia.org/resource/Souvenir
-
-french invasion - http://dbpedia.org/resource/Napoleonic_Wars
-
-paratrooper - http://dbpedia.org/resource/Paratrooper
-
-lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
-
-lancastrian - http://dbpedia.org/resource/House_of_Lancaster
-
-fireplace - http://dbpedia.org/resource/Fireplace
-
-missile - http://dbpedia.org/resource/Missile
-
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-
-grace - http://dbpedia.org/resource/Charites
-
-inn - http://dbpedia.org/resource/Pub
-
-listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
-
-britain - http://dbpedia.org/resource/Roman_Britain
-
-social organization - http://dbpedia.org/resource/Institution
-
-chicken - http://dbpedia.org/resource/Chicken
-
-kent - http://dbpedia.org/resource/Kent
-
-captain - http://dbpedia.org/resource/Sea_captain
-
-beauty - http://dbpedia.org/resource/Beauty
-
-ballistas - http://dbpedia.org/resource/Ballista
-
-high street - http://dbpedia.org/resource/High_Street
-
-guy fawkes - http://dbpedia.org/resource/Guy_Fawkes_Night
-
-wrist - http://dbpedia.org/resource/Wrist
-
-sand - http://dbpedia.org/resource/Sand
-
-wheelchair - http://dbpedia.org/resource/Wheelchair
-
-blog - http://dbpedia.org/resource/Blog
-
-echo - http://dbpedia.org/resource/Echo
-
-castle moat - http://dbpedia.org/resource/Moat
-
-philippa - http://dbpedia.org/resource/Philippa_of_Hainault
-
-arundel - http://dbpedia.org/resource/Arundel
-
-south london - http://dbpedia.org/resource/London
-
-drawbridge - http://dbpedia.org/resource/Drawbridge
-
-grass - http://dbpedia.org/resource/Cereal
-
-pork - http://dbpedia.org/resource/Pork
-
-moated castle - http://dbpedia.org/resource/Moat
-
-capitalist - http://dbpedia.org/resource/Capitalism
-
-ritual - http://dbpedia.org/resource/Ritual
-
-carmarthenshire - http://dbpedia.org/resource/Carmarthenshire
-
-bodiam - http://dbpedia.org/resource/Bodiam
-steam locomotive - http://dbpedia.org/resource/Steam_locomotive
-
-people party - http://dbpedia.org/resource/PEOPLE_Party
-
-national trust - http://dbpedia.org/resource/National_trust
-
-larissa - http://dbpedia.org/resource/Larissa
-
-intersection - http://dbpedia.org/resource/Intersectionality
-
-middleham castle - http://dbpedia.org/resource/Middleham_Castle
-
-lord ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
-
-furniture - http://dbpedia.org/resource/Furniture
-
-contemporary architecture - http://dbpedia.org/resource/Contemporary_architecture
-
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-
-eurotunnel - http://dbpedia.org/resource/Channel_Tunnel
-
-easter weekend - http://dbpedia.org/resource/Easter_Week
-
-architectural style - http://dbpedia.org/resource/Architectural_style
-
-death estate - http://dbpedia.org/resource/Estate_(law)
-
-earlshall castle - http://dbpedia.org/resource/Earlshall_Castle
-
-affleck castle - http://dbpedia.org/resource/Affleck_Castle
-
-carrot - http://dbpedia.org/resource/Carrot
-
-pub lunch - http://dbpedia.org/resource/Pub
-
-hoof - http://dbpedia.org/resource/Hoof
-
-sluys - http://dbpedia.org/resource/Sluis
-
-invasion - http://dbpedia.org/resource/Invasion
-
-havoc - http://dbpedia.org/resource/June_Havoc
-
-bertrand du guesclin - http://dbpedia.org/resource/Bertrand_du_Guesclin
-
-vinegar - http://dbpedia.org/resource/Vinegar
-
-hump - http://dbpedia.org/resource/Camel
-
-edward balliol - http://dbpedia.org/resource/Edward_Balliol
-
-crowhurst - http://dbpedia.org/resource/Crowhurst_railway_station
-
-restaurant - http://dbpedia.org/resource/Restaurant
-
-hair dresser - http://dbpedia.org/resource/Hairdresser
-
-vantage - http://dbpedia.org/resource/Aston_Martin_Vantage
-
-charity - http://dbpedia.org/resource/Charitable_organization
-
-ostrich - http://dbpedia.org/resource/Ostrich
-
-david - http://dbpedia.org/resource/David
-
-hastings - http://dbpedia.org/resource/Hastings
-
-knife - http://dbpedia.org/resource/Knife
-
-tower - http://dbpedia.org/resource/Keep
-
-photography - http://dbpedia.org/resource/Photography
-
-aquitaine - http://dbpedia.org/resource/Aquitaine
-
-political economic - http://dbpedia.org/resource/Political_economy
-
-frant - http://dbpedia.org/resource/Frant
-
-tower house - http://dbpedia.org/resource/Tower_house
-
-mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
-
-cincture - http://dbpedia.org/resource/Cincture
-
-stone - http://dbpedia.org/resource/Stonemasonry
-
-hutterite - http://dbpedia.org/resource/Hutterites
-
-cricket bat - http://dbpedia.org/resource/Cricket_bat
-
-webster - http://dbpedia.org/resource/Martell_Webster
-
-royalist - http://dbpedia.org/resource/Cavalier
-
-cistercian - http://dbpedia.org/resource/Cistercians
-
-gilded - http://dbpedia.org/resource/Gilding
-
-email - http://dbpedia.org/resource/Email
-
-curtain - http://dbpedia.org/resource/Curtain
-
-breakfast - http://dbpedia.org/resource/Breakfast
-
-bretigny - http://dbpedia.org/resource/Brétigny-sur-Orge
-
-town - http://dbpedia.org/resource/Market_town
-
-picnic - http://dbpedia.org/resource/Picnic
-
-cartington castle - http://dbpedia.org/resource/Cartington_Castle
-
-link island - http://dbpedia.org/resource/Link_Island
-
-affinity - http://dbpedia.org/resource/Bastard_feudalism
-
-bus - http://dbpedia.org/resource/Bus
-
-light - http://dbpedia.org/resource/Sunlight
-
-herstmonceux - http://dbpedia.org/resource/Herstmonceux_Castle
-
-moate - http://dbpedia.org/resource/Moate
-
-car park - http://dbpedia.org/resource/Parking_lot
-
-article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
-
-tq - http://dbpedia.org/resource/TQ_(singer)
-
-scalloway castle - http://dbpedia.org/resource/Scalloway_Castle
-
-merlon - http://dbpedia.org/resource/Merlon
-
-outline - http://dbpedia.org/resource/Nutrition
-
-calendar - http://dbpedia.org/resource/Calendar
-
-knights - http://dbpedia.org/resource/Knight_of_the_shire
-
-professor - http://dbpedia.org/resource/Academy
-
-rectangle - http://dbpedia.org/resource/Rectangle
-
-routier - http://dbpedia.org/resource/Routiers
-
-conservation - http://dbpedia.org/resource/Conservation_movement
-
-gwynedd - http://dbpedia.org/resource/Gwynedd
-
-litter - http://dbpedia.org/resource/Litter
-
-jousting - http://dbpedia.org/resource/Jousting
-
-leat - http://dbpedia.org/resource/Leat
-castle house - http://dbpedia.org/resource/Sheffield_Co-operative_Society
-
-indian restaurant - http://dbpedia.org/resource/Indian_cuisine
-
-disability - http://dbpedia.org/resource/Disability
-
-stone enclosure - http://dbpedia.org/resource/Nordic_megalith_architecture
-
-perishable food - http://dbpedia.org/resource/Shelf_life
-
-rother - http://dbpedia.org/resource/Rother_District
-
-carnival - http://dbpedia.org/resource/Carnival
-
-nicholas rigby - http://dbpedia.org/resource/Nicholas_Rigby
-
-slave - http://dbpedia.org/resource/History_of_slavery
-
-truce - http://dbpedia.org/resource/Armistice
-
-train carriage - http://dbpedia.org/resource/Passenger_car_(rail)
-
-northwestern university - http://dbpedia.org/resource/Northwestern_University
-
-array - http://dbpedia.org/resource/Array_data_structure
-
-south east england - http://dbpedia.org/resource/South_East_England
-
-quadrangular plan - http://dbpedia.org/resource/Quadrangular_castle
-
-heart - http://dbpedia.org/resource/Heart_(symbol)
-
-yield - http://dbpedia.org/resource/Nuclear_weapon_yield
-
-m25 - http://dbpedia.org/resource/M25_motorway
-
-liverpool castle - http://dbpedia.org/resource/Liverpool_Castle
-
-stone - http://dbpedia.org/resource/Sandstone
-
-wasin - http://dbpedia.org/resource/Wasin
-
-souvenir - http://dbpedia.org/resource/Souvenir
-
-roundheads - http://dbpedia.org/resource/Roundhead
-
-william de ferrers - http://dbpedia.org/resource/William_de_Ferrers,_4th_Earl_of_Derby
-
-pencoed castle - http://dbpedia.org/resource/Pencoed_Castle
-
-grid reference - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
-
-charles ii - http://dbpedia.org/resource/Charles_II_of_England
-
-thomas webster - http://dbpedia.org/resource/Thomas_Webster_(painter)
-
-cream tea - http://dbpedia.org/resource/Cream_tea
-calais - http://dbpedia.org/resource/Calais
-
-sea sickness - http://dbpedia.org/resource/Motion_sickness
-
-motte castle - http://dbpedia.org/resource/Motte-and-bailey_castle
-
-easter egg - http://dbpedia.org/resource/Easter_egg
-
-patrick stewart - http://dbpedia.org/resource/Patrick_Stewart
-
-memory - http://dbpedia.org/resource/Memory
-
-handbook - http://dbpedia.org/resource/Handbook
-
-gloss - http://dbpedia.org/resource/Interlinear_gloss
-
-attaint - http://dbpedia.org/resource/Writ_of_attaint
-
-prepare - http://dbpedia.org/resource/PREPARE
-
-lime - http://dbpedia.org/resource/Limestone
-
-cabbage - http://dbpedia.org/resource/Cabbage
-
-hotel - http://dbpedia.org/resource/Pub
-
-river loughor - http://dbpedia.org/resource/River_Loughor
-
-grizzly - http://dbpedia.org/resource/Grizzly_bear
-
-catapult - http://dbpedia.org/resource/Catapult
-
-chewy - http://dbpedia.org/resource/Chewy_(company)
-
-mercenary - http://dbpedia.org/resource/Mercenary
-
-indigestion - http://dbpedia.org/resource/Indigestion
-
-bonfire - http://dbpedia.org/resource/Bonfire
-
-father christmas - http://dbpedia.org/resource/Santa_Claus
-
-anglesey - http://dbpedia.org/resource/Anglesey
-
-core product - http://dbpedia.org/resource/Core_product
-
-lake - http://dbpedia.org/resource/Lake
-
-summer - http://dbpedia.org/resource/Midsummer
-
-spiral staircase - http://dbpedia.org/resource/Stairs
-
-marvellous - http://dbpedia.org/resource/Marvellous
-
-geophysical survey - http://dbpedia.org/resource/Geophysics
-
-hastings station - http://dbpedia.org/resource/Hastings_railway_station
-
-bolton castle - http://dbpedia.org/resource/Bolton_Castle
-
-falcon - http://dbpedia.org/resource/Falcon
-
-cardiff - http://dbpedia.org/resource/Cardiff
-
-spring - http://dbpedia.org/resource/Mineral_spring
-
-ollie - http://dbpedia.org/resource/Ollie_(skateboarding)
-
-toilet - http://dbpedia.org/resource/Public_toilet
-
-spring - http://dbpedia.org/resource/Spring_and_Autumn_period
-
-mud - http://dbpedia.org/resource/Adobe
-
-social status - http://dbpedia.org/resource/Social_class
-
-violence - http://dbpedia.org/resource/Violence
-
-gift shop - http://dbpedia.org/resource/Gift_shop
-
-clatter - http://dbpedia.org/resource/Clatter,_Powys
-
-sleepy - http://dbpedia.org/resource/Sleepy_(novel)
-
-courtyard castle - http://dbpedia.org/resource/Quadrangular_castle
-
-quadrilateral - http://dbpedia.org/resource/Quadrilateral
-
-piracy - http://dbpedia.org/resource/Piracy
-
-gaze - http://dbpedia.org/resource/Gaze
-
-crenellation - http://dbpedia.org/resource/Battlement
-
-parade - http://dbpedia.org/resource/Parade
-
-southampton - http://dbpedia.org/resource/Southampton
-
-excavation - http://dbpedia.org/resource/Excavator
-
-milk - http://dbpedia.org/resource/Milk
-
-turret - http://dbpedia.org/resource/Turret
-
-bridge - http://dbpedia.org/resource/Bridge
-
-a21 road - http://dbpedia.org/resource/A21_road_(England)
-
-patent rolls - http://dbpedia.org/resource/Patent_roll
-
-thrive - http://dbpedia.org/resource/Thrive_Music
-
-maid - http://dbpedia.org/resource/Domestic_worker
-
-spice - http://dbpedia.org/resource/Spice
-
-stall - http://dbpedia.org/resource/Market_stall
-
-lewknor - http://dbpedia.org/resource/Lewknor
-
-lordship - http://dbpedia.org/resource/Feudalism
-
-roman period - http://dbpedia.org/resource/Roman_Britain
-
-swansea - http://dbpedia.org/resource/Swansea
-
-bucket - http://dbpedia.org/resource/Bucket
-
-family - http://dbpedia.org/resource/Family
-
-english civil war - http://dbpedia.org/resource/English_Civil_War
-
-sir william bruce - http://dbpedia.org/resource/William_Bruce_(architect)
-
-gaily - http://dbpedia.org/resource/Gaily_(horse)
-
-manor - http://dbpedia.org/resource/Manorialism
-
-charles - http://dbpedia.org/resource/Charles_I_of_England
-
-archaeologist - http://dbpedia.org/resource/Archaeology
-
-medieval period - http://dbpedia.org/resource/Middle_Ages
-
-castle ground - http://dbpedia.org/resource/Castle_Ground
-
-free companies - http://dbpedia.org/resource/Free_company
-
-thanet - http://dbpedia.org/resource/Isle_of_Thanet
-
-fat - http://dbpedia.org/resource/Vegetable_oil
-
-baker - http://dbpedia.org/resource/Bakery
-
-easter egg hunt - http://dbpedia.org/resource/Egg_hunt
-
-beaumaris castle - http://dbpedia.org/resource/Beaumaris_Castle
-
-glamorgan - http://dbpedia.org/resource/Glamorgan
-
-short track - http://dbpedia.org/resource/Oval_track_racing
-
-flour - http://dbpedia.org/resource/Flour
-
-trap door - http://dbpedia.org/resource/Trapdoor
-
-restoration architect - http://dbpedia.org/resource/Building_restoration
-
-concentric - http://dbpedia.org/resource/Concentric_castle
-
-defensive wall - http://dbpedia.org/resource/Defensive_wall
-
-dungeon - http://dbpedia.org/resource/Dungeon
-
-desmond seward - http://dbpedia.org/resource/Desmond_Seward
-
-train - http://dbpedia.org/resource/Train_station
-
-friendly - http://dbpedia.org/resource/Exhibition
-
-claw - http://dbpedia.org/resource/Claw
-
-straw - http://dbpedia.org/resource/Straw
-
-orpington - http://dbpedia.org/resource/Orpington
-
-relic - http://dbpedia.org/resource/Relic
-
-banquet - http://dbpedia.org/resource/Banquet
-
-tuberculosis - http://dbpedia.org/resource/Tuberculosis
-
-apple - http://dbpedia.org/resource/Apple
-
-5 o'clock - http://dbpedia.org/resource/5_O'Clock_(T-Pain_song)
-
-soldier - http://dbpedia.org/resource/Soldier
-
-siege castle - http://dbpedia.org/resource/Counter-castle
-
-supply river - http://dbpedia.org/resource/Supply_River
-
-george day - http://dbpedia.org/resource/George_Day_(bishop)
-
-warwickshire - http://dbpedia.org/resource/Warwickshire
-
-drum tower - http://dbpedia.org/resource/Drum
-
-leven - http://dbpedia.org/resource/Leven,_Fife
-
-toilet - http://dbpedia.org/resource/Toilet
-queen - http://dbpedia.org/resource/Queen_regnant
-
-british army - http://dbpedia.org/resource/British_Army
-
-archery - http://dbpedia.org/resource/Archery
-
-st george - http://dbpedia.org/resource/Saint_George
-
-faith - http://dbpedia.org/resource/Christianity
-
-cinque ports - http://dbpedia.org/resource/Cinque_Ports
-
-silt - http://dbpedia.org/resource/Silt
-
-carp - http://dbpedia.org/resource/Carp
-
-robert knolles - http://dbpedia.org/resource/Robert_Knolles
-
-abbot - http://dbpedia.org/resource/Abbot
-
-willow tree - http://dbpedia.org/resource/Willow
-
-earthwork - http://dbpedia.org/resource/Fortification
-
-reuse - http://dbpedia.org/resource/Adaptive_reuse
-
-law - http://dbpedia.org/resource/English_law
-
-love - http://dbpedia.org/resource/Love
-
-george inn - http://dbpedia.org/resource/The_George_Inn,_Southwark
-
-coffee - http://dbpedia.org/resource/Coffeehouse
-
-social structure - http://dbpedia.org/resource/Social_structure
-
-viceroy - http://dbpedia.org/resource/Viceroy
-
-liquor - http://dbpedia.org/resource/Liquor
-
-loyola university - http://dbpedia.org/resource/Loyola_University_Chicago
-
-helmet - http://dbpedia.org/resource/Helmet
-
-railway station - http://dbpedia.org/resource/Train_station
-
-royal household - http://dbpedia.org/resource/Royal_household
-
-siege - http://dbpedia.org/resource/Siege
-
-coast - http://dbpedia.org/resource/Coast
-
-crenellate - http://dbpedia.org/resource/Battlement
-
-cottage - http://dbpedia.org/resource/Cottage
-
-christopher allmand - http://dbpedia.org/resource/Christopher_Allmand
-
-fat - http://dbpedia.org/resource/Fat
-
-scone - http://dbpedia.org/resource/Scone
-
-ditch - http://dbpedia.org/resource/Moat
-
-fantasy - http://dbpedia.org/resource/Fantasy
-
-vault - http://dbpedia.org/resource/Bank_vault
-
-saxon - http://dbpedia.org/resource/Saxons
-
-brightling - http://dbpedia.org/resource/Brightling
-
-weather - http://dbpedia.org/resource/Weather
-
-scotney castle - http://dbpedia.org/resource/Scotney_Castle
-
-bastion - http://dbpedia.org/resource/Bastion
-
-st - http://dbpedia.org/resource/SATB
-
-village - http://dbpedia.org/resource/Village
-
-defence - http://dbpedia.org/resource/Military
-
-murder - http://dbpedia.org/resource/Murder
-
-space - http://dbpedia.org/resource/Outer_space
-westminster - http://dbpedia.org/resource/Westminster_Abbey
-
-manor house - http://dbpedia.org/resource/Manorialism
-
-train station - http://dbpedia.org/resource/Train_station
-
-alice - http://dbpedia.org/resource/Alice_and_Bob
-
-mount - http://dbpedia.org/resource/Mountain
-
-pyramid - http://dbpedia.org/resource/Pyramid
-
-st. leonards - http://dbpedia.org/resource/St_Leonards-on-Sea
-
-piers - http://dbpedia.org/resource/Pier
-
-courtyard - http://dbpedia.org/resource/Courtyard
-
-reservation - http://dbpedia.org/resource/Indian_reservation
-
-warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
-
-pembrokeshire - http://dbpedia.org/resource/Pembrokeshire
-
-majestic - http://dbpedia.org/resource/Majestic_12
-
-crenellate - http://dbpedia.org/resource/Licence_to_crenellate
-
-croft - http://dbpedia.org/resource/Crofting
-
-militia - http://dbpedia.org/resource/Militia
-
-landscape - http://dbpedia.org/resource/Landscape
-
-sword - http://dbpedia.org/resource/Sword
-
-sevenoaks - http://dbpedia.org/resource/Sevenoaks
-
-single - http://dbpedia.org/resource/Phonograph_record
-
-plantagenet - http://dbpedia.org/resource/House_of_Plantagenet
-
-moat - http://dbpedia.org/resource/Moat
-
-gatehouse - http://dbpedia.org/resource/Gatehouse
-
-volunteer - http://dbpedia.org/resource/Volunteering
-
-egg yolk - http://dbpedia.org/resource/Yolk
-
-edward - http://dbpedia.org/resource/Edward_III_of_England
-
-bothwell castle - http://dbpedia.org/resource/Bothwell_Castle
-
-cauliflower - http://dbpedia.org/resource/Cauliflower
-
-archaeological theory - http://dbpedia.org/resource/Archaeological_theory
-
-great activity - http://dbpedia.org/resource/Great_Activity
-
-masonry - http://dbpedia.org/resource/Stonemasonry
-
-ss - http://dbpedia.org/resource/Short_story
-
-pub - http://dbpedia.org/resource/Pub
-
-battle abbey - http://dbpedia.org/resource/Battle_Abbey
-
-sneaker - http://dbpedia.org/resource/Sneakers
-
-great hall - http://dbpedia.org/resource/Great_hall
-
-embark - http://dbpedia.org/resource/Embark_(transit_authority)
-
-solar - http://dbpedia.org/resource/Solar_panel
-
-defender - http://dbpedia.org/resource/Defendant
-
-flour mill - http://dbpedia.org/resource/Watermill
-
-water - http://dbpedia.org/resource/Water
-
-technology - http://dbpedia.org/resource/Technology
-
-looting - http://dbpedia.org/resource/Looting
-
-postern - http://dbpedia.org/resource/Postern
-
-brick - http://dbpedia.org/resource/Brick
-
-convenience store - http://dbpedia.org/resource/Convenience_store
-
-windsor - http://dbpedia.org/resource/Windsor_Castle
-
-william weir - http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir
-
-haunted - http://dbpedia.org/resource/Haunted_house
-
-invasion - http://dbpedia.org/resource/Operation_Sea_Lion
-
-lord family - http://dbpedia.org/resource/Lord_family
-
-tower - http://dbpedia.org/resource/Keep
-hat - http://dbpedia.org/resource/Hat
-
-sussex - http://dbpedia.org/resource/Sussex
-
-dinefwr castle - http://dbpedia.org/resource/Dinefwr_Castle
-
-bump - http://dbpedia.org/resource/Bump_mapping
-
-landmark - http://dbpedia.org/resource/Landmark
-
-a.d. - http://dbpedia.org/resource/Anno_Domini
-
-john guy - http://dbpedia.org/resource/John_Guy_(colonial_administrator)
-
-crecy - http://dbpedia.org/resource/Rolls-Royce_Crecy
-
-splendid - http://dbpedia.org/resource/Le_Splendid
-
-orkney - http://dbpedia.org/resource/Orkney
-
-train - http://dbpedia.org/resource/Train
-
-dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
-
-fife - http://dbpedia.org/resource/Fife
-
-eynsford - http://dbpedia.org/resource/Eynsford
-
-john fuller - http://dbpedia.org/resource/J._F._C._Fuller
-
-east sussex - http://dbpedia.org/resource/East_Sussex
-
-hydraulic - http://dbpedia.org/resource/Hydraulics
-
-barricade - http://dbpedia.org/resource/Barricade
-
-rail - http://dbpedia.org/resource/Rail_transport
-
-french invasion fleet - http://dbpedia.org/resource/Wolfe_Tone
-
-eynsford castle - http://dbpedia.org/resource/Eynsford_Castle
-
-scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-
-iron - http://dbpedia.org/resource/Cast_iron
-
-size 3 - http://dbpedia.org/resource/Rubik's_Cube
-
-prehistoric - http://dbpedia.org/resource/Prehistory
-
-gate - http://dbpedia.org/resource/Gate
-
-mary - http://dbpedia.org/resource/Mary_I_of_England
-
-audio - http://dbpedia.org/resource/Music
-
-classic case - http://dbpedia.org/resource/Classic_Case
-
-landscaping - http://dbpedia.org/resource/Landscaping
-
-winter - http://dbpedia.org/resource/Tilia
-
-high brooms - http://dbpedia.org/resource/High_Brooms
-
-size 4 - http://dbpedia.org/resource/Rubik's_Revenge
-
-monty python - http://dbpedia.org/resource/Monty_Python
-
-early modern - http://dbpedia.org/resource/Early_modern_period
-
-egg - http://dbpedia.org/resource/Egg_as_food
-
-cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-
-debt - http://dbpedia.org/resource/Debt
-
-atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
-
-sanatorium - http://dbpedia.org/resource/Sanatorium
-
-ridge - http://dbpedia.org/resource/Ridge
-
-caretaker - http://dbpedia.org/resource/Property_caretaker
-
-brand - http://dbpedia.org/resource/Brand
-
-victoria sponge - http://dbpedia.org/resource/Sponge_cake
-
-double room - http://dbpedia.org/resource/Double_Room
-
-badge - http://dbpedia.org/resource/Heraldic_badge
-
-trail - http://dbpedia.org/resource/Trail
-
-orchard village - http://dbpedia.org/resource/Orchard_Village
-
-princess academy - http://dbpedia.org/resource/Princess_Academy
-
-london bridge - http://dbpedia.org/resource/London_Bridge
-
-shire - http://dbpedia.org/resource/Shire
-
-point guard - http://dbpedia.org/resource/Point_guard
-
-thomas howard - http://dbpedia.org/resource/Thomas_Howard,_3rd_Duke_of_Norfolk
-
-aydon castle - http://dbpedia.org/resource/Aydon_Castle
-
-pop - http://dbpedia.org/resource/Pop_music
-
-landscape archaeology - http://dbpedia.org/resource/Landscape_archaeology
-
-barrel - http://dbpedia.org/resource/Barrel
-
-garlic - http://dbpedia.org/resource/Garlic
-map - http://dbpedia.org/resource/Map
-
-surrey - http://dbpedia.org/resource/Surrey
-
-infinite regression - http://dbpedia.org/resource/Infinite_regress
-
-oats - http://dbpedia.org/resource/Oat
-
-archer - http://dbpedia.org/resource/Archery
-
-pillbox - http://dbpedia.org/resource/Bunker
-
-field system - http://dbpedia.org/resource/Field_system
-
-diagram - http://dbpedia.org/resource/Diagram
-
-sterile - http://dbpedia.org/resource/Fertility
-
-mansion - http://dbpedia.org/resource/English_country_house
-
-blacksmith - http://dbpedia.org/resource/Blacksmith
-
-chamber - http://dbpedia.org/resource/Room
-
-shrubbery - http://dbpedia.org/resource/Shrubbery
-
-chemist - http://dbpedia.org/resource/Pharmacy
-
-noble - http://dbpedia.org/resource/Nobility
-
-treason - http://dbpedia.org/resource/Treason
-
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-
-church - http://dbpedia.org/resource/Catholic_Church
-
-tractor - http://dbpedia.org/resource/Tractor
-
-gong - http://dbpedia.org/resource/Gong
-
-folly - http://dbpedia.org/resource/Folly
-
-gardening - http://dbpedia.org/resource/Gardening
-
-perth - http://dbpedia.org/resource/Perth
-
-cranbrook - http://dbpedia.org/resource/Cranbrook_Educational_Community
-
-entail - http://dbpedia.org/resource/Logical_consequence
-
-barbican - http://dbpedia.org/resource/Barbican
+tearoom - http://dbpedia.org/resource/Teahouse
 
 afflecks - http://dbpedia.org/resource/Afflecks
 
+sneakers - http://dbpedia.org/resource/Sneakers
+
+anglesey - http://dbpedia.org/resource/Anglesey
+
+jeans - http://dbpedia.org/resource/Jeans
+
+cake - http://dbpedia.org/resource/Cake
+
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+
+archetypal - http://dbpedia.org/resource/Archetype
+
+royal household - http://dbpedia.org/resource/Royal_household
+
+easter holidays - http://dbpedia.org/resource/Easter_Holidays
+
+barbican - http://dbpedia.org/resource/Barbican
+
+harbour - http://dbpedia.org/resource/Harbor
+
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+
+st. leonards - http://dbpedia.org/resource/St_Leonards-on-Sea
+
+intersection - http://dbpedia.org/resource/Intersectionality
+
+goods - http://dbpedia.org/resource/Conspicuous_consumption
+
+ss - http://dbpedia.org/resource/Short_story
+
+outlaw - http://dbpedia.org/resource/Outlaw
+
+grace - http://dbpedia.org/resource/Charites
+
+gloss - http://dbpedia.org/resource/Interlinear_gloss
+
+resistance - http://dbpedia.org/resource/French_Resistance
+
+pork - http://dbpedia.org/resource/Pork
+
+sj - http://dbpedia.org/resource/Society_of_Jesus
+
+mausoleum - http://dbpedia.org/resource/Mausoleum
+
+30 minutes - http://dbpedia.org/resource/30_Minutes_(song)
+
+food - http://dbpedia.org/resource/Fish_as_food
+
+abbot - http://dbpedia.org/resource/Abbot
+
+sleepy - http://dbpedia.org/resource/Sleepy_(novel)
+
+grove - http://dbpedia.org/resource/Orchard
+
+nov - http://dbpedia.org/resource/NOV_(gene)
+
+coat - http://dbpedia.org/resource/Fur_clothing
+
+judith - http://dbpedia.org/resource/Book_of_Judith
+
+william de clinton - http://dbpedia.org/resource/William_de_Clinton,_1st_Earl_of_Huntingdon
+
+email - http://dbpedia.org/resource/Email
+
+village - http://dbpedia.org/resource/Village
+
+church - http://dbpedia.org/resource/Christian_Church
+
+vernacular houses - http://dbpedia.org/resource/Vernacular_architecture
+
+st george - http://dbpedia.org/resource/Saint_George
+
+perth - http://dbpedia.org/resource/Perth
+
+charles coulson - http://dbpedia.org/resource/Charles_Coulson
+
+south lanarkshire - http://dbpedia.org/resource/South_Lanarkshire
+
+sluys - http://dbpedia.org/resource/Sluis
+
+easter egg - http://dbpedia.org/resource/Easter_egg
+
+m25 - http://dbpedia.org/resource/M25_motorway
+
+earlshall castle - http://dbpedia.org/resource/Earlshall_Castle
+
+early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
+
+earl - http://dbpedia.org/resource/Earl
+
+nicholas rigby - http://dbpedia.org/resource/Nicholas_Rigby
+
+tractor - http://dbpedia.org/resource/Tractor
+
+conserved - http://dbpedia.org/resource/Architectural_conservation
+
+spiral staircases - http://dbpedia.org/resource/Stairs
+
+manuscript - http://dbpedia.org/resource/Manuscript
+
+coffee - http://dbpedia.org/resource/Coffeehouse
+
+st - http://dbpedia.org/resource/SATB
+
+loyola university - http://dbpedia.org/resource/Loyola_University_Chicago
+
+manor - http://dbpedia.org/resource/Manorialism
+
+ollie - http://dbpedia.org/resource/Ollie_(skateboarding)
+
+shrubbery - http://dbpedia.org/resource/Shrubbery
+
+architectural style - http://dbpedia.org/resource/Architectural_style
+
+inn - http://dbpedia.org/resource/Pub
+
+george inn - http://dbpedia.org/resource/The_George_Inn,_Southwark
+
+dissection - http://dbpedia.org/resource/Dissection
+
+wharf - http://dbpedia.org/resource/Wharf
+
+courtyard - http://dbpedia.org/resource/Courtyard
+
+infinite regression - http://dbpedia.org/resource/Infinite_regress
+
+railway station - http://dbpedia.org/resource/Train_station
+
+designed landscape - http://dbpedia.org/resource/Designed_landscape
+
+medieval period - http://dbpedia.org/resource/Middle_Ages
+
+patrick stewart - http://dbpedia.org/resource/Patrick_Stewart
+
+affinity - http://dbpedia.org/resource/Bastard_feudalism
+
+spice - http://dbpedia.org/resource/Spice
+
+anabaptist - http://dbpedia.org/resource/Anabaptism
+
+lime - http://dbpedia.org/resource/Limestone
+
+indian restaurant - http://dbpedia.org/resource/Indian_cuisine
+
+east sussex - http://dbpedia.org/resource/East_Sussex
+
+havoc - http://dbpedia.org/resource/June_Havoc
+
+princess academy - http://dbpedia.org/resource/Princess_Academy
+
+stairs - http://dbpedia.org/resource/Stairs
+
+onions - http://dbpedia.org/resource/Onion
+
+kinross - http://dbpedia.org/resource/Kinross
+
+grizzly - http://dbpedia.org/resource/Grizzly_bear
+
+early modern - http://dbpedia.org/resource/Early_modern_period
+
+gift shop - http://dbpedia.org/resource/Gift_shop
+
+scheduled monument - http://dbpedia.org/resource/Scheduled_monument
+
+leat - http://dbpedia.org/resource/Leat
+
+parade - http://dbpedia.org/resource/Parade
+
+winchelsea - http://dbpedia.org/resource/Winchelsea
+
+shirburn - http://dbpedia.org/resource/Shirburn
+
+thomas webster - http://dbpedia.org/resource/Thomas_Webster_(painter)
+
+tonbridge - http://dbpedia.org/resource/Tonbridge
+
+symmetry - http://dbpedia.org/resource/Symmetry
+
+manager - http://dbpedia.org/resource/Talent_manager
+
+beaumaris castle - http://dbpedia.org/resource/Beaumaris_Castle
+
+memory - http://dbpedia.org/resource/Memory
+
+pope - http://dbpedia.org/resource/Pope
+
+roundheads - http://dbpedia.org/resource/Roundhead
+
+curtain - http://dbpedia.org/resource/Curtain
+
+strike - http://dbpedia.org/resource/Strike_action
+
+os map - http://dbpedia.org/resource/Ordnance_Survey
+
+tuberculosis - http://dbpedia.org/resource/Tuberculosis
+
+architecture - http://dbpedia.org/resource/Architecture
+
+indigestion - http://dbpedia.org/resource/Indigestion
+
+pubs - http://dbpedia.org/resource/Pub
+
+breakfast - http://dbpedia.org/resource/Breakfast
+
+patent rolls - http://dbpedia.org/resource/Patent_roll
+
+masts - http://dbpedia.org/resource/Radio_masts_and_towers
+
+liquor - http://dbpedia.org/resource/Liquor
+
+humphrey stafford - http://dbpedia.org/resource/Humphrey_Stafford,_1st_Duke_of_Buckingham
+
+sir william bruce - http://dbpedia.org/resource/William_Bruce_(architect)
+
+lord hastings - http://dbpedia.org/resource/Baron_Hastings
+
+baron ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
+
+concentric - http://dbpedia.org/resource/Concentric_castle
+
+food - http://dbpedia.org/resource/Food
+
+florist - http://dbpedia.org/resource/Floristry
+
+jousting - http://dbpedia.org/resource/Jousting
+
+compact - http://dbpedia.org/resource/Compact_car
+
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+
+a21 road - http://dbpedia.org/resource/A21_road_(England)
+
+stone - http://dbpedia.org/resource/Stonemasonry
+
+civil war - http://dbpedia.org/resource/English_Civil_War
+
+plantagenet - http://dbpedia.org/resource/House_of_Plantagenet
+
+calendar - http://dbpedia.org/resource/Calendar
+
+cabbage - http://dbpedia.org/resource/Cabbage
+
+archaeologist - http://dbpedia.org/resource/Archaeology
+
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+
+northumberland - http://dbpedia.org/resource/Northumberland
+
+orpington - http://dbpedia.org/resource/Orpington
+
+friendly - http://dbpedia.org/resource/Exhibition
+
+picardy - http://dbpedia.org/resource/Picardy
+
+double room - http://dbpedia.org/resource/Double_Room
+
+fantasy - http://dbpedia.org/resource/Fantasy
+
+brand - http://dbpedia.org/resource/Brand
+
+cauliflower - http://dbpedia.org/resource/Cauliflower
+
+roman - http://dbpedia.org/resource/Roman_Empire
+
+brest - http://dbpedia.org/resource/Battle_for_Brest
+
+peas - http://dbpedia.org/resource/Pea
+
+ceramic - http://dbpedia.org/resource/Pottery
+
+invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+
+barry castle - http://dbpedia.org/resource/Barry_Castle
+
+garrison - http://dbpedia.org/resource/Garrison
+
+badge - http://dbpedia.org/resource/Heraldic_badge
+
+murder holes - http://dbpedia.org/resource/Murder_hole
+
+armor - http://dbpedia.org/resource/Armour
+
+hydraulics - http://dbpedia.org/resource/Hydraulics
+
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+
+tq - http://dbpedia.org/resource/TQ_(singer)
+
+moat - http://dbpedia.org/resource/Moat
+
+coming alive - http://dbpedia.org/resource/Chimaira_discography
+
+spring - http://dbpedia.org/resource/March_equinox
+
+invasion - http://dbpedia.org/resource/Invasion
+
+rye - http://dbpedia.org/resource/Rye
+
+flour mill - http://dbpedia.org/resource/Watermill
+
+cricket bat - http://dbpedia.org/resource/Cricket_bat
+
+soldier - http://dbpedia.org/resource/Soldier
+
+father christmas - http://dbpedia.org/resource/Santa_Claus
+
+london charing cross - http://dbpedia.org/resource/Charing_Cross_railway_station
+
+looting - http://dbpedia.org/resource/Looting
+
+weobley castle - http://dbpedia.org/resource/Weobley_Castle,_Gower
+
+bolton castle - http://dbpedia.org/resource/Bolton_Castle
+
+outline - http://dbpedia.org/resource/Nutrition
+
+yorkshire - http://dbpedia.org/resource/Yorkshire
+
+feudal - http://dbpedia.org/resource/Feudalism
+
+chicken - http://dbpedia.org/resource/Chicken
+
+london gatwick - http://dbpedia.org/resource/Gatwick_Airport
+
+river monnow - http://dbpedia.org/resource/River_Monnow
+
+costumed characters - http://dbpedia.org/resource/Costumed_character
+
+middleham castle - http://dbpedia.org/resource/Middleham_Castle
+
+defence - http://dbpedia.org/resource/Military
+
+sir robert lorimer - http://dbpedia.org/resource/Robert_Lorimer
+
+mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
+
+coast - http://dbpedia.org/resource/Coast
+
+violence - http://dbpedia.org/resource/Violence
+
+parliamentarian - http://dbpedia.org/resource/Roundhead
+
+brick - http://dbpedia.org/resource/Brick
+
+bastion - http://dbpedia.org/resource/Bastion
+
+function - http://dbpedia.org/resource/Role
+
+fat - http://dbpedia.org/resource/Obesity
+
+knights - http://dbpedia.org/resource/Knight_of_the_shire
+
+aquitaine - http://dbpedia.org/resource/Aquitaine
+
+follies - http://dbpedia.org/resource/Folly
+
+tea room - http://dbpedia.org/resource/Teahouse
+
+castle ground - http://dbpedia.org/resource/Castle_Ground
+
+st. george - http://dbpedia.org/resource/Saint_George
+splendid - http://dbpedia.org/resource/Le_Splendid
+
+picnic - http://dbpedia.org/resource/Picnic
+
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+
+salix - http://dbpedia.org/resource/Willow
+
+landscape archaeology - http://dbpedia.org/resource/Landscape_archaeology
+
+memorabilia - http://dbpedia.org/resource/Souvenir
+
+dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+
+courageous - http://dbpedia.org/resource/Operation_Courageous
+
+earthwork - http://dbpedia.org/resource/Fortification
+
+willow trees - http://dbpedia.org/resource/Willow
+
+straw - http://dbpedia.org/resource/Straw
+
 romantic - http://dbpedia.org/resource/Romanticism
+
+mansion - http://dbpedia.org/resource/English_country_house
+
+frant - http://dbpedia.org/resource/Frant
+
+size 4 - http://dbpedia.org/resource/Rubik's_Revenge
+
+social status - http://dbpedia.org/resource/Social_class
+
+hutchinson - http://dbpedia.org/resource/Shaun_Hutchinson
+
+windsor - http://dbpedia.org/resource/Windsor_Castle
+
+hutterite - http://dbpedia.org/resource/Hutterites
+
+gong - http://dbpedia.org/resource/Gong
+
+quadrangle - http://dbpedia.org/resource/Quadrilateral
+
+archaeological theory - http://dbpedia.org/resource/Archaeological_theory
+
+human - http://dbpedia.org/resource/Human_nature
+
+iron - http://dbpedia.org/resource/Cast_iron
+
+dunster castle - http://dbpedia.org/resource/Dunster_Castle
+
+stone buildings - http://dbpedia.org/resource/Stone_Buildings
+
+effigy - http://dbpedia.org/resource/Effigy
+
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+
+bodiam - http://dbpedia.org/resource/Bodiam
+
+ivy - http://dbpedia.org/resource/Hedera
+
+latin - http://dbpedia.org/resource/Latin
+
+lancastrian - http://dbpedia.org/resource/House_of_Lancaster
+
+summer - http://dbpedia.org/resource/Midsummer
+
+calais - http://dbpedia.org/resource/Calais
+
+sand - http://dbpedia.org/resource/Sand
+
+milk - http://dbpedia.org/resource/Milk
+
+siege - http://dbpedia.org/resource/Siege
+
+ballistas - http://dbpedia.org/resource/Ballista
+
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+
+crenellate - http://dbpedia.org/resource/Battlement
+barley wine - http://dbpedia.org/resource/Barley_wine
+
+quadrilateral - http://dbpedia.org/resource/Quadrilateral
+
+egg yolks - http://dbpedia.org/resource/Yolk
+
+capitalist - http://dbpedia.org/resource/Capitalism
+
+living quarters - http://dbpedia.org/resource/Living_Quarters
+
+scotney castle - http://dbpedia.org/resource/Scotney_Castle
+
+topographical - http://dbpedia.org/resource/Landscape
+
+parliament - http://dbpedia.org/resource/Parliament_of_England
+
+toy - http://dbpedia.org/resource/Toy
+
+catapults - http://dbpedia.org/resource/Catapult
+
+wedding - http://dbpedia.org/resource/Wedding
+
+cinque ports - http://dbpedia.org/resource/Cinque_Ports
+
+leven - http://dbpedia.org/resource/Leven,_Fife
+
+social organization - http://dbpedia.org/resource/Institution
+
+lewknor - http://dbpedia.org/resource/Lewknor
+
+castell moel - http://dbpedia.org/resource/Castell_Moel
+
+garderobe - http://dbpedia.org/resource/Garderobe
+
+weather - http://dbpedia.org/resource/Weather
+flour - http://dbpedia.org/resource/Flour
+
+preoccupied - http://dbpedia.org/resource/International_Code_of_Zoological_Nomenclature
+
+faith - http://dbpedia.org/resource/Christianity
+
+conservation - http://dbpedia.org/resource/Conservation_movement
+
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+
+moated castle - http://dbpedia.org/resource/Moat
+
+fife - http://dbpedia.org/resource/Fife
+
+designed landscapes - http://dbpedia.org/resource/Landscape_architecture
+
+webster - http://dbpedia.org/resource/Martell_Webster
+
+southampton - http://dbpedia.org/resource/Southampton
+
+aydon castle - http://dbpedia.org/resource/Aydon_Castle
+
+majestic - http://dbpedia.org/resource/Majestic_12
+
+manor house - http://dbpedia.org/resource/Manorialism
+
+relics - http://dbpedia.org/resource/Relic
+
+bonfire - http://dbpedia.org/resource/Bonfire
+
+garlic - http://dbpedia.org/resource/Garlic
+
+pele tower - http://dbpedia.org/resource/Peel_tower
+
+a21 - http://dbpedia.org/resource/A21_autoroute
+
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+bolts - http://dbpedia.org/resource/Crossbow_bolt
+
+dover - http://dbpedia.org/resource/Dover
+
+olives - http://dbpedia.org/resource/Olive
+
+sterile - http://dbpedia.org/resource/Fertility
+
+glamorgan - http://dbpedia.org/resource/Glamorgan
+
+iron - http://dbpedia.org/resource/Ferrous_metallurgy
+
+curtain walls - http://dbpedia.org/resource/Curtain_wall_(fortification)
+
+haunted - http://dbpedia.org/resource/Haunted_house
+
+general waller - http://dbpedia.org/resource/William_Waller
+
+enclosure - http://dbpedia.org/resource/Enclosure
+
+queen - http://dbpedia.org/resource/Queen_consort
+
+kent county - http://dbpedia.org/resource/Kent_County_Cricket_Club
+
+contemporary architecture - http://dbpedia.org/resource/Contemporary_architecture
+
+richard iii - http://dbpedia.org/resource/Richard_III_of_England
+
+motte castle - http://dbpedia.org/resource/Motte-and-bailey_castle
+
+eynsford castle - http://dbpedia.org/resource/Eynsford_Castle
+
+dinefwr castle - http://dbpedia.org/resource/Dinefwr_Castle
+
+disabilities - http://dbpedia.org/resource/Americans_with_Disabilities_Act_of_1990
+
+stone enclosure - http://dbpedia.org/resource/Nordic_megalith_architecture
+
+timber - http://dbpedia.org/resource/Timber_framing
+
+bottle - http://dbpedia.org/resource/Bottle
+
+scones - http://dbpedia.org/resource/Scone
+
+law - http://dbpedia.org/resource/English_law
+
+family - http://dbpedia.org/resource/Family
+
+trail - http://dbpedia.org/resource/Trail
+
+pop - http://dbpedia.org/resource/Pop_music
+
+sandcastles - http://dbpedia.org/resource/Sand_art_and_play
+
+picton castle - http://dbpedia.org/resource/Picton_Castle
+
+salted - http://dbpedia.org/resource/Salt
+
+a.d. - http://dbpedia.org/resource/Anno_Domini
+
+fortification - http://dbpedia.org/resource/Castle
+
+rother - http://dbpedia.org/resource/Rother_District
+
+grass - http://dbpedia.org/resource/Cereal
+
+bridge - http://dbpedia.org/resource/Bridge
+
+gaze - http://dbpedia.org/resource/Gaze
+
+angle - http://dbpedia.org/resource/Angle
+
+temptation - http://dbpedia.org/resource/Temptation
+
+owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
+
+britain - http://dbpedia.org/resource/Roman_Britain
+
+gwynedd - http://dbpedia.org/resource/Gwynedd
+
+piers - http://dbpedia.org/resource/Pier
+
+river loughor - http://dbpedia.org/resource/River_Loughor
+
+wadhurst - http://dbpedia.org/resource/Wadhurst
+vantage - http://dbpedia.org/resource/Aston_Martin_Vantage
+
+central london - http://dbpedia.org/resource/Central_London
+
+merlons - http://dbpedia.org/resource/Merlon
+
+echo - http://dbpedia.org/resource/Echo
+
+biscuits - http://dbpedia.org/resource/Biscuit
+
+technology - http://dbpedia.org/resource/Technology
+
+drum towers - http://dbpedia.org/resource/Drum_tower_(Europe)
+
+spit - http://dbpedia.org/resource/Rotisserie
+
+lordship - http://dbpedia.org/resource/Feudalism
+
+lush - http://dbpedia.org/resource/Lush_3
+
+high brooms - http://dbpedia.org/resource/High_Brooms
+
+cottage - http://dbpedia.org/resource/Cottage
+
+great hall - http://dbpedia.org/resource/Great_hall
+
+ridge - http://dbpedia.org/resource/Ridge
+
+claret - http://dbpedia.org/resource/Bordeaux_wine
+
+bertrand du guesclin - http://dbpedia.org/resource/Bertrand_du_Guesclin
+
+lord ashcombe - http://dbpedia.org/resource/Baron_Ashcombe
+
+cardiff - http://dbpedia.org/resource/Cardiff
+
+liverpool - http://dbpedia.org/resource/Liverpool
+
+tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
+
+hair dresser - http://dbpedia.org/resource/Hairdresser
+
+colin - http://dbpedia.org/resource/Large_intestine
+
+station - http://dbpedia.org/resource/Train_station
+
+tenterden - http://dbpedia.org/resource/Tenterden
+
+space - http://dbpedia.org/resource/Outer_space
+
+bruderhof - http://dbpedia.org/resource/Bruderhof_Communities
+
+landscape - http://dbpedia.org/resource/Landscape
+
+edward - http://dbpedia.org/resource/Edward_III_of_England
 
 hoarding - http://dbpedia.org/resource/Billboard
 
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
+
+herstmonceux - http://dbpedia.org/resource/Herstmonceux_Castle
+
+leicestershire - http://dbpedia.org/resource/Leicestershire
+
+anne - http://dbpedia.org/resource/Anne_Boleyn
+
+crenellations - http://dbpedia.org/resource/Battlement
+
+sir roger fiennes - http://dbpedia.org/resource/Roger_Fiennes
+
+free companies - http://dbpedia.org/resource/Free_company
+
+guy fawkes - http://dbpedia.org/resource/Guy_Fawkes_Night
+
+restaurant - http://dbpedia.org/resource/Restaurant
+
+pencoed castle - http://dbpedia.org/resource/Pencoed_Castle
+
+winter - http://dbpedia.org/resource/Winter
+
+monty python - http://dbpedia.org/resource/Monty_Python
+
+solar - http://dbpedia.org/resource/Solar_panel
+
+diligent - http://dbpedia.org/resource/Hired_armed_cutter_Diligent
+
+mary - http://dbpedia.org/resource/Mary_I_of_England
+
+array - http://dbpedia.org/resource/Array_data_structure
+
+english civil war - http://dbpedia.org/resource/English_Civil_War
+
+thomas howard - http://dbpedia.org/resource/Thomas_Howard,_3rd_Duke_of_Norfolk
+
+masonry - http://dbpedia.org/resource/Stonemasonry
+
+henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+
+sevenoaks - http://dbpedia.org/resource/Sevenoaks
+
+fog - http://dbpedia.org/resource/Fog
+
+king richard ii - http://dbpedia.org/resource/Richard_II_of_England
+
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+
+shetland - http://dbpedia.org/resource/Shetland
+
+pele towers - http://dbpedia.org/resource/Peel_tower
+
+clatter - http://dbpedia.org/resource/Clatter,_Powys
+
+william weir - http://dbpedia.org/resource/William_Weir,_1st_Viscount_Weir
+
+murder - http://dbpedia.org/resource/Murder
+
+professional soldier - http://dbpedia.org/resource/Professional_Soldier
+
+train - http://dbpedia.org/resource/Rail_transport
+
+kent - http://dbpedia.org/resource/Kent
+
+battlements - http://dbpedia.org/resource/Battlement
+
+moated castle - http://dbpedia.org/resource/Moat
+royalist - http://dbpedia.org/resource/Cavalier
+
+observation - http://dbpedia.org/resource/Observation
+
+charles ii - http://dbpedia.org/resource/Charles_II_of_England
+
+bridleways - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+
+manor house - http://dbpedia.org/resource/Manor_house
+
+vinegar - http://dbpedia.org/resource/Vinegar
+
+high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+
+spiral staircase - http://dbpedia.org/resource/Stairs
+
+saxon - http://dbpedia.org/resource/Saxons
+
+swansea - http://dbpedia.org/resource/Swansea
+
+maxstoke castle - http://dbpedia.org/resource/Maxstoke_Castle
+
+ducks - http://dbpedia.org/resource/Duck
+
+shire - http://dbpedia.org/resource/Shire
+
+baker - http://dbpedia.org/resource/Bakery
+
+british army - http://dbpedia.org/resource/British_Army
+
+flanders - http://dbpedia.org/resource/County_of_Flanders
+
+george cubitt - http://dbpedia.org/resource/George_Cubitt,_1st_Baron_Ashcombe
+
+courtyard castle - http://dbpedia.org/resource/Quadrangular_castle
+
+cash - http://dbpedia.org/resource/Cash
+
+kirby muxloe castle - http://dbpedia.org/resource/Kirby_Muxloe_Castle
+
+defensive walls - http://dbpedia.org/resource/Defensive_wall
+
+medieval england - http://dbpedia.org/resource/Middle_Ages
+
+philippa - http://dbpedia.org/resource/Philippa_of_Hainault
+
+eggs - http://dbpedia.org/resource/Egg_as_food
+
+tower house - http://dbpedia.org/resource/Tower_house
+
+surrey - http://dbpedia.org/resource/Surrey
+
+treason - http://dbpedia.org/resource/Treason
+
+top hat - http://dbpedia.org/resource/Top_hat
+
+car park - http://dbpedia.org/resource/Parking_lot
+
+settlement - http://dbpedia.org/resource/Town
+
+kedleston - http://dbpedia.org/resource/Kedleston
+
+cadbury - http://dbpedia.org/resource/Cadbury
+
+gardening - http://dbpedia.org/resource/Gardening
+
+rural - http://dbpedia.org/resource/Rural_area
+
+rectangle - http://dbpedia.org/resource/Rectangle
+
+stonegate - http://dbpedia.org/resource/Ticehurst
+
+minding - http://dbpedia.org/resource/Minding_(horse)
+
+postern - http://dbpedia.org/resource/Postern
+
+orleans - http://dbpedia.org/resource/New_Orleans
+
+french invasion fleet - http://dbpedia.org/resource/Wolfe_Tone
+
+mercenary - http://dbpedia.org/resource/Mercenary
+
+high street - http://dbpedia.org/resource/High_Street
+
+object - http://dbpedia.org/resource/Astronomical_object
+
+affleck castle - http://dbpedia.org/resource/Affleck_Castle
+
+seal - http://dbpedia.org/resource/Pinniped
+
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+
+public footpaths - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+
+oats - http://dbpedia.org/resource/Oat
+
+stone - http://dbpedia.org/resource/Sandstone
+
+apple - http://dbpedia.org/resource/Apple
+
+ritual - http://dbpedia.org/resource/Ritual
+
+william de ferrers - http://dbpedia.org/resource/William_de_Ferrers,_4th_Earl_of_Derby
+
+monmouthshire - http://dbpedia.org/resource/Monmouthshire
+
+herb - http://dbpedia.org/resource/Herb
+
+runs - http://dbpedia.org/resource/Piste
+
+mud - http://dbpedia.org/resource/Adobe
+
+thicket - http://dbpedia.org/resource/Thicket
+
+size 3 - http://dbpedia.org/resource/Rubik's_Cube
+
+quadrangular design - http://dbpedia.org/resource/Quadrangular_castle
+
+pantry - http://dbpedia.org/resource/Pantry
+
+lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
+
+guardhouse - http://dbpedia.org/resource/Watchtower
+
+quadrangular plan - http://dbpedia.org/resource/Quadrangular_castle
+
+attainted - http://dbpedia.org/resource/Attainder
+
+floor plan - http://dbpedia.org/resource/Floor_plan
+
+charing cross station - http://dbpedia.org/resource/Charing_Cross_railway_station
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+
+bucket - http://dbpedia.org/resource/Bucket
+
+turnips - http://dbpedia.org/resource/Turnip
+
+charles - http://dbpedia.org/resource/Charles_I_of_England
+
+chewy - http://dbpedia.org/resource/Chewy_(company)
+
+anthropology - http://dbpedia.org/resource/Cultural_anthropology
+
+hawkhurst - http://dbpedia.org/resource/Hawkhurst
+
+john fuller - http://dbpedia.org/resource/J._F._C._Fuller
+
+military theorists - http://dbpedia.org/resource/Military_theory
+
+wheelchair - http://dbpedia.org/resource/Wheelchair
+
+hastings station - http://dbpedia.org/resource/Hastings_railway_station
+
+sanatorium - http://dbpedia.org/resource/Sanatorium
+
+vaulted - http://dbpedia.org/resource/Barrel_vault
+
+easter weekend - http://dbpedia.org/resource/Easter_Week
+
+trackway - http://dbpedia.org/resource/Historic_roads_and_trails
+
+brightling - http://dbpedia.org/resource/Brightling
+
+carmarthenshire - http://dbpedia.org/resource/Carmarthenshire
+
 somerset - http://dbpedia.org/resource/Somerset
+
+steam locomotive - http://dbpedia.org/resource/Steam_locomotive
+
+drawbridge - http://dbpedia.org/resource/Drawbridge
+
+short track - http://dbpedia.org/resource/Oval_track_racing
+
+portcullis - http://dbpedia.org/resource/Portcullis
+
+slaves - http://dbpedia.org/resource/History_of_slavery
+
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+
+buttery - http://dbpedia.org/resource/Buttery_(room)
+
+prehistoric - http://dbpedia.org/resource/Prehistory
+
+holy grail - http://dbpedia.org/resource/Holy_Grail
+
+great tower - http://dbpedia.org/resource/Keep
+
+professor - http://dbpedia.org/resource/Academy
+
+cincture - http://dbpedia.org/resource/Cincture
+
+alice - http://dbpedia.org/resource/Alice_and_Bob
+
+wished - http://dbpedia.org/resource/Wished_(film)
+
+winter - http://dbpedia.org/resource/Tilia
+
+baking - http://dbpedia.org/resource/Baking
+
+water - http://dbpedia.org/resource/Water
+
+coffee shop - http://dbpedia.org/resource/Coffeehouse
+
+bread - http://dbpedia.org/resource/Bread
+
+routiers - http://dbpedia.org/resource/Routiers
+
+queen - http://dbpedia.org/resource/Queen_regnant
+
+middle ages - http://dbpedia.org/resource/Middle_Ages
+
+desmond seward - http://dbpedia.org/resource/Desmond_Seward
+
+provinces - http://dbpedia.org/resource/Roman_province
+
+york - http://dbpedia.org/resource/House_of_York
+
+liverpool castle - http://dbpedia.org/resource/Liverpool_Castle
+
+fireworks - http://dbpedia.org/resource/Fireworks
+
+priest - http://dbpedia.org/resource/Clergy
+
+silt - http://dbpedia.org/resource/Silt
+
+arms - http://dbpedia.org/resource/Coat_of_arms
+
+5 o'clock - http://dbpedia.org/resource/5_O'Clock_(T-Pain_song)
+
+eynsford - http://dbpedia.org/resource/Eynsford
+
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+constable - http://dbpedia.org/resource/Castellan
+
+springs - http://dbpedia.org/resource/Mineral_spring
+
+knives - http://dbpedia.org/resource/Knife
+
+average height - http://dbpedia.org/resource/Human_height
+
+pottery - http://dbpedia.org/resource/Pottery
+
+levett - http://dbpedia.org/resource/Levett
+
+gate - http://dbpedia.org/resource/Gate
+
+eccentric - http://dbpedia.org/resource/Orbital_eccentricity
+
+roundtrip - http://dbpedia.org/resource/Roundtrip_(film)
+
+beans - http://dbpedia.org/resource/Bean
+
+stocked - http://dbpedia.org/resource/Fish_stocking
+
+east grinstead - http://dbpedia.org/resource/East_Grinstead
+
+sea sickness - http://dbpedia.org/resource/Motion_sickness
+
+gaily - http://dbpedia.org/resource/Gaily_(horse)
+
+victoria sponge - http://dbpedia.org/resource/Sponge_cake
+
+concentric castle - http://dbpedia.org/resource/Concentric_castle
+
+bretigny - http://dbpedia.org/resource/Brétigny-sur-Orge
+
+tower - http://dbpedia.org/resource/Keep
+political economic - http://dbpedia.org/resource/Political_economy
+
+roman road - http://dbpedia.org/resource/Roman_roads
+
+knights - http://dbpedia.org/resource/Knight
+
+map - http://dbpedia.org/resource/Map
+
+peasant - http://dbpedia.org/resource/Peasant
+
+westminster - http://dbpedia.org/resource/Westminster_Abbey
+
+planning permission - http://dbpedia.org/resource/Planning_permission
+
+french wine - http://dbpedia.org/resource/French_wine
+
+sussex - http://dbpedia.org/resource/Sussex
+
+thomas lewknor - http://dbpedia.org/resource/Thomas_Lewknor_(MP_for_Midhurst)
+
+manor - http://dbpedia.org/resource/Manor_house
+
+hooves - http://dbpedia.org/resource/Hoof
+
+cooling castle - http://dbpedia.org/resource/Cooling_Castle
+
+battle abbey - http://dbpedia.org/resource/Battle_Abbey
+
+arundel - http://dbpedia.org/resource/Arundel
+
+sully - http://dbpedia.org/resource/Sully_Historic_Site
+
+gatehouse - http://dbpedia.org/resource/Gatehouse
+
+eurotunnel - http://dbpedia.org/resource/Channel_Tunnel
+
+hop fields - http://dbpedia.org/resource/Hops
+
+social structure - http://dbpedia.org/resource/Social_structure
+
+cricket bats - http://dbpedia.org/resource/Cricket_bat
+
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+
+captain - http://dbpedia.org/resource/Sea_captain
+
+train - http://dbpedia.org/resource/Train_station
+
+litter - http://dbpedia.org/resource/Litter
+
+listed building - http://dbpedia.org/resource/Listed_building
+
+carrots - http://dbpedia.org/resource/Carrot
+
+pembrokeshire - http://dbpedia.org/resource/Pembrokeshire
+
+furniture - http://dbpedia.org/resource/Furniture
+
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+
+meat - http://dbpedia.org/resource/Meat
+
+hotel - http://dbpedia.org/resource/Pub
+
+thomas dagworth - http://dbpedia.org/resource/Thomas_Dagworth
+
+tea cake - http://dbpedia.org/resource/Teacake
+
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+
+church - http://dbpedia.org/resource/Catholic_Church
+
+fortress - http://dbpedia.org/resource/Castle
+
+fishponds - http://dbpedia.org/resource/Fish_pond
+
+matthew johnson - http://dbpedia.org/resource/Matthew_Johnson_(rugby_union)
+
+steam - http://dbpedia.org/resource/Steam_locomotive
+
+dynamiting - http://dbpedia.org/resource/Dynamite
+
+piracy - http://dbpedia.org/resource/Piracy
+
+john tufton - http://dbpedia.org/resource/John_Tufton_(cricketer)
+
+diagram - http://dbpedia.org/resource/Diagram
+
+helmet - http://dbpedia.org/resource/Helmet
+
+rail - http://dbpedia.org/resource/Rail_transport
+
+english coast - http://dbpedia.org/resource/English_Coast
+
+handbook - http://dbpedia.org/resource/Handbook
+
+crecy - http://dbpedia.org/resource/Rolls-Royce_Crecy
+
+caretaker - http://dbpedia.org/resource/Property_caretaker
+
+carp - http://dbpedia.org/resource/Carp
+
+hastings - http://dbpedia.org/resource/Hastings
+
+photography - http://dbpedia.org/resource/Photography
+
+pub - http://dbpedia.org/resource/Pub
+
+charity - http://dbpedia.org/resource/Alms
+
+poitiers - http://dbpedia.org/resource/Battle_of_Poitiers
+
+northwestern university - http://dbpedia.org/resource/Northwestern_University
+
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+
+audio - http://dbpedia.org/resource/Music
+
+pyramid - http://dbpedia.org/resource/Pyramid
+
+honorific - http://dbpedia.org/resource/Honorific
+
+overgrown - http://dbpedia.org/resource/Overgrown
+
+convenience stores - http://dbpedia.org/resource/Convenience_store
+
+angus - http://dbpedia.org/resource/Earl_of_Angus
+
+cistercian - http://dbpedia.org/resource/Cistercians
+
+clearing - http://dbpedia.org/resource/Deforestation
+solar - http://dbpedia.org/resource/Solar_eclipse
+
+trebuchets - http://dbpedia.org/resource/Trebuchet
+
+marvellous - http://dbpedia.org/resource/Marvellous
+
+governor - http://dbpedia.org/resource/Governor
+
+bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
+
+mercenaries - http://dbpedia.org/resource/Mercenary
+
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+
+easter bunny - http://dbpedia.org/resource/Easter_Bunny
+
+grid reference - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
+
+epitome - http://dbpedia.org/resource/Ab_Urbe_Condita_Libri
+
+edward balliol - http://dbpedia.org/resource/Edward_Balliol
+
+viceroy - http://dbpedia.org/resource/Viceroy
+
+crowhurst - http://dbpedia.org/resource/Crowhurst_railway_station
+
+gilded - http://dbpedia.org/resource/Gilding
+
+rede - http://dbpedia.org/resource/Wiccan_Rede
+
+carnival - http://dbpedia.org/resource/Carnival
+
+commune - http://dbpedia.org/resource/Commune
+
+trap door - http://dbpedia.org/resource/Trapdoor
+
+nobility - http://dbpedia.org/resource/Nobility
+
+town - http://dbpedia.org/resource/Market_town
+
+wasin - http://dbpedia.org/resource/Wasin
+
+landscaping - http://dbpedia.org/resource/Landscaping
+
+croft - http://dbpedia.org/resource/Crofting
+
+john guy - http://dbpedia.org/resource/John_Guy_(colonial_administrator)
+
+blog - http://dbpedia.org/resource/Blog
+
+historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+
+larissa - http://dbpedia.org/resource/Larissa
+
+classic case - http://dbpedia.org/resource/Classic_Case
+
+chemist - http://dbpedia.org/resource/Pharmacy
+
+metal - http://dbpedia.org/resource/Metalworking
+
+rock - http://dbpedia.org/resource/Rock_music
+
+cranbrook - http://dbpedia.org/resource/Cranbrook_Educational_Community
+
+lock - http://dbpedia.org/resource/Lock_and_key
+
+single - http://dbpedia.org/resource/Phonograph_record
+
+warwickshire - http://dbpedia.org/resource/Warwickshire
+
+pub lunch - http://dbpedia.org/resource/Pub
+
+sandstone - http://dbpedia.org/resource/Sandstone
+
+french port - http://dbpedia.org/resource/Mask_Singer_(French_TV_series)
+
+parliamentarian - http://dbpedia.org/resource/Parliament_of_England
+
+archers - http://dbpedia.org/resource/Bow_and_arrow
+
+bus - http://dbpedia.org/resource/Bus
+
+love - http://dbpedia.org/resource/Love
+
+counties - http://dbpedia.org/resource/County
+
+cream tea - http://dbpedia.org/resource/Cream_tea
+
+east sussex - http://dbpedia.org/resource/East_Sussex
+causeways - http://dbpedia.org/resource/Causeway
+
+reservations - http://dbpedia.org/resource/Indian_reservation
+
+christopher allmand - http://dbpedia.org/resource/Christopher_Allmand
+
+ideal - http://dbpedia.org/resource/Thought_experiment
+
+medieval - http://dbpedia.org/resource/Middle_Ages
+
+archery - http://dbpedia.org/resource/Archery
+
+geophysical survey - http://dbpedia.org/resource/Geophysics
+
+bothwell castle - http://dbpedia.org/resource/Bothwell_Castle
+
+powell - http://dbpedia.org/resource/Lewis_F._Powell_Jr.
+
+archers - http://dbpedia.org/resource/English_longbow
+
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+
+etchingham - http://dbpedia.org/resource/Etchingham
+
+crenellate - http://dbpedia.org/resource/Licence_to_crenellate
+
+cartington castle - http://dbpedia.org/resource/Cartington_Castle
+
+debt - http://dbpedia.org/resource/Debt
+
+david - http://dbpedia.org/resource/David_II_of_Scotland
+
+telephone - http://dbpedia.org/resource/Telephone
+
+skenfrith castle - http://dbpedia.org/resource/Skenfrith_Castle
+
+david - http://dbpedia.org/resource/David
+
+truce - http://dbpedia.org/resource/Armistice
+
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+
+field system - http://dbpedia.org/resource/Field_system
+
+ghosts - http://dbpedia.org/resource/Ghost
+
+ditch - http://dbpedia.org/resource/Moat
+
+train station - http://dbpedia.org/resource/Train_station
+
+hamlet - http://dbpedia.org/resource/Unincorporated_area
+
+turrets - http://dbpedia.org/resource/Turret
+
+sir hugh calveley - http://dbpedia.org/resource/Hugh_Calveley
+
+blacksmith - http://dbpedia.org/resource/Blacksmith
+
+national trust - http://dbpedia.org/resource/National_trust
+
+jackson - http://dbpedia.org/resource/Andrew_Jackson
+
+vegetation - http://dbpedia.org/resource/Vegetation
+
+heart - http://dbpedia.org/resource/Heart_(symbol)
+
+ostrich - http://dbpedia.org/resource/Ostrich
+
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+
+millpond - http://dbpedia.org/resource/Mill_pond
+
+lake - http://dbpedia.org/resource/Lake
+
+scalloway castle - http://dbpedia.org/resource/Scalloway_Castle
+
+robert knolles - http://dbpedia.org/resource/Robert_Knolles
+
+salehurst - http://dbpedia.org/resource/Salehurst
+
+london bridge - http://dbpedia.org/resource/London_Bridge
+
+water - http://dbpedia.org/resource/Water_supply
+
+security - http://dbpedia.org/resource/Security
+
+orkney - http://dbpedia.org/resource/Orkney
+
+crenellate - http://dbpedia.org/resource/Battlement

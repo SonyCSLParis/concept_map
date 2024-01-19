@@ -1,149 +1,135 @@
-aesthetic - http://dbpedia.org/resource/Aesthetics
-pagan - http://dbpedia.org/resource/Paganism
-wes anderson - http://dbpedia.org/resource/Wes_Anderson
-computer - http://dbpedia.org/resource/Computer_animation
-christianity - http://dbpedia.org/resource/Christianity
-squeeze - http://dbpedia.org/resource/Barotrauma
-digital comic - http://dbpedia.org/resource/Digital_comic
-alphonse mucha - http://dbpedia.org/resource/Alphonse_Mucha
-race - http://dbpedia.org/resource/Racing
-curtain - http://dbpedia.org/resource/Iron_Curtain
-town - http://dbpedia.org/resource/Market_town
-oscar - http://dbpedia.org/resource/Oscar_(fish)
-nimh - http://dbpedia.org/resource/Nickel–metal_hydride_battery
-animator - http://dbpedia.org/resource/Animation
-disney princess - http://dbpedia.org/resource/Disney_Princess
-celtic - http://dbpedia.org/resource/Celtic_music
-frog - http://dbpedia.org/resource/The_Frog_Prince
-culture - http://dbpedia.org/resource/Culture_of_Japan
-oscar campaign - http://dbpedia.org/resource/Academy_Awards
-love - http://dbpedia.org/resource/Love
-2d animation - http://dbpedia.org/resource/Traditional_animation
-rural - http://dbpedia.org/resource/Rural_area
-seal - http://dbpedia.org/resource/Pinniped
-faith - http://dbpedia.org/resource/Faith
-german expressionism - http://dbpedia.org/resource/German_Expressionism
-diary - http://dbpedia.org/resource/Diary
-animated feature - http://dbpedia.org/resource/Animation
-henry selick - http://dbpedia.org/resource/Henry_Selick
-high point - http://dbpedia.org/resource/High_Point_University
-york - http://dbpedia.org/resource/York
-celtic revival - http://dbpedia.org/resource/Celtic_Revival
-poem - http://dbpedia.org/resource/Poetry
-belief system - http://dbpedia.org/resource/World_view
-truth - http://dbpedia.org/resource/Truth
-monastery - http://dbpedia.org/resource/Monastery
-cartoon - http://dbpedia.org/resource/Animation
-bit - http://dbpedia.org/resource/Sketch_comedy
-feature film - http://dbpedia.org/resource/Feature_film
-catholic christian - http://dbpedia.org/resource/Catholic_Church
-hayao miyazaki - http://dbpedia.org/resource/Hayao_Miyazaki
-ivan - http://dbpedia.org/resource/Ivan_the_Terrible
-filmmaking - http://dbpedia.org/resource/Filmmaking
-blu - http://dbpedia.org/resource/Blu_eCigs
-marketing - http://dbpedia.org/resource/Marketing
-times square - http://dbpedia.org/resource/Times_Square
-eye - http://dbpedia.org/resource/Eye
-october 5 - http://dbpedia.org/resource/October_5
-eastern european - http://dbpedia.org/resource/Eastern_Europe
-bill watterson - http://dbpedia.org/resource/Bill_Watterson
-live action - http://dbpedia.org/resource/Live_action
-animation director - http://dbpedia.org/resource/Animation_director
-language - http://dbpedia.org/resource/Language
-virgin mary - http://dbpedia.org/resource/Veneration_of_Mary_in_the_Catholic_Church
-poet - http://dbpedia.org/resource/Poetry
-autograph - http://dbpedia.org/resource/Autograph
-ireland - http://dbpedia.org/resource/Ireland
-animate film - http://dbpedia.org/resource/Animate
-character animation - http://dbpedia.org/resource/Character_animation
-st. patrick - http://dbpedia.org/resource/Saint_Patrick
-ponyo - http://dbpedia.org/resource/Ponyo
-comixology - http://dbpedia.org/resource/ComiXology
-everytime - http://dbpedia.org/resource/Everytime
-aisle - http://dbpedia.org/resource/Aisle
-animation - http://dbpedia.org/resource/Animation
-eclectic - http://dbpedia.org/resource/Eclecticism
-genndy tartakovsky - http://dbpedia.org/resource/Genndy_Tartakovsky
-samurai - http://dbpedia.org/resource/Samurai
-triptych - http://dbpedia.org/resource/Triptych
-fairy - http://dbpedia.org/resource/Fairy_tale
-jack - http://dbpedia.org/resource/Jackfruit
-animated film - http://dbpedia.org/resource/Animation
-comic con - http://dbpedia.org/resource/Comic_book_convention
-netflix - http://dbpedia.org/resource/Netflix
-nora twomey - http://dbpedia.org/resource/Nora_Twomey
-hoodie - http://dbpedia.org/resource/Hoodie
-celtic christianity - http://dbpedia.org/resource/Celtic_Christianity
-gustav klimt - http://dbpedia.org/resource/Gustav_Klimt
-melancholy - http://dbpedia.org/resource/Melancholia
-comic book - http://dbpedia.org/resource/Comic_book
-fox - http://dbpedia.org/resource/Kitsune
-cull - http://dbpedia.org/resource/Culling
-painting - http://dbpedia.org/resource/Painting
-matriarchal - http://dbpedia.org/resource/Matriarchy
-catholicism - http://dbpedia.org/resource/Catholic_Church
-cg animation - http://dbpedia.org/resource/Computer-generated_imagery
-lush - http://dbpedia.org/resource/Lush_3
-animate - http://dbpedia.org/resource/Animation
-heritage - http://dbpedia.org/resource/Tradition
-tm - http://dbpedia.org/resource/Transcendental_Meditation
-viral advertising - http://dbpedia.org/resource/Viral_marketing
-irish catholic - http://dbpedia.org/resource/Irish_people
-oscar party - http://dbpedia.org/resource/Oscar_party
-tomm moore - http://dbpedia.org/resource/Tomm_Moore
-art nouveau - http://dbpedia.org/resource/Art_Nouveau
-rely - http://dbpedia.org/resource/Rely_(brand)
-oscars - http://dbpedia.org/resource/Oscar_(fish)
-poster artist - http://dbpedia.org/resource/Poster
-independent - http://dbpedia.org/resource/Independent_film
-function - http://dbpedia.org/resource/Role
-city - http://dbpedia.org/resource/City
-allegory - http://dbpedia.org/resource/Allegory
-cloister - http://dbpedia.org/resource/Monastery
-prequel - http://dbpedia.org/resource/Star_Wars
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-twitter - http://dbpedia.org/resource/Twitter
-ray - http://dbpedia.org/resource/Batoidea
-film production - http://dbpedia.org/resource/Filmmaking
-adoration - http://dbpedia.org/resource/Eucharistic_adoration
-art director - http://dbpedia.org/resource/Art
-2009 academy awards - http://dbpedia.org/resource/82nd_Academy_Awards
-visual storytelling - http://dbpedia.org/resource/Visual_narrative
-national treasure - http://dbpedia.org/resource/National_treasure
-submarine movie - http://dbpedia.org/resource/Submarine_films
-irish folklore - http://dbpedia.org/resource/Irish_mythology
-aspire - http://dbpedia.org/resource/Acer_Aspire
-confine - http://dbpedia.org/resource/Confine
-underdog - http://dbpedia.org/resource/Underdog
-goddess - http://dbpedia.org/resource/Celtic_mythology
 motion - http://dbpedia.org/resource/Film
-blog - http://dbpedia.org/resource/Blog
-chuckles - http://dbpedia.org/resource/List_of_Toy_Story_characters
-disney - http://dbpedia.org/resource/The_Walt_Disney_Company
-rings - http://dbpedia.org/resource/Sonic_the_Hedgehog
-trailer - http://dbpedia.org/resource/Teaser_campaign
-realism - http://dbpedia.org/resource/Social_realism
-dream vision - http://dbpedia.org/resource/Dream_vision
-legend - http://dbpedia.org/resource/Urban_legend
-selkie - http://dbpedia.org/resource/Selkie
-medieval art - http://dbpedia.org/resource/Medieval_art
-irish history - http://dbpedia.org/resource/History_of_Ireland
-mimic - http://dbpedia.org/resource/Imitation
-mingle - http://dbpedia.org/resource/ThoughtWorks
+lush - http://dbpedia.org/resource/Lush_3
+computer generated animation - http://dbpedia.org/resource/Computer_animation
+hand drawn animation - http://dbpedia.org/resource/Traditional_animation
+celtic revival - http://dbpedia.org/resource/Celtic_Revival
+celtic christianity - http://dbpedia.org/resource/Celtic_Christianity
+animated feature film - http://dbpedia.org/resource/Animation
 cobbler - http://dbpedia.org/resource/Shoemaking
-robin hood - http://dbpedia.org/resource/Robin_Hood
-ton - http://dbpedia.org/resource/Ton
-painter - http://dbpedia.org/resource/Painting
-pixar - http://dbpedia.org/resource/Pixar
-don bluth - http://dbpedia.org/resource/Don_Bluth
+cg animation - http://dbpedia.org/resource/Computer-generated_imagery
+squeeze - http://dbpedia.org/resource/Barotrauma
+samurai - http://dbpedia.org/resource/Samurai
+faith - http://dbpedia.org/resource/Faith
+alphonse mucha - http://dbpedia.org/resource/Alphonse_Mucha
+bill watterson - http://dbpedia.org/resource/Bill_Watterson
+visual storytelling - http://dbpedia.org/resource/Visual_narrative
+heritage - http://dbpedia.org/resource/Tradition
+animation - http://dbpedia.org/resource/Traditional_animation
+comixology - http://dbpedia.org/resource/ComiXology
+eastern european - http://dbpedia.org/resource/Eastern_Europe
+cartoon - http://dbpedia.org/resource/Animation
 printing - http://dbpedia.org/resource/Printing
-richard williams - http://dbpedia.org/resource/Richard_Garnons_Williams
-ross stewart - http://dbpedia.org/resource/Ross_C._Stewart
-coraline - http://dbpedia.org/resource/Coraline
-aisling - http://dbpedia.org/resource/Aisling
-landscape - http://dbpedia.org/resource/Landscape_painting
-hungary - http://dbpedia.org/resource/Hungary
-bone - http://dbpedia.org/resource/Bone
-blogosphere - http://dbpedia.org/resource/Blogosphere
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+animated feature - http://dbpedia.org/resource/Animation
 surreal - http://dbpedia.org/resource/Surrealism
+aisling - http://dbpedia.org/resource/Aisling
+tomm moore - http://dbpedia.org/resource/Tomm_Moore
+ireland - http://dbpedia.org/resource/Ireland
+ray - http://dbpedia.org/resource/Batoidea
+ponyo - http://dbpedia.org/resource/Ponyo
+hungary - http://dbpedia.org/resource/Hungary
+eye - http://dbpedia.org/resource/Eye
+belief system - http://dbpedia.org/resource/World_view
+fox - http://dbpedia.org/resource/Kitsune
+monastery - http://dbpedia.org/resource/Monastery
+animation director - http://dbpedia.org/resource/Animation_director
+adoration - http://dbpedia.org/resource/Eucharistic_adoration
+catholicism - http://dbpedia.org/resource/Catholic_Church
+ross stewart - http://dbpedia.org/resource/Ross_C._Stewart
+frog - http://dbpedia.org/resource/The_Frog_Prince
+painter - http://dbpedia.org/resource/Painting
+mimic - http://dbpedia.org/resource/Imitation
+rings - http://dbpedia.org/resource/Sonic_the_Hedgehog
+prequel - http://dbpedia.org/resource/Star_Wars
+trailer - http://dbpedia.org/resource/Teaser_campaign
+filmmaking - http://dbpedia.org/resource/Filmmaking
+culture - http://dbpedia.org/resource/Culture_of_Japan
+times square - http://dbpedia.org/resource/Times_Square
+blu - http://dbpedia.org/resource/Blu_eCigs
+st. patrick - http://dbpedia.org/resource/Saint_Patrick
+irish folklore - http://dbpedia.org/resource/Irish_mythology
+nimh - http://dbpedia.org/resource/Nickel–metal_hydride_battery
+don bluth - http://dbpedia.org/resource/Don_Bluth
+oscar campaign - http://dbpedia.org/resource/Academy_Awards
+gustav klimt - http://dbpedia.org/resource/Gustav_Klimt
+bone - http://dbpedia.org/resource/Baleen
+2009 academy awards - http://dbpedia.org/resource/82nd_Academy_Awards
+rural - http://dbpedia.org/resource/Rural_area
+selkie - http://dbpedia.org/resource/Selkie
+national treasure - http://dbpedia.org/resource/National_treasure
+goddess - http://dbpedia.org/resource/Celtic_mythology
+york - http://dbpedia.org/resource/York
+genndy tartakovsky - http://dbpedia.org/resource/Genndy_Tartakovsky
+animator - http://dbpedia.org/resource/Animation
+seal - http://dbpedia.org/resource/Pinniped
+learning - http://dbpedia.org/resource/Learning
+tm - http://dbpedia.org/resource/Transcendental_Meditation
+submarine movie - http://dbpedia.org/resource/Submarine_films
+art director - http://dbpedia.org/resource/Art
+netflix - http://dbpedia.org/resource/Netflix
+coraline - http://dbpedia.org/resource/Coraline
+realism - http://dbpedia.org/resource/Social_realism
+curtain - http://dbpedia.org/resource/Iron_Curtain
+pagan - http://dbpedia.org/resource/Paganism
+truth - http://dbpedia.org/resource/Truth
+computer - http://dbpedia.org/resource/Computer_animation
+language - http://dbpedia.org/resource/Language
+allegory - http://dbpedia.org/resource/Allegory
+chuckles - http://dbpedia.org/resource/List_of_Toy_Story_characters
+jack - http://dbpedia.org/resource/Jackfruit
+art nouveau - http://dbpedia.org/resource/Art_Nouveau
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+german expressionism - http://dbpedia.org/resource/German_Expressionism
+celtic - http://dbpedia.org/resource/Celtic_music
+blogosphere - http://dbpedia.org/resource/Blogosphere
+marketing - http://dbpedia.org/resource/Marketing
+robin hood - http://dbpedia.org/resource/Robin_Hood
+diary - http://dbpedia.org/resource/Diary
+town - http://dbpedia.org/resource/Market_town
+irish catholic - http://dbpedia.org/resource/Irish_people
+comic book - http://dbpedia.org/resource/Comic_book
+2d animation - http://dbpedia.org/resource/Traditional_animation
+blog - http://dbpedia.org/resource/Blog
+wes anderson - http://dbpedia.org/resource/Wes_Anderson
+live action - http://dbpedia.org/resource/Live_action
+fairies - http://dbpedia.org/resource/Fairy
+bit - http://dbpedia.org/resource/Sketch_comedy
+legend - http://dbpedia.org/resource/Urban_legend
+landscape - http://dbpedia.org/resource/Landscape_painting
+richard williams - http://dbpedia.org/resource/Richard_Garnons_Williams
+underdog - http://dbpedia.org/resource/Underdog
+oscar - http://dbpedia.org/resource/Oscar_(fish)
+comic con - http://dbpedia.org/resource/Comic_book_convention
+love - http://dbpedia.org/resource/Love
+october 5 - http://dbpedia.org/resource/October_5
+twitter - http://dbpedia.org/resource/Twitter
+storytelling - http://dbpedia.org/resource/Storytelling
+eclectic - http://dbpedia.org/resource/Eclecticism
+fading - http://dbpedia.org/resource/Fading
+poet - http://dbpedia.org/resource/Poetry
+nora twomey - http://dbpedia.org/resource/Nora_Twomey
+aesthetics - http://dbpedia.org/resource/Aesthetics
+everytime - http://dbpedia.org/resource/Everytime
+disney - http://dbpedia.org/resource/The_Walt_Disney_Company
+pixar - http://dbpedia.org/resource/Pixar
+independent animated - http://dbpedia.org/resource/Independent_animation
+blogs - http://dbpedia.org/resource/Blog
+matriarchal - http://dbpedia.org/resource/Matriarchy
+catholic - http://dbpedia.org/resource/Catholic_Church
+animated film - http://dbpedia.org/resource/Animation
+virgin mary - http://dbpedia.org/resource/Veneration_of_Mary_in_the_Catholic_Church
+city - http://dbpedia.org/resource/City
+henry selick - http://dbpedia.org/resource/Henry_Selick
+hayao miyazaki - http://dbpedia.org/resource/Hayao_Miyazaki
+cloisters - http://dbpedia.org/resource/Cloister
+digital comic - http://dbpedia.org/resource/Digital_comic
+melancholy - http://dbpedia.org/resource/Melancholia
+viral advertising - http://dbpedia.org/resource/Viral_marketing
+medieval art - http://dbpedia.org/resource/Medieval_art
+christianity - http://dbpedia.org/resource/Christianity
+hoodie - http://dbpedia.org/resource/Hoodie
+oscars - http://dbpedia.org/resource/Oscar_(fish)
+cartoons - http://dbpedia.org/resource/Animation
+confines - http://dbpedia.org/resource/Angol
+race - http://dbpedia.org/resource/Racing
+ivan - http://dbpedia.org/resource/Ivan_the_Terrible
+irish history - http://dbpedia.org/resource/History_of_Ireland

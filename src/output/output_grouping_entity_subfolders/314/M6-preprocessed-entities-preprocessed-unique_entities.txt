@@ -1,798 +1,711 @@
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-
-rape - http://dbpedia.org/resource/Rape
-
-nij - http://dbpedia.org/resource/National_Institute_of_Justice
-
-philadelphia - http://dbpedia.org/resource/Philadelphia
-
-fodder - http://dbpedia.org/resource/Fodder
-
-bite mark analysis - http://dbpedia.org/resource/Forensic_dentistry
-
-forensic science - http://dbpedia.org/resource/Forensic_science
-
-art conservators - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
-
-chief judge - http://dbpedia.org/resource/Chief_judge
-
-ibid - http://dbpedia.org/resource/Dialectic_of_Enlightenment
-
-gadomski - http://dbpedia.org/resource/Gadomski_(crater)
-
-guilt - http://dbpedia.org/resource/Culpability
-
-jury selection - http://dbpedia.org/resource/Voir_dire
-
-law 9 - http://dbpedia.org/resource/Ball_in_and_out_of_play
-
-television - http://dbpedia.org/resource/Television_show
-
-boston phoenix - http://dbpedia.org/resource/The_Phoenix_(newspaper)
-
-lisa - http://dbpedia.org/resource/Lisa_Simpson
-
-spoon - http://dbpedia.org/resource/Spoon
-
-homicide - http://dbpedia.org/resource/Homicide
-
-undergraduate - http://dbpedia.org/resource/Undergraduate_education
-
-hirschhorn - http://dbpedia.org/resource/Hirschhorn
-
-defense - http://dbpedia.org/resource/Criminal_defense_lawyer
-
-mass medium - http://dbpedia.org/resource/Mass_media
-
-york - http://dbpedia.org/resource/York
-
-truth - http://dbpedia.org/resource/Truth
-
-ms - http://dbpedia.org/resource/Millisecond
-
-hair - http://dbpedia.org/resource/Hair
-
-engender - http://dbpedia.org/resource/Engender
-
-recount - http://dbpedia.org/resource/Election_recount
-
-empirical - http://dbpedia.org/resource/Empirical_research
-
-internship - http://dbpedia.org/resource/Internship
-
-crime - http://dbpedia.org/resource/Crime
-
-art conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
-
-dub - http://dbpedia.org/resource/Dub_music
-
-special victims unit - http://dbpedia.org/resource/Special_Victims_Unit
-
-qualitative method - http://dbpedia.org/resource/Qualitative_research
-
-sacrifice - http://dbpedia.org/resource/Human_sacrifice
-
-phd - http://dbpedia.org/resource/Doctor_of_Philosophy
-
-datum - http://dbpedia.org/resource/Data
-
-evidence collection - http://dbpedia.org/resource/Digital_forensics
-
-criminal trial - http://dbpedia.org/resource/Criminal_law
-
-sensationalise - http://dbpedia.org/resource/Sensationalism
-
-irreplaceable - http://dbpedia.org/resource/Irreplaceable
-
-family physician - http://dbpedia.org/resource/Family_medicine
-
-csi - http://dbpedia.org/resource/Forensic_science
-
-scientific evidence - http://dbpedia.org/resource/Scientific_evidence
-
-confession - http://dbpedia.org/resource/Confession
-
-art conservation training - http://dbpedia.org/resource/Conservation_and_restoration_training
-
-fingerprint - http://dbpedia.org/resource/DNA_profiling
-
-jurimetrics - http://dbpedia.org/resource/Jurimetrics
-
-popular fiction - http://dbpedia.org/resource/Genre_fiction
-
-cultural historical - http://dbpedia.org/resource/Cultural_history
-
-magazine - http://dbpedia.org/resource/News_magazine
-
-american justice - http://dbpedia.org/resource/American_Justice
-
-criminal case - http://dbpedia.org/resource/Criminal_law
-
-buffalo - http://dbpedia.org/resource/Bovinae
-
-agency - http://dbpedia.org/resource/Institution
-
-truth - http://dbpedia.org/resource/Truth
-dna evidence - http://dbpedia.org/resource/DNA_profiling
-
-dateline nbc - http://dbpedia.org/resource/Dateline_NBC
-
-madrid train bombing - http://dbpedia.org/resource/2004_Madrid_train_bombings
-
-revolution - http://dbpedia.org/resource/Revolution
-
-rely - http://dbpedia.org/resource/Rely_(brand)
-
-fault - http://dbpedia.org/resource/South_African_law_of_delict
-
-demographic - http://dbpedia.org/resource/Demography
-
-law - http://dbpedia.org/resource/Scientific_law
-
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-
-law - http://dbpedia.org/resource/Law_of_the_United_States
-
-producer - http://dbpedia.org/resource/Television_producer
-
-subjective - http://dbpedia.org/resource/Subjectivity
-
-methodology - http://dbpedia.org/resource/Methodology
-
-solver - http://dbpedia.org/resource/Solver
-
-expert witness - http://dbpedia.org/resource/Expert_witness
-
-theory - http://dbpedia.org/resource/Theory
-
-graduate student - http://dbpedia.org/resource/Postgraduate_education
-
-high tech - http://dbpedia.org/resource/High_tech
-
-hollywood - http://dbpedia.org/resource/Hollywood
-
-tyler - http://dbpedia.org/resource/John_Tyler
-
-culture - http://dbpedia.org/resource/Culture
-
-forensic evidence - http://dbpedia.org/resource/Forensic_science
-
-michigan - http://dbpedia.org/resource/University_of_Michigan
-
-television drama - http://dbpedia.org/resource/Television_show
-
-mexico - http://dbpedia.org/resource/Mexico
-
-criminal justice policy review - http://dbpedia.org/resource/Criminal_Justice_Policy_Review
-
-computer application - http://dbpedia.org/resource/Application_software
-
-scientific evidence - http://dbpedia.org/resource/Scientific_method
-
-potent - http://dbpedia.org/resource/Efficacy
-
-einav - http://dbpedia.org/resource/Einav
-
-eye - http://dbpedia.org/resource/Human_eye
-
-gregg - http://dbpedia.org/resource/Gregg_v._Georgia
-
-stricture - http://dbpedia.org/resource/Stenosis
-
-jury selection - http://dbpedia.org/resource/Jury_selection
-drama - http://dbpedia.org/resource/Drama
-
-hospital - http://dbpedia.org/resource/Hospital
-
-microscope - http://dbpedia.org/resource/Microscope
-object - http://dbpedia.org/resource/Object-oriented_programming
-
-pin - http://dbpedia.org/resource/Pin
-
-washtenaw county - http://dbpedia.org/resource/Washtenaw_County,_Michigan
-
-vanderbilt - http://dbpedia.org/resource/Vanderbilt_University
-
-consumer - http://dbpedia.org/resource/Consumer
-
-jury - http://dbpedia.org/resource/Jury
-
-variable - http://dbpedia.org/resource/Dependent_and_independent_variables
-
-theft - http://dbpedia.org/resource/Theft
-
-nyu - http://dbpedia.org/resource/New_York_University
-
-human - http://dbpedia.org/resource/Human_rights
-
-shelton - http://dbpedia.org/resource/Connecticut
-bone - http://dbpedia.org/resource/Bone
-
-spawn - http://dbpedia.org/resource/Reproduction
-
-mathematics - http://dbpedia.org/resource/Mathematics_education
-
-infection - http://dbpedia.org/resource/Infection
-
-single - http://dbpedia.org/resource/Single_person
-
-quickness - http://dbpedia.org/resource/Quickness
-
-police prosecutor - http://dbpedia.org/resource/Police_prosecutor
-
-studio art - http://dbpedia.org/resource/Art_school
-
-spring - http://dbpedia.org/resource/Hooke's_law
-
-ph.d. - http://dbpedia.org/resource/Thesis
-
-fear - http://dbpedia.org/resource/Fear
-
-findlay - http://dbpedia.org/resource/University_of_Findlay
-
-peripheral - http://dbpedia.org/resource/Peripheral_vision
-
-simulation - http://dbpedia.org/resource/Simulation
-
-brandon mayfield - http://dbpedia.org/resource/Brandon_Mayfield
-
-chart - http://dbpedia.org/resource/Chart
-
-federation - http://dbpedia.org/resource/Federalism
-
-eye test - http://dbpedia.org/resource/Eye_examination
-
-television program - http://dbpedia.org/resource/Television_show
-
-july 11 - http://dbpedia.org/resource/July_11
-
-judge - http://dbpedia.org/resource/Judge
-
-fbi - http://dbpedia.org/resource/Federal_Bureau_of_Investigation
-
-threshold - http://dbpedia.org/resource/Action_potential
-
-scapegoat - http://dbpedia.org/resource/Scapegoat
-
-dna profiling - http://dbpedia.org/resource/DNA_profiling
-
-graduate school - http://dbpedia.org/resource/Postgraduate_education
-
-summer - http://dbpedia.org/resource/Summer
-
-material science - http://dbpedia.org/resource/Materials_science
-
-health care - http://dbpedia.org/resource/Health_care
-
-forensic - http://dbpedia.org/resource/Forensic_science
-
-canberra - http://dbpedia.org/resource/Canberra
-
-nursing - http://dbpedia.org/resource/Nursing
-
-numb3rs - http://dbpedia.org/resource/Numbers_(TV_series)
-
-high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
-
-television program - http://dbpedia.org/resource/Television
-
-law - http://dbpedia.org/resource/Law
-
-forensic scientist - http://dbpedia.org/resource/Forensic_science
-
-smoking gun - http://dbpedia.org/resource/Smoking_gun
-
-habit - http://dbpedia.org/resource/Habit
-
-intellectual property - http://dbpedia.org/resource/Intellectual_property
-
-forensic sciences - http://dbpedia.org/resource/Forensic_science
-
-fiber - http://dbpedia.org/resource/Fiber
-
-firearm - http://dbpedia.org/resource/Firearm
-
-barak - http://dbpedia.org/resource/Ehud_Barak
-
-csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
-
-technology law - http://dbpedia.org/resource/IT_law
-
-author - http://dbpedia.org/resource/Author
-
-chicago - http://dbpedia.org/resource/University_of_Chicago
-
-barak - http://dbpedia.org/resource/Kyrgyzstan
-
-detective - http://dbpedia.org/resource/Detective
-
-actor - http://dbpedia.org/resource/Actor
-
-painting - http://dbpedia.org/resource/Painting
-
-ethical - http://dbpedia.org/resource/Ethics
-
-dichotomous - http://dbpedia.org/resource/Dichotomy
-
-south wales - http://dbpedia.org/resource/South_Wales
-
-wollongong - http://dbpedia.org/resource/University_of_Wollongong
-
-scientist - http://dbpedia.org/resource/Science
-
-art historian - http://dbpedia.org/resource/Art_history
-
-warrant - http://dbpedia.org/resource/Search_warrant
-
-hillier - http://dbpedia.org/resource/Harold_Hillier
-
-mystery - http://dbpedia.org/resource/Whodunit
-
-roslyn - http://dbpedia.org/resource/Roslyn_High_School
-
-yale law review - http://dbpedia.org/resource/Yale_Law_Journal
-
-hypothesis - http://dbpedia.org/resource/Hypothesis
-
-tessa - http://dbpedia.org/resource/Tessa_Wheeler
-
-lawn - http://dbpedia.org/resource/Lawn
-
-respondent - http://dbpedia.org/resource/Defendant
-
-felony - http://dbpedia.org/resource/Felony
-
-laboratory - http://dbpedia.org/resource/Laboratory
-
-crime fiction - http://dbpedia.org/resource/Crime_fiction
-
-nielsen rating - http://dbpedia.org/resource/Nielsen_ratings
-
-fordham - http://dbpedia.org/resource/Fordham_University
-
-nas - http://dbpedia.org/resource/Nas
-
-laboratory - http://dbpedia.org/resource/Crime_lab
-
-eds - http://dbpedia.org/resource/Energy-dispersive_X-ray_spectroscopy
-
-drama - http://dbpedia.org/resource/Rwandan_genocide
-
-adams - http://dbpedia.org/resource/John_Adams
-
-officer - http://dbpedia.org/resource/Police_officer
-
-educator - http://dbpedia.org/resource/Education
-
-law review - http://dbpedia.org/resource/Law_review
-
-garcia - http://dbpedia.org/resource/Penelope_Garcia
-
-national geographic news - http://dbpedia.org/resource/National_Geographic
-
-forensic - http://dbpedia.org/resource/Forensic_identification
-
-legal system - http://dbpedia.org/resource/Law_of_the_United_States
-
-empirical - http://dbpedia.org/resource/Empirical_evidence
-
-television - http://dbpedia.org/resource/Television
-
-warp - http://dbpedia.org/resource/Faster-than-light
-
-summation - http://dbpedia.org/resource/Summation
-
-conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
-
-jury trial - http://dbpedia.org/resource/Jury_trial
-
-archaeological - http://dbpedia.org/resource/Archaeology
-
-defendant - http://dbpedia.org/resource/Defendant
-
-television series - http://dbpedia.org/resource/Television_show
-
-photography - http://dbpedia.org/resource/Photography
-
-mystery film - http://dbpedia.org/resource/Mystery_fiction
-
-criminal trial - http://dbpedia.org/resource/Criminal_procedure
-
-stool - http://dbpedia.org/resource/Feces
-
-questionnaire - http://dbpedia.org/resource/Questionnaire
-
-hair analysis - http://dbpedia.org/resource/Hair_analysis
-
-acquit - http://dbpedia.org/resource/Acquittal
-
-vermeer - http://dbpedia.org/resource/Johannes_Vermeer
-
-attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
-
-charles sturt university - http://dbpedia.org/resource/Charles_Sturt_University
-
-district attorney - http://dbpedia.org/resource/District_attorney
-
-policing - http://dbpedia.org/resource/Police
-
-crime - http://dbpedia.org/resource/Crime
-independent - http://dbpedia.org/resource/Independent_school
-
-forensic analysis - http://dbpedia.org/resource/Forensic_science
-
-defence counsel - http://dbpedia.org/resource/Defense_(legal)
-
-weaving - http://dbpedia.org/resource/Weaving
-
-article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
-
-capstone - http://dbpedia.org/resource/Capstone_course
-
-television rating - http://dbpedia.org/resource/Nielsen_ratings
-
-outline - http://dbpedia.org/resource/Nutrition
-
-hca - http://dbpedia.org/resource/High_Court_of_Australia
-
-high tech high - http://dbpedia.org/resource/High_Tech_High_charter_schools
-
-professor - http://dbpedia.org/resource/Academy
-
-case study - http://dbpedia.org/resource/Case_study
-courtroom drama - http://dbpedia.org/resource/Legal_drama
-
-distortion - http://dbpedia.org/resource/Distortion
-
-franchise - http://dbpedia.org/resource/Media_franchise
-
-crime lab - http://dbpedia.org/resource/Forensic_science
-
-international journal - http://dbpedia.org/resource/Canadian_International_Council
-
-crime scene investigation - http://dbpedia.org/resource/Forensic_science
-
-heart - http://dbpedia.org/resource/Cardiovascular_disease
-
-social construction - http://dbpedia.org/resource/Social_constructionism
-
-jane - http://dbpedia.org/resource/Jane_Fonda
-
-elusive - http://dbpedia.org/resource/Elusive
-
-blind - http://dbpedia.org/resource/Blinded_experiment
+viv - http://dbpedia.org/resource/Viv_Hope
 
 vdm - http://dbpedia.org/resource/Virtual_DOS_machine
 
-museum studies - http://dbpedia.org/resource/Museology
+qualitative methods - http://dbpedia.org/resource/Qualitative_research
 
-public television - http://dbpedia.org/resource/PBS
+weaving - http://dbpedia.org/resource/Weaving
 
-heritage - http://dbpedia.org/resource/History
-
-news - http://dbpedia.org/resource/News_media
-
-criminal justice system - http://dbpedia.org/resource/Criminal_justice
-
-criminal minds - http://dbpedia.org/resource/Criminal_Minds
-
-young kim - http://dbpedia.org/resource/Young_Kim
-
-realism - http://dbpedia.org/resource/Philosophical_realism
-
-resolution - http://dbpedia.org/resource/Image_resolution
-
-culpability - http://dbpedia.org/resource/Culpability
-
-delaware - http://dbpedia.org/resource/University_of_Delaware
-
-empirical evidence - http://dbpedia.org/resource/Empirical_research
-
-thesis - http://dbpedia.org/resource/Thesis
-
-entertainment technology - http://dbpedia.org/resource/Entertainment_technology
-
-bloodstain pattern analysis - http://dbpedia.org/resource/Bloodstain_pattern_analysis
-
-tom tyler - http://dbpedia.org/resource/Tom_Tyler
-
-reasonable doubt - http://dbpedia.org/resource/Reasonable_doubt
-
-gun - http://dbpedia.org/resource/Firearm
-
-ann arbor michigan - http://dbpedia.org/resource/Ann_Arbor,_Michigan
-
-field order - http://dbpedia.org/resource/Field_order
-
-perception - http://dbpedia.org/resource/Perception
-
-convergent - http://dbpedia.org/resource/Convergent_evolution
-
-resemble - http://dbpedia.org/resource/SoltyRei
-
-handwriting analysis - http://dbpedia.org/resource/Questioned_document_examination
-
-swanson - http://dbpedia.org/resource/Swanson
-
-forensic investigation - http://dbpedia.org/resource/Forensic_science
-
-false impression - http://dbpedia.org/resource/False_Impression
-
-sample - http://dbpedia.org/resource/Sample_size_determination
-
-scripps college - http://dbpedia.org/resource/Scripps_College
-
-streamlined - http://dbpedia.org/resource/Aerodynamics
-
-ncis - http://dbpedia.org/resource/Naval_Criminal_Investigative_Service
-
-spin - http://dbpedia.org/resource/Spin_bowling
-
-geometry - http://dbpedia.org/resource/Geometry
-
-test case - http://dbpedia.org/resource/Test_case
-
-defence - http://dbpedia.org/resource/Affirmative_defense
-
-lawn - http://dbpedia.org/resource/Lawn_mower
-
-myth - http://dbpedia.org/resource/Urban_legend
-
-dna - http://dbpedia.org/resource/DNA
-
-clear cut - http://dbpedia.org/resource/Clearcutting
-
-juror - http://dbpedia.org/resource/Jury
-
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-
-deliberation - http://dbpedia.org/resource/Deliberation
-endeavor - http://dbpedia.org/resource/HMS_Endeavour
-
-ucla - http://dbpedia.org/resource/UCLA_Bruins_football
-
-circumstantial evidence - http://dbpedia.org/resource/Circumstantial_evidence
-
-program assessment - http://dbpedia.org/resource/Educational_assessment
-
-cold case - http://dbpedia.org/resource/Cold_case
-
-journalist - http://dbpedia.org/resource/Journalism
-
-eyewitness testimony - http://dbpedia.org/resource/Eyewitness_testimony
-
-interdisciplinary - http://dbpedia.org/resource/Interdisciplinarity
-
-police chief - http://dbpedia.org/resource/Chief_of_police
-
-assault - http://dbpedia.org/resource/Assault
-
-conservation science - http://dbpedia.org/resource/Environmental_science
-
-gsas - http://dbpedia.org/resource/Gallium_arsenide
-
-australian - http://dbpedia.org/resource/Government_of_Australia
-
-portfolio - http://dbpedia.org/resource/Career_portfolio
-
-drexel university - http://dbpedia.org/resource/Drexel_University
-
-television watch - http://dbpedia.org/resource/Television_Watch
-
-art conservator - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
-
-transmission - http://dbpedia.org/resource/Data_transmission
-
-psychology - http://dbpedia.org/resource/Psychology
-
-fingerprint - http://dbpedia.org/resource/DNA_profiling
-miniaturization - http://dbpedia.org/resource/Miniaturization
-
-criminal justice - http://dbpedia.org/resource/Criminal_justice
-
-envelope - http://dbpedia.org/resource/Envelope
-
-microscope - http://dbpedia.org/resource/Microscope
-
-education - http://dbpedia.org/resource/Education
-
-popular culture - http://dbpedia.org/resource/Popular_culture
-
-lawyer - http://dbpedia.org/resource/Law_of_the_United_States
-
-unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
-
-joyce hill - http://dbpedia.org/resource/Joyce_Hill
-
-tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
-
-criminal sexual conduct - http://dbpedia.org/resource/Sexual_assault
-
-convict - http://dbpedia.org/resource/Conviction
-
-bear - http://dbpedia.org/resource/Market_trend
-
-dust - http://dbpedia.org/resource/Dust
-
-acquittal - http://dbpedia.org/resource/Acquittal
-
-prosecutor - http://dbpedia.org/resource/Prosecutor
-
-motivation - http://dbpedia.org/resource/Motivation
-
-type case - http://dbpedia.org/resource/Type_case
-
-crime scene - http://dbpedia.org/resource/Crime_scene
-
-mock trial - http://dbpedia.org/resource/Mock_trial
-
-final verdict - http://dbpedia.org/resource/Final_Verdict
-
-internet - http://dbpedia.org/resource/Internet
-
-expert evidence - http://dbpedia.org/resource/Expert_witness
-
-barak - http://dbpedia.org/resource/Ehud_Barak
-crime drama - http://dbpedia.org/resource/Police_procedural
-
-jury duty - http://dbpedia.org/resource/Jury
-
-blanket - http://dbpedia.org/resource/Blanket
-
-news nation - http://dbpedia.org/resource/News_Nation
-
-law - http://dbpedia.org/resource/Common_law
-
-usa today - http://dbpedia.org/resource/USA_Today
-
-art history - http://dbpedia.org/resource/Art_history
-
-crime scene investigator - http://dbpedia.org/resource/Forensic_science
-
-legal proceeding - http://dbpedia.org/resource/Trial
-
-reality television - http://dbpedia.org/resource/Reality_television
-
-change face - http://dbpedia.org/resource/Bian_lian
-
-fantasy - http://dbpedia.org/resource/Fantasy
-
-scientific evidence - http://dbpedia.org/resource/Science
-
-myth - http://dbpedia.org/resource/Myth
-
-rational - http://dbpedia.org/resource/Reason
-
-police - http://dbpedia.org/resource/Police
-
-murder - http://dbpedia.org/resource/Murder
-
-center city - http://dbpedia.org/resource/New_Orleans_Central_Business_District
-
-eastern michigan university - http://dbpedia.org/resource/Eastern_Michigan_University
-
-curriculum - http://dbpedia.org/resource/Curriculum
-
-constraint - http://dbpedia.org/resource/Constraint_programming
-
-viv - http://dbpedia.org/resource/Viv_Hope
-
-computer technology - http://dbpedia.org/resource/Web_2.0
-
-conservator - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
-
-yale law journal - http://dbpedia.org/resource/Yale_Law_Journal
-
-single - http://dbpedia.org/resource/Phonograph_record
-
-fiction - http://dbpedia.org/resource/Fiction
-
-robber - http://dbpedia.org/resource/Robbery
-
-dna analysis - http://dbpedia.org/resource/DNA_profiling
-
-digital - http://dbpedia.org/resource/Digital_media
-
-immersion - http://dbpedia.org/resource/Language_immersion
-
-pigment - http://dbpedia.org/resource/Pigment
-
-winterthur - http://dbpedia.org/resource/Winterthur
-
-psyche - http://dbpedia.org/resource/Nafs
-
-high court - http://dbpedia.org/resource/High_Court_of_Australia
-
-needle - http://dbpedia.org/resource/Hypodermic_needle
-
-ruth osborne - http://dbpedia.org/resource/Ruth_Osborne
-
-technology - http://dbpedia.org/resource/Technology
-
-emergency room - http://dbpedia.org/resource/Emergency_department
-
-curricula - http://dbpedia.org/resource/Curriculum
-
-gunshot residue - http://dbpedia.org/resource/Gunshot_residue
-
-microscopic - http://dbpedia.org/resource/Microscope
-
-alr - http://dbpedia.org/resource/Agricultural_Land_Reserve
-
-crime laboratory - http://dbpedia.org/resource/Crime_lab
-
-train - http://dbpedia.org/resource/Train
-
-fine arts - http://dbpedia.org/resource/Fine_art
-
-court - http://dbpedia.org/resource/Court
-
-hanson - http://dbpedia.org/resource/Tommy_Hanson
-
-criminology - http://dbpedia.org/resource/Criminology
-
-gavel - http://dbpedia.org/resource/Gavel
-
-amass - http://dbpedia.org/resource/Airport_Movement_Area_Safety_System
-
-bullet - http://dbpedia.org/resource/Bullet
-
-qualification - http://dbpedia.org/resource/Professional_certification
-
-paul - http://dbpedia.org/resource/Paul_the_Apostle
-
-clinical professor - http://dbpedia.org/resource/Clinical_professor
-
-law enforcement - http://dbpedia.org/resource/Law_enforcement
-
-chemistry - http://dbpedia.org/resource/Chemistry
-
-learning - http://dbpedia.org/resource/Learning
+defence - http://dbpedia.org/resource/National_security
 
 jurors - http://dbpedia.org/resource/Jury
 
-laypeople - http://dbpedia.org/resource/Laity
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+
+theory - http://dbpedia.org/resource/Theory
+
+usa today - http://dbpedia.org/resource/USA_Today
+
+hospital - http://dbpedia.org/resource/Hospital
+
+high court - http://dbpedia.org/resource/High_Court_of_Australia
+
+popular culture - http://dbpedia.org/resource/Popular_culture
 
 infallible - http://dbpedia.org/resource/Biblical_inerrancy
 
-neglect - http://dbpedia.org/resource/Neglect
+fiction - http://dbpedia.org/resource/Fiction
 
-criminal investigation - http://dbpedia.org/resource/Criminal_procedure
+forensic - http://dbpedia.org/resource/Forensic_identification
 
-dna test - http://dbpedia.org/resource/DNA_profiling
+questionnaire - http://dbpedia.org/resource/Questionnaire
 
-scriptwriter - http://dbpedia.org/resource/Screenwriter
+fiber - http://dbpedia.org/resource/Fiber
 
-column - http://dbpedia.org/resource/Columnist
+australian studies - http://dbpedia.org/resource/Australian_studies
+
+nielsen rating - http://dbpedia.org/resource/Nielsen_ratings
+
+family physician - http://dbpedia.org/resource/Family_medicine
+
+washtenaw county - http://dbpedia.org/resource/Washtenaw_County,_Michigan
+
+technology law - http://dbpedia.org/resource/IT_law
+
+psyche - http://dbpedia.org/resource/Nafs
+
+motivation - http://dbpedia.org/resource/Motivation
+
+tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
+
+fault - http://dbpedia.org/resource/South_African_law_of_delict
+
+ruth osborne - http://dbpedia.org/resource/Ruth_Osborne
+
+law - http://dbpedia.org/resource/Common_law
+
+theft - http://dbpedia.org/resource/Theft
+
+yale law review - http://dbpedia.org/resource/Yale_Law_Journal
+madrid train bombing - http://dbpedia.org/resource/2004_Madrid_train_bombings
+
+mathematics - http://dbpedia.org/resource/Mathematics_education
+
+crime - http://dbpedia.org/resource/Crime
+hair - http://dbpedia.org/resource/Hair
+
+lawn - http://dbpedia.org/resource/Lawn
+
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+
+nas - http://dbpedia.org/resource/Nas
+
+forensic analysis - http://dbpedia.org/resource/Forensic_science
+
+internship - http://dbpedia.org/resource/Internship
+
+york - http://dbpedia.org/resource/York
 
 entertainment law - http://dbpedia.org/resource/Entertainment_law
 
-california - http://dbpedia.org/resource/California
+chief judge - http://dbpedia.org/resource/Chief_judge
 
-eyewitness - http://dbpedia.org/resource/Witness
+forensic scientists - http://dbpedia.org/resource/Forensic_science
 
-philosophy - http://dbpedia.org/resource/Philosophy
+australian - http://dbpedia.org/resource/Government_of_Australia
 
-winterthur museum - http://dbpedia.org/resource/Winterthur_Museum,_Garden_and_Library
+transmission - http://dbpedia.org/resource/Data_transmission
+
+criminal justice - http://dbpedia.org/resource/Criminal_justice
+
+social construction - http://dbpedia.org/resource/Social_constructionism
+
+district attorney - http://dbpedia.org/resource/District_attorney
+
+center city - http://dbpedia.org/resource/New_Orleans_Central_Business_District
+
+felony - http://dbpedia.org/resource/Felony
+
+franchise - http://dbpedia.org/resource/Media_franchise
+
+dna forensics - http://dbpedia.org/resource/DNA_profiling
+
+nyu - http://dbpedia.org/resource/New_York_University
+
+hypothesis - http://dbpedia.org/resource/Hypothesis
+
+forensic techniques - http://dbpedia.org/resource/Forensic_science
+
+swanson - http://dbpedia.org/resource/Swanson
+
+human - http://dbpedia.org/resource/Human_rights
+
+potent - http://dbpedia.org/resource/Efficacy
+
+thesis - http://dbpedia.org/resource/Thesis
+
+heritage - http://dbpedia.org/resource/History
+
+crime laboratories - http://dbpedia.org/resource/Crime_lab
+
+lisa - http://dbpedia.org/resource/Lisa_Simpson
+
+irreplaceable - http://dbpedia.org/resource/Irreplaceable
+
+interdisciplinary - http://dbpedia.org/resource/Interdisciplinarity
+
+judge - http://dbpedia.org/resource/Judge
+
+fantasy - http://dbpedia.org/resource/Fantasy
+
+csi - http://dbpedia.org/resource/Forensic_science
+
+young kim - http://dbpedia.org/resource/Young_Kim
+
+homicide - http://dbpedia.org/resource/Homicide
+
+federation - http://dbpedia.org/resource/Federalism
+
+jury duty - http://dbpedia.org/resource/Jury
+
+undergraduate - http://dbpedia.org/resource/Undergraduate_education
+
+crime scene - http://dbpedia.org/resource/Crime_scene
+
+tom tyler - http://dbpedia.org/resource/Tom_Tyler
+
+eyewitness testimony - http://dbpedia.org/resource/Eyewitness_testimony
+
+museum studies - http://dbpedia.org/resource/Museology
+
+special victims unit - http://dbpedia.org/resource/Special_Victims_Unit
+
+intellectual property - http://dbpedia.org/resource/Intellectual_property
+
+outline - http://dbpedia.org/resource/Nutrition
+
+eye - http://dbpedia.org/resource/Human_eye
+
+crime fiction - http://dbpedia.org/resource/Crime_fiction
+
+high standards - http://dbpedia.org/resource/High_Standards_(XM)
+
+universities - http://dbpedia.org/resource/University
+
+fordham - http://dbpedia.org/resource/Fordham_University
+
+infection - http://dbpedia.org/resource/Infection
+
+graduate student - http://dbpedia.org/resource/Postgraduate_education
+
+lawn - http://dbpedia.org/resource/Lawn_mower
+
+perception - http://dbpedia.org/resource/Perception
+
+fifths - http://dbpedia.org/resource/Perfect_fifth
+
+law - http://dbpedia.org/resource/Scientific_law
+smoking gun - http://dbpedia.org/resource/Smoking_gun
+
+summer - http://dbpedia.org/resource/Summer
+
+jury - http://dbpedia.org/resource/Jury
+
+dna test - http://dbpedia.org/resource/DNA_profiling
+
+bite mark analysis - http://dbpedia.org/resource/Forensic_dentistry
+
+hanson - http://dbpedia.org/resource/Tommy_Hanson
+
+guilt - http://dbpedia.org/resource/Culpability
+
+circumstantial evidence - http://dbpedia.org/resource/Circumstantial_evidence
+national geographic news - http://dbpedia.org/resource/National_Geographic
+
+education - http://dbpedia.org/resource/Education
+
+gavel - http://dbpedia.org/resource/Gavel
+
+envelope - http://dbpedia.org/resource/Envelope
+
+law - http://dbpedia.org/resource/Law_of_the_United_States
+
+drama - http://dbpedia.org/resource/Drama
+
+eds - http://dbpedia.org/resource/Energy-dispersive_X-ray_spectroscopy
 
 misplaced - http://dbpedia.org/resource/Misplaced_(album)
 
-catalyst - http://dbpedia.org/resource/Catalysis
+ibid - http://dbpedia.org/resource/Dialectic_of_Enlightenment
 
-defense attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
+crime scene investigation - http://dbpedia.org/resource/Forensic_science
 
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+news - http://dbpedia.org/resource/News_media
 
-lawyer - http://dbpedia.org/resource/Lawyer
+hillier - http://dbpedia.org/resource/Harold_Hillier
+
+myth - http://dbpedia.org/resource/Urban_legend
+
+streamlined - http://dbpedia.org/resource/Aerodynamics
+
+conservation science - http://dbpedia.org/resource/Environmental_science
+
+heart - http://dbpedia.org/resource/Cardiovascular_disease
+
+art conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+
+television program - http://dbpedia.org/resource/Television_show
+
+court - http://dbpedia.org/resource/Court
+
+convict - http://dbpedia.org/resource/Conviction
+
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+
+spoon - http://dbpedia.org/resource/Spoon
+
+winterthur museum - http://dbpedia.org/resource/Winterthur_Museum,_Garden_and_Library
+
+empirical evidence - http://dbpedia.org/resource/Empirical_research
+
+crime drama - http://dbpedia.org/resource/Police_procedural
+
+acquit - http://dbpedia.org/resource/Acquittal
+
+defense - http://dbpedia.org/resource/Criminal_defense_lawyer
+
+fear - http://dbpedia.org/resource/Fear
+
+ann arbor michigan - http://dbpedia.org/resource/Ann_Arbor,_Michigan
+
+laboratory - http://dbpedia.org/resource/Crime_lab
+
+ethics - http://dbpedia.org/resource/Ethics
+
+high tech high - http://dbpedia.org/resource/High_Tech_High_charter_schools
+
+listed - http://dbpedia.org/resource/Public_company
+
+small steps - http://dbpedia.org/resource/Small_Steps_(novel)
+
+high expectations - http://dbpedia.org/resource/High_Expectations
+
+warp - http://dbpedia.org/resource/Faster-than-light
+
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+
+rational - http://dbpedia.org/resource/Rationality
+
+emergency room - http://dbpedia.org/resource/Emergency_department
+
+convergent - http://dbpedia.org/resource/Convergent_evolution
+
+handwriting - http://dbpedia.org/resource/Questioned_document_examination
+
+dna analysis - http://dbpedia.org/resource/DNA_profiling
+
+immersion - http://dbpedia.org/resource/Language_immersion
+
+truth - http://dbpedia.org/resource/Truth
+
+television dramas - http://dbpedia.org/resource/Korean_drama
+
+evidence collection - http://dbpedia.org/resource/Digital_forensics
 
 validity - http://dbpedia.org/resource/Internal_validity
 
+television ratings - http://dbpedia.org/resource/Nielsen_ratings
+
 forensic evidence - http://dbpedia.org/resource/Forensic_identification
 
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+dateline nbc - http://dbpedia.org/resource/Dateline_NBC
+
+crime - http://dbpedia.org/resource/Crime
+
+capstone - http://dbpedia.org/resource/Capstone_course
+
+fine arts - http://dbpedia.org/resource/Fine_art
+
+vanderbilt - http://dbpedia.org/resource/Vanderbilt_University
+
+art conservators - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+
+resolutions - http://dbpedia.org/resource/Image_resolution
 
 white coat - http://dbpedia.org/resource/White_coat
 
-court tv - http://dbpedia.org/resource/Court_TV
+criminal minds - http://dbpedia.org/resource/Criminal_Minds
+
+dna - http://dbpedia.org/resource/DNA
+
+attempted murder - http://dbpedia.org/resource/Attempted_murder
+
+jurimetrics - http://dbpedia.org/resource/Jurimetrics
+
+psychology - http://dbpedia.org/resource/Psychology
+
+art history - http://dbpedia.org/resource/Art_history
+
+boston phoenix - http://dbpedia.org/resource/The_Phoenix_(newspaper)
+
+microscopic - http://dbpedia.org/resource/Microscope
+
+laypeople - http://dbpedia.org/resource/Laity
+
+mexico - http://dbpedia.org/resource/Mexico
+
+law enforcement - http://dbpedia.org/resource/Law_enforcement
+
+gun - http://dbpedia.org/resource/Firearm
+
+germany - http://dbpedia.org/resource/Weimar_Republic
+
+evidence based policy - http://dbpedia.org/resource/Evidence-based_policy
+
+scripps college - http://dbpedia.org/resource/Scripps_College
+
+technology - http://dbpedia.org/resource/Technology
+
+einav - http://dbpedia.org/resource/Einav
+
+fbi - http://dbpedia.org/resource/Federal_Bureau_of_Investigation
+
+philadelphia - http://dbpedia.org/resource/Philadelphia
+
+scientific evidence - http://dbpedia.org/resource/Scientific_method
+
+ncis - http://dbpedia.org/resource/Naval_Criminal_Investigative_Service
+
+major crimes - http://dbpedia.org/resource/Major_Case_Squad
+
+curricula - http://dbpedia.org/resource/Curriculum
+
+curriculum - http://dbpedia.org/resource/Curriculum
+
+barak - http://dbpedia.org/resource/Ehud_Barak
+
+numb3rs - http://dbpedia.org/resource/Numbers_(TV_series)
+
+sample - http://dbpedia.org/resource/Sample_size_determination
+
+television drama - http://dbpedia.org/resource/Television_show
+
+july 11 - http://dbpedia.org/resource/July_11
+
+criminal justice system - http://dbpedia.org/resource/Criminal_justice
+
+key decisions - http://dbpedia.org/resource/Arrested_Development_(season_1)
+
+48 hours mystery - http://dbpedia.org/resource/48_Hours_(TV_program)
+
+delaware - http://dbpedia.org/resource/University_of_Delaware
+
+american justice - http://dbpedia.org/resource/American_Justice
+
+philosophy - http://dbpedia.org/resource/Philosophy
+
+chemistry - http://dbpedia.org/resource/Chemistry
+
+catalyst - http://dbpedia.org/resource/Catalysis
+
+realism - http://dbpedia.org/resource/Philosophical_realism
+
+samples - http://dbpedia.org/resource/Moon_rock
+
+gsas - http://dbpedia.org/resource/Gallium_arsenide
+
+miniaturization - http://dbpedia.org/resource/Size_change_in_fiction
+
+yale law journal - http://dbpedia.org/resource/Yale_Law_Journal
+
+gadomski - http://dbpedia.org/resource/Gadomski_(crater)
+
+murder - http://dbpedia.org/resource/Murder
+
+nursing - http://dbpedia.org/resource/Nursing
+
+jury selection - http://dbpedia.org/resource/Jury_selection
+
+humanities - http://dbpedia.org/resource/Humanities
+
+distortion - http://dbpedia.org/resource/Distortion
+
+portfolio - http://dbpedia.org/resource/Career_portfolio
+
+expert evidence - http://dbpedia.org/resource/Expert_witness
+
+art conservation training - http://dbpedia.org/resource/Conservation_and_restoration_training
+
+california - http://dbpedia.org/resource/California
+
+stool - http://dbpedia.org/resource/Feces
+
+ph.d. - http://dbpedia.org/resource/Thesis
+
+charles sturt university - http://dbpedia.org/resource/Charles_Sturt_University
+
+alr - http://dbpedia.org/resource/Agricultural_Land_Reserve
+
+criminal justice policy review - http://dbpedia.org/resource/Criminal_Justice_Policy_Review
+
+chicago - http://dbpedia.org/resource/University_of_Chicago
+
+spin - http://dbpedia.org/resource/Spin_bowling
+
+hirschhorn - http://dbpedia.org/resource/Hirschhorn
+
+consumer - http://dbpedia.org/resource/Consumer
+
+brandon mayfield - http://dbpedia.org/resource/Brandon_Mayfield
+
+materials science - http://dbpedia.org/resource/Materials_science
+
+demographic - http://dbpedia.org/resource/Demography
+
+criminal case - http://dbpedia.org/resource/Criminal_law
+
+empirical - http://dbpedia.org/resource/Empirical_research
+
+laboratory - http://dbpedia.org/resource/Laboratory
+
+forensic sciences - http://dbpedia.org/resource/Forensic_science
+
+wollongong - http://dbpedia.org/resource/University_of_Wollongong
+
+quickness - http://dbpedia.org/resource/Quickness
+
+buffalo - http://dbpedia.org/resource/Bison
+
+crime scene - http://dbpedia.org/resource/O._J._Simpson_murder_case
+single - http://dbpedia.org/resource/Single_person
+
+educator - http://dbpedia.org/resource/Education
+
+vermeer - http://dbpedia.org/resource/Johannes_Vermeer
+
+gunshot residue - http://dbpedia.org/resource/Gunshot_residue
+tyler - http://dbpedia.org/resource/John_Tyler
+
+forensic science - http://dbpedia.org/resource/Forensic_science
+
+false impression - http://dbpedia.org/resource/False_Impression
+
+variable - http://dbpedia.org/resource/Dependent_and_independent_variables
+
+forensics - http://dbpedia.org/resource/Forensic_science
+
+endeavor - http://dbpedia.org/resource/HMS_Endeavour
+
+law - http://dbpedia.org/resource/Law
+
+final verdict - http://dbpedia.org/resource/Final_Verdict
+
+crime dramas - http://dbpedia.org/resource/Police_procedural
+
+csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
+
+police chief - http://dbpedia.org/resource/Chief_of_police
+
+digital - http://dbpedia.org/resource/Digital_media
+
+dichotomous - http://dbpedia.org/resource/Dichotomy
+
+health care - http://dbpedia.org/resource/Health_care
+
+canberra - http://dbpedia.org/resource/Canberra
+
+eastern michigan university - http://dbpedia.org/resource/Eastern_Michigan_University
+
+mock trial - http://dbpedia.org/resource/Mock_trial
+
+case study - http://dbpedia.org/resource/Case_study
+
+internet - http://dbpedia.org/resource/Internet
+
+professor - http://dbpedia.org/resource/Academy
+
+rely - http://dbpedia.org/resource/Rely_(brand)
+
+scapegoat - http://dbpedia.org/resource/Scapegoat
+
+television - http://dbpedia.org/resource/Television_show
+
+hollywood - http://dbpedia.org/resource/Hollywood
+
+legal system - http://dbpedia.org/resource/Law_of_the_United_States
+
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+
+painting - http://dbpedia.org/resource/Painting
+
+rape - http://dbpedia.org/resource/Rape
+
+international journal - http://dbpedia.org/resource/Canadian_International_Council
+
+reality television - http://dbpedia.org/resource/Reality_television
+
+threshold - http://dbpedia.org/resource/Action_potential
+
+sacrifice - http://dbpedia.org/resource/Human_sacrifice
+
+drexel university - http://dbpedia.org/resource/Drexel_University
+
+conservator - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+
+geometry - http://dbpedia.org/resource/Geometry
+
+computer technology - http://dbpedia.org/resource/Web_2.0
+
+reasonable doubt - http://dbpedia.org/resource/Reasonable_doubt
+
+clear cut - http://dbpedia.org/resource/Clearcutting
+
+defence counsel - http://dbpedia.org/resource/Defense_(legal)
+
+television series - http://dbpedia.org/resource/Television_show
+
+bullet - http://dbpedia.org/resource/Bullet
+
+scientific evidence - http://dbpedia.org/resource/Scientific_evidence
+
+mass media - http://dbpedia.org/resource/Mass_media
+
+television - http://dbpedia.org/resource/Television
+
+fodder - http://dbpedia.org/resource/Fodder
+
+jury selection - http://dbpedia.org/resource/Voir_dire
+
+barak - http://dbpedia.org/resource/Kyrgyzstan
+
+ethical - http://dbpedia.org/resource/Ethics
+
+subjective - http://dbpedia.org/resource/Subjectivity
+
+myth - http://dbpedia.org/resource/Myth
+
+column - http://dbpedia.org/resource/Columnist
+
+firearm - http://dbpedia.org/resource/Firearm
+
+program assessment - http://dbpedia.org/resource/Educational_assessment
+
+culpability - http://dbpedia.org/resource/Culpability
+
+dna profiling - http://dbpedia.org/resource/DNA_profiling
+
+cold case - http://dbpedia.org/resource/Cold_case
+
+policing - http://dbpedia.org/resource/Police
+
+prosecutor - http://dbpedia.org/resource/Prosecutor
+
+graduate school - http://dbpedia.org/resource/Postgraduate_education
+jane - http://dbpedia.org/resource/Jane_Fonda
+
+tessa - http://dbpedia.org/resource/Tessa_Wheeler
+
+phd - http://dbpedia.org/resource/Doctor_of_Philosophy
+
+bachelors program - http://dbpedia.org/resource/Bachelor's_degree
+
+warns - http://dbpedia.org/resource/Warini
+
+clinical professor - http://dbpedia.org/resource/Clinical_professor
+
+dust - http://dbpedia.org/resource/Dust
+
+simulation - http://dbpedia.org/resource/Simulation
 
 shelton - http://dbpedia.org/resource/Connecticut
+
+firearms - http://dbpedia.org/resource/Firearm
+
+sensationalised - http://dbpedia.org/resource/Sensationalism
+
+south wales - http://dbpedia.org/resource/South_Wales
+
+elusive - http://dbpedia.org/resource/Elusive
+fingerprint - http://dbpedia.org/resource/DNA_profiling
+
+joyce hill - http://dbpedia.org/resource/Joyce_Hill
+
+findlay - http://dbpedia.org/resource/University_of_Findlay
+
+microscope - http://dbpedia.org/resource/Microscope
+
+acquittal - http://dbpedia.org/resource/Acquittal
+
+dna tests - http://dbpedia.org/resource/DNA_profiling
+
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+
+adams - http://dbpedia.org/resource/John_Adams
+
+michigan - http://dbpedia.org/resource/University_of_Michigan
+photography - http://dbpedia.org/resource/Photography
+
+roslyn - http://dbpedia.org/resource/Roslyn_High_School
+
+high tech - http://dbpedia.org/resource/High_tech
+
+conservators - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+revolution - http://dbpedia.org/resource/Revolution
+
+empirical data - http://dbpedia.org/resource/Empirical_evidence
+
+qualification - http://dbpedia.org/resource/Professional_certification
+
+ucla - http://dbpedia.org/resource/UCLA_Bruins_football
+
+blinded - http://dbpedia.org/resource/Blinded_experiment
+
+assault - http://dbpedia.org/resource/Assault
+
+ms - http://dbpedia.org/resource/Millisecond
+
+conservation - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+
+object - http://dbpedia.org/resource/Object-oriented_programming
+
+law review - http://dbpedia.org/resource/Law_review
+
+art conservator - http://dbpedia.org/resource/Conservation_and_restoration_of_cultural_heritage
+
+criminology - http://dbpedia.org/resource/Criminology
+
+criminal sexual conduct - http://dbpedia.org/resource/Sexual_assault
+
+forensic - http://dbpedia.org/resource/Forensic_science
+
+independent - http://dbpedia.org/resource/Independent_school
+
+defense attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
+
+court tv - http://dbpedia.org/resource/Court_TV
+
+garcia - http://dbpedia.org/resource/Penelope_Garcia
+
+winterthur - http://dbpedia.org/resource/Winterthur
+
+chart - http://dbpedia.org/resource/Chart
+
+hair analysis - http://dbpedia.org/resource/Hair_analysis
+
+popular fiction - http://dbpedia.org/resource/Genre_fiction
+
+single - http://dbpedia.org/resource/Phonograph_record
+
+hca - http://dbpedia.org/resource/High_Court_of_Australia
+
+police - http://dbpedia.org/resource/Police
+
+juries - http://dbpedia.org/resource/Jury
+
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+
+defendant - http://dbpedia.org/resource/Defendant
+
+peripheral - http://dbpedia.org/resource/Peripheral_vision
+
+magazine - http://dbpedia.org/resource/News_magazine
+
+author - http://dbpedia.org/resource/Author
+
+culture - http://dbpedia.org/resource/Culture
+
+juror - http://dbpedia.org/resource/Jury
+
+pigment - http://dbpedia.org/resource/Pigment
+
+mystery - http://dbpedia.org/resource/Whodunit
+
+circumstantial evidence - http://dbpedia.org/resource/Circumstantial_evidence
+
+nij - http://dbpedia.org/resource/National_Institute_of_Justice
+
+studio art - http://dbpedia.org/resource/Art_school
+
+blanket - http://dbpedia.org/resource/Blanket
+
+bloodstain pattern analysis - http://dbpedia.org/resource/Bloodstain_pattern_analysis
+
+archaeological - http://dbpedia.org/resource/Archaeology
+
+eyewitness - http://dbpedia.org/resource/Witness
+
+jury trials - http://dbpedia.org/resource/Jury_trial
+
+gregg - http://dbpedia.org/resource/Gregg_v._Georgia
+
+michigan - http://dbpedia.org/resource/University_of_Michigan

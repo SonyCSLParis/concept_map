@@ -9,6 +9,7 @@ city - http://dbpedia.org/resource/City
 nova roma - http://dbpedia.org/resource/New_Rome
 rome - http://dbpedia.org/resource/Roman_Empire
 senate - http://dbpedia.org/resource/Roman_Senate
+civic offices - http://dbpedia.org/resource/Wood_Quay
 rome - http://dbpedia.org/resource/Roman_Empire
 roman empire - http://dbpedia.org/resource/Western_Roman_Empire
 maxentius - http://dbpedia.org/resource/Maxentius
@@ -19,7 +20,7 @@ roman emperor - http://dbpedia.org/resource/Roman_emperor
 christianity - http://dbpedia.org/resource/Christianity
 edict - http://dbpedia.org/resource/Edict
 milan - http://dbpedia.org/resource/Milan
-christianity - http://dbpedia.org/resource/Christianity
+legalized christianity - http://dbpedia.org/resource/Edict_of_Milan
 roman empire - http://dbpedia.org/resource/Western_Roman_Empire
 nicaea - http://dbpedia.org/resource/Nicaea
 christianity - http://dbpedia.org/resource/Christianity
@@ -33,7 +34,6 @@ city - http://dbpedia.org/resource/City
 city - http://dbpedia.org/resource/City
 ideal - http://dbpedia.org/resource/Theory_of_forms
 rome - http://dbpedia.org/resource/Roman_Empire
-emperor - http://dbpedia.org/resource/Roman_emperor
 eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
 roman empire - http://dbpedia.org/resource/Western_Roman_Empire
 emperor - http://dbpedia.org/resource/Roman_emperor
@@ -43,25 +43,19 @@ justinian - http://dbpedia.org/resource/Justinian_I
 law - http://dbpedia.org/resource/Roman_law
 church - http://dbpedia.org/resource/Christian_Church
 rome - http://dbpedia.org/resource/Roman_Empire
-law - http://dbpedia.org/resource/Roman_law
-law - http://dbpedia.org/resource/Roman_law
-law - http://dbpedia.org/resource/Roman_law
-system call - http://dbpedia.org/resource/System_call
-justinian code - http://dbpedia.org/resource/Corpus_Juris_Civilis
+legal system - http://dbpedia.org/resource/Law
+justinian - http://dbpedia.org/resource/Justinian_I
+code - http://dbpedia.org/resource/Code_of_law
 justinian - http://dbpedia.org/resource/Justinian_I
 justinian - http://dbpedia.org/resource/Justinian_I
-prepare - http://dbpedia.org/resource/PREPARE
 constantinople - http://dbpedia.org/resource/Constantinople
 theodora - http://dbpedia.org/resource/Theodora_of_Khazaria
 justinian - http://dbpedia.org/resource/Justinian_I
 emperor - http://dbpedia.org/resource/Roman_emperor
 justinian - http://dbpedia.org/resource/Justinian_I
-soldier - http://dbpedia.org/resource/Soldier
 justinian - http://dbpedia.org/resource/Justinian_I
-invasion - http://dbpedia.org/resource/Invasion
-barbarian - http://dbpedia.org/resource/Barbarian
+barbarians - http://dbpedia.org/resource/Barbarian
 persians - http://dbpedia.org/resource/Sasanian_Empire
-emperor - http://dbpedia.org/resource/Roman_emperor
 justinian - http://dbpedia.org/resource/Justinian_I
 ottoman turks - http://dbpedia.org/resource/Ottoman_Turks
 constantinople - http://dbpedia.org/resource/Constantinople
@@ -69,7 +63,6 @@ roman empire - http://dbpedia.org/resource/Western_Roman_Empire
 justinian - http://dbpedia.org/resource/Justinian_I
 roman emperor - http://dbpedia.org/resource/Roman_emperor
 eastern empire - http://dbpedia.org/resource/Byzantine_Empire
-die - http://dbpedia.org/resource/Death
 roman - http://dbpedia.org/resource/Roman_Empire
 eastern empire - http://dbpedia.org/resource/Byzantine_Empire
 latin - http://dbpedia.org/resource/Latin
@@ -79,17 +72,14 @@ romans - http://dbpedia.org/resource/Romans_(musician)
 byzantine empire - http://dbpedia.org/resource/Byzantium
 greek town - http://dbpedia.org/resource/Greektown
 byzantium - http://dbpedia.org/resource/Byzantium
-western society - http://dbpedia.org/resource/Western_world
 byzantines - http://dbpedia.org/resource/Byzantium
 constantinople - http://dbpedia.org/resource/Constantinople
 ideal - http://dbpedia.org/resource/Theory_of_forms
-merchant - http://dbpedia.org/resource/Merchant
 constantinople - http://dbpedia.org/resource/Constantinople
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 roman - http://dbpedia.org/resource/Roman_Empire
-root - http://dbpedia.org/resource/Semitic_root
-byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
-emperor - http://dbpedia.org/resource/Roman_emperor
+byzantine emperors - http://dbpedia.org/resource/Byzantine_Empire
+western emperors - http://dbpedia.org/resource/Western_Roman_Empire
 great power - http://dbpedia.org/resource/Great_power
 eastern emperor - http://dbpedia.org/resource/Byzantine_Empire
 emperor - http://dbpedia.org/resource/Roman_emperor
@@ -99,7 +89,7 @@ emperor - http://dbpedia.org/resource/Roman_emperor
 god - http://dbpedia.org/resource/God
 church - http://dbpedia.org/resource/Christian_Church
 emperor - http://dbpedia.org/resource/Roman_emperor
-pope - http://dbpedia.org/resource/Pope
+bishops - http://dbpedia.org/resource/Bishop
 church - http://dbpedia.org/resource/Christian_Church
 byzantine empire - http://dbpedia.org/resource/Byzantium
 christianity - http://dbpedia.org/resource/Christianity
@@ -108,30 +98,24 @@ byzantine - http://dbpedia.org/resource/Byzantine_Empire
 religious art - http://dbpedia.org/resource/Religious_art
 god - http://dbpedia.org/resource/God
 christian church - http://dbpedia.org/resource/Christianity
-mosaic - http://dbpedia.org/resource/Mosaic
+mosaics - http://dbpedia.org/resource/Mosaic
 colored stone - http://dbpedia.org/resource/Gemstone
 glass - http://dbpedia.org/resource/Roman_glass
-sparkle - http://dbpedia.org/resource/Sparkle_(1976_film)
 gold - http://dbpedia.org/resource/Gold
 silver - http://dbpedia.org/resource/Silver
-church - http://dbpedia.org/resource/Christian_Church
 hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
 justinian - http://dbpedia.org/resource/Justinian_I
 church - http://dbpedia.org/resource/Christian_Church
-dome - http://dbpedia.org/resource/Dome
 constantinople - http://dbpedia.org/resource/Constantinople
 legend - http://dbpedia.org/resource/Hagiography
 justinian - http://dbpedia.org/resource/Justinian_I
 church - http://dbpedia.org/resource/Christian_Church
-exclaim - http://dbpedia.org/resource/Exclaim!
 god - http://dbpedia.org/resource/God
-judge - http://dbpedia.org/resource/Qadi
 solomon - http://dbpedia.org/resource/Solomon
 western christianity - http://dbpedia.org/resource/Western_Christianity
-priest - http://dbpedia.org/resource/Presbyter
+priests - http://dbpedia.org/resource/Presbyter
 latin - http://dbpedia.org/resource/Latin
 christianity - http://dbpedia.org/resource/Christianity
-east west - http://dbpedia.org/resource/East_West_Records
 christianity - http://dbpedia.org/resource/Christianity
 church - http://dbpedia.org/resource/Christian_Church
 eastern orthodox church - http://dbpedia.org/resource/Eastern_Orthodox_Church

@@ -1,16 +1,17 @@
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
-prospector - http://dbpedia.org/resource/Prospecting
+prospectors - http://dbpedia.org/resource/Prospecting
 gold - http://dbpedia.org/resource/Gold
 sutter - http://dbpedia.org/resource/John_Sutter
 lumber mill - http://dbpedia.org/resource/Sutter's_Mill
 coloma - http://dbpedia.org/resource/Coloma_High_School
 california - http://dbpedia.org/resource/California_Trail
-prospector - http://dbpedia.org/resource/Prospecting
+prospectors - http://dbpedia.org/resource/Prospecting
 gold - http://dbpedia.org/resource/Gold
-49er - http://dbpedia.org/resource/California_Gold_Rush
-goldfield - http://dbpedia.org/resource/Gold_mining
+forty niners - http://dbpedia.org/resource/California_Gold_Rush
+49ers - http://dbpedia.org/resource/San_Francisco_49ers
+wildest dreams - http://dbpedia.org/resource/Wildest_Dreams_(Tina_Turner_album)
 dollar - http://dbpedia.org/resource/United_States_dollar
 currency - http://dbpedia.org/resource/United_States_dollar
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
@@ -60,7 +61,6 @@ rich bar - http://dbpedia.org/resource/Rich_Bar,_British_Columbia
 northern california - http://dbpedia.org/resource/Northern_California
 california goldfields - http://dbpedia.org/resource/Lasthenia_californica
 rich bar - http://dbpedia.org/resource/Rich_Bar,_British_Columbia
-furth - http://dbpedia.org/resource/Lists_of_mountains_and_hills_in_the_British_Isles
 strike - http://dbpedia.org/resource/Strike_action
 map - http://dbpedia.org/resource/Map
 president - http://dbpedia.org/resource/President_of_the_United_States

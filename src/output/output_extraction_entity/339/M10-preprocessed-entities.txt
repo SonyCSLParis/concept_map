@@ -2,14 +2,12 @@ nullification - http://dbpedia.org/resource/Jury
 a.d. - http://dbpedia.org/resource/Anno_Domini
 paul - http://dbpedia.org/resource/Paul_the_Apostle
 nullification - http://dbpedia.org/resource/Jury
-legislator - http://dbpedia.org/resource/Legislature
 nebraska - http://dbpedia.org/resource/Nebraska
 tome - http://dbpedia.org/resource/Pope_Leo_I
 thomas woods - http://dbpedia.org/resource/Thomas_Woods
 news - http://dbpedia.org/resource/News_media
 health care - http://dbpedia.org/resource/Health_care
-conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
-trumpet - http://dbpedia.org/resource/Trumpet
+conservatives - http://dbpedia.org/resource/Conservatism_in_the_United_States
 republic - http://dbpedia.org/resource/Republic
 bad idea - http://dbpedia.org/resource/Bad_Idea
 unconstitutional - http://dbpedia.org/resource/Constitutionality
@@ -23,68 +21,52 @@ alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-amendment - http://dbpedia.org/resource/Law
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-reserve - http://dbpedia.org/resource/Bank_reserves
-people power - http://dbpedia.org/resource/People_Power_Revolution
 freedom - http://dbpedia.org/resource/Liberty
 religion - http://dbpedia.org/resource/Freedom_of_religion
 freedom - http://dbpedia.org/resource/Liberty
-freedom press - http://dbpedia.org/resource/Freedom_Press
+freedom - http://dbpedia.org/resource/Liberty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-reserve - http://dbpedia.org/resource/Bank_reserves
-judge - http://dbpedia.org/resource/Judge
-lessen - http://dbpedia.org/resource/Łasin
 freedom - http://dbpedia.org/resource/Liberty
 freedom - http://dbpedia.org/resource/Liberty
 law - http://dbpedia.org/resource/Common_law
 human - http://dbpedia.org/resource/Human_rights
 interference - http://dbpedia.org/resource/Interference_theory
-amendment - http://dbpedia.org/resource/Law
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 law - http://dbpedia.org/resource/Common_law
 religion - http://dbpedia.org/resource/Freedom_of_religion
 freedom - http://dbpedia.org/resource/Liberty
-sentence word - http://dbpedia.org/resource/Sentence_word
 freedom - http://dbpedia.org/resource/Liberty
 religion - http://dbpedia.org/resource/Freedom_of_religion
 sanctuary - http://dbpedia.org/resource/Right_of_asylum
 arid - http://dbpedia.org/resource/Desert
-libel - http://dbpedia.org/resource/Defamation
 defamation - http://dbpedia.org/resource/Defamation
 heresy - http://dbpedia.org/resource/Heresy
 religion - http://dbpedia.org/resource/Freedom_of_religion
-crime - http://dbpedia.org/resource/Crime
-freedom press - http://dbpedia.org/resource/Freedom_Press
+freedom - http://dbpedia.org/resource/Liberty
 law - http://dbpedia.org/resource/Common_law
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
-law - http://dbpedia.org/resource/Common_law
-amendment - http://dbpedia.org/resource/Law
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-reserve - http://dbpedia.org/resource/Bank_reserves
-alien - http://dbpedia.org/resource/Extraterrestrial_life
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 law - http://dbpedia.org/resource/Common_law
-reserve - http://dbpedia.org/resource/Bank_reserves
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-caution - http://dbpedia.org/resource/Police_caution
+caution - http://dbpedia.org/resource/Right_to_silence_in_England_and_Wales
 migration - http://dbpedia.org/resource/Illegal_immigration
 commonwealth - http://dbpedia.org/resource/Republic
 migration - http://dbpedia.org/resource/Illegal_immigration
 alien - http://dbpedia.org/resource/Extraterrestrial_life
-alien - http://dbpedia.org/resource/Extraterrestrial_life
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
 migration - http://dbpedia.org/resource/Illegal_immigration
-migrate - http://dbpedia.org/resource/Human_migration
 prohibition - http://dbpedia.org/resource/Prohibition_of_drugs
 migration - http://dbpedia.org/resource/Illegal_immigration
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 doctrine - http://dbpedia.org/resource/Doctrine
 nullification - http://dbpedia.org/resource/Jury
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitutionality
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 madison - http://dbpedia.org/resource/Madison_(cycling)
@@ -114,24 +96,21 @@ nicholas trist - http://dbpedia.org/resource/Nicholas_Trist
 nullification - http://dbpedia.org/resource/Jury
 secession - http://dbpedia.org/resource/Secession
 secession - http://dbpedia.org/resource/Secession
-light - http://dbpedia.org/resource/Light
+light - http://dbpedia.org/resource/Speed_of_light
 compact - http://dbpedia.org/resource/Compact_theory
-virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 common sense - http://dbpedia.org/resource/Common_sense
 fallacy - http://dbpedia.org/resource/Fallacy
+confounding - http://dbpedia.org/resource/Confounding
 single - http://dbpedia.org/resource/Phonograph_record
-party party - http://dbpedia.org/resource/Party_Party_(film)
 compact - http://dbpedia.org/resource/Compact_theory
 compact - http://dbpedia.org/resource/Compact_theory
 consent - http://dbpedia.org/resource/Consent
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 plural number - http://dbpedia.org/resource/Grammatical_number
-kentucky - http://dbpedia.org/resource/Kentucky
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-pervert - http://dbpedia.org/resource/Perversion
+kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 liberty - http://dbpedia.org/resource/Liberty
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-prefix - http://dbpedia.org/resource/Prefix
 expression - http://dbpedia.org/resource/Freedom_of_speech
 common sense - http://dbpedia.org/resource/Common_sense
 security - http://dbpedia.org/resource/National_security
@@ -147,21 +126,15 @@ federalist - http://dbpedia.org/resource/Federalism
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 doctrine - http://dbpedia.org/resource/Doctrine
 nullification - http://dbpedia.org/resource/Jury
-paper - http://dbpedia.org/resource/Scientific_literature
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 nullification - http://dbpedia.org/resource/Jury
 federalist - http://dbpedia.org/resource/Federalism
-object - http://dbpedia.org/resource/Non-physical_entity
-law - http://dbpedia.org/resource/Common_law
+disaffected - http://dbpedia.org/resource/Disaffected
 resistance - http://dbpedia.org/resource/Resistance_movement
 interposition - http://dbpedia.org/resource/Interposition
-legislature - http://dbpedia.org/resource/Legislature
 neglect - http://dbpedia.org/resource/Negligence
 safety - http://dbpedia.org/resource/Safety
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
-law - http://dbpedia.org/resource/Common_law
-legislature - http://dbpedia.org/resource/Legislature
 interrupt - http://dbpedia.org/resource/Interrupt
 unconstitutional - http://dbpedia.org/resource/Constitutionality
 experiment - http://dbpedia.org/resource/Experiment
@@ -169,20 +142,16 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 defense - http://dbpedia.org/resource/National_security
 legislature - http://dbpedia.org/resource/Legislature
 concurrence - http://dbpedia.org/resource/Concurring_opinion
-court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
-judge - http://dbpedia.org/resource/Judge
-embark - http://dbpedia.org/resource/Embark_(transit_authority)
 conspiracy - http://dbpedia.org/resource/Conspiracy_theory
 legislature - http://dbpedia.org/resource/Legislature
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-supreme law - http://dbpedia.org/resource/Constitution_of_Singapore
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+supreme law - http://dbpedia.org/resource/Supremacy_Clause
 unconstitutional - http://dbpedia.org/resource/Constitutionality
 spirit - http://dbpedia.org/resource/Soul
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-throw weight - http://dbpedia.org/resource/Ballistic_missile
 levity - http://dbpedia.org/resource/Levity_(film)
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
 nullification - http://dbpedia.org/resource/Jury
+flies - http://dbpedia.org/resource/Flight
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 confederacy - http://dbpedia.org/resource/Federalism
 federal law - http://dbpedia.org/resource/Law_of_the_United_States
@@ -191,12 +160,12 @@ article vi - http://dbpedia.org/resource/Article_Six_of_the_United_States_Consti
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 pursuance - http://dbpedia.org/resource/Pursuance
-supreme law - http://dbpedia.org/resource/Constitution_of_Singapore
+treaties - http://dbpedia.org/resource/Treaty
+supreme law - http://dbpedia.org/resource/Supremacy_Clause
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 law - http://dbpedia.org/resource/Common_law
 federal law - http://dbpedia.org/resource/Law_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitutionality
-lawsuit - http://dbpedia.org/resource/Lawsuit
 obamacare - http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
 nullification - http://dbpedia.org/resource/Jury
 unconstitutional - http://dbpedia.org/resource/Constitutionality

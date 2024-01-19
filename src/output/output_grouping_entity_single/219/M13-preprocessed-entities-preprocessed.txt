@@ -1,140 +1,127 @@
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-education - http://dbpedia.org/resource/Education
-australian national university - http://dbpedia.org/resource/Australian_National_University
-amazing - http://dbpedia.org/resource/Amazing_Stories
-nuclear technology - http://dbpedia.org/resource/Nuclear_technology
-railgun - http://dbpedia.org/resource/Railgun
-die - http://dbpedia.org/resource/Death
-time international - http://dbpedia.org/resource/Time_(magazine)
-britain - http://dbpedia.org/resource/United_Kingdom
-jewelry - http://dbpedia.org/resource/Jewellery
-uranium 235 - http://dbpedia.org/resource/Uranium-235
-mass - http://dbpedia.org/resource/Mass
-hughes medal - http://dbpedia.org/resource/Hughes_Medal
-president - http://dbpedia.org/resource/President_of_the_United_States
-knighted - http://dbpedia.org/resource/Knight_Bachelor
-july 18 - http://dbpedia.org/resource/Spanish_coup_of_July_1936
-cyclotron - http://dbpedia.org/resource/Cyclotron
-fusion - http://dbpedia.org/resource/Nuclear_fusion
-germany - http://dbpedia.org/resource/Nazi_Germany
-january 2 - http://dbpedia.org/resource/January_2
-south australia - http://dbpedia.org/resource/South_Australia
-conservation - http://dbpedia.org/resource/Conservation_movement
-ve day - http://dbpedia.org/resource/Victory_in_Europe_Day
-nuclear - http://dbpedia.org/resource/Nuclear_weapon
-york - http://dbpedia.org/resource/York
-cambridge university - http://dbpedia.org/resource/University_of_Cambridge
-scientific experiment - http://dbpedia.org/resource/Experiment
-pearl harbor attack - http://dbpedia.org/resource/Attack_on_Pearl_Harbor
-helium 3 - http://dbpedia.org/resource/Helium-3
-cold war - http://dbpedia.org/resource/Cold_War
-physical sciences - http://dbpedia.org/resource/Physics
-monopoly - http://dbpedia.org/resource/Monopoly
-u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-crime - http://dbpedia.org/resource/Crime
-canberra - http://dbpedia.org/resource/Canberra
-particle accelerator - http://dbpedia.org/resource/Particle_accelerator
-radar - http://dbpedia.org/resource/Radar
-veto - http://dbpedia.org/resource/United_Nations_Security_Council_veto_power
-hydrogen - http://dbpedia.org/resource/Thermonuclear_weapon
-disease - http://dbpedia.org/resource/Disease
-enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
-energy - http://dbpedia.org/resource/Energy
-obituary - http://dbpedia.org/resource/Obituary
-manhattan project - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
-wavelength - http://dbpedia.org/resource/Radio_wave
-oliphant - http://dbpedia.org/resource/Olifant_(instrument)
-aircraft - http://dbpedia.org/resource/Fixed-wing_aircraft
-schoolteacher - http://dbpedia.org/resource/Teacher
-morality - http://dbpedia.org/resource/Morality
-rosa - http://dbpedia.org/resource/Rose
-atom bomb - http://dbpedia.org/resource/Nuclear_weapon
-switch - http://dbpedia.org/resource/Switch
-wilbraham - http://dbpedia.org/resource/Baker_Wilbraham_baronets
-cavendish laboratory - http://dbpedia.org/resource/Cavendish_Laboratory
-priest - http://dbpedia.org/resource/Priest
-hydrogen bomb - http://dbpedia.org/resource/Nuclear_weapon
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
-manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
-stress - http://dbpedia.org/resource/Psychological_stress
-chicago - http://dbpedia.org/resource/University_of_Chicago
-berkeley - http://dbpedia.org/resource/George_Berkeley
-professor - http://dbpedia.org/resource/Professor
-jeweler - http://dbpedia.org/resource/Bench_jeweler
-fuse - http://dbpedia.org/resource/Nuclear_fusion
-beam - http://dbpedia.org/resource/Particle_beam
-nucleus - http://dbpedia.org/resource/Atomic_nucleus
-harry boot - http://dbpedia.org/resource/Harry_Boot
-great leader - http://dbpedia.org/resource/Jimmy_Wales
-birmingham - http://dbpedia.org/resource/University_of_Birmingham
-graduate degree - http://dbpedia.org/resource/Master's_degree
-medicine - http://dbpedia.org/resource/Medicine
-code - http://dbpedia.org/resource/Punched_card
-economist - http://dbpedia.org/resource/Economics
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
-wave - http://dbpedia.org/resource/Electromagnetic_radiation
-city - http://dbpedia.org/resource/City
-wing - http://dbpedia.org/resource/Wing
-bear - http://dbpedia.org/resource/Teddy_bear
-bedford park - http://dbpedia.org/resource/Bedford_Park,_London
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
-theory - http://dbpedia.org/resource/Theory
-tritium - http://dbpedia.org/resource/Tritium
-devastation - http://dbpedia.org/resource/HMS_Devastation_(1871)
-physicist - http://dbpedia.org/resource/Nuclear_physics
-wire - http://dbpedia.org/resource/Telephone_tapping
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-nuclear power - http://dbpedia.org/resource/Nuclear_reactor
-adelaide - http://dbpedia.org/resource/Adelaide
-otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
-nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-humanitarian - http://dbpedia.org/resource/Humanitarianism
-committee - http://dbpedia.org/resource/Committee
+nuclear arms - http://dbpedia.org/resource/Nuclear_weapon
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
-anti nuclear - http://dbpedia.org/resource/Anti-nuclear_movement
-physics - http://dbpedia.org/resource/Physics
-dentistry - http://dbpedia.org/resource/Medicine
-voluntary euthanasia - http://dbpedia.org/resource/Euthanasia
-edward teller - http://dbpedia.org/resource/Edward_Teller
-engine - http://dbpedia.org/resource/Jet_engine
-rutherford - http://dbpedia.org/resource/Ernest_Rutherford
-gadget - http://dbpedia.org/resource/Gadget
-bit - http://dbpedia.org/resource/Bit
-ernest rutherford - http://dbpedia.org/resource/Ernest_Rutherford
+submarines - http://dbpedia.org/resource/Submarine
+wavelength - http://dbpedia.org/resource/Radio_wave
+uranium 235 - http://dbpedia.org/resource/Uranium-235
+medicine - http://dbpedia.org/resource/Medicine
+switch - http://dbpedia.org/resource/Switch
 lawrence - http://dbpedia.org/resource/Saint_Lawrence
-safety - http://dbpedia.org/resource/Nuclear_safety_and_security
-Odd Job - http://dbpedia.org/resource/Odd_Job_(film)
-uranium-235 - http://dbpedia.org/resource/Uranium-235
-freedom - http://dbpedia.org/resource/Free_will
-uranium - http://dbpedia.org/resource/Uranium-235
-submarine - http://dbpedia.org/resource/Submarine
-ardent - http://dbpedia.org/resource/Ardent_Records
-california - http://dbpedia.org/resource/California
-james conant - http://dbpedia.org/resource/James_B._Conant
-adelaide university - http://dbpedia.org/resource/University_of_Adelaide
-pugwash conferences - http://dbpedia.org/resource/Pugwash_Conferences_on_Science_and_World_Affairs
-australian - http://dbpedia.org/resource/Government_of_Australia
-abhorrence - http://dbpedia.org/resource/Abhorrence
-homopolar generator - http://dbpedia.org/resource/Homopolar_generator
-nuclear testing - http://dbpedia.org/resource/Nuclear_weapons_testing
-ernest lawrence - http://dbpedia.org/resource/Ernest_Lawrence
-hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-mark oliphant - http://dbpedia.org/resource/Mark_Oliphant
-australian government - http://dbpedia.org/resource/Government_of_Australia
-wood - http://dbpedia.org/resource/Wood
-project 1950 - http://dbpedia.org/resource/Project_1950
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-neglect - http://dbpedia.org/resource/Child_neglect
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-governor - http://dbpedia.org/resource/Governor
-bomber - http://dbpedia.org/resource/Bomber
-gold - http://dbpedia.org/resource/Gold_standard
-human - http://dbpedia.org/resource/Human_rights
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+priest - http://dbpedia.org/resource/Priest
 moral - http://dbpedia.org/resource/Morality
-religion - http://dbpedia.org/resource/Religion
-cambridge - http://dbpedia.org/resource/University_of_Cambridge
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
-weapon - http://dbpedia.org/resource/Nuclear_weapon
-visa - http://dbpedia.org/resource/Travel_visa
+theory - http://dbpedia.org/resource/Theory
+bomber - http://dbpedia.org/resource/Bomber
+cavendish laboratory - http://dbpedia.org/resource/Cavendish_Laboratory
+berkeley - http://dbpedia.org/resource/George_Berkeley
+january 2 - http://dbpedia.org/resource/January_2
+gold - http://dbpedia.org/resource/Gold_standard
+education - http://dbpedia.org/resource/Education
+radar - http://dbpedia.org/resource/Radar
+safety - http://dbpedia.org/resource/Nuclear_safety_and_security
+homopolar generator - http://dbpedia.org/resource/Homopolar_generator
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+mark oliphant - http://dbpedia.org/resource/Mark_Oliphant
+cold war - http://dbpedia.org/resource/Cold_War
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+anti nuclear - http://dbpedia.org/resource/Anti-nuclear_movement
+manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
+monopoly - http://dbpedia.org/resource/Monopoly
+physics - http://dbpedia.org/resource/Physics
+tritium - http://dbpedia.org/resource/Tritium
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+nuclear power - http://dbpedia.org/resource/Nuclear_reactor
+wire - http://dbpedia.org/resource/Telephone_tapping
 john randall - http://dbpedia.org/resource/John_Ernest_Randall
+Odd Job - http://dbpedia.org/resource/Odd_Job_(film)
+freedom - http://dbpedia.org/resource/Free_will
+nuclear testing - http://dbpedia.org/resource/Nuclear_weapons_testing
+july 18 - http://dbpedia.org/resource/Spanish_coup_of_July_1936
+california - http://dbpedia.org/resource/California
+south australia - http://dbpedia.org/resource/South_Australia
+fuse - http://dbpedia.org/resource/Nuclear_fusion
+cambridge - http://dbpedia.org/resource/University_of_Cambridge
+pugwash conferences - http://dbpedia.org/resource/Pugwash_Conferences_on_Science_and_World_Affairs
+die - http://dbpedia.org/resource/Death
+wood - http://dbpedia.org/resource/Wood
+pearl harbor - http://dbpedia.org/resource/Pearl_Harbor
+particle accelerators - http://dbpedia.org/resource/Particle_accelerator
+hughes medal - http://dbpedia.org/resource/Hughes_Medal
+chicago - http://dbpedia.org/resource/University_of_Chicago
+wavelengths - http://dbpedia.org/resource/Electromagnetic_spectrum
+u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+ardent - http://dbpedia.org/resource/Ardent_Records
+ernest rutherford - http://dbpedia.org/resource/Ernest_Rutherford
+particle accelerator - http://dbpedia.org/resource/Particle_accelerator
+atom bomb - http://dbpedia.org/resource/Nuclear_weapon
+york - http://dbpedia.org/resource/York
+helium 3 - http://dbpedia.org/resource/Helium-3
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+uranium - http://dbpedia.org/resource/Uranium-235
+wing - http://dbpedia.org/resource/Rugby_union_positions
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+cleaning floors - http://dbpedia.org/resource/Floor_cleaning
+governor - http://dbpedia.org/resource/Governor
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+physicist - http://dbpedia.org/resource/Nuclear_physics
+ernest lawrence - http://dbpedia.org/resource/Ernest_Lawrence
+adelaide - http://dbpedia.org/resource/Adelaide
+australian - http://dbpedia.org/resource/Government_of_Australia
+visa - http://dbpedia.org/resource/Travel_visa
+hydrogen bomb - http://dbpedia.org/resource/Nuclear_weapon
+conservation - http://dbpedia.org/resource/Conservation_movement
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+jewelry - http://dbpedia.org/resource/Jewellery
+hydrogen - http://dbpedia.org/resource/Thermonuclear_weapon
+edward teller - http://dbpedia.org/resource/Edward_Teller
+railgun - http://dbpedia.org/resource/Railgun
+dentistry - http://dbpedia.org/resource/Medicine
+rutherford - http://dbpedia.org/resource/Ernest_Rutherford
+weapon - http://dbpedia.org/resource/Nuclear_weapon
+ve day - http://dbpedia.org/resource/Victory_in_Europe_Day
+economist - http://dbpedia.org/resource/Economist
+adelaide university - http://dbpedia.org/resource/University_of_Adelaide
+wilbraham - http://dbpedia.org/resource/Baker_Wilbraham_baronets
+morality - http://dbpedia.org/resource/Morality
+humanitarian - http://dbpedia.org/resource/Humanitarianism
+germany - http://dbpedia.org/resource/Nazi_Germany
+fusion - http://dbpedia.org/resource/Nuclear_fusion
+energy - http://dbpedia.org/resource/Energy
+cyclotron - http://dbpedia.org/resource/Cyclotron
+human - http://dbpedia.org/resource/Human_rights
+great leader - http://dbpedia.org/resource/Jimmy_Wales
+crime - http://dbpedia.org/resource/Crime
+nuclear technology - http://dbpedia.org/resource/Nuclear_technology
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+devastation - http://dbpedia.org/resource/HMS_Devastation_(1871)
+australian government - http://dbpedia.org/resource/Government_of_Australia
+canberra - http://dbpedia.org/resource/Canberra
+ions - http://dbpedia.org/resource/Ionizing_radiation
+president - http://dbpedia.org/resource/President_of_the_United_States
+rosa - http://dbpedia.org/resource/Rose
+cambridge university - http://dbpedia.org/resource/University_of_Cambridge
+time international - http://dbpedia.org/resource/Time_(magazine)
+nuclei - http://dbpedia.org/resource/Atomic_nucleus
+nucleus - http://dbpedia.org/resource/Atomic_nucleus
+religion - http://dbpedia.org/resource/Religion
+mass - http://dbpedia.org/resource/Neutrino
+schoolteacher - http://dbpedia.org/resource/Teacher
+enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+code - http://dbpedia.org/resource/Punched_card
+physical sciences - http://dbpedia.org/resource/Physics
+australian national university - http://dbpedia.org/resource/Australian_National_University
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
+committee - http://dbpedia.org/resource/Committee
+scientist - http://dbpedia.org/resource/Scientist
+professor - http://dbpedia.org/resource/Professor
+knighted - http://dbpedia.org/resource/Knight_Bachelor
+britain - http://dbpedia.org/resource/United_Kingdom
+james conant - http://dbpedia.org/resource/James_B._Conant
+obituary - http://dbpedia.org/resource/Obituary
+voluntary euthanasia - http://dbpedia.org/resource/Euthanasia
+abhorrence - http://dbpedia.org/resource/Abhorrence
+oliphant - http://dbpedia.org/resource/Olifant_(instrument)
+amazing - http://dbpedia.org/resource/Amazing_Stories
+bedford park - http://dbpedia.org/resource/Bedford_Park,_London
+harry boot - http://dbpedia.org/resource/Harry_Boot

@@ -1,48 +1,41 @@
-cave - http://dbpedia.org/resource/Cave
-castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
-repel - http://dbpedia.org/resource/Repel
-tableaux - http://dbpedia.org/resource/Tableau_vivant
-pembroke - http://dbpedia.org/resource/Pembroke_Parish
-king charles - http://dbpedia.org/resource/Charles_I_of_England
-summer - http://dbpedia.org/resource/Summer
-pembroke castle - http://dbpedia.org/resource/Pembroke_Castle
-puzzle - http://dbpedia.org/resource/Puzzle
-cafe - http://dbpedia.org/resource/Coffeehouse
-royalist - http://dbpedia.org/resource/Cavalier
-arnulf de montgomery - http://dbpedia.org/resource/Arnulf_de_Montgomery
-medieval - http://dbpedia.org/resource/Middle_Ages
-defence - http://dbpedia.org/resource/Military
 wholesale - http://dbpedia.org/resource/Wholesaling
-moulding - http://dbpedia.org/resource/Crown_molding
-stone - http://dbpedia.org/resource/Masonry
-henry vii - http://dbpedia.org/resource/Henry_VII_of_England
-stock - http://dbpedia.org/resource/Livestock
-arch - http://dbpedia.org/resource/Arch
-charitable trust - http://dbpedia.org/resource/Charitable_trust
-tudor - http://dbpedia.org/resource/House_of_Tudor
-promontory - http://dbpedia.org/resource/Promontory
-bear - http://dbpedia.org/resource/Bear
-brass rubbing - http://dbpedia.org/resource/Brass_rubbing
-roundheads - http://dbpedia.org/resource/Roundhead
-masonry - http://dbpedia.org/resource/Masonry
-law - http://dbpedia.org/resource/English_law
-gift shop - http://dbpedia.org/resource/Gift_shop
-starvation - http://dbpedia.org/resource/Starvation
-ireland - http://dbpedia.org/resource/Ireland
-gatehouse - http://dbpedia.org/resource/Gatehouse
-bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-britain - http://dbpedia.org/resource/Roman_Britain
-milford haven - http://dbpedia.org/resource/Milford_Haven_Waterway
-wogan - http://dbpedia.org/resource/Wogan
-dog tooth - http://dbpedia.org/resource/Dog-tooth
-military architect - http://dbpedia.org/resource/Military_engineering
-siege - http://dbpedia.org/resource/Siege
 william marshall - http://dbpedia.org/resource/William_Marshal,_1st_Earl_of_Pembroke
-portcullis - http://dbpedia.org/resource/Portcullis
-charles castle - http://dbpedia.org/resource/Charles_Castle
+pembroke - http://dbpedia.org/resource/Pembroke_Parish
+law - http://dbpedia.org/resource/English_law
+king charles - http://dbpedia.org/resource/Charles_I_of_England
+gift shop - http://dbpedia.org/resource/Gift_shop
+medieval - http://dbpedia.org/resource/Middle_Ages
+charitable trust - http://dbpedia.org/resource/Charitable_trust
+masonry - http://dbpedia.org/resource/Masonry
+dog tooth - http://dbpedia.org/resource/Dog-tooth
+royalist - http://dbpedia.org/resource/Cavalier
+cafe - http://dbpedia.org/resource/Coffeehouse
+starvation - http://dbpedia.org/resource/Starvation
 barbican - http://dbpedia.org/resource/Barbican
-defender - http://dbpedia.org/resource/Defendant
-tower - http://dbpedia.org/resource/Keep
-cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-dome - http://dbpedia.org/resource/Dome
+roundheads - http://dbpedia.org/resource/Roundhead
+milford haven - http://dbpedia.org/resource/Milford_Haven_Waterway
+tableaux - http://dbpedia.org/resource/Tableau_vivant
+moulding - http://dbpedia.org/resource/Crown_molding
+summer - http://dbpedia.org/resource/Summer
+stone - http://dbpedia.org/resource/Masonry
+tudor - http://dbpedia.org/resource/House_of_Tudor
+siege - http://dbpedia.org/resource/Siege
+britain - http://dbpedia.org/resource/Roman_Britain
+flying arch - http://dbpedia.org/resource/Flying_arch
 strongbow - http://dbpedia.org/resource/Richard_de_Clare,_2nd_Earl_of_Pembroke
+bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+puzzle - http://dbpedia.org/resource/Puzzle
+cave - http://dbpedia.org/resource/Cave
+gatehouse - http://dbpedia.org/resource/Gatehouse
+brass rubbing - http://dbpedia.org/resource/Brass_rubbing
+arnulf de montgomery - http://dbpedia.org/resource/Arnulf_de_Montgomery
+ireland - http://dbpedia.org/resource/Ireland
+pembroke castle - http://dbpedia.org/resource/Pembroke_Castle
+dome - http://dbpedia.org/resource/Dome
+wogan - http://dbpedia.org/resource/Wogan
+henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+promontory - http://dbpedia.org/resource/Promontory
+defence - http://dbpedia.org/resource/Military
+stocked - http://dbpedia.org/resource/Fish_stock
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+tower - http://dbpedia.org/resource/Keep

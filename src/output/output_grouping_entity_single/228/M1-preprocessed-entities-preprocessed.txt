@@ -1,14 +1,12 @@
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+volatile - http://dbpedia.org/resource/Volatile_organic_compound
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+texas - http://dbpedia.org/resource/Texas
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+mexico city - http://dbpedia.org/resource/Mexico_City
 wharton - http://dbpedia.org/resource/Texan_brig_Wharton
 austin - http://dbpedia.org/resource/Austin_College
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-specific charge - http://dbpedia.org/resource/Mass-to-charge_ratio
-texas - http://dbpedia.org/resource/Texas
-houston - http://dbpedia.org/resource/Houston
-petition - http://dbpedia.org/resource/Petition
-mexico city - http://dbpedia.org/resource/Mexico_City
-volatile - http://dbpedia.org/resource/Volatile_organic_compound
-texas revolution - http://dbpedia.org/resource/Texas_Revolution
 constitution - http://dbpedia.org/resource/Constitution
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
 nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
-san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+houston - http://dbpedia.org/resource/Houston

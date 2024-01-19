@@ -1,81 +1,80 @@
-kt - http://dbpedia.org/resource/TNT_equivalent
-fireball - http://dbpedia.org/resource/Nuclear_weapon_yield
-electrical substation - http://dbpedia.org/resource/Electrical_substation
-isotope - http://dbpedia.org/resource/Isotopes_of_uranium
-reactor - http://dbpedia.org/resource/Nuclear_reactor
-gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
-nazis - http://dbpedia.org/resource/Nazism
-bombard - http://dbpedia.org/resource/Bombardment
-stark - http://dbpedia.org/resource/Stark_Street
-beta - http://dbpedia.org/resource/Beta_particle
-president - http://dbpedia.org/resource/President_of_the_United_States
-basin - http://dbpedia.org/resource/Sink
-los alamos - http://dbpedia.org/resource/Manhattan_Project
-hiroshima bomb - http://dbpedia.org/resource/Little_Boy
-plant - http://dbpedia.org/resource/Chemical_plant
-cell - http://dbpedia.org/resource/Solar_cell
-nuclear explosive - http://dbpedia.org/resource/Nuclear_explosive
-cold war - http://dbpedia.org/resource/Cold_War
-vault - http://dbpedia.org/resource/Bank_vault
-u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-chemical - http://dbpedia.org/resource/Chemical_weapon
-nuclear decay - http://dbpedia.org/resource/Radioactive_decay
-calutrons - http://dbpedia.org/resource/Calutron
-washington - http://dbpedia.org/resource/George_Washington
-dollar - http://dbpedia.org/resource/United_States_dollar
-remote control - http://dbpedia.org/resource/Remote_control
-switchyard - http://dbpedia.org/resource/Electrical_substation
-orange - http://dbpedia.org/resource/Orange_juice
-manhattan project - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
-fission - http://dbpedia.org/resource/Nuclear_fission
-sphere - http://dbpedia.org/resource/Sphere
-electromagnetic separation - http://dbpedia.org/resource/Isotope_separation
-photographer - http://dbpedia.org/resource/Photographer
-roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-jemez mountains - http://dbpedia.org/resource/Jemez_Mountains
-pilot plant - http://dbpedia.org/resource/Pilot_plant
-japanese surrender - http://dbpedia.org/resource/Surrender_of_Japan
+control panel - http://dbpedia.org/resource/Plugboard
+ridge - http://dbpedia.org/resource/Ridge
+calutron girls - http://dbpedia.org/resource/Calutron_Girls
+vapor - http://dbpedia.org/resource/Gas
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
-atomic bomb - http://dbpedia.org/resource/Little_Boy
-uranium enrichment - http://dbpedia.org/resource/Enriched_uranium
-franklin - http://dbpedia.org/resource/The_Franklin's_Tale
-historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+control panels - http://dbpedia.org/resource/System_Preferences
+fat - http://dbpedia.org/resource/Vegetable_oil
 chemistry - http://dbpedia.org/resource/Nuclear_chemistry
-atomic age - http://dbpedia.org/resource/Atomic_Age
+orange - http://dbpedia.org/resource/Orange_juice
+basin - http://dbpedia.org/resource/Sink
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+washington - http://dbpedia.org/resource/George_Washington
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+sphere - http://dbpedia.org/resource/Sphere
+atomic bomb - http://dbpedia.org/resource/Little_Boy
+electromagnetic separation - http://dbpedia.org/resource/Isotope_separation
+electrical substation - http://dbpedia.org/resource/Electrical_substation
+cooling water - http://dbpedia.org/resource/Water_cooling
+calutrons - http://dbpedia.org/resource/Calutron
+hiroshima bomb - http://dbpedia.org/resource/Little_Boy
 tennessee - http://dbpedia.org/resource/Tennessee
-rail - http://dbpedia.org/resource/Rail_transport
 gable mountain - http://dbpedia.org/resource/Gable_Mountain
-code - http://dbpedia.org/resource/Punched_card
-clinton engineering works - http://dbpedia.org/resource/Clinton_Engineer_Works
-calutron - http://dbpedia.org/resource/Calutron
-neutron - http://dbpedia.org/resource/Neutron
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
-nagasaki - http://dbpedia.org/resource/Fat_Man
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+cold war - http://dbpedia.org/resource/Cold_War
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+switchyard - http://dbpedia.org/resource/Electrical_substation
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+martin miller - http://dbpedia.org/resource/Martin_Miller_(actor)
+pump - http://dbpedia.org/resource/Pump
+u235 - http://dbpedia.org/resource/Uranium-235
+unleashed - http://dbpedia.org/resource/Unleashed_(band)
+pilot plant - http://dbpedia.org/resource/Pilot_plant
+rail - http://dbpedia.org/resource/Rail_transport
+valve - http://dbpedia.org/resource/Valve
+u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 civilisation - http://dbpedia.org/resource/Civilization
 plutonium - http://dbpedia.org/resource/Plutonium
-vapor - http://dbpedia.org/resource/Gas
-u235 - http://dbpedia.org/resource/Uranium-235
-ridge - http://dbpedia.org/resource/Ridge
-mexico - http://dbpedia.org/resource/Mexico
-explosive - http://dbpedia.org/resource/Explosion
-radioactive - http://dbpedia.org/resource/Radioactive_decay
-gadget - http://dbpedia.org/resource/Gadget
-miller - http://dbpedia.org/resource/Gristmill
-valve - http://dbpedia.org/resource/Valve
-fat - http://dbpedia.org/resource/Vegetable_oil
+remote control - http://dbpedia.org/resource/Remote_control
+nagasaki - http://dbpedia.org/resource/Fat_Man
 uranium - http://dbpedia.org/resource/Uranium-235
-cooling water - http://dbpedia.org/resource/Water_cooling
-martin miller - http://dbpedia.org/resource/Martin_Miller_(actor)
-hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
-hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-u238 - http://dbpedia.org/resource/Uranium-238
-console - http://dbpedia.org/resource/Video_game_console
-control panel - http://dbpedia.org/resource/Plugboard
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-railroad tracks - http://dbpedia.org/resource/Track_(rail_transport)
-hanford - http://dbpedia.org/resource/Hanford_Site
-pump - http://dbpedia.org/resource/Pump
 piping - http://dbpedia.org/resource/Plumbing
-detonate - http://dbpedia.org/resource/Detonation
+radioactive - http://dbpedia.org/resource/Radioactive_decay
+uranium enrichment - http://dbpedia.org/resource/Enriched_uranium
+cell - http://dbpedia.org/resource/Solar_cell
+fission - http://dbpedia.org/resource/Nuclear_fission
+nazi germany - http://dbpedia.org/resource/Nazi_Germany
+stark - http://dbpedia.org/resource/Stark_Street
+console - http://dbpedia.org/resource/Video_game_console
+jemez mountains - http://dbpedia.org/resource/Jemez_Mountains
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
+kt - http://dbpedia.org/resource/TNT_equivalent
+photographer - http://dbpedia.org/resource/Photographer
+vault - http://dbpedia.org/resource/Bank_vault
+gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
+nuclear decay - http://dbpedia.org/resource/Radioactive_decay
+clinton engineering works - http://dbpedia.org/resource/Clinton_Engineer_Works
+nazis - http://dbpedia.org/resource/Nazism
+gadget - http://dbpedia.org/resource/Gadget
+plant - http://dbpedia.org/resource/Chemical_plant
+calutron - http://dbpedia.org/resource/Calutron
+isotope - http://dbpedia.org/resource/Isotopes_of_uranium
+hanford - http://dbpedia.org/resource/Hanford_Site
+railroad tracks - http://dbpedia.org/resource/Track_(rail_transport)
+president - http://dbpedia.org/resource/President_of_the_United_States
+fireball - http://dbpedia.org/resource/Nuclear_weapon_yield
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+beta - http://dbpedia.org/resource/Beta_particle
+miller - http://dbpedia.org/resource/Gristmill
+neutrons - http://dbpedia.org/resource/Neutron
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+code - http://dbpedia.org/resource/Punched_card
 mushroom cloud - http://dbpedia.org/resource/Mushroom_cloud
+atomic age - http://dbpedia.org/resource/Atomic_Age
+mexico - http://dbpedia.org/resource/Mexico
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
+vaults - http://dbpedia.org/resource/Bank_vault
+u238 - http://dbpedia.org/resource/Uranium-238
+explosive - http://dbpedia.org/resource/Explosion
+explosives - http://dbpedia.org/resource/Explosive

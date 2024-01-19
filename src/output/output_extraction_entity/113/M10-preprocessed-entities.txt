@@ -6,26 +6,22 @@ dissertation - http://dbpedia.org/resource/Thesis
 bibliography - http://dbpedia.org/resource/Citation
 author - http://dbpedia.org/resource/Arthur_Schopenhauer
 stephanie - http://dbpedia.org/resource/Stephanie_Scully
-travel agent - http://dbpedia.org/resource/Travel_agency
-luxury hotel - http://dbpedia.org/resource/Hotel
+travel agents - http://dbpedia.org/resource/Travel_agency
 tourism - http://dbpedia.org/resource/Tourism
 parnwell - http://dbpedia.org/resource/Parnwell,_Peterborough
 tourism - http://dbpedia.org/resource/Tourism
 tourist industry - http://dbpedia.org/resource/Tourism
 sustainable - http://dbpedia.org/resource/Sustainability
-culture - http://dbpedia.org/resource/Culture
 globalisation - http://dbpedia.org/resource/Globalization
 commercialisation - http://dbpedia.org/resource/Commercialization
 culture - http://dbpedia.org/resource/Culture
 culture - http://dbpedia.org/resource/Culture
-theory - http://dbpedia.org/resource/Theory
 radcliffe - http://dbpedia.org/resource/Radcliffe_College
 cartwright - http://dbpedia.org/resource/Wainwright
 culture - http://dbpedia.org/resource/Culture
 culture - http://dbpedia.org/resource/Culture
 culture - http://dbpedia.org/resource/Culture
 consumerism - http://dbpedia.org/resource/Consumerism
-economic development - http://dbpedia.org/resource/Economic_development
 tourism - http://dbpedia.org/resource/Tourism
 rutherford - http://dbpedia.org/resource/Ernest_Rutherford
 tourism - http://dbpedia.org/resource/Tourism
@@ -46,10 +42,7 @@ wood - http://dbpedia.org/resource/Wood
 wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
 differentiation - http://dbpedia.org/resource/Product_differentiation
 indonesian government - http://dbpedia.org/resource/Indonesia
-filter - http://dbpedia.org/resource/Filtration
-ethnic national - http://dbpedia.org/resource/Ethnic_nationalism
 schiller - http://dbpedia.org/resource/Lustre_(mineralogy)
-determinant - http://dbpedia.org/resource/Determinant
 national identity - http://dbpedia.org/resource/National_identity
 cahon - http://dbpedia.org/resource/Cahon
 miller - http://dbpedia.org/resource/Miller
@@ -57,18 +50,13 @@ leeds - http://dbpedia.org/resource/University_of_Leeds
 dissertation - http://dbpedia.org/resource/Thesis
 unesco - http://dbpedia.org/resource/UNESCO
 heritage - http://dbpedia.org/resource/Cultural_heritage
-multiple identity - http://dbpedia.org/resource/Multiple-use_name
-culture - http://dbpedia.org/resource/Culture
-language - http://dbpedia.org/resource/Language
 archipelago - http://dbpedia.org/resource/Nusantara
 market - http://dbpedia.org/resource/Market_economy
 tourism - http://dbpedia.org/resource/Tourism
-outline - http://dbpedia.org/resource/Nutrition
 literature - http://dbpedia.org/resource/Literature
 archipelago - http://dbpedia.org/resource/Nusantara
 southeast asia - http://dbpedia.org/resource/Southeast_Asia
 cultural diversity - http://dbpedia.org/resource/Cultural_diversity
-group language - http://dbpedia.org/resource/Syntactic_monoid
 coherent - http://dbpedia.org/resource/Laser
 national identity - http://dbpedia.org/resource/National_identity
 parnwell - http://dbpedia.org/resource/Parnwell,_Peterborough
@@ -81,31 +69,28 @@ temple - http://dbpedia.org/resource/Candi_of_Indonesia
 unesco - http://dbpedia.org/resource/UNESCO
 heritage - http://dbpedia.org/resource/Cultural_heritage
 yogyakarta - http://dbpedia.org/resource/Yogyakarta
-central java - http://dbpedia.org/resource/Central_Java
-palm tree - http://dbpedia.org/resource/Arecaceae
-village - http://dbpedia.org/resource/Village
+palm trees - http://dbpedia.org/resource/Arecaceae
 rice - http://dbpedia.org/resource/Rice
 sugar cane - http://dbpedia.org/resource/Sugarcane
 borobudur - http://dbpedia.org/resource/Borobudur
 buddhist - http://dbpedia.org/resource/Buddhism
 monument - http://dbpedia.org/resource/Monument
-terrace - http://dbpedia.org/resource/Terraced_house
+terraces - http://dbpedia.org/resource/Terraced_house
 narrative - http://dbpedia.org/resource/Narrative
-terrace - http://dbpedia.org/resource/Terraced_house
+terraces - http://dbpedia.org/resource/Terraced_house
 buddhas - http://dbpedia.org/resource/Buddhahood
 latticed - http://dbpedia.org/resource/Latticework
-stupa - http://dbpedia.org/resource/Stupa
+stupas - http://dbpedia.org/resource/Stupa
 mac donald - http://dbpedia.org/resource/Heather_Mac_Donald
 unesco - http://dbpedia.org/resource/UNESCO
 heritage - http://dbpedia.org/resource/Cultural_heritage
 archaeological park - http://dbpedia.org/resource/Archaeological_site
-displace - http://dbpedia.org/resource/Engine_displacement
+displaced - http://dbpedia.org/resource/Forced_displacement
 conservation - http://dbpedia.org/resource/Conservation_biology
 tourist attraction - http://dbpedia.org/resource/Tourism
 javanese - http://dbpedia.org/resource/Javanese_people
 unesco - http://dbpedia.org/resource/UNESCO
 borobudur - http://dbpedia.org/resource/Borobudur
-connotation - http://dbpedia.org/resource/Connotation
 buddhist - http://dbpedia.org/resource/Buddhism
 buddhist - http://dbpedia.org/resource/Buddhism
 enlightenment - http://dbpedia.org/resource/Age_of_Enlightenment
@@ -113,59 +98,52 @@ buddha - http://dbpedia.org/resource/Gautama_Buddha
 turner - http://dbpedia.org/resource/Woodturning
 ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
 animism - http://dbpedia.org/resource/Animism
-religious belief - http://dbpedia.org/resource/Belief
 indonesians - http://dbpedia.org/resource/Indonesia
 yogyakarta - http://dbpedia.org/resource/Yogyakarta
+indonesian provinces - http://dbpedia.org/resource/Provinces_of_Indonesia
+indonesian citizens - http://dbpedia.org/resource/Indonesia
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 yogyakarta - http://dbpedia.org/resource/Yogyakarta
-structure set - http://dbpedia.org/resource/Surgery_structure_set
-prepare - http://dbpedia.org/resource/PREPARE
-paper - http://dbpedia.org/resource/Academic_publishing
-paper - http://dbpedia.org/resource/Academic_publishing
-article - http://dbpedia.org/resource/Historicity_of_Jesus
 literature - http://dbpedia.org/resource/Literature
-datum - http://dbpedia.org/resource/Data
 methodology - http://dbpedia.org/resource/Methodology
 borobudur - http://dbpedia.org/resource/Borobudur
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 heritage - http://dbpedia.org/resource/Cultural_heritage
 archaeological site - http://dbpedia.org/resource/Archaeology
-landscape - http://dbpedia.org/resource/Landscape
-village - http://dbpedia.org/resource/Village
 resemble - http://dbpedia.org/resource/SoltyRei
 archaeological site - http://dbpedia.org/resource/Archaeology
 theme park - http://dbpedia.org/resource/Amusement_park
 culture - http://dbpedia.org/resource/Culture
 archaeological site - http://dbpedia.org/resource/Archaeology
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
+goods - http://dbpedia.org/resource/Goods
 livelihood - http://dbpedia.org/resource/Livelihood
-bali bombing - http://dbpedia.org/resource/2002_Bali_bombings
+bali bombings - http://dbpedia.org/resource/2002_Bali_bombings
 tourism - http://dbpedia.org/resource/Tourism
 temple site - http://dbpedia.org/resource/Temple_Mount
 space - http://dbpedia.org/resource/Space
+goods - http://dbpedia.org/resource/Goods
 food - http://dbpedia.org/resource/Food
-souvenir - http://dbpedia.org/resource/Souvenir
-rent - http://dbpedia.org/resource/Renting
 car park - http://dbpedia.org/resource/Parking_lot
-security guard - http://dbpedia.org/resource/Security_guard
+security - http://dbpedia.org/resource/Security
 blind - http://dbpedia.org/resource/Visual_impairment
 eye - http://dbpedia.org/resource/Human_eye
+goods - http://dbpedia.org/resource/Goods
 metal - http://dbpedia.org/resource/Metalworking
 fencing - http://dbpedia.org/resource/Fence
+goods - http://dbpedia.org/resource/Goods
 market - http://dbpedia.org/resource/Market_economy
 market - http://dbpedia.org/resource/Market_economy
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 eyesore - http://dbpedia.org/resource/Eyesore
+adds - http://dbpedia.org/resource/Applied_Digital_Data_Systems
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
-reiterate - http://dbpedia.org/resource/Reiterate
-hassle - http://dbpedia.org/resource/Hassle_Records
-souvenir - http://dbpedia.org/resource/Souvenir
+badgered - http://dbpedia.org/resource/Badgered
 tablecloth - http://dbpedia.org/resource/Tablecloth
 unesco - http://dbpedia.org/resource/UNESCO
 heritage - http://dbpedia.org/resource/Cultural_heritage
-amazing - http://dbpedia.org/resource/Amazing_Stories
+amazing - http://dbpedia.org/resource/Earth-616
 fieldwork - http://dbpedia.org/resource/Field_research
-monk - http://dbpedia.org/resource/Bhikkhu
 thailand - http://dbpedia.org/resource/Thailand
 stupas - http://dbpedia.org/resource/Stupa
 tour group - http://dbpedia.org/resource/Tour_Group
@@ -186,7 +164,6 @@ culture - http://dbpedia.org/resource/Culture
 weapon - http://dbpedia.org/resource/Weapon_of_mass_destruction
 dominant - http://dbpedia.org/resource/Dominance_hierarchy
 culture - http://dbpedia.org/resource/Culture
-public place - http://dbpedia.org/resource/Public_space
 economy - http://dbpedia.org/resource/Economy
 tourism - http://dbpedia.org/resource/Tourism
 itpb - http://dbpedia.org/resource/International_Tech_Park,_Bangalore
@@ -196,71 +173,54 @@ cahon - http://dbpedia.org/resource/Cahon
 miller - http://dbpedia.org/resource/Miller
 cahon - http://dbpedia.org/resource/Cahon
 miller - http://dbpedia.org/resource/Miller
-market - http://dbpedia.org/resource/Market_economy
 heritage - http://dbpedia.org/resource/Cultural_heritage
 marketing - http://dbpedia.org/resource/Marketing
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 borobudur - http://dbpedia.org/resource/Borobudur
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 unesco - http://dbpedia.org/resource/UNESCO
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-marketing management - http://dbpedia.org/resource/Marketing_management
+marketing - http://dbpedia.org/resource/Marketing
 conservation - http://dbpedia.org/resource/Conservation_biology
 indonesian government - http://dbpedia.org/resource/Indonesia
 conservation - http://dbpedia.org/resource/Conservation_biology
 heritage - http://dbpedia.org/resource/Cultural_heritage
-share international - http://dbpedia.org/resource/Share_International
 stakeholder - http://dbpedia.org/resource/Project_stakeholder
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 fieldwork - http://dbpedia.org/resource/Field_research
 literature - http://dbpedia.org/resource/Literature
 harrison - http://dbpedia.org/resource/George_Harrison
 shopping mall - http://dbpedia.org/resource/Shopping_mall
-actor - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 unesco - http://dbpedia.org/resource/UNESCO
 shopping mall - http://dbpedia.org/resource/Shopping_mall
 archaeological - http://dbpedia.org/resource/Archaeology
 cultural heritage - http://dbpedia.org/resource/Cultural_heritage
-local government - http://dbpedia.org/resource/Local_government
 shopping mall - http://dbpedia.org/resource/Shopping_mall
-conservation development - http://dbpedia.org/resource/Conservation_development
-conservationist - http://dbpedia.org/resource/Conservation_biology
-historian - http://dbpedia.org/resource/History
+conservation - http://dbpedia.org/resource/Conservation_biology
+conservationists - http://dbpedia.org/resource/Conservation_biology
 borobudur - http://dbpedia.org/resource/Borobudur
 city - http://dbpedia.org/resource/City
 yogyakarta - http://dbpedia.org/resource/Yogyakarta
 borobudur - http://dbpedia.org/resource/Borobudur
 heritage - http://dbpedia.org/resource/Cultural_heritage
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 archaeological park - http://dbpedia.org/resource/Archaeological_site
 conservation development - http://dbpedia.org/resource/Conservation_development
-stakeholder - http://dbpedia.org/resource/Project_stakeholder
+decision making - http://dbpedia.org/resource/Decision-making
+stakeholders - http://dbpedia.org/resource/Project_stakeholder
 involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 borobudur - http://dbpedia.org/resource/Borobudur
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 unesco - http://dbpedia.org/resource/UNESCO
 heritage - http://dbpedia.org/resource/Cultural_heritage
-actor - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-caretaker - http://dbpedia.org/resource/Caregiver
-conservationist - http://dbpedia.org/resource/Conservation_biology
+conservationists - http://dbpedia.org/resource/Conservation_biology
 picard - http://dbpedia.org/resource/Picard_language
-stakeholder - http://dbpedia.org/resource/Project_stakeholder
-borobudur - http://dbpedia.org/resource/Borobudur
-market - http://dbpedia.org/resource/Market_economy
+stakeholders - http://dbpedia.org/resource/Project_stakeholder
 borobudur - http://dbpedia.org/resource/Borobudur
 borobudur - http://dbpedia.org/resource/Borobudur
-assimilate - http://dbpedia.org/resource/Culture
-stakeholder - http://dbpedia.org/resource/Project_stakeholder
+borobudur - http://dbpedia.org/resource/Borobudur
+stakeholders - http://dbpedia.org/resource/Project_stakeholder
 unesco - http://dbpedia.org/resource/UNESCO
 marketing - http://dbpedia.org/resource/Marketing
 tourism - http://dbpedia.org/resource/Tourism
-economic development - http://dbpedia.org/resource/Economic_development
 borobudur - http://dbpedia.org/resource/Borobudur
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
-conservation development - http://dbpedia.org/resource/Conservation_development
-livelihood - http://dbpedia.org/resource/Livelihood
-stakeholder - http://dbpedia.org/resource/Project_stakeholder
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+conservation - http://dbpedia.org/resource/Conservation_biology
+stakeholders - http://dbpedia.org/resource/Project_stakeholder

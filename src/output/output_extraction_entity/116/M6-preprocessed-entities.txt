@@ -1,6 +1,5 @@
-pendant - http://dbpedia.org/resource/Pendant
 xxvii - http://dbpedia.org/resource/Super_Bowl_XXVII
-frieze - http://dbpedia.org/resource/Frieze
+friezes - http://dbpedia.org/resource/Frieze
 chamber - http://dbpedia.org/resource/Room
 ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
 yarmouth - http://dbpedia.org/resource/Great_Yarmouth
@@ -10,12 +9,9 @@ drawing room - http://dbpedia.org/resource/Drawing_room
 dimension - http://dbpedia.org/resource/Dimension
 chimney - http://dbpedia.org/resource/Chimney
 drawing room - http://dbpedia.org/resource/Drawing_room
-engrave - http://dbpedia.org/resource/Engraving
 palmer - http://dbpedia.org/resource/Palmer_(pilgrim)
-column - http://dbpedia.org/resource/Column
 chimney - http://dbpedia.org/resource/Chimney
 strap - http://dbpedia.org/resource/Strap
-fruit - http://dbpedia.org/resource/Fruit
 e34 - http://dbpedia.org/resource/International_E-road_network
 elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
 xxviii - http://dbpedia.org/resource/Roman_numerals
@@ -25,7 +21,6 @@ derbyshire - http://dbpedia.org/resource/Derbyshire
 grace - http://dbpedia.org/resource/Charites
 duke - http://dbpedia.org/resource/Duke
 devonshire - http://dbpedia.org/resource/Devon
-adorn - http://dbpedia.org/resource/Adorn_(song)
 ridge - http://dbpedia.org/resource/Ridge
 mansion - http://dbpedia.org/resource/English_country_house
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
@@ -34,7 +29,6 @@ john hardwick - http://dbpedia.org/resource/John_Hardwick_(director)
 earl - http://dbpedia.org/resource/Earl
 shrewsbury - http://dbpedia.org/resource/Shrewsbury
 robert bailey - http://dbpedia.org/resource/Robert_Bailey_(American_football)
-mansion - http://dbpedia.org/resource/English_country_house
 hardwick - http://dbpedia.org/resource/Hardwick_Hall
 taste - http://dbpedia.org/resource/Wine_tasting
 singular - http://dbpedia.org/resource/Grammatical_number
@@ -45,13 +39,13 @@ arabesque - http://dbpedia.org/resource/Arabesque
 armorial achievement - http://dbpedia.org/resource/Coat_of_arms
 shrewsbury - http://dbpedia.org/resource/Shrewsbury
 lozenge - http://dbpedia.org/resource/Lozenge
+engrailed - http://dbpedia.org/resource/Engrailed_(moth)
+arms - http://dbpedia.org/resource/Coat_of_arms
 wick - http://dbpedia.org/resource/Capillary_action
+quartered - http://dbpedia.org/resource/Dismemberment
 duke - http://dbpedia.org/resource/Duke
-collar - http://dbpedia.org/resource/Livery_collar
-emblazon - http://dbpedia.org/resource/Blazon
 great hall - http://dbpedia.org/resource/Great_hall
 tapestry - http://dbpedia.org/resource/Tapestry
-portrait - http://dbpedia.org/resource/Portrait
 xxix - http://dbpedia.org/resource/Super_Bowl_XXIX
 elevation - http://dbpedia.org/resource/Architectural_drawing
 bramshill house - http://dbpedia.org/resource/Bramshill_House
@@ -66,11 +60,9 @@ hartford bridge - http://dbpedia.org/resource/RAF_Blackbushe
 elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
 remarkable - http://dbpedia.org/resource/ReMarkable
 amplitude - http://dbpedia.org/resource/Sound
-dimension - http://dbpedia.org/resource/Dimension
 amiable - http://dbpedia.org/resource/Amiable
 henry frederick - http://dbpedia.org/resource/Henry_Frederick,_Prince_of_Wales
 king james - http://dbpedia.org/resource/James_VI_and_I
-die - http://dbpedia.org/resource/Death
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 edward lord - http://dbpedia.org/resource/Edward_Lord
 harringworth - http://dbpedia.org/resource/Harringworth
@@ -83,7 +75,7 @@ bramshill park - http://dbpedia.org/resource/Bramshill_House
 anecdote - http://dbpedia.org/resource/Anecdote
 george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
 archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
-canterbury - http://dbpedia.org/resource/Canterbury_Cathedral
+canterbury - http://dbpedia.org/resource/Canterbury
 health - http://dbpedia.org/resource/Health
 hampshire - http://dbpedia.org/resource/Hampshire
 sake - http://dbpedia.org/resource/Sake
@@ -99,7 +91,7 @@ melancholy - http://dbpedia.org/resource/Melancholia
 prelate - http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church
 archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
 lessen - http://dbpedia.org/resource/Łasin
-miscarry - http://dbpedia.org/resource/Miscarriage
+miscarried - http://dbpedia.org/resource/Miscarriage
 pardon - http://dbpedia.org/resource/Royal_prerogative_of_mercy
 charles - http://dbpedia.org/resource/Charles_I_of_England
 bramshill house - http://dbpedia.org/resource/Bramshill_House
@@ -131,7 +123,7 @@ oriel - http://dbpedia.org/resource/Oriel_window
 compas - http://dbpedia.org/resource/Compas
 sin - http://dbpedia.org/resource/Sin
 lightness - http://dbpedia.org/resource/Lightness
-specie - http://dbpedia.org/resource/Coin
+species - http://dbpedia.org/resource/Species
 beauty - http://dbpedia.org/resource/Aesthetics
 xxxi - http://dbpedia.org/resource/Super_Bowl_XXXI
 elevation - http://dbpedia.org/resource/Architectural_drawing
@@ -143,7 +135,6 @@ projection - http://dbpedia.org/resource/Mercator_projection
 arch - http://dbpedia.org/resource/Arch
 bay window - http://dbpedia.org/resource/Bay_window
 projection - http://dbpedia.org/resource/Mercator_projection
-pierce - http://dbpedia.org/resource/Franklin_Pierce
 parapet - http://dbpedia.org/resource/Parapet
 gable - http://dbpedia.org/resource/Gable
 king james - http://dbpedia.org/resource/James_VI_and_I
@@ -153,12 +144,11 @@ bramshill house - http://dbpedia.org/resource/Bramshill_House
 hampshire - http://dbpedia.org/resource/Hampshire
 dif - http://dbpedia.org/resource/National_System_for_Integral_Family_Development
 noble - http://dbpedia.org/resource/Nobility
-terrace - http://dbpedia.org/resource/Terrace_garden
-project wing - http://dbpedia.org/resource/X_(company)
-terrace - http://dbpedia.org/resource/Terrace_garden
+terrace - http://dbpedia.org/resource/Terraced_house
+terrace - http://dbpedia.org/resource/Terraced_house
 balustrade - http://dbpedia.org/resource/Baluster
 xxxiii - http://dbpedia.org/resource/Super_Bowl_XXXIII
-balustrade - http://dbpedia.org/resource/Baluster
+balustrades - http://dbpedia.org/resource/Baluster
 lincoln - http://dbpedia.org/resource/Abraham_Lincoln
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 crest - http://dbpedia.org/resource/Coat_of_arms
@@ -169,14 +159,14 @@ bramshill house - http://dbpedia.org/resource/Bramshill_House
 parapet - http://dbpedia.org/resource/Parapet
 bramshill - http://dbpedia.org/resource/Bramshill
 parapet - http://dbpedia.org/resource/Parapet
+piers - http://dbpedia.org/resource/Deep_foundation
 light - http://dbpedia.org/resource/Light
 parapet - http://dbpedia.org/resource/Parapet
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
 parapet - http://dbpedia.org/resource/Parapet
 elevation - http://dbpedia.org/resource/Architectural_drawing
 elizabethan era - http://dbpedia.org/resource/Elizabethan_era
-baluster - http://dbpedia.org/resource/Baluster
-terrace - http://dbpedia.org/resource/Terrace_garden
+balusters - http://dbpedia.org/resource/Baluster
+terrace - http://dbpedia.org/resource/Terraced_house
 bramshill - http://dbpedia.org/resource/Bramshill
 balustrade - http://dbpedia.org/resource/Baluster
 xxxiv - http://dbpedia.org/resource/Super_Bowl_XXXIV
@@ -184,16 +174,14 @@ arcade - http://dbpedia.org/resource/Pedestrian_zone
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 hampshire - http://dbpedia.org/resource/Hampshire
 arcade - http://dbpedia.org/resource/Pedestrian_zone
-terrace - http://dbpedia.org/resource/Terrace_garden
+terrace - http://dbpedia.org/resource/Terraced_house
+southern front - http://dbpedia.org/resource/Burma_campaign
 architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
-terrace - http://dbpedia.org/resource/Terrace_garden
+terrace - http://dbpedia.org/resource/Terraced_house
 classical - http://dbpedia.org/resource/Classical_architecture
 architect - http://dbpedia.org/resource/Gothic_Revival_architecture
-impost - http://dbpedia.org/resource/Tax
-arch - http://dbpedia.org/resource/Arch
-pillar - http://dbpedia.org/resource/Column
+imposts - http://dbpedia.org/resource/Tax
 architect - http://dbpedia.org/resource/Gothic_Revival_architecture
-column - http://dbpedia.org/resource/Column
 column - http://dbpedia.org/resource/Column
 arcade - http://dbpedia.org/resource/Pedestrian_zone
 bramshill - http://dbpedia.org/resource/Bramshill
@@ -202,8 +190,7 @@ elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
 lightness - http://dbpedia.org/resource/Lightness
 ionic - http://dbpedia.org/resource/Ionic_order
 phs - http://dbpedia.org/resource/United_States_Public_Health_Service
-capital - http://dbpedia.org/resource/Capital_punishment
-column - http://dbpedia.org/resource/Column
+capitals - http://dbpedia.org/resource/Capital_city
 xxxv - http://dbpedia.org/resource/Super_Bowl_XXXV
 stone - http://dbpedia.org/resource/Sandstone
 bramshill house - http://dbpedia.org/resource/Bramshill_House
@@ -216,36 +203,31 @@ sussex - http://dbpedia.org/resource/Sussex
 duke - http://dbpedia.org/resource/Duke
 richmond - http://dbpedia.org/resource/Richmond_Football_Club
 bramshill - http://dbpedia.org/resource/Bramshill
-bear - http://dbpedia.org/resource/Bear
 emblazon - http://dbpedia.org/resource/Blazon
 ment - http://dbpedia.org/resource/M.E.N.T._B.C.
+arms - http://dbpedia.org/resource/Coat_of_arms
 gentry - http://dbpedia.org/resource/Gentry
 good cheer - http://dbpedia.org/resource/Good_Cheer
 inseparable - http://dbpedia.org/resource/Inseparable_(song)
 mansion - http://dbpedia.org/resource/English_country_house
 montacute house - http://dbpedia.org/resource/Montacute_House
 somersetshire - http://dbpedia.org/resource/Somerset
-emblazon - http://dbpedia.org/resource/Blazon
 frieze - http://dbpedia.org/resource/Frieze
 gil - http://dbpedia.org/resource/Recurring_elements_in_the_Final_Fantasy_series
-york - http://dbpedia.org/resource/House_of_York
 family - http://dbpedia.org/resource/Family
 bramshill - http://dbpedia.org/resource/Bramshill
 entablature - http://dbpedia.org/resource/Entablature
-taine - http://dbpedia.org/resource/Hippolyte_Taine
-spandril - http://dbpedia.org/resource/Spandrel
-arch - http://dbpedia.org/resource/Arch
+spandrils - http://dbpedia.org/resource/Spandrel
 wisdom - http://dbpedia.org/resource/Solomon
 corinthian - http://dbpedia.org/resource/Corinthian_order
 arabesque - http://dbpedia.org/resource/Arabesque
-ornament - http://dbpedia.org/resource/Decorative_arts
 laro - http://dbpedia.org/resource/Laro_language
 xxxvi - http://dbpedia.org/resource/Super_Bowl_XXXVI
 drawing room - http://dbpedia.org/resource/Drawing_room
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 hampshire - http://dbpedia.org/resource/Hampshire
-mansion - http://dbpedia.org/resource/English_country_house
 drawing room - http://dbpedia.org/resource/Drawing_room
+withdrawing room - http://dbpedia.org/resource/Drawing_room
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 whetstone - http://dbpedia.org/resource/Sharpening_stone
 heptameron - http://dbpedia.org/resource/Heptaméron
@@ -257,14 +239,11 @@ taste - http://dbpedia.org/resource/Wine_tasting
 charles ii - http://dbpedia.org/resource/Charles_II_of_England
 drawing room - http://dbpedia.org/resource/Drawing_room
 bramshill - http://dbpedia.org/resource/Bramshill
-light - http://dbpedia.org/resource/Light
-bay window - http://dbpedia.org/resource/Bay_window
-sixteen foot - http://dbpedia.org/resource/Eight-foot_pitch
-rib - http://dbpedia.org/resource/Rib_vault
+bay windows - http://dbpedia.org/resource/Bay_window
 plain - http://dbpedia.org/resource/Plain
 frieze - http://dbpedia.org/resource/Frieze
 fruit - http://dbpedia.org/resource/Fruit
-moulding - http://dbpedia.org/resource/Crown_molding
+mouldings - http://dbpedia.org/resource/Molding_(decorative)
 xxxvii - http://dbpedia.org/resource/Super_Bowl_XXXVII
 drawing room - http://dbpedia.org/resource/Drawing_room
 library - http://dbpedia.org/resource/Library
@@ -279,9 +258,10 @@ grape - http://dbpedia.org/resource/Grape
 pomegranate - http://dbpedia.org/resource/Pomegranate
 foliage - http://dbpedia.org/resource/Leaf
 architrave - http://dbpedia.org/resource/Architrave
+tils - http://dbpedia.org/resource/Tumor-infiltrating_lymphocytes
 frieze - http://dbpedia.org/resource/Frieze
 dado - http://dbpedia.org/resource/Dado_rail
-moulding - http://dbpedia.org/resource/Crown_molding
+mouldings - http://dbpedia.org/resource/Molding_(decorative)
 plaster - http://dbpedia.org/resource/Stucco
 frieze - http://dbpedia.org/resource/Frieze
 library - http://dbpedia.org/resource/Library
@@ -299,7 +279,6 @@ sion - http://dbpedia.org/resource/Zion
 library - http://dbpedia.org/resource/Library
 drawing room - http://dbpedia.org/resource/Drawing_room
 plain - http://dbpedia.org/resource/Plain
-ornament - http://dbpedia.org/resource/Decorative_arts
 light - http://dbpedia.org/resource/Light
 xxxix - http://dbpedia.org/resource/Super_Bowl_XXXIX
 chimney - http://dbpedia.org/resource/Chimney
@@ -312,18 +291,15 @@ panelling - http://dbpedia.org/resource/Panelling
 classical - http://dbpedia.org/resource/Classical_architecture
 doric - http://dbpedia.org/resource/Doric_order
 ionic - http://dbpedia.org/resource/Ionic_order
-capital - http://dbpedia.org/resource/Capital_punishment
+capitals - http://dbpedia.org/resource/Capital_city
 entablature - http://dbpedia.org/resource/Entablature
 pediment - http://dbpedia.org/resource/Pediment
 cornice - http://dbpedia.org/resource/Cornice
-column - http://dbpedia.org/resource/Column
 marble - http://dbpedia.org/resource/Marble
 chimney - http://dbpedia.org/resource/Chimney
 frieze - http://dbpedia.org/resource/Frieze
 marble - http://dbpedia.org/resource/Marble
 entablature - http://dbpedia.org/resource/Entablature
-andiron - http://dbpedia.org/resource/Andiron
-dog - http://dbpedia.org/resource/Dog
 wood - http://dbpedia.org/resource/Wood_carving
 projection - http://dbpedia.org/resource/Mercator_projection
 chimney - http://dbpedia.org/resource/Chimney
@@ -339,34 +315,28 @@ avon - http://dbpedia.org/resource/Avon_Barksdale
 town - http://dbpedia.org/resource/Market_town
 hindon - http://dbpedia.org/resource/Hindon_River
 mansion - http://dbpedia.org/resource/English_country_house
-francis - http://dbpedia.org/resource/Francis_I_of_France
+francis - http://dbpedia.org/resource/Francis_of_Assisi
 king charles ii - http://dbpedia.org/resource/Charles_II_of_England
 drawing room - http://dbpedia.org/resource/Drawing_room
 elizabethan style - http://dbpedia.org/resource/Elizabethan_architecture
 wiltshire - http://dbpedia.org/resource/Wiltshire
 oriel - http://dbpedia.org/resource/Oriel_window
-angle - http://dbpedia.org/resource/Angle
 mansion - http://dbpedia.org/resource/English_country_house
-light - http://dbpedia.org/resource/Light
-bay window - http://dbpedia.org/resource/Bay_window
+bay windows - http://dbpedia.org/resource/Bay_window
 oriel - http://dbpedia.org/resource/Oriel_window
-square bay - http://dbpedia.org/resource/Square_Bay
+bays - http://dbpedia.org/resource/Bay_window
 armorial - http://dbpedia.org/resource/Coat_of_arms
-stain glass - http://dbpedia.org/resource/Stained_glass
+stained glass - http://dbpedia.org/resource/Stained_glass
 chimney - http://dbpedia.org/resource/Chimney
 corinthian order - http://dbpedia.org/resource/Corinthian_order
-column - http://dbpedia.org/resource/Column
 pedestal - http://dbpedia.org/resource/Pedestal
-ornament - http://dbpedia.org/resource/Decorative_arts
 frieze - http://dbpedia.org/resource/Frieze
 chimney - http://dbpedia.org/resource/Chimney
-moulding - http://dbpedia.org/resource/Crown_molding
+mouldings - http://dbpedia.org/resource/Molding_(decorative)
 corinthian - http://dbpedia.org/resource/Corinthian_order
-pilaster - http://dbpedia.org/resource/Pilaster
-ornament - http://dbpedia.org/resource/Decorative_arts
-arch - http://dbpedia.org/resource/Arch
-spandril - http://dbpedia.org/resource/Spandrel
-pilaster - http://dbpedia.org/resource/Pilaster
+pilasters - http://dbpedia.org/resource/Pilaster
+spandrils - http://dbpedia.org/resource/Spandrel
+pilasters - http://dbpedia.org/resource/Pilaster
 frieze - http://dbpedia.org/resource/Frieze
 cornice - http://dbpedia.org/resource/Cornice
 pedestal - http://dbpedia.org/resource/Pedestal
@@ -374,13 +344,8 @@ diana - http://dbpedia.org/resource/Diana_(album)
 minerva - http://dbpedia.org/resource/Minerva
 elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
 apollo - http://dbpedia.org/resource/Apollo
-pendant - http://dbpedia.org/resource/Pendant
-intersection - http://dbpedia.org/resource/Intersectionality
-rib - http://dbpedia.org/resource/Rib_vault
 foliage - http://dbpedia.org/resource/Leaf
 rural - http://dbpedia.org/resource/Rural_area
-swan - http://dbpedia.org/resource/Swan
-fish - http://dbpedia.org/resource/Fish
 wild boar - http://dbpedia.org/resource/Wild_boar
 deer - http://dbpedia.org/resource/Deer
 architect - http://dbpedia.org/resource/Gothic_Revival_architecture
@@ -396,13 +361,11 @@ hatfield house - http://dbpedia.org/resource/Hatfield_House
 remarkable - http://dbpedia.org/resource/ReMarkable
 beauty - http://dbpedia.org/resource/Aesthetics
 fertility - http://dbpedia.org/resource/Fertility
-water - http://dbpedia.org/resource/Water
 river lea - http://dbpedia.org/resource/River_Lea
 st. alban - http://dbpedia.org/resource/Saint_Alban
 mansion - http://dbpedia.org/resource/English_country_house
 noble - http://dbpedia.org/resource/Nobility
 object - http://dbpedia.org/resource/Astronomical_object
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
 john thorp - http://dbpedia.org/resource/John_Thorp
 john smithson - http://dbpedia.org/resource/John_Smithson
 nicholas stone - http://dbpedia.org/resource/Nicholas_Stone
@@ -412,56 +375,49 @@ archi - http://dbpedia.org/resource/Archi_language
 grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
 beauty - http://dbpedia.org/resource/Aesthetics
 architect - http://dbpedia.org/resource/Gothic_Revival_architecture
-extant - http://dbpedia.org/resource/Existence
+extant - http://dbpedia.org/resource/Neontology
 florentine - http://dbpedia.org/resource/Florence
 arcade - http://dbpedia.org/resource/Pedestrian_zone
-wing - http://dbpedia.org/resource/Wing
+southern front - http://dbpedia.org/resource/Burma_campaign
 hatfield house - http://dbpedia.org/resource/Hatfield_House
 architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
 porch - http://dbpedia.org/resource/Porch
 arcade - http://dbpedia.org/resource/Pedestrian_zone
-wing - http://dbpedia.org/resource/Wing
 sun - http://dbpedia.org/resource/Sunlight
 rain - http://dbpedia.org/resource/Rain
 arcade - http://dbpedia.org/resource/Pedestrian_zone
 san gallo - http://dbpedia.org/resource/St._Gallen
 florence - http://dbpedia.org/resource/Florence
-pedestal - http://dbpedia.org/resource/Pedestal
-flute - http://dbpedia.org/resource/Flute
+fluted - http://dbpedia.org/resource/Classical_order
 tower - http://dbpedia.org/resource/Bell_tower
 projection - http://dbpedia.org/resource/Mercator_projection
 uniform - http://dbpedia.org/resource/Uniform
 tower - http://dbpedia.org/resource/Bell_tower
 ionic order - http://dbpedia.org/resource/Ionic_order
 corinthian - http://dbpedia.org/resource/Corinthian_order
-sculpture - http://dbpedia.org/resource/Gothic_art
-armorial bearing - http://dbpedia.org/resource/Achievement_(heraldry)
+armorial bearings - http://dbpedia.org/resource/Coat_of_arms
 noble - http://dbpedia.org/resource/Nobility
 mansion - http://dbpedia.org/resource/English_country_house
 parapet - http://dbpedia.org/resource/Parapet
-pierce - http://dbpedia.org/resource/Franklin_Pierce
 dth - http://dbpedia.org/resource/Satellite_television
 lordship - http://dbpedia.org/resource/Lord_of_the_manor
 armorial - http://dbpedia.org/resource/Coat_of_arms
 crest - http://dbpedia.org/resource/Coat_of_arms
 coronet - http://dbpedia.org/resource/Coronet
+south front - http://dbpedia.org/resource/Southern_Front_(Soviet_Union)
 hatfield house - http://dbpedia.org/resource/Hatfield_House
 hatfield house - http://dbpedia.org/resource/Hatfield_House
 parallelogram - http://dbpedia.org/resource/Parallelogram
 ont - http://dbpedia.org/resource/Ontario
-wing - http://dbpedia.org/resource/Wing
-angle - http://dbpedia.org/resource/Angle
 court - http://dbpedia.org/resource/Courtyard
 ont - http://dbpedia.org/resource/Ontario
 mansion - http://dbpedia.org/resource/English_country_house
 brick - http://dbpedia.org/resource/Brickwork
-mullion window - http://dbpedia.org/resource/Mullion
+mullions - http://dbpedia.org/resource/Mullion
 ionic - http://dbpedia.org/resource/Ionic_order
-pilaster - http://dbpedia.org/resource/Pilaster
+pilasters - http://dbpedia.org/resource/Pilaster
 stone - http://dbpedia.org/resource/Sandstone
 weather - http://dbpedia.org/resource/Weathering
-stain - http://dbpedia.org/resource/Wood_stain
-brick - http://dbpedia.org/resource/Brickwork
 har - http://dbpedia.org/resource/Penn_FC
 hue - http://dbpedia.org/resource/Hue
 stone - http://dbpedia.org/resource/Sandstone
@@ -471,10 +427,10 @@ elevation - http://dbpedia.org/resource/Architectural_drawing
 chaste - http://dbpedia.org/resource/Chastity
 elizabethan period - http://dbpedia.org/resource/Elizabethan_era
 long gallery - http://dbpedia.org/resource/Long_gallery
+mullioned - http://dbpedia.org/resource/Mullion
 elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
-space - http://dbpedia.org/resource/Space
 ionic - http://dbpedia.org/resource/Ionic_order
-pilaster - http://dbpedia.org/resource/Pilaster
+pilasters - http://dbpedia.org/resource/Pilaster
 arabesque - http://dbpedia.org/resource/Arabesque
 ornament - http://dbpedia.org/resource/Decorative_arts
 hatfield - http://dbpedia.org/resource/Hatfield_House
@@ -483,17 +439,12 @@ beautiful view - http://dbpedia.org/resource/Beautiful_View
 sametime - http://dbpedia.org/resource/HCL_Sametime
 hatfield house - http://dbpedia.org/resource/Hatfield_House
 hertfordshire - http://dbpedia.org/resource/Hertfordshire
-turret - http://dbpedia.org/resource/Turret
-wing - http://dbpedia.org/resource/Wing
-wing - http://dbpedia.org/resource/Wing
+turrets - http://dbpedia.org/resource/Turret
 entablature - http://dbpedia.org/resource/Entablature
-lead pipe - http://dbpedia.org/resource/Pipe_(fluid_conveyance)
 parapet - http://dbpedia.org/resource/Parapet
 facade - http://dbpedia.org/resource/Facade
-turret - http://dbpedia.org/resource/Turret
-wing - http://dbpedia.org/resource/Wing
+turrets - http://dbpedia.org/resource/Turret
 cornice - http://dbpedia.org/resource/Cornice
 ball - http://dbpedia.org/resource/Ball
-pinnacle - http://dbpedia.org/resource/Pinnacle
 gilded - http://dbpedia.org/resource/Gilding
 orna - http://dbpedia.org/resource/Dupatta

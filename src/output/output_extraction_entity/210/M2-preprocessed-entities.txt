@@ -1,9 +1,9 @@
 starting point - http://dbpedia.org/resource/Starting_Point
+40 days - http://dbpedia.org/resource/40_Days
 temptation - http://dbpedia.org/resource/Temptation
 ancient israelites - http://dbpedia.org/resource/Israelites
-allegorize - http://dbpedia.org/resource/Allegory
+allegorizing - http://dbpedia.org/resource/Allegory
 israelites - http://dbpedia.org/resource/Israelites
-outline - http://dbpedia.org/resource/Nutrition
 spiritual - http://dbpedia.org/resource/Soul
 sacrifice - http://dbpedia.org/resource/Sacrifice
 dependence - http://dbpedia.org/resource/Substance_dependence
@@ -12,7 +12,6 @@ bit - http://dbpedia.org/resource/Bit
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 assyrian empire - http://dbpedia.org/resource/Assyria
 hittite empire - http://dbpedia.org/resource/Hittites
-civilization - http://dbpedia.org/resource/Civilization
 mesopotamia - http://dbpedia.org/resource/Mesopotamia
 history channel - http://dbpedia.org/resource/History_(American_TV_channel)
 unification - http://dbpedia.org/resource/Italian_unification
@@ -22,18 +21,17 @@ b.c. - http://dbpedia.org/resource/Figured_bass
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 civilization - http://dbpedia.org/resource/Civilization
 mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-archaeologist - http://dbpedia.org/resource/Archaeology
-historian - http://dbpedia.org/resource/History
+great pyramids - http://dbpedia.org/resource/Giza_pyramid_complex
+archaeologists - http://dbpedia.org/resource/Archaeology
 ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
 astronomy - http://dbpedia.org/resource/Astronomy
-mathematic - http://dbpedia.org/resource/Mathematics
+mathematics - http://dbpedia.org/resource/Ancient_Egyptian_mathematics
 medicine - http://dbpedia.org/resource/Medicine
-building construction - http://dbpedia.org/resource/Construction
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+ship building - http://dbpedia.org/resource/Shipbuilding
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 king tut - http://dbpedia.org/resource/Tutankhamun
 death mask - http://dbpedia.org/resource/Death_mask
-mummy - http://dbpedia.org/resource/Mummy
+mummies - http://dbpedia.org/resource/Mummy
 captivate - http://dbpedia.org/resource/Adobe_Captivate
 israelite - http://dbpedia.org/resource/Israelites
 civilization - http://dbpedia.org/resource/Civilization
@@ -48,18 +46,17 @@ inundation - http://dbpedia.org/resource/Inundation
 nile river - http://dbpedia.org/resource/Nile
 floodplain - http://dbpedia.org/resource/Floodplain
 nile valley - http://dbpedia.org/resource/Nile
-limestone hill - http://dbpedia.org/resource/Ipswich_(suburb),_Queensland
+limestone hills - http://dbpedia.org/resource/Limestone_Hills
 nile delta - http://dbpedia.org/resource/Nile_Delta
 cairo - http://dbpedia.org/resource/Cairo_(graphics)
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-temptation - http://dbpedia.org/resource/Temptation
-worldly pleasure - http://dbpedia.org/resource/Hedonism
+temptations - http://dbpedia.org/resource/The_Temptations
 greed - http://dbpedia.org/resource/Seven_deadly_sins
 gluttony - http://dbpedia.org/resource/Gluttony
 consumerism - http://dbpedia.org/resource/Consumerism
 lust - http://dbpedia.org/resource/Lust
 ancient israelites - http://dbpedia.org/resource/Israelites
-slave - http://dbpedia.org/resource/Slavery
+slaves - http://dbpedia.org/resource/Slavery
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 church fathers - http://dbpedia.org/resource/Church_Fathers
 enslavement - http://dbpedia.org/resource/Slavery
@@ -75,28 +72,24 @@ sin - http://dbpedia.org/resource/Sin
 catechesis - http://dbpedia.org/resource/Catechesis
 nyssa - http://dbpedia.org/resource/Tupelo
 egyptian army - http://dbpedia.org/resource/Egyptian_Army
-temptation - http://dbpedia.org/resource/Temptation
+temptations - http://dbpedia.org/resource/The_Temptations
 assault - http://dbpedia.org/resource/Assault
 sin - http://dbpedia.org/resource/Sin
-assault - http://dbpedia.org/resource/Assault
+terrified - http://dbpedia.org/resource/Terrified_(album)
 temptation - http://dbpedia.org/resource/Temptation
 unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
 egyptian army - http://dbpedia.org/resource/Egyptian_Army
-horse - http://dbpedia.org/resource/Horse
-chariot - http://dbpedia.org/resource/Chariot
-archer - http://dbpedia.org/resource/Bow_and_arrow
-slinger - http://dbpedia.org/resource/Sling_(weapon)
-soldier - http://dbpedia.org/resource/Soldier
-soul man - http://dbpedia.org/resource/Soul_Man_(song)
-impulse - http://dbpedia.org/resource/Dirac_delta_function
+chariots - http://dbpedia.org/resource/Chariot
+archers - http://dbpedia.org/resource/Mounted_archery
+slingers - http://dbpedia.org/resource/Sling_(weapon)
+soul - http://dbpedia.org/resource/Soul
+enslaved - http://dbpedia.org/resource/Slavery
 covetousness - http://dbpedia.org/resource/Seven_deadly_sins
 stone - http://dbpedia.org/resource/Stone_tool
-sling - http://dbpedia.org/resource/Mixed_drink
+sling - http://dbpedia.org/resource/Bandage
 spirited - http://dbpedia.org/resource/Spirited
 impulse - http://dbpedia.org/resource/Dirac_delta_function
-quiver - http://dbpedia.org/resource/Quiver
 spear point - http://dbpedia.org/resource/Projectile_point
-horse - http://dbpedia.org/resource/Horse
 chariot - http://dbpedia.org/resource/Chariot
 moses - http://dbpedia.org/resource/Moses
 allegory - http://dbpedia.org/resource/Allegory
@@ -110,6 +103,7 @@ water - http://dbpedia.org/resource/Water
 rock - http://dbpedia.org/resource/Rock_music
 fasting - http://dbpedia.org/resource/Fasting
 abstinence - http://dbpedia.org/resource/Abstinence
+goods - http://dbpedia.org/resource/Conspicuous_consumption
 dependence - http://dbpedia.org/resource/Substance_dependence
 god - http://dbpedia.org/resource/God
 tyranny - http://dbpedia.org/resource/Tyrant
@@ -118,8 +112,6 @@ sin - http://dbpedia.org/resource/Sin
 israelites - http://dbpedia.org/resource/Israelites
 sin - http://dbpedia.org/resource/Sin
 slavery - http://dbpedia.org/resource/Slavery
-fruit - http://dbpedia.org/resource/Fruit
-advanced civilization - http://dbpedia.org/resource/Advanced_Civilization
 ancient israelites - http://dbpedia.org/resource/Israelites
 enslavement - http://dbpedia.org/resource/Slavery
 faith - http://dbpedia.org/resource/Faith

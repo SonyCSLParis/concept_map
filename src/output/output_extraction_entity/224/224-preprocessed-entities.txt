@@ -17,6 +17,6 @@ latin america - http://dbpedia.org/resource/Latin_America
 latin america - http://dbpedia.org/resource/Latin_America
 california - http://dbpedia.org/resource/California
 san francisco - http://dbpedia.org/resource/San_Francisco
-prospector - http://dbpedia.org/resource/Prospecting
+prospectors - http://dbpedia.org/resource/Prospecting
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
 gold - http://dbpedia.org/resource/Gold

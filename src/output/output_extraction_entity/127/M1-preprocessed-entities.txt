@@ -1,9 +1,7 @@
 medieval period - http://dbpedia.org/resource/Middle_Ages
-battlement - http://dbpedia.org/resource/Battlement
-tower - http://dbpedia.org/resource/Keep
+battlements - http://dbpedia.org/resource/Battlement
 moat - http://dbpedia.org/resource/Moat
 edinburgh castle - http://dbpedia.org/resource/Edinburgh_Castle
-impose - http://dbpedia.org/resource/Impose_(magazine)
 mansion - http://dbpedia.org/resource/Mansion
 castle howard - http://dbpedia.org/resource/Castle_Howard
 chess - http://dbpedia.org/resource/Chess

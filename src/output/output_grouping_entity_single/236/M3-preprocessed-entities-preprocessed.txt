@@ -1,200 +1,183 @@
-political economic - http://dbpedia.org/resource/Political_economy
-lanka - http://dbpedia.org/resource/Sri_Lanka
-black slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
-pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
-liberal - http://dbpedia.org/resource/Liberalism
-single - http://dbpedia.org/resource/Single_person
-radical change - http://dbpedia.org/resource/Radical_Change
-northeast brazil - http://dbpedia.org/resource/Brazil
-main source - http://dbpedia.org/resource/Main_Source
-soldier - http://dbpedia.org/resource/Soldier
-coffee - http://dbpedia.org/resource/Plantation
-brazil international - http://dbpedia.org/resource/Brazil_International
-indigenous people - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
-parliamentarianism - http://dbpedia.org/resource/Parliamentary_system
-spaniards - http://dbpedia.org/resource/Spaniards
-emancipation - http://dbpedia.org/resource/Abolitionism
-official religion - http://dbpedia.org/resource/State_religion
-monarchical - http://dbpedia.org/resource/Monarchy
-die - http://dbpedia.org/resource/Death
-majority age - http://dbpedia.org/resource/Age_of_majority
-farrapos - http://dbpedia.org/resource/Ragamuffin_War
-enlightenment - http://dbpedia.org/resource/Age_of_Enlightenment
-dom pedro - http://dbpedia.org/resource/Pedro_II_of_Brazil
-portugal - http://dbpedia.org/resource/Portugal
-1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
-substitute - http://dbpedia.org/resource/Substitute_good
-chamber representative - http://dbpedia.org/resource/Chamber_of_Representatives_of_Colombia
-brother miguel - http://dbpedia.org/resource/Miguel_Febres_Cordero
-revenue - http://dbpedia.org/resource/Tax
-tarifa - http://dbpedia.org/resource/Tarifa
-bear - http://dbpedia.org/resource/Market_trend
-golden law - http://dbpedia.org/resource/Lei_Áurea
-abolish slavery - http://dbpedia.org/resource/Abolitionism
-territorial sea - http://dbpedia.org/resource/Territorial_waters
-brazilian history - http://dbpedia.org/resource/History_of_Brazil
-economic class - http://dbpedia.org/resource/Social_class
-bolivian government - http://dbpedia.org/resource/Politics_of_Bolivia
-pound - http://dbpedia.org/resource/Pound_sterling
-regent - http://dbpedia.org/resource/Regent
-paulista - http://dbpedia.org/resource/Campeonato_Paulista
-sertão - http://dbpedia.org/resource/Sertão
+continent - http://dbpedia.org/resource/Continental_Portugal
+ipiranga brook - http://dbpedia.org/resource/Ipiranga_Brook
+customs taxes - http://dbpedia.org/resource/Customs
 emperor - http://dbpedia.org/resource/Emperor_of_Japan
-branco - http://dbpedia.org/resource/White_Brazilians
-brazil - http://dbpedia.org/resource/Brazil
-maranhão - http://dbpedia.org/resource/Campeonato_Maranhense
-republic - http://dbpedia.org/resource/First_Brazilian_Republic
-abolitionist - http://dbpedia.org/resource/Slavery_in_Brazil
-womanizer - http://dbpedia.org/resource/Promiscuity
-result set - http://dbpedia.org/resource/Result_set
-immigrant - http://dbpedia.org/resource/Immigration
-rural - http://dbpedia.org/resource/Rural_area
-region - http://dbpedia.org/resource/Region
-comte d'eu - http://dbpedia.org/resource/Gaston,_Count_of_Eu
-liberal party - http://dbpedia.org/resource/Liberal_Party
-coffee plantation - http://dbpedia.org/resource/Plantation
+regency government - http://dbpedia.org/resource/Regency_government,_1422–1437
+chamber - http://dbpedia.org/resource/Debate_chamber
+independence - http://dbpedia.org/resource/Independence
+spaniards - http://dbpedia.org/resource/Spaniards
+latex - http://dbpedia.org/resource/Natural_rubber
+dominant - http://dbpedia.org/resource/Dominant-party_system
 confederation - http://dbpedia.org/resource/Confederation
-indemnification - http://dbpedia.org/resource/Indemnity
-pará - http://dbpedia.org/resource/Campeonato_Paraense
-cisplatine war - http://dbpedia.org/resource/Cisplatine_War
-amazonas - http://dbpedia.org/resource/Amazon_rainforest
-truth - http://dbpedia.org/resource/Truth
-miguel start - http://dbpedia.org/resource/Miguel_Start
-system call - http://dbpedia.org/resource/System_call
+automobile industry - http://dbpedia.org/resource/Automotive_industry
+slave - http://dbpedia.org/resource/Slavery
+baiana - http://dbpedia.org/resource/Bahia
+protectionist - http://dbpedia.org/resource/Protectionism
+bahia - http://dbpedia.org/resource/Bahia
+branco - http://dbpedia.org/resource/White_Brazilians
+autonomy - http://dbpedia.org/resource/Autonomy
 physician - http://dbpedia.org/resource/Physician
+food - http://dbpedia.org/resource/Food_security
+brazilian government - http://dbpedia.org/resource/Politics_of_Brazil
+golden law - http://dbpedia.org/resource/Lei_Áurea
+brazil - http://dbpedia.org/resource/Brazil
+constituent assembly - http://dbpedia.org/resource/Constituent_assembly
+portuguese - http://dbpedia.org/resource/Portuguese_language
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+womanizer - http://dbpedia.org/resource/Promiscuity
+1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
+reserve power - http://dbpedia.org/resource/Reserve_power
+mestizos - http://dbpedia.org/resource/Mestizo
+cisplatine war - http://dbpedia.org/resource/Cisplatine_War
+abdication - http://dbpedia.org/resource/Abdication
+internal slave trade - http://dbpedia.org/resource/Slavery_in_the_United_States
+slavery - http://dbpedia.org/resource/Slavery_in_Brazil
+news - http://dbpedia.org/resource/News_media
+immigrants - http://dbpedia.org/resource/Immigration_to_Brazil
+urban development - http://dbpedia.org/resource/Urbanization
+provinces - http://dbpedia.org/resource/Provinces_of_Argentina
+north american company - http://dbpedia.org/resource/North_American_Company
+radical - http://dbpedia.org/resource/Political_radicalism
+monopoly - http://dbpedia.org/resource/Monopoly
+brazilian monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+brazilian constitution - http://dbpedia.org/resource/Constitution_of_Brazil
+church - http://dbpedia.org/resource/Catholic_Church
+dom pedro - http://dbpedia.org/resource/Pedro_II_of_Brazil
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+catholicism - http://dbpedia.org/resource/Catholic_Church
+italians - http://dbpedia.org/resource/Italian_Brazilians
+portuguese throne - http://dbpedia.org/resource/Portugal
+equator - http://dbpedia.org/resource/Equator
+gabriela - http://dbpedia.org/resource/Gabriela_Women's_Party
+riding - http://dbpedia.org/resource/Working_animal
+argentina - http://dbpedia.org/resource/Argentina
+indigenous people - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
+economic class - http://dbpedia.org/resource/Social_class
+rebellion - http://dbpedia.org/resource/Rebellion
+south america - http://dbpedia.org/resource/South_America
+official religion - http://dbpedia.org/resource/State_religion
+lei áurea - http://dbpedia.org/resource/Lei_Áurea
+argentines - http://dbpedia.org/resource/Argentina
+santos - http://dbpedia.org/resource/Santo_(art)
+economic crisis - http://dbpedia.org/resource/Financial_crisis
+diarrhea - http://dbpedia.org/resource/Diarrhea
+external debt - http://dbpedia.org/resource/External_debt
+princess isabel - http://dbpedia.org/resource/Isabel,_Princess_Imperial_of_Brazil
+livre - http://dbpedia.org/resource/French_livre
+monarchical - http://dbpedia.org/resource/Monarchy
+sword - http://dbpedia.org/resource/Sword
+colony - http://dbpedia.org/resource/Colony
+amazonas - http://dbpedia.org/resource/Amazon_rainforest
+maranhão - http://dbpedia.org/resource/Campeonato_Maranhense
+inconfidência mineira - http://dbpedia.org/resource/Colonial_Brazil
+regency period - http://dbpedia.org/resource/Regency_era
+regent - http://dbpedia.org/resource/Regent
+paraguayan war - http://dbpedia.org/resource/Paraguayan_War
+pernambuco - http://dbpedia.org/resource/Paubrasilia
+brother miguel - http://dbpedia.org/resource/Miguel_Febres_Cordero
+pará - http://dbpedia.org/resource/Campeonato_Paraense
+main source - http://dbpedia.org/resource/Main_Source
+market - http://dbpedia.org/resource/Market_economy
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
+monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+black slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+abolish slavery - http://dbpedia.org/resource/Abolitionism
+pounds - http://dbpedia.org/resource/Pound_sterling
+rural - http://dbpedia.org/resource/Rural_area
+praieira revolt - http://dbpedia.org/resource/Praieira_revolt
+tariff - http://dbpedia.org/resource/Tariff
+regents - http://dbpedia.org/resource/Regent
+brazilian history - http://dbpedia.org/resource/History_of_Brazil
+bolivian government - http://dbpedia.org/resource/Politics_of_Bolivia
+farah - http://dbpedia.org/resource/Prince_of_Persia
+liberal party - http://dbpedia.org/resource/Liberal_Party
+parliamentarianism - http://dbpedia.org/resource/Parliamentary_system
+territorial sea - http://dbpedia.org/resource/Territorial_waters
+cisplatine province - http://dbpedia.org/resource/Cisplatina
+brazilians - http://dbpedia.org/resource/Brazil
+farrapos - http://dbpedia.org/resource/Ragamuffin_War
+francisco sabino - http://dbpedia.org/resource/Francisco_Sabino
+coffee - http://dbpedia.org/resource/Plantation
+haiti - http://dbpedia.org/resource/Haitian_Revolution
+governor - http://dbpedia.org/resource/Governor
+brazilian army - http://dbpedia.org/resource/Brazilian_Army
+indemnification - http://dbpedia.org/resource/Indemnity
+tarifa - http://dbpedia.org/resource/Tarifa
+equador - http://dbpedia.org/resource/Ecuador
+pope pius ix - http://dbpedia.org/resource/Pope_Pius_IX
+sertão - http://dbpedia.org/resource/Sertão
+single - http://dbpedia.org/resource/Single_person
+vulcanization - http://dbpedia.org/resource/Vulcanization
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+truth - http://dbpedia.org/resource/Truth
+cabanagem - http://dbpedia.org/resource/Cabanagem
+triumvirate - http://dbpedia.org/resource/Triumvirate
+senate - http://dbpedia.org/resource/Senate
+article - http://dbpedia.org/resource/Falklands_War
+liberals - http://dbpedia.org/resource/Liberalism
+latifundia - http://dbpedia.org/resource/Latifundium
+enslaved - http://dbpedia.org/resource/Slavery_in_Brazil
+uruguay - http://dbpedia.org/resource/Uruguay
+federal government - http://dbpedia.org/resource/Federation
+european revolutions - http://dbpedia.org/resource/Revolutions_of_1848
+bishops - http://dbpedia.org/resource/Bishop
+minas gerais - http://dbpedia.org/resource/Minas_Gerais
+law - http://dbpedia.org/resource/Law
+mule - http://dbpedia.org/resource/Mule
+conservative - http://dbpedia.org/resource/Conservatism
+balaiada - http://dbpedia.org/resource/Balaiada
+abolitionist - http://dbpedia.org/resource/Slavery_in_Brazil
+lanka - http://dbpedia.org/resource/Sri_Lanka
+slaves - http://dbpedia.org/resource/Slavery
+belém - http://dbpedia.org/resource/Val_de_Cans_International_Airport
+acre - http://dbpedia.org/resource/Acre
+enlightenment ideas - http://dbpedia.org/resource/Age_of_Enlightenment
+panorama - http://dbpedia.org/resource/Panorama
+manaus - http://dbpedia.org/resource/Manaus
+reflex - http://dbpedia.org/resource/Reflex
+cotton - http://dbpedia.org/resource/Plantation
+indigenous - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
+freemasonry - http://dbpedia.org/resource/Freemasonry
+armed forces - http://dbpedia.org/resource/Military
+majority age - http://dbpedia.org/resource/Age_of_majority
+revenue - http://dbpedia.org/resource/Tax
+paraguay - http://dbpedia.org/resource/Paraguay
+african slaves - http://dbpedia.org/resource/Slavery_in_Brazil
+dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
+exploitation - http://dbpedia.org/resource/Exploitation_of_labour
+brazilian economy - http://dbpedia.org/resource/Economy_of_Brazil
+federal power - http://dbpedia.org/resource/Federalism
+plantations - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+separatist movements - http://dbpedia.org/resource/Separatism
+stock market crash - http://dbpedia.org/resource/Wall_Street_Crash_of_1929
+horse - http://dbpedia.org/resource/Horse
+dom miguel - http://dbpedia.org/resource/Miguel_I_of_Portugal
+rubber - http://dbpedia.org/resource/Amazon_rubber_boom
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+conservatives - http://dbpedia.org/resource/Conservatism
+emancipation - http://dbpedia.org/resource/Abolitionism
+city - http://dbpedia.org/resource/City
+region - http://dbpedia.org/resource/Region
+farroupilha - http://dbpedia.org/resource/Ragamuffin_War
+tyres - http://dbpedia.org/resource/Tire
+aberdeen - http://dbpedia.org/resource/Aberdeen
+concurrence - http://dbpedia.org/resource/Concurring_opinion
 coup - http://dbpedia.org/resource/Spanish_coup_of_July_1936
 budget deficit - http://dbpedia.org/resource/Government_budget_balance
-belém - http://dbpedia.org/resource/Val_de_Cans_International_Airport
-plantation - http://dbpedia.org/resource/Plantation
-gabriela - http://dbpedia.org/resource/Gabriela_Women's_Party
-vault - http://dbpedia.org/resource/Bank_vault
-são paulo - http://dbpedia.org/resource/Campeonato_Paulista
-argentines - http://dbpedia.org/resource/Argentina
-1929 stock market crash - http://dbpedia.org/resource/Wall_Street_Crash_of_1929
-vulcanization - http://dbpedia.org/resource/Vulcanization
-monopoly - http://dbpedia.org/resource/Monopoly
-brazilian constitution - http://dbpedia.org/resource/Constitution_of_Brazil
-pressure - http://dbpedia.org/resource/Pressure
-dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
-latex - http://dbpedia.org/resource/Natural_rubber
-ragamuffin war - http://dbpedia.org/resource/Ragamuffin_War
-autonomy - http://dbpedia.org/resource/Autonomy
-latifundia - http://dbpedia.org/resource/Latifundium
-rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
-inconfidência mineira - http://dbpedia.org/resource/Colonial_Brazil
-drug - http://dbpedia.org/resource/Illegal_drug_trade
-news - http://dbpedia.org/resource/News_media
-automobile industry - http://dbpedia.org/resource/Automotive_industry
-diarrhea - http://dbpedia.org/resource/Diarrhea
-country week - http://dbpedia.org/resource/Country_Senior_High_Schools_Carnival_(Western_Australia)
-set free - http://dbpedia.org/resource/Set_Free_(film)
-regency government - http://dbpedia.org/resource/Regency_government,_1422–1437
-sword - http://dbpedia.org/resource/Sword
-tyre - http://dbpedia.org/resource/Tire
-external debt - http://dbpedia.org/resource/External_debt
-law - http://dbpedia.org/resource/Law
-market - http://dbpedia.org/resource/Market_economy
-lei áurea - http://dbpedia.org/resource/Lei_Áurea
-baiana - http://dbpedia.org/resource/Bahia
-italians - http://dbpedia.org/resource/Italian_Brazilians
-rebellion - http://dbpedia.org/resource/Rebellion
-slavery - http://dbpedia.org/resource/Slavery_in_Brazil
-manaus - http://dbpedia.org/resource/Manaus
-paraguay - http://dbpedia.org/resource/Paraguay
-brazilians - http://dbpedia.org/resource/Brazil
-reserve power - http://dbpedia.org/resource/Reserve_power
-praieira revolt - http://dbpedia.org/resource/Praieira_revolt
-economic crisis - http://dbpedia.org/resource/Financial_crisis
-santos - http://dbpedia.org/resource/Santo_(art)
-bahia - http://dbpedia.org/resource/Bahia
-continent - http://dbpedia.org/resource/Continental_Portugal
-brazilian monarchy - http://dbpedia.org/resource/Empire_of_Brazil
-south america - http://dbpedia.org/resource/South_America
-power 30 - http://dbpedia.org/resource/Much_(TV_channel)
-trade deficit - http://dbpedia.org/resource/Balance_of_trade
-migrate - http://dbpedia.org/resource/Emigration
 painting - http://dbpedia.org/resource/Painting
-impose - http://dbpedia.org/resource/Impose_(magazine)
-pernambuco - http://dbpedia.org/resource/Paubrasilia
-paraguayan war - http://dbpedia.org/resource/Paraguayan_War
-catholicism - http://dbpedia.org/resource/Catholic_Church
+declared independence - http://dbpedia.org/resource/Declaration_of_independence
+vaults - http://dbpedia.org/resource/Bank_vault
 sabinada - http://dbpedia.org/resource/Sabinada
-dominant - http://dbpedia.org/resource/Dominant-party_system
-balaiada - http://dbpedia.org/resource/Balaiada
-reflex - http://dbpedia.org/resource/Reflex
-import - http://dbpedia.org/resource/Import
-rio grande - http://dbpedia.org/resource/Rio_Grande_do_Sul
-cabanagem - http://dbpedia.org/resource/Cabanagem
-abdication - http://dbpedia.org/resource/Abdication
-exploitation - http://dbpedia.org/resource/Exploitation_of_labour
+comte d'eu - http://dbpedia.org/resource/Gaston,_Count_of_Eu
 eusébio de queirós law - http://dbpedia.org/resource/Eusébio_de_Queirós_Law
-armed force - http://dbpedia.org/resource/Military
-princess isabel - http://dbpedia.org/resource/Isabel,_Princess_Imperial_of_Brazil
-revolution - http://dbpedia.org/resource/Revolution
-election - http://dbpedia.org/resource/Election
-separatist movement - http://dbpedia.org/resource/Separatism
-argentina - http://dbpedia.org/resource/Argentina
-rubber - http://dbpedia.org/resource/Amazon_rubber_boom
-horse - http://dbpedia.org/resource/Horse
-city - http://dbpedia.org/resource/City
-time slave - http://dbpedia.org/resource/Time_Slave
-trip city - http://dbpedia.org/resource/Trip_City
-cisplatine province - http://dbpedia.org/resource/Cisplatina
-portuguese - http://dbpedia.org/resource/Portuguese_language
-pope pius ix - http://dbpedia.org/resource/Pope_Pius_IX
-mule - http://dbpedia.org/resource/Mule
-farah - http://dbpedia.org/resource/Prince_of_Persia
-dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
-conservative - http://dbpedia.org/resource/Conservatism
-freemasonry - http://dbpedia.org/resource/Freemasonry
-independence - http://dbpedia.org/resource/Independence
-uruguay - http://dbpedia.org/resource/Uruguay
-atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
-triumvirate - http://dbpedia.org/resource/Triumvirate
-federal power - http://dbpedia.org/resource/Federalism
-panorama - http://dbpedia.org/resource/Panorama
-monarchy - http://dbpedia.org/resource/Empire_of_Brazil
-acre - http://dbpedia.org/resource/Acre
-equator - http://dbpedia.org/resource/Equator
-protectionist - http://dbpedia.org/resource/Protectionism
-ipiranga brook - http://dbpedia.org/resource/Ipiranga_Brook
-brazilian economy - http://dbpedia.org/resource/Economy_of_Brazil
-equador - http://dbpedia.org/resource/Ecuador
-farroupilha - http://dbpedia.org/resource/Ragamuffin_War
-francisco sabino - http://dbpedia.org/resource/Francisco_Sabino
-colony - http://dbpedia.org/resource/Colony
-internal slave trade - http://dbpedia.org/resource/Slavery_in_the_United_States
-brazilian army - http://dbpedia.org/resource/Brazilian_Army
-regency period - http://dbpedia.org/resource/Regency_era
-dom miguel - http://dbpedia.org/resource/Miguel_I_of_Portugal
-indigenous - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
-chamber - http://dbpedia.org/resource/Debate_chamber
-article - http://dbpedia.org/resource/Falklands_War
-enslaved - http://dbpedia.org/resource/Slavery_in_Brazil
-brazilian government - http://dbpedia.org/resource/Federal_government_of_Brazil
-north american company - http://dbpedia.org/resource/North_American_Company
-uruguayans - http://dbpedia.org/resource/Uruguayans
-food - http://dbpedia.org/resource/Food_security
-aberdeen - http://dbpedia.org/resource/Aberdeen
-constituent assembly - http://dbpedia.org/resource/Constituent_assembly
-plant - http://dbpedia.org/resource/Factory
-concurrence - http://dbpedia.org/resource/Concurring_opinion
-urban development - http://dbpedia.org/resource/Urbanization
-livre - http://dbpedia.org/resource/French_livre
-country time - http://dbpedia.org/resource/Country_Time
-minas gerais - http://dbpedia.org/resource/Minas_Gerais
-haiti - http://dbpedia.org/resource/Haitian_Revolution
+dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 producer - http://dbpedia.org/resource/Filmmaking
+close relations - http://dbpedia.org/resource/Close_Relations
 monroe doctrine - http://dbpedia.org/resource/Monroe_Doctrine
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-church - http://dbpedia.org/resource/Catholic_Church
-cotton - http://dbpedia.org/resource/Plantation
-governor - http://dbpedia.org/resource/Governor
-japanese people - http://dbpedia.org/resource/Japanese_people
-federal government - http://dbpedia.org/resource/Federation
-senate - http://dbpedia.org/resource/Senate
-mestizos - http://dbpedia.org/resource/Mestizo
+plantation - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+ragamuffin war - http://dbpedia.org/resource/Ragamuffin_War
 republican constitution - http://dbpedia.org/resource/Constitution_of_India
-tariff - http://dbpedia.org/resource/Tariff
-portuguese throne - http://dbpedia.org/resource/Portugal
-slave - http://dbpedia.org/resource/Slavery
+paulista - http://dbpedia.org/resource/Campeonato_Paulista
+uruguayans - http://dbpedia.org/resource/Uruguayans
+portugal - http://dbpedia.org/resource/Portugal
+rio grande - http://dbpedia.org/resource/Rio_Grande_do_Sul

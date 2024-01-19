@@ -1,13 +1,13 @@
 medieval warfare - http://dbpedia.org/resource/Medieval_warfare
 gear - http://dbpedia.org/resource/Landing_gear
 medieval warfare - http://dbpedia.org/resource/Medieval_warfare
-arrow - http://dbpedia.org/resource/Bow_and_arrow
+longbowmen - http://dbpedia.org/resource/Longbow
+knights - http://dbpedia.org/resource/Knight
 hastings - http://dbpedia.org/resource/Hastings
 bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
 agincourt - http://dbpedia.org/resource/Battle_of_Agincourt
 middle ages - http://dbpedia.org/resource/Middle_Ages
 warfare - http://dbpedia.org/resource/War
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 siegecraft - http://dbpedia.org/resource/Siege
 hastings - http://dbpedia.org/resource/Hastings
 castle building - http://dbpedia.org/resource/Castle_Building
@@ -16,19 +16,13 @@ normans - http://dbpedia.org/resource/Normans
 anglo saxons - http://dbpedia.org/resource/Anglo-Saxons
 medieval europe - http://dbpedia.org/resource/Middle_Ages
 middle east - http://dbpedia.org/resource/Middle_East
-function - http://dbpedia.org/resource/Role
 fortress - http://dbpedia.org/resource/Castle
 timber - http://dbpedia.org/resource/Lumber
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-norman king - http://dbpedia.org/resource/Norman_King_(bowls)
-fortress - http://dbpedia.org/resource/Castle
-defy - http://dbpedia.org/resource/Motorola_Defy
-assault - http://dbpedia.org/resource/Amphibious_warfare
-defense - http://dbpedia.org/resource/Military
+norman - http://dbpedia.org/resource/Normans
 siegecraft - http://dbpedia.org/resource/Siege
 late middle ages - http://dbpedia.org/resource/Late_Middle_Ages
 siege - http://dbpedia.org/resource/Siege
-glean - http://dbpedia.org/resource/Gleaning
 siege - http://dbpedia.org/resource/Siege
 calais - http://dbpedia.org/resource/Calais
 siege - http://dbpedia.org/resource/Siege
@@ -38,12 +32,8 @@ shakespeare - http://dbpedia.org/resource/William_Shakespeare
 henry - http://dbpedia.org/resource/Henry_(unit)
 siege - http://dbpedia.org/resource/Siege
 harfleur - http://dbpedia.org/resource/Harfleur
-siege - http://dbpedia.org/resource/Siege
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-bombard - http://dbpedia.org/resource/Bombardment
 fortress - http://dbpedia.org/resource/Castle
 garrison - http://dbpedia.org/resource/Garrison
-defense - http://dbpedia.org/resource/Military
 medieval - http://dbpedia.org/resource/Middle_Ages
 siege - http://dbpedia.org/resource/Siege
 assault - http://dbpedia.org/resource/Amphibious_warfare
@@ -51,36 +41,28 @@ siege - http://dbpedia.org/resource/Siege
 siege - http://dbpedia.org/resource/Siege
 onslaught - http://dbpedia.org/resource/Onslaught_(comics)
 siege - http://dbpedia.org/resource/Siege
-repulse - http://dbpedia.org/resource/Sinking_of_Prince_of_Wales_and_Repulse
 garrison - http://dbpedia.org/resource/Garrison
 siege - http://dbpedia.org/resource/Siege
 resort - http://dbpedia.org/resource/Resort
 investment - http://dbpedia.org/resource/Investment
 early medieval - http://dbpedia.org/resource/Early_Middle_Ages
-siege - http://dbpedia.org/resource/Siege
-town - http://dbpedia.org/resource/Town
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-siege - http://dbpedia.org/resource/Siege
-defense - http://dbpedia.org/resource/Military
-defense - http://dbpedia.org/resource/Military
-defender - http://dbpedia.org/resource/Defendant
 blockade - http://dbpedia.org/resource/Blockade
 siege warfare - http://dbpedia.org/resource/Siege
 timber - http://dbpedia.org/resource/Lumber
+war machines - http://dbpedia.org/resource/Siege_engine
 investment - http://dbpedia.org/resource/Investment
 siege - http://dbpedia.org/resource/Siege
-soldier - http://dbpedia.org/resource/Soldier
 protocol - http://dbpedia.org/resource/Treaty
 negotiation - http://dbpedia.org/resource/Negotiation
-pummel - http://dbpedia.org/resource/Pummel_(album)
 garrison - http://dbpedia.org/resource/Garrison
-archer - http://dbpedia.org/resource/Bow_and_arrow
-blacksmith - http://dbpedia.org/resource/Blacksmith
-engineer - http://dbpedia.org/resource/Combat_engineer
+archers - http://dbpedia.org/resource/Bow_and_arrow
+sappers - http://dbpedia.org/resource/Sapper
 siege - http://dbpedia.org/resource/Siege
-knight service - http://dbpedia.org/resource/Knight-service
-obligate - http://dbpedia.org/resource/Obligate_parasite
+knights - http://dbpedia.org/resource/Knight
+arms - http://dbpedia.org/resource/Weapon
+knights - http://dbpedia.org/resource/Knight
 timber - http://dbpedia.org/resource/Lumber
+nails - http://dbpedia.org/resource/Holy_Nail
 food - http://dbpedia.org/resource/Food
 livestock - http://dbpedia.org/resource/Livestock
 siege - http://dbpedia.org/resource/Siege
@@ -91,77 +73,56 @@ burgh - http://dbpedia.org/resource/Burh
 king henry iii - http://dbpedia.org/resource/Henry_III_of_England
 archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
 canterbury - http://dbpedia.org/resource/Canterbury
-excommunicate - http://dbpedia.org/resource/Excommunication
+excommunicated - http://dbpedia.org/resource/Excommunication
 garrison - http://dbpedia.org/resource/Garrison
-defender - http://dbpedia.org/resource/Defendant
-miner - http://dbpedia.org/resource/Mining
-mason - http://dbpedia.org/resource/Masonry
-fighter - http://dbpedia.org/resource/Fighter_aircraft
+masons - http://dbpedia.org/resource/Masonry
+knights - http://dbpedia.org/resource/Knight
 siege - http://dbpedia.org/resource/Siege
 iron - http://dbpedia.org/resource/Cast_iron
+hides - http://dbpedia.org/resource/Hunting_blind
 charcoal - http://dbpedia.org/resource/Charcoal
 leather - http://dbpedia.org/resource/Leather
 crossbow - http://dbpedia.org/resource/Crossbow
-bolt - http://dbpedia.org/resource/Crossbow
-wedge - http://dbpedia.org/resource/Wedge
-tent - http://dbpedia.org/resource/Tent
+bolts - http://dbpedia.org/resource/Crossbow_bolt
+mallets - http://dbpedia.org/resource/Mallet
 wax - http://dbpedia.org/resource/Wax
-spice - http://dbpedia.org/resource/Spice
-siege engine - http://dbpedia.org/resource/Siege_engine
-gunner - http://dbpedia.org/resource/Artillery
-siege - http://dbpedia.org/resource/Siege
+spices - http://dbpedia.org/resource/Spice
+siege engines - http://dbpedia.org/resource/Siege_engine
 negotiation - http://dbpedia.org/resource/Negotiation
 bribery - http://dbpedia.org/resource/Bribery
 intimidation - http://dbpedia.org/resource/Intimidation
 warfare - http://dbpedia.org/resource/War
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 siege - http://dbpedia.org/resource/Siege
 garrison - http://dbpedia.org/resource/Garrison
 constable - http://dbpedia.org/resource/Castellan
 siege - http://dbpedia.org/resource/Siege
-defender - http://dbpedia.org/resource/Defendant
-truce - http://dbpedia.org/resource/Ceasefire
+full blown - http://dbpedia.org/resource/Full_Blown_(Phantom_Blue_album)
 assault - http://dbpedia.org/resource/Amphibious_warfare
 constable - http://dbpedia.org/resource/Castellan
-truce - http://dbpedia.org/resource/Ceasefire
-reinforcement - http://dbpedia.org/resource/Rebar
+knights - http://dbpedia.org/resource/Knight
 garrison - http://dbpedia.org/resource/Garrison
 food - http://dbpedia.org/resource/Food
 relief - http://dbpedia.org/resource/Terrain
 investment - http://dbpedia.org/resource/Investment
-truce - http://dbpedia.org/resource/Ceasefire
-defender - http://dbpedia.org/resource/Defendant
-siege engine - http://dbpedia.org/resource/Siege_engine
-defense - http://dbpedia.org/resource/Military
-hoard - http://dbpedia.org/resource/Hoard
-battlement - http://dbpedia.org/resource/Battlement
+siege engines - http://dbpedia.org/resource/Siege_engine
+battlements - http://dbpedia.org/resource/Battlement
 garrison - http://dbpedia.org/resource/Garrison
 siege - http://dbpedia.org/resource/Siege
 siege - http://dbpedia.org/resource/Siege
 rhodes - http://dbpedia.org/resource/Rhodes
 muslim - http://dbpedia.org/resource/Muslims
-hoist - http://dbpedia.org/resource/Glossary_of_vexillology
 black flag - http://dbpedia.org/resource/Jolly_Roger
-javelin - http://dbpedia.org/resource/Pilum
+javelins - http://dbpedia.org/resource/Pilum
 crossbow - http://dbpedia.org/resource/Crossbow
-bolt - http://dbpedia.org/resource/Crossbow
+bolts - http://dbpedia.org/resource/Crossbow_bolt
 signal - http://dbpedia.org/resource/Railway_signal
-siege engine - http://dbpedia.org/resource/Siege_engine
-missile - http://dbpedia.org/resource/Missile
+siege engines - http://dbpedia.org/resource/Siege_engine
 late middle ages - http://dbpedia.org/resource/Late_Middle_Ages
 cannon - http://dbpedia.org/resource/Cannon
-signal - http://dbpedia.org/resource/Railway_signal
-siege - http://dbpedia.org/resource/Siege
 garrison - http://dbpedia.org/resource/Garrison
 siege - http://dbpedia.org/resource/Siege
-defense - http://dbpedia.org/resource/Military
-engineer - http://dbpedia.org/resource/Combat_engineer
-siege engine - http://dbpedia.org/resource/Siege_engine
-soldier - http://dbpedia.org/resource/Soldier
+siege engines - http://dbpedia.org/resource/Siege_engine
 dissent - http://dbpedia.org/resource/English_Dissenters
-crop - http://dbpedia.org/resource/Agriculture
-peasant - http://dbpedia.org/resource/Peasant
-torch - http://dbpedia.org/resource/Oxy-fuel_welding_and_cutting
 scorched earth - http://dbpedia.org/resource/Scorched_earth
 sabotage - http://dbpedia.org/resource/Sabotage
 siege - http://dbpedia.org/resource/Siege
@@ -170,58 +131,45 @@ livestock - http://dbpedia.org/resource/Livestock
 famine - http://dbpedia.org/resource/Famine
 ditch - http://dbpedia.org/resource/Moat
 moat - http://dbpedia.org/resource/Moat
-tree - http://dbpedia.org/resource/Tree
+tree - http://dbpedia.org/resource/Saddle
 gorse - http://dbpedia.org/resource/Ulex
+sail - http://dbpedia.org/resource/Sail
+barge - http://dbpedia.org/resource/Barge
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 ditch - http://dbpedia.org/resource/Moat
 moat - http://dbpedia.org/resource/Moat
-ford - http://dbpedia.org/resource/Ford_Motor_Company
-light - http://dbpedia.org/resource/Light_machine_gun
+forded - http://dbpedia.org/resource/Ford_(crossing)
+light - http://dbpedia.org/resource/Light_infantry
 assault - http://dbpedia.org/resource/Amphibious_warfare
 escalade - http://dbpedia.org/resource/Escalade
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-ladder - http://dbpedia.org/resource/Ladder
 escalade - http://dbpedia.org/resource/Escalade
-ladder - http://dbpedia.org/resource/Ladder
-battlement - http://dbpedia.org/resource/Battlement
-defender - http://dbpedia.org/resource/Defendant
-archer - http://dbpedia.org/resource/Bow_and_arrow
-crossbowman - http://dbpedia.org/resource/Arbalist_(crossbowman)
-slinger - http://dbpedia.org/resource/Sling_(weapon)
-comrade - http://dbpedia.org/resource/Comrade
-pavise - http://dbpedia.org/resource/Pavise
+battlements - http://dbpedia.org/resource/Battlement
+archers - http://dbpedia.org/resource/Bow_and_arrow
+crossbowmen - http://dbpedia.org/resource/Crossbow
+slingers - http://dbpedia.org/resource/Sling_(weapon)
+pavises - http://dbpedia.org/resource/Pavise
 onrush - http://dbpedia.org/resource/Onrush
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+hopes - http://dbpedia.org/resource/USA_Gymnastics
 garrison - http://dbpedia.org/resource/Garrison
-access point - http://dbpedia.org/resource/Wireless_access_point
-assault - http://dbpedia.org/resource/Amphibious_warfare
 gate - http://dbpedia.org/resource/Gate
 timber - http://dbpedia.org/resource/Lumber
 timber - http://dbpedia.org/resource/Lumber
-tower - http://dbpedia.org/resource/Keep
+castle towers - http://dbpedia.org/resource/Castle_Towers
 masonry - http://dbpedia.org/resource/Masonry
-defense - http://dbpedia.org/resource/Military
 iron - http://dbpedia.org/resource/Cast_iron
 timber - http://dbpedia.org/resource/Lumber
 iron - http://dbpedia.org/resource/Cast_iron
 tortoise - http://dbpedia.org/resource/Tortoise
-wheel - http://dbpedia.org/resource/Wheel
-defender - http://dbpedia.org/resource/Defendant
 escalade - http://dbpedia.org/resource/Escalade
-ladder - http://dbpedia.org/resource/Ladder
-stone - http://dbpedia.org/resource/Masonry
 quicklime - http://dbpedia.org/resource/Calcium_oxide
-liquid - http://dbpedia.org/resource/Fluid
 armor - http://dbpedia.org/resource/Armour
-weapon - http://dbpedia.org/resource/Weapon
 siege - http://dbpedia.org/resource/Siege
 caen - http://dbpedia.org/resource/Caen
 springhouse - http://dbpedia.org/resource/Spring_house
-slip - http://dbpedia.org/resource/Slipway
 ladder - http://dbpedia.org/resource/Ladder
 ditch - http://dbpedia.org/resource/Moat
-soldier - http://dbpedia.org/resource/Soldier
-toss - http://dbpedia.org/resource/Coin_flipping
 straw - http://dbpedia.org/resource/Straw
 englishman - http://dbpedia.org/resource/Kingdom_of_England
 siege - http://dbpedia.org/resource/Siege
@@ -232,25 +180,20 @@ ladder - http://dbpedia.org/resource/Ladder
 helmet - http://dbpedia.org/resource/Helmet
 crossbow - http://dbpedia.org/resource/Crossbow
 bolt - http://dbpedia.org/resource/Crossbow
-battlement - http://dbpedia.org/resource/Battlement
-eye - http://dbpedia.org/resource/Eye
+battlements - http://dbpedia.org/resource/Battlement
 escalade - http://dbpedia.org/resource/Escalade
 garrison - http://dbpedia.org/resource/Garrison
 truce - http://dbpedia.org/resource/Ceasefire
 escalade - http://dbpedia.org/resource/Escalade
-defense - http://dbpedia.org/resource/Military
-intensify - http://dbpedia.org/resource/Intensify
 onslaught - http://dbpedia.org/resource/Onslaught_(comics)
+siegeworks - http://dbpedia.org/resource/Siege
 siege castle - http://dbpedia.org/resource/Counter-castle
-weapon - http://dbpedia.org/resource/Weapon
-siege engine - http://dbpedia.org/resource/Siege_engine
-siege - http://dbpedia.org/resource/Siege
-fortification - http://dbpedia.org/resource/Castle
+siege engines - http://dbpedia.org/resource/Siege_engine
 fortress - http://dbpedia.org/resource/Castle
-siege engine - http://dbpedia.org/resource/Siege_engine
-battlement - http://dbpedia.org/resource/Battlement
+siege engines - http://dbpedia.org/resource/Siege_engine
+battlements - http://dbpedia.org/resource/Battlement
 medieval - http://dbpedia.org/resource/Middle_Ages
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 roman - http://dbpedia.org/resource/Roman_Empire
 warfare - http://dbpedia.org/resource/War
 archimedes - http://dbpedia.org/resource/Buoyancy
@@ -259,73 +202,62 @@ technology - http://dbpedia.org/resource/Technology
 greeks - http://dbpedia.org/resource/Ancient_Greece
 mathematician - http://dbpedia.org/resource/Mathematics
 engineer - http://dbpedia.org/resource/Combat_engineer
-engine - http://dbpedia.org/resource/Steam_engine
 greeks - http://dbpedia.org/resource/Ancient_Greece
 romans - http://dbpedia.org/resource/Romans_(musician)
 siege - http://dbpedia.org/resource/Siege
 syracuse - http://dbpedia.org/resource/Syracuse_Orange_football
-stone throw - http://dbpedia.org/resource/Stone_throwing
-engine - http://dbpedia.org/resource/Steam_engine
+stone - http://dbpedia.org/resource/Masonry
 romans - http://dbpedia.org/resource/Romans_(musician)
 medieval - http://dbpedia.org/resource/Middle_Ages
 romans - http://dbpedia.org/resource/Romans_(musician)
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 medieval warfare - http://dbpedia.org/resource/Medieval_warfare
 onager - http://dbpedia.org/resource/Onager
 ass - http://dbpedia.org/resource/Donkey
 timber - http://dbpedia.org/resource/Lumber
 trestle - http://dbpedia.org/resource/Trestle_bridge
-mount - http://dbpedia.org/resource/Working_animal
 timber frame - http://dbpedia.org/resource/Timber_framing
 missile - http://dbpedia.org/resource/Missile
 arc - http://dbpedia.org/resource/Electric_arc
+peas - http://dbpedia.org/resource/Pea
 spoon - http://dbpedia.org/resource/Spoon
-fire engine - http://dbpedia.org/resource/Fire_engine
+engine - http://dbpedia.org/resource/Steam_engine
 onager - http://dbpedia.org/resource/Onager
 medieval - http://dbpedia.org/resource/Middle_Ages
 mangonel - http://dbpedia.org/resource/Mangonel
 timber - http://dbpedia.org/resource/Lumber
 beam - http://dbpedia.org/resource/Laser
-skein - http://dbpedia.org/resource/Ell
 rope - http://dbpedia.org/resource/Rope
-gunner - http://dbpedia.org/resource/Artillery
 ratchet - http://dbpedia.org/resource/Socket_wrench
 stone - http://dbpedia.org/resource/Masonry
 incendiary device - http://dbpedia.org/resource/Incendiary_device
 projectile - http://dbpedia.org/resource/Projectile
 arc - http://dbpedia.org/resource/Electric_arc
-torsion - http://dbpedia.org/resource/Torsion_spring
+torsion powered - http://dbpedia.org/resource/Torsion_(mechanics)
 catapult - http://dbpedia.org/resource/Catapult
 mangonel - http://dbpedia.org/resource/Mangonel
 stone - http://dbpedia.org/resource/Masonry
-knock castle - http://dbpedia.org/resource/Knock_Castle_(Isle_of_Skye)
-battlement - http://dbpedia.org/resource/Battlement
-mangonel - http://dbpedia.org/resource/Mangonel
-carcass - http://dbpedia.org/resource/Cadaver
-battlement - http://dbpedia.org/resource/Battlement
+battlements - http://dbpedia.org/resource/Battlement
+carcasses - http://dbpedia.org/resource/Cadaver
+battlements - http://dbpedia.org/resource/Battlement
 disease - http://dbpedia.org/resource/Disease
-defender - http://dbpedia.org/resource/Defendant
-defender - http://dbpedia.org/resource/Defendant
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 toss - http://dbpedia.org/resource/Coin_flipping
 escalade - http://dbpedia.org/resource/Escalade
 holy land - http://dbpedia.org/resource/Holy_Land
-mangonel - http://dbpedia.org/resource/Mangonel
 vikings - http://dbpedia.org/resource/Vikings
-paris - http://dbpedia.org/resource/Paris
+besieged paris - http://dbpedia.org/resource/Siege_of_Paris_(1870–71)
 siege - http://dbpedia.org/resource/Siege
 acre - http://dbpedia.org/resource/Acre
 siege - http://dbpedia.org/resource/Siege
 gaillard - http://dbpedia.org/resource/Gaillard
-mangonel - http://dbpedia.org/resource/Mangonel
 prince louis - http://dbpedia.org/resource/Louis_VIII_of_France
 dover castle - http://dbpedia.org/resource/Dover_Castle
 coast - http://dbpedia.org/resource/Coast
 battery - http://dbpedia.org/resource/Artillery_battery
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 dover - http://dbpedia.org/resource/Dover
 formidable - http://dbpedia.org/resource/French_ship_Formidable
-defense - http://dbpedia.org/resource/Military
 romans - http://dbpedia.org/resource/Romans_(musician)
 siege engine - http://dbpedia.org/resource/Siege_engine
 scorpion - http://dbpedia.org/resource/Scorpion
@@ -334,125 +266,74 @@ ballista - http://dbpedia.org/resource/Ballista
 middle ages - http://dbpedia.org/resource/Middle_Ages
 mangonel - http://dbpedia.org/resource/Mangonel
 ballista - http://dbpedia.org/resource/Ballista
-skein - http://dbpedia.org/resource/Ell
 rope - http://dbpedia.org/resource/Rope
 hair - http://dbpedia.org/resource/Hair
 sinew - http://dbpedia.org/resource/Tendon
-missile - http://dbpedia.org/resource/Missile
 arc - http://dbpedia.org/resource/Electric_arc
 ballista - http://dbpedia.org/resource/Ballista
-stone - http://dbpedia.org/resource/Masonry
-bolt - http://dbpedia.org/resource/Crossbow
+bolts - http://dbpedia.org/resource/Crossbow_bolt
 trajectory - http://dbpedia.org/resource/Trajectory
-ballista - http://dbpedia.org/resource/Ballista
-weapon - http://dbpedia.org/resource/Weapon
+ballistas - http://dbpedia.org/resource/Ballista
 skewer - http://dbpedia.org/resource/Skewer
-tree - http://dbpedia.org/resource/Tree
 pound - http://dbpedia.org/resource/Pound_sterling
-stone yard - http://dbpedia.org/resource/Stonemasonry
+stone - http://dbpedia.org/resource/Masonry
 ballista - http://dbpedia.org/resource/Ballista
 springald - http://dbpedia.org/resource/Springald
-resemble - http://dbpedia.org/resource/SoltyRei
 crossbow - http://dbpedia.org/resource/Crossbow
 function - http://dbpedia.org/resource/Role
-javelin - http://dbpedia.org/resource/Pilum
-bolt - http://dbpedia.org/resource/Crossbow
+javelins - http://dbpedia.org/resource/Pilum
+bolts - http://dbpedia.org/resource/Crossbow_bolt
 springboard - http://dbpedia.org/resource/Professional_wrestling_strikes
 timber - http://dbpedia.org/resource/Lumber
-soldier - http://dbpedia.org/resource/Soldier
 lever - http://dbpedia.org/resource/Lever
 springboard - http://dbpedia.org/resource/Professional_wrestling_strikes
-smack - http://dbpedia.org/resource/Heroin
 projectile - http://dbpedia.org/resource/Projectile
-propel - http://dbpedia.org/resource/Steroid_eluting_sinus_stent
-springald - http://dbpedia.org/resource/Springald
-defensive weapon - http://dbpedia.org/resource/Self-defense
 chepstow castle - http://dbpedia.org/resource/Chepstow_Castle
 roger bigod - http://dbpedia.org/resource/Roger_Bigod_of_Norfolk
-mount - http://dbpedia.org/resource/Working_animal
-springald - http://dbpedia.org/resource/Springald
-springald - http://dbpedia.org/resource/Springald
-comrade - http://dbpedia.org/resource/Comrade
-siege machine - http://dbpedia.org/resource/Siege_engine
-batter - http://dbpedia.org/resource/Assault
-ram - http://dbpedia.org/resource/Battering_ram
-bore - http://dbpedia.org/resource/Gun_barrel
+siege machines - http://dbpedia.org/resource/Siege_engine
 pound - http://dbpedia.org/resource/Pound_sterling
-thrust - http://dbpedia.org/resource/Rocket
-gate - http://dbpedia.org/resource/Gate
 stone - http://dbpedia.org/resource/Masonry
 medieval - http://dbpedia.org/resource/Middle_Ages
-soldier - http://dbpedia.org/resource/Soldier
 ramming - http://dbpedia.org/resource/Ramming
 timber - http://dbpedia.org/resource/Lumber
 penthouse - http://dbpedia.org/resource/Penthouse_apartment
 warfare - http://dbpedia.org/resource/War
-ram - http://dbpedia.org/resource/Battering_ram
-bore - http://dbpedia.org/resource/Gun_barrel
 iron - http://dbpedia.org/resource/Cast_iron
-ram head - http://dbpedia.org/resource/Ram_Head
 ram - http://dbpedia.org/resource/Battering_ram
 bore - http://dbpedia.org/resource/Gun_barrel
-chain - http://dbpedia.org/resource/Chain
-rope - http://dbpedia.org/resource/Rope
 penthouse - http://dbpedia.org/resource/Penthouse_apartment
 swing - http://dbpedia.org/resource/Swing_bridge
 beam - http://dbpedia.org/resource/Laser
 pound - http://dbpedia.org/resource/Pound_sterling
 penthouse - http://dbpedia.org/resource/Penthouse_apartment
 timber - http://dbpedia.org/resource/Lumber
-cloak - http://dbpedia.org/resource/Cloaking_device
-brace - http://dbpedia.org/resource/Orthotics
+hides - http://dbpedia.org/resource/Hunting_blind
 iron - http://dbpedia.org/resource/Cast_iron
-missile - http://dbpedia.org/resource/Missile
-defender - http://dbpedia.org/resource/Defendant
-roller - http://dbpedia.org/resource/Wheel
-lever - http://dbpedia.org/resource/Lever
-rope - http://dbpedia.org/resource/Rope
-pulley - http://dbpedia.org/resource/Pulley
-winch - http://dbpedia.org/resource/Winch
 penthouse - http://dbpedia.org/resource/Penthouse_apartment
-wheel - http://dbpedia.org/resource/Wheel
-ram - http://dbpedia.org/resource/Battering_ram
 timber - http://dbpedia.org/resource/Lumber
-defense - http://dbpedia.org/resource/Military
-barricade - http://dbpedia.org/resource/Barricade
-gate - http://dbpedia.org/resource/Gate
 stone - http://dbpedia.org/resource/Masonry
-fortification - http://dbpedia.org/resource/Castle
-batter - http://dbpedia.org/resource/Assault
-defender - http://dbpedia.org/resource/Defendant
 hook - http://dbpedia.org/resource/Fish_hook
-rope - http://dbpedia.org/resource/Rope
 ram - http://dbpedia.org/resource/Battering_ram
 penthouse - http://dbpedia.org/resource/Penthouse_apartment
-beam - http://dbpedia.org/resource/Laser
-pulley - http://dbpedia.org/resource/Pulley
 timber - http://dbpedia.org/resource/Lumber
-popular crusades - http://dbpedia.org/resource/Popular_crusades
-batter - http://dbpedia.org/resource/Assault
-ram - http://dbpedia.org/resource/Battering_ram
+crusades - http://dbpedia.org/resource/Crusades
 acre - http://dbpedia.org/resource/Acre
 walled city - http://dbpedia.org/resource/Defensive_wall
 formidable - http://dbpedia.org/resource/French_ship_Formidable
 citadel - http://dbpedia.org/resource/Citadel
 siege engine - http://dbpedia.org/resource/Siege_engine
 trebuchet - http://dbpedia.org/resource/Trebuchet
-siege - http://dbpedia.org/resource/Siege
 trebuchet - http://dbpedia.org/resource/Trebuchet
-stone throw - http://dbpedia.org/resource/Stone_throwing
-siege engine - http://dbpedia.org/resource/Siege_engine
+stone - http://dbpedia.org/resource/Masonry
+siege engines - http://dbpedia.org/resource/Siege_engine
 medieval - http://dbpedia.org/resource/Middle_Ages
 counterweight - http://dbpedia.org/resource/Counterweight
-strike - http://dbpedia.org/resource/Strike_action
 fear - http://dbpedia.org/resource/Fear
-heart - http://dbpedia.org/resource/Heart
-garrison - http://dbpedia.org/resource/Garrison
 trebuchet - http://dbpedia.org/resource/Trebuchet
 medieval - http://dbpedia.org/resource/Middle_Ages
 denmark - http://dbpedia.org/resource/Denmark
-trebuchet - http://dbpedia.org/resource/Trebuchet
-nordic country - http://dbpedia.org/resource/Nordic_countries
+trebuchets - http://dbpedia.org/resource/Trebuchet
+nordic countries - http://dbpedia.org/resource/Nordic_countries
 northern germany - http://dbpedia.org/resource/Holy_Roman_Empire
 vikings - http://dbpedia.org/resource/Vikings
 trebuchet - http://dbpedia.org/resource/Trebuchet
@@ -468,75 +349,57 @@ simon de montfort - http://dbpedia.org/resource/Simon_III_de_Montfort
 castelnaudary - http://dbpedia.org/resource/Castelnaudary
 tower - http://dbpedia.org/resource/Keep
 counterweight - http://dbpedia.org/resource/Counterweight
-missile - http://dbpedia.org/resource/Missile
-exceed - http://dbpedia.org/resource/Hummingbird_Ltd.
-pound - http://dbpedia.org/resource/Pound_sterling
+pounds - http://dbpedia.org/resource/Pound_sterling
 trebuchet - http://dbpedia.org/resource/Trebuchet
 pound - http://dbpedia.org/resource/Pound_sterling
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 engine - http://dbpedia.org/resource/Steam_engine
 siege - http://dbpedia.org/resource/Siege
-engineer - http://dbpedia.org/resource/Combat_engineer
 trebuchet - http://dbpedia.org/resource/Trebuchet
 perrier - http://dbpedia.org/resource/Perrier
 trebuchet - http://dbpedia.org/resource/Trebuchet
-rope - http://dbpedia.org/resource/Rope
 medieval - http://dbpedia.org/resource/Middle_Ages
 counterpoise - http://dbpedia.org/resource/Menat
 counterweight - http://dbpedia.org/resource/Counterweight
 ballast - http://dbpedia.org/resource/Ballast
-stone - http://dbpedia.org/resource/Masonry
 sand - http://dbpedia.org/resource/Sand
-ton - http://dbpedia.org/resource/Ton
-engine arm - http://dbpedia.org/resource/Engine_Arm
+engine - http://dbpedia.org/resource/Steam_engine
 stone - http://dbpedia.org/resource/Masonry
 leather - http://dbpedia.org/resource/Leather
 pouch - http://dbpedia.org/resource/Bag
-rope - http://dbpedia.org/resource/Rope
 beam - http://dbpedia.org/resource/Laser
-propel - http://dbpedia.org/resource/Steroid_eluting_sinus_stent
 missile - http://dbpedia.org/resource/Missile
-pummel - http://dbpedia.org/resource/Pummel_(album)
-pound - http://dbpedia.org/resource/Pound_sterling
-siege engine - http://dbpedia.org/resource/Siege_engine
-trebuchet - http://dbpedia.org/resource/Trebuchet
+siege engines - http://dbpedia.org/resource/Siege_engine
+counterweight trebuchets - http://dbpedia.org/resource/Trebuchet
 prince louis - http://dbpedia.org/resource/Louis_VIII_of_France
 dover castle - http://dbpedia.org/resource/Dover_Castle
 invasion - http://dbpedia.org/resource/Invasion
 french army - http://dbpedia.org/resource/French_Army
-weapon - http://dbpedia.org/resource/Weapon
 truce - http://dbpedia.org/resource/Ceasefire
 garrison - http://dbpedia.org/resource/Garrison
 truce - http://dbpedia.org/resource/Ceasefire
-soldier - http://dbpedia.org/resource/Soldier
 dover - http://dbpedia.org/resource/Dover
 trebuchet - http://dbpedia.org/resource/Trebuchet
-technology change - http://dbpedia.org/resource/Technological_change
-siege - http://dbpedia.org/resource/Siege
-defense - http://dbpedia.org/resource/Military
+ambitions - http://dbpedia.org/resource/Ambitions_(song)
+technology - http://dbpedia.org/resource/Technology
 trebuchet - http://dbpedia.org/resource/Trebuchet
-projectile - http://dbpedia.org/resource/Projectile
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+curtain walls - http://dbpedia.org/resource/Curtain_wall_(fortification)
 kaffa - http://dbpedia.org/resource/Feodosia
 crimean peninsula - http://dbpedia.org/resource/Crimea
 virulent - http://dbpedia.org/resource/Virulence
 disease - http://dbpedia.org/resource/Disease
+savaged - http://dbpedia.org/resource/Avenged_(2013_American_film)
 mongol - http://dbpedia.org/resource/Mongols
 tartar - http://dbpedia.org/resource/Calculus_(dental)
 asian - http://dbpedia.org/resource/Asia
 trebuchet - http://dbpedia.org/resource/Trebuchet
 toss - http://dbpedia.org/resource/Coin_flipping
-comrade - http://dbpedia.org/resource/Comrade
 genoese - http://dbpedia.org/resource/Genoa
 cathedral city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-soldier - http://dbpedia.org/resource/Soldier
 disease - http://dbpedia.org/resource/Disease
 black death - http://dbpedia.org/resource/Black_Death
-trebuchet - http://dbpedia.org/resource/Trebuchet
-incendiary device - http://dbpedia.org/resource/Incendiary_device
-missile - http://dbpedia.org/resource/Missile
-cask - http://dbpedia.org/resource/Barrel
-pot - http://dbpedia.org/resource/Pottery
+trebuchets - http://dbpedia.org/resource/Trebuchet
+incendiary - http://dbpedia.org/resource/Grenade
 greek fire - http://dbpedia.org/resource/Greek_fire
 saltpeter - http://dbpedia.org/resource/Potassium_nitrate
 sulfur - http://dbpedia.org/resource/Sulfur
@@ -552,39 +415,34 @@ jar - http://dbpedia.org/resource/Jar
 greek fire - http://dbpedia.org/resource/Greek_fire
 montreuil - http://dbpedia.org/resource/Domain_of_Montreuil
 siege - http://dbpedia.org/resource/Siege
-edward master - http://dbpedia.org/resource/Edward_Master
 siegecraft - http://dbpedia.org/resource/Siege
 castle building - http://dbpedia.org/resource/Castle_Building
 trebuchet - http://dbpedia.org/resource/Trebuchet
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-assault - http://dbpedia.org/resource/Amphibious_warfare
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 stirling castle - http://dbpedia.org/resource/Stirling_Castle
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 springald - http://dbpedia.org/resource/Springald
 battering ram - http://dbpedia.org/resource/Battering_ram
 trebuchet - http://dbpedia.org/resource/Trebuchet
 warwolf - http://dbpedia.org/resource/Warwolf
-wagon - http://dbpedia.org/resource/Wagon
 michael prestwich - http://dbpedia.org/resource/Michael_Prestwich
-edward - http://dbpedia.org/resource/Edward_I_of_England
 trebuchet - http://dbpedia.org/resource/Trebuchet
 siege - http://dbpedia.org/resource/Siege
 engine - http://dbpedia.org/resource/Steam_engine
 warwolf - http://dbpedia.org/resource/Warwolf
 engine - http://dbpedia.org/resource/Steam_engine
-grace - http://dbpedia.org/resource/Divine_grace
+grace - http://dbpedia.org/resource/Grace_in_Christianity
 siege - http://dbpedia.org/resource/Siege
 masterful - http://dbpedia.org/resource/Master_of_Puppets_(song)
 weapon - http://dbpedia.org/resource/Weapon
 warwolf - http://dbpedia.org/resource/Warwolf
-missile - http://dbpedia.org/resource/Missile
-pound - http://dbpedia.org/resource/Pound_sterling
+pounds - http://dbpedia.org/resource/Pound_sterling
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 caerlaverock castle - http://dbpedia.org/resource/Caerlaverock_Castle
 scottish borders - http://dbpedia.org/resource/Anglo-Scottish_border
-dumfries castle - http://dbpedia.org/resource/Dumfries_Castle
+dumfries - http://dbpedia.org/resource/Dumfries
 maxwell - http://dbpedia.org/resource/Maxwell_(unit)
 formidable - http://dbpedia.org/resource/French_ship_Formidable
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
@@ -595,139 +453,111 @@ exeter - http://dbpedia.org/resource/Exeter
 franciscan friar - http://dbpedia.org/resource/Franciscans
 siege train - http://dbpedia.org/resource/Siege_engine
 assault - http://dbpedia.org/resource/Amphibious_warfare
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 technology - http://dbpedia.org/resource/Technology
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 siege - http://dbpedia.org/resource/Siege
 walter - http://dbpedia.org/resource/Walter_(wrestler)
 caerlaverock - http://dbpedia.org/resource/Caerlaverock_Castle
-fear - http://dbpedia.org/resource/Fear
 siege - http://dbpedia.org/resource/Siege
-man engine - http://dbpedia.org/resource/Man_engine
-nobleman - http://dbpedia.org/resource/Nobility
-knight service - http://dbpedia.org/resource/Knight-service
+noblemen - http://dbpedia.org/resource/Nobility
+knights - http://dbpedia.org/resource/Knight
 carlisle - http://dbpedia.org/resource/Carlisle
 brother robert - http://dbpedia.org/resource/Brother_Robert
 ulm - http://dbpedia.org/resource/Ulm
 master mason - http://dbpedia.org/resource/Masonry
-batter - http://dbpedia.org/resource/Assault
-ram - http://dbpedia.org/resource/Battering_ram
+battering ram - http://dbpedia.org/resource/Battering_ram
 belfry - http://dbpedia.org/resource/Siege_tower
-springald - http://dbpedia.org/resource/Springald
-trebuchet - http://dbpedia.org/resource/Trebuchet
-stockpile - http://dbpedia.org/resource/War_reserve_stock
-stone - http://dbpedia.org/resource/Masonry
+robinets - http://dbpedia.org/resource/Infantry_support_gun
+trebuchets - http://dbpedia.org/resource/Trebuchet
 timber - http://dbpedia.org/resource/Lumber
-bolt - http://dbpedia.org/resource/Crossbow
-animal hide - http://dbpedia.org/resource/Hide_(skin)
+bolts - http://dbpedia.org/resource/Crossbow_bolt
+animal hides - http://dbpedia.org/resource/Hide_(skin)
 siege train - http://dbpedia.org/resource/Siege_engine
+journeyed - http://dbpedia.org/resource/JourneyEd
 english army - http://dbpedia.org/resource/English_Army
-tent - http://dbpedia.org/resource/Tent
-hut - http://dbpedia.org/resource/Hut
-stable - http://dbpedia.org/resource/Stable
-horse - http://dbpedia.org/resource/Cavalry
-forage - http://dbpedia.org/resource/Foraging
 timber - http://dbpedia.org/resource/Lumber
 siege - http://dbpedia.org/resource/Siege
 breton - http://dbpedia.org/resource/Breton_language
-soldier - http://dbpedia.org/resource/Soldier
-tote - http://dbpedia.org/resource/Parimutuel_betting
-small arm - http://dbpedia.org/resource/Firearm
-siege engine - http://dbpedia.org/resource/Siege_engine
+small arms - http://dbpedia.org/resource/Firearm
+siege engines - http://dbpedia.org/resource/Siege_engine
 assault - http://dbpedia.org/resource/Amphibious_warfare
 garrison - http://dbpedia.org/resource/Garrison
 siege - http://dbpedia.org/resource/Siege
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-wave - http://dbpedia.org/resource/Wind_wave
 white flag - http://dbpedia.org/resource/White_flag
 truce - http://dbpedia.org/resource/Ceasefire
 arrow - http://dbpedia.org/resource/Bow_and_arrow
 siege - http://dbpedia.org/resource/Siege
 garrison - http://dbpedia.org/resource/Garrison
 hanging - http://dbpedia.org/resource/Hanging
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 garrison - http://dbpedia.org/resource/Garrison
-tunnel - http://dbpedia.org/resource/Tunnel
-wall tower - http://dbpedia.org/resource/Fortified_tower
-miner - http://dbpedia.org/resource/Mining
+sappers - http://dbpedia.org/resource/Sapper
 tunnel - http://dbpedia.org/resource/Tunnel
 sap - http://dbpedia.org/resource/Sapping
-beam - http://dbpedia.org/resource/Laser
+soaked - http://dbpedia.org/resource/RollerCoaster_Tycoon_3
 flammable - http://dbpedia.org/resource/Flamethrower
 timber - http://dbpedia.org/resource/Lumber
-prop - http://dbpedia.org/resource/Propeller
+props - http://dbpedia.org/resource/Propeller
 tunnel - http://dbpedia.org/resource/Tunnel
 tower - http://dbpedia.org/resource/Keep
-miner - http://dbpedia.org/resource/Mining
 tunnel - http://dbpedia.org/resource/Tunnel
 formidable - http://dbpedia.org/resource/French_ship_Formidable
-fortress - http://dbpedia.org/resource/Castle
 king john - http://dbpedia.org/resource/John_II_of_France
 rochester castle - http://dbpedia.org/resource/Rochester_Castle
-baron - http://dbpedia.org/resource/English_feudal_barony
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 pound - http://dbpedia.org/resource/Pound_sterling
-defender - http://dbpedia.org/resource/Defendant
-miner - http://dbpedia.org/resource/Mining
+sappers - http://dbpedia.org/resource/Sapper
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+sappers - http://dbpedia.org/resource/Sapper
 tunnel - http://dbpedia.org/resource/Tunnel
 flammable - http://dbpedia.org/resource/Flamethrower
 king john - http://dbpedia.org/resource/John_II_of_France
 hubert de burgh - http://dbpedia.org/resource/Hubert_de_Burgh,_1st_Earl_of_Kent
 burgh - http://dbpedia.org/resource/Burh
-pig - http://dbpedia.org/resource/Pig
 swine - http://dbpedia.org/resource/Pig
+sappers - http://dbpedia.org/resource/Sapper
 tunnel - http://dbpedia.org/resource/Tunnel
-carcass - http://dbpedia.org/resource/Cadaver
-crack - http://dbpedia.org/resource/Structural_integrity_and_failure
+carcasses - http://dbpedia.org/resource/Cadaver
 yield - http://dbpedia.org/resource/TNT_equivalent
 cross wall - http://dbpedia.org/resource/Cross-wall
-baron - http://dbpedia.org/resource/English_feudal_barony
 fatigue - http://dbpedia.org/resource/Fatigue
 hunger - http://dbpedia.org/resource/Starvation
-angle - http://dbpedia.org/resource/Azimuth
+angle - http://dbpedia.org/resource/Angle
 turret - http://dbpedia.org/resource/Gun_turret
 siege - http://dbpedia.org/resource/Siege
 engine - http://dbpedia.org/resource/Steam_engine
 siege tower - http://dbpedia.org/resource/Siege_tower
 belfry - http://dbpedia.org/resource/Siege_tower
-battlement - http://dbpedia.org/resource/Battlement
-weapon - http://dbpedia.org/resource/Weapon
-batter - http://dbpedia.org/resource/Assault
-ram - http://dbpedia.org/resource/Battering_ram
-mangonel - http://dbpedia.org/resource/Mangonel
+battlements - http://dbpedia.org/resource/Battlement
 close range - http://dbpedia.org/resource/Close_Range
 safety - http://dbpedia.org/resource/Safety
 siege tower - http://dbpedia.org/resource/Siege_tower
-building material - http://dbpedia.org/resource/Building_material
-soldier - http://dbpedia.org/resource/Soldier
 engine - http://dbpedia.org/resource/Steam_engine
-belfry - http://dbpedia.org/resource/Siege_tower
-transport - http://dbpedia.org/resource/Transport
+belfries - http://dbpedia.org/resource/Bell_tower
 siege - http://dbpedia.org/resource/Siege
 engine - http://dbpedia.org/resource/Steam_engine
-nobleman - http://dbpedia.org/resource/Nobility
-siege tower - http://dbpedia.org/resource/Siege_tower
+noblemen - http://dbpedia.org/resource/Nobility
+siege towers - http://dbpedia.org/resource/Siege_engine
 tower - http://dbpedia.org/resource/Keep
 drawbridge - http://dbpedia.org/resource/Drawbridge
 scramble - http://dbpedia.org/resource/Golf
-battlement - http://dbpedia.org/resource/Battlement
-belfry - http://dbpedia.org/resource/Siege_tower
+battlements - http://dbpedia.org/resource/Battlement
+belfries - http://dbpedia.org/resource/Bell_tower
 mangonel - http://dbpedia.org/resource/Mangonel
 ballista - http://dbpedia.org/resource/Ballista
 belfry - http://dbpedia.org/resource/Siege_tower
-animal hide - http://dbpedia.org/resource/Hide_(skin)
+animal hides - http://dbpedia.org/resource/Hide_(skin)
+soaked - http://dbpedia.org/resource/RollerCoaster_Tycoon_3
 mud - http://dbpedia.org/resource/Mud
 vinegar - http://dbpedia.org/resource/Vinegar
 iron - http://dbpedia.org/resource/Cast_iron
-soldier - http://dbpedia.org/resource/Soldier
-ladder - http://dbpedia.org/resource/Ladder
 belfry - http://dbpedia.org/resource/Siege_tower
 siege - http://dbpedia.org/resource/Siege
 kenilworth castle - http://dbpedia.org/resource/Kenilworth_Castle
-archer - http://dbpedia.org/resource/Bow_and_arrow
-siege engine - http://dbpedia.org/resource/Siege_engine
+archers - http://dbpedia.org/resource/Bow_and_arrow
+siege engines - http://dbpedia.org/resource/Siege_engine
 belfry - http://dbpedia.org/resource/Siege_tower
 moat - http://dbpedia.org/resource/Moat
 ditch - http://dbpedia.org/resource/Moat
@@ -737,70 +567,57 @@ curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 weather - http://dbpedia.org/resource/Weather
 belfry - http://dbpedia.org/resource/Siege_tower
 vulnerable - http://dbpedia.org/resource/Vulnerability
+siege engines - http://dbpedia.org/resource/Siege_engine
+archers - http://dbpedia.org/resource/Bow_and_arrow
+crossbowmen - http://dbpedia.org/resource/Crossbow
 siege engine - http://dbpedia.org/resource/Siege_engine
-archer - http://dbpedia.org/resource/Bow_and_arrow
-crossbowman - http://dbpedia.org/resource/Arbalist_(crossbowman)
-siege engine - http://dbpedia.org/resource/Siege_engine
-role play - http://dbpedia.org/resource/Role-playing_game
-container - http://dbpedia.org/resource/Intermodal_container
 water - http://dbpedia.org/resource/Water
 belfry - http://dbpedia.org/resource/Siege_tower
 ram - http://dbpedia.org/resource/Battering_ram
-swing - http://dbpedia.org/resource/Swing_bridge
-rope - http://dbpedia.org/resource/Rope
-chain - http://dbpedia.org/resource/Chain
+sappers - http://dbpedia.org/resource/Sapper
 tower - http://dbpedia.org/resource/Keep
-archer - http://dbpedia.org/resource/Bow_and_arrow
-crossbowman - http://dbpedia.org/resource/Arbalist_(crossbowman)
-gunner - http://dbpedia.org/resource/Artillery
-armored knight - http://dbpedia.org/resource/Knight
-defender - http://dbpedia.org/resource/Defendant
+archers - http://dbpedia.org/resource/Bow_and_arrow
+crossbowmen - http://dbpedia.org/resource/Crossbow
+knights - http://dbpedia.org/resource/Knight
 drawbridge - http://dbpedia.org/resource/Drawbridge
-drop curtain - http://dbpedia.org/resource/Theater_drapes_and_stage_curtains
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 siege - http://dbpedia.org/resource/Siege
 bedford castle - http://dbpedia.org/resource/Bedford_Castle
 henry iii - http://dbpedia.org/resource/Henry_III_of_England
-belfry - http://dbpedia.org/resource/Siege_tower
+belfries - http://dbpedia.org/resource/Bell_tower
 tower - http://dbpedia.org/resource/Keep
-battlement - http://dbpedia.org/resource/Battlement
-archer - http://dbpedia.org/resource/Bow_and_arrow
+battlements - http://dbpedia.org/resource/Battlement
+archers - http://dbpedia.org/resource/Bow_and_arrow
 garrison - http://dbpedia.org/resource/Garrison
 formidable - http://dbpedia.org/resource/French_ship_Formidable
 precipitate - http://dbpedia.org/resource/Precipitation
 fortress - http://dbpedia.org/resource/Castle
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 devastation - http://dbpedia.org/resource/HMS_Devastation_(1871)
 mining - http://dbpedia.org/resource/Tunnel_warfare
 garrison - http://dbpedia.org/resource/Garrison
 siege - http://dbpedia.org/resource/Siege
 resort - http://dbpedia.org/resource/Resort
 capitulation - http://dbpedia.org/resource/Armistice_of_Cassibile
-scorch - http://dbpedia.org/resource/Scorch_(TV_series)
-reinforcement - http://dbpedia.org/resource/Rebar
 garrison - http://dbpedia.org/resource/Garrison
 siege - http://dbpedia.org/resource/Siege
 garrison - http://dbpedia.org/resource/Garrison
 blockade - http://dbpedia.org/resource/Blockade
-assault - http://dbpedia.org/resource/Amphibious_warfare
-garrison - http://dbpedia.org/resource/Garrison
-blockade - http://dbpedia.org/resource/Blockade
+full scale assault - http://dbpedia.org/resource/Full_Scale_Assault
 disease - http://dbpedia.org/resource/Disease
 constable - http://dbpedia.org/resource/Castellan
 pembroke castle - http://dbpedia.org/resource/Pembroke_Castle
 gerald de windsor - http://dbpedia.org/resource/Gerald_de_Windsor
 garrison - http://dbpedia.org/resource/Garrison
+hogs - http://dbpedia.org/resource/Pig
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-stock - http://dbpedia.org/resource/Livestock
+stocked - http://dbpedia.org/resource/Fish_stock
 food - http://dbpedia.org/resource/Food
 siege - http://dbpedia.org/resource/Siege
 garrison - http://dbpedia.org/resource/Garrison
 starvation - http://dbpedia.org/resource/Starvation
 garrison - http://dbpedia.org/resource/Garrison
-signal - http://dbpedia.org/resource/Railway_signal
-siege - http://dbpedia.org/resource/Siege
 white flag - http://dbpedia.org/resource/White_flag
-negotiation - http://dbpedia.org/resource/Negotiation
 safety - http://dbpedia.org/resource/Safety
 garrison - http://dbpedia.org/resource/Garrison
 john felton - http://dbpedia.org/resource/John_Felton_(assassin)
@@ -817,17 +634,12 @@ glamorgan - http://dbpedia.org/resource/Glamorgan
 felton - http://dbpedia.org/resource/Beau_Felton
 garrison - http://dbpedia.org/resource/Garrison
 ransom - http://dbpedia.org/resource/Ransom
-solution - http://dbpedia.org/resource/Malta
 personal property - http://dbpedia.org/resource/Personal_property
 humiliation - http://dbpedia.org/resource/Humiliation
-parade - http://dbpedia.org/resource/Military_parade
 barefoot - http://dbpedia.org/resource/Barefoot
-cannon - http://dbpedia.org/resource/Cannon
-bombard - http://dbpedia.org/resource/Bombardment
+bombards - http://dbpedia.org/resource/Bombard_(weapon)
 medieval warfare - http://dbpedia.org/resource/Medieval_warfare
-cannon - http://dbpedia.org/resource/Cannon
 timber - http://dbpedia.org/resource/Lumber
-engine - http://dbpedia.org/resource/Steam_engine
 siege machine - http://dbpedia.org/resource/Siege_engine
 henry - http://dbpedia.org/resource/Henry_(unit)
 harfleur - http://dbpedia.org/resource/Harfleur
@@ -837,24 +649,22 @@ barbican - http://dbpedia.org/resource/Barbican
 torch - http://dbpedia.org/resource/Oxy-fuel_welding_and_cutting
 garrison - http://dbpedia.org/resource/Garrison
 technology - http://dbpedia.org/resource/Technology
-defense - http://dbpedia.org/resource/Military
-bombard - http://dbpedia.org/resource/Bombardment
+bombards - http://dbpedia.org/resource/Bombard_(weapon)
 craignethan castle - http://dbpedia.org/resource/Craignethan_Castle
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 bastion - http://dbpedia.org/resource/Bastion
 cannon - http://dbpedia.org/resource/Cannon
-loop - http://dbpedia.org/resource/Aerobatic_maneuver
+loops - http://dbpedia.org/resource/Aerobatic_maneuver
 gun - http://dbpedia.org/resource/Cannon
-fort henry - http://dbpedia.org/resource/Battle_of_Fort_Henry
+forts henry - http://dbpedia.org/resource/Battle_of_Fort_Henry
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
-device fort - http://dbpedia.org/resource/Device_Forts
-cluster - http://dbpedia.org/resource/Cluster_munition
-battery - http://dbpedia.org/resource/Artillery_battery
+device forts - http://dbpedia.org/resource/Device_Forts
+batteries - http://dbpedia.org/resource/Artillery_battery
 artillery - http://dbpedia.org/resource/Artillery
 cannon - http://dbpedia.org/resource/Cannon
 warfare - http://dbpedia.org/resource/War
 timber - http://dbpedia.org/resource/Lumber
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 weapon - http://dbpedia.org/resource/Weapon
 medieval - http://dbpedia.org/resource/Middle_Ages
 arsenal - http://dbpedia.org/resource/Arsenal
@@ -866,12 +676,10 @@ dover castle - http://dbpedia.org/resource/Dover_Castle
 british army - http://dbpedia.org/resource/British_Army
 churchill - http://dbpedia.org/resource/Winston_Churchill
 germany - http://dbpedia.org/resource/German_Empire
-trebuchet - http://dbpedia.org/resource/Trebuchet
-long play - http://dbpedia.org/resource/Album
+trebuchets - http://dbpedia.org/resource/Trebuchet
 critical role - http://dbpedia.org/resource/Critical_Role
 military theater - http://dbpedia.org/resource/Theater_(warfare)
 siege warfare - http://dbpedia.org/resource/Siege
-military strategist - http://dbpedia.org/resource/Military_strategy
 article - http://dbpedia.org/resource/Falklands_War
 hull - http://dbpedia.org/resource/Chassis
 spring - http://dbpedia.org/resource/Coil_spring

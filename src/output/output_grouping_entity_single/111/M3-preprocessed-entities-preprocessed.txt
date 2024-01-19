@@ -1,100 +1,95 @@
-frant - http://dbpedia.org/resource/Frant
+high brooms - http://dbpedia.org/resource/High_Brooms
 mad jack fuller - http://dbpedia.org/resource/Mad_Jack_Fuller
-cricket bat - http://dbpedia.org/resource/Cricket_bat
-cistercian - http://dbpedia.org/resource/Cistercians
-breakfast - http://dbpedia.org/resource/Breakfast
-steam train - http://dbpedia.org/resource/Steam_locomotive
-etchingham - http://dbpedia.org/resource/Etchingham
-tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
-town - http://dbpedia.org/resource/Market_town
-effigy - http://dbpedia.org/resource/Effigy
-train - http://dbpedia.org/resource/Rail_transport
-bus - http://dbpedia.org/resource/Bus
-light - http://dbpedia.org/resource/Sunlight
-faith - http://dbpedia.org/resource/Christianity
-abbot - http://dbpedia.org/resource/Abbot
-robertsbridge - http://dbpedia.org/resource/Robertsbridge
-george inn - http://dbpedia.org/resource/The_George_Inn,_Southwark
-rural - http://dbpedia.org/resource/Rural_area
-bodiam - http://dbpedia.org/resource/Bodiam
-london gatwick - http://dbpedia.org/resource/Gatwick_Airport
-wadhurst - http://dbpedia.org/resource/Wadhurst
-indian restaurant - http://dbpedia.org/resource/Indian_cuisine
-public footpath - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
-carnival - http://dbpedia.org/resource/Carnival
-train carriage - http://dbpedia.org/resource/Passenger_car_(rail)
-brightling - http://dbpedia.org/resource/Brightling
-st - http://dbpedia.org/resource/SATB
-village - http://dbpedia.org/resource/Village
-toy - http://dbpedia.org/resource/Toy
-m25 - http://dbpedia.org/resource/M25_motorway
-train station - http://dbpedia.org/resource/Train_station
-port dover - http://dbpedia.org/resource/Port_Dover,_Ontario
-pyramid - http://dbpedia.org/resource/Pyramid
-st. leonards - http://dbpedia.org/resource/St_Leonards-on-Sea
-a21 - http://dbpedia.org/resource/A21_autoroute
-settlement - http://dbpedia.org/resource/Town
-high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
-firework display - http://dbpedia.org/resource/Fireworks
-station - http://dbpedia.org/resource/Train_station
-sevenoaks - http://dbpedia.org/resource/Sevenoaks
-single - http://dbpedia.org/resource/Phonograph_record
 eccentric - http://dbpedia.org/resource/Orbital_eccentricity
-florist - http://dbpedia.org/resource/Floristry
-bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-stonegate - http://dbpedia.org/resource/Ticehurst
-pub - http://dbpedia.org/resource/Pub
-tonbridge - http://dbpedia.org/resource/Tonbridge
-battle abbey - http://dbpedia.org/resource/Battle_Abbey
-country walk - http://dbpedia.org/resource/Country_Walk,_Florida
 station road - http://dbpedia.org/resource/Station_Road_Ground
-hotel - http://dbpedia.org/resource/Pub
-bonfire - http://dbpedia.org/resource/Bonfire
-commune - http://dbpedia.org/resource/Commune
-hawkhurst - http://dbpedia.org/resource/Hawkhurst
-convenience store - http://dbpedia.org/resource/Convenience_store
-haunted - http://dbpedia.org/resource/Haunted_house
-central london - http://dbpedia.org/resource/Central_London
-landmark - http://dbpedia.org/resource/Landmark
+tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
+hair dresser - http://dbpedia.org/resource/Hairdresser
+station - http://dbpedia.org/resource/Train_station
+tenterden - http://dbpedia.org/resource/Tenterden
+bruderhof - http://dbpedia.org/resource/Bruderhof_Communities
+st. leonards - http://dbpedia.org/resource/St_Leonards-on-Sea
+planning permission - http://dbpedia.org/resource/Planning_permission
+guy fawkes - http://dbpedia.org/resource/Guy_Fawkes_Night
 mausoleum - http://dbpedia.org/resource/Mausoleum
-holy grail - http://dbpedia.org/resource/Holy_Grail
-historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
-east sussex - http://dbpedia.org/resource/East_Sussex
-food - http://dbpedia.org/resource/Food
+30 minutes - http://dbpedia.org/resource/30_Minutes_(song)
+battle abbey - http://dbpedia.org/resource/Battle_Abbey
+abbot - http://dbpedia.org/resource/Abbot
+monty python - http://dbpedia.org/resource/Monty_Python
+eurotunnel - http://dbpedia.org/resource/Channel_Tunnel
+village - http://dbpedia.org/resource/Village
+cricket bats - http://dbpedia.org/resource/Cricket_bat
+frant - http://dbpedia.org/resource/Frant
+train - http://dbpedia.org/resource/Train_station
+sevenoaks - http://dbpedia.org/resource/Sevenoaks
+furniture - http://dbpedia.org/resource/Furniture
+hotel - http://dbpedia.org/resource/Pub
+kent - http://dbpedia.org/resource/Kent
+m25 - http://dbpedia.org/resource/M25_motorway
+bridleways - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+steam - http://dbpedia.org/resource/Steam_locomotive
+effigy - http://dbpedia.org/resource/Effigy
+high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+bodiam - http://dbpedia.org/resource/Bodiam
+st - http://dbpedia.org/resource/SATB
+baker - http://dbpedia.org/resource/Bakery
 rail - http://dbpedia.org/resource/Rail_transport
 inn - http://dbpedia.org/resource/Pub
-bridleway - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
-britain - http://dbpedia.org/resource/Roman_Britain
-parade - http://dbpedia.org/resource/Parade
-kent - http://dbpedia.org/resource/Kent
-high brooms - http://dbpedia.org/resource/High_Brooms
-monty python - http://dbpedia.org/resource/Monty_Python
+george inn - http://dbpedia.org/resource/The_George_Inn,_Southwark
+hastings - http://dbpedia.org/resource/Hastings
+rural - http://dbpedia.org/resource/Rural_area
+stonegate - http://dbpedia.org/resource/Ticehurst
+charity - http://dbpedia.org/resource/Alms
 high street - http://dbpedia.org/resource/High_Street
-guy fawkes - http://dbpedia.org/resource/Guy_Fawkes_Night
-a21 road - http://dbpedia.org/resource/A21_road_(England)
 spice - http://dbpedia.org/resource/Spice
-atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
-planning permission - http://dbpedia.org/resource/Planning_permission
-brand - http://dbpedia.org/resource/Brand
-south london - http://dbpedia.org/resource/London
-double room - http://dbpedia.org/resource/Double_Room
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+indian restaurant - http://dbpedia.org/resource/Indian_cuisine
+pyramid - http://dbpedia.org/resource/Pyramid
+convenience stores - http://dbpedia.org/resource/Convenience_store
+east sussex - http://dbpedia.org/resource/East_Sussex
+cistercian - http://dbpedia.org/resource/Cistercians
+public footpaths - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+faith - http://dbpedia.org/resource/Christianity
+parade - http://dbpedia.org/resource/Parade
+tonbridge - http://dbpedia.org/resource/Tonbridge
+runs - http://dbpedia.org/resource/Piste
+crowhurst - http://dbpedia.org/resource/Crowhurst_railway_station
+bonfire - http://dbpedia.org/resource/Bonfire
+carnival - http://dbpedia.org/resource/Carnival
+commune - http://dbpedia.org/resource/Commune
+a21 - http://dbpedia.org/resource/A21_autoroute
+dover - http://dbpedia.org/resource/Dover
+town - http://dbpedia.org/resource/Market_town
+pubs - http://dbpedia.org/resource/Pub
+breakfast - http://dbpedia.org/resource/Breakfast
+haunted - http://dbpedia.org/resource/Haunted_house
+historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
+hawkhurst - http://dbpedia.org/resource/Hawkhurst
+chemist - http://dbpedia.org/resource/Pharmacy
+food - http://dbpedia.org/resource/Food
+florist - http://dbpedia.org/resource/Floristry
+a21 road - http://dbpedia.org/resource/A21_road_(England)
+cranbrook - http://dbpedia.org/resource/Cranbrook_Educational_Community
+single - http://dbpedia.org/resource/Phonograph_record
 steam locomotive - http://dbpedia.org/resource/Steam_locomotive
-london bridge - http://dbpedia.org/resource/London_Bridge
-pop - http://dbpedia.org/resource/Pop_music
-furniture - http://dbpedia.org/resource/Furniture
-baker - http://dbpedia.org/resource/Bakery
-bruderhof - http://dbpedia.org/resource/Bruderhof_Communities
-eurotunnel - http://dbpedia.org/resource/Channel_Tunnel
+brightling - http://dbpedia.org/resource/Brightling
+bus - http://dbpedia.org/resource/Bus
+orpington - http://dbpedia.org/resource/Orpington
 short track - http://dbpedia.org/resource/Oval_track_racing
+friendly - http://dbpedia.org/resource/Exhibition
+double room - http://dbpedia.org/resource/Double_Room
+brand - http://dbpedia.org/resource/Brand
+pop - http://dbpedia.org/resource/Pop_music
+holy grail - http://dbpedia.org/resource/Holy_Grail
+etchingham - http://dbpedia.org/resource/Etchingham
+atmosphere - http://dbpedia.org/resource/Atmosphere_of_Earth
+train station - http://dbpedia.org/resource/Train_station
+britain - http://dbpedia.org/resource/Roman_Britain
+fireworks - http://dbpedia.org/resource/Fireworks
 rye - http://dbpedia.org/resource/Rye
 london charing cross - http://dbpedia.org/resource/Charing_Cross_railway_station
-friendly - http://dbpedia.org/resource/Exhibition
-chemist - http://dbpedia.org/resource/Pharmacy
-orpington - http://dbpedia.org/resource/Orpington
-crowhurst - http://dbpedia.org/resource/Crowhurst_railway_station
-hair dresser - http://dbpedia.org/resource/Hairdresser
-cranbrook - http://dbpedia.org/resource/Cranbrook_Educational_Community
-charity - http://dbpedia.org/resource/Charitable_organization
 ostrich - http://dbpedia.org/resource/Ostrich
-hastings - http://dbpedia.org/resource/Hastings
-tenterden - http://dbpedia.org/resource/Tenterden
+central london - http://dbpedia.org/resource/Central_London
+london gatwick - http://dbpedia.org/resource/Gatwick_Airport
+london bridge - http://dbpedia.org/resource/London_Bridge
+wadhurst - http://dbpedia.org/resource/Wadhurst

@@ -1,87 +1,84 @@
-purple - http://dbpedia.org/resource/Purple
-persia - http://dbpedia.org/resource/Achaemenid_Empire
-celtic art - http://dbpedia.org/resource/Celtic_art
-ruth vincent - http://dbpedia.org/resource/Ruth_Vincent
-illumination - http://dbpedia.org/resource/Illuminated_manuscript
-town - http://dbpedia.org/resource/Market_town
-vellum - http://dbpedia.org/resource/Vellum
-northumberland - http://dbpedia.org/resource/Northumberland
-folio - http://dbpedia.org/resource/Bookbinding
-calligraphy - http://dbpedia.org/resource/Calligraphy
-lapis lazuli - http://dbpedia.org/resource/Lapis_lazuli
-iona - http://dbpedia.org/resource/Iona
-azure - http://dbpedia.org/resource/Azure_(heraldry)
-elderberry - http://dbpedia.org/resource/Sambucus
-brazil wood - http://dbpedia.org/resource/Paubrasilia
-oak gall - http://dbpedia.org/resource/Oak_apple
-brian kennedy - http://dbpedia.org/resource/Brian_K._Kennedy
-small island - http://dbpedia.org/resource/Small_Island_(novel)
-purple blue - http://dbpedia.org/resource/Purple_Blue
-o'mahony - http://dbpedia.org/resource/Duncan_O'Mahony
-runic - http://dbpedia.org/resource/Runes
-inorganic - http://dbpedia.org/resource/Inorganic_compound
-irish culture - http://dbpedia.org/resource/Culture_of_Ireland
-light - http://dbpedia.org/resource/Light
-york - http://dbpedia.org/resource/York
-art history - http://dbpedia.org/resource/Art_history
-orpiment - http://dbpedia.org/resource/Orpiment
-deep red - http://dbpedia.org/resource/Red
-bible - http://dbpedia.org/resource/Bible
-laura - http://dbpedia.org/resource/Lavra
-soot - http://dbpedia.org/resource/Soot
-sheep - http://dbpedia.org/resource/Sheep
-gum - http://dbpedia.org/resource/Gum_arabic
-scotland - http://dbpedia.org/resource/Scotland
-malachite - http://dbpedia.org/resource/Malachite
-iron - http://dbpedia.org/resource/Iron_oxide
-ashgate publishing - http://dbpedia.org/resource/Ashgate_Publishing
-lamp black - http://dbpedia.org/resource/Carbon_black
-calfskin - http://dbpedia.org/resource/Calfskin
-trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
-yellow ochre - http://dbpedia.org/resource/Ochre
-ireland - http://dbpedia.org/resource/Ireland
-pigment - http://dbpedia.org/resource/Pigment
-yellow book - http://dbpedia.org/resource/Yellow_pages
-water - http://dbpedia.org/resource/Water
-mineral - http://dbpedia.org/resource/Mineral
-felicity - http://dbpedia.org/resource/Felicity_Scully
-painting - http://dbpedia.org/resource/Painting
-monk - http://dbpedia.org/resource/Monk
-plant - http://dbpedia.org/resource/Plant
-red lead - http://dbpedia.org/resource/Lead(II,IV)_oxide
-vermont - http://dbpedia.org/resource/Vermont
-violet brown - http://dbpedia.org/resource/Violet_Brown
-washington - http://dbpedia.org/resource/University_of_Washington
-doris - http://dbpedia.org/resource/Doris_(mythology)
-skin - http://dbpedia.org/resource/Skin
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-theory - http://dbpedia.org/resource/Theory
-knotwork - http://dbpedia.org/resource/Celtic_knot
-blueberry - http://dbpedia.org/resource/Blueberry
-gall ink - http://dbpedia.org/resource/Iron_gall_ink
-shellfish - http://dbpedia.org/resource/Shellfish
-chalk - http://dbpedia.org/resource/Calcium_carbonate
-seattle university - http://dbpedia.org/resource/Seattle_University
-currency - http://dbpedia.org/resource/Currency
-font - http://dbpedia.org/resource/Typeface
-ink - http://dbpedia.org/resource/Ink
-greenish blue - http://dbpedia.org/resource/Icaricia_saepiolus
-irish art - http://dbpedia.org/resource/Irish_art
-goat - http://dbpedia.org/resource/Goat
 dye - http://dbpedia.org/resource/Dye
-calf - http://dbpedia.org/resource/Calfskin
-ratio - http://dbpedia.org/resource/Ratio
-celtic - http://dbpedia.org/resource/Celts
-national symbol - http://dbpedia.org/resource/Cedrus_libani
+oak galls - http://dbpedia.org/resource/Gall
+greenish blue - http://dbpedia.org/resource/Icaricia_saepiolus
 thames - http://dbpedia.org/resource/River_Thames
-red color - http://dbpedia.org/resource/Red_Color
-red ochre - http://dbpedia.org/resource/Ochre
+felicity - http://dbpedia.org/resource/Felicity_Scully
+ink - http://dbpedia.org/resource/Ink
+bible - http://dbpedia.org/resource/Bible
+brazil wood - http://dbpedia.org/resource/Paubrasilia
+brian kennedy - http://dbpedia.org/resource/Brian_K._Kennedy
+theory - http://dbpedia.org/resource/Theory
+small island - http://dbpedia.org/resource/Small_Island_(novel)
+iron - http://dbpedia.org/resource/Iron_oxide
+lamp black - http://dbpedia.org/resource/Carbon_black
+gall ink - http://dbpedia.org/resource/Iron_gall_ink
+goat - http://dbpedia.org/resource/Goat
+plant - http://dbpedia.org/resource/Plant
+ireland - http://dbpedia.org/resource/Ireland
+sheep - http://dbpedia.org/resource/Sheep
+illuminations - http://dbpedia.org/resource/Illuminated_manuscript
+irish art - http://dbpedia.org/resource/Irish_art
+vellum - http://dbpedia.org/resource/Vellum
 church - http://dbpedia.org/resource/Catholic_Church
-time book - http://dbpedia.org/resource/Time_book
-mauve - http://dbpedia.org/resource/Mauve
-paper - http://dbpedia.org/resource/Paper
-lichen - http://dbpedia.org/resource/Lichen
+lichens - http://dbpedia.org/resource/Lichen
+azure - http://dbpedia.org/resource/Azure_(heraldry)
+skins - http://dbpedia.org/resource/Skin
+shellfish - http://dbpedia.org/resource/Shellfish
+red ochre - http://dbpedia.org/resource/Ochre
+inorganic - http://dbpedia.org/resource/Inorganic_compound
+skin - http://dbpedia.org/resource/Skin
+o'mahony - http://dbpedia.org/resource/Duncan_O'Mahony
+currency - http://dbpedia.org/resource/Currency
+celtic - http://dbpedia.org/resource/Celts
+red color - http://dbpedia.org/resource/Red_Color
+irish culture - http://dbpedia.org/resource/Culture_of_Ireland
+laura - http://dbpedia.org/resource/Lavra
+mineral - http://dbpedia.org/resource/Mineral
+violet brown - http://dbpedia.org/resource/Violet_Brown
+deep red - http://dbpedia.org/resource/Red
+seattle university - http://dbpedia.org/resource/Seattle_University
+celtic art - http://dbpedia.org/resource/Celtic_art
+gum - http://dbpedia.org/resource/Gum_arabic
+york - http://dbpedia.org/resource/York
+trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
+persia - http://dbpedia.org/resource/Achaemenid_Empire
+soot - http://dbpedia.org/resource/Soot
+blueberries - http://dbpedia.org/resource/Blueberry
+elderberries - http://dbpedia.org/resource/Sambucus
+light - http://dbpedia.org/resource/Light
+vermont - http://dbpedia.org/resource/Vermont
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
 columban - http://dbpedia.org/resource/Columba
-bone - http://dbpedia.org/resource/Bone
-copper - http://dbpedia.org/resource/Copper
+malachite - http://dbpedia.org/resource/Malachite
+national symbol - http://dbpedia.org/resource/Cedrus_libani
+runic - http://dbpedia.org/resource/Runes
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+pigments - http://dbpedia.org/resource/Pigment
+town - http://dbpedia.org/resource/Market_town
+scotland - http://dbpedia.org/resource/Scotland
+calfskin - http://dbpedia.org/resource/Calfskin
+ashgate publishing - http://dbpedia.org/resource/Ashgate_Publishing
+font - http://dbpedia.org/resource/Baptismal_font
 sulfite - http://dbpedia.org/resource/Sulfite
+purple - http://dbpedia.org/resource/Purple
+lapis lazuli - http://dbpedia.org/resource/Lapis_lazuli
+northumberland - http://dbpedia.org/resource/Northumberland
+paper - http://dbpedia.org/resource/Paper
+doris - http://dbpedia.org/resource/Doris_(mythology)
+purple blue - http://dbpedia.org/resource/Purple_Blue
+art history - http://dbpedia.org/resource/Art_history
+copper - http://dbpedia.org/resource/Copper
+knotwork - http://dbpedia.org/resource/Celtic_knot
+pigment - http://dbpedia.org/resource/Pigment
+orpiment - http://dbpedia.org/resource/Orpiment
+water - http://dbpedia.org/resource/Water
+dyes - http://dbpedia.org/resource/Dye
+washington - http://dbpedia.org/resource/University_of_Washington
+yellow ochre - http://dbpedia.org/resource/Ochre
+calves - http://dbpedia.org/resource/Calf
+calligraphy - http://dbpedia.org/resource/Calligraphy
+painting - http://dbpedia.org/resource/Painting
+iona - http://dbpedia.org/resource/Iona
+red lead - http://dbpedia.org/resource/Lead(II,IV)_oxide
+mauve - http://dbpedia.org/resource/Mauve
+folios - http://dbpedia.org/resource/Bookbinding

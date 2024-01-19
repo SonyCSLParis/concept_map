@@ -1,10 +1,10 @@
-building 7 - http://dbpedia.org/resource/7_World_Trade_Center
-firefighter - http://dbpedia.org/resource/Firefighter
-september 11 2001 - http://dbpedia.org/resource/September_11_attacks
-larry silverstein - http://dbpedia.org/resource/Larry_Silverstein
-silverstein - http://dbpedia.org/resource/Silverstein_Properties
-history channel - http://dbpedia.org/resource/History_(American_TV_channel)
-9/11 truth - http://dbpedia.org/resource/11_Truth_movement
-elusive - http://dbpedia.org/resource/Elusive
 pbs - http://dbpedia.org/resource/PBS
+history channel - http://dbpedia.org/resource/History_(American_TV_channel)
+larry silverstein - http://dbpedia.org/resource/Larry_Silverstein
+building 7 - http://dbpedia.org/resource/7_World_Trade_Center
+silverstein - http://dbpedia.org/resource/Silverstein_Properties
+september 11 2001 - http://dbpedia.org/resource/September_11_attacks
+elusive - http://dbpedia.org/resource/Elusive
 documentary - http://dbpedia.org/resource/Documentary_film
+9/11 truth - http://dbpedia.org/resource/11_Truth_movement
+firefighters - http://dbpedia.org/resource/New_York_City_Fire_Department

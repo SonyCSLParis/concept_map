@@ -9,9 +9,7 @@ constantinople - http://dbpedia.org/resource/Byzantine_Empire
 eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
 late antiquity - http://dbpedia.org/resource/Late_antiquity
 western roman empire - http://dbpedia.org/resource/Roman_Empire
-curate - http://dbpedia.org/resource/Curator
 allison - http://dbpedia.org/resource/Allison_Engine_Company
-curate - http://dbpedia.org/resource/Curator
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
@@ -26,9 +24,7 @@ codification - http://dbpedia.org/resource/Codification_(law)
 roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis
 justinian - http://dbpedia.org/resource/Justinian_I
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
-sift - http://dbpedia.org/resource/Scale-invariant_feature_transform
-legal precedent - http://dbpedia.org/resource/Precedent
-edict - http://dbpedia.org/resource/Edict
+tangles - http://dbpedia.org/resource/Neurofibrillary_tangle
 coherent - http://dbpedia.org/resource/Laser
 jurisprudence - http://dbpedia.org/resource/Jurisprudence
 corpus juris civilis - http://dbpedia.org/resource/Corpus_Juris_Civilis
@@ -42,33 +38,26 @@ history journal - http://dbpedia.org/resource/History_journal
 medieval - http://dbpedia.org/resource/Middle_Ages
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
 culture - http://dbpedia.org/resource/Culture
-spirituality - http://dbpedia.org/resource/Spirituality
+spirituality - http://dbpedia.org/resource/Christian_mysticism
 byzantine art - http://dbpedia.org/resource/Byzantine_art
 spiritual - http://dbpedia.org/resource/Spirituality
 church - http://dbpedia.org/resource/Christian_Church
 religious art - http://dbpedia.org/resource/Religious_art
 veneration - http://dbpedia.org/resource/Relic
-chalice - http://dbpedia.org/resource/Chalice
-paten - http://dbpedia.org/resource/Paten
 eucharist - http://dbpedia.org/resource/Eucharist
-liturgical book - http://dbpedia.org/resource/Liturgical_book
-reliquary - http://dbpedia.org/resource/Relic
+liturgical - http://dbpedia.org/resource/Liturgy
+reliquaries - http://dbpedia.org/resource/Reliquary
 sacred - http://dbpedia.org/resource/Sacred
-artifact - http://dbpedia.org/resource/Cultural_artifact
+artifacts - http://dbpedia.org/resource/Cultural_artifact
 article - http://dbpedia.org/resource/Historicity_of_Jesus
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 daphne - http://dbpedia.org/resource/Daphne
 hippodrome - http://dbpedia.org/resource/Hippodrome_of_Constantinople
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 city - http://dbpedia.org/resource/City
-sidewalk - http://dbpedia.org/resource/Sidewalk
-pedestrian - http://dbpedia.org/resource/Pedestrian
-merchant - http://dbpedia.org/resource/Merchant
-city - http://dbpedia.org/resource/City
-forum - http://dbpedia.org/resource/Roman_Forum
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 forum - http://dbpedia.org/resource/Roman_Forum
-roman forum - http://dbpedia.org/resource/Roman_Forum
+roman - http://dbpedia.org/resource/Roman_Empire
 bronze - http://dbpedia.org/resource/Bronze
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 god - http://dbpedia.org/resource/Deity
@@ -77,7 +66,6 @@ article - http://dbpedia.org/resource/Historicity_of_Jesus
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 macedonian - http://dbpedia.org/resource/Ancient_Macedonians
-emperor - http://dbpedia.org/resource/Byzantine_Empire
 pressure - http://dbpedia.org/resource/Pressure
 roman church - http://dbpedia.org/resource/Romanesque_architecture
 patriarch photios - http://dbpedia.org/resource/Photios_I_of_Constantinople
@@ -99,7 +87,7 @@ dome - http://dbpedia.org/resource/Dome
 syriac - http://dbpedia.org/resource/Syriac_language
 church - http://dbpedia.org/resource/Christian_Church
 dome - http://dbpedia.org/resource/Dome
-heaven - http://dbpedia.org/resource/Heaven
+heaven - http://dbpedia.org/resource/Tian
 holy spirit - http://dbpedia.org/resource/Holy_Spirit
 liturgical - http://dbpedia.org/resource/Liturgy
 article - http://dbpedia.org/resource/Historicity_of_Jesus
@@ -113,12 +101,11 @@ roman - http://dbpedia.org/resource/Roman_Empire
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 consumption - http://dbpedia.org/resource/Consumerism
 court - http://dbpedia.org/resource/Royal_court
-hierarchy - http://dbpedia.org/resource/Hierarchy
+hierarchies - http://dbpedia.org/resource/Hierarchy
 church - http://dbpedia.org/resource/Christian_Church
 article - http://dbpedia.org/resource/Historicity_of_Jesus
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 roman - http://dbpedia.org/resource/Roman_Empire
-root - http://dbpedia.org/resource/Semitic_root
 culture - http://dbpedia.org/resource/Culture
 language - http://dbpedia.org/resource/Latin
 hellenization - http://dbpedia.org/resource/Hellenization
@@ -141,7 +128,7 @@ renaissance italy - http://dbpedia.org/resource/Renaissance
 early modern europe - http://dbpedia.org/resource/Early_modern_Europe
 article - http://dbpedia.org/resource/Historicity_of_Jesus
 constantine - http://dbpedia.org/resource/Constantine_the_Great
-east rome - http://dbpedia.org/resource/Rome_High_School
+rome - http://dbpedia.org/resource/Roman_Empire
 rome - http://dbpedia.org/resource/Roman_Empire
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 christianity - http://dbpedia.org/resource/Christianity
@@ -149,11 +136,8 @@ christianity - http://dbpedia.org/resource/Christianity
 amazing - http://dbpedia.org/resource/Earth-616
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 christ - http://dbpedia.org/resource/Jesus
-cult - http://dbpedia.org/resource/Imperial_cult_of_ancient_Rome
 article - http://dbpedia.org/resource/Historicity_of_Jesus
-coin - http://dbpedia.org/resource/Roman_currency
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
-coin - http://dbpedia.org/resource/Roman_currency
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 allison - http://dbpedia.org/resource/Allison_Engine_Company
 constantine - http://dbpedia.org/resource/Constantine_the_Great
@@ -163,20 +147,15 @@ encyclopedia - http://dbpedia.org/resource/Encyclopedia
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 longevity - http://dbpedia.org/resource/Longevity
-historian - http://dbpedia.org/resource/History
 roman empire - http://dbpedia.org/resource/Byzantine_Empire
 iceland - http://dbpedia.org/resource/Iceland
 ceylon - http://dbpedia.org/resource/Dutch_Ceylon
 article - http://dbpedia.org/resource/Historicity_of_Jesus
-coin - http://dbpedia.org/resource/Roman_currency
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
-coin - http://dbpedia.org/resource/Roman_currency
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 roman - http://dbpedia.org/resource/Roman_Empire
-authority control - http://dbpedia.org/resource/Authority_control
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
 roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis
-law preservation - http://dbpedia.org/resource/Law_Preservation_Party
 christianity - http://dbpedia.org/resource/Christianity
 article - http://dbpedia.org/resource/Historicity_of_Jesus
 clio - http://dbpedia.org/resource/Clio

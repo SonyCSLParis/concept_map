@@ -1,30 +1,26 @@
 tomm moore - http://dbpedia.org/resource/Tomm_Moore
 october 5 - http://dbpedia.org/resource/October_5
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-independent - http://dbpedia.org/resource/Independent_film
-animate film - http://dbpedia.org/resource/Animate
+independent animated - http://dbpedia.org/resource/Independent_animation
 ireland - http://dbpedia.org/resource/Ireland
 2009 academy awards - http://dbpedia.org/resource/82nd_Academy_Awards
 hayao miyazaki - http://dbpedia.org/resource/Hayao_Miyazaki
 ponyo - http://dbpedia.org/resource/Ponyo
-animate - http://dbpedia.org/resource/Animation
-feature film - http://dbpedia.org/resource/Feature_film
+animated feature film - http://dbpedia.org/resource/Animation
 underdog - http://dbpedia.org/resource/Underdog
 pixar - http://dbpedia.org/resource/Pixar
 henry selick - http://dbpedia.org/resource/Henry_Selick
 coraline - http://dbpedia.org/resource/Coraline
-disney princess - http://dbpedia.org/resource/Disney_Princess
+disney - http://dbpedia.org/resource/The_Walt_Disney_Company
 frog - http://dbpedia.org/resource/The_Frog_Prince
 wes anderson - http://dbpedia.org/resource/Wes_Anderson
 fox - http://dbpedia.org/resource/Kitsune
 tomm moore - http://dbpedia.org/resource/Tomm_Moore
 oscar - http://dbpedia.org/resource/Oscar_(fish)
 race - http://dbpedia.org/resource/Racing
-ton - http://dbpedia.org/resource/Ton
-animation - http://dbpedia.org/resource/Animation
-cull - http://dbpedia.org/resource/Culling
+animation - http://dbpedia.org/resource/Traditional_animation
 celtic - http://dbpedia.org/resource/Celtic_music
-aesthetic - http://dbpedia.org/resource/Aesthetics
+aesthetics - http://dbpedia.org/resource/Aesthetics
 york - http://dbpedia.org/resource/York
 city - http://dbpedia.org/resource/City
 kells - http://dbpedia.org/resource/Abbey_of_Kells
@@ -36,19 +32,15 @@ tm - http://dbpedia.org/resource/Transcendental_Meditation
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 national treasure - http://dbpedia.org/resource/National_treasure
 ireland - http://dbpedia.org/resource/Ireland
-high point - http://dbpedia.org/resource/High_Point_University
 medieval art - http://dbpedia.org/resource/Medieval_art
 medieval art - http://dbpedia.org/resource/Medieval_art
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
-bone - http://dbpedia.org/resource/Bone
+bone - http://dbpedia.org/resource/Baleen
 bill watterson - http://dbpedia.org/resource/Bill_Watterson
-painting - http://dbpedia.org/resource/Painting
 painter - http://dbpedia.org/resource/Painting
 gustav klimt - http://dbpedia.org/resource/Gustav_Klimt
 alphonse mucha - http://dbpedia.org/resource/Alphonse_Mucha
-poster artist - http://dbpedia.org/resource/Poster
 art nouveau - http://dbpedia.org/resource/Art_Nouveau
-animate - http://dbpedia.org/resource/Animation
+animated feature - http://dbpedia.org/resource/Animation
 cobbler - http://dbpedia.org/resource/Shoemaking
 richard williams - http://dbpedia.org/resource/Richard_Garnons_Williams
 animation director - http://dbpedia.org/resource/Animation_director
@@ -56,16 +48,15 @@ genndy tartakovsky - http://dbpedia.org/resource/Genndy_Tartakovsky
 samurai - http://dbpedia.org/resource/Samurai
 jack - http://dbpedia.org/resource/Jackfruit
 tm - http://dbpedia.org/resource/Transcendental_Meditation
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
 samurai - http://dbpedia.org/resource/Samurai
 jack - http://dbpedia.org/resource/Jackfruit
-animation - http://dbpedia.org/resource/Animation
-confine - http://dbpedia.org/resource/Confine
+animation - http://dbpedia.org/resource/Traditional_animation
+confines - http://dbpedia.org/resource/Angol
 eastern european - http://dbpedia.org/resource/Eastern_Europe
-animation - http://dbpedia.org/resource/Animation
+animation - http://dbpedia.org/resource/Traditional_animation
 hungary - http://dbpedia.org/resource/Hungary
 hungary - http://dbpedia.org/resource/Hungary
-animation - http://dbpedia.org/resource/Animation
+animation - http://dbpedia.org/resource/Traditional_animation
 ivan - http://dbpedia.org/resource/Ivan_the_Terrible
 german expressionism - http://dbpedia.org/resource/German_Expressionism
 tm - http://dbpedia.org/resource/Transcendental_Meditation
@@ -74,19 +65,17 @@ cg animation - http://dbpedia.org/resource/Computer-generated_imagery
 mimic - http://dbpedia.org/resource/Imitation
 live action - http://dbpedia.org/resource/Live_action
 filmmaking - http://dbpedia.org/resource/Filmmaking
-character animation - http://dbpedia.org/resource/Character_animation
+cartoon - http://dbpedia.org/resource/Animation
+animation - http://dbpedia.org/resource/Traditional_animation
 language - http://dbpedia.org/resource/Language
 live action - http://dbpedia.org/resource/Live_action
 filmmaking - http://dbpedia.org/resource/Filmmaking
 2d animation - http://dbpedia.org/resource/Traditional_animation
-triptych - http://dbpedia.org/resource/Triptych
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 tm - http://dbpedia.org/resource/Transcendental_Meditation
-function - http://dbpedia.org/resource/Role
 comic book - http://dbpedia.org/resource/Comic_book
-cloister - http://dbpedia.org/resource/Monastery
+cloisters - http://dbpedia.org/resource/Cloister
 york - http://dbpedia.org/resource/York
-triptych - http://dbpedia.org/resource/Triptych
 medieval art - http://dbpedia.org/resource/Medieval_art
 york - http://dbpedia.org/resource/York
 times square - http://dbpedia.org/resource/Times_Square
@@ -100,19 +89,18 @@ bit - http://dbpedia.org/resource/Sketch_comedy
 bit - http://dbpedia.org/resource/Sketch_comedy
 comic con - http://dbpedia.org/resource/Comic_book_convention
 kells - http://dbpedia.org/resource/Abbey_of_Kells
+storytelling - http://dbpedia.org/resource/Storytelling
 visual storytelling - http://dbpedia.org/resource/Visual_narrative
-animation - http://dbpedia.org/resource/Animation
-computer - http://dbpedia.org/resource/Computer_animation
-animation - http://dbpedia.org/resource/Animation
+hand drawn animation - http://dbpedia.org/resource/Traditional_animation
+computer generated animation - http://dbpedia.org/resource/Computer_animation
 tm - http://dbpedia.org/resource/Transcendental_Meditation
 love - http://dbpedia.org/resource/Love
 realism - http://dbpedia.org/resource/Social_realism
 2d animation - http://dbpedia.org/resource/Traditional_animation
-animation - http://dbpedia.org/resource/Animation
+animation - http://dbpedia.org/resource/Traditional_animation
 2d animation - http://dbpedia.org/resource/Traditional_animation
 motion - http://dbpedia.org/resource/Film
-animation - http://dbpedia.org/resource/Animation
-love - http://dbpedia.org/resource/Love
+animation - http://dbpedia.org/resource/Traditional_animation
 aisling - http://dbpedia.org/resource/Aisling
 tm - http://dbpedia.org/resource/Transcendental_Meditation
 aisling - http://dbpedia.org/resource/Aisling
@@ -128,11 +116,8 @@ goddess - http://dbpedia.org/resource/Celtic_mythology
 adoration - http://dbpedia.org/resource/Eucharistic_adoration
 virgin mary - http://dbpedia.org/resource/Veneration_of_Mary_in_the_Catholic_Church
 celtic revival - http://dbpedia.org/resource/Celtic_Revival
-poem - http://dbpedia.org/resource/Poetry
-aisle - http://dbpedia.org/resource/Aisle
-poem - http://dbpedia.org/resource/Poetry
-aisle - http://dbpedia.org/resource/Aisle
-dream vision - http://dbpedia.org/resource/Dream_vision
+aisling - http://dbpedia.org/resource/Aisling
+aisling - http://dbpedia.org/resource/Aisling
 tm - http://dbpedia.org/resource/Transcendental_Meditation
 poet - http://dbpedia.org/resource/Poetry
 ireland - http://dbpedia.org/resource/Ireland
@@ -148,21 +133,17 @@ ireland - http://dbpedia.org/resource/Ireland
 rural - http://dbpedia.org/resource/Rural_area
 ireland - http://dbpedia.org/resource/Ireland
 pagan - http://dbpedia.org/resource/Paganism
-fairy - http://dbpedia.org/resource/Fairy_tale
-mingle - http://dbpedia.org/resource/ThoughtWorks
+fairies - http://dbpedia.org/resource/Fairy
 catholicism - http://dbpedia.org/resource/Catholic_Church
 faith - http://dbpedia.org/resource/Faith
 faith - http://dbpedia.org/resource/Faith
-mingle - http://dbpedia.org/resource/ThoughtWorks
 ireland - http://dbpedia.org/resource/Ireland
 truth - http://dbpedia.org/resource/Truth
 catholicism - http://dbpedia.org/resource/Catholic_Church
-catholic christian - http://dbpedia.org/resource/Catholic_Church
+catholic - http://dbpedia.org/resource/Catholic_Church
 allegory - http://dbpedia.org/resource/Allegory
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-film production - http://dbpedia.org/resource/Filmmaking
 oscar campaign - http://dbpedia.org/resource/Academy_Awards
-rely - http://dbpedia.org/resource/Rely_(brand)
 viral advertising - http://dbpedia.org/resource/Viral_marketing
 blogosphere - http://dbpedia.org/resource/Blogosphere
 tm - http://dbpedia.org/resource/Transcendental_Meditation
@@ -171,9 +152,9 @@ diary - http://dbpedia.org/resource/Diary
 blog - http://dbpedia.org/resource/Blog
 marketing - http://dbpedia.org/resource/Marketing
 bit - http://dbpedia.org/resource/Sketch_comedy
-animation - http://dbpedia.org/resource/Animation
+animation - http://dbpedia.org/resource/Traditional_animation
 blogosphere - http://dbpedia.org/resource/Blogosphere
-blog - http://dbpedia.org/resource/Blog
+blogs - http://dbpedia.org/resource/Blog
 twitter - http://dbpedia.org/resource/Twitter
 curtain - http://dbpedia.org/resource/Iron_Curtain
 animated film - http://dbpedia.org/resource/Animation
@@ -181,15 +162,15 @@ tm - http://dbpedia.org/resource/Transcendental_Meditation
 disney - http://dbpedia.org/resource/The_Walt_Disney_Company
 robin hood - http://dbpedia.org/resource/Robin_Hood
 don bluth - http://dbpedia.org/resource/Don_Bluth
-cartoon - http://dbpedia.org/resource/Animation
+cartoons - http://dbpedia.org/resource/Animation
 ireland - http://dbpedia.org/resource/Ireland
 don bluth - http://dbpedia.org/resource/Don_Bluth
 everytime - http://dbpedia.org/resource/Everytime
 town - http://dbpedia.org/resource/Market_town
-animation - http://dbpedia.org/resource/Animation
+animation - http://dbpedia.org/resource/Traditional_animation
 ireland - http://dbpedia.org/resource/Ireland
 nimh - http://dbpedia.org/resource/Nickel–metal_hydride_battery
-animate - http://dbpedia.org/resource/Animation
+animated feature - http://dbpedia.org/resource/Animation
 tm - http://dbpedia.org/resource/Transcendental_Meditation
 hayao miyazaki - http://dbpedia.org/resource/Hayao_Miyazaki
 animated feature - http://dbpedia.org/resource/Animation
@@ -197,10 +178,9 @@ love - http://dbpedia.org/resource/Love
 oscar - http://dbpedia.org/resource/Oscar_(fish)
 tm - http://dbpedia.org/resource/Transcendental_Meditation
 chuckles - http://dbpedia.org/resource/List_of_Toy_Story_characters
-love - http://dbpedia.org/resource/Love
 ponyo - http://dbpedia.org/resource/Ponyo
 hoodie - http://dbpedia.org/resource/Hoodie
-oscar party - http://dbpedia.org/resource/Oscar_party
+oscar - http://dbpedia.org/resource/Oscar_(fish)
 bit - http://dbpedia.org/resource/Sketch_comedy
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 surreal - http://dbpedia.org/resource/Surrealism
@@ -213,7 +193,7 @@ art director - http://dbpedia.org/resource/Art
 ross stewart - http://dbpedia.org/resource/Ross_C._Stewart
 trailer - http://dbpedia.org/resource/Teaser_campaign
 trailer - http://dbpedia.org/resource/Teaser_campaign
-animation - http://dbpedia.org/resource/Animation
+animation - http://dbpedia.org/resource/Traditional_animation
 prequel - http://dbpedia.org/resource/Star_Wars
 tm - http://dbpedia.org/resource/Transcendental_Meditation
 prequel - http://dbpedia.org/resource/Star_Wars
@@ -233,7 +213,6 @@ comixology - http://dbpedia.org/resource/ComiXology
 printing - http://dbpedia.org/resource/Printing
 eye - http://dbpedia.org/resource/Eye
 tm - http://dbpedia.org/resource/Transcendental_Meditation
-legend - http://dbpedia.org/resource/Urban_legend
 irish history - http://dbpedia.org/resource/History_of_Ireland
 melancholy - http://dbpedia.org/resource/Melancholia
 selkie - http://dbpedia.org/resource/Selkie
@@ -242,10 +221,10 @@ legend - http://dbpedia.org/resource/Urban_legend
 irish folklore - http://dbpedia.org/resource/Irish_mythology
 landscape - http://dbpedia.org/resource/Landscape_painting
 bit - http://dbpedia.org/resource/Sketch_comedy
+fading - http://dbpedia.org/resource/Fading
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-aspire - http://dbpedia.org/resource/Acer_Aspire
-animator - http://dbpedia.org/resource/Animation
 tm - http://dbpedia.org/resource/Transcendental_Meditation
+learning - http://dbpedia.org/resource/Learning
 animator - http://dbpedia.org/resource/Animation
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 blu - http://dbpedia.org/resource/Blu_eCigs
@@ -255,5 +234,4 @@ kells - http://dbpedia.org/resource/Abbey_of_Kells
 comixology - http://dbpedia.org/resource/ComiXology
 tomm moore - http://dbpedia.org/resource/Tomm_Moore
 comic con - http://dbpedia.org/resource/Comic_book_convention
-autograph - http://dbpedia.org/resource/Autograph
 kells - http://dbpedia.org/resource/Abbey_of_Kells

@@ -1,1222 +1,1164 @@
-primitive baptists - http://dbpedia.org/resource/Primitive_Baptists
+pulpit - http://dbpedia.org/resource/Pulpit
 
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-
-fertility - http://dbpedia.org/resource/Soil_fertility
-
-issn - http://dbpedia.org/resource/International_Standard_Book_Number
-
-bylaw - http://dbpedia.org/resource/By-law
-
-latitude - http://dbpedia.org/resource/Latitude
-
-sea level - http://dbpedia.org/resource/Sea_level
-
-philadelphia - http://dbpedia.org/resource/Philadelphia
-
-die - http://dbpedia.org/resource/Death
-
-spencer cemetery - http://dbpedia.org/resource/Spencer_Cemetery
-
-wood floor - http://dbpedia.org/resource/Wood_flooring
-
-church house - http://dbpedia.org/resource/Church_House_Publishing
-
-3 group - http://dbpedia.org/resource/No._3_Group_RAF
-
-john wesley - http://dbpedia.org/resource/John_Wesley
-
-aerial image - http://dbpedia.org/resource/Aerial_image
-
-chain bridge - http://dbpedia.org/resource/Suspension_bridge
-
-craftsman style - http://dbpedia.org/resource/American_Craftsman
-
-alloy - http://dbpedia.org/resource/Alloy
-
-peripatetic - http://dbpedia.org/resource/Nomad
-
-grain - http://dbpedia.org/resource/Paper
-
-marla - http://dbpedia.org/resource/Marla_(unit)
-
-doh - http://dbpedia.org/resource/Health_department
-
-wnw - http://dbpedia.org/resource/Points_of_the_compass
-
-county commission - http://dbpedia.org/resource/County_commission
-
-berkeley county - http://dbpedia.org/resource/Berkeley_County,_West_Virginia
-
-clapboard - http://dbpedia.org/resource/Clapperboard
-
-greco - http://dbpedia.org/resource/Greek_Revival_architecture
-
-morgantown - http://dbpedia.org/resource/Morgantown_High_School
-
-schwarzenau brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
-
-revenue - http://dbpedia.org/resource/Revenue
-
-rural - http://dbpedia.org/resource/Rural_area
-
-netherlands - http://dbpedia.org/resource/Netherlands
-
-sanctuary - http://dbpedia.org/resource/Sanctuary
-
-blessing - http://dbpedia.org/resource/Blessing
-
-hyatt - http://dbpedia.org/resource/Hyatt
-
-thomas fairfax - http://dbpedia.org/resource/Thomas_Fairfax
-
-high view - http://dbpedia.org/resource/High_View,_West_Virginia
-
-romney - http://dbpedia.org/resource/New_Romney
-
-justification - http://dbpedia.org/resource/Defamation
-
-monument - http://dbpedia.org/resource/Monument
-
-helton - http://dbpedia.org/resource/Helton_Arruda
-
-lap siding - http://dbpedia.org/resource/Siding
-
-slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-christian denomination - http://dbpedia.org/resource/Christian_denomination
-
-york - http://dbpedia.org/resource/York
-
-mansfield - http://dbpedia.org/resource/Mansfield
-
-ms - http://dbpedia.org/resource/Millisecond
-
-rt - http://dbpedia.org/resource/Radiotelephone
-
-church window - http://dbpedia.org/resource/Church_window
-
-meter - http://dbpedia.org/resource/Metre
-
-denomination - http://dbpedia.org/resource/Christian_denomination
-
-rail - http://dbpedia.org/resource/Handrail
-
-interment site - http://dbpedia.org/resource/Burial
-
-upright piano - http://dbpedia.org/resource/Piano
-
-hampshire - http://dbpedia.org/resource/Hampshire
-
-ohio - http://dbpedia.org/resource/Ohio
-
-wastewater treatment facility - http://dbpedia.org/resource/Wastewater
-
-shareholder - http://dbpedia.org/resource/Shareholder
-
-weatherboard - http://dbpedia.org/resource/Clapboard_(architecture)
-
-louise - http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz
-
-gable - http://dbpedia.org/resource/Gable
-
-megalithic - http://dbpedia.org/resource/Megalith
-
-urban - http://dbpedia.org/resource/Urban_park
-
-tree - http://dbpedia.org/resource/Tree
-
-newsletter - http://dbpedia.org/resource/Newsletter
-
-architectural drawing - http://dbpedia.org/resource/Architectural_drawing
-
-william jackson - http://dbpedia.org/resource/Jackson_of_Exeter
-
-mount bethel church - http://dbpedia.org/resource/Mount_Bethel_Church_(Three_Churches,_West_Virginia)
-
-american civil war - http://dbpedia.org/resource/American_Civil_War
-
-capon - http://dbpedia.org/resource/Capon
-
-agriculture - http://dbpedia.org/resource/Agriculture
-
-bungalow - http://dbpedia.org/resource/Bungalow
-
-google books - http://dbpedia.org/resource/Google_Books
-
-highland district - http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_St_Andrews_and_Edinburgh
-
-tile - http://dbpedia.org/resource/Tile
-
-charleston - http://dbpedia.org/resource/Hi-hat
-
-bit.ly - http://dbpedia.org/resource/Bitly
-
-symposium - http://dbpedia.org/resource/Symposium
-
-wind - http://dbpedia.org/resource/Wind
-
-timber - http://dbpedia.org/resource/Timber_framing
-
-stele - http://dbpedia.org/resource/Headstone
-
-headstone - http://dbpedia.org/resource/Headstone
-
-cornelia - http://dbpedia.org/resource/Cornelia_Metella
-
-birth certificate - http://dbpedia.org/resource/Birth_certificate
-
-jackson county - http://dbpedia.org/resource/Jackson_County,_Missouri
-
-roberta - http://dbpedia.org/resource/Roberta_Williams
-
-mosque - http://dbpedia.org/resource/Mosque
-
-jefferson county - http://dbpedia.org/resource/Jefferson_County,_Kentucky
-
-winchester - http://dbpedia.org/resource/Winchester
-
-historical society - http://dbpedia.org/resource/Historical_society
-
-va 7 - http://dbpedia.org/resource/Virginia_State_Route_7
-
-8/11 - http://dbpedia.org/resource/Odds
-
-lord fairfax - http://dbpedia.org/resource/Thomas_Fairfax
-
-rural area - http://dbpedia.org/resource/Rural_area
-
-vernacular - http://dbpedia.org/resource/Vernacular_architecture
-
-attic - http://dbpedia.org/resource/Attic
-
-chimney - http://dbpedia.org/resource/Chimney
-
-chicken wire - http://dbpedia.org/resource/Chicken_wire
-
-plasterboard - http://dbpedia.org/resource/Drywall
-
-food pantry - http://dbpedia.org/resource/Food_bank
-
-january 23 - http://dbpedia.org/resource/January_23
-
-sesquicentennial - http://dbpedia.org/resource/Anniversary
-
-quiz - http://dbpedia.org/resource/Quiz
-
-pronunciation - http://dbpedia.org/resource/International_Phonetic_Alphabet
-
-springs - http://dbpedia.org/resource/Mineral_spring
-
-heritage - http://dbpedia.org/resource/Tradition
-
-tenon - http://dbpedia.org/resource/Mortise_and_tenon
-
-franklin - http://dbpedia.org/resource/The_Franklin's_Tale
-
-historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
-
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
-
-joseph - http://dbpedia.org/resource/Joseph_Smith
-
-meat - http://dbpedia.org/resource/Lamb_and_mutton
-
-judy rose - http://dbpedia.org/resource/Judy_Rose
-
-4/11 - http://dbpedia.org/resource/Odds
+machine learning - http://dbpedia.org/resource/Machine_learning
 
 mount freedom - http://dbpedia.org/resource/Mount_Freedom,_New_Jersey
 
-shiloh - http://dbpedia.org/resource/Battle_of_Shiloh
+va - http://dbpedia.org/resource/Virginia
 
-church - http://dbpedia.org/resource/Church_service
+cumberland - http://dbpedia.org/resource/Cumberland_River
 
-plaster - http://dbpedia.org/resource/Stucco
+scott smith - http://dbpedia.org/resource/Scott_Smith_(fighter)
 
-chapel - http://dbpedia.org/resource/Place_of_worship
+cattle - http://dbpedia.org/resource/Cattle
 
-façade - http://dbpedia.org/resource/Facade
-
-village - http://dbpedia.org/resource/Administrative_divisions_of_Wisconsin
-
-rock - http://dbpedia.org/resource/Rock_music
-
-dunker - http://dbpedia.org/resource/Wilhelm_Dunker
-
-greenbrier - http://dbpedia.org/resource/Smilax
-
-central united methodist church - http://dbpedia.org/resource/Central_United_Methodist_Church_(Detroit)
-
-kerns - http://dbpedia.org/resource/Kern_(soldier)
-
-lutheran church - http://dbpedia.org/resource/Evangelical_Lutheran_Church_in_America
-
-fellowship - http://dbpedia.org/resource/Koinonia
-god bless - http://dbpedia.org/resource/God_Bless
-
-cluster - http://dbpedia.org/resource/Cluster_analysis
-
-shepherdstown - http://dbpedia.org/resource/Battle_of_Shepherdstown
-
-motion - http://dbpedia.org/resource/Film
-
-library - http://dbpedia.org/resource/Library
-
-p.o. box - http://dbpedia.org/resource/Post_office_box
-
-structural element - http://dbpedia.org/resource/Structural_element
-
-gravestone - http://dbpedia.org/resource/Headstone
-
-lay minister - http://dbpedia.org/resource/Laity
-
-bungoma - http://dbpedia.org/resource/Bungoma
-
-baptist - http://dbpedia.org/resource/Baptists
-morgan - http://dbpedia.org/resource/Morgan_Grimes
-
-mill creek mountain - http://dbpedia.org/resource/Mill_Creek_Mountain
-
-sandra - http://dbpedia.org/resource/List_of_Heroes_characters
-
-northern neck proprietary - http://dbpedia.org/resource/Northern_Neck_Proprietary
-
-bark - http://dbpedia.org/resource/Birch_bark
-
-county route 5 - http://dbpedia.org/resource/New_York_State_Route_95
-
-pearlitic - http://dbpedia.org/resource/Pearlite
-
-joan walker - http://dbpedia.org/resource/Joan_Walker
-
-obelisk - http://dbpedia.org/resource/Obelisk
-
-social history - http://dbpedia.org/resource/Social_history
-
-pendleton county - http://dbpedia.org/resource/Pendleton_County,_West_Virginia
-
-town - http://dbpedia.org/resource/New_England_town
-
-methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church
-
-purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
-
-hampshire - http://dbpedia.org/resource/Hampshire_county_cricket_teams
-
-maxwell - http://dbpedia.org/resource/Maxwell_(unit)
-
-larry anderson - http://dbpedia.org/resource/Larry_Anderson_(actor)
-
-sbc - http://dbpedia.org/resource/Southern_Baptist_Convention
-
-object - http://dbpedia.org/resource/Object-oriented_programming
-
-foundation stone - http://dbpedia.org/resource/Cornerstone
-
-buffington island - http://dbpedia.org/resource/Buffington_Island
-
-church - http://dbpedia.org/resource/Church_architecture
-
-ene - http://dbpedia.org/resource/Points_of_the_compass
-
-pin - http://dbpedia.org/resource/Pin
-
-george washington - http://dbpedia.org/resource/George_Washington
-
-meeting house - http://dbpedia.org/resource/Meeting_house
-
-paw paw - http://dbpedia.org/resource/Papaya
-
-topographic - http://dbpedia.org/resource/Topography
-
-pine - http://dbpedia.org/resource/Pine
-
-dunkard - http://dbpedia.org/resource/Schwarzenau_Brethren
-
-ha - http://dbpedia.org/resource/Hectare
-
-bluff - http://dbpedia.org/resource/Hill
-
-german baptist brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
-
-stephens city - http://dbpedia.org/resource/Stephens_City,_Virginia
-
-constitution day - http://dbpedia.org/resource/1978_Spanish_constitutional_referendum
-
-early church - http://dbpedia.org/resource/History_of_Christianity
-
-land grant - http://dbpedia.org/resource/Land_grant
-
-commonwealth - http://dbpedia.org/resource/Virginia
-
-trough - http://dbpedia.org/resource/Watering_trough
-
-caretaker - http://dbpedia.org/resource/Caregiver
-
-zip code - http://dbpedia.org/resource/ZIP_Code
-
-spiritual - http://dbpedia.org/resource/Spirituality
-
-culture history - http://dbpedia.org/resource/Culture-historical_archaeology
-
-mary - http://dbpedia.org/resource/Mary_Shelley
-
-oral - http://dbpedia.org/resource/Oral_sex
-
-pasta sauce - http://dbpedia.org/resource/Tomato_sauce
-
-golden horseshoe - http://dbpedia.org/resource/Golden_Horseshoe
-
-martha - http://dbpedia.org/resource/Martha_Jefferson_Randolph
-
-article - http://dbpedia.org/resource/Equality_Mississippi
-
-algorithm - http://dbpedia.org/resource/Algorithm
-
-egg - http://dbpedia.org/resource/Oval
-
-granite - http://dbpedia.org/resource/Granite
-
-molding - http://dbpedia.org/resource/Injection_moulding
-
-metal - http://dbpedia.org/resource/Metal
-
-accrual - http://dbpedia.org/resource/Accrual
-
-patent - http://dbpedia.org/resource/Land_grant
-
-telephone - http://dbpedia.org/resource/Telephone
-
-brethren church - http://dbpedia.org/resource/Brethren_Church
-
-anabaptist - http://dbpedia.org/resource/Anabaptism
-
-surname - http://dbpedia.org/resource/Surname
-
-clothing - http://dbpedia.org/resource/Clothing
-
-hook - http://dbpedia.org/resource/Fish_hook
-
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-hedgesville - http://dbpedia.org/resource/Hedgesville_High_School
-
-settler - http://dbpedia.org/resource/Settler
-
-selden - http://dbpedia.org/resource/John_Selden
-
-majority leader - http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate
-
-loom - http://dbpedia.org/resource/Loom
-
-winnsboro - http://dbpedia.org/resource/Winnsboro,_Louisiana
-
-folk - http://dbpedia.org/resource/Folk_art
-
-francis - http://dbpedia.org/resource/Francis_of_Assisi
-
-alexander - http://dbpedia.org/resource/Alexander_I_of_Russia
-arrow - http://dbpedia.org/resource/Arrowhead
-
-leatherman - http://dbpedia.org/resource/Leather_subculture
-
-springfield - http://dbpedia.org/resource/Springfield,_Massachusetts
-
-hotel - http://dbpedia.org/resource/Hotel
-
-attorney general office - http://dbpedia.org/resource/Attorney_General_of_Mexico
-
-john 14 - http://dbpedia.org/resource/John_14
-
-fried - http://dbpedia.org/resource/Frying
-
-mary - http://dbpedia.org/resource/Mary_II_of_England
-
-time church - http://dbpedia.org/resource/Time_Church
-
-temple - http://dbpedia.org/resource/Hindu_temple
-
-pocahontas county - http://dbpedia.org/resource/Pocahontas_County,_West_Virginia
-
-william nixon - http://dbpedia.org/resource/William_Nixon_(architect)
-
-satellite - http://dbpedia.org/resource/Weather_satellite
-
-tavern - http://dbpedia.org/resource/Tavern
-
-south carolina - http://dbpedia.org/resource/South_Carolina
-nonresistance - http://dbpedia.org/resource/Nonresistance
-
-northern neck - http://dbpedia.org/resource/Northern_Neck
-
-connecticut - http://dbpedia.org/resource/Connecticut
-pulpit - http://dbpedia.org/resource/Pulpit
-
-limestone - http://dbpedia.org/resource/Limestone
-
-settlement - http://dbpedia.org/resource/Town
-
-quadrangle - http://dbpedia.org/resource/Quadrilateral
-
-evans - http://dbpedia.org/resource/Godfrey_Evans
-
-liberty - http://dbpedia.org/resource/Liberty
-
-digitize - http://dbpedia.org/resource/Digitization
-
-law - http://dbpedia.org/resource/Law
-
-north carolina - http://dbpedia.org/resource/North_Carolina
-
-aisle - http://dbpedia.org/resource/Aisle
-
-church history - http://dbpedia.org/resource/History_of_Christianity
-
-seam - http://dbpedia.org/resource/Coal_mining
-
-maccabean period - http://dbpedia.org/resource/Maccabees
-
-fairfield county - http://dbpedia.org/resource/Fairfield_County,_Connecticut
-
-ecclesiastical - http://dbpedia.org/resource/Church_architecture
-
-metal - http://dbpedia.org/resource/Metalworking
-
-meat - http://dbpedia.org/resource/Meat
-
-anticlinal - http://dbpedia.org/resource/Anticline
-
-cupola - http://dbpedia.org/resource/Cupola
-
-henry - http://dbpedia.org/resource/Henry_(unit)
-
-howard - http://dbpedia.org/resource/Howard_University
-
-majority voting - http://dbpedia.org/resource/Majority_rule
-
-architecture - http://dbpedia.org/resource/Architecture
-
-penobscot - http://dbpedia.org/resource/Penobscot
-
-southern methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church,_South
-
-sarah - http://dbpedia.org/resource/SAR-Lupe
-
-weather - http://dbpedia.org/resource/Weather
-north south - http://dbpedia.org/resource/North_South_MRT_line
-
-fuse - http://dbpedia.org/resource/Nuclear_fusion
-
-indicative - http://dbpedia.org/resource/Realis_mood
-
-keyboard - http://dbpedia.org/resource/Keyboard_instrument
-
-nov - http://dbpedia.org/resource/NOV_(gene)
-
-mortise - http://dbpedia.org/resource/Mortise_and_tenon
-
-tomb - http://dbpedia.org/resource/Tomb
-
-religious architecture - http://dbpedia.org/resource/Sacral_architecture
-
-prayer - http://dbpedia.org/resource/Prayer
-
-dormer - http://dbpedia.org/resource/Dormer
-
-lord fairfax - http://dbpedia.org/resource/Lord_Fairfax_of_Cameron
-
-methodist - http://dbpedia.org/resource/Methodism
-
-brandywine - http://dbpedia.org/resource/Battle_of_Brandywine
-
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-
-swisher - http://dbpedia.org/resource/Swisher_County,_Texas
-
-monroe - http://dbpedia.org/resource/Greg_Monroe
-
-arnett - http://dbpedia.org/resource/Peter_Arnett
-
-pastor - http://dbpedia.org/resource/Pastor
-
-article - http://dbpedia.org/resource/No_Gun_Ri_massacre
-
-dinner theater - http://dbpedia.org/resource/Dinner_theater
-
-helmond - http://dbpedia.org/resource/Helmond
-
-worship service - http://dbpedia.org/resource/Church_service
-
-wildwood - http://dbpedia.org/resource/Wildwood,_New_Jersey
-
-choir - http://dbpedia.org/resource/Choir
+mouldings - http://dbpedia.org/resource/Molding_(decorative)
 
 minimalist - http://dbpedia.org/resource/Minimalism
 
-transom - http://dbpedia.org/resource/Stern
+attorney general - http://dbpedia.org/resource/United_States_Attorney_General
 
-9/11 - http://dbpedia.org/resource/September_11_attacks
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 
-wv - http://dbpedia.org/resource/Wv_(software)
+kerns - http://dbpedia.org/resource/Kern_(soldier)
 
-rachel - http://dbpedia.org/resource/Rachel
+congratulations - http://dbpedia.org/resource/Traveling_Wilburys_Vol._1
 
-keyser - http://dbpedia.org/resource/Keyser_High_School
+civil war - http://dbpedia.org/resource/American_Civil_War
 
-patterson creek mountain - http://dbpedia.org/resource/Patterson_Creek_Mountain
+p.o. box - http://dbpedia.org/resource/Post_office_box
+heritage - http://dbpedia.org/resource/Tradition
 
-structural beam - http://dbpedia.org/resource/Beam_(structure)
+december 23 - http://dbpedia.org/resource/December_23
 
-methodist church - http://dbpedia.org/resource/Methodism
+american civil war - http://dbpedia.org/resource/American_Civil_War
 
-brickwork - http://dbpedia.org/resource/Brickwork
+wood - http://dbpedia.org/resource/Lumber
 
-stephanie - http://dbpedia.org/resource/Stephanie_Scully
+maryland - http://dbpedia.org/resource/Maryland
 
-enon - http://dbpedia.org/resource/Enon_(band)
+neighborhood - http://dbpedia.org/resource/Local_government_in_New_Jersey
 
-quarry - http://dbpedia.org/resource/Quarry
+majority leader - http://dbpedia.org/resource/Party_leaders_of_the_United_States_Senate
+
+judy rose - http://dbpedia.org/resource/Judy_Rose
+
+nov - http://dbpedia.org/resource/NOV_(gene)
+
+email - http://dbpedia.org/resource/Email
+
+hardy county - http://dbpedia.org/resource/Hardy_County,_West_Virginia
+
+marla - http://dbpedia.org/resource/Marla_(unit)
+
+dunkers - http://dbpedia.org/resource/Slam_dunk
+
+va 7 - http://dbpedia.org/resource/Virginia_State_Route_7
+
+sea level - http://dbpedia.org/resource/Sea_level
+
+rt - http://dbpedia.org/resource/Radiotelephone
+
+foam - http://dbpedia.org/resource/Foam
+
+cornelia - http://dbpedia.org/resource/Cornelia_Metella
+
+lay minister - http://dbpedia.org/resource/Laity
 
 horace mann - http://dbpedia.org/resource/Horace_Mann
 
-pisciotta - http://dbpedia.org/resource/Pisciotta
+molding - http://dbpedia.org/resource/Injection_moulding
 
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+trough - http://dbpedia.org/resource/Watering_trough
+
+wastewater treatment facility - http://dbpedia.org/resource/Wastewater
+
+fertility - http://dbpedia.org/resource/Soil_fertility
+
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+
+seam - http://dbpedia.org/resource/Coal_mining
+
+blessing - http://dbpedia.org/resource/Blessing
+
+insulation - http://dbpedia.org/resource/Building_insulation
+
+central united methodist church - http://dbpedia.org/resource/Central_United_Methodist_Church_(Detroit)
+
+rail - http://dbpedia.org/resource/Handrail
+
+music - http://dbpedia.org/resource/Music
+
+energy consumption - http://dbpedia.org/resource/Efficient_energy_use
+
+compliance officer - http://dbpedia.org/resource/Regulatory_compliance
+
+christian denomination - http://dbpedia.org/resource/Christian_denomination
+
+erin - http://dbpedia.org/resource/Erin_Hannon
+
+springfield brick house - http://dbpedia.org/resource/Springfield_Brick_House
+
+mansfield - http://dbpedia.org/resource/Mansfield
+
+slave labor - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+hickory grove - http://dbpedia.org/resource/Hickory_Grove,_South_Carolina
+
+chicken wire - http://dbpedia.org/resource/Chicken_wire
+
+concrete - http://dbpedia.org/resource/Reinforced_concrete
+
+pastor - http://dbpedia.org/resource/Pastor
+
+listed - http://dbpedia.org/resource/Listed_building
+
+sesquicentennial - http://dbpedia.org/resource/Anniversary
+
+damon - http://dbpedia.org/resource/Polyommatus_damon
+
+southern methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church,_South
+
+keyser - http://dbpedia.org/resource/Keyser_High_School
+
+cameron - http://dbpedia.org/resource/David_Cameron
+
+pendleton county - http://dbpedia.org/resource/Pendleton_County,_West_Virginia
+
+york - http://dbpedia.org/resource/York
+
+anabaptist - http://dbpedia.org/resource/Anabaptism
+
+birth certificates - http://dbpedia.org/resource/Birth_certificate
+
+aerial image - http://dbpedia.org/resource/Aerial_image
+
+morgan - http://dbpedia.org/resource/Morgan_Grimes
+
+weather - http://dbpedia.org/resource/Weather
+
+heat - http://dbpedia.org/resource/Central_heating
+
+april 01 - http://dbpedia.org/resource/April_1
+
+plasterboard - http://dbpedia.org/resource/Drywall
+
+leatherman - http://dbpedia.org/resource/Leather_subculture
+
+south branch potomac river - http://dbpedia.org/resource/Potomac_River
+
+stephens city - http://dbpedia.org/resource/Stephens_City,_Virginia
+
+choir - http://dbpedia.org/resource/Choir
+
+stele - http://dbpedia.org/resource/Headstone
+
+upright piano - http://dbpedia.org/resource/Piano
+
+bethel united methodist church - http://dbpedia.org/resource/Bethel_United_Methodist_Church_(Bethel,_Connecticut)
+
+north river mills - http://dbpedia.org/resource/North_River_Mills,_West_Virginia
+
+evans - http://dbpedia.org/resource/Godfrey_Evans
+
+unincorporated community - http://dbpedia.org/resource/Unincorporated_area
+
+spring meeting - http://dbpedia.org/resource/Spring_Meeting
+
+shawnee - http://dbpedia.org/resource/Shawnee
+
+balustrade - http://dbpedia.org/resource/Baluster
+
+bible study - http://dbpedia.org/resource/Bible_study_(Christianity)
+
+hyatt - http://dbpedia.org/resource/Hyatt
+
+architecture - http://dbpedia.org/resource/Architecture
+
+cupola - http://dbpedia.org/resource/Cupola
+
+open meeting law - http://dbpedia.org/resource/Freedom_of_information_laws_by_country
+
+elkins - http://dbpedia.org/resource/Stephen_Benton_Elkins
+
+connecticut - http://dbpedia.org/resource/Connecticut
+
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+
+bibliography - http://dbpedia.org/resource/Bibliography
+
+obelisks - http://dbpedia.org/resource/Obelisk
+
+whites - http://dbpedia.org/resource/White_people
+
+calendar - http://dbpedia.org/resource/Calendar
+
+wood county - http://dbpedia.org/resource/Wood_County,_West_Virginia
+
+meigs county - http://dbpedia.org/resource/Meigs_County,_Ohio
+
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+
+elevation - http://dbpedia.org/resource/Elevation
+
+penobscot - http://dbpedia.org/resource/Penobscot
+
+dunkards - http://dbpedia.org/resource/Schwarzenau_Brethren
+
+kentucky - http://dbpedia.org/resource/Kentucky
+
+stephanie - http://dbpedia.org/resource/Stephanie_Scully
+
+gazette - http://dbpedia.org/resource/Government_gazette
+
+megalithic - http://dbpedia.org/resource/Megalith
+
+wv - http://dbpedia.org/resource/Wv_(software)
+
+social history - http://dbpedia.org/resource/Social_history
+
+religious architecture - http://dbpedia.org/resource/Sacral_architecture
+
+piet blom - http://dbpedia.org/resource/Piet_Blom
+
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+
+potomac highlands - http://dbpedia.org/resource/Potomac_Highlands
+
+jeremy morris - http://dbpedia.org/resource/Jeremy_Morris
+
+calendar year - http://dbpedia.org/resource/Gregorian_calendar
+
+northern neck proprietary - http://dbpedia.org/resource/Northern_Neck_Proprietary
+
+attic - http://dbpedia.org/resource/Attic
+
+region - http://dbpedia.org/resource/Region
+
+bluff - http://dbpedia.org/resource/Hill
+
+handicapped accessible - http://dbpedia.org/resource/Accessibility
+
+winter meeting - http://dbpedia.org/resource/Winter_Meeting
+
+paw paw - http://dbpedia.org/resource/Papaya
+
+committee - http://dbpedia.org/resource/Committee
+
+digitized - http://dbpedia.org/resource/Digitization
+
+united methodist church - http://dbpedia.org/resource/United_Methodist_Church
+
+lap siding - http://dbpedia.org/resource/Siding
+
+log building - http://dbpedia.org/resource/Log_cabin
+
+metal - http://dbpedia.org/resource/Metal
+
+primitive baptists - http://dbpedia.org/resource/Primitive_Baptists
+
+article - http://dbpedia.org/resource/No_Gun_Ri_massacre
+
+united methodist - http://dbpedia.org/resource/United_Methodist_Church
+
+norman - http://dbpedia.org/resource/Norman_architecture
+
+dinner theater - http://dbpedia.org/resource/Dinner_theater
+
+john monroe - http://dbpedia.org/resource/John_Monroe_(lawyer)
+
+lawyer - http://dbpedia.org/resource/Law_of_the_United_States
+
+big creek high school - http://dbpedia.org/resource/Big_Creek_High_School
+
+brick - http://dbpedia.org/resource/Brick
+
+jackson county - http://dbpedia.org/resource/Jackson_County,_Missouri
+
+bible - http://dbpedia.org/resource/Bible
+
+mill creek mountain - http://dbpedia.org/resource/Mill_Creek_Mountain
+
+arrow - http://dbpedia.org/resource/Arrowhead
+
+article - http://dbpedia.org/resource/Equality_Mississippi
+deed - http://dbpedia.org/resource/Deed
+
+dormer - http://dbpedia.org/resource/Dormer
+
+news - http://dbpedia.org/resource/Journalism
+
+martha - http://dbpedia.org/resource/Martha_Jefferson_Randolph
+
+anchor - http://dbpedia.org/resource/Anchor
+
+tavern - http://dbpedia.org/resource/Tavern
+
+printing - http://dbpedia.org/resource/Printing
+
+appropriation - http://dbpedia.org/resource/Appropriation_bill
+
+jerusalem - http://dbpedia.org/resource/Jerusalem
+
+potomac - http://dbpedia.org/resource/Potomac_River
+
+white pine - http://dbpedia.org/resource/Pinus_strobus
+
+spencer cemetery - http://dbpedia.org/resource/Spencer_Cemetery
+
+education - http://dbpedia.org/resource/Education
+
+intrusion - http://dbpedia.org/resource/Intrusive_rock
+
+morris county - http://dbpedia.org/resource/Morris_County,_New_Jersey
+
+ovolo - http://dbpedia.org/resource/Ovolo
+
+newspapers.com - http://dbpedia.org/resource/Ancestry.com
+
+howard - http://dbpedia.org/resource/Howard_University
+
+architectural historian - http://dbpedia.org/resource/Architectural_historian
+
+quarry - http://dbpedia.org/resource/Quarry
+
+baron colepeper - http://dbpedia.org/resource/Baron_Colepeper
+
+romney - http://dbpedia.org/resource/Mitt_Romney
+
+mark 11 - http://dbpedia.org/resource/Mark_11
+
+quadrangle - http://dbpedia.org/resource/Quadrilateral
+
+christian denominations - http://dbpedia.org/resource/Christian_denomination
+
+cold stream - http://dbpedia.org/resource/Cold_Stream,_West_Virginia
+
+fried - http://dbpedia.org/resource/Frying
+
+helton - http://dbpedia.org/resource/Helton_Arruda
+
+rachel - http://dbpedia.org/resource/Rachel
+
+9/11 - http://dbpedia.org/resource/September_11_attacks
+
+eaves - http://dbpedia.org/resource/Eaves
+
+national park service - http://dbpedia.org/resource/National_Park_Service
+
+high view - http://dbpedia.org/resource/High_View,_West_Virginia
+
+spindles - http://dbpedia.org/resource/Spinning_mule
+
+lyons - http://dbpedia.org/resource/Lyon
+
+william jackson - http://dbpedia.org/resource/Jackson_of_Exeter
+
+denominational - http://dbpedia.org/resource/Christian_denomination
+
+patent - http://dbpedia.org/resource/Land_grant
+
+ashton - http://dbpedia.org/resource/Ashton-under-Lyne
+
+church - http://dbpedia.org/resource/Church_service
+
+mountain view - http://dbpedia.org/resource/Mountain_View_station
+
+bungalow - http://dbpedia.org/resource/Bungalow
+
+chimney - http://dbpedia.org/resource/Chimney
+
+quiz - http://dbpedia.org/resource/Quiz
+
+carbon - http://dbpedia.org/resource/Carbon_steel
+
+hampshire - http://dbpedia.org/resource/Hampshire_county_cricket_teams
+
+rural area - http://dbpedia.org/resource/Rural_area
+
+limestone - http://dbpedia.org/resource/Limestone
+
+dart - http://dbpedia.org/resource/Darts
+
+doh - http://dbpedia.org/resource/Health_department
+
+methodist - http://dbpedia.org/resource/Methodism
 
 wold - http://dbpedia.org/resource/The_Wolds
 
-slag - http://dbpedia.org/resource/Slag
+newsletter - http://dbpedia.org/resource/Newsletter
 
-church service - http://dbpedia.org/resource/Church_service
-
-north wall - http://dbpedia.org/resource/North_Wall_railway_station
-
-facebook - http://dbpedia.org/resource/Facebook
-
-moriah - http://dbpedia.org/resource/Moriah
-
-david - http://dbpedia.org/resource/Jacques-Louis_David
-
-synagogue - http://dbpedia.org/resource/Synagogue
-
-hooks mills - http://dbpedia.org/resource/Hooks_Mills,_West_Virginia
-
-va - http://dbpedia.org/resource/Virginia
-
-hampshire review - http://dbpedia.org/resource/Hampshire_Review
-
-bear - http://dbpedia.org/resource/Bear
-
-ashe county - http://dbpedia.org/resource/Ashe_County,_North_Carolina
-
-chapel - http://dbpedia.org/resource/Chapel_of_ease
-
-mould - http://dbpedia.org/resource/Mold
-
-noodles - http://dbpedia.org/resource/Noodle
-
-pb - http://dbpedia.org/resource/Publishing
-
-george - http://dbpedia.org/resource/George_(band)
-statehood - http://dbpedia.org/resource/U.S._state
+open access - http://dbpedia.org/resource/Open_access
 
 plaster - http://dbpedia.org/resource/Plaster
 
-courthouse - http://dbpedia.org/resource/Courthouse
+conference call - http://dbpedia.org/resource/Conference_call
+
+wood burning stove - http://dbpedia.org/resource/Wood-burning_stove
+
+enslaved african americans - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+metastable - http://dbpedia.org/resource/Metastability
+
+hedgesville - http://dbpedia.org/resource/Hedgesville_High_School
+
+liberty - http://dbpedia.org/resource/Liberty
+
+7/11 - http://dbpedia.org/resource/7-Eleven
+
+urban - http://dbpedia.org/resource/Urban_park
+
+county route 5 - http://dbpedia.org/resource/New_York_State_Route_95
+
+charles morris - http://dbpedia.org/resource/Charles_W._Morris
+
+raman - http://dbpedia.org/resource/Raman_spectroscopy
+
+structural beam - http://dbpedia.org/resource/Beam_(structure)
+
+potomac river - http://dbpedia.org/resource/Potomac_River
+
+trustee - http://dbpedia.org/resource/Trustee
+
+structural element - http://dbpedia.org/resource/Structural_element
+
+lord fairfax - http://dbpedia.org/resource/Thomas_Fairfax
+
+resident minister - http://dbpedia.org/resource/Resident_(title)
+
+baptism - http://dbpedia.org/resource/Baptism
+
+patterson creek mountain - http://dbpedia.org/resource/Patterson_Creek_Mountain
+
+george washington - http://dbpedia.org/resource/George_Washington
+
+charles baker - http://dbpedia.org/resource/Charlie_Baker
+
+land grant - http://dbpedia.org/resource/Land_grant
+
+loom - http://dbpedia.org/resource/Loom
+
+pasta sauce - http://dbpedia.org/resource/Tomato_sauce
+
+bark - http://dbpedia.org/resource/Birch_bark
+
+amazing grace - http://dbpedia.org/resource/Amazing_Grace
+
+contributing buildings - http://dbpedia.org/resource/Contributing_property
+
+wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
+
+francis - http://dbpedia.org/resource/Pope_Francis
+
+virginia college - http://dbpedia.org/resource/Virginia_College
+
+historic preservation - http://dbpedia.org/resource/Historic_preservation
+
+bit.ly - http://dbpedia.org/resource/Bitly
+
+elevation - http://dbpedia.org/resource/Multiview_projection
+
+statehood - http://dbpedia.org/resource/U.S._state
+
+messer - http://dbpedia.org/resource/Messer_(weapon)
+
+mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
+
+chapel - http://dbpedia.org/resource/Place_of_worship
+
+tabernacle - http://dbpedia.org/resource/Church_tabernacle
+
+timber - http://dbpedia.org/resource/Timber_framing
+
+transom - http://dbpedia.org/resource/Stern
+
+glass - http://dbpedia.org/resource/Glass
+
+ohio - http://dbpedia.org/resource/Ohio
+
+church - http://dbpedia.org/resource/Church_architecture
+
+wardensville - http://dbpedia.org/resource/Wardensville,_West_Virginia
+
+worship service - http://dbpedia.org/resource/Church_service
+hampshire - http://dbpedia.org/resource/Hampshire
+
+pronunciation - http://dbpedia.org/resource/International_Phonetic_Alphabet
+
+roberta - http://dbpedia.org/resource/Roberta_Williams
+
+winnsboro - http://dbpedia.org/resource/Winnsboro,_Louisiana
+
+louise - http://dbpedia.org/resource/Louise_of_Mecklenburg-Strelitz
+
+egg - http://dbpedia.org/resource/Oval
+bridge - http://dbpedia.org/resource/Bridge
+
+camden - http://dbpedia.org/resource/Camden_Town
+
+tomb - http://dbpedia.org/resource/Tomb
+
+tenon - http://dbpedia.org/resource/Mortise_and_tenon
+
+frenchwood - http://dbpedia.org/resource/Avenham
+
+historical society - http://dbpedia.org/resource/Historical_society
+
+zip code - http://dbpedia.org/resource/ZIP_Code
+
+chapel - http://dbpedia.org/resource/Chapel_of_ease
+
+capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
+
+symposium - http://dbpedia.org/resource/Symposium
+
+native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+
+archaeologists - http://dbpedia.org/resource/Archaeology
+
+denominations - http://dbpedia.org/resource/Christian_denomination
+
+coving - http://dbpedia.org/resource/Molding_(decorative)
+
+justification - http://dbpedia.org/resource/Defamation
+
+oak tree - http://dbpedia.org/resource/Oak
+
+oral - http://dbpedia.org/resource/Oral_sex
+
+revival meetings - http://dbpedia.org/resource/Revival_meeting
+
+schwarzenau brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
+january 23 - http://dbpedia.org/resource/January_23
+
+motion - http://dbpedia.org/resource/Film
+
+philadelphia - http://dbpedia.org/resource/Philadelphia
+
+prayer - http://dbpedia.org/resource/Prayer
+
+ridge - http://dbpedia.org/resource/Ridge
+
+4/11 - http://dbpedia.org/resource/Odds
+
+middletown - http://dbpedia.org/resource/Middletown,_Connecticut
+
+rehavia - http://dbpedia.org/resource/Rehavia
+
+baptist - http://dbpedia.org/resource/Baptists
+
+rotterdam - http://dbpedia.org/resource/Rotterdam
+
+valley view - http://dbpedia.org/resource/Valley_View_(Romney,_West_Virginia)
+
+nw - http://dbpedia.org/resource/Points_of_the_compass
+
+seebert - http://dbpedia.org/resource/Seebert,_West_Virginia
+
+methodist church - http://dbpedia.org/resource/Methodism
+
+bittinger - http://dbpedia.org/resource/Bittinger,_Maryland
+
+moulding - http://dbpedia.org/resource/Crown_molding
+
+temple - http://dbpedia.org/resource/Hindu_temple
+
+edgefield - http://dbpedia.org/resource/Multnomah_County_Poor_Farm
+
+internet archive - http://dbpedia.org/resource/Internet_Archive
+
+façade - http://dbpedia.org/resource/Facade
+
+susan - http://dbpedia.org/resource/Susan_Kennedy
+
+pine - http://dbpedia.org/resource/Pine
+
+sandra - http://dbpedia.org/resource/List_of_Heroes_characters
+
+capon - http://dbpedia.org/resource/Capon
+
+larry anderson - http://dbpedia.org/resource/Larry_Anderson_(actor)
+
+sse - http://dbpedia.org/resource/Points_of_the_compass
+
+morgantown - http://dbpedia.org/resource/Morgantown_High_School
+
+john 14 - http://dbpedia.org/resource/John_14
+
+german baptist brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
+
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+
+homecoming - http://dbpedia.org/resource/Homecoming
+
+knolls - http://dbpedia.org/resource/Hillock
+
+golden horseshoe - http://dbpedia.org/resource/Golden_Horseshoe
+
+pin - http://dbpedia.org/resource/Pin
+
+alloy - http://dbpedia.org/resource/Alloy
+
+integral - http://dbpedia.org/resource/Integral
+
+weatherboards - http://dbpedia.org/resource/Clapboard_(architecture)
+
+ai - http://dbpedia.org/resource/Artificial_intelligence
+
+adjourn - http://dbpedia.org/resource/Adjournment
+
+david - http://dbpedia.org/resource/Jacques-Louis_David
+
+methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church
+
+circuit clerk - http://dbpedia.org/resource/Court_clerk
+
+bedmould - http://dbpedia.org/resource/Bed-mould
+
+nne - http://dbpedia.org/resource/Points_of_the_compass
+
+pierce - http://dbpedia.org/resource/Franklin_Pierce
+
+mortise - http://dbpedia.org/resource/Mortise_and_tenon
+
+baptists - http://dbpedia.org/resource/Baptists
+
+god bless - http://dbpedia.org/resource/God_Bless
+
+lord fairfax - http://dbpedia.org/resource/Lord_Fairfax_of_Cameron
+
+hampshire county - http://dbpedia.org/resource/Hampshire
+
+wnw - http://dbpedia.org/resource/Points_of_the_compass
+
+charles ii - http://dbpedia.org/resource/Charles_II_of_England
+
+facebook - http://dbpedia.org/resource/Facebook
+
+highlands district - http://dbpedia.org/resource/AA_Highlands_District
+
+bylaws - http://dbpedia.org/resource/By-law
+
+google books - http://dbpedia.org/resource/Google_Books
+
+word records - http://dbpedia.org/resource/Word_Records
+
+decorative moldings - http://dbpedia.org/resource/Molding_(decorative)
+
+enon - http://dbpedia.org/resource/Enon_(band)
+
+presbyterian - http://dbpedia.org/resource/Presbyterianism
+
+brethren church - http://dbpedia.org/resource/Brethren_Church
+
+issn - http://dbpedia.org/resource/International_Standard_Book_Number
+
+clapboard - http://dbpedia.org/resource/Clapperboard
+
+wood - http://dbpedia.org/resource/Wood
+
+methodists - http://dbpedia.org/resource/Methodism
+
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+foursquare church - http://dbpedia.org/resource/International_Church_of_the_Foursquare_Gospel
+
+umc - http://dbpedia.org/resource/United_Methodist_Church
+
+canned meat - http://dbpedia.org/resource/Potted_meat
+
+baptist church - http://dbpedia.org/resource/Baptists
+
+heritage - http://dbpedia.org/resource/Cultural_heritage
+
+springfield - http://dbpedia.org/resource/Springfield,_Massachusetts
+
+settlement - http://dbpedia.org/resource/Town
+
+rural - http://dbpedia.org/resource/Rural_area
+
+nonresistance - http://dbpedia.org/resource/Nonresistance
+
+appointments secretary - http://dbpedia.org/resource/Secretary_to_the_President_of_the_United_States
+
+accrual - http://dbpedia.org/resource/Accrual
+
+brandywine - http://dbpedia.org/resource/Battle_of_Brandywine
+
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+
+pocahontas county - http://dbpedia.org/resource/Pocahontas_County,_West_Virginia
+
+scribner - http://dbpedia.org/resource/Charles_Scribner's_Sons
+
+berkeley county - http://dbpedia.org/resource/Berkeley_County,_West_Virginia
+
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+stone - http://dbpedia.org/resource/Sandstone
+
+eds - http://dbpedia.org/resource/Electronic_Data_Systems
+
+gable - http://dbpedia.org/resource/Gable
+
+plank - http://dbpedia.org/resource/Lumber
+
+altar - http://dbpedia.org/resource/Altar
+
+moorefield - http://dbpedia.org/resource/Battle_of_Moorefield
+
+extant - http://dbpedia.org/resource/Neontology
+
+ha - http://dbpedia.org/resource/Hectare
+
+uncut - http://dbpedia.org/resource/Uncut_(magazine)
+
+u.s. route 220 - http://dbpedia.org/resource/U.S._Route_220
+
+library - http://dbpedia.org/resource/Library
+
+surveying - http://dbpedia.org/resource/Surveying
+
+moriah - http://dbpedia.org/resource/Moriah
+
+anticlinal - http://dbpedia.org/resource/Anticline
+
+fort - http://dbpedia.org/resource/Fortification
+
+conte - http://dbpedia.org/resource/Count
+
+south carolina - http://dbpedia.org/resource/South_Carolina
+
+law - http://dbpedia.org/resource/Law
+
+meat - http://dbpedia.org/resource/Lamb_and_mutton
+
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+
+surface 3 - http://dbpedia.org/resource/Surface_3
+
+fairfield county - http://dbpedia.org/resource/Fairfield_County,_Connecticut
 
 thomas colepeper - http://dbpedia.org/resource/Thomas_Colepeper,_2nd_Baron_Colepeper
+
+charles - http://dbpedia.org/resource/Charles_I_of_England
+
+chapel - http://dbpedia.org/resource/Chapel
+
+netherlands - http://dbpedia.org/resource/Netherlands
+
+gravestone - http://dbpedia.org/resource/Headstone
+
+randolph township - http://dbpedia.org/resource/Randolph,_New_Jersey
+
+county commission - http://dbpedia.org/resource/County_commission
+
+greenbrier county - http://dbpedia.org/resource/Greenbrier_County,_West_Virginia
+
+nw - http://dbpedia.org/resource/Cardinal_direction
+
+james caudy - http://dbpedia.org/resource/James_Caudy
+immersion - http://dbpedia.org/resource/Baptism
+
+concrete block - http://dbpedia.org/resource/Masonry
+
+winchester - http://dbpedia.org/resource/Winchester
+
+sbc - http://dbpedia.org/resource/Southern_Baptist_Convention
+
+italian renaissance - http://dbpedia.org/resource/Italianate_architecture
+
+synagogue - http://dbpedia.org/resource/Synagogue
+
+alloys - http://dbpedia.org/resource/Steel
+
+noel - http://dbpedia.org/resource/Wiki
+
+clothing - http://dbpedia.org/resource/Clothing
+
+romney - http://dbpedia.org/resource/New_Romney
+
+frontier west virginia - http://dbpedia.org/resource/Frontier_West_Virginia
+
+president - http://dbpedia.org/resource/President_of_the_United_States
+
+sarah - http://dbpedia.org/resource/SAR-Lupe
+
+trading post - http://dbpedia.org/resource/Trading_post
+
+charleston - http://dbpedia.org/resource/Hi-hat
+
+surname - http://dbpedia.org/resource/Surname
+
+topographic - http://dbpedia.org/resource/Topography
+
+wished - http://dbpedia.org/resource/Wished_(film)
+
+commonwealth - http://dbpedia.org/resource/Virginia
+
+learning - http://dbpedia.org/resource/Machine_learning
+
+inclusions - http://dbpedia.org/resource/Amber
+
+pressed metal panels - http://dbpedia.org/resource/Tin_ceiling
+
+ssw - http://dbpedia.org/resource/Points_of_the_compass
+
+village - http://dbpedia.org/resource/Administrative_divisions_of_Wisconsin
+
+creating opportunities - http://dbpedia.org/resource/Creating_Opportunities
+
+cemeteries - http://dbpedia.org/resource/Cemetery
+
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+
+meeting house - http://dbpedia.org/resource/Meeting_house
+
+peripatetic - http://dbpedia.org/resource/Nomad
 
 middle bronze age - http://dbpedia.org/resource/Bronze_Age
 
 matrix - http://dbpedia.org/resource/Composite_material
 
-greenbrier county - http://dbpedia.org/resource/Greenbrier_County,_West_Virginia
-
-adjourn - http://dbpedia.org/resource/Adjournment
-
-stone - http://dbpedia.org/resource/Stonemasonry
-
-cash - http://dbpedia.org/resource/United_States_dollar
-
-african americans - http://dbpedia.org/resource/African_Americans
-
-email - http://dbpedia.org/resource/Email
-
-unincorporated community - http://dbpedia.org/resource/Unincorporated_area
-
-town - http://dbpedia.org/resource/Market_town
-
-south church - http://dbpedia.org/resource/South_Zelenchuksky_Church
-
-metastable - http://dbpedia.org/resource/Metastability
-
-plank - http://dbpedia.org/resource/Lumber
-
-capon chapel - http://dbpedia.org/resource/Capon_Chapel
-
-denominations - http://dbpedia.org/resource/Christian_denomination
-
-south city - http://dbpedia.org/resource/South_City
-
-internet archive - http://dbpedia.org/resource/Internet_Archive
-
-slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-elkins - http://dbpedia.org/resource/Stephen_Benton_Elkins
-
-encompass - http://dbpedia.org/resource/Encompass
-
-president - http://dbpedia.org/resource/President_of_the_United_States
-
-gazette - http://dbpedia.org/resource/Gazette
-
-ashton - http://dbpedia.org/resource/Ashton-under-Lyne
-
-god - http://dbpedia.org/resource/God
-
-calendar - http://dbpedia.org/resource/Calendar
+longitude - http://dbpedia.org/resource/Longitude
 
 lexington kentucky - http://dbpedia.org/resource/Lexington,_Kentucky
 
-intersection - http://dbpedia.org/resource/Intersection
-
-randolph township - http://dbpedia.org/resource/Randolph,_New_Jersey
-
-local government - http://dbpedia.org/resource/Local_government
-
-april 01 - http://dbpedia.org/resource/April_1
-
-homecoming - http://dbpedia.org/resource/Homecoming
-
-immersion - http://dbpedia.org/resource/Baptism
-
-mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
-
-edgefield - http://dbpedia.org/resource/Multnomah_County_Poor_Farm
-
-beam - http://dbpedia.org/resource/Bending
-
-jane - http://dbpedia.org/resource/Jane_Fonda
-
-slave labor - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-knolls - http://dbpedia.org/resource/Hillock
-
-inventory - http://dbpedia.org/resource/Inventory
-
-south branch potomac river - http://dbpedia.org/resource/Potomac_River
-
-rotterdam - http://dbpedia.org/resource/Rotterdam
-
-romans - http://dbpedia.org/resource/Romans_(musician)
-
-7/11 - http://dbpedia.org/resource/7-Eleven
-
-wood - http://dbpedia.org/resource/Lumber
-
-baptism - http://dbpedia.org/resource/Baptism
-
-bible - http://dbpedia.org/resource/Bible
-
-elevation - http://dbpedia.org/resource/Multiview_projection
-
-cookbook - http://dbpedia.org/resource/Cookbook
-
-tuna - http://dbpedia.org/resource/Tuna
-
-shawnee - http://dbpedia.org/resource/Shawnee
-
-clain - http://dbpedia.org/resource/Clain
-
-stone - http://dbpedia.org/resource/Sandstone
-
-jersey mountain road - http://dbpedia.org/resource/Jersey_Mountain_Road
-
-bevel - http://dbpedia.org/resource/Bevel
-
-geological survey - http://dbpedia.org/resource/Geological_survey
-
-valley east - http://dbpedia.org/resource/Valley_East
-
-log building - http://dbpedia.org/resource/Log_cabin
-
-porch - http://dbpedia.org/resource/Porch
-
-energy consumption - http://dbpedia.org/resource/Efficient_energy_use
-
-charles ii - http://dbpedia.org/resource/Charles_II_of_England
-
-surface 3 - http://dbpedia.org/resource/Surface_3
-
-pam - http://dbpedia.org/resource/Pam_Beesly
-
-cumberland - http://dbpedia.org/resource/Cumberland_River
-
-presbyterian church u.s.a. - http://dbpedia.org/resource/Presbyterian_Church_(USA)
-
-lewisburg - http://dbpedia.org/resource/Lewisburg,_Pennsylvania
-
-methodists - http://dbpedia.org/resource/Methodism
-
-contributing building - http://dbpedia.org/resource/Contributing_property
-
-trustee - http://dbpedia.org/resource/Trustee
-
-prepare - http://dbpedia.org/resource/PREPARE
-
-amazing grace - http://dbpedia.org/resource/Amazing_Grace
-
-wv - http://dbpedia.org/resource/Wv_(software)
-pressed metal ceiling - http://dbpedia.org/resource/Tin_ceiling
-
-george - http://dbpedia.org/resource/George_(band)
-
-pierce - http://dbpedia.org/resource/Franklin_Pierce
-
-shpo - http://dbpedia.org/resource/State_historic_preservation_office
-
-capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
-
-virginia - http://dbpedia.org/resource/Virginia
-resident minister - http://dbpedia.org/resource/Resident_(title)
-
-church - http://dbpedia.org/resource/Christian_denomination
-
-lake - http://dbpedia.org/resource/Lake
-
-wardensville - http://dbpedia.org/resource/Wardensville,_West_Virginia
-
-geological - http://dbpedia.org/resource/Geology
-
-north river mills historic district - http://dbpedia.org/resource/North_River_Mills_Historic_District
-
-norman - http://dbpedia.org/resource/Norman_architecture
-
-compliance officer - http://dbpedia.org/resource/Regulatory_compliance
-
-allegheny - http://dbpedia.org/resource/Allegheny_Mountains
-
-anchor - http://dbpedia.org/resource/Anchor
-
-native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
-
-susan - http://dbpedia.org/resource/Susan_Kennedy
-
-christian missionary - http://dbpedia.org/resource/Christian_mission
-
-civil war - http://dbpedia.org/resource/American_Civil_War
-
-high density housing - http://dbpedia.org/resource/Apartment
-
-spring - http://dbpedia.org/resource/Mineral_spring
-
-piet blom - http://dbpedia.org/resource/Piet_Blom
-
-integral - http://dbpedia.org/resource/Integral
-
-otis - http://dbpedia.org/resource/Otis_Elevator_Company
-
-town - http://dbpedia.org/resource/Market_town
-extant - http://dbpedia.org/resource/Neontology
-
-plane - http://dbpedia.org/resource/Two-dimensional_space
-
-oak tree - http://dbpedia.org/resource/Oak
-
-erin - http://dbpedia.org/resource/Erin_Hannon
-
-city - http://dbpedia.org/resource/City
-
-eave - http://dbpedia.org/resource/Eaves
-
-worship service - http://dbpedia.org/resource/Church_service
-potato - http://dbpedia.org/resource/Potato
-
-cold stream - http://dbpedia.org/resource/Cold_Stream,_West_Virginia
-
-open access - http://dbpedia.org/resource/Open_access
-
-bridge - http://dbpedia.org/resource/Bridge
-
-decorative molding - http://dbpedia.org/resource/Molding_(decorative)
-
-arlington county - http://dbpedia.org/resource/Arlington_County,_Virginia
-
-conte - http://dbpedia.org/resource/Count
-
-frenchwood - http://dbpedia.org/resource/Avenham
-
-foursquare church - http://dbpedia.org/resource/International_Church_of_the_Foursquare_Gospel
-
-building construction - http://dbpedia.org/resource/Construction
-
-rehavia - http://dbpedia.org/resource/Rehavia
-
-big creek high school - http://dbpedia.org/resource/Big_Creek_High_School
-
-frontier west virginia - http://dbpedia.org/resource/Frontier_West_Virginia
-
-james caudy - http://dbpedia.org/resource/James_Caudy
-
-committee - http://dbpedia.org/resource/Committee
-
-port henry - http://dbpedia.org/resource/Port_Henry,_New_York
-
-acre - http://dbpedia.org/resource/Acre
-
-concrete block - http://dbpedia.org/resource/Masonry
-
-bibliography - http://dbpedia.org/resource/Bibliography
-
-charles - http://dbpedia.org/resource/Charles_I_of_England
-
-archaeologist - http://dbpedia.org/resource/Archaeology
-
-glass - http://dbpedia.org/resource/Glass
-
-kentucky - http://dbpedia.org/resource/Kentucky
-
-nw - http://dbpedia.org/resource/Points_of_the_compass
-
-encyclopedia - http://dbpedia.org/resource/Encyclopedia
-
-atlantic europe - http://dbpedia.org/resource/Atlantic_Europe
-
-mark 11 - http://dbpedia.org/resource/Mark_11
-
-messer - http://dbpedia.org/resource/Messer_(weapon)
-
-overhang - http://dbpedia.org/resource/Overhang_seat
-
-umc - http://dbpedia.org/resource/United_Methodist_Church
-
-december 23 - http://dbpedia.org/resource/December_23
-
-quorum - http://dbpedia.org/resource/Quorum
-
-surveying - http://dbpedia.org/resource/Surveying
-
-1 group - http://dbpedia.org/resource/No._1_Group_RAF
-
-baked good - http://dbpedia.org/resource/Baking
-
-wilmer - http://dbpedia.org/resource/Elisha_Cook_Jr.
-
-printer - http://dbpedia.org/resource/Printing
-
-italian renaissance - http://dbpedia.org/resource/Italianate_architecture
-
-wood - http://dbpedia.org/resource/Wood
-
-middletown - http://dbpedia.org/resource/Middletown,_Connecticut
-
-ssw - http://dbpedia.org/resource/Points_of_the_compass
-
-lehew - http://dbpedia.org/resource/Lehew,_West_Virginia
-
-wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
-
-appropriation - http://dbpedia.org/resource/Appropriation_bill
-
-insulation - http://dbpedia.org/resource/Thermal_insulation
-
-bedmould - http://dbpedia.org/resource/Bed-mould
-
-williamsburg - http://dbpedia.org/resource/Colonial_Williamsburg
-
-dart - http://dbpedia.org/resource/Darts
-
-maryland - http://dbpedia.org/resource/Maryland
-
-valley view - http://dbpedia.org/resource/Valley_View_(Romney,_West_Virginia)
-
-rice - http://dbpedia.org/resource/Rice
-
-education - http://dbpedia.org/resource/Education
-
-jerusalem - http://dbpedia.org/resource/Jerusalem
-
-foam - http://dbpedia.org/resource/Foam
-
-charles morris - http://dbpedia.org/resource/Charles_W._Morris
-
-denominational - http://dbpedia.org/resource/Christian_denomination
-
-newspapers.com - http://dbpedia.org/resource/Ancestry.com
-
-hickory grove - http://dbpedia.org/resource/Hickory_Grove,_South_Carolina
-
-balustrade - http://dbpedia.org/resource/Baluster
-
-music - http://dbpedia.org/resource/Music
-
-fort - http://dbpedia.org/resource/Fortification
-
-lyons - http://dbpedia.org/resource/Lyon
-
-populated places - http://dbpedia.org/resource/Human_settlement
-
-baron colepeper - http://dbpedia.org/resource/Baron_Colepeper
-
-meigs county - http://dbpedia.org/resource/Meigs_County,_Ohio
-
-architectural plan - http://dbpedia.org/resource/Architectural_plan
-
-east west - http://dbpedia.org/resource/East_West_MRT_line
-
-scott smith - http://dbpedia.org/resource/Scott_Smith_(fighter)
-
-scribner - http://dbpedia.org/resource/Charles_Scribner's_Sons
-
-neighborhood - http://dbpedia.org/resource/Local_government_in_New_Jersey
-
-space - http://dbpedia.org/resource/Space
-
-region - http://dbpedia.org/resource/Region
-
-footstone - http://dbpedia.org/resource/Footstone
-
-parsons - http://dbpedia.org/resource/Parsons_School_of_Design
-
-regional location - http://dbpedia.org/resource/Regions_of_France
-
-camden - http://dbpedia.org/resource/Camden_Town
-
-link 1 - http://dbpedia.org/resource/Link_1
-
-united methodist church - http://dbpedia.org/resource/United_Methodist_Church
-
-slaveholder - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-handicap accessible - http://dbpedia.org/resource/Accessibility
-
-bethel united methodist church - http://dbpedia.org/resource/Bethel_United_Methodist_Church_(Bethel,_Connecticut)
-
-morris county - http://dbpedia.org/resource/Morris_County,_New_Jersey
-
-longitude - http://dbpedia.org/resource/Longitude
-
-collective ownership - http://dbpedia.org/resource/Common_ownership
-
-presbyterian - http://dbpedia.org/resource/Presbyterianism
-
-ai - http://dbpedia.org/resource/Artificial_intelligence
-
-tabernacle - http://dbpedia.org/resource/Church_tabernacle
-
-foursquare - http://dbpedia.org/resource/American_Foursquare
-
-wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
-
-jeremy morris - http://dbpedia.org/resource/Jeremy_Morris
-
-chamber tomb - http://dbpedia.org/resource/Chamber_tomb
-
-revival meeting - http://dbpedia.org/resource/Revival_meeting
-
-fieldstone - http://dbpedia.org/resource/Fieldstone
-
-mount - http://dbpedia.org/resource/Mountain
-
-smith - http://dbpedia.org/resource/Blacksmith
-
-log church - http://dbpedia.org/resource/Log_cabin
-
-raman - http://dbpedia.org/resource/B._V._Raman
-
-triune - http://dbpedia.org/resource/Trinity
-
-hope high school - http://dbpedia.org/resource/Oasis_Academy_MediaCityUK
-
-virginia college - http://dbpedia.org/resource/Virginia_College
-
-slope - http://dbpedia.org/resource/Slope
-
-potomac highlands - http://dbpedia.org/resource/Potomac_Highlands
-
-sash - http://dbpedia.org/resource/Sash_window
-
-single - http://dbpedia.org/resource/Phonograph_record
-
-post office - http://dbpedia.org/resource/Post_office
-
-deed - http://dbpedia.org/resource/Deed
-
-ovolo - http://dbpedia.org/resource/Ovolo
-
-creed - http://dbpedia.org/resource/Creed
-
-north river mills - http://dbpedia.org/resource/North_River_Mills,_West_Virginia
-
-charles baker - http://dbpedia.org/resource/Charlie_Baker
-
-mountain view - http://dbpedia.org/resource/Mountain_View_station
-
-cameron - http://dbpedia.org/resource/David_Cameron
-
-seebert - http://dbpedia.org/resource/Seebert,_West_Virginia
-
-embark - http://dbpedia.org/resource/Embark_(transit_authority)
-
-heat - http://dbpedia.org/resource/Central_heating
-
-intrusion - http://dbpedia.org/resource/Intrusive_rock
-
-moulding - http://dbpedia.org/resource/Crown_molding
-
-baptist church - http://dbpedia.org/resource/Baptists
-
-foothill - http://dbpedia.org/resource/Foothills
-
-circuit clerk - http://dbpedia.org/resource/Court_clerk
-
-bill richardson - http://dbpedia.org/resource/Bill_Richardson
-
-brick - http://dbpedia.org/resource/Brick
-
-essex county - http://dbpedia.org/resource/Essex
-
-petition - http://dbpedia.org/resource/Petition
-
-open meeting law - http://dbpedia.org/resource/Freedom_of_information_laws_by_country
-
-sussex - http://dbpedia.org/resource/Sussex
-
-confederacy - http://dbpedia.org/resource/Confederate_States_of_America
-
-potomac - http://dbpedia.org/resource/Potomac_River
+springs - http://dbpedia.org/resource/Mineral_spring
 
 parsonage - http://dbpedia.org/resource/Clergy_house
 
-united methodist women - http://dbpedia.org/resource/United_Methodist_Women
+revised version - http://dbpedia.org/resource/Revised_Version
 
-chapel - http://dbpedia.org/resource/Chapel
+8/11 - http://dbpedia.org/resource/Odds
 
-elevation church - http://dbpedia.org/resource/Elevation_Church
-
-white pine - http://dbpedia.org/resource/Pinus_strobus
-
-virginia - http://dbpedia.org/resource/Virginia
-
-winter meeting - http://dbpedia.org/resource/Winter_Meeting
-
-hardy county - http://dbpedia.org/resource/Hardy_County,_West_Virginia
-
-wodrow - http://dbpedia.org/resource/Robert_Wodrow
-
-uncut - http://dbpedia.org/resource/Uncut_(magazine)
-
-rebecca - http://dbpedia.org/resource/Rebecca
-
-sunday school - http://dbpedia.org/resource/Sunday_school
-
-seamstress - http://dbpedia.org/resource/Dressmaker
-
-bible study - http://dbpedia.org/resource/Bible_study_(Christianity)
+smith - http://dbpedia.org/resource/Blacksmith
 
 gate - http://dbpedia.org/resource/Gate
 
-yearbook - http://dbpedia.org/resource/Yearbook
+lutheran church - http://dbpedia.org/resource/Evangelical_Lutheran_Church_in_America
 
-elevation - http://dbpedia.org/resource/Elevation
+wood floor - http://dbpedia.org/resource/Wood_flooring
 
-cattle - http://dbpedia.org/resource/Cattle
+virginia - http://dbpedia.org/resource/Virginia
 
-paul - http://dbpedia.org/resource/Paul_the_Apostle
+rice - http://dbpedia.org/resource/Rice
 
-nne - http://dbpedia.org/resource/Points_of_the_compass
+shepherdstown - http://dbpedia.org/resource/Battle_of_Shepherdstown
 
-coving - http://dbpedia.org/resource/Molding_(decorative)
+constitution day - http://dbpedia.org/resource/1978_Spanish_constitutional_referendum
 
-noel - http://dbpedia.org/resource/Wiki
+caretaker - http://dbpedia.org/resource/Caregiver
+jersey mountain road - http://dbpedia.org/resource/Jersey_Mountain_Road
 
-carbon - http://dbpedia.org/resource/Carbon_steel
+craftsman style - http://dbpedia.org/resource/American_Craftsman
 
-nw - http://dbpedia.org/resource/Cardinal_direction
+intersection - http://dbpedia.org/resource/Intersection
 
-project inform - http://dbpedia.org/resource/Project_Inform
+wilmer - http://dbpedia.org/resource/Elisha_Cook_Jr.
 
-trading post - http://dbpedia.org/resource/Trading_post
+williamsburg - http://dbpedia.org/resource/Colonial_Williamsburg
 
-ridge - http://dbpedia.org/resource/Ridge
+north wall - http://dbpedia.org/resource/North_Wall_railway_station
 
-historic preservation - http://dbpedia.org/resource/Historic_preservation
-
-united methodist - http://dbpedia.org/resource/United_Methodist_Church
-
-news - http://dbpedia.org/resource/Journalism
-
-west virginia - http://dbpedia.org/resource/West_Virginia
-
-eds - http://dbpedia.org/resource/Electronic_Data_Systems
-
-wood county - http://dbpedia.org/resource/Wood_County,_West_Virginia
-
-calendar year - http://dbpedia.org/resource/Gregorian_calendar
-
-apr - http://dbpedia.org/resource/Annual_percentage_rate
-
-overgrown - http://dbpedia.org/resource/Overgrown
-
-potomac river - http://dbpedia.org/resource/Potomac_River
-
-springfield brick house - http://dbpedia.org/resource/Springfield_Brick_House
-
-sse - http://dbpedia.org/resource/Points_of_the_compass
 map - http://dbpedia.org/resource/Map
 
-baptist - http://dbpedia.org/resource/Baptists
+chamber tomb - http://dbpedia.org/resource/Chamber_tomb
 
-gablefront house - http://dbpedia.org/resource/Gablefront_house
+satellite - http://dbpedia.org/resource/Weather_satellite
 
-spindle - http://dbpedia.org/resource/Axle
+high density housing - http://dbpedia.org/resource/Apartment
 
-church bulletin - http://dbpedia.org/resource/Parish_magazine
+quorum - http://dbpedia.org/resource/Quorum
 
-east wall - http://dbpedia.org/resource/East_Wall
-bittinger - http://dbpedia.org/resource/Bittinger,_Maryland
+sussex - http://dbpedia.org/resource/Sussex
 
-printing - http://dbpedia.org/resource/Printing
+plane - http://dbpedia.org/resource/Two-dimensional_space
 
-national park service - http://dbpedia.org/resource/National_Park_Service
+hooks mills - http://dbpedia.org/resource/Hooks_Mills,_West_Virginia
 
-iron - http://dbpedia.org/resource/Wrought_iron
+jefferson county - http://dbpedia.org/resource/Jefferson_County,_Kentucky
 
-margaret - http://dbpedia.org/resource/Margaret_Tudor
+foursquare - http://dbpedia.org/resource/American_Foursquare
 
-blacksmith - http://dbpedia.org/resource/Blacksmith
+lewisburg - http://dbpedia.org/resource/Lewisburg,_Pennsylvania
 
-cemeteries - http://dbpedia.org/resource/Cemetery
+thomas fairfax - http://dbpedia.org/resource/Thomas_Fairfax
+
+northern neck - http://dbpedia.org/resource/Northern_Neck
+
+shpo - http://dbpedia.org/resource/State_historic_preservation_office
 
 st. albans - http://dbpedia.org/resource/St_Albans
 
-u.s. route 220 - http://dbpedia.org/resource/U.S._Route_220
+ecclesiastical - http://dbpedia.org/resource/Church_architecture
 
-romney - http://dbpedia.org/resource/Mitt_Romney
+north carolina - http://dbpedia.org/resource/North_Carolina
 
-john monroe - http://dbpedia.org/resource/John_Monroe_(lawyer)
+cash - http://dbpedia.org/resource/United_States_dollar
 
-nixon - http://dbpedia.org/resource/Richard_Nixon
+pam - http://dbpedia.org/resource/Pam_Beesly
+
+granite - http://dbpedia.org/resource/Granite
+
+culture - http://dbpedia.org/resource/Archaeological_culture
+
+denomination - http://dbpedia.org/resource/Christian_denomination
+
+courthouse - http://dbpedia.org/resource/Courthouse
+
+port henry - http://dbpedia.org/resource/Port_Henry,_New_York
+
+slag - http://dbpedia.org/resource/Slag
+
+jane - http://dbpedia.org/resource/Jane_Fonda
+
+vernacular - http://dbpedia.org/resource/Vernacular_architecture
+
+otis - http://dbpedia.org/resource/Otis_Elevator_Company
+
+nondenominational - http://dbpedia.org/resource/Nondenominational_Christianity
 
 church - http://dbpedia.org/resource/Catholic_Church
 
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+algorithms - http://dbpedia.org/resource/Algorithm
 
-heritage - http://dbpedia.org/resource/Cultural_heritage
+helmond - http://dbpedia.org/resource/Helmond
 
-lawyer - http://dbpedia.org/resource/Lawyer
+church service - http://dbpedia.org/resource/Church_service
 
-stove - http://dbpedia.org/resource/Wood-burning_stove
+headstone - http://dbpedia.org/resource/Headstone
 
-hampshire county - http://dbpedia.org/resource/Hampshire
+potatoes - http://dbpedia.org/resource/Potato
 
-high church - http://dbpedia.org/resource/High_church
+geological - http://dbpedia.org/resource/Geology
 
-damon - http://dbpedia.org/resource/Polyommatus_damon
+ashe county - http://dbpedia.org/resource/Ashe_County,_North_Carolina
 
-spring meeting - http://dbpedia.org/resource/Spring_Meeting
+plaster - http://dbpedia.org/resource/Stucco
 
-moorefield - http://dbpedia.org/resource/Battle_of_Moorefield
+bungoma - http://dbpedia.org/resource/Bungoma
 
-architectural historian - http://dbpedia.org/resource/Architectural_historian
+wodrow - http://dbpedia.org/resource/Robert_Wodrow
+
+food pantry - http://dbpedia.org/resource/Food_bank
+
+courthouses - http://dbpedia.org/resource/Courthouse
+
+sunday school - http://dbpedia.org/resource/Sunday_school
+
+south city - http://dbpedia.org/resource/South_City
+
+nixon - http://dbpedia.org/resource/Richard_Nixon
+
+confederacy - http://dbpedia.org/resource/Confederate_States_of_America
+
+pearlitic - http://dbpedia.org/resource/Pearlite
+
+local government - http://dbpedia.org/resource/Local_government
+
+arnett - http://dbpedia.org/resource/Peter_Arnett
+
+maxwell - http://dbpedia.org/resource/Maxwell_(unit)
+
+clain - http://dbpedia.org/resource/Clain
+
+seamstress - http://dbpedia.org/resource/Dressmaker
+
+joan walker - http://dbpedia.org/resource/Joan_Walker
+
+mount bethel church - http://dbpedia.org/resource/Mount_Bethel_Church_(Three_Churches,_West_Virginia)
+
+lehew - http://dbpedia.org/resource/Lehew,_West_Virginia
+
+west virginia - http://dbpedia.org/resource/West_Virginia
+selden - http://dbpedia.org/resource/John_Selden
+
+hope high school - http://dbpedia.org/resource/Oasis_Academy_MediaCityUK
+
+ene - http://dbpedia.org/resource/Points_of_the_compass
+
+indicative - http://dbpedia.org/resource/Realis_mood
+
+overgrown - http://dbpedia.org/resource/Overgrown
+
+mary - http://dbpedia.org/resource/Mary_Shelley
+
+west virginia - http://dbpedia.org/resource/West_Virginia
+
+north river mills historic district - http://dbpedia.org/resource/North_River_Mills_Historic_District
+
+populated places - http://dbpedia.org/resource/Human_settlement
+
+baked goods - http://dbpedia.org/resource/Baking
+
+keyboard - http://dbpedia.org/resource/Keyboard_instrument
+
+monroe - http://dbpedia.org/resource/Greg_Monroe
+
+pressed metal ceiling - http://dbpedia.org/resource/Tin_ceiling
+
+william nixon - http://dbpedia.org/resource/William_Nixon_(architect)
+
+hampshire review - http://dbpedia.org/resource/Hampshire_Review
+
+ms - http://dbpedia.org/resource/Millisecond
+
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+
+object - http://dbpedia.org/resource/Object-oriented_programming
+
+fellowship - http://dbpedia.org/resource/Koinonia
+
+folk - http://dbpedia.org/resource/Folk_art
+
+mount - http://dbpedia.org/resource/Mountain
+
+triune - http://dbpedia.org/resource/Trinity
+
+geological survey - http://dbpedia.org/resource/Geological_survey
+
+pisciotta - http://dbpedia.org/resource/Pisciotta
+
+romans - http://dbpedia.org/resource/Romans_(musician)
+
+parsons - http://dbpedia.org/resource/Parsons_School_of_Design
+
+greco - http://dbpedia.org/resource/Greek_Revival_architecture
+
+town - http://dbpedia.org/resource/Market_town
+
+agriculture - http://dbpedia.org/resource/Agriculture
+
+east wall - http://dbpedia.org/resource/East_Wall
+
+greenbrier - http://dbpedia.org/resource/Smilax
+
+gablefront house - http://dbpedia.org/resource/Gablefront_house
+
+noodles - http://dbpedia.org/resource/Noodle
+
+wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+bubbling spring - http://dbpedia.org/resource/Bubbling_Spring,_West_Virginia
+
+spiritual - http://dbpedia.org/resource/Spirituality
+
+sash - http://dbpedia.org/resource/Sash_window
+
+printer - http://dbpedia.org/resource/Printing
+
+inventory - http://dbpedia.org/resource/Inventory
+
+buffington island - http://dbpedia.org/resource/Buffington_Island
+
+united methodist women - http://dbpedia.org/resource/United_Methodist_Women
+
+districts - http://dbpedia.org/resource/Districts_of_England
+
+rock - http://dbpedia.org/resource/Rock_music
+
+metal - http://dbpedia.org/resource/Metalworking
+
+missionary - http://dbpedia.org/resource/Evangelism
+
+shiloh - http://dbpedia.org/resource/Battle_of_Shiloh
+
+bevel - http://dbpedia.org/resource/Bevel
+
+sanctuary - http://dbpedia.org/resource/Sanctuary
+
+single - http://dbpedia.org/resource/Phonograph_record
+
+cluster - http://dbpedia.org/resource/Cluster_analysis
+
+george - http://dbpedia.org/resource/George_(band)
+
+collective ownership - http://dbpedia.org/resource/Common_ownership
+
+counties - http://dbpedia.org/resource/County
+
+church bulletin - http://dbpedia.org/resource/Parish_magazine
+
+iron - http://dbpedia.org/resource/Wrought_iron
+
+bill richardson - http://dbpedia.org/resource/Bill_Richardson
+
+nails - http://dbpedia.org/resource/Holy_Nail
+
+mary - http://dbpedia.org/resource/Mary_II_of_England
+
+arlington county - http://dbpedia.org/resource/Arlington_County,_Virginia
+
+presbyterian church u.s.a. - http://dbpedia.org/resource/Presbyterian_Church_(USA)
+
+revenue - http://dbpedia.org/resource/Revenue
+
+rebecca - http://dbpedia.org/resource/Rebecca
+
+weatherboard - http://dbpedia.org/resource/Clapboard_(architecture)
+
+john wesley - http://dbpedia.org/resource/John_Wesley
+
+architectural plan - http://dbpedia.org/resource/Architectural_plan
+
+culture - http://dbpedia.org/resource/Culture
+
+brickwork - http://dbpedia.org/resource/Brickwork
+
+joseph - http://dbpedia.org/resource/Joseph_Smith
+
+atlantic europe - http://dbpedia.org/resource/Atlantic_Europe
+
+telephone - http://dbpedia.org/resource/Telephone
+
+latitude - http://dbpedia.org/resource/Latitude
+
+essex county - http://dbpedia.org/resource/Essex
+
+mosque - http://dbpedia.org/resource/Mosque
+
+god - http://dbpedia.org/resource/God
+
+city - http://dbpedia.org/resource/City
+
+swisher - http://dbpedia.org/resource/Swisher_County,_Texas
+
+worship service - http://dbpedia.org/resource/Church_service
+
+porch - http://dbpedia.org/resource/Porch
+
+pb - http://dbpedia.org/resource/Publishing
+
+aisle - http://dbpedia.org/resource/Aisle
+
+blacksmith - http://dbpedia.org/resource/Blacksmith
+
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+
+church - http://dbpedia.org/resource/Christian_denomination
+
+chain bridge - http://dbpedia.org/resource/Suspension_bridge
+
+purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
+
+maccabean period - http://dbpedia.org/resource/Maccabees
+
+tuna - http://dbpedia.org/resource/Tuna
+
+henry - http://dbpedia.org/resource/Henry_(unit)
+
+lake - http://dbpedia.org/resource/Lake
+
+space - http://dbpedia.org/resource/Space
+
+allegheny - http://dbpedia.org/resource/Allegheny_Mountains
+
+post office - http://dbpedia.org/resource/Post_office
+
+tabling - http://dbpedia.org/resource/Memoization
+
+town - http://dbpedia.org/resource/New_England_town
+
+hook - http://dbpedia.org/resource/Fish_hook

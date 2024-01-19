@@ -1,61 +1,44 @@
-middle ages - http://dbpedia.org/resource/Middle_Ages
-flanking fire - http://dbpedia.org/resource/Enfilade_and_defilade
-ditch - http://dbpedia.org/resource/Moat
-nobility - http://dbpedia.org/resource/Nobility
-military operation - http://dbpedia.org/resource/Military_operation
-administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
-horse - http://dbpedia.org/resource/Cavalry
-queen - http://dbpedia.org/resource/Queen_consort
-hill river - http://dbpedia.org/resource/Hill_River_(South_Australia)
-artillery - http://dbpedia.org/resource/Artillery
-defense update - http://dbpedia.org/resource/Defense_Update
-vikings - http://dbpedia.org/resource/Vikings
-fireproof - http://dbpedia.org/resource/Fireproofing
-fortress - http://dbpedia.org/resource/Castle
-marauder - http://dbpedia.org/resource/MARAUDER
-cannon - http://dbpedia.org/resource/Cannon
+beauty - http://dbpedia.org/resource/Beauty
+learning - http://dbpedia.org/resource/Learning
+timber - http://dbpedia.org/resource/Timber_framing
 medieval - http://dbpedia.org/resource/Middle_Ages
-stone - http://dbpedia.org/resource/Masonry
-pinnacle - http://dbpedia.org/resource/Pinnacle
-fort - http://dbpedia.org/resource/Fortification
-stay cool - http://dbpedia.org/resource/Stay_Cool
-main castle - http://dbpedia.org/resource/Inner_bailey
-defense - http://dbpedia.org/resource/Military
-norman - http://dbpedia.org/resource/Normans
-fortification - http://dbpedia.org/resource/Castle
-ring - http://dbpedia.org/resource/Ring_of_bells
-european castle - http://dbpedia.org/resource/Castle
-majestic - http://dbpedia.org/resource/Majestic_12
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
 function - http://dbpedia.org/resource/Role
 nonfiction - http://dbpedia.org/resource/Non-fiction
-peasant - http://dbpedia.org/resource/Peasant
-energy - http://dbpedia.org/resource/Energy
-office administration - http://dbpedia.org/resource/Office_administration
-weapon - http://dbpedia.org/resource/Weapon
-country house - http://dbpedia.org/resource/English_country_house
-arrow slit - http://dbpedia.org/resource/Arrowslit
-object - http://dbpedia.org/resource/Object-oriented_programming
+arrow slits - http://dbpedia.org/resource/Arrowslit
+arrow - http://dbpedia.org/resource/Arrow
+fortress - http://dbpedia.org/resource/Castle
+flanking fire - http://dbpedia.org/resource/Enfilade_and_defilade
+rebellion - http://dbpedia.org/resource/Rebellion
+culture - http://dbpedia.org/resource/Culture
+vikings - http://dbpedia.org/resource/Vikings
+fortification - http://dbpedia.org/resource/Castle
+majestic - http://dbpedia.org/resource/Majestic_12
+country houses - http://dbpedia.org/resource/English_country_house
+knights - http://dbpedia.org/resource/Knight
+space - http://dbpedia.org/resource/Outer_space
+norman - http://dbpedia.org/resource/Normans
+fireproof - http://dbpedia.org/resource/Fireproofing
+stone - http://dbpedia.org/resource/Masonry
+rings - http://dbpedia.org/resource/Sonic_the_Hedgehog
+nobility - http://dbpedia.org/resource/Nobility
 court - http://dbpedia.org/resource/Courtyard
-social center - http://dbpedia.org/resource/Community_centre
-stone castle - http://dbpedia.org/resource/Stone_Castle
-symbol - http://dbpedia.org/resource/Symbol
-fiefdom - http://dbpedia.org/resource/Fief
+wood - http://dbpedia.org/resource/Wood
+middle ages - http://dbpedia.org/resource/Middle_Ages
+main castle - http://dbpedia.org/resource/Inner_bailey
+artillery - http://dbpedia.org/resource/Artillery
+medieval england - http://dbpedia.org/resource/Middle_Ages
+queen - http://dbpedia.org/resource/Queen_consort
+pinnacle - http://dbpedia.org/resource/Pinnacle
 plunder - http://dbpedia.org/resource/Looting
-timber - http://dbpedia.org/resource/Timber_framing
+energy - http://dbpedia.org/resource/Energy
+fiefdom - http://dbpedia.org/resource/Fief
 killing ground - http://dbpedia.org/resource/Killing_Ground
+summer - http://dbpedia.org/resource/Summer_solstice
 safety - http://dbpedia.org/resource/Safety
 gunpowder - http://dbpedia.org/resource/Gunpowder
-rebellion - http://dbpedia.org/resource/Rebellion
-wood - http://dbpedia.org/resource/Wood
-summer - http://dbpedia.org/resource/Summer_solstice
-beauty - http://dbpedia.org/resource/Beauty
-gun - http://dbpedia.org/resource/Cannon
-castle technology - http://dbpedia.org/resource/Castle_Technology
-loom - http://dbpedia.org/resource/Loom
+stone castle - http://dbpedia.org/resource/Stone_Castle
+european castle - http://dbpedia.org/resource/Castle
+defense - http://dbpedia.org/resource/Military
+social centers - http://dbpedia.org/resource/Community_centre
 tower - http://dbpedia.org/resource/Keep
-arrow - http://dbpedia.org/resource/Arrow
-bridge tower - http://dbpedia.org/resource/Bridge_tower
-defender - http://dbpedia.org/resource/Defendant
-medieval england - http://dbpedia.org/resource/Middle_Ages
-culture - http://dbpedia.org/resource/Culture
-space - http://dbpedia.org/resource/Outer_space

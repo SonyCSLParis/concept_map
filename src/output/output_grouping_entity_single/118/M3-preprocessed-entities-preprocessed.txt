@@ -1,18 +1,15 @@
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-brougham - http://dbpedia.org/resource/Brougham_(carriage)
-neglect - http://dbpedia.org/resource/Neglect
-hotel - http://dbpedia.org/resource/Hotel
 robert clifford - http://dbpedia.org/resource/Bob_Clifford
-brougham castle - http://dbpedia.org/resource/Brougham_Castle
-anglo - http://dbpedia.org/resource/Anglo
-roman fort - http://dbpedia.org/resource/Castra
-scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
-robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
-cumbria - http://dbpedia.org/resource/Cumbria
-stone - http://dbpedia.org/resource/Stonemasonry
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-great tower - http://dbpedia.org/resource/Keep
-breakfast - http://dbpedia.org/resource/Breakfast
-medieval - http://dbpedia.org/resource/Middle_Ages
-guesthouse - http://dbpedia.org/resource/Guest_house
 timber - http://dbpedia.org/resource/Timber_framing
+stone - http://dbpedia.org/resource/Stonemasonry
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+neglect - http://dbpedia.org/resource/Neglect
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+medieval - http://dbpedia.org/resource/Middle_Ages
+anglo - http://dbpedia.org/resource/Anglo
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+cumbria - http://dbpedia.org/resource/Cumbria
+scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+great tower - http://dbpedia.org/resource/Keep
+roman fort - http://dbpedia.org/resource/Castra

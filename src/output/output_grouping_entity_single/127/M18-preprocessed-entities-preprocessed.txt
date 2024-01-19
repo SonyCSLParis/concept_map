@@ -1,47 +1,31 @@
-scaffolding - http://dbpedia.org/resource/Scaffolding
-artillery - http://dbpedia.org/resource/Artillery
-manufacturing - http://dbpedia.org/resource/Manufacturing
-cart - http://dbpedia.org/resource/Cart
-cannon - http://dbpedia.org/resource/Cannon
-defence - http://dbpedia.org/resource/Military
-stone - http://dbpedia.org/resource/Masonry
-quarryman - http://dbpedia.org/resource/Quarry
-erection - http://dbpedia.org/resource/Erection
-fort - http://dbpedia.org/resource/Fortification
-stone mason - http://dbpedia.org/resource/Stonemasonry
-nenagh castle - http://dbpedia.org/resource/Nenagh
-norman - http://dbpedia.org/resource/Normans
-fortification - http://dbpedia.org/resource/Castle
-rely - http://dbpedia.org/resource/Rely_(brand)
-building material - http://dbpedia.org/resource/Building_material
-integral - http://dbpedia.org/resource/Integral
-country style - http://dbpedia.org/resource/Country_Style
-warfare - http://dbpedia.org/resource/Medieval_warfare
-bridge castle - http://dbpedia.org/resource/Bridge_castle
-farney - http://dbpedia.org/resource/Farney_(barony)
-peasant - http://dbpedia.org/resource/Peasant
-castle building - http://dbpedia.org/resource/Castle_Building
-extreme poverty - http://dbpedia.org/resource/Extreme_poverty
-starvation - http://dbpedia.org/resource/Starvation
-arrear - http://dbpedia.org/resource/Arrears
-arrow slit - http://dbpedia.org/resource/Arrowslit
-wagon - http://dbpedia.org/resource/Wagon
-rock - http://dbpedia.org/resource/Rock_music
-court - http://dbpedia.org/resource/Courtyard
-stone castle - http://dbpedia.org/resource/Stone_Castle
-symbol - http://dbpedia.org/resource/Symbol
-rural - http://dbpedia.org/resource/Rural_area
-thurles - http://dbpedia.org/resource/Thurles
 timber - http://dbpedia.org/resource/Timber_framing
-urban castle - http://dbpedia.org/resource/Urban_castle
-build order - http://dbpedia.org/resource/Build_order
-joist - http://dbpedia.org/resource/Joist
-gunpowder - http://dbpedia.org/resource/Gunpowder
-gun - http://dbpedia.org/resource/Cannon
-flooring - http://dbpedia.org/resource/Tile
-outcrop - http://dbpedia.org/resource/Outcrop
-handgun - http://dbpedia.org/resource/Hand_cannon
-beam - http://dbpedia.org/resource/Bending
+country style - http://dbpedia.org/resource/Country_Style
+castle buildings - http://dbpedia.org/resource/Castle_Buildings
+bridge castle - http://dbpedia.org/resource/Bridge_castle
+stone masons - http://dbpedia.org/resource/Stonemasonry
+arrow slits - http://dbpedia.org/resource/Arrowslit
+starvation - http://dbpedia.org/resource/Starvation
 administration - http://dbpedia.org/resource/Route_of_administration
-tower - http://dbpedia.org/resource/Keep
+cannon - http://dbpedia.org/resource/Cannon
+manufacturing - http://dbpedia.org/resource/Manufacturing
+norman - http://dbpedia.org/resource/Normans
+stone - http://dbpedia.org/resource/Masonry
+erection - http://dbpedia.org/resource/Erection
+handgun - http://dbpedia.org/resource/Hand_cannon
+nenagh castle - http://dbpedia.org/resource/Nenagh
+court - http://dbpedia.org/resource/Courtyard
+gun - http://dbpedia.org/resource/Cannon
+thurles - http://dbpedia.org/resource/Thurles
+farney - http://dbpedia.org/resource/Farney_(barony)
+artillery - http://dbpedia.org/resource/Artillery
+extreme poverty - http://dbpedia.org/resource/Extreme_poverty
+rock - http://dbpedia.org/resource/Rock_music
+rural - http://dbpedia.org/resource/Rural_area
 tipperary - http://dbpedia.org/resource/County_Tipperary
+integral - http://dbpedia.org/resource/Integral
+urban - http://dbpedia.org/resource/Urban_area
+forced labour - http://dbpedia.org/resource/Unfree_labour
+gunpowder - http://dbpedia.org/resource/Gunpowder
+defence - http://dbpedia.org/resource/Military
+warfare - http://dbpedia.org/resource/Medieval_warfare
+scaffolding - http://dbpedia.org/resource/Scaffolding

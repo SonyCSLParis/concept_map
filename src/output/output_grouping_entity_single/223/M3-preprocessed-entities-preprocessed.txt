@@ -1,110 +1,93 @@
-middle ages - http://dbpedia.org/resource/Middle_Ages
-monetary system - http://dbpedia.org/resource/Money
-article - http://dbpedia.org/resource/Historicity_of_Jesus
-byzantine - http://dbpedia.org/resource/Byzantine_Empire
-christianity - http://dbpedia.org/resource/Christianity
-spiritual - http://dbpedia.org/resource/Spirituality
-roman forum - http://dbpedia.org/resource/Roman_Forum
-early modern europe - http://dbpedia.org/resource/Early_modern_Europe
-patriarch photios - http://dbpedia.org/resource/Photios_I_of_Constantinople
-clio - http://dbpedia.org/resource/Clio
-sidewalk - http://dbpedia.org/resource/Sidewalk
-macedonian - http://dbpedia.org/resource/Ancient_Macedonians
-daphne - http://dbpedia.org/resource/Daphne
-rome - http://dbpedia.org/resource/Roman_Empire
-history journal - http://dbpedia.org/resource/History_journal
-emperor - http://dbpedia.org/resource/Byzantine_Empire
-law preservation - http://dbpedia.org/resource/Law_Preservation_Party
-sacred - http://dbpedia.org/resource/Sacred
-curate - http://dbpedia.org/resource/Curator
-codification - http://dbpedia.org/resource/Codification_(law)
-byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-trapezus - http://dbpedia.org/resource/Trabzon
-civil law - http://dbpedia.org/resource/Roman_law
-longitudinal axis - http://dbpedia.org/resource/Aircraft_principal_axes
-iceland - http://dbpedia.org/resource/Iceland
-bronze - http://dbpedia.org/resource/Bronze
-holy spirit - http://dbpedia.org/resource/Holy_Spirit
-byzantines - http://dbpedia.org/resource/Byzantine_Empire
-allison - http://dbpedia.org/resource/Allison_Engine_Company
-bulgarians - http://dbpedia.org/resource/First_Bulgarian_Empire
-church - http://dbpedia.org/resource/Christian_Church
-paten - http://dbpedia.org/resource/Paten
-longevity - http://dbpedia.org/resource/Longevity
-sift - http://dbpedia.org/resource/Scale-invariant_feature_transform
-cult - http://dbpedia.org/resource/Imperial_cult_of_ancient_Rome
-superstructural - http://dbpedia.org/resource/Base_and_superstructure
-adriatic sea - http://dbpedia.org/resource/Adriatic_Sea
-justinian - http://dbpedia.org/resource/Justinian_I
-classical - http://dbpedia.org/resource/Classical_antiquity
-roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis
-court - http://dbpedia.org/resource/Royal_court
-ceylon - http://dbpedia.org/resource/Dutch_Ceylon
-medieval - http://dbpedia.org/resource/Middle_Ages
-pressure - http://dbpedia.org/resource/Pressure
-remarkable - http://dbpedia.org/resource/ReMarkable
-basil ii - http://dbpedia.org/resource/Basil_II
-eastern culture - http://dbpedia.org/resource/Eastern_world
-ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
-language - http://dbpedia.org/resource/Latin
-hellenization - http://dbpedia.org/resource/Hellenization
-corpus juris civilis - http://dbpedia.org/resource/Corpus_Juris_Civilis
-root - http://dbpedia.org/resource/Semitic_root
-reliquary - http://dbpedia.org/resource/Relic
-edict - http://dbpedia.org/resource/Edict
-spirituality - http://dbpedia.org/resource/Spirituality
-liturgical - http://dbpedia.org/resource/Liturgy
-constantine - http://dbpedia.org/resource/Constantine_the_Great
-hagia sophia church - http://dbpedia.org/resource/Saint_Sophia_Church,_Sofia
-varangian - http://dbpedia.org/resource/Varangians
-dome - http://dbpedia.org/resource/Dome
-forum - http://dbpedia.org/resource/Roman_Forum
-veneration - http://dbpedia.org/resource/Relic
-artifact - http://dbpedia.org/resource/Cultural_artifact
-augustus - http://dbpedia.org/resource/Augustus
-holy wisdom - http://dbpedia.org/resource/Holy_Wisdom
-syriac - http://dbpedia.org/resource/Syriac_language
-classical athens - http://dbpedia.org/resource/Classical_Greece
-theocracy - http://dbpedia.org/resource/Theocracy
-eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
-roman empire - http://dbpedia.org/resource/Byzantine_Empire
-legal precedent - http://dbpedia.org/resource/Precedent
-renaissance italy - http://dbpedia.org/resource/Renaissance
-byzantine art - http://dbpedia.org/resource/Byzantine_art
-city - http://dbpedia.org/resource/City
-jurisprudence - http://dbpedia.org/resource/Jurisprudence
-capital - http://dbpedia.org/resource/Capital_city
-roman - http://dbpedia.org/resource/Roman_Empire
-coherent - http://dbpedia.org/resource/Laser
-god - http://dbpedia.org/resource/Deity
-kiev - http://dbpedia.org/resource/Kievan_Rus'
-merchant - http://dbpedia.org/resource/Merchant
-christ - http://dbpedia.org/resource/Jesus
-constantinople - http://dbpedia.org/resource/Byzantine_Empire
-historian - http://dbpedia.org/resource/History
-culture - http://dbpedia.org/resource/Culture
-great church - http://dbpedia.org/resource/Hagia_Sophia
-pedestrian - http://dbpedia.org/resource/Pedestrian
-consumption - http://dbpedia.org/resource/Consumerism
-coin - http://dbpedia.org/resource/Roman_currency
-sultanate - http://dbpedia.org/resource/Sultan
-mehmet ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
-rum - http://dbpedia.org/resource/Rum
-encyclopedia - http://dbpedia.org/resource/Encyclopedia
-east rome - http://dbpedia.org/resource/Rome_High_School
-late antiquity - http://dbpedia.org/resource/Late_antiquity
-autocracy - http://dbpedia.org/resource/Autocracy
-hierarchy - http://dbpedia.org/resource/Hierarchy
-sun - http://dbpedia.org/resource/Solar_deity
-amazing - http://dbpedia.org/resource/Earth-616
-chalice - http://dbpedia.org/resource/Chalice
-hippodrome - http://dbpedia.org/resource/Hippodrome_of_Constantinople
-roman church - http://dbpedia.org/resource/Romanesque_architecture
-authority control - http://dbpedia.org/resource/Authority_control
-complete list - http://dbpedia.org/resource/Holy_Roman_Emperor
-byzantium - http://dbpedia.org/resource/Byzantine_Empire
 western roman empire - http://dbpedia.org/resource/Roman_Empire
-liturgical book - http://dbpedia.org/resource/Liturgical_book
+renaissance italy - http://dbpedia.org/resource/Renaissance
+late antiquity - http://dbpedia.org/resource/Late_antiquity
+liturgical - http://dbpedia.org/resource/Liturgy
+syriac - http://dbpedia.org/resource/Syriac_language
+rome - http://dbpedia.org/resource/Roman_Empire
+classical - http://dbpedia.org/resource/Classical_antiquity
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+sacred - http://dbpedia.org/resource/Sacred
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+church - http://dbpedia.org/resource/Christian_Church
+kiev - http://dbpedia.org/resource/Kievan_Rus'
+daphne - http://dbpedia.org/resource/Daphne
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+hippodrome - http://dbpedia.org/resource/Hippodrome_of_Constantinople
+veneration - http://dbpedia.org/resource/Relic
+macedonian - http://dbpedia.org/resource/Ancient_Macedonians
+roman church - http://dbpedia.org/resource/Romanesque_architecture
+varangian - http://dbpedia.org/resource/Varangians
+civil law - http://dbpedia.org/resource/Roman_law
+classical athens - http://dbpedia.org/resource/Classical_Greece
+capital - http://dbpedia.org/resource/Capital_city
+tangles - http://dbpedia.org/resource/Neurofibrillary_tangle
+jurisprudence - http://dbpedia.org/resource/Jurisprudence
+coherent - http://dbpedia.org/resource/Laser
+reliquaries - http://dbpedia.org/resource/Reliquary
+byzantine art - http://dbpedia.org/resource/Byzantine_art
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+superstructural - http://dbpedia.org/resource/Base_and_superstructure
+forum - http://dbpedia.org/resource/Roman_Forum
+patriarch photios - http://dbpedia.org/resource/Photios_I_of_Constantinople
+adriatic sea - http://dbpedia.org/resource/Adriatic_Sea
+hellenization - http://dbpedia.org/resource/Hellenization
+monetary system - http://dbpedia.org/resource/Money
+dome - http://dbpedia.org/resource/Dome
+heaven - http://dbpedia.org/resource/Tian
+clio - http://dbpedia.org/resource/Clio
+god - http://dbpedia.org/resource/Deity
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+theocracy - http://dbpedia.org/resource/Theocracy
+eastern culture - http://dbpedia.org/resource/Eastern_world
+sun - http://dbpedia.org/resource/Solar_deity
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+rum - http://dbpedia.org/resource/Rum
+pressure - http://dbpedia.org/resource/Pressure
+trapezus - http://dbpedia.org/resource/Trabzon
+history journal - http://dbpedia.org/resource/History_journal
+amazing - http://dbpedia.org/resource/Earth-616
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+mehmet ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
+allison - http://dbpedia.org/resource/Allison_Engine_Company
+longitudinal axis - http://dbpedia.org/resource/Aircraft_principal_axes
+great church - http://dbpedia.org/resource/Hagia_Sophia
+spiritual - http://dbpedia.org/resource/Spirituality
+remarkable - http://dbpedia.org/resource/ReMarkable
+artifacts - http://dbpedia.org/resource/Cultural_artifact
 religious art - http://dbpedia.org/resource/Religious_art
+longevity - http://dbpedia.org/resource/Longevity
+court - http://dbpedia.org/resource/Royal_court
+christ - http://dbpedia.org/resource/Jesus
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+hierarchies - http://dbpedia.org/resource/Hierarchy
 eucharist - http://dbpedia.org/resource/Eucharist
-heaven - http://dbpedia.org/resource/Heaven
+augustus - http://dbpedia.org/resource/Augustus
+medieval - http://dbpedia.org/resource/Middle_Ages
+roman - http://dbpedia.org/resource/Roman_Empire
+bronze - http://dbpedia.org/resource/Bronze
+spirituality - http://dbpedia.org/resource/Christian_mysticism
+culture - http://dbpedia.org/resource/Culture
+holy wisdom - http://dbpedia.org/resource/Holy_Wisdom
+iceland - http://dbpedia.org/resource/Iceland
+article - http://dbpedia.org/resource/Historicity_of_Jesus
+complete list - http://dbpedia.org/resource/Holy_Roman_Emperor
+codification - http://dbpedia.org/resource/Codification_(law)
+hagia sophia church - http://dbpedia.org/resource/Saint_Sophia_Church,_Sofia
+early modern europe - http://dbpedia.org/resource/Early_modern_Europe
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+sultanate - http://dbpedia.org/resource/Sultan
+middle ages - http://dbpedia.org/resource/Middle_Ages
+city - http://dbpedia.org/resource/City
+basil ii - http://dbpedia.org/resource/Basil_II
+language - http://dbpedia.org/resource/Latin
+christianity - http://dbpedia.org/resource/Christianity
+bulgarians - http://dbpedia.org/resource/First_Bulgarian_Empire
+holy spirit - http://dbpedia.org/resource/Holy_Spirit
+ceylon - http://dbpedia.org/resource/Dutch_Ceylon
+consumption - http://dbpedia.org/resource/Consumerism
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+corpus juris civilis - http://dbpedia.org/resource/Corpus_Juris_Civilis
+autocracy - http://dbpedia.org/resource/Autocracy
+roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis

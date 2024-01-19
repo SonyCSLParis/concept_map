@@ -1,41 +1,39 @@
 misunderstood - http://dbpedia.org/resource/The_Misunderstood
-tarmac - http://dbpedia.org/resource/Tarmacadam
-joe hesketh - http://dbpedia.org/resource/Joe_Hesketh
-education - http://dbpedia.org/resource/Education
-popular culture - http://dbpedia.org/resource/Popular_culture
-intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
-bus route - http://dbpedia.org/resource/Public_transport_bus_service
+judge - http://dbpedia.org/resource/Judge
+pendle forest - http://dbpedia.org/resource/Forest_of_Pendle
+soaked - http://dbpedia.org/resource/RollerCoaster_Tycoon_3
+church - http://dbpedia.org/resource/Catholic_Church
+magicians - http://dbpedia.org/resource/The_Walt_Disney_Company
+footsteps - http://dbpedia.org/resource/Footsteps_(organization)
+harry potter - http://dbpedia.org/resource/Harry_Potter
 trail - http://dbpedia.org/resource/Trail
+grim - http://dbpedia.org/resource/Church_grim
+outlook - http://dbpedia.org/resource/Microsoft_Outlook
 folk - http://dbpedia.org/resource/Folklore
 bit - http://dbpedia.org/resource/Bit
-murder - http://dbpedia.org/resource/Murder
-perfume - http://dbpedia.org/resource/Perfume
+twisted trees - http://dbpedia.org/resource/Crooked_Trees
+herbal medicines - http://dbpedia.org/resource/Herbal_medicine
 atrocious - http://dbpedia.org/resource/Atrocious_(film)
-healer - http://dbpedia.org/resource/Folk_healer
-evil - http://dbpedia.org/resource/Evil
-purgatory - http://dbpedia.org/resource/Purgatory
-tree - http://dbpedia.org/resource/Tree
 pendle witches - http://dbpedia.org/resource/Pendle_witches
 map - http://dbpedia.org/resource/Map
-pendle hill - http://dbpedia.org/resource/Pendle_Hill
-pendle witch trials - http://dbpedia.org/resource/Pendle_witches
-horror - http://dbpedia.org/resource/Horror_film
-single - http://dbpedia.org/resource/Phonograph_record
-pendle forest - http://dbpedia.org/resource/Forest_of_Pendle
-revere - http://dbpedia.org/resource/Paul_Revere
-advantage play - http://dbpedia.org/resource/Advantage_gambling
-grim - http://dbpedia.org/resource/Church_grim
-judge - http://dbpedia.org/resource/Judge
-outlook - http://dbpedia.org/resource/Microsoft_Outlook
-magician - http://dbpedia.org/resource/Magic_in_fiction
-pendle - http://dbpedia.org/resource/Pendle_witches
-witch trial - http://dbpedia.org/resource/Witch-hunt
-pub - http://dbpedia.org/resource/Pub
-herbal medicine - http://dbpedia.org/resource/Herbal_medicine
-prepare - http://dbpedia.org/resource/PREPARE
-lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
-harry potter - http://dbpedia.org/resource/Harry_Potter
+horrors - http://dbpedia.org/resource/Horror_(Garo)
+single women - http://dbpedia.org/resource/Single_Women
+purgatory - http://dbpedia.org/resource/Purgatory
+hanged - http://dbpedia.org/resource/Hanging
+pubs - http://dbpedia.org/resource/Pub
 witchcraft - http://dbpedia.org/resource/Witchcraft
+pendle - http://dbpedia.org/resource/Pendle_witches
+perfume - http://dbpedia.org/resource/Perfume
+witch trials - http://dbpedia.org/resource/Witch-hunt
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+education - http://dbpedia.org/resource/Education
+popular culture - http://dbpedia.org/resource/Popular_culture
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+evil - http://dbpedia.org/resource/Evil
+tarmac - http://dbpedia.org/resource/Tarmacadam
+joe hesketh - http://dbpedia.org/resource/Joe_Hesketh
+witches - http://dbpedia.org/resource/Witchcraft
+pendle witch trials - http://dbpedia.org/resource/Pendle_witches
+bus - http://dbpedia.org/resource/Bus
+witch trial - http://dbpedia.org/resource/Witch-hunt
 weather - http://dbpedia.org/resource/Weather
-culture - http://dbpedia.org/resource/Culture
-church school - http://dbpedia.org/resource/Christian_school

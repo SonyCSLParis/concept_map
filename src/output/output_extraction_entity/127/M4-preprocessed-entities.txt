@@ -18,19 +18,15 @@ gate - http://dbpedia.org/resource/City_gate
 tower - http://dbpedia.org/resource/Keep
 defense - http://dbpedia.org/resource/Military
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-defender - http://dbpedia.org/resource/Association_football
-fire arrow - http://dbpedia.org/resource/Fire_arrow
+fire arrows - http://dbpedia.org/resource/Fire_arrow
 arrow slits - http://dbpedia.org/resource/Arrowslit
-archer - http://dbpedia.org/resource/Bow_and_arrow
-arrow - http://dbpedia.org/resource/Arrow
+archers - http://dbpedia.org/resource/English_longbow
 return fire - http://dbpedia.org/resource/Return_Fire
 gatehouse - http://dbpedia.org/resource/Gatehouse
 gatehouse - http://dbpedia.org/resource/Gatehouse
 gate - http://dbpedia.org/resource/City_gate
-defense - http://dbpedia.org/resource/Military
-battlement - http://dbpedia.org/resource/Battlement
 battlements - http://dbpedia.org/resource/Battlement
-defender - http://dbpedia.org/resource/Association_football
+battlements - http://dbpedia.org/resource/Battlement
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 royalty - http://dbpedia.org/resource/Monarch
 tower - http://dbpedia.org/resource/Keep
@@ -40,7 +36,7 @@ prison - http://dbpedia.org/resource/Prison
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 edward - http://dbpedia.org/resource/Edward_I_of_England
 gaillard - http://dbpedia.org/resource/Gaillard
-richard lionheart - http://dbpedia.org/resource/Richard_I_of_England
+lionheart - http://dbpedia.org/resource/Chris_Jericho
 carcassonne - http://dbpedia.org/resource/Carcassonne
 romans - http://dbpedia.org/resource/Romans_(musician)
 spis - http://dbpedia.org/resource/Spiš
@@ -52,19 +48,16 @@ malbork castle - http://dbpedia.org/resource/Malbork_Castle
 poland - http://dbpedia.org/resource/Poland
 teutonic knights - http://dbpedia.org/resource/Teutonic_Order
 surface area - http://dbpedia.org/resource/Surface_area
-tower - http://dbpedia.org/resource/Keep
-tower - http://dbpedia.org/resource/Keep
 defense - http://dbpedia.org/resource/Military
 buttery - http://dbpedia.org/resource/Buttery_(room)
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 battering ram - http://dbpedia.org/resource/Battering_ram
 catapult - http://dbpedia.org/resource/Catapult
-siege tower - http://dbpedia.org/resource/Siege_tower
+siege towers - http://dbpedia.org/resource/Siege_tower
 ballista - http://dbpedia.org/resource/Ballista
-time attack - http://dbpedia.org/resource/Time_attack
 siege - http://dbpedia.org/resource/Siege
-spring water - http://dbpedia.org/resource/Mineral_water
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+water - http://dbpedia.org/resource/Water
 siege - http://dbpedia.org/resource/Siege
 steward - http://dbpedia.org/resource/Butler
-dog - http://dbpedia.org/resource/Dog
 grain - http://dbpedia.org/resource/Grain

@@ -1,152 +1,132 @@
-hew - http://dbpedia.org/resource/United_States_Department_of_Health_and_Human_Services
-step pyramid - http://dbpedia.org/resource/Pyramid_of_Djoser
-christianity - http://dbpedia.org/resource/Christianity
-crocodile - http://dbpedia.org/resource/Crocodile
-stone - http://dbpedia.org/resource/Stonemasonry
-djoser - http://dbpedia.org/resource/Djoser
-sob - http://dbpedia.org/resource/Südostbahn
-die - http://dbpedia.org/resource/Death
-coercion - http://dbpedia.org/resource/Coercion
-gizeh - http://dbpedia.org/resource/Giza
-jewelry - http://dbpedia.org/resource/Jewellery
-architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-train - http://dbpedia.org/resource/Rail_transport
-osiris - http://dbpedia.org/resource/Osiris
-evil - http://dbpedia.org/resource/Evil
-inlay - http://dbpedia.org/resource/Inlay
-lisht - http://dbpedia.org/resource/Lisht
-royal princess - http://dbpedia.org/resource/Louise,_Princess_Royal
-amenhotep iv - http://dbpedia.org/resource/Akhenaten
-virgin mary - http://dbpedia.org/resource/Theotokos
-imperative - http://dbpedia.org/resource/Imperative_mood
-precious stone - http://dbpedia.org/resource/Gemstone
-marketplace - http://dbpedia.org/resource/Marketplace
-mound - http://dbpedia.org/resource/Tumulus
-divinity - http://dbpedia.org/resource/Deity
-scribner - http://dbpedia.org/resource/Charles_Scribner's_Sons
-dahshur - http://dbpedia.org/resource/Dahshur
-hyksos - http://dbpedia.org/resource/Hyksos
-religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
-solidify - http://dbpedia.org/resource/Solidify_(Grip_Inc._album)
-temple place - http://dbpedia.org/resource/Temple_Place
-chephren - http://dbpedia.org/resource/Khafra
-courageous - http://dbpedia.org/resource/Operation_Courageous
-twelfth dynasty - http://dbpedia.org/resource/Twelfth_Dynasty_of_Egypt
-sailor - http://dbpedia.org/resource/Sailor
-law - http://dbpedia.org/resource/Roman_law
-truth - http://dbpedia.org/resource/Truth
-fourth dynasty - http://dbpedia.org/resource/Fourth_Dynasty_of_Egypt
-mason - http://dbpedia.org/resource/Freemasonry
-delta - http://dbpedia.org/resource/Nile_Delta
-myth - http://dbpedia.org/resource/Myth
-mortality - http://dbpedia.org/resource/Death
-classical - http://dbpedia.org/resource/Classical_antiquity
-millennia - http://dbpedia.org/resource/Millennium
-nile - http://dbpedia.org/resource/Nile
-village - http://dbpedia.org/resource/Village
-pharaohs - http://dbpedia.org/resource/Pharaoh
-aton - http://dbpedia.org/resource/Navigational_aid
-egyptians - http://dbpedia.org/resource/Ancient_Egypt
-murder - http://dbpedia.org/resource/Murder
-afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
-sun god - http://dbpedia.org/resource/Ra
-hieroglyphic - http://dbpedia.org/resource/Egyptian_hieroglyphs
-language - http://dbpedia.org/resource/Latin
-posthumously - http://dbpedia.org/resource/Death
-priesthood - http://dbpedia.org/resource/Kohen
-bastet - http://dbpedia.org/resource/Bastet
-thesis - http://dbpedia.org/resource/Thesis
-root - http://dbpedia.org/resource/Semitic_root
-goddess - http://dbpedia.org/resource/Ancient_Egyptian_deities
-sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
-revolutionary - http://dbpedia.org/resource/French_Revolution
-grave robber - http://dbpedia.org/resource/Grave_robbery
-architect - http://dbpedia.org/resource/Architecture
-religious doctrine - http://dbpedia.org/resource/Religion
-central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
-strike - http://dbpedia.org/resource/Strike_action
-labor force - http://dbpedia.org/resource/Workforce
-marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
-human - http://dbpedia.org/resource/Human_nature
-polytheism - http://dbpedia.org/resource/Polytheism
-rubble - http://dbpedia.org/resource/Rubble
-zoser - http://dbpedia.org/resource/Djoser
-universe - http://dbpedia.org/resource/Universe
-magic - http://dbpedia.org/resource/Magic_in_fiction
-abstract - http://dbpedia.org/resource/Abstraction
-shakespeare - http://dbpedia.org/resource/William_Shakespeare
-defile - http://dbpedia.org/resource/Defile_(geography)
-invade egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
-mold - http://dbpedia.org/resource/Mold
-conservative - http://dbpedia.org/resource/Christian_fundamentalism
-underworld - http://dbpedia.org/resource/Duat
-egyptologist - http://dbpedia.org/resource/Egyptology
-western religion - http://dbpedia.org/resource/Western_Religion_(film)
-tomb - http://dbpedia.org/resource/Tomb
-ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
-sobeck - http://dbpedia.org/resource/Sobek
-ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
-armlet - http://dbpedia.org/resource/Brassard
-gold - http://dbpedia.org/resource/Gold
-tutankhamun - http://dbpedia.org/resource/Tutankhamun
-plane - http://dbpedia.org/resource/Two-dimensional_space
-rock - http://dbpedia.org/resource/Rock_music
-b.c. - http://dbpedia.org/resource/Figured_bass
-inand - http://dbpedia.org/resource/Cefa
-ray - http://dbpedia.org/resource/Batoidea
-judge - http://dbpedia.org/resource/Qadi
-el lahun - http://dbpedia.org/resource/El_Lahun
-magnitude - http://dbpedia.org/resource/Euclidean_vector
 beauty - http://dbpedia.org/resource/Beauty
-imhotep - http://dbpedia.org/resource/Imhotep
-egyptian - http://dbpedia.org/resource/Ancient_Egypt
+rays - http://dbpedia.org/resource/Electromagnetic_radiation
+bore - http://dbpedia.org/resource/Well
+crocodile - http://dbpedia.org/resource/Crocodile
 democratic - http://dbpedia.org/resource/Democracy
-deity - http://dbpedia.org/resource/Ancient_Egyptian_deities
-anarchy - http://dbpedia.org/resource/Anarchy
-culture - http://dbpedia.org/resource/Culture
-james henry - http://dbpedia.org/resource/Tom_McCauley
-greeks - http://dbpedia.org/resource/Ancient_Greece
-middle kingdom egypt - http://dbpedia.org/resource/Middle_Kingdom_of_Egypt
-pepi ii - http://dbpedia.org/resource/Pepi_II_Neferkare
-infrastructure - http://dbpedia.org/resource/Infrastructure
-twentieth dynasty - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
-utility - http://dbpedia.org/resource/Utility
-produce series - http://dbpedia.org/resource/Paramount_Television_Studios
-london university - http://dbpedia.org/resource/University_College_London
-york - http://dbpedia.org/resource/House_of_York
-amun - http://dbpedia.org/resource/Amun
-chicago - http://dbpedia.org/resource/Chicago
-pharaoh - http://dbpedia.org/resource/Pharaoh
-rosalie - http://dbpedia.org/resource/Rosalie_Mansion
-temple - http://dbpedia.org/resource/Egyptian_temple
-cheops - http://dbpedia.org/resource/CHEOPS
-sun - http://dbpedia.org/resource/Solar_deity
-collar - http://dbpedia.org/resource/Dog_collar
+chephren - http://dbpedia.org/resource/Khafra
+underworld - http://dbpedia.org/resource/Duat
+aton - http://dbpedia.org/resource/Navigational_aid
+labor force - http://dbpedia.org/resource/Workforce
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+el lahun - http://dbpedia.org/resource/El_Lahun
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-akhenaton - http://dbpedia.org/resource/Akhenaten
-ancient egyptian civilization - http://dbpedia.org/resource/Ancient_Egypt
-charles - http://dbpedia.org/resource/Charles_II_of_England
-bear - http://dbpedia.org/resource/Bear
-hamlet - http://dbpedia.org/resource/Hamlet
-angle - http://dbpedia.org/resource/Zenith
-satan - http://dbpedia.org/resource/Satan
-civilization - http://dbpedia.org/resource/Civilization
-labor day - http://dbpedia.org/resource/International_Workers'_Day
-symbol - http://dbpedia.org/resource/Symbol
-grace - http://dbpedia.org/resource/Divine_grace
-noble - http://dbpedia.org/resource/Nobility
-grim - http://dbpedia.org/resource/Church_grim
-hawara - http://dbpedia.org/resource/Hawara
-sculpture - http://dbpedia.org/resource/Sculpture
-isis - http://dbpedia.org/resource/Isis
-middle kingdom - http://dbpedia.org/resource/Middle_Francia
-paper - http://dbpedia.org/resource/Paper
-egyptian art - http://dbpedia.org/resource/Art_of_ancient_Egypt
-wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
-david - http://dbpedia.org/resource/David
-itwa - http://dbpedia.org/resource/Itwa_(Siddharth_Nagar)
-babe - http://dbpedia.org/resource/Paul_Bunyan
+b.c. - http://dbpedia.org/resource/Figured_bass
+central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+myth - http://dbpedia.org/resource/Myth
+classical - http://dbpedia.org/resource/Classical_antiquity
+lisht - http://dbpedia.org/resource/Lisht
+imperative - http://dbpedia.org/resource/Imperative_mood
+inand - http://dbpedia.org/resource/Cefa
+courageous - http://dbpedia.org/resource/Operation_Courageous
+polytheism - http://dbpedia.org/resource/Polytheism
+gold - http://dbpedia.org/resource/Gold
+priesthood - http://dbpedia.org/resource/Kohen
+village - http://dbpedia.org/resource/Village
+evil - http://dbpedia.org/resource/Evil
+magic - http://dbpedia.org/resource/Magic_in_fiction
+gizeh - http://dbpedia.org/resource/Giza
+zoser - http://dbpedia.org/resource/Djoser
+afterlives - http://dbpedia.org/resource/Afterlife
+infrastructure - http://dbpedia.org/resource/Infrastructure
+coercion - http://dbpedia.org/resource/Coercion
 slavery - http://dbpedia.org/resource/Slavery
-heaven - http://dbpedia.org/resource/Heaven
+egyptian art - http://dbpedia.org/resource/Art_of_ancient_Egypt
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
+hieroglyphic - http://dbpedia.org/resource/Egyptian_hieroglyphs
+human - http://dbpedia.org/resource/Human_nature
+universe - http://dbpedia.org/resource/Universe
+invaded egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
+osiris - http://dbpedia.org/resource/Osiris
+millennia - http://dbpedia.org/resource/Millennium
+egyptologists - http://dbpedia.org/resource/Egyptology
+isis - http://dbpedia.org/resource/Isis
+grace - http://dbpedia.org/resource/Divine_grace
+judge - http://dbpedia.org/resource/Qadi
+akhenaton - http://dbpedia.org/resource/Akhenaten
+middle kingdom - http://dbpedia.org/resource/Middle_Francia
+djoser - http://dbpedia.org/resource/Djoser
+afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
+molded - http://dbpedia.org/resource/Injection_moulding
+delta - http://dbpedia.org/resource/Nile_Delta
+pharaohs - http://dbpedia.org/resource/Pharaoh
+james henry - http://dbpedia.org/resource/Tom_McCauley
+listed - http://dbpedia.org/resource/Listed_building
+ethics - http://dbpedia.org/resource/Ethics
+hawara - http://dbpedia.org/resource/Hawara
+western religion - http://dbpedia.org/resource/Western_Religion_(film)
+revolutionary - http://dbpedia.org/resource/French_Revolution
+fourth dynasty - http://dbpedia.org/resource/Fourth_Dynasty_of_Egypt
+satan - http://dbpedia.org/resource/Satan
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
+hamlet - http://dbpedia.org/resource/Hamlet
+hyksos - http://dbpedia.org/resource/Hyksos
+scribner - http://dbpedia.org/resource/Charles_Scribner's_Sons
+pepi ii - http://dbpedia.org/resource/Pepi_II_Neferkare
+sun - http://dbpedia.org/resource/Solar_deity
+truth - http://dbpedia.org/resource/Truth
+greeks - http://dbpedia.org/resource/Ancient_Greece
+step pyramid - http://dbpedia.org/resource/Pyramid_of_Djoser
+jewelry - http://dbpedia.org/resource/Jewellery
+pharaoh - http://dbpedia.org/resource/Pharaoh
+imhotep - http://dbpedia.org/resource/Imhotep
+nile - http://dbpedia.org/resource/Nile
+ancient egyptian civilization - http://dbpedia.org/resource/Ancient_Egypt
+sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
+grave robbers - http://dbpedia.org/resource/Grave_robbery
+wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+sailor - http://dbpedia.org/resource/Sailor
+amenhotep iv - http://dbpedia.org/resource/Akhenaten
+rock - http://dbpedia.org/resource/Rock_music
+stone - http://dbpedia.org/resource/Stonemasonry
+amun - http://dbpedia.org/resource/Amun
+posthumously - http://dbpedia.org/resource/Death
+virgin mary - http://dbpedia.org/resource/Theotokos
+deities - http://dbpedia.org/resource/Ancient_Egyptian_deities
+twelfth dynasty - http://dbpedia.org/resource/Twelfth_Dynasty_of_Egypt
+thesis - http://dbpedia.org/resource/Thesis
+sobeck - http://dbpedia.org/resource/Sobek
+tutankhamun - http://dbpedia.org/resource/Tutankhamun
+precious stones - http://dbpedia.org/resource/Gemstone
+mortality - http://dbpedia.org/resource/Death
+anarchy - http://dbpedia.org/resource/Anarchy
+law - http://dbpedia.org/resource/Roman_law
+abstract - http://dbpedia.org/resource/Abstraction
+divinity - http://dbpedia.org/resource/Deity
+paper - http://dbpedia.org/resource/Paper
+chicago - http://dbpedia.org/resource/Chicago
+charles - http://dbpedia.org/resource/Charles_II_of_England
+grim - http://dbpedia.org/resource/Church_grim
+civilization - http://dbpedia.org/resource/Civilization
+dahshur - http://dbpedia.org/resource/Dahshur
+culture - http://dbpedia.org/resource/Culture
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+wished - http://dbpedia.org/resource/Wished_(film)
+david - http://dbpedia.org/resource/David
+utility - http://dbpedia.org/resource/Utility
+magnitude - http://dbpedia.org/resource/Euclidean_vector
+rosalie - http://dbpedia.org/resource/Rosalie_Mansion
+crowns - http://dbpedia.org/resource/Austro-Hungarian_krone
+twentieth dynasty - http://dbpedia.org/resource/Twentieth_Dynasty_of_Egypt
+sun god - http://dbpedia.org/resource/Ra
+symbol - http://dbpedia.org/resource/Symbol
+shakespeare - http://dbpedia.org/resource/William_Shakespeare
+york - http://dbpedia.org/resource/House_of_York
+masons - http://dbpedia.org/resource/Stonemasonry
+egyptians - http://dbpedia.org/resource/Ancient_Egypt
+rubble - http://dbpedia.org/resource/Rubble
+language - http://dbpedia.org/resource/Latin
+christianity - http://dbpedia.org/resource/Christianity
+root - http://dbpedia.org/resource/Semitic_root
+angle - http://dbpedia.org/resource/Zenith
+dynasties - http://dbpedia.org/resource/Dynasty
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+conservative - http://dbpedia.org/resource/Christian_fundamentalism
+religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
+labor day - http://dbpedia.org/resource/International_Workers'_Day
+goddess - http://dbpedia.org/resource/Ancient_Egyptian_deities
+bastet - http://dbpedia.org/resource/Bastet
+cheops - http://dbpedia.org/resource/CHEOPS
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+architect - http://dbpedia.org/resource/Architecture

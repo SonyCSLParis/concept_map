@@ -1,17 +1,13 @@
-taste - http://dbpedia.org/resource/Taste
-black tea - http://dbpedia.org/resource/Black_tea
-region - http://dbpedia.org/resource/Regions_of_Italy
 ceylon - http://dbpedia.org/resource/Sri_Lanka
-culture - http://dbpedia.org/resource/Culture_of_India
-ceylon tea - http://dbpedia.org/resource/Tea_production_in_Sri_Lanka
-british empire - http://dbpedia.org/resource/British_Empire
-ruhuna - http://dbpedia.org/resource/Principality_of_Ruhuna
-breakfast - http://dbpedia.org/resource/Breakfast
-assam - http://dbpedia.org/resource/Assam_tea
-indian tea - http://dbpedia.org/resource/Tea
-symbol - http://dbpedia.org/resource/Symbol
-liqueur - http://dbpedia.org/resource/Liqueur
+region - http://dbpedia.org/resource/Regions_of_Italy
 economy - http://dbpedia.org/resource/Economy_of_Portugal
-bergamot - http://dbpedia.org/resource/Bergamot_orange
-leaf - http://dbpedia.org/resource/Leaf
+breakfast - http://dbpedia.org/resource/Breakfast
+liqueur - http://dbpedia.org/resource/Liqueur
 ruby - http://dbpedia.org/resource/Ruby
+assam - http://dbpedia.org/resource/Assam_tea
+leaf - http://dbpedia.org/resource/Leaf
+black tea - http://dbpedia.org/resource/Black_tea
+bergamot - http://dbpedia.org/resource/Bergamot_orange
+ruhuna - http://dbpedia.org/resource/Principality_of_Ruhuna
+culture - http://dbpedia.org/resource/Culture_of_India
+british empire - http://dbpedia.org/resource/British_Empire

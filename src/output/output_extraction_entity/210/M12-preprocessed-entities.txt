@@ -3,13 +3,14 @@ ramesses xi - http://dbpedia.org/resource/Ramesses_XI
 smendes - http://dbpedia.org/resource/Smendes
 high priest - http://dbpedia.org/resource/High_priest
 amun - http://dbpedia.org/resource/Amun
+smendes - http://dbpedia.org/resource/Smendes
 b.c. - http://dbpedia.org/resource/Figured_bass
 observable - http://dbpedia.org/resource/Observation
 culture - http://dbpedia.org/resource/Culture
 egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
 dynasty 21 - http://dbpedia.org/resource/Twenty-first_Dynasty_of_Egypt
 b.c. - http://dbpedia.org/resource/Figured_bass
-pharaoh - http://dbpedia.org/resource/Pharaoh
+pharaohs - http://dbpedia.org/resource/Pharaoh
 tanis - http://dbpedia.org/resource/Tanis
 delta - http://dbpedia.org/resource/Nile_Delta
 high priests - http://dbpedia.org/resource/High_Priest_of_Ptah
@@ -22,14 +23,13 @@ delta - http://dbpedia.org/resource/Nile_Delta
 dynasty 22 - http://dbpedia.org/resource/Twenty-second_Dynasty_of_Egypt
 b.c. - http://dbpedia.org/resource/Figured_bass
 libyan - http://dbpedia.org/resource/Ancient_Libya
-pharaoh - http://dbpedia.org/resource/Pharaoh
+pharaohs - http://dbpedia.org/resource/Pharaoh
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 sheshonq - http://dbpedia.org/resource/Shoshenq
 b.c. - http://dbpedia.org/resource/Figured_bass
 bible - http://dbpedia.org/resource/Hebrew_Bible
 shishak - http://dbpedia.org/resource/Shishak
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
-sack - http://dbpedia.org/resource/Looting
 jerusalem - http://dbpedia.org/resource/Jerusalem
 year 5 - http://dbpedia.org/resource/Year_Five
 solomon - http://dbpedia.org/resource/Solomon
@@ -40,6 +40,7 @@ dynasty 22 - http://dbpedia.org/resource/Twenty-second_Dynasty_of_Egypt
 power center - http://dbpedia.org/resource/Retail_park
 b.c. - http://dbpedia.org/resource/Figured_bass
 delta - http://dbpedia.org/resource/Nile_Delta
+dynasties - http://dbpedia.org/resource/Dynasty
 b.c. - http://dbpedia.org/resource/Figured_bass
 delta - http://dbpedia.org/resource/Nile_Delta
 osorkon iv - http://dbpedia.org/resource/Osorkon_IV
@@ -56,7 +57,7 @@ b.c. - http://dbpedia.org/resource/Figured_bass
 heracleopolis - http://dbpedia.org/resource/Heracleopolis_Magna
 peftjaubast - http://dbpedia.org/resource/Peftjauawybast
 b.c. - http://dbpedia.org/resource/Figured_bass
-rivalry - http://dbpedia.org/resource/National_Football_League_rivalries
+preoccupied - http://dbpedia.org/resource/International_Code_of_Zoological_Nomenclature
 nubia - http://dbpedia.org/resource/Nubia
 b.c. - http://dbpedia.org/resource/Figured_bass
 independent - http://dbpedia.org/resource/Independence
@@ -83,24 +84,21 @@ temple - http://dbpedia.org/resource/Egyptian_temple
 network - http://dbpedia.org/resource/Social_network
 dominant - http://dbpedia.org/resource/Dominance_hierarchy
 sphere - http://dbpedia.org/resource/Sphere_of_influence
-aspiration - http://dbpedia.org/resource/Aspirated_consonant
 temple - http://dbpedia.org/resource/Egyptian_temple
 sphere - http://dbpedia.org/resource/Sphere_of_influence
 bronze - http://dbpedia.org/resource/Bronze
 temple - http://dbpedia.org/resource/Egyptian_temple
 statuary - http://dbpedia.org/resource/Sculpture
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 great temple - http://dbpedia.org/resource/Templo_Mayor
 temple - http://dbpedia.org/resource/Egyptian_temple
 safety - http://dbpedia.org/resource/Safety
 gold - http://dbpedia.org/resource/Gold
 silver royal - http://dbpedia.org/resource/Ancema_blanka
 tanis - http://dbpedia.org/resource/Tanis
-coffin - http://dbpedia.org/resource/Coffin
 bear - http://dbpedia.org/resource/Bear
 rebirth - http://dbpedia.org/resource/Reincarnation
 relief - http://dbpedia.org/resource/Relief
-object - http://dbpedia.org/resource/Physical_object
 faience - http://dbpedia.org/resource/Egyptian_faience
 precious metal - http://dbpedia.org/resource/Precious_metal
 mammisi - http://dbpedia.org/resource/Mammisi
@@ -115,7 +113,7 @@ art history - http://dbpedia.org/resource/Art_history
 york - http://dbpedia.org/resource/York
 deborah - http://dbpedia.org/resource/Deborah
 eds - http://dbpedia.org/resource/Electronic_Data_Systems
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
 york - http://dbpedia.org/resource/York
 yale university press - http://dbpedia.org/resource/Yale_University_Press

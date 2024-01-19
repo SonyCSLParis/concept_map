@@ -1,140 +1,114 @@
-political economic - http://dbpedia.org/resource/Political_economy
-caretaker - http://dbpedia.org/resource/Caregiver
-rice - http://dbpedia.org/resource/Rice
-fieldwork - http://dbpedia.org/resource/Field_research
-article - http://dbpedia.org/resource/Historicity_of_Jesus
-tour group - http://dbpedia.org/resource/Tour_Group
-ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
-rent - http://dbpedia.org/resource/Renting
-cartwright - http://dbpedia.org/resource/Wainwright
-bali bombing - http://dbpedia.org/resource/2002_Bali_bombings
-fencing - http://dbpedia.org/resource/Fence
-amazing - http://dbpedia.org/resource/Amazing_Stories
-cahon - http://dbpedia.org/resource/Cahon
-enlightenment - http://dbpedia.org/resource/Age_of_Enlightenment
-disposable income - http://dbpedia.org/resource/Disposable_and_discretionary_income
-slogan - http://dbpedia.org/resource/Slogan
-marketing management - http://dbpedia.org/resource/Marketing_management
-ethnicity - http://dbpedia.org/resource/Ethnic_group
-buddhas - http://dbpedia.org/resource/Buddhahood
-car park - http://dbpedia.org/resource/Parking_lot
-tablecloth - http://dbpedia.org/resource/Tablecloth
-continuity - http://dbpedia.org/resource/Continuous_function
-conservation - http://dbpedia.org/resource/Conservation_biology
-outline - http://dbpedia.org/resource/Nutrition
-middle income country - http://dbpedia.org/resource/Newly_industrialized_country
-theme park - http://dbpedia.org/resource/Amusement_park
-archaeological park - http://dbpedia.org/resource/Archaeological_site
-connotation - http://dbpedia.org/resource/Connotation
-travel agent - http://dbpedia.org/resource/Travel_agency
-archipelago - http://dbpedia.org/resource/Nusantara
-space - http://dbpedia.org/resource/Space
-monk - http://dbpedia.org/resource/Bhikkhu
-group language - http://dbpedia.org/resource/Syntactic_monoid
-local government - http://dbpedia.org/resource/Local_government
-literature - http://dbpedia.org/resource/Literature
-monument - http://dbpedia.org/resource/Monument
-shopping mall - http://dbpedia.org/resource/Shopping_mall
-thailand - http://dbpedia.org/resource/Thailand
-temple site - http://dbpedia.org/resource/Temple_Mount
-stupas - http://dbpedia.org/resource/Stupa
-village - http://dbpedia.org/resource/Village
-eyesore - http://dbpedia.org/resource/Eyesore
-marketing - http://dbpedia.org/resource/Marketing
-javanese - http://dbpedia.org/resource/Javanese_people
-structure set - http://dbpedia.org/resource/Surgery_structure_set
-determinant - http://dbpedia.org/resource/Determinant
-unesco - http://dbpedia.org/resource/UNESCO
-narrative - http://dbpedia.org/resource/Narrative
-dissertation - http://dbpedia.org/resource/Thesis
-language - http://dbpedia.org/resource/Language
-livelihood - http://dbpedia.org/resource/Livelihood
-datum - http://dbpedia.org/resource/Data
-souvenir - http://dbpedia.org/resource/Souvenir
-landscape - http://dbpedia.org/resource/Landscape
-tourist industry - http://dbpedia.org/resource/Tourism
-indonesians - http://dbpedia.org/resource/Indonesia
-national identity - http://dbpedia.org/resource/National_identity
-market - http://dbpedia.org/resource/Market_economy
-radcliffe - http://dbpedia.org/resource/Radcliffe_College
-harrison - http://dbpedia.org/resource/George_Harrison
-metal - http://dbpedia.org/resource/Metalworking
-prepare - http://dbpedia.org/resource/PREPARE
-religious belief - http://dbpedia.org/resource/Belief
-conservation development - http://dbpedia.org/resource/Conservation_development
-stakeholder - http://dbpedia.org/resource/Project_stakeholder
-globalisation - http://dbpedia.org/resource/Globalization
-turner - http://dbpedia.org/resource/Woodturning
-leeds - http://dbpedia.org/resource/University_of_Leeds
-resemble - http://dbpedia.org/resource/SoltyRei
-ethical - http://dbpedia.org/resource/Ethics
-schiller - http://dbpedia.org/resource/Lustre_(mineralogy)
-smith - http://dbpedia.org/resource/Metalsmith
-economy - http://dbpedia.org/resource/Economy
-share international - http://dbpedia.org/resource/Share_International
-stupa - http://dbpedia.org/resource/Stupa
-conservationist - http://dbpedia.org/resource/Conservation_biology
-miller - http://dbpedia.org/resource/Miller
-objectify - http://dbpedia.org/resource/Objectification
-archaeological site - http://dbpedia.org/resource/Archaeology
-buddha - http://dbpedia.org/resource/Gautama_Buddha
-food - http://dbpedia.org/resource/Food
-economic development - http://dbpedia.org/resource/Economic_development
-luxury hotel - http://dbpedia.org/resource/Hotel
-commercialisation - http://dbpedia.org/resource/Commercialization
-displace - http://dbpedia.org/resource/Engine_displacement
-filter - http://dbpedia.org/resource/Filtration
-methodology - http://dbpedia.org/resource/Methodology
-city - http://dbpedia.org/resource/City
-actor - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-central java - http://dbpedia.org/resource/Central_Java
-hassle - http://dbpedia.org/resource/Hassle_Records
-theory - http://dbpedia.org/resource/Theory
-sustainable - http://dbpedia.org/resource/Sustainability
-latticed - http://dbpedia.org/resource/Latticework
-consumerism - http://dbpedia.org/resource/Consumerism
-coherent - http://dbpedia.org/resource/Laser
-palm tree - http://dbpedia.org/resource/Arecaceae
-weapon - http://dbpedia.org/resource/Weapon_of_mass_destruction
-animism - http://dbpedia.org/resource/Animism
-public place - http://dbpedia.org/resource/Public_space
-historian - http://dbpedia.org/resource/History
-dominant - http://dbpedia.org/resource/Dominance_hierarchy
-culture - http://dbpedia.org/resource/Culture
-differentiation - http://dbpedia.org/resource/Product_differentiation
-ethnic national - http://dbpedia.org/resource/Ethnic_nationalism
-temple - http://dbpedia.org/resource/Candi_of_Indonesia
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-sugar cane - http://dbpedia.org/resource/Sugarcane
-adams - http://dbpedia.org/resource/John_Adams
-stephanie - http://dbpedia.org/resource/Stephanie_Scully
-heritage tourism - http://dbpedia.org/resource/Heritage_tourism
-southeast asia - http://dbpedia.org/resource/Southeast_Asia
-indonesian government - http://dbpedia.org/resource/Indonesia
-rutherford - http://dbpedia.org/resource/Ernest_Rutherford
-eye - http://dbpedia.org/resource/Human_eye
-picard - http://dbpedia.org/resource/Picard_language
-tourist attraction - http://dbpedia.org/resource/Tourism
-borobudur - http://dbpedia.org/resource/Borobudur
-terrace - http://dbpedia.org/resource/Terraced_house
-multiple identity - http://dbpedia.org/resource/Multiple-use_name
-bibliography - http://dbpedia.org/resource/Citation
-buddhist - http://dbpedia.org/resource/Buddhism
-blind - http://dbpedia.org/resource/Visual_impairment
-tourism - http://dbpedia.org/resource/Tourism
-cultural diversity - http://dbpedia.org/resource/Cultural_diversity
-cultural heritage - http://dbpedia.org/resource/Cultural_heritage
-reiterate - http://dbpedia.org/resource/Reiterate
-parnwell - http://dbpedia.org/resource/Parnwell,_Peterborough
-itpb - http://dbpedia.org/resource/International_Tech_Park,_Bangalore
-security guard - http://dbpedia.org/resource/Security_guard
-heritage - http://dbpedia.org/resource/Cultural_heritage
-wood - http://dbpedia.org/resource/Wood
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 indonesian history - http://dbpedia.org/resource/History_of_Indonesia
-yogyakarta - http://dbpedia.org/resource/Yogyakarta
-wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+ethnicity - http://dbpedia.org/resource/Ethnic_group
+rice - http://dbpedia.org/resource/Rice
+picard - http://dbpedia.org/resource/Picard_language
+theme park - http://dbpedia.org/resource/Amusement_park
+economy - http://dbpedia.org/resource/Economy
+fieldwork - http://dbpedia.org/resource/Field_research
+slogan - http://dbpedia.org/resource/Slogan
+tour group - http://dbpedia.org/resource/Tour_Group
+political economic - http://dbpedia.org/resource/Political_economy
+commercialisation - http://dbpedia.org/resource/Commercialization
+schiller - http://dbpedia.org/resource/Lustre_(mineralogy)
+ethical - http://dbpedia.org/resource/Ethics
+decision making - http://dbpedia.org/resource/Decision-making
+archaeological park - http://dbpedia.org/resource/Archaeological_site
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+indonesian provinces - http://dbpedia.org/resource/Provinces_of_Indonesia
+dominant - http://dbpedia.org/resource/Dominance_hierarchy
+continuity - http://dbpedia.org/resource/Continuous_function
+fencing - http://dbpedia.org/resource/Fence
+shopping mall - http://dbpedia.org/resource/Shopping_mall
+eyesore - http://dbpedia.org/resource/Eyesore
+conservation - http://dbpedia.org/resource/Conservation_biology
+displaced - http://dbpedia.org/resource/Forced_displacement
+resemble - http://dbpedia.org/resource/SoltyRei
+differentiation - http://dbpedia.org/resource/Product_differentiation
+temple site - http://dbpedia.org/resource/Temple_Mount
+tourist industry - http://dbpedia.org/resource/Tourism
+bali bombings - http://dbpedia.org/resource/2002_Bali_bombings
+thailand - http://dbpedia.org/resource/Thailand
+archipelago - http://dbpedia.org/resource/Nusantara
+archaeological site - http://dbpedia.org/resource/Archaeology
+cartwright - http://dbpedia.org/resource/Wainwright
+sustainable - http://dbpedia.org/resource/Sustainability
+buddha - http://dbpedia.org/resource/Gautama_Buddha
 paper - http://dbpedia.org/resource/Academic_publishing
-archaeological - http://dbpedia.org/resource/Archaeology
+coherent - http://dbpedia.org/resource/Laser
+bibliography - http://dbpedia.org/resource/Citation
+weapon - http://dbpedia.org/resource/Weapon_of_mass_destruction
+stakeholders - http://dbpedia.org/resource/Project_stakeholder
+consumerism - http://dbpedia.org/resource/Consumerism
+wood - http://dbpedia.org/resource/Wood
+tourist attraction - http://dbpedia.org/resource/Tourism
+turner - http://dbpedia.org/resource/Woodturning
+animism - http://dbpedia.org/resource/Animism
+market - http://dbpedia.org/resource/Market_economy
+tablecloth - http://dbpedia.org/resource/Tablecloth
+car park - http://dbpedia.org/resource/Parking_lot
+heritage - http://dbpedia.org/resource/Cultural_heritage
+adams - http://dbpedia.org/resource/John_Adams
+disposable income - http://dbpedia.org/resource/Disposable_and_discretionary_income
+travel agents - http://dbpedia.org/resource/Travel_agency
 mac donald - http://dbpedia.org/resource/Heather_Mac_Donald
-assimilate - http://dbpedia.org/resource/Culture
+tourism - http://dbpedia.org/resource/Tourism
+stupas - http://dbpedia.org/resource/Stupa
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+livelihood - http://dbpedia.org/resource/Livelihood
+buddhas - http://dbpedia.org/resource/Buddhahood
+methodology - http://dbpedia.org/resource/Methodology
+buddhist - http://dbpedia.org/resource/Buddhism
+national identity - http://dbpedia.org/resource/National_identity
+southeast asia - http://dbpedia.org/resource/Southeast_Asia
+javanese - http://dbpedia.org/resource/Javanese_people
+terraces - http://dbpedia.org/resource/Terraced_house
+smith - http://dbpedia.org/resource/Metalsmith
+radcliffe - http://dbpedia.org/resource/Radcliffe_College
+amazing - http://dbpedia.org/resource/Earth-616
+marketing - http://dbpedia.org/resource/Marketing
+rutherford - http://dbpedia.org/resource/Ernest_Rutherford
+dissertation - http://dbpedia.org/resource/Thesis
+wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+indonesian citizens - http://dbpedia.org/resource/Indonesia
+stakeholder - http://dbpedia.org/resource/Project_stakeholder
+food - http://dbpedia.org/resource/Food
+metal - http://dbpedia.org/resource/Metalworking
+globalisation - http://dbpedia.org/resource/Globalization
+indonesian government - http://dbpedia.org/resource/Indonesia
+conservationists - http://dbpedia.org/resource/Conservation_biology
+itpb - http://dbpedia.org/resource/International_Tech_Park,_Bangalore
+harrison - http://dbpedia.org/resource/George_Harrison
+monument - http://dbpedia.org/resource/Monument
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+middle income country - http://dbpedia.org/resource/Newly_industrialized_country
+cultural diversity - http://dbpedia.org/resource/Cultural_diversity
+stephanie - http://dbpedia.org/resource/Stephanie_Scully
+objectify - http://dbpedia.org/resource/Objectification
+adds - http://dbpedia.org/resource/Applied_Digital_Data_Systems
+goods - http://dbpedia.org/resource/Goods
+sugar cane - http://dbpedia.org/resource/Sugarcane
+leeds - http://dbpedia.org/resource/University_of_Leeds
+culture - http://dbpedia.org/resource/Culture
+indonesians - http://dbpedia.org/resource/Indonesia
+palm trees - http://dbpedia.org/resource/Arecaceae
+badgered - http://dbpedia.org/resource/Badgered
+cultural heritage - http://dbpedia.org/resource/Cultural_heritage
+miller - http://dbpedia.org/resource/Miller
+city - http://dbpedia.org/resource/City
+enlightenment - http://dbpedia.org/resource/Age_of_Enlightenment
+blind - http://dbpedia.org/resource/Visual_impairment
+ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
+conservation development - http://dbpedia.org/resource/Conservation_development
+unesco - http://dbpedia.org/resource/UNESCO
+parnwell - http://dbpedia.org/resource/Parnwell,_Peterborough
+eye - http://dbpedia.org/resource/Human_eye
+literature - http://dbpedia.org/resource/Literature
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+cahon - http://dbpedia.org/resource/Cahon
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+narrative - http://dbpedia.org/resource/Narrative
+space - http://dbpedia.org/resource/Space
+archaeological - http://dbpedia.org/resource/Archaeology
+security - http://dbpedia.org/resource/Security
+latticed - http://dbpedia.org/resource/Latticework

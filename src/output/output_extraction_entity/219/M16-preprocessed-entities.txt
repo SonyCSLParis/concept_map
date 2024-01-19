@@ -6,13 +6,12 @@ franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 president - http://dbpedia.org/resource/President_of_the_United_States
 nazis - http://dbpedia.org/resource/Nazism
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 germany - http://dbpedia.org/resource/Nazi_Germany
 uranium - http://dbpedia.org/resource/Uranium-235
-chemist - http://dbpedia.org/resource/Chemist
-energy release - http://dbpedia.org/resource/Energy_release_rate_(fracture_mechanics)
+energy - http://dbpedia.org/resource/Energy
 fission - http://dbpedia.org/resource/Nuclear_weapon
-power bomb - http://dbpedia.org/resource/Powerbomb
+bomb - http://dbpedia.org/resource/Nuclear_weapon
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
@@ -23,7 +22,6 @@ manhattan project - http://dbpedia.org/resource/Manhattan_Project
 olivia - http://dbpedia.org/resource/Olivia_Dunham
 gabrielle - http://dbpedia.org/resource/Gabrielle_Solis
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 president franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
 franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
 prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
@@ -34,11 +32,7 @@ britain - http://dbpedia.org/resource/United_Kingdom
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
 general leslie - http://dbpedia.org/resource/David_Leslie,_1st_Lord_Newark
-grove - http://dbpedia.org/resource/Sacred_grove
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-mathematician - http://dbpedia.org/resource/Mathematician
-scientist - http://dbpedia.org/resource/Scientist
-physicist - http://dbpedia.org/resource/Physicist
 vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 britain - http://dbpedia.org/resource/United_Kingdom
@@ -48,11 +42,8 @@ enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
 albert - http://dbpedia.org/resource/Uncle_Albert
 refugee - http://dbpedia.org/resource/Refugee
 nazi germany - http://dbpedia.org/resource/Nazi_Germany
-alert - http://dbpedia.org/resource/Weather_warning
 germany - http://dbpedia.org/resource/Nazi_Germany
-knowledge discovery - http://dbpedia.org/resource/Knowledge_extraction
 uranium - http://dbpedia.org/resource/Uranium-235
-weapon - http://dbpedia.org/resource/Nuclear_weapon
 refugee - http://dbpedia.org/resource/Refugee
 fascism - http://dbpedia.org/resource/Nazism
 einstein - http://dbpedia.org/resource/Albert_Einstein
@@ -69,7 +60,6 @@ nwt - http://dbpedia.org/resource/Northwest_Territories
 uranium - http://dbpedia.org/resource/Uranium-235
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-detonate - http://dbpedia.org/resource/Detonation
 alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
 albuquerque - http://dbpedia.org/resource/Kirtland_Air_Force_Base
 mexico - http://dbpedia.org/resource/Mexico
@@ -78,14 +68,14 @@ pilot - http://dbpedia.org/resource/Aircraft_pilot
 bomber - http://dbpedia.org/resource/Bomber
 plane - http://dbpedia.org/resource/Airplane
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-hiroshima city - http://dbpedia.org/resource/Hiroshima
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+city - http://dbpedia.org/resource/City
 uranium - http://dbpedia.org/resource/Uranium-235
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-signify - http://dbpedia.org/resource/Signify
 wwii - http://dbpedia.org/resource/World_War_II
 volunteer - http://dbpedia.org/resource/Volunteering
 paper - http://dbpedia.org/resource/Scientific_literature
@@ -99,35 +89,29 @@ manhattan project - http://dbpedia.org/resource/Manhattan_Project
 wwii - http://dbpedia.org/resource/World_War_II
 nuclear age - http://dbpedia.org/resource/Atomic_Age
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 stone - http://dbpedia.org/resource/Stonemasonry
 evolution - http://dbpedia.org/resource/Evolution
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-detonate - http://dbpedia.org/resource/Detonation
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 wwii - http://dbpedia.org/resource/World_War_II
 telephone - http://dbpedia.org/resource/Telephone
 olivia - http://dbpedia.org/resource/Olivia_Dunham
 gabrielle - http://dbpedia.org/resource/Gabrielle_Solis
-eye - http://dbpedia.org/resource/Eye
 silent - http://dbpedia.org/resource/Silent_film
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
-physicist - http://dbpedia.org/resource/Physicist
 uranium - http://dbpedia.org/resource/Uranium-235
 fear - http://dbpedia.org/resource/Fear
-nazi - http://dbpedia.org/resource/Nazism
-bomb - http://dbpedia.org/resource/Nuclear_weapon
+nazis - http://dbpedia.org/resource/Nazism
 detonate - http://dbpedia.org/resource/Detonation
+hopes - http://dbpedia.org/resource/USA_Gymnastics
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 american president - http://dbpedia.org/resource/President_of_the_United_States
 urge - http://dbpedia.org/resource/Urge_(digital_music_service)
 president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-atom bomb - http://dbpedia.org/resource/Nuclear_weapon
+atom bombs - http://dbpedia.org/resource/Nuclear_weapon
 justification - http://dbpedia.org/resource/Right_of_self-defense
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 fuchs - http://dbpedia.org/resource/Klaus_Fuchs
@@ -138,6 +122,5 @@ fuchs - http://dbpedia.org/resource/Klaus_Fuchs
 prison - http://dbpedia.org/resource/Prison
 klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
 newspaper - http://dbpedia.org/resource/News_media
 article - http://dbpedia.org/resource/Falklands_War

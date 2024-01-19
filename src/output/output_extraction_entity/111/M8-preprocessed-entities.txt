@@ -1,41 +1,34 @@
 french invasion - http://dbpedia.org/resource/Napoleonic_Wars
 invasion - http://dbpedia.org/resource/Invasion
-noble - http://dbpedia.org/resource/Nobility
-tax - http://dbpedia.org/resource/Tax
 invasion - http://dbpedia.org/resource/Invasion
-noble - http://dbpedia.org/resource/Nobility
-coat - http://dbpedia.org/resource/Fur_clothing
+arms - http://dbpedia.org/resource/Coat_of_arms
 gilded - http://dbpedia.org/resource/Gilding
-mast - http://dbpedia.org/resource/Strained_yogurt
+masts - http://dbpedia.org/resource/Radio_masts_and_towers
 food - http://dbpedia.org/resource/Fish_as_food
-meat - http://dbpedia.org/resource/Lamb_and_mutton
+salted - http://dbpedia.org/resource/Salt
 oats - http://dbpedia.org/resource/Oat
-onion - http://dbpedia.org/resource/Onion
+onions - http://dbpedia.org/resource/Onion
 vinegar - http://dbpedia.org/resource/Vinegar
+biscuits - http://dbpedia.org/resource/Biscuit
 flour - http://dbpedia.org/resource/Flour
-fat - http://dbpedia.org/resource/Vegetable_oil
 garlic - http://dbpedia.org/resource/Garlic
-pea bean - http://dbpedia.org/resource/Pea_bean
+peas - http://dbpedia.org/resource/Pea
+beans - http://dbpedia.org/resource/Bean
+olives - http://dbpedia.org/resource/Olive
 barley wine - http://dbpedia.org/resource/Barley_wine
-barrel - http://dbpedia.org/resource/Barrel
-egg yolk - http://dbpedia.org/resource/Yolk
+egg yolks - http://dbpedia.org/resource/Yolk
 sluys - http://dbpedia.org/resource/Sluis
 flanders - http://dbpedia.org/resource/County_of_Flanders
-mercenary - http://dbpedia.org/resource/Mercenary
-slave - http://dbpedia.org/resource/History_of_slavery
+mercenaries - http://dbpedia.org/resource/Mercenary
+slaves - http://dbpedia.org/resource/History_of_slavery
 king richard ii - http://dbpedia.org/resource/Richard_II_of_England
-prepare - http://dbpedia.org/resource/PREPARE
 invasion - http://dbpedia.org/resource/Invasion
-archer - http://dbpedia.org/resource/Archery
+arms - http://dbpedia.org/resource/Coat_of_arms
+archers - http://dbpedia.org/resource/English_longbow
 array - http://dbpedia.org/resource/Array_data_structure
-militia - http://dbpedia.org/resource/Militia
-garrison - http://dbpedia.org/resource/Garrison
-barricade - http://dbpedia.org/resource/Barricade
-barricade - http://dbpedia.org/resource/Barricade
+counties - http://dbpedia.org/resource/County
 french wine - http://dbpedia.org/resource/French_wine
-barrel - http://dbpedia.org/resource/Barrel
 sand - http://dbpedia.org/resource/Sand
-supply ship - http://dbpedia.org/resource/Cargo_ship
 array - http://dbpedia.org/resource/Array_data_structure
 sussex - http://dbpedia.org/resource/Sussex
 french invasion - http://dbpedia.org/resource/Napoleonic_Wars

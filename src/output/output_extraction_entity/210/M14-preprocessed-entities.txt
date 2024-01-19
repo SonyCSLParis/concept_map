@@ -1,5 +1,7 @@
-ptolemy soter - http://dbpedia.org/resource/Ptolemy_I_Soter
-ptolemy soter - http://dbpedia.org/resource/Ptolemy_I_Soter
+ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+soter - http://dbpedia.org/resource/Soter
+ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+soter - http://dbpedia.org/resource/Soter
 ancient greek - http://dbpedia.org/resource/Ancient_Greek
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
@@ -12,13 +14,12 @@ ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 hellenistic kingdom - http://dbpedia.org/resource/Hellenistic_period
 alexandria - http://dbpedia.org/resource/Alexandria
 greek culture - http://dbpedia.org/resource/Ancient_Greece
-assimilate - http://dbpedia.org/resource/Culture
 egyptian culture - http://dbpedia.org/resource/Culture_of_Egypt
 pharaoh - http://dbpedia.org/resource/Pharaoh
 4 bc - http://dbpedia.org/resource/4_BC
 macedonian - http://dbpedia.org/resource/Ancient_Macedonians
-noble - http://dbpedia.org/resource/Nobility
-ptolemy soter - http://dbpedia.org/resource/Ptolemy_I_Soter
+ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+soter - http://dbpedia.org/resource/Soter
 heracles - http://dbpedia.org/resource/Heracles
 argead dynasty - http://dbpedia.org/resource/Argead_dynasty
 macedon - http://dbpedia.org/resource/Ancient_Macedonians
@@ -37,14 +38,14 @@ myth - http://dbpedia.org/resource/Greek_mythology
 ptolemaic dynasty - http://dbpedia.org/resource/Ptolemaic_dynasty
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 alexander - http://dbpedia.org/resource/Alexander_the_Great
-bodyguard - http://dbpedia.org/resource/Somatophylakes
+somatophylakes - http://dbpedia.org/resource/Somatophylakes
 alexander - http://dbpedia.org/resource/Alexander_the_Great
 ptolemy ii philadelphus - http://dbpedia.org/resource/Ptolemy_II_Philadelphus
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 alexander - http://dbpedia.org/resource/Alexander_the_Great
 issus - http://dbpedia.org/resource/Battle_of_Issus
 alexander - http://dbpedia.org/resource/Alexander_the_Great
-oracle - http://dbpedia.org/resource/Delphi
+oracle - http://dbpedia.org/resource/Oracle
 siwa oasis - http://dbpedia.org/resource/Siwa_Oasis
 zeus - http://dbpedia.org/resource/Zeus
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
@@ -60,7 +61,6 @@ aornos - http://dbpedia.org/resource/Aornos
 hydaspes river - http://dbpedia.org/resource/Jhelum_River
 alexander - http://dbpedia.org/resource/Alexander_the_Great
 alexander - http://dbpedia.org/resource/Alexander_the_Great
-die - http://dbpedia.org/resource/Death
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 resettlement - http://dbpedia.org/resource/Population_transfer
 babylon - http://dbpedia.org/resource/Babylon
@@ -74,11 +74,12 @@ satrap - http://dbpedia.org/resource/Satrap
 cleomenes - http://dbpedia.org/resource/Cleomenes_of_Naucratis
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 cyrenaica - http://dbpedia.org/resource/Cyrenaica
+custom kings - http://dbpedia.org/resource/Custom_Kings
 macedonia - http://dbpedia.org/resource/North_Macedonia
 perdiccas - http://dbpedia.org/resource/Perdiccas
 regent - http://dbpedia.org/resource/Regent
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
-pain - http://dbpedia.org/resource/Suffering
+pains - http://dbpedia.org/resource/Pan-assay_interference_compounds
 alexander - http://dbpedia.org/resource/Alexander_the_Great
 memphis - http://dbpedia.org/resource/Memphis_Tigers_men's_basketball
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
@@ -89,7 +90,7 @@ ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 cleomenes - http://dbpedia.org/resource/Cleomenes_of_Naucratis
-spy - http://dbpedia.org/resource/Espionage
+spying - http://dbpedia.org/resource/Espionage
 perdiccas - http://dbpedia.org/resource/Perdiccas
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 cleomenes - http://dbpedia.org/resource/Cleomenes_of_Naucratis
@@ -101,7 +102,6 @@ nile - http://dbpedia.org/resource/Nile
 perdiccas - http://dbpedia.org/resource/Perdiccas
 perdiccas - http://dbpedia.org/resource/Perdiccas
 perdiccas - http://dbpedia.org/resource/Perdiccas
-murder - http://dbpedia.org/resource/Murder
 tent - http://dbpedia.org/resource/Tent
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 nile - http://dbpedia.org/resource/Nile
@@ -117,15 +117,15 @@ cyprus - http://dbpedia.org/resource/Cyprus
 syria - http://dbpedia.org/resource/Syria
 judea - http://dbpedia.org/resource/Judea
 syria - http://dbpedia.org/resource/Syria
-petty king - http://dbpedia.org/resource/Petty_kingdom
 cyprus - http://dbpedia.org/resource/Cyprus
 antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
 eye - http://dbpedia.org/resource/Vecna
+ambitions - http://dbpedia.org/resource/Ambitions_(song)
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 coalition - http://dbpedia.org/resource/Coalition
 syria - http://dbpedia.org/resource/Syria
 cyprus - http://dbpedia.org/resource/Cyprus
-partisan - http://dbpedia.org/resource/Yugoslav_Partisans
+partisans - http://dbpedia.org/resource/Yugoslav_Partisans
 antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
 revolt - http://dbpedia.org/resource/Rebellion
 cyrene - http://dbpedia.org/resource/Cyrenaica
@@ -136,7 +136,6 @@ satrap - http://dbpedia.org/resource/Satrap
 babylonia - http://dbpedia.org/resource/Babylonia
 syria - http://dbpedia.org/resource/Syria
 demetrius poliorcetes - http://dbpedia.org/resource/Demetrius_I_of_Macedon
-city - http://dbpedia.org/resource/City
 antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
 gaza - http://dbpedia.org/resource/Gaza_City
 syria - http://dbpedia.org/resource/Syria
@@ -144,16 +143,13 @@ demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
 antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
 syria - http://dbpedia.org/resource/Syria
 peace - http://dbpedia.org/resource/Peace
-combatant - http://dbpedia.org/resource/Cavalry
 king alexander - http://dbpedia.org/resource/Alexander_III_of_Scotland
 iv - http://dbpedia.org/resource/Panzer_IV
-murder - http://dbpedia.org/resource/Murder
 macedonia - http://dbpedia.org/resource/North_Macedonia
 cassander - http://dbpedia.org/resource/Cassander
 satrap - http://dbpedia.org/resource/Satrap
 peace - http://dbpedia.org/resource/Peace
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
-town - http://dbpedia.org/resource/Town
 lycia - http://dbpedia.org/resource/Lycia
 caria - http://dbpedia.org/resource/Caria
 antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
@@ -169,17 +165,17 @@ menelaus - http://dbpedia.org/resource/Morpho_menelaus
 salamis - http://dbpedia.org/resource/Battle_of_Salamis
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 cyprus - http://dbpedia.org/resource/Cyprus
-satrap - http://dbpedia.org/resource/Satrap
+satraps - http://dbpedia.org/resource/Satrap
 antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
 demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 cassander - http://dbpedia.org/resource/Cassander
 lysimachus - http://dbpedia.org/resource/Lysimachus
-seleucus nicator - http://dbpedia.org/resource/Seleucus_I_Nicator
+seleucus - http://dbpedia.org/resource/Seleucus_I_Nicator
+nicator - http://dbpedia.org/resource/Nicator
 winter - http://dbpedia.org/resource/Winter_solstice
 antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
 cyprus - http://dbpedia.org/resource/Cyprus
-invade egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 frontier - http://dbpedia.org/resource/Frontier
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
@@ -189,9 +185,7 @@ demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
 pausanias - http://dbpedia.org/resource/Pausanias_of_Orestis
 rhodians - http://dbpedia.org/resource/Rhodes
 soter - http://dbpedia.org/resource/Soter
-lift - http://dbpedia.org/resource/Elevator
 siege - http://dbpedia.org/resource/Siege
-coin - http://dbpedia.org/resource/Coin
 ptolemy ii - http://dbpedia.org/resource/Ptolemy_II_Philadelphus
 263 bc - http://dbpedia.org/resource/263_BC
 coalition - http://dbpedia.org/resource/Coalition
@@ -217,16 +211,14 @@ southern syria - http://dbpedia.org/resource/Southern_Syria
 judea - http://dbpedia.org/resource/Judea
 warfare - http://dbpedia.org/resource/War
 seleucid - http://dbpedia.org/resource/Diadochi
-ptolemaic dynasty - http://dbpedia.org/resource/Ptolemaic_dynasty
+ptolemaic - http://dbpedia.org/resource/Ptolemy_I_Soter
+dynasties - http://dbpedia.org/resource/Dynasty
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
-mingle - http://dbpedia.org/resource/ThoughtWorks
-rivalry - http://dbpedia.org/resource/College_rivalry
 asia minor - http://dbpedia.org/resource/Anatolia
 greece - http://dbpedia.org/resource/Ancient_Greece
 greece - http://dbpedia.org/resource/Ancient_Greece
 cyprus - http://dbpedia.org/resource/Cyprus
 cyrene - http://dbpedia.org/resource/Cyrenaica
-rebellion - http://dbpedia.org/resource/Rebellion
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 berenice - http://dbpedia.org/resource/Berenice_I_of_Egypt
 ptolemy ii philadelphus - http://dbpedia.org/resource/Ptolemy_II_Philadelphus
@@ -242,10 +234,9 @@ thaïs - http://dbpedia.org/resource/Thaïs_(opera)
 athenian - http://dbpedia.org/resource/Classical_Athens
 hetaera - http://dbpedia.org/resource/Hetaira
 alexander - http://dbpedia.org/resource/Alexander_the_Great
-ptolemy soter - http://dbpedia.org/resource/Ptolemy_I_Soter
-die - http://dbpedia.org/resource/Death
+ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+soter - http://dbpedia.org/resource/Soter
 compact - http://dbpedia.org/resource/Compact_car
-float - http://dbpedia.org/resource/Buoyancy
 soldier - http://dbpedia.org/resource/Soldier
 macedonians - http://dbpedia.org/resource/Ancient_Macedonians
 greeks - http://dbpedia.org/resource/Ancient_Greece
@@ -259,13 +250,13 @@ arrian - http://dbpedia.org/resource/Arrian
 nicomedia - http://dbpedia.org/resource/Nicomedia
 author - http://dbpedia.org/resource/Arthur_Schopenhauer
 alexander - http://dbpedia.org/resource/Alexander_the_Great
-rely - http://dbpedia.org/resource/Rely_(brand)
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 a.b. - http://dbpedia.org/resource/Able_seaman
 bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
 greek history - http://dbpedia.org/resource/Ancient_Greece
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 propagandist - http://dbpedia.org/resource/Propaganda
+aims - http://dbpedia.org/resource/Association_of_International_Marathons_and_Distance_Races
 euclid - http://dbpedia.org/resource/Euclid
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 mathematician - http://dbpedia.org/resource/Greek_mathematics
@@ -274,7 +265,8 @@ euclid - http://dbpedia.org/resource/Euclid
 proclus - http://dbpedia.org/resource/Proclus
 euclid - http://dbpedia.org/resource/Euclid
 sire - http://dbpedia.org/resource/Father
-road geometry - http://dbpedia.org/resource/Geometric_design_of_roads
+royal road - http://dbpedia.org/resource/Royal_Road
+geometry - http://dbpedia.org/resource/Geometry
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 virgilio teixeira - http://dbpedia.org/resource/Virgilio_Teixeira_(actor)
 alexander - http://dbpedia.org/resource/Alexander_the_Great
@@ -290,6 +282,7 @@ ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 harry turtledove - http://dbpedia.org/resource/Harry_Turtledove
 gryphon - http://dbpedia.org/resource/Griffin
 skull - http://dbpedia.org/resource/Skull
+ptolemies - http://dbpedia.org/resource/Ptolemaic_Kingdom
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 ptolemaic dynasty - http://dbpedia.org/resource/Ptolemaic_dynasty
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
@@ -299,12 +292,14 @@ persian - http://dbpedia.org/resource/Persian_language
 funeral games - http://dbpedia.org/resource/Funeral_games
 alexander - http://dbpedia.org/resource/Alexander_the_Great
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+minor characters - http://dbpedia.org/resource/Minor_Characters
 roxana - http://dbpedia.org/resource/Roxana
 romance - http://dbpedia.org/resource/Chivalric_romance
 cave - http://dbpedia.org/resource/Cave
 hellenic - http://dbpedia.org/resource/Hellenistic_period
 ptolemaios - http://dbpedia.org/resource/Ptolemy_V_Epiphanes
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+supporting character - http://dbpedia.org/resource/Supporting_character
 stealing fire - http://dbpedia.org/resource/Stealing_Fire_(Bruce_Cockburn_album)
 historical fantasy - http://dbpedia.org/resource/Historical_fantasy
 jo graham - http://dbpedia.org/resource/Jo_Graham

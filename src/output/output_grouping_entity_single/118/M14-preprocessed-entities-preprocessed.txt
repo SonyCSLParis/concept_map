@@ -1,43 +1,43 @@
-de valoines - http://dbpedia.org/resource/De_Valognes
-english heritage - http://dbpedia.org/resource/English_Heritage
-roman fort - http://dbpedia.org/resource/Castra
-commemorative plaque - http://dbpedia.org/resource/Commemorative_plaque
-vipont - http://dbpedia.org/resource/Vieuxpont
-stone - http://dbpedia.org/resource/Stonemasonry
-brough - http://dbpedia.org/resource/Brough_Castle
-clifford family - http://dbpedia.org/resource/Baron_de_Clifford
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-thomas - http://dbpedia.org/resource/THOMAS
-scottish army - http://dbpedia.org/resource/Scots_Army
-defence - http://dbpedia.org/resource/Military
-external website - http://dbpedia.org/resource/Shahid_Rajaee_Teacher_Training_University
-a66 - http://dbpedia.org/resource/A66_road
-penrith - http://dbpedia.org/resource/Penrith_railway_station
-bbc - http://dbpedia.org/resource/BBC
-john major - http://dbpedia.org/resource/John_Major
-king william - http://dbpedia.org/resource/William_the_Lion
-bus - http://dbpedia.org/resource/Bus
-kendal - http://dbpedia.org/resource/Kendal
 valiant - http://dbpedia.org/resource/Vickers_Valiant
-lady anne - http://dbpedia.org/resource/Anne_Hyde
-brough castle - http://dbpedia.org/resource/Brough_Castle
-os map - http://dbpedia.org/resource/Ordnance_Survey
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-road 8 - http://dbpedia.org/resource/National_road_8_(Poland)
-courtyard - http://dbpedia.org/resource/Courtyard
-watermill - http://dbpedia.org/resource/Watermill
-majestic - http://dbpedia.org/resource/Majestic_12
-kirkby stephen - http://dbpedia.org/resource/Kirkby_Stephen
-train - http://dbpedia.org/resource/Train_station
-gatehouse - http://dbpedia.org/resource/Gatehouse
-brougham - http://dbpedia.org/resource/Brougham_(carriage)
-heritage - http://dbpedia.org/resource/Historic_site
-cliffords tower - http://dbpedia.org/resource/York_Castle
-oxenholme station - http://dbpedia.org/resource/Oxenholme_Lake_District_railway_station
-stagecoach - http://dbpedia.org/resource/Stagecoach
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+brough - http://dbpedia.org/resource/Brough_Castle
 appleby castle - http://dbpedia.org/resource/Appleby_Castle
+road 8 - http://dbpedia.org/resource/National_road_8_(Poland)
 cumbria - http://dbpedia.org/resource/Cumbria
-rufus - http://dbpedia.org/resource/Rufus_Wainwright
-appleby - http://dbpedia.org/resource/Appleby_Castle
+scottish army - http://dbpedia.org/resource/Scots_Army
+roman fort - http://dbpedia.org/resource/Castra
+brough castle - http://dbpedia.org/resource/Brough_Castle
+annexed - http://dbpedia.org/resource/Annexation
+majestic - http://dbpedia.org/resource/Majestic_12
+bbc - http://dbpedia.org/resource/BBC
+knights - http://dbpedia.org/resource/Knights_Hospitaller
+clifford family - http://dbpedia.org/resource/Baron_de_Clifford
+thomas - http://dbpedia.org/resource/THOMAS
+english heritage - http://dbpedia.org/resource/English_Heritage
+kirkby stephen - http://dbpedia.org/resource/Kirkby_Stephen
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+stagecoach - http://dbpedia.org/resource/Stagecoach
+cliffords - http://dbpedia.org/resource/Baron_de_Clifford
+os map - http://dbpedia.org/resource/Ordnance_Survey
 tower - http://dbpedia.org/resource/Keep
-christmas feast - http://dbpedia.org/resource/Christmas_dinner
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+oxenholme - http://dbpedia.org/resource/Oxenholme
+appleby - http://dbpedia.org/resource/Appleby_Castle
+a66 - http://dbpedia.org/resource/A66_road
+curtain walls - http://dbpedia.org/resource/Curtain_wall_(fortification)
+cliffords tower - http://dbpedia.org/resource/York_Castle
+heritage - http://dbpedia.org/resource/Historic_site
+gatehouse - http://dbpedia.org/resource/Gatehouse
+king william - http://dbpedia.org/resource/William_the_Lion
+rufus - http://dbpedia.org/resource/Rufus_Wainwright
+courtyard - http://dbpedia.org/resource/Courtyard
+lady anne - http://dbpedia.org/resource/Anne_Hyde
+stone - http://dbpedia.org/resource/Stonemasonry
+train - http://dbpedia.org/resource/Train_station
+commemorative plaque - http://dbpedia.org/resource/Commemorative_plaque
+watermill - http://dbpedia.org/resource/Watermill
+defence - http://dbpedia.org/resource/Military
+kendal - http://dbpedia.org/resource/Kendal
+de valoines - http://dbpedia.org/resource/De_Valognes
+bus - http://dbpedia.org/resource/Bus
+vipont - http://dbpedia.org/resource/Vieuxpont

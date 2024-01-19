@@ -4,7 +4,6 @@ otto robert frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
 otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 badge - http://dbpedia.org/resource/Badge
-bear - http://dbpedia.org/resource/Market_trend
 vienna - http://dbpedia.org/resource/University_of_Vienna
 austria - http://dbpedia.org/resource/Austria
 cambridge united - http://dbpedia.org/resource/Cambridge_United_F.C.
@@ -21,7 +20,6 @@ physicist - http://dbpedia.org/resource/Physicist
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
 detonation - http://dbpedia.org/resource/Nuclear_chain_reaction
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-bear - http://dbpedia.org/resource/Market_trend
 vienna - http://dbpedia.org/resource/University_of_Vienna
 austria - http://dbpedia.org/resource/Austria
 justinian - http://dbpedia.org/resource/Justinian_I
@@ -32,13 +30,14 @@ lise meitner - http://dbpedia.org/resource/Lise_Meitner
 love - http://dbpedia.org/resource/Love
 physics - http://dbpedia.org/resource/Physics
 vienna - http://dbpedia.org/resource/University_of_Vienna
-laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+salts - http://dbpedia.org/resource/Quaternary_ammonium_cation
 germany - http://dbpedia.org/resource/Nazi_Germany
 hamburg - http://dbpedia.org/resource/University_of_Hamburg
 nobel prize - http://dbpedia.org/resource/Nobel_Prize
 scientist - http://dbpedia.org/resource/Scientist
 otto stern - http://dbpedia.org/resource/Otto_Stern
 diffraction - http://dbpedia.org/resource/Neutron_diffraction
+atoms - http://dbpedia.org/resource/Atom
 magnetic moment - http://dbpedia.org/resource/Magnetic_moment
 proton - http://dbpedia.org/resource/Proton
 adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
@@ -52,8 +51,9 @@ technology - http://dbpedia.org/resource/Nuclear_technology
 artificial radioactivity - http://dbpedia.org/resource/Induced_radioactivity
 copenhagen - http://dbpedia.org/resource/Copenhagen
 niels bohr - http://dbpedia.org/resource/Niels_Bohr
-nuclear - http://dbpedia.org/resource/Atomic_nucleus
+physics - http://dbpedia.org/resource/Physics
 neutron - http://dbpedia.org/resource/Neutron
+physics - http://dbpedia.org/resource/Physics
 christmas holiday - http://dbpedia.org/resource/Christmas_Holiday
 lise meitner - http://dbpedia.org/resource/Lise_Meitner
 kungälv - http://dbpedia.org/resource/Kungälv
@@ -63,12 +63,14 @@ fritz strassmann - http://dbpedia.org/resource/Fritz_Strassmann
 berlin - http://dbpedia.org/resource/Humboldt_University_of_Berlin
 collision - http://dbpedia.org/resource/Collision
 neutron - http://dbpedia.org/resource/Neutron
+uranium - http://dbpedia.org/resource/Uranium-235
 nucleus - http://dbpedia.org/resource/Atomic_nucleus
 barium - http://dbpedia.org/resource/Barium
+uranium - http://dbpedia.org/resource/Uranium-235
 nucleus - http://dbpedia.org/resource/Atomic_nucleus
+uranium - http://dbpedia.org/resource/Uranium-235
 nucleus - http://dbpedia.org/resource/Atomic_nucleus
-energy release - http://dbpedia.org/resource/Energy_release_rate_(fracture_mechanics)
-coin - http://dbpedia.org/resource/Coin
+energy - http://dbpedia.org/resource/Energy
 fission - http://dbpedia.org/resource/Nuclear_fission
 nazi era - http://dbpedia.org/resource/Nazism
 paper - http://dbpedia.org/resource/Academic_publishing
@@ -78,10 +80,8 @@ paper - http://dbpedia.org/resource/Academic_publishing
 physics - http://dbpedia.org/resource/Physics
 copenhagen - http://dbpedia.org/resource/Copenhagen
 fission - http://dbpedia.org/resource/Nuclear_fission
-recall - http://dbpedia.org/resource/Product_recall
 nuclear fission - http://dbpedia.org/resource/Nuclear_fission
 george placzek - http://dbpedia.org/resource/George_Placzek
-summer - http://dbpedia.org/resource/Summer
 denmark - http://dbpedia.org/resource/Denmark
 birmingham - http://dbpedia.org/resource/University_of_Birmingham
 physicist - http://dbpedia.org/resource/Physicist
@@ -92,7 +92,7 @@ atomic explosion - http://dbpedia.org/resource/Nuclear_explosion
 uranium-235 - http://dbpedia.org/resource/Uranium-235
 critical mass - http://dbpedia.org/resource/Critical_mass
 criticality - http://dbpedia.org/resource/Critical_mass
-explosive - http://dbpedia.org/resource/Explosion
+explosives - http://dbpedia.org/resource/Explosive
 detonation - http://dbpedia.org/resource/Nuclear_chain_reaction
 memorandum - http://dbpedia.org/resource/Memorandum
 explosion - http://dbpedia.org/resource/Nuclear_explosion
@@ -107,45 +107,44 @@ birmingham university - http://dbpedia.org/resource/University_of_Birmingham
 1939–40 - http://dbpedia.org/resource/162nd_New_York_State_Legislature
 british citizen - http://dbpedia.org/resource/British_people
 los alamos - http://dbpedia.org/resource/Manhattan_Project
+enriched uranium - http://dbpedia.org/resource/Enriched_uranium
 critical mass - http://dbpedia.org/resource/Critical_mass
 mass - http://dbpedia.org/resource/Neutrino
+uranium - http://dbpedia.org/resource/Uranium-235
 nuclear chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
-stack - http://dbpedia.org/resource/Chimney
 enriched uranium - http://dbpedia.org/resource/Enriched_uranium
 hydride - http://dbpedia.org/resource/Hydride
 neutron - http://dbpedia.org/resource/Neutron
 critical mass - http://dbpedia.org/resource/Critical_mass
+hydrogen - http://dbpedia.org/resource/Hydrogen
 metal - http://dbpedia.org/resource/Metal
 runaway reaction - http://dbpedia.org/resource/Criticality_accident
 stack - http://dbpedia.org/resource/Chimney
 lady godiva assembly - http://dbpedia.org/resource/Godiva_device
-neutron - http://dbpedia.org/resource/Neutron
+neutrons - http://dbpedia.org/resource/Neutron
 stack - http://dbpedia.org/resource/Chimney
 eye - http://dbpedia.org/resource/Human_eye
-lamp - http://dbpedia.org/resource/Incandescent_light_bulb
-flicker - http://dbpedia.org/resource/Flicker_noise
-neutron - http://dbpedia.org/resource/Neutron
+neutrons - http://dbpedia.org/resource/Neutron
 radiation dose - http://dbpedia.org/resource/Ionizing_radiation
 dose - http://dbpedia.org/resource/Ionizing_radiation
 dose - http://dbpedia.org/resource/Ionizing_radiation
 neutron - http://dbpedia.org/resource/Neutron
 radiation - http://dbpedia.org/resource/Radioactive_decay
-experiment - http://dbpedia.org/resource/Experiment
+uranium - http://dbpedia.org/resource/Uranium-235
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 physics - http://dbpedia.org/resource/Physics
 energy - http://dbpedia.org/resource/Energy
 harwell - http://dbpedia.org/resource/Atomic_Energy_Research_Establishment
 cambridge - http://dbpedia.org/resource/University_of_Cambridge
+jacksonian - http://dbpedia.org/resource/Andrew_Jackson
 professor - http://dbpedia.org/resource/Professor
 natural philosophy - http://dbpedia.org/resource/Natural_philosophy
 trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
 sweepnik - http://dbpedia.org/resource/SWEEPNIK
 laser - http://dbpedia.org/resource/Laser
 computer - http://dbpedia.org/resource/Computer_science
-bubble chamber - http://dbpedia.org/resource/Bubble_chamber
 laser scan - http://dbpedia.org/resource/Laser_scanning
-die - http://dbpedia.org/resource/Integrated_circuit
 tony - http://dbpedia.org/resource/Tony_Award
 physicist - http://dbpedia.org/resource/Physicist
 physics - http://dbpedia.org/resource/Physics
@@ -166,16 +165,17 @@ die - http://dbpedia.org/resource/Integrated_circuit
 protons - http://dbpedia.org/resource/Proton
 zeitschrift für physik - http://dbpedia.org/resource/European_Physical_Journal
 doi - http://dbpedia.org/resource/Digital_object_identifier
-earth metal - http://dbpedia.org/resource/Boron_group
+alkaline earth - http://dbpedia.org/resource/Alkaline_earth_metal
 irradiation - http://dbpedia.org/resource/Neutron_activation
-neutron - http://dbpedia.org/resource/Neutron
+uranium - http://dbpedia.org/resource/Uranium-235
+neutrons - http://dbpedia.org/resource/Neutron
 naturwissenschaften - http://dbpedia.org/resource/The_Science_of_Nature
 doi - http://dbpedia.org/resource/Digital_object_identifier
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
 kaiser wilhelm institut - http://dbpedia.org/resource/Kaiser_Wilhelm_Society
 berlin - http://dbpedia.org/resource/Humboldt_University_of_Berlin
 dahlem - http://dbpedia.org/resource/Franz_Dahlem
-neutron - http://dbpedia.org/resource/Neutron
+uranium - http://dbpedia.org/resource/Uranium-235
+neutrons - http://dbpedia.org/resource/Neutron
 nuclear reaction - http://dbpedia.org/resource/Nuclear_reaction
 doi - http://dbpedia.org/resource/Digital_object_identifier
 paper - http://dbpedia.org/resource/Academic_publishing

@@ -1,24 +1,19 @@
 british empire - http://dbpedia.org/resource/British_Empire
 british empire - http://dbpedia.org/resource/British_Empire
-symbol - http://dbpedia.org/resource/Symbol
 british empire - http://dbpedia.org/resource/British_Empire
 economy - http://dbpedia.org/resource/Economy_of_Portugal
 culture - http://dbpedia.org/resource/Culture_of_India
 british empire - http://dbpedia.org/resource/British_Empire
 leaf - http://dbpedia.org/resource/Leaf
-ceylon tea - http://dbpedia.org/resource/Tea_production_in_Sri_Lanka
+ceylon - http://dbpedia.org/resource/Sri_Lanka
 ruhuna - http://dbpedia.org/resource/Principality_of_Ruhuna
 region - http://dbpedia.org/resource/Regions_of_Italy
-indian tea - http://dbpedia.org/resource/Tea
 assam - http://dbpedia.org/resource/Assam_tea
-taste - http://dbpedia.org/resource/Taste
 liqueur - http://dbpedia.org/resource/Liqueur
 ruby - http://dbpedia.org/resource/Ruby
-taste - http://dbpedia.org/resource/Taste
-ceylon tea - http://dbpedia.org/resource/Tea_production_in_Sri_Lanka
+ceylon - http://dbpedia.org/resource/Sri_Lanka
 ruhuna - http://dbpedia.org/resource/Principality_of_Ruhuna
 region - http://dbpedia.org/resource/Regions_of_Italy
-indian tea - http://dbpedia.org/resource/Tea
 assam - http://dbpedia.org/resource/Assam_tea
 breakfast - http://dbpedia.org/resource/Breakfast
 ceylon - http://dbpedia.org/resource/Sri_Lanka

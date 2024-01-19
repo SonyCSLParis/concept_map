@@ -9,7 +9,7 @@ instrumental - http://dbpedia.org/resource/Instrumentalism
 maud report - http://dbpedia.org/resource/MAUD_Committee
 canadians - http://dbpedia.org/resource/Canada
 uranium - http://dbpedia.org/resource/Uranium-235
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 onward - http://dbpedia.org/resource/Tormato
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 conant - http://dbpedia.org/resource/James_B._Conant
@@ -19,17 +19,14 @@ defense - http://dbpedia.org/resource/National_security
 vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 conant - http://dbpedia.org/resource/James_B._Conant
-outline - http://dbpedia.org/resource/Nutrition
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 u.s. army - http://dbpedia.org/resource/United_States
 interchange - http://dbpedia.org/resource/Transport_hub
 interchange - http://dbpedia.org/resource/Transport_hub
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 conant - http://dbpedia.org/resource/James_B._Conant
 fissile material - http://dbpedia.org/resource/Fissile_material
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-reactor - http://dbpedia.org/resource/Nuclear_reactor
 plutonium - http://dbpedia.org/resource/Plutonium
 code - http://dbpedia.org/resource/Code
 plutonium - http://dbpedia.org/resource/Plutonium
@@ -43,7 +40,6 @@ ore - http://dbpedia.org/resource/Uranium_ore
 belgian congo - http://dbpedia.org/resource/Belgian_Congo
 conant - http://dbpedia.org/resource/James_B._Conant
 conant - http://dbpedia.org/resource/James_B._Conant
-military secret - http://dbpedia.org/resource/Secrecy
 conant - http://dbpedia.org/resource/James_B._Conant
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 eye - http://dbpedia.org/resource/Human_eye
@@ -56,10 +52,9 @@ vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
 winston churchill - http://dbpedia.org/resource/Winston_Churchill
 churchill - http://dbpedia.org/resource/Winston_Churchill
 roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+full cooperation - http://dbpedia.org/resource/Full_Cooperation
 quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
-scientist - http://dbpedia.org/resource/Scientist
 los alamos - http://dbpedia.org/resource/Manhattan_Project
-bomb - http://dbpedia.org/resource/Nuclear_weapon
 hanford - http://dbpedia.org/resource/Hanford_Site
 james chadwick - http://dbpedia.org/resource/James_Chadwick
 plutonium - http://dbpedia.org/resource/Plutonium
@@ -71,7 +66,7 @@ conant - http://dbpedia.org/resource/James_B._Conant
 quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
 klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
 los alamos - http://dbpedia.org/resource/Manhattan_Project
-atomic spy - http://dbpedia.org/resource/Atomic_spies
+atomic spies - http://dbpedia.org/resource/Atomic_spies
 fuchs - http://dbpedia.org/resource/Klaus_Fuchs
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 los alamos - http://dbpedia.org/resource/Manhattan_Project

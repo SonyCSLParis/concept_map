@@ -5,19 +5,18 @@ pendle - http://dbpedia.org/resource/Pendle_witches
 pendle witch trials - http://dbpedia.org/resource/Pendle_witches
 lancashire - http://dbpedia.org/resource/Lancashire
 witch trials - http://dbpedia.org/resource/Witch-hunt
-witch trial - http://dbpedia.org/resource/Witch-hunt
+witch trials - http://dbpedia.org/resource/Witch-hunt
 english history - http://dbpedia.org/resource/History_of_England
-time trial - http://dbpedia.org/resource/Time_trial
 court - http://dbpedia.org/resource/Court
 thomas potts - http://dbpedia.org/resource/Thomas_Potts
 witches - http://dbpedia.org/resource/Witchcraft
-countie - http://dbpedia.org/resource/Powiat
+countie - http://dbpedia.org/resource/Uyezd
 pendle hill - http://dbpedia.org/resource/Pendle_Hill
 lancashire - http://dbpedia.org/resource/Lancashire
 lawless - http://dbpedia.org/resource/Baron_Cloncurry
 region - http://dbpedia.org/resource/Regions_of_England
 peace - http://dbpedia.org/resource/Peace
-recusant - http://dbpedia.org/resource/Recusancy
+recusants - http://dbpedia.org/resource/Recusancy
 church - http://dbpedia.org/resource/Catholic_Church
 criminal offence - http://dbpedia.org/resource/Criminal_law
 halifax - http://dbpedia.org/resource/Halifax_R.L.F.C.
@@ -30,10 +29,8 @@ soul - http://dbpedia.org/resource/Soul
 devil - http://dbpedia.org/resource/Devil
 family - http://dbpedia.org/resource/Chicago_Outfit
 family - http://dbpedia.org/resource/Chicago_Outfit
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 witchcraft - http://dbpedia.org/resource/Witchcraft
 pendle - http://dbpedia.org/resource/Pendle_witches
-family - http://dbpedia.org/resource/Chicago_Outfit
 family - http://dbpedia.org/resource/Chicago_Outfit
 pendle - http://dbpedia.org/resource/Pendle_witches
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
@@ -45,17 +42,17 @@ preston - http://dbpedia.org/resource/Preston_North_End_F.C.
 anne - http://dbpedia.org/resource/Anne_of_Denmark
 anne - http://dbpedia.org/resource/Anne_of_Denmark
 alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
-katherine - http://dbpedia.org/resource/Katherine_Swynford
+katherine - http://dbpedia.org/resource/Katherine_Jackson
 jane - http://dbpedia.org/resource/Jane_Fonda
 guilt - http://dbpedia.org/resource/Culpability
+witches - http://dbpedia.org/resource/Witchcraft
 village - http://dbpedia.org/resource/Village
-healer - http://dbpedia.org/resource/Faith_healing
 magic - http://dbpedia.org/resource/Witchcraft
 rural - http://dbpedia.org/resource/Rural_area
 village life - http://dbpedia.org/resource/Village_Life
-murder - http://dbpedia.org/resource/Murder
 witchcraft - http://dbpedia.org/resource/Witchcraft
 lancaster assizes - http://dbpedia.org/resource/Lancaster_Castle
+witches - http://dbpedia.org/resource/Witchcraft
 jane - http://dbpedia.org/resource/Jane_Fonda
 jennet - http://dbpedia.org/resource/Jennet
 brierley - http://dbpedia.org/resource/Brierley
@@ -67,7 +64,7 @@ margaret - http://dbpedia.org/resource/Margaret_Tudor
 padiham witch - http://dbpedia.org/resource/Padiham_witch
 witchcraft - http://dbpedia.org/resource/Witchcraft
 horse - http://dbpedia.org/resource/Horse
-isobel - http://dbpedia.org/resource/Isabella_Burns
+isobel - http://dbpedia.org/resource/Isobel_Osbourne
 windle - http://dbpedia.org/resource/Windle,_St_Helens
 witchcraft - http://dbpedia.org/resource/Witchcraft
 lancashire - http://dbpedia.org/resource/Lancashire
@@ -77,16 +74,13 @@ preston - http://dbpedia.org/resource/Preston_North_End_F.C.
 york - http://dbpedia.org/resource/York
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 southerns - http://dbpedia.org/resource/Southerns_cricket_team
-die - http://dbpedia.org/resource/Death
 prison - http://dbpedia.org/resource/Prison
 hanging - http://dbpedia.org/resource/Hanging
 alice gray - http://dbpedia.org/resource/Alice_Gray
 jennet - http://dbpedia.org/resource/Jennet
 family - http://dbpedia.org/resource/Chicago_Outfit
-criminal trial - http://dbpedia.org/resource/Criminal_procedure
 king james - http://dbpedia.org/resource/James_VI_and_I
-witchcraft trial - http://dbpedia.org/resource/Witch-hunt
-brother sister - http://dbpedia.org/resource/Brother_Sister
+witchcraft trials - http://dbpedia.org/resource/Witch-hunt
 jennet - http://dbpedia.org/resource/Jennet
 witchcraft - http://dbpedia.org/resource/Witchcraft
 lancaster assizes - http://dbpedia.org/resource/Lancaster_Castle
@@ -96,13 +90,13 @@ witchcraft - http://dbpedia.org/resource/Witchcraft
 confession - http://dbpedia.org/resource/Confession
 soul - http://dbpedia.org/resource/Soul
 demon - http://dbpedia.org/resource/Demon
+witches - http://dbpedia.org/resource/Witchcraft
 lancashire - http://dbpedia.org/resource/Lancashire
 margaret johnson - http://dbpedia.org/resource/Margaret_Johnson
 confession - http://dbpedia.org/resource/Confession
 gaol - http://dbpedia.org/resource/Prison
-die - http://dbpedia.org/resource/Death
 lancashire - http://dbpedia.org/resource/Lancashire
-witchcraft trial - http://dbpedia.org/resource/Witch-hunt
+witchcraft trials - http://dbpedia.org/resource/Witch-hunt
 thomas heywood - http://dbpedia.org/resource/Thomas_Heywood
 richard brome - http://dbpedia.org/resource/Richard_Brome
 lancashire - http://dbpedia.org/resource/Lancashire
@@ -110,6 +104,7 @@ pendle hill - http://dbpedia.org/resource/Pendle_Hill
 landscape - http://dbpedia.org/resource/Landscape_painting
 witchcraft - http://dbpedia.org/resource/Witchcraft
 halloween - http://dbpedia.org/resource/Halloween
+witches - http://dbpedia.org/resource/Witchcraft
 pendle - http://dbpedia.org/resource/Pendle_witches
 tourism - http://dbpedia.org/resource/Tourism
-heritage industry - http://dbpedia.org/resource/Cultural_heritage
+heritage - http://dbpedia.org/resource/Tradition

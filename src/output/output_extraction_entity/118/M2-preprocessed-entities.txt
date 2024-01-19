@@ -10,16 +10,13 @@ roman fort - http://dbpedia.org/resource/Castra
 river eamont - http://dbpedia.org/resource/River_Eamont
 chamber - http://dbpedia.org/resource/Room
 lady anne - http://dbpedia.org/resource/Anne_Neville
-sleep - http://dbpedia.org/resource/Sleep
-die - http://dbpedia.org/resource/Death
-castle building - http://dbpedia.org/resource/Castle_Building
+castle buildings - http://dbpedia.org/resource/Castle_Buildings
 english heritage - http://dbpedia.org/resource/English_Heritage
 robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
 stone - http://dbpedia.org/resource/Stonemasonry
 timber - http://dbpedia.org/resource/Timber_framing
 clifford family - http://dbpedia.org/resource/Baron_de_Clifford
 robert clifford - http://dbpedia.org/resource/Bob_Clifford
-defence - http://dbpedia.org/resource/Military
 english civil war - http://dbpedia.org/resource/English_Civil_War
 lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
@@ -29,9 +26,7 @@ pendragon - http://dbpedia.org/resource/Pendragon
 appleby - http://dbpedia.org/resource/Appleby_Castle
 brough - http://dbpedia.org/resource/Brough_Castle
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
-die - http://dbpedia.org/resource/Death
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-bear - http://dbpedia.org/resource/Bear
 thanet - http://dbpedia.org/resource/Isle_of_Thanet
 appleby castle - http://dbpedia.org/resource/Appleby_Castle
 appleby - http://dbpedia.org/resource/Appleby_Castle

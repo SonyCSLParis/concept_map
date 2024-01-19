@@ -1,80 +1,73 @@
-historical atlas - http://dbpedia.org/resource/Historical_atlas
-mathematician - http://dbpedia.org/resource/Greek_mathematics
-infection - http://dbpedia.org/resource/Infection
-3150 bc - http://dbpedia.org/resource/32nd_century_BC
-scientist - http://dbpedia.org/resource/History_of_science_and_technology_in_China
-great flood - http://dbpedia.org/resource/Flood_myth
-israelites - http://dbpedia.org/resource/Israelites
-slave - http://dbpedia.org/resource/Slavery_in_ancient_Rome
-mummy - http://dbpedia.org/resource/Mummy
-30 bc - http://dbpedia.org/resource/30_BC
-time life books - http://dbpedia.org/resource/Time_Inc.
-cleopatra - http://dbpedia.org/resource/Cleopatra
-farming - http://dbpedia.org/resource/Agriculture_in_ancient_Rome
-bread - http://dbpedia.org/resource/Sacramental_bread
-rome - http://dbpedia.org/resource/Ancient_Rome
-calendar - http://dbpedia.org/resource/Calendar
-sally - http://dbpedia.org/resource/Sortie
-religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
-artifact - http://dbpedia.org/resource/Magic_in_fiction
-scribe - http://dbpedia.org/resource/Scribe
-glossary - http://dbpedia.org/resource/Glossary
-gail gibbons - http://dbpedia.org/resource/Gail_Gibbons
-hair - http://dbpedia.org/resource/Hair
-romans - http://dbpedia.org/resource/Romans_(musician)
-moses - http://dbpedia.org/resource/Moses
-nile - http://dbpedia.org/resource/Nile
-tomb - http://dbpedia.org/resource/KV62
-pharaohs - http://dbpedia.org/resource/Pharaoh
-ancient egyptian art - http://dbpedia.org/resource/Art_of_ancient_Egypt
-sacred - http://dbpedia.org/resource/Sumerian_religion
-egyptians - http://dbpedia.org/resource/Ancient_Egypt
-plow - http://dbpedia.org/resource/Plough
-egyptian empire - http://dbpedia.org/resource/Ancient_Egypt
-afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
-musical instrument - http://dbpedia.org/resource/Musical_instrument
-promised land - http://dbpedia.org/resource/Promised_Land
-egyptian people - http://dbpedia.org/resource/Egyptians
 northeast africa - http://dbpedia.org/resource/Horn_of_Africa
-pyramids - http://dbpedia.org/resource/Egyptian_pyramids
-egyptian gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
-egyptian mummies - http://dbpedia.org/resource/Mummy
-bible - http://dbpedia.org/resource/Hebrew_Bible
-priests - http://dbpedia.org/resource/Kohen
-irrigation - http://dbpedia.org/resource/Irrigation
-assyrian empire - http://dbpedia.org/resource/Assyria
-ptolemaic dynasty - http://dbpedia.org/resource/Ptolemaic_Kingdom
-nile river - http://dbpedia.org/resource/Nile
-george hart - http://dbpedia.org/resource/George_W._Hart
-water - http://dbpedia.org/resource/Water
-technology - http://dbpedia.org/resource/Technology
-greece - http://dbpedia.org/resource/Ancient_Greece
-medicine - http://dbpedia.org/resource/Medicine_in_the_medieval_Islamic_world
-professor - http://dbpedia.org/resource/Professor
-papyrus - http://dbpedia.org/resource/Papyrus
-ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
-food - http://dbpedia.org/resource/Food
-ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
 persian empire - http://dbpedia.org/resource/Achaemenid_Empire
-city - http://dbpedia.org/resource/City
-skin - http://dbpedia.org/resource/Skin
-crop - http://dbpedia.org/resource/Crop
-mythology - http://dbpedia.org/resource/Myth
-penguin - http://dbpedia.org/resource/Penguin
-soil - http://dbpedia.org/resource/Soil
-egyptian - http://dbpedia.org/resource/Ancient_Egypt
-toothpaste - http://dbpedia.org/resource/Toothpaste
-culture - http://dbpedia.org/resource/Culture
-family - http://dbpedia.org/resource/Family
-egyptian army - http://dbpedia.org/resource/Egyptian_Army
-ink - http://dbpedia.org/resource/Ink
-pharaoh - http://dbpedia.org/resource/Pharaoh
-sun - http://dbpedia.org/resource/Solar_deity
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-eyewitness - http://dbpedia.org/resource/Witness
-civilization - http://dbpedia.org/resource/Civilization
-alexander - http://dbpedia.org/resource/Alexander_the_Great
-middle kingdom - http://dbpedia.org/resource/Middle_Francia
+cosmetics - http://dbpedia.org/resource/Cosmetics
+slaves - http://dbpedia.org/resource/Slavery_in_ancient_Rome
+promised land - http://dbpedia.org/resource/Promised_Land
+sally - http://dbpedia.org/resource/Sortie
 paper - http://dbpedia.org/resource/Paper
-archeologist - http://dbpedia.org/resource/Archaeology
+family - http://dbpedia.org/resource/Family
+bible - http://dbpedia.org/resource/Hebrew_Bible
+cleopatra - http://dbpedia.org/resource/Cleopatra
+george hart - http://dbpedia.org/resource/George_W._Hart
+scribes - http://dbpedia.org/resource/Egyptian_hieroglyphs
+moses - http://dbpedia.org/resource/Moses
+sacred - http://dbpedia.org/resource/Sumerian_religion
+bread - http://dbpedia.org/resource/Sacramental_bread
+civilization - http://dbpedia.org/resource/Civilization
+irrigation - http://dbpedia.org/resource/Irrigation
+greece - http://dbpedia.org/resource/Ancient_Greece
+sun - http://dbpedia.org/resource/Solar_deity
+ink - http://dbpedia.org/resource/Ink
+culture - http://dbpedia.org/resource/Culture
+medicine - http://dbpedia.org/resource/Medicine_in_the_medieval_Islamic_world
+israelites - http://dbpedia.org/resource/Israelites
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+ancient egyptian art - http://dbpedia.org/resource/Art_of_ancient_Egypt
+pharaoh - http://dbpedia.org/resource/Pharaoh
+middle kingdom - http://dbpedia.org/resource/Middle_Francia
+musical - http://dbpedia.org/resource/Musical_theatre
+toothpaste - http://dbpedia.org/resource/Toothpaste
+afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
+water - http://dbpedia.org/resource/Water
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+nile - http://dbpedia.org/resource/Nile
+romans - http://dbpedia.org/resource/Romans_(musician)
+plow - http://dbpedia.org/resource/Plough
+soil - http://dbpedia.org/resource/Soil
+sightseers - http://dbpedia.org/resource/Sightseers
+skin - http://dbpedia.org/resource/Skin
+historical atlas - http://dbpedia.org/resource/Historical_atlas
+ptolemaic dynasty - http://dbpedia.org/resource/Ptolemaic_Kingdom
+time life books - http://dbpedia.org/resource/Time_Inc.
+rome - http://dbpedia.org/resource/Ancient_Rome
+pharaohs - http://dbpedia.org/resource/Pharaoh
+egyptian empire - http://dbpedia.org/resource/Ancient_Egypt
+egyptians - http://dbpedia.org/resource/Ancient_Egypt
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+glossary - http://dbpedia.org/resource/Glossary
+hair - http://dbpedia.org/resource/Hair
+professor - http://dbpedia.org/resource/Professor
+egyptian gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
+nile river - http://dbpedia.org/resource/Nile
+papyrus - http://dbpedia.org/resource/Papyrus
+food - http://dbpedia.org/resource/Food
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+artifacts - http://dbpedia.org/resource/Cultural_artifact
+religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
+gail gibbons - http://dbpedia.org/resource/Gail_Gibbons
+mythology - http://dbpedia.org/resource/Myth
+3150 bc - http://dbpedia.org/resource/32nd_century_BC
+egyptian people - http://dbpedia.org/resource/Egyptians
+technology - http://dbpedia.org/resource/Technology
+egyptian army - http://dbpedia.org/resource/Egyptian_Army
+calendar - http://dbpedia.org/resource/Calendar
+eyewitness books - http://dbpedia.org/resource/Eyewitness_Books
+farming - http://dbpedia.org/resource/Agriculture_in_ancient_Rome
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+priests - http://dbpedia.org/resource/Kohen
+penguin - http://dbpedia.org/resource/Penguin
+assyrian empire - http://dbpedia.org/resource/Assyria
+30 bc - http://dbpedia.org/resource/30_BC
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
+mummies - http://dbpedia.org/resource/Mummy
+egyptian mummies - http://dbpedia.org/resource/Mummy

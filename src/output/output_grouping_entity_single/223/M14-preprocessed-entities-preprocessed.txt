@@ -1,57 +1,52 @@
-governor - http://dbpedia.org/resource/Roman_governor
-philosophy - http://dbpedia.org/resource/Ancient_Greek_philosophy
-art mix - http://dbpedia.org/resource/Art_Mix
-macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
-byzantine - http://dbpedia.org/resource/Byzantine_Empire
-syria - http://dbpedia.org/resource/Syria
-theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
-classical - http://dbpedia.org/resource/Classical_antiquity
-serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
-methodius - http://dbpedia.org/resource/Saints_Cyril_and_Methodius
-iconoclasm - http://dbpedia.org/resource/Byzantine_Iconoclasm
-usher - http://dbpedia.org/resource/Rashidun_Caliphate
-mathematician - http://dbpedia.org/resource/Mathematics_in_medieval_Islam
-icon - http://dbpedia.org/resource/Icon
-byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
-farmer - http://dbpedia.org/resource/Farmer
-macedonian period - http://dbpedia.org/resource/Byzantine_Empire_under_the_Macedonian_dynasty
-heritage - http://dbpedia.org/resource/Tradition
-cyrillic script - http://dbpedia.org/resource/Cyrillic_script
-christianization - http://dbpedia.org/resource/Christianization
-basil ii - http://dbpedia.org/resource/Basil_II
-cyprus - http://dbpedia.org/resource/Cyprus
-regent - http://dbpedia.org/resource/Regent
-map - http://dbpedia.org/resource/Map
-theodora - http://dbpedia.org/resource/Theodora_of_Khazaria
-literature - http://dbpedia.org/resource/Latin_literature
-macedonian renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
-slavs - http://dbpedia.org/resource/Slavs
-philosophical - http://dbpedia.org/resource/Early_Islamic_philosophy
-painter - http://dbpedia.org/resource/Painting
-learning objective - http://dbpedia.org/resource/Educational_aims_and_objectives
-leo - http://dbpedia.org/resource/Leo_Phokas_the_Younger
-byzantine iconoclasm - http://dbpedia.org/resource/Byzantine_Iconoclasm
-italian renaissance - http://dbpedia.org/resource/Italian_Renaissance
-byzantine painting - http://dbpedia.org/resource/Byzantine_art
-byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-ancient greek - http://dbpedia.org/resource/Ancient_Greek
-independent - http://dbpedia.org/resource/Independence
-noble - http://dbpedia.org/resource/Nobility
-naturalistic - http://dbpedia.org/resource/International_auxiliary_language
-byzantine greek - http://dbpedia.org/resource/Byzantine_Empire
-force theme - http://dbpedia.org/resource/Music_of_Star_Wars
 ia - http://dbpedia.org/resource/Ia_(cuneiform)
-roman - http://dbpedia.org/resource/Roman_Empire
-nikephoros ii phokas - http://dbpedia.org/resource/Nikephoros_II_Phokas
-glagolitic alphabet - http://dbpedia.org/resource/Glagolitic_script
-ancient greeks - http://dbpedia.org/resource/Ancient_Greece
-macedonians - http://dbpedia.org/resource/Ancient_Macedonians
-crete - http://dbpedia.org/resource/Emirate_of_Crete
-hegemony - http://dbpedia.org/resource/Hegemony
-byzantium - http://dbpedia.org/resource/Byzantine_Empire
-orthodox christianity - http://dbpedia.org/resource/Eastern_Orthodox_Church
-culture - http://dbpedia.org/resource/Culture
-renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
-greco - http://dbpedia.org/resource/Ancient_Greece
-bulgarians - http://dbpedia.org/resource/First_Bulgarian_Empire
+learning objective - http://dbpedia.org/resource/Educational_aims_and_objectives
+philosophy - http://dbpedia.org/resource/Ancient_Greek_philosophy
 emperor - http://dbpedia.org/resource/Michael_III
+macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
+medieval - http://dbpedia.org/resource/Middle_Ages
+roman - http://dbpedia.org/resource/Roman_Empire
+macedonian period - http://dbpedia.org/resource/Byzantine_Empire_under_the_Macedonian_dynasty
+iconoclasm - http://dbpedia.org/resource/Byzantine_Iconoclasm
+nikephoros ii phokas - http://dbpedia.org/resource/Nikephoros_II_Phokas
+icon - http://dbpedia.org/resource/Icon
+culture - http://dbpedia.org/resource/Culture
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+crete - http://dbpedia.org/resource/Emirate_of_Crete
+independent - http://dbpedia.org/resource/Independence
+ancient greek - http://dbpedia.org/resource/Ancient_Greek
+map - http://dbpedia.org/resource/Map
+renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
+cyrillic script - http://dbpedia.org/resource/Cyrillic_script
+leo - http://dbpedia.org/resource/Leo_Phokas_the_Younger
+heritage - http://dbpedia.org/resource/Tradition
+italian renaissance - http://dbpedia.org/resource/Italian_Renaissance
+basil ii - http://dbpedia.org/resource/Basil_II
+classical - http://dbpedia.org/resource/Classical_antiquity
+roman art - http://dbpedia.org/resource/Roman_art
+macedonians - http://dbpedia.org/resource/Ancient_Macedonians
+hegemony - http://dbpedia.org/resource/Hegemony
+greco - http://dbpedia.org/resource/Ancient_Greece
+regent - http://dbpedia.org/resource/Regent
+ancient greeks - http://dbpedia.org/resource/Ancient_Greece
+philosophical - http://dbpedia.org/resource/Early_Islamic_philosophy
+byzantine painting - http://dbpedia.org/resource/Byzantine_art
+bulgarians - http://dbpedia.org/resource/First_Bulgarian_Empire
+orthodox christianity - http://dbpedia.org/resource/Eastern_Orthodox_Church
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
+macedonian renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
+byzantine greek - http://dbpedia.org/resource/Byzantine_Empire
+slavs - http://dbpedia.org/resource/Slavs
+christianization - http://dbpedia.org/resource/Christianization
+byzantine iconoclasm - http://dbpedia.org/resource/Byzantine_Iconoclasm
+mathematician - http://dbpedia.org/resource/Mathematics_in_medieval_Islam
+literature - http://dbpedia.org/resource/Latin_literature
+methodius - http://dbpedia.org/resource/Saints_Cyril_and_Methodius
+glagolitic alphabet - http://dbpedia.org/resource/Glagolitic_script
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+naturalistic - http://dbpedia.org/resource/International_auxiliary_language
+cyprus - http://dbpedia.org/resource/Cyprus
+serbs - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+theodora - http://dbpedia.org/resource/Theodora_of_Khazaria
+syria - http://dbpedia.org/resource/Syria

@@ -2,20 +2,22 @@ manor - http://dbpedia.org/resource/Manor_house
 alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
 alnwick - http://dbpedia.org/resource/Alnwick_Castle
 northumberland - http://dbpedia.org/resource/Northumberland
-alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
+alnwick - http://dbpedia.org/resource/Alnwick_Castle
 duke - http://dbpedia.org/resource/Duke
 northumberland - http://dbpedia.org/resource/Northumberland
 norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+listed building - http://dbpedia.org/resource/Listed_building
 alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
 alnwick - http://dbpedia.org/resource/Alnwick_Castle
 northumberland - http://dbpedia.org/resource/Northumberland
 alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
 alnwick - http://dbpedia.org/resource/Alnwick_Castle
 northumberland - http://dbpedia.org/resource/Northumberland
-alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
+alnwick - http://dbpedia.org/resource/Alnwick_Castle
 duke - http://dbpedia.org/resource/Duke
 northumberland - http://dbpedia.org/resource/Northumberland
 norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+listed building - http://dbpedia.org/resource/Listed_building
 arundel castle - http://dbpedia.org/resource/Arundel_Castle
 arundel - http://dbpedia.org/resource/Arundel_Castle
 west sussex - http://dbpedia.org/resource/Sussex
@@ -37,6 +39,7 @@ norfolk - http://dbpedia.org/resource/Norfolk
 english civil war - http://dbpedia.org/resource/English_Civil_War
 norfolk - http://dbpedia.org/resource/Norfolk
 family - http://dbpedia.org/resource/Family
+listed building - http://dbpedia.org/resource/Listed_building
 ashdown house - http://dbpedia.org/resource/Ashdown_House,_East_Sussex
 ashdown house - http://dbpedia.org/resource/Ashdown_House,_East_Sussex
 great room - http://dbpedia.org/resource/Great_room
@@ -45,7 +48,7 @@ northamptonshire - http://dbpedia.org/resource/Northamptonshire
 great room - http://dbpedia.org/resource/Great_room
 althorp - http://dbpedia.org/resource/Althorp
 country estate - http://dbpedia.org/resource/English_country_house
-acre - http://dbpedia.org/resource/Acre
+listed - http://dbpedia.org/resource/Listed_building
 county town - http://dbpedia.org/resource/County_town
 northampton - http://dbpedia.org/resource/Northampton
 official residence - http://dbpedia.org/resource/Official_residence
@@ -59,7 +62,7 @@ althorp - http://dbpedia.org/resource/Althorp
 northamptonshire - http://dbpedia.org/resource/Northamptonshire
 althorp - http://dbpedia.org/resource/Althorp
 country estate - http://dbpedia.org/resource/English_country_house
-acre - http://dbpedia.org/resource/Acre
+listed - http://dbpedia.org/resource/Listed_building
 county town - http://dbpedia.org/resource/County_town
 northampton - http://dbpedia.org/resource/Northampton
 official residence - http://dbpedia.org/resource/Official_residence
@@ -81,8 +84,9 @@ neoclassical - http://dbpedia.org/resource/Neoclassical_architecture
 country house - http://dbpedia.org/resource/English_country_house
 attingham - http://dbpedia.org/resource/Attingham_Park
 mansion - http://dbpedia.org/resource/English_country_house
-acre - http://dbpedia.org/resource/Acre
+gifted - http://dbpedia.org/resource/Child_prodigy
 national trust - http://dbpedia.org/resource/National_trust
+listed building - http://dbpedia.org/resource/Listed_building
 attingham park - http://dbpedia.org/resource/Attingham_Park
 national trust - http://dbpedia.org/resource/National_trust
 kirkby stephen - http://dbpedia.org/resource/Kirkby_Stephen
@@ -95,26 +99,25 @@ baddesley clinton - http://dbpedia.org/resource/Baddesley_Clinton
 warwickshire - http://dbpedia.org/resource/Warwickshire
 baddesley clinton - http://dbpedia.org/resource/Baddesley_Clinton
 manor house - http://dbpedia.org/resource/Manor_house
-north town - http://dbpedia.org/resource/West_Ridge,_Chicago
+town - http://dbpedia.org/resource/Market_town
 warwick - http://dbpedia.org/resource/Warwick
 arden - http://dbpedia.org/resource/Mary_Shakespeare
-priest hole - http://dbpedia.org/resource/Priest_hole
+priest holes - http://dbpedia.org/resource/Priest_hole
 catholic - http://dbpedia.org/resource/Catholic_Church
 treason - http://dbpedia.org/resource/Treason
 moat - http://dbpedia.org/resource/Moat
 wood - http://dbpedia.org/resource/Wood_carving
 panelling - http://dbpedia.org/resource/Panelling
 garderobe - http://dbpedia.org/resource/Garderobe
-fugitive - http://dbpedia.org/resource/Fugitive
 slide - http://dbpedia.org/resource/Slide_guitar
 rope - http://dbpedia.org/resource/Rope
 garderobe - http://dbpedia.org/resource/Garderobe
-shaft house - http://dbpedia.org/resource/Shaft_mining
-sewer - http://dbpedia.org/resource/Sanitary_sewer
-priest hole - http://dbpedia.org/resource/Priest_hole
+sewers - http://dbpedia.org/resource/Sanitary_sewer
+priest holes - http://dbpedia.org/resource/Priest_hole
 jesuit - http://dbpedia.org/resource/Society_of_Jesus
-local authority - http://dbpedia.org/resource/Districts_of_England
+local authorities - http://dbpedia.org/resource/Local_government_in_England
 scheduled ancient monument - http://dbpedia.org/resource/Scheduled_monument
+listed building - http://dbpedia.org/resource/Listed_building
 baddesley clinton - http://dbpedia.org/resource/Baddesley_Clinton
 granada television - http://dbpedia.org/resource/ITV_Granada
 sherlock holmes - http://dbpedia.org/resource/Sherlock_Holmes
@@ -150,12 +153,12 @@ blind - http://dbpedia.org/resource/Window_shutter
 bamburgh - http://dbpedia.org/resource/Bamburgh_Castle
 english monarch - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
 armstrong family - http://dbpedia.org/resource/Clan_Armstrong
-feature film - http://dbpedia.org/resource/Film
 ivanhoe - http://dbpedia.org/resource/Ivanhoe
 el cid - http://dbpedia.org/resource/El_Cid
 mary - http://dbpedia.org/resource/Mary_I_of_England
 queen - http://dbpedia.org/resource/Queen_consort
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+listed building - http://dbpedia.org/resource/Listed_building
 bamburgh castle - http://dbpedia.org/resource/Bamburgh_Castle
 bamburgh - http://dbpedia.org/resource/Bamburgh_Castle
 northumberland - http://dbpedia.org/resource/Northumberland
@@ -189,18 +192,19 @@ blind - http://dbpedia.org/resource/Window_shutter
 bamburgh - http://dbpedia.org/resource/Bamburgh_Castle
 english monarch - http://dbpedia.org/resource/Monarchy_of_the_United_Kingdom
 armstrong family - http://dbpedia.org/resource/Clan_Armstrong
-feature film - http://dbpedia.org/resource/Film
 ivanhoe - http://dbpedia.org/resource/Ivanhoe
 el cid - http://dbpedia.org/resource/El_Cid
 mary - http://dbpedia.org/resource/Mary_I_of_England
 queen - http://dbpedia.org/resource/Queen_consort
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+listed building - http://dbpedia.org/resource/Listed_building
 belvoir castle - http://dbpedia.org/resource/Belvoir_Castle
 leicestershire - http://dbpedia.org/resource/Leicestershire
 leicestershire - http://dbpedia.org/resource/Leicestershire
 belvoir castle - http://dbpedia.org/resource/Belvoir_Castle
 rutland - http://dbpedia.org/resource/Rutland
 belvoir - http://dbpedia.org/resource/Belvoir_Castle
+listed building - http://dbpedia.org/resource/Listed_building
 family - http://dbpedia.org/resource/Family
 manners family - http://dbpedia.org/resource/Duke_of_Rutland
 rutland - http://dbpedia.org/resource/Rutland
@@ -212,13 +216,11 @@ woodstock - http://dbpedia.org/resource/Woodstock
 oxfordshire - http://dbpedia.org/resource/Oxfordshire
 blenheim palace - http://dbpedia.org/resource/Blenheim_Palace
 country house - http://dbpedia.org/resource/English_country_house
-duke - http://dbpedia.org/resource/Duke
 marlborough - http://dbpedia.org/resource/Marlborough_College
 john churchill - http://dbpedia.org/resource/John_Churchill,_1st_Duke_of_Marlborough
 duke - http://dbpedia.org/resource/Duke
 marlborough - http://dbpedia.org/resource/Marlborough_College
 duke - http://dbpedia.org/resource/Duke
-military triumph - http://dbpedia.org/resource/Roman_triumph
 bavarians - http://dbpedia.org/resource/Duchy_of_Bavaria
 blenheim - http://dbpedia.org/resource/Blenheim_Palace
 churchill - http://dbpedia.org/resource/Winston_Churchill
@@ -235,6 +237,7 @@ norfolk - http://dbpedia.org/resource/Norfolk
 blickling hall - http://dbpedia.org/resource/Blickling_Hall
 sir john fastolf - http://dbpedia.org/resource/John_Fastolf
 coat - http://dbpedia.org/resource/Fur_clothing
+arms - http://dbpedia.org/resource/Coat_of_arms
 boleyn family - http://dbpedia.org/resource/Boleyn_family
 sir thomas boleyn - http://dbpedia.org/resource/Thomas_Boleyn,_1st_Earl_of_Wiltshire
 earl - http://dbpedia.org/resource/Earl
@@ -253,16 +256,14 @@ richard ii - http://dbpedia.org/resource/Richard_II_of_England
 french invasion - http://dbpedia.org/resource/Napoleonic_Wars
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 quadrangular plan - http://dbpedia.org/resource/Quadrangular_castle
-chamber - http://dbpedia.org/resource/Chamber_tomb
-defensive wall - http://dbpedia.org/resource/Defensive_wall
-court - http://dbpedia.org/resource/Courtyard
-tower - http://dbpedia.org/resource/Keep
-crenellation - http://dbpedia.org/resource/Battlement
+defensive walls - http://dbpedia.org/resource/Defensive_wall
+crenellations - http://dbpedia.org/resource/Battlement
 dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
-family centre - http://dbpedia.org/resource/Family_centre
+family - http://dbpedia.org/resource/Family
 manor - http://dbpedia.org/resource/Manor_house
 bodiam - http://dbpedia.org/resource/Bodiam
-monument - http://dbpedia.org/resource/Funerary_art
+listed building - http://dbpedia.org/resource/Listed_building
+scheduled monument - http://dbpedia.org/resource/Scheduled_monument
 national trust - http://dbpedia.org/resource/National_trust
 lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
@@ -277,16 +278,14 @@ richard ii - http://dbpedia.org/resource/Richard_II_of_England
 french invasion - http://dbpedia.org/resource/Napoleonic_Wars
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 quadrangular plan - http://dbpedia.org/resource/Quadrangular_castle
-chamber - http://dbpedia.org/resource/Chamber_tomb
-defensive wall - http://dbpedia.org/resource/Defensive_wall
-court - http://dbpedia.org/resource/Courtyard
+defensive walls - http://dbpedia.org/resource/Defensive_wall
 crenellated - http://dbpedia.org/resource/Battlement
-tower - http://dbpedia.org/resource/Keep
 dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
-family centre - http://dbpedia.org/resource/Family_centre
+family - http://dbpedia.org/resource/Family
 manor - http://dbpedia.org/resource/Manor_house
 bodiam - http://dbpedia.org/resource/Bodiam
-monument - http://dbpedia.org/resource/Funerary_art
+listed building - http://dbpedia.org/resource/Listed_building
+scheduled monument - http://dbpedia.org/resource/Scheduled_monument
 national trust - http://dbpedia.org/resource/National_trust
 lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
@@ -301,16 +300,14 @@ richard ii - http://dbpedia.org/resource/Richard_II_of_England
 french invasion - http://dbpedia.org/resource/Napoleonic_Wars
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 quadrangular plan - http://dbpedia.org/resource/Quadrangular_castle
-chamber - http://dbpedia.org/resource/Chamber_tomb
-defensive wall - http://dbpedia.org/resource/Defensive_wall
-court - http://dbpedia.org/resource/Courtyard
-tower - http://dbpedia.org/resource/Keep
-crenellation - http://dbpedia.org/resource/Battlement
+defensive walls - http://dbpedia.org/resource/Defensive_wall
+crenellations - http://dbpedia.org/resource/Battlement
 dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
-family centre - http://dbpedia.org/resource/Family_centre
+family - http://dbpedia.org/resource/Family
 manor - http://dbpedia.org/resource/Manor_house
 bodiam - http://dbpedia.org/resource/Bodiam
-monument - http://dbpedia.org/resource/Funerary_art
+listed building - http://dbpedia.org/resource/Listed_building
+scheduled monument - http://dbpedia.org/resource/Scheduled_monument
 national trust - http://dbpedia.org/resource/National_trust
 lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
 bolsover castle - http://dbpedia.org/resource/Bolsover_Castle
@@ -324,6 +321,7 @@ family - http://dbpedia.org/resource/Family
 peveril castle - http://dbpedia.org/resource/Peveril_Castle
 derbyshire - http://dbpedia.org/resource/Derbyshire
 english heritage - http://dbpedia.org/resource/English_Heritage
+listed building - http://dbpedia.org/resource/Listed_building
 scheduled ancient monument - http://dbpedia.org/resource/Scheduled_monument
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 lordship - http://dbpedia.org/resource/Manorialism
@@ -335,8 +333,9 @@ lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 tottenham - http://dbpedia.org/resource/Tottenham
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 lordship - http://dbpedia.org/resource/Manorialism
+listed - http://dbpedia.org/resource/Listed_building
 manor house - http://dbpedia.org/resource/Manor_house
-brick house - http://dbpedia.org/resource/Brick_House_Station
+brick - http://dbpedia.org/resource/Brick
 borough - http://dbpedia.org/resource/Borough
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 public park - http://dbpedia.org/resource/Park
@@ -379,7 +378,6 @@ canterbury cathedral - http://dbpedia.org/resource/Canterbury_Cathedral
 canterbury - http://dbpedia.org/resource/Canterbury
 kent - http://dbpedia.org/resource/Kent
 canterbury cathedral - http://dbpedia.org/resource/Canterbury_Cathedral
-christian structure - http://dbpedia.org/resource/Church_architecture
 heritage - http://dbpedia.org/resource/Historic_site
 archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
 canterbury - http://dbpedia.org/resource/Canterbury
@@ -391,26 +389,24 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 westminster hall - http://dbpedia.org/resource/Palace_of_Westminster
 cambridge - http://dbpedia.org/resource/Cambridge
 court - http://dbpedia.org/resource/Courtyard
-private school - http://dbpedia.org/resource/Independent_school
 vestibule - http://dbpedia.org/resource/Antechamber
-refectory - http://dbpedia.org/resource/Refectory
-monastery - http://dbpedia.org/resource/Abbey
+refectories - http://dbpedia.org/resource/Refectory
+monasteries - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
 health - http://dbpedia.org/resource/Public_health
 safety - http://dbpedia.org/resource/Safety
-undergraduate - http://dbpedia.org/resource/Harvard_College
 high table - http://dbpedia.org/resource/Dais
 christ church college - http://dbpedia.org/resource/Canterbury_Christ_Church_University
 christ church - http://dbpedia.org/resource/Canterbury_Cathedral
-cardinal college - http://dbpedia.org/resource/Christ_Church,_Oxford
+cardinal - http://dbpedia.org/resource/Cardinal_direction
 cardinal wolsey - http://dbpedia.org/resource/Thomas_Wolsey
-bear - http://dbpedia.org/resource/Bear
+arms - http://dbpedia.org/resource/Coat_of_arms
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 british prime ministers - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
 chapel - http://dbpedia.org/resource/Chapel
 hogwarts - http://dbpedia.org/resource/Hogwarts
-harry potter - http://dbpedia.org/resource/Harry_Potter
+harry potter films - http://dbpedia.org/resource/Harry_Potter_(film_series)
 evelyn waugh - http://dbpedia.org/resource/Evelyn_Waugh
-brideshead - http://dbpedia.org/resource/Brideshead_Revisited
+brideshead revisited - http://dbpedia.org/resource/Brideshead_Revisited
 lewis carroll - http://dbpedia.org/resource/Lewis_Carroll
 alice - http://dbpedia.org/resource/Alice_and_Bob
 wonderland - http://dbpedia.org/resource/Alice's_Adventures_in_Wonderland
@@ -424,12 +420,11 @@ conisbrough castle - http://dbpedia.org/resource/Conisbrough_Castle
 conisbrough - http://dbpedia.org/resource/Conisbrough
 south yorkshire - http://dbpedia.org/resource/South_Yorkshire
 conisbrough castle - http://dbpedia.org/resource/Conisbrough_Castle
-buttress - http://dbpedia.org/resource/Buttress
+buttresses - http://dbpedia.org/resource/Buttress
 river don - http://dbpedia.org/resource/River_Don,_Yorkshire
 fortification - http://dbpedia.org/resource/Castle
 unification - http://dbpedia.org/resource/Italian_unification
 south yorkshire - http://dbpedia.org/resource/South_Yorkshire
-tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 english heritage - http://dbpedia.org/resource/English_Heritage
 device fort - http://dbpedia.org/resource/Device_Forts
 device fort - http://dbpedia.org/resource/Device_Forts
@@ -445,7 +440,7 @@ henrician castles - http://dbpedia.org/resource/Device_Forts
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 artillery - http://dbpedia.org/resource/Royal_Artillery
 fortress - http://dbpedia.org/resource/Castle
-invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+invasion - http://dbpedia.org/resource/Invasion
 charles - http://dbpedia.org/resource/Charles_I_of_England
 holy roman emperor - http://dbpedia.org/resource/Holy_Roman_Empire
 francis - http://dbpedia.org/resource/Francis_I_of_France
@@ -456,12 +451,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -481,12 +477,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 dover - http://dbpedia.org/resource/Dover
@@ -505,12 +502,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -529,12 +527,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -553,12 +552,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -578,12 +578,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -602,12 +603,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -626,12 +628,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -650,12 +653,13 @@ dover - http://dbpedia.org/resource/Dover
 kent - http://dbpedia.org/resource/Kent
 dover castle - http://dbpedia.org/resource/Dover_Castle
 henry ii - http://dbpedia.org/resource/Henry_II_of_England
-outer bailey - http://dbpedia.org/resource/Outer_bailey
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
 maurice - http://dbpedia.org/resource/Saint_Maurice
 engineer - http://dbpedia.org/resource/Civil_engineer
 dover castle - http://dbpedia.org/resource/Dover_Castle
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
-tunnel - http://dbpedia.org/resource/Tunnel
+listed building - http://dbpedia.org/resource/Listed_building
+secret tunnels - http://dbpedia.org/resource/Secret_passage
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 cinque ports - http://dbpedia.org/resource/Cinque_Ports
@@ -691,15 +695,14 @@ siege - http://dbpedia.org/resource/Siege
 dunster castle - http://dbpedia.org/resource/Dunster_Castle
 english civil war - http://dbpedia.org/resource/English_Civil_War
 parliament - http://dbpedia.org/resource/Parliament_of_England
-defence - http://dbpedia.org/resource/Military
 victorian - http://dbpedia.org/resource/Victorian_era
-taste - http://dbpedia.org/resource/Wine_tasting
 colonel - http://dbpedia.org/resource/Colonel
 walter luttrell - http://dbpedia.org/resource/Walter_Luttrell
 dunster castle - http://dbpedia.org/resource/Dunster_Castle
 national trust - http://dbpedia.org/resource/National_trust
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
-monument - http://dbpedia.org/resource/Funerary_art
+listed building - http://dbpedia.org/resource/Listed_building
+scheduled monument - http://dbpedia.org/resource/Scheduled_monument
 medieval - http://dbpedia.org/resource/Middle_Ages
 gainsborough - http://dbpedia.org/resource/Thomas_Gainsborough
 gainsborough - http://dbpedia.org/resource/Thomas_Gainsborough
@@ -718,22 +721,22 @@ gainsborough - http://dbpedia.org/resource/Thomas_Gainsborough
 queen catherine howard - http://dbpedia.org/resource/Catherine_Howard
 catherine howard - http://dbpedia.org/resource/Catherine_Howard
 queen - http://dbpedia.org/resource/Queen_consort
-indiscretion - http://dbpedia.org/resource/Indiscretion_(Star_Trek:_Deep_Space_Nine)
+indiscretions - http://dbpedia.org/resource/Les_Parents_terribles
 gainsborough - http://dbpedia.org/resource/Thomas_Gainsborough
 lincoln - http://dbpedia.org/resource/Abraham_Lincoln
-timber frame - http://dbpedia.org/resource/Timber_framing
+timber framed - http://dbpedia.org/resource/Timber_framing
 brick - http://dbpedia.org/resource/Brick
 tower - http://dbpedia.org/resource/Keep
 timber - http://dbpedia.org/resource/Timber_framing
 medieval - http://dbpedia.org/resource/Middle_Ages
-fireplace - http://dbpedia.org/resource/Fireplace
 roast - http://dbpedia.org/resource/Roasting
 ox - http://dbpedia.org/resource/Ox
-bread oven - http://dbpedia.org/resource/Masonry_oven
+bread - http://dbpedia.org/resource/Sacramental_bread
 chimney - http://dbpedia.org/resource/Chimney
 philistine - http://dbpedia.org/resource/Philistines
 council estate - http://dbpedia.org/resource/Housing_estate
 english heritage - http://dbpedia.org/resource/English_Heritage
+listed - http://dbpedia.org/resource/Listed_building
 heritage - http://dbpedia.org/resource/Historic_site
 garsington manor - http://dbpedia.org/resource/Garsington_Manor
 garsington - http://dbpedia.org/resource/Garsington
@@ -743,7 +746,6 @@ garsington manor - http://dbpedia.org/resource/Garsington_Manor
 tudor - http://dbpedia.org/resource/Tudor_architecture
 poet - http://dbpedia.org/resource/Poet
 geoffrey chaucer - http://dbpedia.org/resource/Geoffrey_Chaucer
-chaucer - http://dbpedia.org/resource/Geoffrey_Chaucer
 philip morrell - http://dbpedia.org/resource/Philip_Morrell
 manor house - http://dbpedia.org/resource/Manor_house
 garsington - http://dbpedia.org/resource/Garsington
@@ -760,7 +762,7 @@ ham house - http://dbpedia.org/resource/Ham_House
 ham - http://dbpedia.org/resource/Actor
 ham house - http://dbpedia.org/resource/Ham_House
 river thames - http://dbpedia.org/resource/River_Thames
-south richmond - http://dbpedia.org/resource/Richmond,_Virginia
+richmond - http://dbpedia.org/resource/Richmond_Football_Club
 national trust - http://dbpedia.org/resource/National_trust
 fashion - http://dbpedia.org/resource/Fashion
 hampton court palace - http://dbpedia.org/resource/Hampton_Court_Palace
@@ -788,7 +790,7 @@ henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 river thames - http://dbpedia.org/resource/River_Thames
 richmond - http://dbpedia.org/resource/Richmond_Football_Club
 thames - http://dbpedia.org/resource/River_Thames
-historic county - http://dbpedia.org/resource/Historic_counties_of_England
+historic county - http://dbpedia.org/resource/Lancashire
 middlesex - http://dbpedia.org/resource/Middlesex
 wolsey - http://dbpedia.org/resource/Thomas_Wolsey
 hampton court palace - http://dbpedia.org/resource/Hampton_Court_Palace
@@ -802,7 +804,6 @@ harewood - http://dbpedia.org/resource/Harewood
 west yorkshire - http://dbpedia.org/resource/West_Yorkshire
 harewood house - http://dbpedia.org/resource/Harewood_House
 country house - http://dbpedia.org/resource/English_country_house
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
 john carr - http://dbpedia.org/resource/John_F._Carr
 robert adam - http://dbpedia.org/resource/Robert_Adam
 edwin lascelles - http://dbpedia.org/resource/Edwin_Lascelles,_1st_Baron_Harewood
@@ -819,11 +820,12 @@ sir charles barry - http://dbpedia.org/resource/Charles_Barry
 grand terrace - http://dbpedia.org/resource/Grand_Terrace,_California
 thomas girtin - http://dbpedia.org/resource/Thomas_Girtin
 jmw turner - http://dbpedia.org/resource/J._M._W._Turner
-landmark - http://dbpedia.org/resource/Landmark
+painting - http://dbpedia.org/resource/Painting
 harewood estate - http://dbpedia.org/resource/Harewood_House
 family - http://dbpedia.org/resource/Family
+listed building - http://dbpedia.org/resource/Listed_building
 courtyard - http://dbpedia.org/resource/Courtyard
-grade ii - http://dbpedia.org/resource/Listed_building
+listed - http://dbpedia.org/resource/Listed_building
 harewood house - http://dbpedia.org/resource/Harewood_House
 harewood - http://dbpedia.org/resource/Harewood
 west yorkshire - http://dbpedia.org/resource/West_Yorkshire
@@ -832,7 +834,6 @@ harewood - http://dbpedia.org/resource/Harewood
 west yorkshire - http://dbpedia.org/resource/West_Yorkshire
 harewood house - http://dbpedia.org/resource/Harewood_House
 country house - http://dbpedia.org/resource/English_country_house
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
 john carr - http://dbpedia.org/resource/John_F._Carr
 robert adam - http://dbpedia.org/resource/Robert_Adam
 edwin lascelles - http://dbpedia.org/resource/Edwin_Lascelles,_1st_Baron_Harewood
@@ -848,11 +849,12 @@ sir charles barry - http://dbpedia.org/resource/Charles_Barry
 grand terrace - http://dbpedia.org/resource/Grand_Terrace,_California
 thomas girtin - http://dbpedia.org/resource/Thomas_Girtin
 jmw turner - http://dbpedia.org/resource/J._M._W._Turner
-landmark - http://dbpedia.org/resource/Landmark
+painting - http://dbpedia.org/resource/Painting
 harewood estate - http://dbpedia.org/resource/Harewood_House
 family - http://dbpedia.org/resource/Family
+listed building - http://dbpedia.org/resource/Listed_building
 courtyard - http://dbpedia.org/resource/Courtyard
-grade ii - http://dbpedia.org/resource/Listed_building
+listed - http://dbpedia.org/resource/Listed_building
 harlaxton manor - http://dbpedia.org/resource/Harlaxton_Manor
 harlaxton - http://dbpedia.org/resource/Harlaxton
 lincolnshire - http://dbpedia.org/resource/Lincolnshire
@@ -862,10 +864,9 @@ lincolnshire - http://dbpedia.org/resource/Lincolnshire
 harlaxton manor - http://dbpedia.org/resource/Harlaxton_Manor
 manor house - http://dbpedia.org/resource/Manor_house
 jacobean - http://dbpedia.org/resource/Jacobean_architecture
-elizabethan style - http://dbpedia.org/resource/Elizabethan_architecture
+elizabethan - http://dbpedia.org/resource/Tudor_architecture
 baroque - http://dbpedia.org/resource/Baroque_architecture
 manor - http://dbpedia.org/resource/Manor_house
-feature film - http://dbpedia.org/resource/Film
 ruling class - http://dbpedia.org/resource/Ruling_class
 patton - http://dbpedia.org/resource/George_S._Patton
 highwayman - http://dbpedia.org/resource/Highwayman
@@ -976,10 +977,10 @@ carnarvon - http://dbpedia.org/resource/Caernarfon
 anglo - http://dbpedia.org/resource/Anglo
 herbert family - http://dbpedia.org/resource/House_of_Herbert
 highclere castle - http://dbpedia.org/resource/Highclere_Castle
+filming location - http://dbpedia.org/resource/Filming_location
 british television - http://dbpedia.org/resource/Television_in_the_United_Kingdom
 period drama - http://dbpedia.org/resource/Historical_period_drama
 downton abbey - http://dbpedia.org/resource/Downton_Abbey
-castle garden - http://dbpedia.org/resource/Castle_Clinton
 highclere castle - http://dbpedia.org/resource/Highclere_Castle
 hampshire - http://dbpedia.org/resource/Hampshire
 highclere castle - http://dbpedia.org/resource/Highclere_Castle
@@ -994,10 +995,10 @@ carnarvon - http://dbpedia.org/resource/Caernarfon
 anglo - http://dbpedia.org/resource/Anglo
 herbert family - http://dbpedia.org/resource/House_of_Herbert
 highclere castle - http://dbpedia.org/resource/Highclere_Castle
+filming location - http://dbpedia.org/resource/Filming_location
 british television - http://dbpedia.org/resource/Television_in_the_United_Kingdom
 period drama - http://dbpedia.org/resource/Historical_period_drama
 downton abbey - http://dbpedia.org/resource/Downton_Abbey
-castle garden - http://dbpedia.org/resource/Castle_Clinton
 highclere castle - http://dbpedia.org/resource/Highclere_Castle
 hampshire - http://dbpedia.org/resource/Hampshire
 highclere castle - http://dbpedia.org/resource/Highclere_Castle
@@ -1012,10 +1013,10 @@ carnarvon - http://dbpedia.org/resource/Caernarfon
 anglo - http://dbpedia.org/resource/Anglo
 herbert family - http://dbpedia.org/resource/House_of_Herbert
 highclere castle - http://dbpedia.org/resource/Highclere_Castle
+filming location - http://dbpedia.org/resource/Filming_location
 british television - http://dbpedia.org/resource/Television_in_the_United_Kingdom
 period drama - http://dbpedia.org/resource/Historical_period_drama
 downton abbey - http://dbpedia.org/resource/Downton_Abbey
-castle garden - http://dbpedia.org/resource/Castle_Clinton
 thyme - http://dbpedia.org/resource/Thyme
 highgrove house - http://dbpedia.org/resource/Highgrove_House
 gloucestershire - http://dbpedia.org/resource/Gloucestershire
@@ -1033,11 +1034,12 @@ castle howard - http://dbpedia.org/resource/Castle_Howard
 north yorkshire - http://dbpedia.org/resource/North_Yorkshire
 castle howard - http://dbpedia.org/resource/Castle_Howard
 english country house - http://dbpedia.org/resource/English_country_house
-north york - http://dbpedia.org/resource/North_York
+york - http://dbpedia.org/resource/York
 howard family - http://dbpedia.org/resource/House_of_Howard
 castle howard - http://dbpedia.org/resource/Castle_Howard
 john vanbrugh - http://dbpedia.org/resource/John_Vanbrugh
-earl carlisle - http://dbpedia.org/resource/George_Howard,_7th_Earl_of_Carlisle
+earl - http://dbpedia.org/resource/Earl
+carlisle - http://dbpedia.org/resource/Carlisle
 henderskelfe - http://dbpedia.org/resource/Castle_Howard
 howard family - http://dbpedia.org/resource/House_of_Howard
 marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
@@ -1045,13 +1047,13 @@ lord dacre - http://dbpedia.org/resource/Baron_Dacre
 thomas - http://dbpedia.org/resource/THOMAS
 duke - http://dbpedia.org/resource/Duke
 norfolk - http://dbpedia.org/resource/Norfolk
-earl carlisle - http://dbpedia.org/resource/George_Howard,_7th_Earl_of_Carlisle
-acre - http://dbpedia.org/resource/Acre
+earl - http://dbpedia.org/resource/Earl
+carlisle - http://dbpedia.org/resource/Carlisle
 ha - http://dbpedia.org/resource/Century
 railway station - http://dbpedia.org/resource/Train_station
 castle howard - http://dbpedia.org/resource/Castle_Howard
 castle howard - http://dbpedia.org/resource/Castle_Howard
-television film - http://dbpedia.org/resource/Television_film
+television - http://dbpedia.org/resource/Television
 granada television - http://dbpedia.org/resource/ITV_Granada
 evelyn waugh - http://dbpedia.org/resource/Evelyn_Waugh
 brideshead revisited - http://dbpedia.org/resource/Brideshead_Revisited
@@ -1078,9 +1080,8 @@ april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holding
 validity - http://dbpedia.org/resource/Sacraments_of_the_Catholic_Church
 marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
 fenland - http://dbpedia.org/resource/The_Fens
-climate damage - http://dbpedia.org/resource/Effects_of_global_warming
+climate - http://dbpedia.org/resource/San_Francisco_Bay_Area
 health - http://dbpedia.org/resource/Public_health
-die - http://dbpedia.org/resource/Death
 peterborough abbey - http://dbpedia.org/resource/Peterborough_Cathedral
 peterborough cathedral - http://dbpedia.org/resource/Peterborough_Cathedral
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -1114,6 +1115,7 @@ country house - http://dbpedia.org/resource/English_country_house
 william burges - http://dbpedia.org/resource/William_Burges
 amory - http://dbpedia.org/resource/Amory,_Mississippi
 family - http://dbpedia.org/resource/Family
+listed - http://dbpedia.org/resource/Listed_building
 langley castle - http://dbpedia.org/resource/Langley_Castle
 langley - http://dbpedia.org/resource/Langley_(unit)
 northumberland - http://dbpedia.org/resource/Northumberland
@@ -1126,10 +1128,10 @@ tower house - http://dbpedia.org/resource/Tower_house
 river south tyne - http://dbpedia.org/resource/River_Tyne
 haydon bridge - http://dbpedia.org/resource/Haydon_Bridge
 west tower - http://dbpedia.org/resource/West_Tower
-garderobe - http://dbpedia.org/resource/Garderobe
+listed building - http://dbpedia.org/resource/Listed_building
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
-leed - http://dbpedia.org/resource/Song
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
@@ -1146,11 +1148,11 @@ waltz - http://dbpedia.org/resource/Waltz
 androids - http://dbpedia.org/resource/Android_(robot)
 lake - http://dbpedia.org/resource/Lake_Ontario
 river len - http://dbpedia.org/resource/River_Len
-east village - http://dbpedia.org/resource/East_Village,_Manhattan
+village - http://dbpedia.org/resource/Village
 leeds - http://dbpedia.org/resource/Leeds
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
-leed - http://dbpedia.org/resource/Song
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
@@ -1167,11 +1169,11 @@ waltz - http://dbpedia.org/resource/Waltz
 androids - http://dbpedia.org/resource/Android_(robot)
 lake - http://dbpedia.org/resource/Lake_Ontario
 river len - http://dbpedia.org/resource/River_Len
-east village - http://dbpedia.org/resource/East_Village,_Manhattan
+village - http://dbpedia.org/resource/Village
 leeds - http://dbpedia.org/resource/Leeds
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
-leed - http://dbpedia.org/resource/Song
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
@@ -1188,11 +1190,11 @@ waltz - http://dbpedia.org/resource/Waltz
 androids - http://dbpedia.org/resource/Android_(robot)
 lake - http://dbpedia.org/resource/Lake_Ontario
 river len - http://dbpedia.org/resource/River_Len
-east village - http://dbpedia.org/resource/East_Village,_Manhattan
+village - http://dbpedia.org/resource/Village
 leeds - http://dbpedia.org/resource/Leeds
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
-leed - http://dbpedia.org/resource/Song
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
@@ -1209,11 +1211,11 @@ waltz - http://dbpedia.org/resource/Waltz
 androids - http://dbpedia.org/resource/Android_(robot)
 lake - http://dbpedia.org/resource/Lake_Ontario
 river len - http://dbpedia.org/resource/River_Len
-east village - http://dbpedia.org/resource/East_Village,_Manhattan
+village - http://dbpedia.org/resource/Village
 leeds - http://dbpedia.org/resource/Leeds
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
-leed - http://dbpedia.org/resource/Song
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
@@ -1230,11 +1232,11 @@ waltz - http://dbpedia.org/resource/Waltz
 androids - http://dbpedia.org/resource/Android_(robot)
 lake - http://dbpedia.org/resource/Lake_Ontario
 river len - http://dbpedia.org/resource/River_Len
-east village - http://dbpedia.org/resource/East_Village,_Manhattan
+village - http://dbpedia.org/resource/Village
 leeds - http://dbpedia.org/resource/Leeds
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
-leed - http://dbpedia.org/resource/Song
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
@@ -1251,11 +1253,11 @@ waltz - http://dbpedia.org/resource/Waltz
 androids - http://dbpedia.org/resource/Android_(robot)
 lake - http://dbpedia.org/resource/Lake_Ontario
 river len - http://dbpedia.org/resource/River_Len
-east village - http://dbpedia.org/resource/East_Village,_Manhattan
+village - http://dbpedia.org/resource/Village
 leeds - http://dbpedia.org/resource/Leeds
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
-leed - http://dbpedia.org/resource/Song
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 kent - http://dbpedia.org/resource/Kent
@@ -1272,7 +1274,7 @@ waltz - http://dbpedia.org/resource/Waltz
 androids - http://dbpedia.org/resource/Android_(robot)
 lake - http://dbpedia.org/resource/Lake_Ontario
 river len - http://dbpedia.org/resource/River_Len
-east village - http://dbpedia.org/resource/East_Village,_Manhattan
+village - http://dbpedia.org/resource/Village
 leeds - http://dbpedia.org/resource/Leeds
 lindisfarne castle - http://dbpedia.org/resource/Lindisfarne_Castle
 holy island - http://dbpedia.org/resource/Lindisfarne
@@ -1292,14 +1294,14 @@ volatile - http://dbpedia.org/resource/Volatile_organic_compound
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 vikings - http://dbpedia.org/resource/Vikings
 lindisfarne priory - http://dbpedia.org/resource/Lindisfarne
-stone priory - http://dbpedia.org/resource/Stone_Priory
+building material - http://dbpedia.org/resource/Building_material
 fort - http://dbpedia.org/resource/Fortification
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 naval store - http://dbpedia.org/resource/Naval_stores
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 earl - http://dbpedia.org/resource/Earl
 rutland - http://dbpedia.org/resource/Rutland
-invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+invasion - http://dbpedia.org/resource/Invasion
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 fort - http://dbpedia.org/resource/Fortification
 gun - http://dbpedia.org/resource/Cannon
@@ -1320,12 +1322,9 @@ longleat - http://dbpedia.org/resource/Longleat
 elizabethan - http://dbpedia.org/resource/Tudor_architecture
 country house - http://dbpedia.org/resource/English_country_house
 maze - http://dbpedia.org/resource/Maze
-landscape - http://dbpedia.org/resource/Landscape_architecture
 safari - http://dbpedia.org/resource/Hunting
-landscape - http://dbpedia.org/resource/Landscape_architecture
 capability brown - http://dbpedia.org/resource/Capability_Brown
 longleat - http://dbpedia.org/resource/Longleat
-alexander - http://dbpedia.org/resource/Alexander_the_Great
 7th marquess - http://dbpedia.org/resource/John_Hervey,_7th_Marquess_of_Bristol
 longleat house - http://dbpedia.org/resource/Longleat
 village - http://dbpedia.org/resource/Village
@@ -1339,16 +1338,10 @@ longleat - http://dbpedia.org/resource/Longleat
 elizabethan - http://dbpedia.org/resource/Tudor_architecture
 country house - http://dbpedia.org/resource/English_country_house
 maze - http://dbpedia.org/resource/Maze
-landscape - http://dbpedia.org/resource/Landscape_architecture
 safari - http://dbpedia.org/resource/Hunting
-acre - http://dbpedia.org/resource/Acre
-landscape - http://dbpedia.org/resource/Landscape_architecture
 capability brown - http://dbpedia.org/resource/Capability_Brown
-acre - http://dbpedia.org/resource/Acre
-acre - http://dbpedia.org/resource/Acre
 woodland - http://dbpedia.org/resource/Woodland
 longleat - http://dbpedia.org/resource/Longleat
-alexander - http://dbpedia.org/resource/Alexander_the_Great
 7th marquess - http://dbpedia.org/resource/John_Hervey,_7th_Marquess_of_Bristol
 longleat - http://dbpedia.org/resource/Longleat
 warminster - http://dbpedia.org/resource/Warminster
@@ -1362,12 +1355,9 @@ longleat - http://dbpedia.org/resource/Longleat
 elizabethan - http://dbpedia.org/resource/Tudor_architecture
 country house - http://dbpedia.org/resource/English_country_house
 maze - http://dbpedia.org/resource/Maze
-landscape - http://dbpedia.org/resource/Landscape_architecture
 safari - http://dbpedia.org/resource/Hunting
-landscape - http://dbpedia.org/resource/Landscape_architecture
 capability brown - http://dbpedia.org/resource/Capability_Brown
 longleat - http://dbpedia.org/resource/Longleat
-alexander - http://dbpedia.org/resource/Alexander_the_Great
 7th marquess - http://dbpedia.org/resource/John_Hervey,_7th_Marquess_of_Bristol
 king henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
@@ -1391,12 +1381,12 @@ renaissance - http://dbpedia.org/resource/Renaissance_architecture
 classical - http://dbpedia.org/resource/Classical_architecture
 elizabethan era - http://dbpedia.org/resource/Elizabethan_era
 english heritage - http://dbpedia.org/resource/English_Heritage
-monument - http://dbpedia.org/resource/Funerary_art
+listed building - http://dbpedia.org/resource/Listed_building
+scheduled ancient monument - http://dbpedia.org/resource/Scheduled_monument
 sir edward phelips - http://dbpedia.org/resource/Edward_Phelips_(speaker)
 prosecutor - http://dbpedia.org/resource/District_attorney
 gunpowder plotters - http://dbpedia.org/resource/Gunpowder_Plot
 lord curzon - http://dbpedia.org/resource/George_Curzon,_1st_Marquess_Curzon_of_Kedleston
-live house - http://dbpedia.org/resource/Live_house
 mistress - http://dbpedia.org/resource/Royal_mistress
 novelist - http://dbpedia.org/resource/Novel
 elinor glyn - http://dbpedia.org/resource/Elinor_Glyn
@@ -1415,7 +1405,6 @@ william moreton - http://dbpedia.org/resource/William_Moreton
 family - http://dbpedia.org/resource/Family
 cobbled - http://dbpedia.org/resource/Cobblestone
 courtyard - http://dbpedia.org/resource/Courtyard
-glaze - http://dbpedia.org/resource/Ceramic_glaze
 bow - http://dbpedia.org/resource/Bow_and_arrow
 warp - http://dbpedia.org/resource/Warp_and_weft
 moreton - http://dbpedia.org/resource/Moreton_Bay
@@ -1426,6 +1415,7 @@ sandstone - http://dbpedia.org/resource/Sandstone
 bridge - http://dbpedia.org/resource/Bridge
 moat - http://dbpedia.org/resource/Moat
 national heritage list - http://dbpedia.org/resource/Australian_National_Heritage_List
+listed building - http://dbpedia.org/resource/Listed_building
 moreton - http://dbpedia.org/resource/Moreton_Bay
 scheduled monument - http://dbpedia.org/resource/Scheduled_monument
 orford castle - http://dbpedia.org/resource/Orford_Castle
@@ -1439,7 +1429,7 @@ king henry ii - http://dbpedia.org/resource/Henry_II_of_England
 region - http://dbpedia.org/resource/Regions_of_England
 remarkable - http://dbpedia.org/resource/ReMarkable
 byzantine architecture - http://dbpedia.org/resource/Byzantine_architecture
-crusader - http://dbpedia.org/resource/Crusades
+crusaders - http://dbpedia.org/resource/Crusades
 osterley house - http://dbpedia.org/resource/Osterley_Park
 hounslow - http://dbpedia.org/resource/Hounslow
 osterley house - http://dbpedia.org/resource/Osterley_Park
@@ -1448,8 +1438,7 @@ osterley house - http://dbpedia.org/resource/Osterley_Park
 osterley park - http://dbpedia.org/resource/Osterley_Park
 mansion - http://dbpedia.org/resource/English_country_house
 rural - http://dbpedia.org/resource/Rural_district
-family - http://dbpedia.org/resource/Family
-country house - http://dbpedia.org/resource/English_country_house
+country houses - http://dbpedia.org/resource/English_country_house
 divinity school - http://dbpedia.org/resource/Seminary
 divinity school - http://dbpedia.org/resource/Seminary
 peel castle - http://dbpedia.org/resource/Peel_Castle
@@ -1459,20 +1448,19 @@ st - http://dbpedia.org/resource/SATB
 vikings - http://dbpedia.org/resource/Vikings
 magnus ii - http://dbpedia.org/resource/Magnus_Barefoot
 magnus barelegs - http://dbpedia.org/resource/Magnus_Barefoot
-wall tower - http://dbpedia.org/resource/Fortified_tower
 sandstone - http://dbpedia.org/resource/Sandstone
 vikings - http://dbpedia.org/resource/Vikings
 church - http://dbpedia.org/resource/Church_architecture
 cathedral church - http://dbpedia.org/resource/Cathedral
 sodor - http://dbpedia.org/resource/Sodor_(fictional_island)
-excavation - http://dbpedia.org/resource/Excavator
 graveyard - http://dbpedia.org/resource/Cemetery
 magnus bareleg - http://dbpedia.org/resource/Magnus_Barefoot
 fort - http://dbpedia.org/resource/Fortification
 pagan - http://dbpedia.org/resource/Paganism
+viking - http://dbpedia.org/resource/Vikings
 necklace - http://dbpedia.org/resource/Necklace
 cache - http://dbpedia.org/resource/Hoard
-silver coin - http://dbpedia.org/resource/Silver_coin
+silver - http://dbpedia.org/resource/Silversmith
 moddey dhoo - http://dbpedia.org/resource/Moddey_Dhoo
 dog - http://dbpedia.org/resource/Dog
 manx national heritage - http://dbpedia.org/resource/Manx_National_Heritage
@@ -1494,15 +1482,16 @@ arundel - http://dbpedia.org/resource/Arundel_Castle
 family - http://dbpedia.org/resource/Family
 queen isabella - http://dbpedia.org/resource/Isabella_of_France
 isabella - http://dbpedia.org/resource/Isabelline_(colour)
-castle building - http://dbpedia.org/resource/Castle_Building
+castle buildings - http://dbpedia.org/resource/Castle_Buildings
 edward iii - http://dbpedia.org/resource/Edward_III_of_England
-edward black - http://dbpedia.org/resource/Edward_Black_(producer)
+black prince - http://dbpedia.org/resource/Rohana_parisatis
 cornwall - http://dbpedia.org/resource/Cornwall
 howard family - http://dbpedia.org/resource/House_of_Howard
 english heritage - http://dbpedia.org/resource/English_Heritage
 tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 law - http://dbpedia.org/resource/English_law
 monument - http://dbpedia.org/resource/Funerary_art
+listed building - http://dbpedia.org/resource/Listed_building
 english heritage - http://dbpedia.org/resource/English_Heritage
 baron - http://dbpedia.org/resource/English_feudal_barony
 howard - http://dbpedia.org/resource/House_of_Howard
@@ -1513,7 +1502,7 @@ shropshire - http://dbpedia.org/resource/Shropshire
 stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
 fortified manor house - http://dbpedia.org/resource/Manor_house
 ludlow - http://dbpedia.org/resource/Ludlow
-lead wool - http://dbpedia.org/resource/Lead_wool
+wool - http://dbpedia.org/resource/Wool
 merchant - http://dbpedia.org/resource/Merchant
 english civil war - http://dbpedia.org/resource/English_Civil_War
 stokesay - http://dbpedia.org/resource/Stokesay
@@ -1522,7 +1511,7 @@ earl - http://dbpedia.org/resource/Earl
 craven - http://dbpedia.org/resource/Craven
 king charles - http://dbpedia.org/resource/Charles_I_of_England
 royalist - http://dbpedia.org/resource/Cavalier
-parliamentary - http://dbpedia.org/resource/Roundhead
+parliamentary forces - http://dbpedia.org/resource/Roundhead
 garrison - http://dbpedia.org/resource/Garrison
 parliament - http://dbpedia.org/resource/Parliament_of_England
 stokesay - http://dbpedia.org/resource/Stokesay
@@ -1530,7 +1519,7 @@ baldwyn - http://dbpedia.org/resource/Baldwyn_School_District
 family - http://dbpedia.org/resource/Family
 stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
 medieval - http://dbpedia.org/resource/Middle_Ages
-fortified manor house - http://dbpedia.org/resource/Manor_house
+manor - http://dbpedia.org/resource/Manor_house
 enclosure - http://dbpedia.org/resource/Enclosure
 timber - http://dbpedia.org/resource/Timber_framing
 plaster - http://dbpedia.org/resource/Stucco
@@ -1538,11 +1527,10 @@ gatehouse - http://dbpedia.org/resource/Gatehouse
 courtyard - http://dbpedia.org/resource/Courtyard
 stone hall - http://dbpedia.org/resource/Stone_Hall_(Ithaca,_New_York)
 solar block - http://dbpedia.org/resource/Solar_(room)
-stone tower - http://dbpedia.org/resource/Stone_Tower_(Ptolemy)
-beam - http://dbpedia.org/resource/Laser
+stone - http://dbpedia.org/resource/Stonemasonry
 ornament - http://dbpedia.org/resource/Decorative_arts
 gatehouse - http://dbpedia.org/resource/Gatehouse
-solar - http://dbpedia.org/resource/Solar_panel
+solar - http://dbpedia.org/resource/Sun
 military fortification - http://dbpedia.org/resource/Fortification
 echo - http://dbpedia.org/resource/Reverberation
 north wales - http://dbpedia.org/resource/Wales
@@ -1554,7 +1542,7 @@ shropshire - http://dbpedia.org/resource/Shropshire
 stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
 fortified manor house - http://dbpedia.org/resource/Manor_house
 ludlow - http://dbpedia.org/resource/Ludlow
-lead wool - http://dbpedia.org/resource/Lead_wool
+wool - http://dbpedia.org/resource/Wool
 merchant - http://dbpedia.org/resource/Merchant
 english civil war - http://dbpedia.org/resource/English_Civil_War
 stokesay - http://dbpedia.org/resource/Stokesay
@@ -1563,7 +1551,7 @@ earl - http://dbpedia.org/resource/Earl
 craven - http://dbpedia.org/resource/Craven
 king charles - http://dbpedia.org/resource/Charles_I_of_England
 royalist - http://dbpedia.org/resource/Cavalier
-parliamentary - http://dbpedia.org/resource/Roundhead
+parliamentary forces - http://dbpedia.org/resource/Roundhead
 garrison - http://dbpedia.org/resource/Garrison
 parliament - http://dbpedia.org/resource/Parliament_of_England
 stokesay - http://dbpedia.org/resource/Stokesay
@@ -1571,7 +1559,7 @@ baldwyn - http://dbpedia.org/resource/Baldwyn_School_District
 family - http://dbpedia.org/resource/Family
 stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
 medieval - http://dbpedia.org/resource/Middle_Ages
-fortified manor house - http://dbpedia.org/resource/Manor_house
+manor - http://dbpedia.org/resource/Manor_house
 enclosure - http://dbpedia.org/resource/Enclosure
 timber - http://dbpedia.org/resource/Timber_framing
 plaster - http://dbpedia.org/resource/Stucco
@@ -1579,11 +1567,10 @@ gatehouse - http://dbpedia.org/resource/Gatehouse
 courtyard - http://dbpedia.org/resource/Courtyard
 stone hall - http://dbpedia.org/resource/Stone_Hall_(Ithaca,_New_York)
 solar block - http://dbpedia.org/resource/Solar_(room)
-stone tower - http://dbpedia.org/resource/Stone_Tower_(Ptolemy)
-beam - http://dbpedia.org/resource/Laser
+stone - http://dbpedia.org/resource/Stonemasonry
 ornament - http://dbpedia.org/resource/Decorative_arts
 gatehouse - http://dbpedia.org/resource/Gatehouse
-solar - http://dbpedia.org/resource/Solar_panel
+solar - http://dbpedia.org/resource/Sun
 military fortification - http://dbpedia.org/resource/Fortification
 echo - http://dbpedia.org/resource/Reverberation
 north wales - http://dbpedia.org/resource/Wales
@@ -1599,7 +1586,7 @@ shropshire - http://dbpedia.org/resource/Shropshire
 stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
 fortified manor house - http://dbpedia.org/resource/Manor_house
 ludlow - http://dbpedia.org/resource/Ludlow
-lead wool - http://dbpedia.org/resource/Lead_wool
+wool - http://dbpedia.org/resource/Wool
 merchant - http://dbpedia.org/resource/Merchant
 english civil war - http://dbpedia.org/resource/English_Civil_War
 stokesay - http://dbpedia.org/resource/Stokesay
@@ -1608,7 +1595,7 @@ earl - http://dbpedia.org/resource/Earl
 craven - http://dbpedia.org/resource/Craven
 king charles - http://dbpedia.org/resource/Charles_I_of_England
 royalist - http://dbpedia.org/resource/Cavalier
-parliamentary - http://dbpedia.org/resource/Roundhead
+parliamentary forces - http://dbpedia.org/resource/Roundhead
 garrison - http://dbpedia.org/resource/Garrison
 parliament - http://dbpedia.org/resource/Parliament_of_England
 stokesay - http://dbpedia.org/resource/Stokesay
@@ -1616,7 +1603,7 @@ baldwyn - http://dbpedia.org/resource/Baldwyn_School_District
 family - http://dbpedia.org/resource/Family
 stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
 medieval - http://dbpedia.org/resource/Middle_Ages
-fortified manor house - http://dbpedia.org/resource/Manor_house
+manor - http://dbpedia.org/resource/Manor_house
 enclosure - http://dbpedia.org/resource/Enclosure
 timber - http://dbpedia.org/resource/Timber_framing
 plaster - http://dbpedia.org/resource/Stucco
@@ -1624,11 +1611,10 @@ gatehouse - http://dbpedia.org/resource/Gatehouse
 courtyard - http://dbpedia.org/resource/Courtyard
 stone hall - http://dbpedia.org/resource/Stone_Hall_(Ithaca,_New_York)
 solar block - http://dbpedia.org/resource/Solar_(room)
-stone tower - http://dbpedia.org/resource/Stone_Tower_(Ptolemy)
-beam - http://dbpedia.org/resource/Laser
+stone - http://dbpedia.org/resource/Stonemasonry
 ornament - http://dbpedia.org/resource/Decorative_arts
 gatehouse - http://dbpedia.org/resource/Gatehouse
-solar - http://dbpedia.org/resource/Solar_panel
+solar - http://dbpedia.org/resource/Sun
 military fortification - http://dbpedia.org/resource/Fortification
 echo - http://dbpedia.org/resource/Reverberation
 north wales - http://dbpedia.org/resource/Wales
@@ -1641,6 +1627,7 @@ stoneleigh - http://dbpedia.org/resource/Stoneleigh_Abbey
 warwickshire - http://dbpedia.org/resource/Warwickshire
 stoneleigh abbey - http://dbpedia.org/resource/Stoneleigh_Abbey
 country mansion - http://dbpedia.org/resource/English_country_house
+listed building - http://dbpedia.org/resource/Listed_building
 cistercians - http://dbpedia.org/resource/Cistercians
 gatehouse - http://dbpedia.org/resource/Gatehouse
 dissolution - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
@@ -1648,23 +1635,21 @@ monasteries - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
 sir thomas leigh - http://dbpedia.org/resource/Thomas_Leigh_(Lord_Mayor)
 lord mayor - http://dbpedia.org/resource/Lord_Mayor_of_London
 monastic - http://dbpedia.org/resource/Monastery
-wing - http://dbpedia.org/resource/Wing
 leigh family - http://dbpedia.org/resource/Baron_Leigh
 strawberry hill house - http://dbpedia.org/resource/Strawberry_Hill_House
 twickenham - http://dbpedia.org/resource/Twickenham
 strawberry hill house - http://dbpedia.org/resource/Strawberry_Hill_House
 twickenham - http://dbpedia.org/resource/Twickenham
 strawberry hill house - http://dbpedia.org/resource/Strawberry_Hill_House
-strawberry hill gothic - http://dbpedia.org/resource/Strawberry_Hill_House
+strawberry hill - http://dbpedia.org/resource/Strawberry_Hill_House
+gothic revival - http://dbpedia.org/resource/Gothic_Revival_architecture
 horace walpole - http://dbpedia.org/resource/Horace_Walpole
 strawberry hill gothic - http://dbpedia.org/resource/Strawberry_Hill_House
 century gothic - http://dbpedia.org/resource/Century_Gothic
 walpole - http://dbpedia.org/resource/Horace_Walpole
 gothic - http://dbpedia.org/resource/Gothic_architecture
-tower - http://dbpedia.org/resource/Keep
-battlement - http://dbpedia.org/resource/Battlement
+battlements - http://dbpedia.org/resource/Battlement
 antiquarian - http://dbpedia.org/resource/Antiquarian
-object - http://dbpedia.org/resource/Astronomical_object
 strawberry hill house - http://dbpedia.org/resource/Strawberry_Hill_House
 tamworth castle - http://dbpedia.org/resource/Tamworth_Castle
 tamworth - http://dbpedia.org/resource/Tamworth_F.C.
@@ -1678,6 +1663,7 @@ ethelfleda - http://dbpedia.org/resource/Æthelflæd
 queen - http://dbpedia.org/resource/Queen_consort
 burh - http://dbpedia.org/resource/Burh
 danes - http://dbpedia.org/resource/Vikings
+mercian kings - http://dbpedia.org/resource/Mercia
 normans - http://dbpedia.org/resource/Norman_conquest_of_England
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
@@ -1693,7 +1679,6 @@ norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
 tamworth - http://dbpedia.org/resource/Tamworth_F.C.
 robert despenser - http://dbpedia.org/resource/Robert_Despenser
 steward - http://dbpedia.org/resource/Butler
-die - http://dbpedia.org/resource/Death
 urse d'abetot - http://dbpedia.org/resource/Urse_d'Abetot
 marmion - http://dbpedia.org/resource/Baron_Marmion
 marmion family - http://dbpedia.org/resource/Baron_Marmion
@@ -1704,6 +1689,7 @@ marmion family - http://dbpedia.org/resource/Baron_Marmion
 hereditary - http://dbpedia.org/resource/Hereditary_peer
 normandy - http://dbpedia.org/resource/Normandy
 tamworth castle - http://dbpedia.org/resource/Tamworth_Castle
+listed building - http://dbpedia.org/resource/Listed_building
 tofte - http://dbpedia.org/resource/Tofte,_Norway
 manor - http://dbpedia.org/resource/Manor_house
 souldrop - http://dbpedia.org/resource/Souldrop
@@ -1723,7 +1709,8 @@ devon - http://dbpedia.org/resource/Devon
 totnes castle - http://dbpedia.org/resource/Totnes_Castle
 totnes - http://dbpedia.org/resource/Totnes
 devon - http://dbpedia.org/resource/Devon
-hill town - http://dbpedia.org/resource/Hill_town
+large hill - http://dbpedia.org/resource/Ski_jumping
+town - http://dbpedia.org/resource/Market_town
 river dart - http://dbpedia.org/resource/River_Dart
 stone - http://dbpedia.org/resource/Stonemasonry
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
@@ -1731,10 +1718,10 @@ totnes castle - http://dbpedia.org/resource/Totnes_Castle
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 ceramic - http://dbpedia.org/resource/Pottery
-poppy - http://dbpedia.org/resource/Poppy
+poppies - http://dbpedia.org/resource/Papaver_rhoeas
 tower - http://dbpedia.org/resource/Keep
 ceramic - http://dbpedia.org/resource/Pottery
-poppy - http://dbpedia.org/resource/Poppy
+poppies - http://dbpedia.org/resource/Papaver_rhoeas
 tower - http://dbpedia.org/resource/Keep
 tower - http://dbpedia.org/resource/Keep
 blood - http://dbpedia.org/resource/Blood
@@ -1745,7 +1732,7 @@ cummins - http://dbpedia.org/resource/Cummins
 stage designer - http://dbpedia.org/resource/Scenic_design
 tom piper - http://dbpedia.org/resource/Tom_Piper
 ceramic - http://dbpedia.org/resource/Pottery
-poppy - http://dbpedia.org/resource/Poppy
+poppies - http://dbpedia.org/resource/Papaver_rhoeas
 tower - http://dbpedia.org/resource/Keep
 moat - http://dbpedia.org/resource/Moat
 poppy - http://dbpedia.org/resource/Poppy
@@ -1762,25 +1749,24 @@ tower - http://dbpedia.org/resource/Keep
 river thames - http://dbpedia.org/resource/River_Thames
 central london - http://dbpedia.org/resource/London
 eastern edge - http://dbpedia.org/resource/Eastern_Edge
-mile city - http://dbpedia.org/resource/Mile_City
-london tower - http://dbpedia.org/resource/Tower_of_London
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+tower hill - http://dbpedia.org/resource/Tower_Hill
 norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
 prison - http://dbpedia.org/resource/Prison
 ranulf flambard - http://dbpedia.org/resource/Ranulf_Flambard
-kray twin - http://dbpedia.org/resource/Kray_twins
+kray twins - http://dbpedia.org/resource/Kray_twins
 tower - http://dbpedia.org/resource/Keep
 concentric - http://dbpedia.org/resource/Concentric_castle
-ring - http://dbpedia.org/resource/Ring_of_bells
-defensive wall - http://dbpedia.org/resource/Defensive_wall
+rings - http://dbpedia.org/resource/Sonic_the_Hedgehog
+defensive walls - http://dbpedia.org/resource/Defensive_wall
 moat - http://dbpedia.org/resource/Moat
-richard lionheart - http://dbpedia.org/resource/Richard_I_of_England
+lionheart - http://dbpedia.org/resource/Chris_Jericho
 henry iii - http://dbpedia.org/resource/Henry_III_of_England
 tower - http://dbpedia.org/resource/Keep
 english history - http://dbpedia.org/resource/History_of_England
-time control - http://dbpedia.org/resource/Time_control
 tower - http://dbpedia.org/resource/Keep
 royal mint - http://dbpedia.org/resource/Royal_Mint
-public record office - http://dbpedia.org/resource/Public_Record_Office
+public records - http://dbpedia.org/resource/Public_records
 crown jewels - http://dbpedia.org/resource/Crown_Jewels_of_the_United_Kingdom
 charity - http://dbpedia.org/resource/Alms
 historic royal palaces - http://dbpedia.org/resource/Historic_Royal_Palaces
@@ -1794,7 +1780,6 @@ cornwall - http://dbpedia.org/resource/Cornwall
 trerice - http://dbpedia.org/resource/Trerice
 elizabethan - http://dbpedia.org/resource/Tudor_architecture
 manor house - http://dbpedia.org/resource/Manor_house
-east face - http://dbpedia.org/resource/East_Face_(Mount_Whitney)
 west range - http://dbpedia.org/resource/The_Range
 tower house - http://dbpedia.org/resource/Tower_house
 west block - http://dbpedia.org/resource/West_Block
@@ -1823,6 +1808,7 @@ coast - http://dbpedia.org/resource/Coast
 prince henry - http://dbpedia.org/resource/Henry_VIII_of_England
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 king henry ii - http://dbpedia.org/resource/Henry_II_of_England
+counties - http://dbpedia.org/resource/County
 warkworth castle - http://dbpedia.org/resource/Warkworth_Castle
 warkworth - http://dbpedia.org/resource/Warkworth_Castle
 northumberland - http://dbpedia.org/resource/Northumberland
@@ -1838,6 +1824,7 @@ coast - http://dbpedia.org/resource/Coast
 prince henry - http://dbpedia.org/resource/Henry_VIII_of_England
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 king henry ii - http://dbpedia.org/resource/Henry_II_of_England
+counties - http://dbpedia.org/resource/County
 walmer castle - http://dbpedia.org/resource/Walmer_Castle
 walmer - http://dbpedia.org/resource/Walmer
 kent - http://dbpedia.org/resource/Kent
@@ -1848,17 +1835,14 @@ walmer castle - http://dbpedia.org/resource/Walmer_Castle
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 artillery - http://dbpedia.org/resource/Royal_Artillery
 fortress - http://dbpedia.org/resource/Castle
-invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+invasion - http://dbpedia.org/resource/Invasion
 catholic - http://dbpedia.org/resource/Catholic_Church
 chain - http://dbpedia.org/resource/Chain
-coastal defence - http://dbpedia.org/resource/Coastal_artillery
 coast - http://dbpedia.org/resource/Coast
-device fort - http://dbpedia.org/resource/Device_Forts
+device forts - http://dbpedia.org/resource/Device_Forts
 henrician castles - http://dbpedia.org/resource/Device_Forts
-fort - http://dbpedia.org/resource/Fortification
 anchorage - http://dbpedia.org/resource/Anchorite
 goodwin sands - http://dbpedia.org/resource/Goodwin_Sands
-fort - http://dbpedia.org/resource/Fortification
 sandown - http://dbpedia.org/resource/Sandown
 english heritage - http://dbpedia.org/resource/English_Heritage
 warkworth castle - http://dbpedia.org/resource/Warkworth_Castle
@@ -1876,6 +1860,7 @@ coast - http://dbpedia.org/resource/Coast
 prince henry - http://dbpedia.org/resource/Henry_VIII_of_England
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 king henry ii - http://dbpedia.org/resource/Henry_II_of_England
+counties - http://dbpedia.org/resource/County
 angel - http://dbpedia.org/resource/Angel
 westminster hall - http://dbpedia.org/resource/Palace_of_Westminster
 angel - http://dbpedia.org/resource/Angel
@@ -1889,12 +1874,10 @@ timber roof truss - http://dbpedia.org/resource/Timber_roof_truss
 english gothic architecture - http://dbpedia.org/resource/English_Gothic_architecture
 endeavour - http://dbpedia.org/resource/HMS_Endeavour
 medieval - http://dbpedia.org/resource/Middle_Ages
-hammerbeam roof - http://dbpedia.org/resource/Hammerbeam_roof
-timber frame - http://dbpedia.org/resource/Timber_framing
-beam - http://dbpedia.org/resource/Laser
+hammerbeam - http://dbpedia.org/resource/Hammerbeam_roof
+timber framed - http://dbpedia.org/resource/Timber_framing
 tie beam - http://dbpedia.org/resource/Joist
-beam - http://dbpedia.org/resource/Laser
-hammer beam - http://dbpedia.org/resource/Hammerbeam_roof
+hammer beams - http://dbpedia.org/resource/Hammerbeam_roof
 truss - http://dbpedia.org/resource/Truss
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 windsor - http://dbpedia.org/resource/Windsor_Castle
@@ -1904,24 +1887,22 @@ windsor - http://dbpedia.org/resource/Windsor_Castle
 berkshire - http://dbpedia.org/resource/Berkshire
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 british royal family - http://dbpedia.org/resource/British_royal_family
-architecture - http://dbpedia.org/resource/Architecture
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
 norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
 henry - http://dbpedia.org/resource/Henry_(unit)
-monarch - http://dbpedia.org/resource/Monarch
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 river thames - http://dbpedia.org/resource/River_Thames
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+wards - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
 mound - http://dbpedia.org/resource/Tumulus
 stone - http://dbpedia.org/resource/Stonemasonry
-fortification - http://dbpedia.org/resource/Castle
 siege - http://dbpedia.org/resource/Siege
 henry iii - http://dbpedia.org/resource/Henry_III_of_England
 edward iii - http://dbpedia.org/resource/Edward_III_of_England
 core design - http://dbpedia.org/resource/Core_Design
-tudor period - http://dbpedia.org/resource/Tudor_period
+tudor period - http://dbpedia.org/resource/Tudor_architecture
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 royal court - http://dbpedia.org/resource/Royal_court
@@ -1935,37 +1916,34 @@ windsor - http://dbpedia.org/resource/Windsor_Castle
 berkshire - http://dbpedia.org/resource/Berkshire
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 british royal family - http://dbpedia.org/resource/British_royal_family
-architecture - http://dbpedia.org/resource/Architecture
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
 norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
 henry - http://dbpedia.org/resource/Henry_(unit)
-monarch - http://dbpedia.org/resource/Monarch
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 river thames - http://dbpedia.org/resource/River_Thames
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+wards - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
 mound - http://dbpedia.org/resource/Tumulus
 stone - http://dbpedia.org/resource/Stonemasonry
-fortification - http://dbpedia.org/resource/Castle
 siege - http://dbpedia.org/resource/Siege
 henry iii - http://dbpedia.org/resource/Henry_III_of_England
 edward iii - http://dbpedia.org/resource/Edward_III_of_England
 core design - http://dbpedia.org/resource/Core_Design
-tudor period - http://dbpedia.org/resource/Tudor_period
+tudor period - http://dbpedia.org/resource/Tudor_architecture
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 royal court - http://dbpedia.org/resource/Royal_court
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 english civil war - http://dbpedia.org/resource/English_Civil_War
-parliamentary - http://dbpedia.org/resource/Roundhead
+parliamentary forces - http://dbpedia.org/resource/Roundhead
 prison - http://dbpedia.org/resource/Prison
 charles - http://dbpedia.org/resource/Charles_I_of_England
 charles ii - http://dbpedia.org/resource/Charles_II_of_England
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 architect - http://dbpedia.org/resource/Gothic_Revival_architecture
 baroque - http://dbpedia.org/resource/Baroque_architecture
-admire - http://dbpedia.org/resource/Admire,_Kansas
 neglect - http://dbpedia.org/resource/Urban_decay
 george iii - http://dbpedia.org/resource/George_III_of_the_United_Kingdom
 george iv - http://dbpedia.org/resource/George_IV_of_the_United_Kingdom
@@ -1984,24 +1962,22 @@ windsor - http://dbpedia.org/resource/Windsor_Castle
 berkshire - http://dbpedia.org/resource/Berkshire
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 british royal family - http://dbpedia.org/resource/British_royal_family
-architecture - http://dbpedia.org/resource/Architecture
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
 norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
 henry - http://dbpedia.org/resource/Henry_(unit)
-monarch - http://dbpedia.org/resource/Monarch
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 river thames - http://dbpedia.org/resource/River_Thames
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+wards - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
 mound - http://dbpedia.org/resource/Tumulus
 stone - http://dbpedia.org/resource/Stonemasonry
-fortification - http://dbpedia.org/resource/Castle
 siege - http://dbpedia.org/resource/Siege
 henry iii - http://dbpedia.org/resource/Henry_III_of_England
 edward iii - http://dbpedia.org/resource/Edward_III_of_England
 core design - http://dbpedia.org/resource/Core_Design
-tudor period - http://dbpedia.org/resource/Tudor_period
+tudor period - http://dbpedia.org/resource/Tudor_architecture
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 royal court - http://dbpedia.org/resource/Royal_court
@@ -2016,24 +1992,22 @@ windsor - http://dbpedia.org/resource/Windsor_Castle
 berkshire - http://dbpedia.org/resource/Berkshire
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 british royal family - http://dbpedia.org/resource/British_royal_family
-architecture - http://dbpedia.org/resource/Architecture
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
 norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
 henry - http://dbpedia.org/resource/Henry_(unit)
-monarch - http://dbpedia.org/resource/Monarch
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 river thames - http://dbpedia.org/resource/River_Thames
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+wards - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
 mound - http://dbpedia.org/resource/Tumulus
 stone - http://dbpedia.org/resource/Stonemasonry
-fortification - http://dbpedia.org/resource/Castle
 siege - http://dbpedia.org/resource/Siege
 henry iii - http://dbpedia.org/resource/Henry_III_of_England
 edward iii - http://dbpedia.org/resource/Edward_III_of_England
 core design - http://dbpedia.org/resource/Core_Design
-tudor period - http://dbpedia.org/resource/Tudor_period
+tudor period - http://dbpedia.org/resource/Tudor_architecture
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 royal court - http://dbpedia.org/resource/Royal_court

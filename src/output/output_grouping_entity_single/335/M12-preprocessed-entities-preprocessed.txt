@@ -1,188 +1,177 @@
-hand sign - http://dbpedia.org/resource/Gang_signal
-suicide - http://dbpedia.org/resource/Suicide
-agnes - http://dbpedia.org/resource/Agnes_of_Rome
-smithfield - http://dbpedia.org/resource/Electoral_district_of_Smithfield
-witchcraft accusation - http://dbpedia.org/resource/Witchcraft_accusations_against_children_in_Africa
-article - http://dbpedia.org/resource/Historicity_of_Jesus
-north berwick - http://dbpedia.org/resource/North_Berwick
-high place - http://dbpedia.org/resource/High_place
-invisible - http://dbpedia.org/resource/Invisibility
-tragedy - http://dbpedia.org/resource/Macbeth
-heresy - http://dbpedia.org/resource/Heresy
-die - http://dbpedia.org/resource/Death
-ellis - http://dbpedia.org/resource/Havelock_Ellis
-convict - http://dbpedia.org/resource/Conviction
-cobham - http://dbpedia.org/resource/Cobham_plc
-confession - http://dbpedia.org/resource/Sacrament_of_Penance
-mute - http://dbpedia.org/resource/Muteness
-demonic possession - http://dbpedia.org/resource/Demonic_possession
-object - http://dbpedia.org/resource/Non-physical_entity
-maid - http://dbpedia.org/resource/Virginity
-bbc history magazine - http://dbpedia.org/resource/BBC_History
-fear - http://dbpedia.org/resource/Fear
-trigger - http://dbpedia.org/resource/Hypnosis
-eleanor cobham - http://dbpedia.org/resource/Eleanor,_Duchess_of_Gloucester
-vomit - http://dbpedia.org/resource/Vomiting
-sabbat - http://dbpedia.org/resource/Witches'_Sabbath
-harbour - http://dbpedia.org/resource/Harbor
+chelmsford - http://dbpedia.org/resource/Chelmsford
+copper - http://dbpedia.org/resource/Police_officer
+sceptre - http://dbpedia.org/resource/Sceptre
+roger bolingbroke - http://dbpedia.org/resource/Roger_Bolingbroke
 diabolic - http://dbpedia.org/resource/Diabolic
-guilt - http://dbpedia.org/resource/Culpability
-law - http://dbpedia.org/resource/English_law
+john law - http://dbpedia.org/resource/John_Law_(economist)
+hair - http://dbpedia.org/resource/Hairstyle
 inverse - http://dbpedia.org/resource/Grammatical_number
 puritan - http://dbpedia.org/resource/Puritans
-francis stuart - http://dbpedia.org/resource/Francis_Stuart
-earl - http://dbpedia.org/resource/Earl
-chelmsford - http://dbpedia.org/resource/Chelmsford
-caernarvonshire - http://dbpedia.org/resource/Caernarfonshire
-matthew hopkins - http://dbpedia.org/resource/Matthew_Hopkins
-jourdemayne - http://dbpedia.org/resource/Margery_Jourdemayne
-magician - http://dbpedia.org/resource/Magic_in_fiction
-peddler - http://dbpedia.org/resource/Peddler
-spirit - http://dbpedia.org/resource/Ghost
-bothwell - http://dbpedia.org/resource/Bothwell_Castle
-herbal medicine - http://dbpedia.org/resource/Herbal_medicine
-waterhouse - http://dbpedia.org/resource/John_William_Waterhouse
-sex - http://dbpedia.org/resource/Sexual_intercourse
-heretic - http://dbpedia.org/resource/Heresy
-witchcraft - http://dbpedia.org/resource/Witchcraft
-commoner - http://dbpedia.org/resource/Commoner
-duke - http://dbpedia.org/resource/Duke
-hair - http://dbpedia.org/resource/Hair
-outlaw - http://dbpedia.org/resource/Outlaw
-torture - http://dbpedia.org/resource/Torture
-court - http://dbpedia.org/resource/Royal_court
-st - http://dbpedia.org/resource/SATB
-intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
-princess anne - http://dbpedia.org/resource/Anne_of_Denmark
-summer assize - http://dbpedia.org/resource/Assizes
-enchantments - http://dbpedia.org/resource/Incantation
-hatfield peverel - http://dbpedia.org/resource/Hatfield_Peverel
-remarkable - http://dbpedia.org/resource/ReMarkable
-murder - http://dbpedia.org/resource/Murder
-eye - http://dbpedia.org/resource/Eye
-high treason - http://dbpedia.org/resource/Treason
-assize - http://dbpedia.org/resource/Assizes
-wynchester - http://dbpedia.org/resource/Wynchester
-moor - http://dbpedia.org/resource/Moors
-lift - http://dbpedia.org/resource/Elevator
-parliamentary - http://dbpedia.org/resource/Roundhead
-gloucester - http://dbpedia.org/resource/Gloucester
-magistrate - http://dbpedia.org/resource/Justice_of_the_peace
-alison - http://dbpedia.org/resource/Alison_DiLaurentis
-necromancy - http://dbpedia.org/resource/Necromancy
-henry vi - http://dbpedia.org/resource/Henry_VI_of_England
-sword - http://dbpedia.org/resource/Sword
-oath - http://dbpedia.org/resource/Oath
-great yarmouth - http://dbpedia.org/resource/Great_Yarmouth
-laird - http://dbpedia.org/resource/Laird
-circle - http://dbpedia.org/resource/Stone_circle
-annal - http://dbpedia.org/resource/Annals
-james vi - http://dbpedia.org/resource/James_VI_and_I
-britain - http://dbpedia.org/resource/Great_Britain
-tongue - http://dbpedia.org/resource/Language
-hanging - http://dbpedia.org/resource/Hanging
-civil war - http://dbpedia.org/resource/English_Civil_War
-mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
-blood flow - http://dbpedia.org/resource/Circulatory_system
-katherine - http://dbpedia.org/resource/The_Taming_of_the_Shrew
-discourse - http://dbpedia.org/resource/Sermon
-witch trial - http://dbpedia.org/resource/Witch-hunt
-denmark - http://dbpedia.org/resource/Denmark
-magic - http://dbpedia.org/resource/Witchcraft
-public penance - http://dbpedia.org/resource/Penance
-puppet - http://dbpedia.org/resource/Puppet
-roger bolingbroke - http://dbpedia.org/resource/Roger_Bolingbroke
-auld kirk - http://dbpedia.org/resource/Kilbirnie_Auld_Kirk
-lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
-aristocratic - http://dbpedia.org/resource/Nobility
-henry - http://dbpedia.org/resource/Henry_(unit)
-john law - http://dbpedia.org/resource/John_Law_(economist)
-duchess - http://dbpedia.org/resource/Duke
-common misconception - http://dbpedia.org/resource/Common_English_usage_misconceptions
-pin - http://dbpedia.org/resource/Brooch
-paraphernalia - http://dbpedia.org/resource/Paraphernalia
-summer - http://dbpedia.org/resource/Midsummer
-berwick - http://dbpedia.org/resource/Berwick-upon-Tweed
-firth - http://dbpedia.org/resource/Firth
-bride - http://dbpedia.org/resource/Bride
-margery - http://dbpedia.org/resource/Margery_Corbett_Ashby
-evil spirit - http://dbpedia.org/resource/Demon
-lancashire - http://dbpedia.org/resource/Lancashire
-christian shaw - http://dbpedia.org/resource/Christian_Shaw
-dock - http://dbpedia.org/resource/Taskbar
-lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
-north sea - http://dbpedia.org/resource/North_Sea
-echo - http://dbpedia.org/resource/Glossary_of_music_terminology
-john shaw - http://dbpedia.org/resource/John_Shaw_Sr.
-agnes sampson - http://dbpedia.org/resource/Agnes_Sampson
-flint - http://dbpedia.org/resource/Flint
-gwen - http://dbpedia.org/resource/Gwen_Cooper
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-sceptre - http://dbpedia.org/resource/Sceptre
-tall black - http://dbpedia.org/resource/New_Zealand_men's_national_basketball_team
-copper - http://dbpedia.org/resource/Police_officer
-essex - http://dbpedia.org/resource/Essex
-charity - http://dbpedia.org/resource/Alms
-king james vi - http://dbpedia.org/resource/James_VI_and_I
-pamphlet - http://dbpedia.org/resource/Pamphlet
-drape - http://dbpedia.org/resource/Curtain
-bewitch - http://dbpedia.org/resource/Bewitch
-traitor - http://dbpedia.org/resource/Treason
-blood - http://dbpedia.org/resource/Blood
-sidekick - http://dbpedia.org/resource/Sidekick
-margery jourdemayne - http://dbpedia.org/resource/Margery_Jourdemayne
-lora - http://dbpedia.org/resource/Piquette
-maleficium - http://dbpedia.org/resource/Maleficium_(sorcery)
+harbour - http://dbpedia.org/resource/Harbor
 gaol - http://dbpedia.org/resource/Prison
-fashion - http://dbpedia.org/resource/Fashion
-daemonologie - http://dbpedia.org/resource/Daemonologie
-scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-agnes waterhouse - http://dbpedia.org/resource/Agnes_Waterhouse
-decree - http://dbpedia.org/resource/Papal_bull
-heritage tourism - http://dbpedia.org/resource/Heritage_tourism
-talisman - http://dbpedia.org/resource/Amulet
-family - http://dbpedia.org/resource/Family
-malkin tower - http://dbpedia.org/resource/Malkin_Tower
-chicken - http://dbpedia.org/resource/Cowardice
-thomas - http://dbpedia.org/resource/THOMAS
-slander - http://dbpedia.org/resource/Defamation
-trail - http://dbpedia.org/resource/Trail
-coven - http://dbpedia.org/resource/Coven
-garrotte - http://dbpedia.org/resource/Garrote
-judiciary - http://dbpedia.org/resource/Judiciary
-paisley - http://dbpedia.org/resource/Paisley_Underground
-incarceration - http://dbpedia.org/resource/Imprisonment
-renfrewshire - http://dbpedia.org/resource/Renfrewshire
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
 insanity - http://dbpedia.org/resource/Insanity
-death penalty - http://dbpedia.org/resource/Capital_punishment
-hertfordshire - http://dbpedia.org/resource/Hertfordshire
-samlesbury - http://dbpedia.org/resource/Samlesbury
+wynchester - http://dbpedia.org/resource/Wynchester
+hanging - http://dbpedia.org/resource/Hanging
+berwick - http://dbpedia.org/resource/Berwick-upon-Tweed
+outlaw - http://dbpedia.org/resource/Outlaw
+caernarvonshire - http://dbpedia.org/resource/Caernarfonshire
+talismans - http://dbpedia.org/resource/Amulet
+finger - http://dbpedia.org/resource/The_finger
 persecution - http://dbpedia.org/resource/Persecution
-cat call - http://dbpedia.org/resource/Street_harassment
-pendle hill - http://dbpedia.org/resource/Pendle_Hill
-blind - http://dbpedia.org/resource/Visual_impairment
-owen davies - http://dbpedia.org/resource/Owen_Davies_(historian)
-medieval era - http://dbpedia.org/resource/Middle_Ages
-penknife - http://dbpedia.org/resource/Penknife
 parlour - http://dbpedia.org/resource/Parlour_game
-sow - http://dbpedia.org/resource/Pig
-satan - http://dbpedia.org/resource/Satan
-sorcery - http://dbpedia.org/resource/Witchcraft
+eleanor cobham - http://dbpedia.org/resource/Eleanor,_Duchess_of_Gloucester
+guilt - http://dbpedia.org/resource/Culpability
+devil - http://dbpedia.org/resource/Devil
+witchcraft - http://dbpedia.org/resource/Witchcraft
+pendle - http://dbpedia.org/resource/Pendle_witches
+gloucester - http://dbpedia.org/resource/Gloucester
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+straw - http://dbpedia.org/resource/Straw
+christian shaw - http://dbpedia.org/resource/Christian_Shaw
+waterhouse - http://dbpedia.org/resource/John_William_Waterhouse
+flint - http://dbpedia.org/resource/Flint
+evil - http://dbpedia.org/resource/Evil
+jourdemayne - http://dbpedia.org/resource/Margery_Jourdemayne
+lora - http://dbpedia.org/resource/Piquette
+assizes - http://dbpedia.org/resource/Assizes
+public penance - http://dbpedia.org/resource/Penance
+pamphlet - http://dbpedia.org/resource/Pamphlet
+auld kirk - http://dbpedia.org/resource/Kilbirnie_Auld_Kirk
+eye - http://dbpedia.org/resource/Eye
+samlesbury - http://dbpedia.org/resource/Samlesbury
+moors - http://dbpedia.org/resource/Moors
+murder - http://dbpedia.org/resource/Murder
+north sea - http://dbpedia.org/resource/North_Sea
+north berwick - http://dbpedia.org/resource/North_Berwick
+high treason - http://dbpedia.org/resource/Treason
+scottish throne - http://dbpedia.org/resource/Kingdom_of_Scotland
+wax - http://dbpedia.org/resource/Wax
+earl - http://dbpedia.org/resource/Earl
+herbal medicines - http://dbpedia.org/resource/Herbal_medicine
+bothwell - http://dbpedia.org/resource/Bothwell_Castle
+duchess - http://dbpedia.org/resource/Duke
+puppet - http://dbpedia.org/resource/Puppet
+agnes waterhouse - http://dbpedia.org/resource/Agnes_Waterhouse
+james vi - http://dbpedia.org/resource/James_VI_and_I
+summer - http://dbpedia.org/resource/Midsummer
+smithfield - http://dbpedia.org/resource/Electoral_district_of_Smithfield
+st - http://dbpedia.org/resource/SATB
+owen davies - http://dbpedia.org/resource/Owen_Davies_(historian)
+lancashire - http://dbpedia.org/resource/Lancashire
+fear - http://dbpedia.org/resource/Fear
+sabbat - http://dbpedia.org/resource/Witches'_Sabbath
+heretic - http://dbpedia.org/resource/Heresy
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+agnes - http://dbpedia.org/resource/Agnes_of_Rome
+common misconception - http://dbpedia.org/resource/Common_English_usage_misconceptions
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 perfect sense - http://dbpedia.org/resource/Perfect_Sense
 treason - http://dbpedia.org/resource/Treason
-wax - http://dbpedia.org/resource/Wax
-conjuration - http://dbpedia.org/resource/Evocation
-devil - http://dbpedia.org/resource/Devil
-pendle - http://dbpedia.org/resource/Pendle_witches
-straw - http://dbpedia.org/resource/Straw
-sermon - http://dbpedia.org/resource/Sermon
-saga - http://dbpedia.org/resource/Saga
-good friday - http://dbpedia.org/resource/Good_Friday
-quiz - http://dbpedia.org/resource/Game_show
+satan - http://dbpedia.org/resource/Satan
+witches - http://dbpedia.org/resource/Witchcraft
+maleficium - http://dbpedia.org/resource/Maleficium_(sorcery)
+charity - http://dbpedia.org/resource/Alms
+tragedy - http://dbpedia.org/resource/Macbeth
+laird - http://dbpedia.org/resource/Laird
+paraphernalia - http://dbpedia.org/resource/Paraphernalia
+necromancy - http://dbpedia.org/resource/Necromancy
+slander - http://dbpedia.org/resource/Defamation
+torture - http://dbpedia.org/resource/Torture
+annals - http://dbpedia.org/resource/Annals
+penknife - http://dbpedia.org/resource/Penknife
+firth - http://dbpedia.org/resource/Firth
+britain - http://dbpedia.org/resource/Great_Britain
+cobham - http://dbpedia.org/resource/Cobham_plc
+hertfordshire - http://dbpedia.org/resource/Hertfordshire
+incarceration - http://dbpedia.org/resource/Imprisonment
+traitor - http://dbpedia.org/resource/Treason
+peddler - http://dbpedia.org/resource/Peddler
+essex - http://dbpedia.org/resource/Essex
+decree - http://dbpedia.org/resource/Papal_bull
+suicide - http://dbpedia.org/resource/Suicide
+john shaw - http://dbpedia.org/resource/John_Shaw_Sr.
+princess anne - http://dbpedia.org/resource/Anne_of_Denmark
+magician - http://dbpedia.org/resource/Magic_in_fiction
+confession - http://dbpedia.org/resource/Sacrament_of_Penance
+dock - http://dbpedia.org/resource/Taskbar
+article - http://dbpedia.org/resource/Falklands_War
+bewitch - http://dbpedia.org/resource/Bewitch
+tongue - http://dbpedia.org/resource/Language
 john stearne - http://dbpedia.org/resource/John_Stearne_(witch-hunter)
-bone - http://dbpedia.org/resource/Bone
-finger - http://dbpedia.org/resource/The_finger
-scottish throne - http://dbpedia.org/resource/Kingdom_of_Scotland
-flood - http://dbpedia.org/resource/Flood_myth
-pen - http://dbpedia.org/resource/Quill
-henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+high places - http://dbpedia.org/resource/High_Places
+malkin tower - http://dbpedia.org/resource/Malkin_Tower
+sowing - http://dbpedia.org/resource/Sowing
+christian healing - http://dbpedia.org/resource/Faith_healing
+garrotted - http://dbpedia.org/resource/Garrote
+daemonologie - http://dbpedia.org/resource/Daemonologie
+quartered - http://dbpedia.org/resource/Dismemberment
+magic - http://dbpedia.org/resource/Witchcraft
+invisible - http://dbpedia.org/resource/Invisibility
+echo - http://dbpedia.org/resource/Glossary_of_music_terminology
+witch trials - http://dbpedia.org/resource/Witch-hunt
+parliamentary - http://dbpedia.org/resource/Roundhead
+remarkable - http://dbpedia.org/resource/ReMarkable
+discourse - http://dbpedia.org/resource/Sermon
+civil war - http://dbpedia.org/resource/English_Civil_War
+covenants - http://dbpedia.org/resource/Covenant_theology
+coven - http://dbpedia.org/resource/Coven
+katherine - http://dbpedia.org/resource/The_Taming_of_the_Shrew
+margery jourdemayne - http://dbpedia.org/resource/Margery_Jourdemayne
+francis stuart - http://dbpedia.org/resource/Francis_Stuart
+sermon - http://dbpedia.org/resource/Sermon
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+agnes sampson - http://dbpedia.org/resource/Agnes_Sampson
+chickens - http://dbpedia.org/resource/Chicken
+witch trial - http://dbpedia.org/resource/Witch-hunt
+magistrate - http://dbpedia.org/resource/Justice_of_the_peace
+death penalty - http://dbpedia.org/resource/Capital_punishment
+counties - http://dbpedia.org/resource/County
+law - http://dbpedia.org/resource/English_law
+family - http://dbpedia.org/resource/Family
+bride - http://dbpedia.org/resource/False_hero
+duke - http://dbpedia.org/resource/Duke
+medieval era - http://dbpedia.org/resource/Middle_Ages
+magicians - http://dbpedia.org/resource/The_Walt_Disney_Company
+pin - http://dbpedia.org/resource/Brooch
+trail - http://dbpedia.org/resource/Trail
+gwen - http://dbpedia.org/resource/Gwen_Cooper
+enchantments - http://dbpedia.org/resource/Incantation
+blood - http://dbpedia.org/resource/Blood
+great yarmouth - http://dbpedia.org/resource/Great_Yarmouth
+sorcery - http://dbpedia.org/resource/Witchcraft
+good friday - http://dbpedia.org/resource/Good_Friday
+alison - http://dbpedia.org/resource/Alison_DiLaurentis
+thomas - http://dbpedia.org/resource/THOMAS
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+gallows - http://dbpedia.org/resource/Gallows
+sidekick - http://dbpedia.org/resource/Sidekick
+fashion - http://dbpedia.org/resource/Fashion
+quiz - http://dbpedia.org/resource/Game_show
+denmark - http://dbpedia.org/resource/Denmark
+aristocratic - http://dbpedia.org/resource/Nobility
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+renfrewshire - http://dbpedia.org/resource/Renfrewshire
+hanged - http://dbpedia.org/resource/Hanging
+paralysed - http://dbpedia.org/resource/Paralysis
+henry vi - http://dbpedia.org/resource/Henry_VI_of_England
+blind - http://dbpedia.org/resource/Visual_impairment
+hatfield peverel - http://dbpedia.org/resource/Hatfield_Peverel
+spirit - http://dbpedia.org/resource/Ghost
+mute - http://dbpedia.org/resource/Muteness
+saga - http://dbpedia.org/resource/Saga
+tall black - http://dbpedia.org/resource/New_Zealand_men's_national_basketball_team
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+paisley - http://dbpedia.org/resource/Paisley_Underground
+margery - http://dbpedia.org/resource/Margery_Corbett_Ashby
+bbc history magazine - http://dbpedia.org/resource/BBC_History
+matthew hopkins - http://dbpedia.org/resource/Matthew_Hopkins
+henry - http://dbpedia.org/resource/Henry_(unit)
+king james vi - http://dbpedia.org/resource/James_VI_and_I
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+heresy - http://dbpedia.org/resource/Heresy
+ellis - http://dbpedia.org/resource/Havelock_Ellis
+demonic possession - http://dbpedia.org/resource/Demonic_possession
+conjuration - http://dbpedia.org/resource/Evocation
+judiciary - http://dbpedia.org/resource/Judiciary
+sex - http://dbpedia.org/resource/Sexual_intercourse

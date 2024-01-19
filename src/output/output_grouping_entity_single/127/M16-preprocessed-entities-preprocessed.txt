@@ -1,38 +1,37 @@
-middle ages - http://dbpedia.org/resource/Middle_Ages
-european history - http://dbpedia.org/resource/History_of_Europe
-8mr - http://dbpedia.org/resource/8_Metre_(keelboat)
-pennsylvania - http://dbpedia.org/resource/Pennsylvania
-daub - http://dbpedia.org/resource/Wattle_and_daub
-timber frame - http://dbpedia.org/resource/Timber_framing
-artillery - http://dbpedia.org/resource/Artillery
-pontefract castle - http://dbpedia.org/resource/Pontefract_Castle
-medieval - http://dbpedia.org/resource/Middle_Ages
-rothenburg - http://dbpedia.org/resource/Rothenburg_ob_der_Tauber
-rhombus - http://dbpedia.org/resource/Rhombus
-delaware - http://dbpedia.org/resource/Delaware
-town - http://dbpedia.org/resource/Market_town
-germany - http://dbpedia.org/resource/Germany
-medieval period - http://dbpedia.org/resource/Middle_Ages
-wattle - http://dbpedia.org/resource/Wattle_and_daub
-big city - http://dbpedia.org/resource/Lenny_White
-oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+timber - http://dbpedia.org/resource/Timber_framing
 murder - http://dbpedia.org/resource/Murder
-apr - http://dbpedia.org/resource/Annual_percentage_rate
-welsh castle - http://dbpedia.org/resource/Castle
-neuschwanstein - http://dbpedia.org/resource/Neuschwanstein_Castle
+european history - http://dbpedia.org/resource/History_of_Europe
+kinda - http://dbpedia.org/resource/Kindah
 sand castle - http://dbpedia.org/resource/Sand_art_and_play
+obsolescence - http://dbpedia.org/resource/Obsolescence
+medieval - http://dbpedia.org/resource/Middle_Ages
+jan - http://dbpedia.org/resource/Joint_Electronics_Type_Designation_System
+8mr - http://dbpedia.org/resource/8_Metre_(keelboat)
+wattle - http://dbpedia.org/resource/Wattle_and_daub
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+castle building - http://dbpedia.org/resource/Castle_Building
+big city - http://dbpedia.org/resource/Lenny_White
+bornholm - http://dbpedia.org/resource/Bornholm
+rothenburg - http://dbpedia.org/resource/Rothenburg_ob_der_Tauber
+oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+pennsylvania - http://dbpedia.org/resource/Pennsylvania
+military installation - http://dbpedia.org/resource/Military_base
+germany - http://dbpedia.org/resource/Germany
+denmark - http://dbpedia.org/resource/Denmark
+european castles - http://dbpedia.org/resource/Castle
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+middle ages - http://dbpedia.org/resource/Middle_Ages
+town - http://dbpedia.org/resource/Market_town
+western europe - http://dbpedia.org/resource/Western_Europe
+neuschwanstein - http://dbpedia.org/resource/Neuschwanstein_Castle
+artillery - http://dbpedia.org/resource/Artillery
 castle town - http://dbpedia.org/resource/Castle_town
 doh - http://dbpedia.org/resource/Health_department
-castle building - http://dbpedia.org/resource/Castle_Building
-jan - http://dbpedia.org/resource/Joint_Electronics_Type_Designation_System
-obsolescence - http://dbpedia.org/resource/Obsolescence
-richard ii - http://dbpedia.org/resource/Richard_II_of_England
+pontefract castle - http://dbpedia.org/resource/Pontefract_Castle
+delaware - http://dbpedia.org/resource/Delaware
+daub - http://dbpedia.org/resource/Wattle_and_daub
+medieval period - http://dbpedia.org/resource/Middle_Ages
+welsh castle - http://dbpedia.org/resource/Castle
 cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-denmark - http://dbpedia.org/resource/Denmark
-kinda - http://dbpedia.org/resource/Kindah
-european castles - http://dbpedia.org/resource/Castle
-bornholm - http://dbpedia.org/resource/Bornholm
-western europe - http://dbpedia.org/resource/Western_Europe
-military installation - http://dbpedia.org/resource/Military_base
-castle island - http://dbpedia.org/resource/Castleisland
+rhombus - http://dbpedia.org/resource/Rhombus

@@ -1,1230 +1,1186 @@
-fabric - http://dbpedia.org/resource/Textile
-unusable - http://dbpedia.org/resource/Unusable_(film)
-colchester - http://dbpedia.org/resource/Colchester
-hugh courtenay - http://dbpedia.org/resource/Hugh_Courtenay_(died_1348)
-charitable trust - http://dbpedia.org/resource/Charitable_organization
-conisbrough - http://dbpedia.org/resource/Conisbrough
-bombard - http://dbpedia.org/resource/Bombardment
-king harold ii - http://dbpedia.org/resource/Harold_Godwinson
-witchfinder general - http://dbpedia.org/resource/Matthew_Hopkins
-richmond castle - http://dbpedia.org/resource/Richmond_Castle
-robertsbridge - http://dbpedia.org/resource/Robertsbridge
-scaleby castle - http://dbpedia.org/resource/Scaleby_Castle
-john brydges - http://dbpedia.org/resource/John_Brydges,_1st_Baron_Chandos
-sir philip courtenay - http://dbpedia.org/resource/Philip_Courtenay_(died_1463)
-castle garden - http://dbpedia.org/resource/Castle_Clinton
-thomas fairfax - http://dbpedia.org/resource/Thomas_Fairfax
-fotheringhay castle - http://dbpedia.org/resource/Fotheringhay_Castle
-white cliffs - http://dbpedia.org/resource/White_Cliffs_of_Dover
-secular - http://dbpedia.org/resource/Secular_clergy
-langside - http://dbpedia.org/resource/Battle_of_Langside
-richard duke - http://dbpedia.org/resource/Richard_Duke
-desert castle - http://dbpedia.org/resource/Desert_castles
-somerton castle - http://dbpedia.org/resource/Somerton_Castle
-elizabeth de clare - http://dbpedia.org/resource/Elizabeth_de_Clare
-cliff castle - http://dbpedia.org/resource/Promontory_fort
-town wall - http://dbpedia.org/resource/Defensive_wall
-elizabethan - http://dbpedia.org/resource/Elizabeth_I_of_England
-john edward - http://dbpedia.org/resource/John_Edward
-fortress castle - http://dbpedia.org/resource/Fortress_castle
-hampshire - http://dbpedia.org/resource/Hampshire
-majestic - http://dbpedia.org/resource/Mister_Majestic
-hadleigh - http://dbpedia.org/resource/Hadleigh_railway_station
-king henry vi - http://dbpedia.org/resource/Henry_VI_of_England
-knaresborough castle - http://dbpedia.org/resource/Knaresborough_Castle
-cornish king - http://dbpedia.org/resource/History_of_Cornwall
-penrith castle - http://dbpedia.org/resource/Penrith_Castle
-forge - http://dbpedia.org/resource/Forge
-ireland - http://dbpedia.org/resource/Ireland
-river medway - http://dbpedia.org/resource/River_Medway
-safety - http://dbpedia.org/resource/Safety
-hugh de moreville - http://dbpedia.org/resource/Hugh_de_Morville,_Lord_of_Westmorland
-civil wedding - http://dbpedia.org/resource/Wedding
-key route - http://dbpedia.org/resource/Key_System
-conisbrough castle - http://dbpedia.org/resource/Conisbrough_Castle
-spofforth castle - http://dbpedia.org/resource/Spofforth_Castle
-local council - http://dbpedia.org/resource/Local_government_in_England
-stonehenge - http://dbpedia.org/resource/Stonehenge
-vikings - http://dbpedia.org/resource/Vikings
-peterborough - http://dbpedia.org/resource/Peterborough
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
-james iv - http://dbpedia.org/resource/James_IV_of_Scotland
-baron - http://dbpedia.org/resource/English_feudal_barony
-greenhead - http://dbpedia.org/resource/Greenhead,_Northumberland
-leigh - http://dbpedia.org/resource/Leigh-on-Sea
-norman bailey - http://dbpedia.org/resource/Norman_Bailey_(bass-baritone)
-historic royal palaces - http://dbpedia.org/resource/Historic_Royal_Palaces
-boarstall tower - http://dbpedia.org/resource/Boarstall_Tower
-edenbridge - http://dbpedia.org/resource/Edenbridge_railway_station
-whittington castle - http://dbpedia.org/resource/Whittington_Castle
-ida - http://dbpedia.org/resource/Ida_of_Bernicia
-thetford castle - http://dbpedia.org/resource/Thetford_Castle
-roger de caen - http://dbpedia.org/resource/Roger_of_Salisbury
-rye - http://dbpedia.org/resource/Rye
-bedfordshire - http://dbpedia.org/resource/Bedfordshire
-dyke - http://dbpedia.org/resource/Dry_stone
-brougham castle - http://dbpedia.org/resource/Brougham_Castle
-lincoln - http://dbpedia.org/resource/Abraham_Lincoln
-military base - http://dbpedia.org/resource/Military_base
-british isles - http://dbpedia.org/resource/British_Iron_Age
-river derwent - http://dbpedia.org/resource/River_Derwent_(Tasmania)
-haunted castle - http://dbpedia.org/resource/Haunted_house
-dover castle - http://dbpedia.org/resource/Dover_Castle
-pontefract castle - http://dbpedia.org/resource/Pontefract_Castle
-control key - http://dbpedia.org/resource/Control_key
-fear - http://dbpedia.org/resource/Fear
-shrewsbury castle - http://dbpedia.org/resource/Shrewsbury_Castle
-broadland - http://dbpedia.org/resource/Broadland
-piel - http://dbpedia.org/resource/Piel_Island
-guy de balliol - http://dbpedia.org/resource/Guy_I_de_Balliol
-anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
-kirby muxloe castle - http://dbpedia.org/resource/Kirby_Muxloe_Castle
-sir percival - http://dbpedia.org/resource/Percival
-rutland - http://dbpedia.org/resource/Rutland
-parliamentarian - http://dbpedia.org/resource/Parliament_of_England
-appleby castle - http://dbpedia.org/resource/Appleby_Castle
-christmas eve - http://dbpedia.org/resource/Christmas
-hereditary - http://dbpedia.org/resource/Hereditary_peer
-berkeley family - http://dbpedia.org/resource/Baron_Berkeley
-duke - http://dbpedia.org/resource/Duke
-helmsley castle - http://dbpedia.org/resource/Helmsley_Castle
-wareham - http://dbpedia.org/resource/Wareham_railway_station
-norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
-subsidence - http://dbpedia.org/resource/Subsidence
-henry iii - http://dbpedia.org/resource/Henry_III_of_England
-blenkinsop castle - http://dbpedia.org/resource/Blenkinsopp_Castle
-vie - http://dbpedia.org/resource/Vie_(river)
-castle town - http://dbpedia.org/resource/Castle_town
-pele tower - http://dbpedia.org/resource/Peel_tower
-nottinghamshire - http://dbpedia.org/resource/Nottinghamshire
-rare breed - http://dbpedia.org/resource/Dog_breed
-swaffham - http://dbpedia.org/resource/Swaffham
-base wars - http://dbpedia.org/resource/Base_Wars
-etal - http://dbpedia.org/resource/Etal
-hillfort - http://dbpedia.org/resource/Hillfort
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-earthworks - http://dbpedia.org/resource/Siege
-orford castle - http://dbpedia.org/resource/Orford_Castle
-yorkshire dales - http://dbpedia.org/resource/Yorkshire_Dales
-zouch - http://dbpedia.org/resource/Zouch
-henry - http://dbpedia.org/resource/Henry_(unit)
-katherine - http://dbpedia.org/resource/Katherine_Swynford
-christmas day - http://dbpedia.org/resource/Christmas
-camber - http://dbpedia.org/resource/Ski
-scottish english - http://dbpedia.org/resource/Scottish_English
-john vane - http://dbpedia.org/resource/John_Vane
-henry ii - http://dbpedia.org/resource/Henry_II_of_England
-early norman - http://dbpedia.org/resource/Norman_architecture
-welland valley - http://dbpedia.org/resource/River_Welland
-anglo - http://dbpedia.org/resource/Anglo
-runcorn - http://dbpedia.org/resource/Runcorn
-robert d'oilly - http://dbpedia.org/resource/Robert_D'Oyly
-marshal - http://dbpedia.org/resource/Marshal
-romantic garden - http://dbpedia.org/resource/French_landscape_garden
-medway - http://dbpedia.org/resource/River_Medway
-teme - http://dbpedia.org/resource/River_Teme
-stainforth - http://dbpedia.org/resource/George_Stainforth
-newark corporation - http://dbpedia.org/resource/Newark_element14
-kent - http://dbpedia.org/resource/Kent
-south lakeland district council - http://dbpedia.org/resource/South_Lakeland
-tintagel - http://dbpedia.org/resource/Tintagel
-river severn - http://dbpedia.org/resource/River_Severn
-queen isabella - http://dbpedia.org/resource/Isabella_of_France
-mary bankes - http://dbpedia.org/resource/Mary_Bankes
-william de braose - http://dbpedia.org/resource/William_de_Braose,_4th_Lord_of_Bramber
-hedingham - http://dbpedia.org/resource/Castle_Hedingham
-longthorpe tower - http://dbpedia.org/resource/Longthorpe_Tower
-bayeux - http://dbpedia.org/resource/Bayeux
-pickering castle - http://dbpedia.org/resource/Pickering_Castle
-st. michaels - http://dbpedia.org/resource/Saint_Michaels,_Maryland
-lake - http://dbpedia.org/resource/Lake_Ontario
-william de forz - http://dbpedia.org/resource/William_de_Forz,_3rd_Earl_of_Albemarle
-edlingham - http://dbpedia.org/resource/Edlingham
-alnwick - http://dbpedia.org/resource/Alnwick
-kimbolton school - http://dbpedia.org/resource/Kimbolton_School
-northumbria - http://dbpedia.org/resource/Northumberland
-hastings - http://dbpedia.org/resource/Hastings
-tower - http://dbpedia.org/resource/Keep
-berkshire - http://dbpedia.org/resource/Berkshire
-prison - http://dbpedia.org/resource/Prison
-robert bruce - http://dbpedia.org/resource/Robert_the_Bruce
-robert thorpe - http://dbpedia.org/resource/Robert_Thorpe_(judge)
-crusades - http://dbpedia.org/resource/Crusades
-corruption - http://dbpedia.org/resource/Corruption
-walter espec - http://dbpedia.org/resource/Walter_Espec
-moate - http://dbpedia.org/resource/Moate
-lewe - http://dbpedia.org/resource/Lewe_Township
-clifford castle - http://dbpedia.org/resource/Clifford_Castle
-lucy - http://dbpedia.org/resource/Lucy_Beale
-tussauds group - http://dbpedia.org/resource/The_Tussauds_Group
-percival thirlwall - http://dbpedia.org/resource/Percival_Thirlwall
-portsmouth - http://dbpedia.org/resource/Portsmouth
-romans - http://dbpedia.org/resource/Romans_(musician)
-uther pendragon - http://dbpedia.org/resource/Uther_Pendragon
-mary tudor - http://dbpedia.org/resource/Mary_I_of_England
-warkworth castle - http://dbpedia.org/resource/Warkworth_Castle
-dacre castle - http://dbpedia.org/resource/Dacre_Castle
-roman time - http://dbpedia.org/resource/Roman_Empire
-south range - http://dbpedia.org/resource/South_Range_High_School
-ludgershall - http://dbpedia.org/resource/Ludgershall_(UK_Parliament_constituency)
-stone - http://dbpedia.org/resource/Sandstone
-falstaff - http://dbpedia.org/resource/Falstaff
-promontory - http://dbpedia.org/resource/Promontory
-west sussex - http://dbpedia.org/resource/Sussex
-muncaster castle - http://dbpedia.org/resource/Muncaster_Castle
-northern england - http://dbpedia.org/resource/Kingdom_of_Northumbria
-thurleigh - http://dbpedia.org/resource/Thurleigh
-m6 - http://dbpedia.org/resource/Minor_sixth
-pomeroy - http://dbpedia.org/resource/F._W._Pomeroy
-clay - http://dbpedia.org/resource/Clay
-wilton castle - http://dbpedia.org/resource/Wilton_Castle
-erosion - http://dbpedia.org/resource/Coastal_erosion
-richmond - http://dbpedia.org/resource/Richmond_Football_Club
-lowland scots - http://dbpedia.org/resource/Scots_language
-warwick castle - http://dbpedia.org/resource/Warwick_Castle
-chester castle - http://dbpedia.org/resource/Chester_Castle
-roman camp - http://dbpedia.org/resource/Castra
-chain - http://dbpedia.org/resource/Chain
-minstrel - http://dbpedia.org/resource/Minstrel
-catholic - http://dbpedia.org/resource/Catholic_Church
-bernicia - http://dbpedia.org/resource/Bernicia
-drape - http://dbpedia.org/resource/Drapery
-soil - http://dbpedia.org/resource/Soil
-turret - http://dbpedia.org/resource/Turret
-taste - http://dbpedia.org/resource/Wine_tasting
-cumbria - http://dbpedia.org/resource/Cumbria
-wolvesey castle - http://dbpedia.org/resource/Wolvesey_Castle
-norman castle - http://dbpedia.org/resource/Normans
-carisbrooke castle - http://dbpedia.org/resource/Carisbrooke_Castle
-sir edward hungerford - http://dbpedia.org/resource/Edward_Hungerford_(Roundhead)
-yielden castle - http://dbpedia.org/resource/Yielden_Castle
-medieval fortification - http://dbpedia.org/resource/Castle
-english civil war - http://dbpedia.org/resource/English_Civil_War
-duke york - http://dbpedia.org/resource/Duke_York
-tudor - http://dbpedia.org/resource/Tudor_period
-wilton - http://dbpedia.org/resource/Wilton,_Wiltshire
-castle ground - http://dbpedia.org/resource/Castle_Ground
-constable family - http://dbpedia.org/resource/Clifford-Constable_baronets
-rochester castle - http://dbpedia.org/resource/Rochester_Castle
-newcastle castle - http://dbpedia.org/resource/The_Castle,_Newcastle
-norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
-corbridge - http://dbpedia.org/resource/Corbridge
-caius - http://dbpedia.org/resource/John_Caius
-castleton - http://dbpedia.org/resource/Castleton,_Derbyshire
-vineyard - http://dbpedia.org/resource/Vineyard
-mitford castle - http://dbpedia.org/resource/Mitford_Castle
-dart - http://dbpedia.org/resource/Darts
-sunday morning - http://dbpedia.org/resource/CBS_News_Sunday_Morning
-tynemouth - http://dbpedia.org/resource/Tynemouth
-mortimer family - http://dbpedia.org/resource/Mortimer
-lord dacre - http://dbpedia.org/resource/Baron_Dacre
-gothic house - http://dbpedia.org/resource/Gothic_House
-cleves - http://dbpedia.org/resource/Duchy_of_Cleves
-clitheroe castle - http://dbpedia.org/resource/Clitheroe_Castle
-st george - http://dbpedia.org/resource/Saint_George
-sutton valence - http://dbpedia.org/resource/Sutton_Valence
-silting - http://dbpedia.org/resource/Silt
-georgian - http://dbpedia.org/resource/Georgian_language
-skipsea - http://dbpedia.org/resource/Skipsea
-warwick - http://dbpedia.org/resource/Warwick
-summit - http://dbpedia.org/resource/Mountain
-castle richmond - http://dbpedia.org/resource/Castle_Richmond
-deep water harbour - http://dbpedia.org/resource/Port_of_Bridgetown
-plague - http://dbpedia.org/resource/Black_Death
-borough - http://dbpedia.org/resource/Borough
-roaring meg - http://dbpedia.org/resource/Roaring_Meg_hydro_scheme
-london clay - http://dbpedia.org/resource/Clay
-court - http://dbpedia.org/resource/Royal_court
-scotney castle - http://dbpedia.org/resource/Scotney_Castle
-pendragon castle - http://dbpedia.org/resource/Pendragon_Castle
-holy island - http://dbpedia.org/resource/Lindisfarne
-murder - http://dbpedia.org/resource/Murder
-henry howard - http://dbpedia.org/resource/Henry_Howard,_Earl_of_Surrey
-castle motte - http://dbpedia.org/resource/Motte-and-bailey_castle
-slope - http://dbpedia.org/resource/Slope
-yarmouth castle - http://dbpedia.org/resource/Yarmouth_Castle
-moat - http://dbpedia.org/resource/Moat
-gatehouse - http://dbpedia.org/resource/Gatehouse
-lavatrae - http://dbpedia.org/resource/Lavatrae
-masonry - http://dbpedia.org/resource/Stonemasonry
-honey - http://dbpedia.org/resource/Honey
-great hall - http://dbpedia.org/resource/Great_hall
-clare - http://dbpedia.org/resource/County_Clare
-crusade - http://dbpedia.org/resource/Crusades
-ruthin - http://dbpedia.org/resource/Ruthin
-boarstall - http://dbpedia.org/resource/Boarstall
-henry de blois - http://dbpedia.org/resource/Henry_of_Blois
-folk - http://dbpedia.org/resource/Folklore
-scarborough castle - http://dbpedia.org/resource/Scarborough_Castle
-robert curthose - http://dbpedia.org/resource/Robert_Curthose
-caesar - http://dbpedia.org/resource/Julius_Caesar
-belsay castle - http://dbpedia.org/resource/Belsay_Castle
-eynsford - http://dbpedia.org/resource/Eynsford
-king richard - http://dbpedia.org/resource/Richard_II_of_England
-egremont castle - http://dbpedia.org/resource/Egremont_Castle
-cluster - http://dbpedia.org/resource/Cluster_munition
-iron - http://dbpedia.org/resource/Cast_iron
-fortalice - http://dbpedia.org/resource/Fortification
-prehistoric - http://dbpedia.org/resource/Prehistory
-ravenglass - http://dbpedia.org/resource/Ravenglass
-robert adam - http://dbpedia.org/resource/Robert_Adam
-cumberland - http://dbpedia.org/resource/Cumberland
-kirkoswald - http://dbpedia.org/resource/Kirkoswald,_Cumbria
-administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
-king charles - http://dbpedia.org/resource/Charles_I_of_England
-bamburgh castle - http://dbpedia.org/resource/Bamburgh_Castle
-montgomery - http://dbpedia.org/resource/Bernard_Montgomery
-bolsover - http://dbpedia.org/resource/Bolsover_Castle
-berkeley - http://dbpedia.org/resource/Berkeley_family
-skipton castle - http://dbpedia.org/resource/Skipton_Castle
-coastal artillery - http://dbpedia.org/resource/Coastal_artillery
-plant - http://dbpedia.org/resource/Factory
-ranulf flambard - http://dbpedia.org/resource/Ranulf_Flambard
-ashby de la zouch castle - http://dbpedia.org/resource/Ashby_de_la_Zouch_Castle
-hythe - http://dbpedia.org/resource/Short_Sunderland
-lilbourne - http://dbpedia.org/resource/Lilbourne
-private ownership - http://dbpedia.org/resource/Land_tenure
-hadleigh castle - http://dbpedia.org/resource/Hadleigh_Castle
-barbican - http://dbpedia.org/resource/Barbican
-dane john gardens - http://dbpedia.org/resource/Dane_John_Mound
-roger vaughan - http://dbpedia.org/resource/Roger_Vaughan
-ransom - http://dbpedia.org/resource/Ransom
-pennington - http://dbpedia.org/resource/Pennington_railway_station
-tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
-chancellor - http://dbpedia.org/resource/Lord_Chancellor
-visitor centre - http://dbpedia.org/resource/Visitor_center
-la tour - http://dbpedia.org/resource/Georges_de_La_Tour
-epic - http://dbpedia.org/resource/Epic_poetry
-welsh marches - http://dbpedia.org/resource/Welsh_Marches
-king henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
-kinnersley - http://dbpedia.org/resource/Kinnersley
-osmund - http://dbpedia.org/resource/Osmond_process
-thurleigh castle - http://dbpedia.org/resource/Thurleigh_Castle
-military architecture - http://dbpedia.org/resource/Military_engineering
-tutbury castle - http://dbpedia.org/resource/Tutbury_Castle
-bodiam - http://dbpedia.org/resource/Bodiam
-fosse - http://dbpedia.org/resource/Moat
-jarrow - http://dbpedia.org/resource/Jarrow
-anne - http://dbpedia.org/resource/Anne_Boleyn
-nunney - http://dbpedia.org/resource/Nunney
-leyburn - http://dbpedia.org/resource/Leyburn
-sir walter scott - http://dbpedia.org/resource/Walter_Scott
-ranulph de meschines - http://dbpedia.org/resource/Ranulf_le_Meschin,_3rd_Earl_of_Chester
-edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
-wedding - http://dbpedia.org/resource/Wedding
-upnor castle - http://dbpedia.org/resource/Upnor_Castle
-burgh - http://dbpedia.org/resource/Burh
-baconsthorpe castle - http://dbpedia.org/resource/Baconsthorpe_Castle
-fortification - http://dbpedia.org/resource/Castle
-brough castle - http://dbpedia.org/resource/Brough_Castle
-command hq - http://dbpedia.org/resource/Headquarters
-warkworth - http://dbpedia.org/resource/Warkworth_Castle
-prince john - http://dbpedia.org/resource/John_III_of_Sweden
-bramber castle - http://dbpedia.org/resource/Bramber_Castle
-thomas de criol - http://dbpedia.org/resource/Sir_Thomas_Kyriell
-bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-odo - http://dbpedia.org/resource/Odo_of_Bayeux
-brougham - http://dbpedia.org/resource/Brougham_(carriage)
-assassin - http://dbpedia.org/resource/Assassination
-thetford - http://dbpedia.org/resource/Thetford
-river tamar - http://dbpedia.org/resource/River_Tamar
-dene - http://dbpedia.org/resource/Dene_(valley)
-enclosure castle - http://dbpedia.org/resource/Enclosure_castle
-restormel - http://dbpedia.org/resource/Restormel_Castle
-timber frame - http://dbpedia.org/resource/Timber_framing
-late medieval - http://dbpedia.org/resource/Middle_Ages
-wi fi - http://dbpedia.org/resource/Wi-Fi
-impose - http://dbpedia.org/resource/Impose_(magazine)
-jacobean - http://dbpedia.org/resource/Jacobean_architecture
-chester - http://dbpedia.org/resource/Chester
-beeston castle - http://dbpedia.org/resource/Beeston_Castle
-crown courts - http://dbpedia.org/resource/Crown_Court
-watling street - http://dbpedia.org/resource/Watling_Street
-tamworth castle - http://dbpedia.org/resource/Tamworth_Castle
-portland stone - http://dbpedia.org/resource/Portland_stone
-arundell family - http://dbpedia.org/resource/Baron_Arundell_of_Wardour
-kenilworth - http://dbpedia.org/resource/Kenilworth_Castle
-perch - http://dbpedia.org/resource/Perch
-bishop odo - http://dbpedia.org/resource/Odo_of_Bayeux
-governance - http://dbpedia.org/resource/Government
-marriage - http://dbpedia.org/resource/Same-sex_marriage
-norfolk - http://dbpedia.org/resource/Norfolk
-cheshire - http://dbpedia.org/resource/Cheshire
-dacre - http://dbpedia.org/resource/Baron_Dacre
-redundant - http://dbpedia.org/resource/Redundant_church
-dunstanburgh castle - http://dbpedia.org/resource/Dunstanburgh_Castle
-tide - http://dbpedia.org/resource/Tide
-shropshire - http://dbpedia.org/resource/Shropshire
-scarborough - http://dbpedia.org/resource/Borough_of_Scarborough
-headland - http://dbpedia.org/resource/Headland
-powderham castle - http://dbpedia.org/resource/Powderham_Castle
-prudhoe - http://dbpedia.org/resource/Prudhoe
-estuary - http://dbpedia.org/resource/Thames_Estuary
-english parliament - http://dbpedia.org/resource/Parliament_of_England
-church brough - http://dbpedia.org/resource/Brough,_Cumbria
-roman road - http://dbpedia.org/resource/Roman_roads
 heart - http://dbpedia.org/resource/Heart
-king henry iii - http://dbpedia.org/resource/Henry_III_of_England
-newcastle city council - http://dbpedia.org/resource/Newcastle_upon_Tyne
-exile - http://dbpedia.org/resource/Exile
-kirtling - http://dbpedia.org/resource/Kirtling
-coat - http://dbpedia.org/resource/Fur
-robert de ferrers - http://dbpedia.org/resource/Robert_de_Ferrers,_6th_Earl_of_Derby
-castle bailey - http://dbpedia.org/resource/Bailey_(castle)
-yorkshire - http://dbpedia.org/resource/Yorkshire
-archaeological park - http://dbpedia.org/resource/Archaeological_site
-yielden - http://dbpedia.org/resource/Yielden
-exeter - http://dbpedia.org/resource/Exeter
-wakefield - http://dbpedia.org/resource/Wakefield
-public footpath - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
-london french - http://dbpedia.org/resource/London_French_RFC
-pevensey castle - http://dbpedia.org/resource/Pevensey_Castle
-century roman - http://dbpedia.org/resource/Century_type_family
-longtown castle - http://dbpedia.org/resource/Longtown_Castle
-archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
-parliamentary - http://dbpedia.org/resource/Roundhead
-hastings castle - http://dbpedia.org/resource/Hastings_Castle
-lewes - http://dbpedia.org/resource/Lewes
-calshot castle - http://dbpedia.org/resource/Calshot_Castle
-parker - http://dbpedia.org/resource/Charlie_Parker
-canterbury city council - http://dbpedia.org/resource/City_of_Canterbury
-country house - http://dbpedia.org/resource/English_country_house
-flodden - http://dbpedia.org/resource/Battle_of_Flodden
-newark - http://dbpedia.org/resource/Newark-on-Trent
-robert de umfraville - http://dbpedia.org/resource/Robert_de_Umfraville
-sorviodunum - http://dbpedia.org/resource/Old_Sarum
 newark castle - http://dbpedia.org/resource/Newark_Castle_railway_station
-high hill - http://dbpedia.org/resource/High_Hill,_Missouri
-bungay castle - http://dbpedia.org/resource/Bungay_Castle
-carlisle castle - http://dbpedia.org/resource/Carlisle_Castle
-garden open - http://dbpedia.org/resource/Garden_Open
-shakespeare - http://dbpedia.org/resource/William_Shakespeare
-monk - http://dbpedia.org/resource/Monk
-totnes - http://dbpedia.org/resource/Totnes
-hungerford - http://dbpedia.org/resource/Hungerford
-hedingham castle - http://dbpedia.org/resource/Hedingham_Castle
-john hawley - http://dbpedia.org/resource/John_Hawley_(died_1408)
-empress maud - http://dbpedia.org/resource/Empress_Matilda
-robert manners - http://dbpedia.org/resource/Robert_Manners_(British_Army_officer,_born_1758)
-hamelin plantagenet - http://dbpedia.org/resource/Hamelin_de_Warenne,_Earl_of_Surrey
-gambling - http://dbpedia.org/resource/Gambling
-north sea - http://dbpedia.org/resource/North_Sea
-edward watson - http://dbpedia.org/resource/Edward_Watson_(dancer)
-winchester castle - http://dbpedia.org/resource/Winchester_Castle
-hilton family - http://dbpedia.org/resource/Hilton_family
-chamberlain - http://dbpedia.org/resource/Lord_Chamberlain
-satellite - http://dbpedia.org/resource/Satellite
-river swale - http://dbpedia.org/resource/River_Swale
-queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-harry potter - http://dbpedia.org/resource/Harry_Potter
-meppershall - http://dbpedia.org/resource/Meppershall
-hunting lodge - http://dbpedia.org/resource/Jagdschloss
-manager - http://dbpedia.org/resource/Talent_manager
-drawbridge - http://dbpedia.org/resource/Drawbridge
-brickwork - http://dbpedia.org/resource/Brickwork
-tarporley - http://dbpedia.org/resource/Tarporley
-general fairfax - http://dbpedia.org/resource/Thomas_Fairfax
-kirkoswald castle - http://dbpedia.org/resource/Kirkoswald_Castle
-king henry ii - http://dbpedia.org/resource/Henry_II_of_England
-rosamund clifford - http://dbpedia.org/resource/Rosamund_Clifford
-middleham castle - http://dbpedia.org/resource/Middleham_Castle
-james grant - http://dbpedia.org/resource/James_Grant_(British_Army_officer,_born_1720)
-st catherines - http://dbpedia.org/resource/St_Catherines,_Argyll
-rutland county council - http://dbpedia.org/resource/Rutland_County_Council
-bellister castle - http://dbpedia.org/resource/Bellister_Castle
-richard lionheart - http://dbpedia.org/resource/Richard_I_of_England
-spofforth - http://dbpedia.org/resource/Fred_Spofforth
-relay - http://dbpedia.org/resource/Relay
-de vere family - http://dbpedia.org/resource/De_Vere_family
-howard - http://dbpedia.org/resource/House_of_Howard
-armstrong family - http://dbpedia.org/resource/Clan_Armstrong
-roman town - http://dbpedia.org/resource/Roman_Britain
-neglect - http://dbpedia.org/resource/Urban_decay
-canterbury castle - http://dbpedia.org/resource/Canterbury_Castle
-okehampton castle - http://dbpedia.org/resource/Okehampton_Castle
-lindisfarne castle - http://dbpedia.org/resource/Lindisfarne_Castle
-hartshill - http://dbpedia.org/resource/Hartshill
-town - http://dbpedia.org/resource/Market_town
-stable - http://dbpedia.org/resource/Stable
-falmouth - http://dbpedia.org/resource/Falmouth_Commodores
-thames estuary - http://dbpedia.org/resource/River_Thames
-stainmore pass - http://dbpedia.org/resource/Stainmore
-rich woman - http://dbpedia.org/resource/Rich_Woman
-high point - http://dbpedia.org/resource/West_Seattle
-st briavels - http://dbpedia.org/resource/St_Briavels
-wardour castle - http://dbpedia.org/resource/Wardour_Castle
-rievaulx abbey - http://dbpedia.org/resource/Rievaulx_Abbey
-durham - http://dbpedia.org/resource/Durham_Cathedral
-alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
-royal collection trust - http://dbpedia.org/resource/Royal_Collection_Trust
-blockhouse - http://dbpedia.org/resource/Blockhouse
-eye castle - http://dbpedia.org/resource/Eye_Castle
-christchurch castle - http://dbpedia.org/resource/Christchurch_Castle
-etal castle - http://dbpedia.org/resource/Etal_Castle
-leeds - http://dbpedia.org/resource/Leeds
-weymouth - http://dbpedia.org/resource/Weymouth_and_Portland
-magna carta - http://dbpedia.org/resource/Magna_Carta
-calshot - http://dbpedia.org/resource/Calshot_Castle
-don valley - http://dbpedia.org/resource/Lower_Don_Valley
-duke william - http://dbpedia.org/resource/William_the_Conqueror
-gloucester - http://dbpedia.org/resource/Gloucester
-royalists - http://dbpedia.org/resource/Cavalier
-mayor - http://dbpedia.org/resource/Mayor
-william wallace - http://dbpedia.org/resource/William_Wallace
-bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-hailsham - http://dbpedia.org/resource/Hailsham
-wardour - http://dbpedia.org/resource/Wardour_Castle
-breton - http://dbpedia.org/resource/Breton_language
-earl thomas - http://dbpedia.org/resource/Earl_Thomas
-wall painting - http://dbpedia.org/resource/Fresco
-robert de roos - http://dbpedia.org/resource/Robert_de_Ros_(died_1227)
-royal navy - http://dbpedia.org/resource/Royal_Navy
-saints - http://dbpedia.org/resource/Saint
-berry pomeroy castle - http://dbpedia.org/resource/Berry_Pomeroy_Castle
-norham castle - http://dbpedia.org/resource/Norham_Castle
-mortar - http://dbpedia.org/resource/Lime_mortar
-robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
-dempster - http://dbpedia.org/resource/Moot_hill
-carrick roads - http://dbpedia.org/resource/Carrick_Roads
-david - http://dbpedia.org/resource/David_I_of_Scotland
-tamworth - http://dbpedia.org/resource/Tamworth_F.C.
-bolton castle - http://dbpedia.org/resource/Bolton_Castle
-roman fortress - http://dbpedia.org/resource/Castra
-sir hugh de morville - http://dbpedia.org/resource/Hugh_de_Morville,_Lord_of_Westmorland
-middleton family - http://dbpedia.org/resource/Middleton_baronets
-pilfer - http://dbpedia.org/resource/Theft
-corby castle - http://dbpedia.org/resource/Corby_Castle
-southampton - http://dbpedia.org/resource/Southampton
-penrith - http://dbpedia.org/resource/Penrith_Panthers
-ipswich museum - http://dbpedia.org/resource/Ipswich_Museum
-bedford - http://dbpedia.org/resource/Bedford_Vehicles
-somerton - http://dbpedia.org/resource/Roxburgh_Park_railway_station
-family - http://dbpedia.org/resource/Family
-elsdon tower - http://dbpedia.org/resource/Elsdon_Tower
-acre - http://dbpedia.org/resource/Acre
-port henry - http://dbpedia.org/resource/Port_Henry,_New_York
-watson family - http://dbpedia.org/resource/Watson_family
-fat - http://dbpedia.org/resource/Vegetable_oil
-paulinus - http://dbpedia.org/resource/Paulinus_of_York
-brinklow castle - http://dbpedia.org/resource/Brinklow_Castle
-crown court - http://dbpedia.org/resource/Crown_Court
-fortified tower - http://dbpedia.org/resource/Fortified_tower
-roger mortimer - http://dbpedia.org/resource/Roger_Mortimer_of_Wigmore
-shropshire council - http://dbpedia.org/resource/Shropshire_Council
-launceston castle - http://dbpedia.org/resource/Launceston_Castle
-conger - http://dbpedia.org/resource/Conger
-buckingham - http://dbpedia.org/resource/Buckingham
-pennine - http://dbpedia.org/resource/Pennines
-lostwithiel - http://dbpedia.org/resource/Lostwithiel
-waterloo - http://dbpedia.org/resource/Battle_of_Waterloo
-kentish ragstone - http://dbpedia.org/resource/Rag-stone
-hexagonal - http://dbpedia.org/resource/Hexagon
-dartmouth castle - http://dbpedia.org/resource/Dartmouth_Castle
-siege castle - http://dbpedia.org/resource/Counter-castle
-weeting castle - http://dbpedia.org/resource/Weeting_Castle
-king william ii - http://dbpedia.org/resource/William_II_of_England
-eye - http://dbpedia.org/resource/Tropical_cyclone
-cheshire plain - http://dbpedia.org/resource/Cheshire_Plain
-william de warenne - http://dbpedia.org/resource/William_de_Warenne,_1st_Earl_of_Surrey
-open access - http://dbpedia.org/resource/Freedom_to_roam
-sir william courtenay - http://dbpedia.org/resource/William_Courtenay
-framlingham castle - http://dbpedia.org/resource/Framlingham_Castle
-internet - http://dbpedia.org/resource/Internet
-early medieval - http://dbpedia.org/resource/Early_Middle_Ages
-north yorkshire - http://dbpedia.org/resource/North_Yorkshire
-devizes - http://dbpedia.org/resource/Devizes
-warship - http://dbpedia.org/resource/Warship
-tweed - http://dbpedia.org/resource/Tweed
-coast - http://dbpedia.org/resource/Coast
-kenilworth castle - http://dbpedia.org/resource/Kenilworth_Castle
-tintagel castle - http://dbpedia.org/resource/Tintagel_Castle
-middleham - http://dbpedia.org/resource/Middleham_Castle
-ditch - http://dbpedia.org/resource/Moat
-saxon - http://dbpedia.org/resource/Saxons
-barons dacre - http://dbpedia.org/resource/Baron_Dacre
-king edward iv - http://dbpedia.org/resource/Edward_IV_of_England
-lighthouse - http://dbpedia.org/resource/Lighthouse
-bungay - http://dbpedia.org/resource/Bungay_Castle
-norton priory - http://dbpedia.org/resource/Norton_Priory
-monmouth - http://dbpedia.org/resource/Monmouth
-bowes castle - http://dbpedia.org/resource/Bowes_Castle
+vineyard - http://dbpedia.org/resource/Vineyard
+hadleigh - http://dbpedia.org/resource/Hadleigh_railway_station
+south range - http://dbpedia.org/resource/South_Range_High_School
 windmill - http://dbpedia.org/resource/Windmill
-chieftain - http://dbpedia.org/resource/Chiefdom
-river thames - http://dbpedia.org/resource/River_Thames
-warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
-dacre family - http://dbpedia.org/resource/Baron_Dacre
-church island - http://dbpedia.org/resource/Church_Island_(Menai_Strait)
-norwich - http://dbpedia.org/resource/Norwich
-camelot - http://dbpedia.org/resource/Camlet
-underground tunnel - http://dbpedia.org/resource/Roller_coaster_elements
-late middle ages - http://dbpedia.org/resource/Late_Middle_Ages
-lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
-powderham - http://dbpedia.org/resource/Manor_of_Powderham
-victorian era - http://dbpedia.org/resource/Victorian_era
-defender - http://dbpedia.org/resource/Defendant
-welsh borders - http://dbpedia.org/resource/Welsh_Marches
-brick - http://dbpedia.org/resource/Brick
-lady mary bankes - http://dbpedia.org/resource/Mary_Bankes
-howard family - http://dbpedia.org/resource/House_of_Howard
-chapel - http://dbpedia.org/resource/Chapel
-toddington - http://dbpedia.org/resource/Littlehampton
-pevensey - http://dbpedia.org/resource/Pevensey
-mary - http://dbpedia.org/resource/Mary_I_of_England
-debtor - http://dbpedia.org/resource/Debtor
-gaol - http://dbpedia.org/resource/Prison
-cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-furness abbey - http://dbpedia.org/resource/Furness_Abbey
-youth hostel - http://dbpedia.org/resource/Hostel
-tunnel - http://dbpedia.org/resource/Tunnel
-kirby muxloe - http://dbpedia.org/resource/Kirby_Muxloe
-ludgershall castle - http://dbpedia.org/resource/Ludgershall_Castle
-robert burnell - http://dbpedia.org/resource/Robert_Burnell
-wedding breakfast - http://dbpedia.org/resource/Wedding_breakfast
-winchester cathedral - http://dbpedia.org/resource/Winchester_Cathedral
-donjon - http://dbpedia.org/resource/Keep
-map - http://dbpedia.org/resource/Map
-stream - http://dbpedia.org/resource/River
-suffolk county council - http://dbpedia.org/resource/County_council
-mansion - http://dbpedia.org/resource/English_country_house
-beeston - http://dbpedia.org/resource/Beeston_Castle
-wall walk - http://dbpedia.org/resource/Chemin_de_ronde
-farleigh hungerford castle - http://dbpedia.org/resource/Farleigh_Hungerford_Castle
-monastery - http://dbpedia.org/resource/Abbey
-chatham dockyard - http://dbpedia.org/resource/Chatham_Dockyard
-arundel castle - http://dbpedia.org/resource/Arundel_Castle
-church - http://dbpedia.org/resource/Catholic_Church
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-geoffrey de clinton - http://dbpedia.org/resource/Geoffrey_de_Clinton
-clear view - http://dbpedia.org/resource/Tiësto
-newport - http://dbpedia.org/resource/Newport_RFC
-goodrich castle - http://dbpedia.org/resource/Goodrich_Castle
-nether stowey - http://dbpedia.org/resource/Nether_Stowey
-piel castle - http://dbpedia.org/resource/Piel_Castle
-donnington - http://dbpedia.org/resource/Donnington_Castle
-fortified house - http://dbpedia.org/resource/Manor_house
-askerton castle - http://dbpedia.org/resource/Askerton_Castle
-formal garden - http://dbpedia.org/resource/Formal_garden
-earl marshal - http://dbpedia.org/resource/Earl_Marshal
-derbyshire - http://dbpedia.org/resource/Derbyshire
-flamborough - http://dbpedia.org/resource/Flamborough_Head
-robert clifford - http://dbpedia.org/resource/Bob_Clifford
-castle museum - http://dbpedia.org/resource/Norwich_Castle
-mound - http://dbpedia.org/resource/Tumulus
-richard ii - http://dbpedia.org/resource/Richard_II_of_England
-deira - http://dbpedia.org/resource/Deira
-ypres tower - http://dbpedia.org/resource/Rye_Castle
-someries castle - http://dbpedia.org/resource/Someries_Castle
-sherborne - http://dbpedia.org/resource/Bishop_of_Salisbury
-bishops - http://dbpedia.org/resource/Bishop
-suffolk - http://dbpedia.org/resource/Suffolk
-staffordshire - http://dbpedia.org/resource/Staffordshire
-lord william howard - http://dbpedia.org/resource/Lord_William_Howard
-border country - http://dbpedia.org/resource/Anglo-Scottish_border
-enclosure - http://dbpedia.org/resource/Enclosure
-william ii - http://dbpedia.org/resource/William_II_of_England
-listed - http://dbpedia.org/resource/Listed_building
-oxfordshire - http://dbpedia.org/resource/Oxfordshire
-st mawes castle - http://dbpedia.org/resource/St_Mawes_Castle
-blenkinsop - http://dbpedia.org/resource/John_Blenkinsop
-deal castle - http://dbpedia.org/resource/Deal_Castle
-standard bearer - http://dbpedia.org/resource/Standard-bearer
-romantic - http://dbpedia.org/resource/Chivalric_romance
-southern england - http://dbpedia.org/resource/Southern_England
-timber - http://dbpedia.org/resource/Timber_framing
-earldom - http://dbpedia.org/resource/Earl_of_Pembroke
-hasell - http://dbpedia.org/resource/HASELL
-anderitum - http://dbpedia.org/resource/Anderitum
-river nidd - http://dbpedia.org/resource/River_Nidd
-winchester - http://dbpedia.org/resource/Winchester
-farnham castle - http://dbpedia.org/resource/Farnham_Castle
-nunney castle - http://dbpedia.org/resource/Nunney_Castle
-strike - http://dbpedia.org/resource/Strike_action
-dunstable - http://dbpedia.org/resource/Dunstable
-edward iii - http://dbpedia.org/resource/Edward_III_of_England
-farnham - http://dbpedia.org/resource/Farnham
-castle acre castle - http://dbpedia.org/resource/Castle_Acre_Castle_and_town_walls
-barrow - http://dbpedia.org/resource/Tumulus
-derby - http://dbpedia.org/resource/Derby
-lugg - http://dbpedia.org/resource/River_Lugg
-berwick - http://dbpedia.org/resource/Berwick-upon-Tweed
-mining - http://dbpedia.org/resource/Coal_mining
-oakham - http://dbpedia.org/resource/Oakham
-sandstone - http://dbpedia.org/resource/Sandstone
-battery - http://dbpedia.org/resource/Artillery_battery
-william knight - http://dbpedia.org/resource/William_Frederick_Knight
-stone tower - http://dbpedia.org/resource/Stone_Tower_(Ptolemy)
-owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
-raby - http://dbpedia.org/resource/Raby_Castle
-courtenays - http://dbpedia.org/resource/House_of_Courtenay
-cockermouth castle - http://dbpedia.org/resource/Cockermouth
-solent - http://dbpedia.org/resource/Solent
-greystoke - http://dbpedia.org/resource/Greystoke_Castle
-poitiers - http://dbpedia.org/resource/Battle_of_Poitiers
-normans - http://dbpedia.org/resource/Norman_conquest_of_England
-english heritage - http://dbpedia.org/resource/English_Heritage
-whitewash - http://dbpedia.org/resource/Whitewash
-parliament - http://dbpedia.org/resource/Parliament_of_England
-northern tower - http://dbpedia.org/resource/Northern_Tower
-berwick castle - http://dbpedia.org/resource/Berwick_Castle
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-caister castle - http://dbpedia.org/resource/Caister_Castle
-marazion - http://dbpedia.org/resource/Marazion
-lindsay - http://dbpedia.org/resource/John_Lindsay
-manners family - http://dbpedia.org/resource/Duke_of_Rutland
-elsdon - http://dbpedia.org/resource/Elsdon,_Northumberland
-kirtling tower - http://dbpedia.org/resource/Kirtling_Tower
-percy family - http://dbpedia.org/resource/House_of_Percy
-haltwhistle - http://dbpedia.org/resource/Haltwhistle
-uprising - http://dbpedia.org/resource/Rebellion
-mount bures - http://dbpedia.org/resource/Mount_Bures
-john grant - http://dbpedia.org/resource/John_Grant_(author)
-causeway - http://dbpedia.org/resource/Causeway
-totternhoe castle - http://dbpedia.org/resource/Totternhoe_Castle
-colchester castle museum - http://dbpedia.org/resource/Colchester_Castle
-leicestershire - http://dbpedia.org/resource/Leicestershire
-dalton castle - http://dbpedia.org/resource/Dalton_Castle
-julia - http://dbpedia.org/resource/Julia_the_Elder
-rampart - http://dbpedia.org/resource/Defensive_wall
-carlisle - http://dbpedia.org/resource/Carlisle
-bader international study centre - http://dbpedia.org/resource/Herstmonceux_Castle
-batter - http://dbpedia.org/resource/Assault
-scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
-william d'aubigny - http://dbpedia.org/resource/William_d'Aubigny,_1st_Earl_of_Arundel
-royalty - http://dbpedia.org/resource/Monarch
-donnington castle - http://dbpedia.org/resource/Donnington_Castle
-northumberland - http://dbpedia.org/resource/Northumberland
-bamburgh - http://dbpedia.org/resource/Bamburgh_Castle
-william cavendish - http://dbpedia.org/resource/William_Cavendish_(courtier)
-rockingham castle - http://dbpedia.org/resource/Rockingham_Castle
-herstmonceux castle - http://dbpedia.org/resource/Herstmonceux_Castle
-kimbolton - http://dbpedia.org/resource/Duke_of_Manchester
-canterbury - http://dbpedia.org/resource/Canterbury
-troop command - http://dbpedia.org/resource/Troop_command
-crown jewels - http://dbpedia.org/resource/Crown_Jewels_of_the_United_Kingdom
-queenborough castle - http://dbpedia.org/resource/Queenborough
-roman fleet - http://dbpedia.org/resource/Roman_navy
-edward ii - http://dbpedia.org/resource/Edward_III_of_England
-great northern - http://dbpedia.org/resource/Govia_Thameslink_Railway
-lydford castle - http://dbpedia.org/resource/Lydford_Castle
-castle park - http://dbpedia.org/resource/Colchester_Castle
-catholics - http://dbpedia.org/resource/Catholic_Church
-white tower - http://dbpedia.org/resource/Tower_of_London
-longtown - http://dbpedia.org/resource/Longtown,_Cumbria
-norman architecture - http://dbpedia.org/resource/Norman_architecture
-edwardian - http://dbpedia.org/resource/Edward_I_of_England
-constable - http://dbpedia.org/resource/Castellan
-rye castle - http://dbpedia.org/resource/Rye_Castle
-windsor castle - http://dbpedia.org/resource/Windsor_Castle
-river tyne - http://dbpedia.org/resource/River_Tyne
-oakham castle - http://dbpedia.org/resource/Oakham_Castle
-interchange - http://dbpedia.org/resource/Transport_hub
-scaleby - http://dbpedia.org/resource/Scaleby
-early earth - http://dbpedia.org/resource/Early_Earth
-barnard castle - http://dbpedia.org/resource/Barnard_Castle
-victorian - http://dbpedia.org/resource/Victorian_era
-tonbridge - http://dbpedia.org/resource/Tonbridge
-richard fitz gilbert - http://dbpedia.org/resource/Richard_fitz_Gilbert
-river tweed - http://dbpedia.org/resource/River_Tweed
-whittington - http://dbpedia.org/resource/Whittington_Castle
-royal mint - http://dbpedia.org/resource/Royal_Mint
-queen - http://dbpedia.org/resource/Queen_consort
-lady fairhaven - http://dbpedia.org/resource/Urban_H._Broughton
-west country - http://dbpedia.org/resource/West_Country
-open museum - http://dbpedia.org/resource/Open_Museum
-corbeil - http://dbpedia.org/resource/Corbeil-Essonnes
-harold godwinson - http://dbpedia.org/resource/Harold_Godwinson
-okehampton - http://dbpedia.org/resource/Okehampton
-robert dudley - http://dbpedia.org/resource/Bob_Dudley
-henry king - http://dbpedia.org/resource/Henry_King_(director)
-organic - http://dbpedia.org/resource/Organic_farming
-lancashire - http://dbpedia.org/resource/Lancashire
-lancastrian - http://dbpedia.org/resource/House_of_Lancaster
-prince bishops - http://dbpedia.org/resource/Prince-bishop
-vaughan - http://dbpedia.org/resource/Vaughan
-lewes castle - http://dbpedia.org/resource/Lewes_Castle
-soldier - http://dbpedia.org/resource/British_Army
-scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-craster - http://dbpedia.org/resource/Craster
-arundel - http://dbpedia.org/resource/Arundel
-castle moat - http://dbpedia.org/resource/Moat
-moated castle - http://dbpedia.org/resource/Moat
-norfolk central - http://dbpedia.org/resource/Central_Norfolk_(UK_Parliament_constituency)
-missionary - http://dbpedia.org/resource/Christianity
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-batman - http://dbpedia.org/resource/Batman
-legend - http://dbpedia.org/resource/Hagiography
-architectural style - http://dbpedia.org/resource/Architectural_style
-hubert de burgh - http://dbpedia.org/resource/Hubert_de_Burgh,_1st_Earl_of_Kent
-evesham - http://dbpedia.org/resource/Battle_of_Evesham
-north castle - http://dbpedia.org/resource/North_Castle,_New_York
-continuous - http://dbpedia.org/resource/Continuous_wave
-thames - http://dbpedia.org/resource/River_Thames
-king edward iii - http://dbpedia.org/resource/Edward_III_of_England
-restormel castle - http://dbpedia.org/resource/Restormel_Castle
-courthouse - http://dbpedia.org/resource/Courthouse
-humphry wakefield - http://dbpedia.org/resource/Humphry_Wakefield
-clare castle country park - http://dbpedia.org/resource/Clare_Castle_Country_Park
-george naylor - http://dbpedia.org/resource/George_Naylor
-monument - http://dbpedia.org/resource/Funerary_art
-clitheroe - http://dbpedia.org/resource/Clitheroe
-devon - http://dbpedia.org/resource/Devon
-century square - http://dbpedia.org/resource/Century_Square,_Singapore
-rebellion - http://dbpedia.org/resource/Monmouth_Rebellion
-tower house - http://dbpedia.org/resource/Tower_house
-corfe - http://dbpedia.org/resource/Corfe_Castle
-oxford castle - http://dbpedia.org/resource/Oxford_Castle
-chillingham - http://dbpedia.org/resource/Chillingham_Castle
-royalist - http://dbpedia.org/resource/Cavalier
-ranulf de blondeville - http://dbpedia.org/resource/Ranulf_de_Blondeville,_6th_Earl_of_Chester
-swein - http://dbpedia.org/resource/Sweyn_Asleifsson
-arrowhead - http://dbpedia.org/resource/Arrowhead
-oswin - http://dbpedia.org/resource/Oswine_of_Deira
-hurst castle - http://dbpedia.org/resource/Hurst_Castle
-leeds castle - http://dbpedia.org/resource/Leeds_Castle
-fort - http://dbpedia.org/resource/Castra
-biggleswade - http://dbpedia.org/resource/Biggleswade
-wedge - http://dbpedia.org/resource/Tornado
-red hair - http://dbpedia.org/resource/Red_hair
-castle house - http://dbpedia.org/resource/Sheffield_Co-operative_Society
-aerial photography - http://dbpedia.org/resource/Aerial_photography
-southampton water - http://dbpedia.org/resource/Southampton_Water
-appleby - http://dbpedia.org/resource/Appleby_Castle
-behead - http://dbpedia.org/resource/Decapitation
-antony bek - http://dbpedia.org/resource/Antony_Bek_(bishop_of_Durham)
-castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
-west okement river - http://dbpedia.org/resource/West_Okement_River
-haughey - http://dbpedia.org/resource/Charles_Haughey
-assize - http://dbpedia.org/resource/Assizes
-bramber - http://dbpedia.org/resource/Bramber
-king james iv - http://dbpedia.org/resource/James_IV_of_Scotland
-lord barnard - http://dbpedia.org/resource/Baron_Barnard
-loop - http://dbpedia.org/resource/Ring_road
-motte castle - http://dbpedia.org/resource/Motte-and-bailey_castle
-trent - http://dbpedia.org/resource/River_Trent
-aydon - http://dbpedia.org/resource/Aydon
-arthur - http://dbpedia.org/resource/King_Arthur
-greystoke castle - http://dbpedia.org/resource/Greystoke_Castle
-ribble valley - http://dbpedia.org/resource/River_Ribble
-ashby de la zouch - http://dbpedia.org/resource/Ashby_de_la_Zouch
-footpath - http://dbpedia.org/resource/Long-distance_trail
-thirlwall castle - http://dbpedia.org/resource/Thirlwall_Castle
-river exe - http://dbpedia.org/resource/River_Exe
-dartmouth - http://dbpedia.org/resource/Dartmouth_College
-english army - http://dbpedia.org/resource/English_Army
-yarmouth - http://dbpedia.org/resource/Great_Yarmouth
-duke wellington - http://dbpedia.org/resource/Arthur_Wellesley,_1st_Duke_of_Wellington
-de lacy - http://dbpedia.org/resource/De_Lacy
-black death - http://dbpedia.org/resource/Black_Death
-short sea - http://dbpedia.org/resource/Short-sea_shipping
-greater london - http://dbpedia.org/resource/Kent
-sandal castle - http://dbpedia.org/resource/Sandal_Castle
-courtyard castle - http://dbpedia.org/resource/Quadrangular_castle
-henry iv - http://dbpedia.org/resource/Henry_IV_of_England
-peveril castle - http://dbpedia.org/resource/Peveril_Castle
-shrewsbury - http://dbpedia.org/resource/Shrewsbury
-blanche - http://dbpedia.org/resource/Blanche_of_Castile
-hyde - http://dbpedia.org/resource/Hyde_(musician)
-ludlow - http://dbpedia.org/resource/Ludlow
-nigel d'aubigny - http://dbpedia.org/resource/Nigel_d'Aubigny
-wigmore castle - http://dbpedia.org/resource/Wigmore_Castle
-mont st michel - http://dbpedia.org/resource/Mont-Saint-Michel
-tonbridge castle - http://dbpedia.org/resource/Tonbridge_Castle
-conference centre - http://dbpedia.org/resource/Convention_center
-slighting - http://dbpedia.org/resource/Slighting
-medieval period - http://dbpedia.org/resource/Middle_Ages
-halfway river - http://dbpedia.org/resource/Halfway_River
-oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-roger de montgomery - http://dbpedia.org/resource/Roger_de_Montgomery
-treasurer - http://dbpedia.org/resource/Lord_High_Treasurer
-herefordshire - http://dbpedia.org/resource/Herefordshire
-bolsover castle - http://dbpedia.org/resource/Bolsover_Castle
-christchurch - http://dbpedia.org/resource/Christchurch
-brinklow - http://dbpedia.org/resource/Brinklow
-lawyer - http://dbpedia.org/resource/Barrister
-prudhoe castle - http://dbpedia.org/resource/Prudhoe_Castle
-castle guard - http://dbpedia.org/resource/Castle-guard
-norwich castle - http://dbpedia.org/resource/Norwich_Castle
-warwickshire - http://dbpedia.org/resource/Warwickshire
-freeview - http://dbpedia.org/resource/Freeview_(UK)
-oxfordshire county council - http://dbpedia.org/resource/Oxfordshire_County_Council
-abbot - http://dbpedia.org/resource/Abbot
-cinque ports - http://dbpedia.org/resource/Cinque_Ports
-mural - http://dbpedia.org/resource/Mural
-henry vii - http://dbpedia.org/resource/Henry_VIII_of_England
-law - http://dbpedia.org/resource/English_law
-love - http://dbpedia.org/resource/Love
-lincolnshire county council - http://dbpedia.org/resource/Lincolnshire
-warlord - http://dbpedia.org/resource/Warlord
-king edward ii - http://dbpedia.org/resource/Edward_II_of_England
-railway station - http://dbpedia.org/resource/Train_station
-edward kerrison - http://dbpedia.org/resource/Sir_Edward_Kerrison,_1st_Baronet
-de clare - http://dbpedia.org/resource/De_Clare
-tutbury - http://dbpedia.org/resource/Tutbury_Castle
-elsdon castle - http://dbpedia.org/resource/Elsdon_Castle
-berkhamsted castle - http://dbpedia.org/resource/Berkhamsted_Castle
-st thomas becket - http://dbpedia.org/resource/Thomas_Becket
-decay - http://dbpedia.org/resource/Urban_decay
-village - http://dbpedia.org/resource/Village
-bastion - http://dbpedia.org/resource/Bastion
-william de meschines - http://dbpedia.org/resource/William_Meschin
-defence - http://dbpedia.org/resource/Military
-roman fort - http://dbpedia.org/resource/Roman_Britain
-manor house - http://dbpedia.org/resource/Manorialism
-cartington - http://dbpedia.org/resource/Cartington
-mount - http://dbpedia.org/resource/Mountain
-river wye - http://dbpedia.org/resource/River_Wye
-single - http://dbpedia.org/resource/Phonograph_record
-stand tall - http://dbpedia.org/resource/Stand_Tall_(song)
-corfe castle - http://dbpedia.org/resource/Corfe_Castle
-heyday - http://dbpedia.org/resource/Heyday_Records
-saxons - http://dbpedia.org/resource/Anglo-Saxons
-heraldic device - http://dbpedia.org/resource/Coat_of_arms
-verterae - http://dbpedia.org/resource/Verterae
-furness - http://dbpedia.org/resource/Furness
-morpeth - http://dbpedia.org/resource/Morpeth_railway_station
-region - http://dbpedia.org/resource/Regions_of_England
-invasion - http://dbpedia.org/resource/Operation_Sea_Lion
-cannon - http://dbpedia.org/resource/Cannon
-sussex - http://dbpedia.org/resource/Sussex
-catholicism - http://dbpedia.org/resource/Catholic_Church
-lord lovel - http://dbpedia.org/resource/Lord_Lovel
-benedictine - http://dbpedia.org/resource/Benedictines
-engineer - http://dbpedia.org/resource/Civil_engineer
-richard plantagenet - http://dbpedia.org/resource/Richard_I_of_England
-east sussex - http://dbpedia.org/resource/East_Sussex
-rabbit warren - http://dbpedia.org/resource/Warren
-human - http://dbpedia.org/resource/Human
-berkeley castle - http://dbpedia.org/resource/Berkeley_Castle
-eynsford castle - http://dbpedia.org/resource/Eynsford_Castle
-caister - http://dbpedia.org/resource/Caister-on-Sea
-crenellated - http://dbpedia.org/resource/Battlement
-helmsley - http://dbpedia.org/resource/Helmsley
-norman - http://dbpedia.org/resource/Norman_conquest_of_England
-divorce - http://dbpedia.org/resource/Divorce
-device fort - http://dbpedia.org/resource/Device_Forts
-sarum - http://dbpedia.org/resource/Salisbury
-baron hastings - http://dbpedia.org/resource/Baron_Hastings
-buckinghamshire - http://dbpedia.org/resource/Buckinghamshire
-leaf - http://dbpedia.org/resource/Gold_leaf
-holt - http://dbpedia.org/resource/Woodland
-naworth castle - http://dbpedia.org/resource/Naworth_Castle
-edward - http://dbpedia.org/resource/Edward_I_of_England
-sir john wenlock - http://dbpedia.org/resource/John_Wenlock,_1st_Baron_Wenlock
-fair rosamund - http://dbpedia.org/resource/Rosamund_Clifford
-rural community - http://dbpedia.org/resource/Administrative_divisions_of_Armenia
-revolt - http://dbpedia.org/resource/Rebellion
-kinnersley castle - http://dbpedia.org/resource/Kinnersley_Castle
-anarchy - http://dbpedia.org/resource/The_Anarchy
-roger bigod - http://dbpedia.org/resource/Roger_Bigod_of_Norfolk
-ross - http://dbpedia.org/resource/Ross-shire
-surrey - http://dbpedia.org/resource/Surrey
-recycling - http://dbpedia.org/resource/Recycling
-rayleigh - http://dbpedia.org/resource/Rayleigh_(unit)
-aragon - http://dbpedia.org/resource/Kingdom_of_Aragon
-elizabethan style - http://dbpedia.org/resource/Elizabethan_architecture
-lincolnshire - http://dbpedia.org/resource/Lincolnshire
-landmark trust - http://dbpedia.org/resource/Landmark_Trust
-noble - http://dbpedia.org/resource/Nobility
-clun - http://dbpedia.org/resource/Clun
-treason - http://dbpedia.org/resource/Treason
-cornwall - http://dbpedia.org/resource/Cornwall
-london road - http://dbpedia.org/resource/Manchester_Piccadilly_station
-orford - http://dbpedia.org/resource/Orford_Castle
-somerset - http://dbpedia.org/resource/Somerset
-river lune - http://dbpedia.org/resource/River_Lune
-en suite - http://dbpedia.org/resource/Bathroom
-henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
-benedictine monk - http://dbpedia.org/resource/Benedictines
-knaresborough - http://dbpedia.org/resource/Knaresborough
-east anglia - http://dbpedia.org/resource/East_Anglia
-battlement - http://dbpedia.org/resource/Battlement
-die - http://dbpedia.org/resource/Death
-pickering - http://dbpedia.org/resource/Pickering_railway_station
-elizabeth castle - http://dbpedia.org/resource/Elizabeth_Castle
-offa - http://dbpedia.org/resource/Offa_of_Mercia
-henry de percy - http://dbpedia.org/resource/Henry_Percy,_1st_Baron_Percy
-deddington castle - http://dbpedia.org/resource/Deddington_Castle
-monitor - http://dbpedia.org/resource/Computer_monitor
-viking - http://dbpedia.org/resource/Vikings
-earl - http://dbpedia.org/resource/Earl
-mistress - http://dbpedia.org/resource/Concubinage
-nevill family - http://dbpedia.org/resource/House_of_Neville
-bewcastle castle - http://dbpedia.org/resource/Bewcastle_Castle
-raby castle - http://dbpedia.org/resource/Raby_Castle
-longchamps - http://dbpedia.org/resource/Longchamp_Racecourse
-hampshire county council - http://dbpedia.org/resource/Hampshire
-agricola - http://dbpedia.org/resource/Gnaeus_Julius_Agricola
-upland - http://dbpedia.org/resource/Highland
-leicester - http://dbpedia.org/resource/Earl_of_Leicester
-medieval - http://dbpedia.org/resource/Middle_Ages
-river waveney - http://dbpedia.org/resource/River_Waveney
-tyne - http://dbpedia.org/resource/River_Tyne
-bolingbroke castle - http://dbpedia.org/resource/Bolingbroke_Castle
-halton - http://dbpedia.org/resource/Borough_of_Halton
-river avon - http://dbpedia.org/resource/Avon_Water
-drogo - http://dbpedia.org/resource/Drogo_of_Hauteville
-morpeth castle - http://dbpedia.org/resource/Morpeth_Castle
-richard iii - http://dbpedia.org/resource/Richard_III_of_England
-building material - http://dbpedia.org/resource/Building_material
-river fowey - http://dbpedia.org/resource/River_Fowey
-portland castle - http://dbpedia.org/resource/Portland_Castle
-cambridgeshire - http://dbpedia.org/resource/Cambridgeshire
-john ii - http://dbpedia.org/resource/John_II_of_France
-roger de poitou - http://dbpedia.org/resource/Roger_the_Poitevin
-bolingbroke - http://dbpedia.org/resource/Henry_IV_of_England
-thomas telford - http://dbpedia.org/resource/Thomas_Telford
-durham castle - http://dbpedia.org/resource/Durham_Castle
-fortress - http://dbpedia.org/resource/Castle
-neville family - http://dbpedia.org/resource/House_of_Neville
-river coquet - http://dbpedia.org/resource/River_Coquet
-scottish army - http://dbpedia.org/resource/Scots_Army
-henry tudor - http://dbpedia.org/resource/Henry_VIII_of_England
-north england - http://dbpedia.org/resource/Northern_England
-belsay - http://dbpedia.org/resource/Belsay
-bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
-eden valley - http://dbpedia.org/resource/Eden_Valley_Railway
-resistance - http://dbpedia.org/resource/French_Resistance
-stone castle - http://dbpedia.org/resource/Stone_Castle
-monasteries - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
-king henry vii - http://dbpedia.org/resource/Henry_VII_of_England
-sir henry vane - http://dbpedia.org/resource/Henry_Vane_the_Younger
-outhgill - http://dbpedia.org/resource/Outhgill
-dalton - http://dbpedia.org/resource/Atomic_mass_unit
-catherine parr - http://dbpedia.org/resource/Catherine_Parr
-saxon shore - http://dbpedia.org/resource/Saxon_Shore
-buckden - http://dbpedia.org/resource/Buckden_railway_station
-william peveril - http://dbpedia.org/resource/William_Peverel
-peel tower - http://dbpedia.org/resource/Peel_tower
-wwii - http://dbpedia.org/resource/World_War_II
-castle howe - http://dbpedia.org/resource/Castle_Howe
-mark watson - http://dbpedia.org/resource/Mark_Watson
-thomas lancaster - http://dbpedia.org/resource/Thomas_Lancaster
-ilbert de lacy - http://dbpedia.org/resource/De_Lacy
-wigmore - http://dbpedia.org/resource/Wigmore_Castle
-chamber - http://dbpedia.org/resource/Debate_chamber
-king stephen - http://dbpedia.org/resource/Stephen_I_of_Hungary
-hertfordshire - http://dbpedia.org/resource/Hertfordshire
-spanish armada - http://dbpedia.org/resource/Spanish_Armada
-hill fort - http://dbpedia.org/resource/Hillfort
-wood - http://dbpedia.org/resource/Woodland
-castle rising - http://dbpedia.org/resource/Castle_Rising
-priest - http://dbpedia.org/resource/Clergy
-carisbrooke - http://dbpedia.org/resource/Carisbrooke_Castle
-wiltshire - http://dbpedia.org/resource/Wiltshire
-heavy action - http://dbpedia.org/resource/Heavy_Action
-great tower - http://dbpedia.org/resource/Keep
-berkhamsted - http://dbpedia.org/resource/Berkhamsted
-river eamont - http://dbpedia.org/resource/River_Eamont
-hugh de lacy - http://dbpedia.org/resource/De_Lacy
-general leslie - http://dbpedia.org/resource/David_Leslie,_1st_Lord_Newark
-torture chamber - http://dbpedia.org/resource/Torture_chamber
-moral - http://dbpedia.org/resource/Morality
-middle ages - http://dbpedia.org/resource/Middle_Ages
-garrison - http://dbpedia.org/resource/Garrison
-stowey - http://dbpedia.org/resource/Over_Stowey
-tapestry - http://dbpedia.org/resource/Tapestry
-chalgrave castle - http://dbpedia.org/resource/Chalgrave_Castle
-farmhouse - http://dbpedia.org/resource/Farmhouse
-kendal - http://dbpedia.org/resource/Kendal
-wight - http://dbpedia.org/resource/Wight
-harbour - http://dbpedia.org/resource/Harbor
-white lady - http://dbpedia.org/resource/White_Lady_(ghost)
-sack - http://dbpedia.org/resource/Looting
-halton castle - http://dbpedia.org/resource/Halton_Castle
-kimbolton castle - http://dbpedia.org/resource/Kimbolton_Castle
-sir john bankes - http://dbpedia.org/resource/John_Bankes
+nunney - http://dbpedia.org/resource/Nunney
+clitheroe castle - http://dbpedia.org/resource/Clitheroe_Castle
+somerton castle - http://dbpedia.org/resource/Somerton_Castle
 bywell - http://dbpedia.org/resource/Bywell
-sheep - http://dbpedia.org/resource/Sheep
-scrope - http://dbpedia.org/resource/Scrope
-settlement - http://dbpedia.org/resource/Town
-south lakeland - http://dbpedia.org/resource/South_Lakeland
-coastal fortress - http://dbpedia.org/resource/Coastal_defence_and_fortification
-thomas becket - http://dbpedia.org/resource/Thomas_Becket
-civil war - http://dbpedia.org/resource/English_Civil_War
-cornish - http://dbpedia.org/resource/Cornwall
-clophill - http://dbpedia.org/resource/Clophill
-norham - http://dbpedia.org/resource/Norham_Castle
-framlingham - http://dbpedia.org/resource/Framlingham
-river calder - http://dbpedia.org/resource/Aire_and_Calder_Navigation
-hadrian - http://dbpedia.org/resource/Hadrian
-bywell castle - http://dbpedia.org/resource/Bywell_Castle
-ludlow castle - http://dbpedia.org/resource/Ludlow_Castle
-water - http://dbpedia.org/resource/Water_supply
-apartment building - http://dbpedia.org/resource/Apartment
-investment - http://dbpedia.org/resource/Investment
-blois - http://dbpedia.org/resource/Blois
-french invasion - http://dbpedia.org/resource/Napoleonic_Wars
-lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-britain - http://dbpedia.org/resource/Roman_Britain
-essex - http://dbpedia.org/resource/Essex
-recycle - http://dbpedia.org/resource/Recycling
-chillingham castle - http://dbpedia.org/resource/Chillingham_Castle
-peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
-richard le scrope - http://dbpedia.org/resource/Richard_Scrope_(cleric)
-upnor - http://dbpedia.org/resource/Upnor
-continent - http://dbpedia.org/resource/Continental_Europe
-gloucestershire - http://dbpedia.org/resource/Gloucestershire
-queen matilda - http://dbpedia.org/resource/Matilda_of_Boulogne
-walmer - http://dbpedia.org/resource/Walmer_Castle
-margaret - http://dbpedia.org/resource/Margaret_of_Anjou
-national trust - http://dbpedia.org/resource/National_trust
-hylton family - http://dbpedia.org/resource/Baron_Hylton
-west tower - http://dbpedia.org/resource/West_Tower
-country mansion - http://dbpedia.org/resource/English_country_house
-roman catholic church - http://dbpedia.org/resource/Catholic_Church
-walchelin de ferriers - http://dbpedia.org/resource/Walchelin_de_Ferriers
-bear - http://dbpedia.org/resource/Bear
-westmorland - http://dbpedia.org/resource/Westmorland
-thomas lord - http://dbpedia.org/resource/Thomas_Lord
-lancashire county council - http://dbpedia.org/resource/Lancashire_County_Council
-type design - http://dbpedia.org/resource/Type_certificate
-kendal castle - http://dbpedia.org/resource/Kendal_Castle
-monarch - http://dbpedia.org/resource/Monarch
-deddington - http://dbpedia.org/resource/Deddington
-harbottle castle - http://dbpedia.org/resource/Harbottle_Castle
-gate - http://dbpedia.org/resource/City_gate
-piel island - http://dbpedia.org/resource/Piel_Island
-robert de lacy - http://dbpedia.org/resource/De_Lacy
-pendennis castle - http://dbpedia.org/resource/Pendennis_Castle
-golf - http://dbpedia.org/resource/Golf
-clare castle - http://dbpedia.org/resource/Clare_Castle
-aubrey de vere - http://dbpedia.org/resource/Aubrey_de_Vere_II
-cartington castle - http://dbpedia.org/resource/Cartington_Castle
+century house - http://dbpedia.org/resource/Century_House,_London
+king henry iv - http://dbpedia.org/resource/Henry_IV_of_England
+chester castle - http://dbpedia.org/resource/Chester_Castle
+chamber - http://dbpedia.org/resource/Debate_chamber
+buckingham - http://dbpedia.org/resource/Buckingham
+castle park - http://dbpedia.org/resource/Colchester_Castle
+tintagel - http://dbpedia.org/resource/Tintagel
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+conger - http://dbpedia.org/resource/Conger
+royalists - http://dbpedia.org/resource/Cavalier
+william de meschines - http://dbpedia.org/resource/William_Meschin
+odo - http://dbpedia.org/resource/Odo_of_Bayeux
+stainmore pass - http://dbpedia.org/resource/Stainmore
+cheshire plain - http://dbpedia.org/resource/Cheshire_Plain
+fortalice - http://dbpedia.org/resource/Fortification
+barbican - http://dbpedia.org/resource/Barbican
+sir philip courtenay - http://dbpedia.org/resource/Philip_Courtenay_(died_1463)
+peveril castle - http://dbpedia.org/resource/Peveril_Castle
+harbour - http://dbpedia.org/resource/Harbor
+fat - http://dbpedia.org/resource/Vegetable_oil
+john ii - http://dbpedia.org/resource/John_II_of_France
+sutton valence - http://dbpedia.org/resource/Sutton_Valence
+ransom - http://dbpedia.org/resource/Ransom
 dissolution - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
-irony - http://dbpedia.org/resource/Irony
-maidstone - http://dbpedia.org/resource/Maidstone
-launceston - http://dbpedia.org/resource/Launceston_Castle
+castle rising - http://dbpedia.org/resource/Castle_Rising
+kirtling - http://dbpedia.org/resource/Kirtling
+framlingham castle - http://dbpedia.org/resource/Framlingham_Castle
+gothic house - http://dbpedia.org/resource/Gothic_House
+hereditary - http://dbpedia.org/resource/Hereditary_peer
+gambling - http://dbpedia.org/resource/Gambling
+gun - http://dbpedia.org/resource/Cannon
+horseshoes - http://dbpedia.org/resource/Horseshoes
+lord barnard - http://dbpedia.org/resource/Baron_Barnard
+greystoke castle - http://dbpedia.org/resource/Greystoke_Castle
+resistance - http://dbpedia.org/resource/French_Resistance
+rievaulx abbey - http://dbpedia.org/resource/Rievaulx_Abbey
+tutbury castle - http://dbpedia.org/resource/Tutbury_Castle
+norwich castle - http://dbpedia.org/resource/Norwich_Castle
+cleves - http://dbpedia.org/resource/Duchy_of_Cleves
+farnham castle - http://dbpedia.org/resource/Farnham_Castle
+abbot - http://dbpedia.org/resource/Abbot
+bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+st mawes castle - http://dbpedia.org/resource/St_Mawes_Castle
+henry de blois - http://dbpedia.org/resource/Henry_of_Blois
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+arrowhead - http://dbpedia.org/resource/Arrowhead
+corfe castle - http://dbpedia.org/resource/Corfe_Castle
+robert de romille - http://dbpedia.org/resource/Robert_de_Romille
+jesuit - http://dbpedia.org/resource/Society_of_Jesus
+robert burnell - http://dbpedia.org/resource/Robert_Burnell
+village - http://dbpedia.org/resource/Village
+camber - http://dbpedia.org/resource/Ski
+spanish invasion - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+verterae - http://dbpedia.org/resource/Verterae
+berkeley castle - http://dbpedia.org/resource/Berkeley_Castle
+geoffrey de clinton - http://dbpedia.org/resource/Geoffrey_de_Clinton
+canterbury city council - http://dbpedia.org/resource/City_of_Canterbury
+south lakeland district council - http://dbpedia.org/resource/South_Lakeland
+wardour castle - http://dbpedia.org/resource/Wardour_Castle
+st george - http://dbpedia.org/resource/Saint_George
+youth hostel - http://dbpedia.org/resource/Hostel
+device fort - http://dbpedia.org/resource/Device_Forts
+greenhead - http://dbpedia.org/resource/Greenhead,_Northumberland
+anne boleyn - http://dbpedia.org/resource/Anne_Boleyn
+william de warenne - http://dbpedia.org/resource/William_de_Warenne,_1st_Earl_of_Surrey
+scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+heydon - http://dbpedia.org/resource/Dyson_Heydon
+wye - http://dbpedia.org/resource/Three-phase_electric_power
+heraldic devices - http://dbpedia.org/resource/Heraldry
+lewes - http://dbpedia.org/resource/Lewes
+welland valley - http://dbpedia.org/resource/River_Welland
+north sea - http://dbpedia.org/resource/North_Sea
+normandy - http://dbpedia.org/resource/Normandy
+prince john - http://dbpedia.org/resource/John_III_of_Sweden
+longtown castle - http://dbpedia.org/resource/Longtown_Castle
+arundel castle - http://dbpedia.org/resource/Arundel_Castle
+lighthouse - http://dbpedia.org/resource/Lighthouse
+scrope - http://dbpedia.org/resource/Scrope
+hailsham - http://dbpedia.org/resource/Hailsham
+norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+cumbria - http://dbpedia.org/resource/Cumbria
+civil war years - http://dbpedia.org/resource/Wars_of_the_Three_Kingdoms
+earl - http://dbpedia.org/resource/Earl
+gifted - http://dbpedia.org/resource/Child_prodigy
+enclosure castle - http://dbpedia.org/resource/Enclosure_castle
+chamberlain - http://dbpedia.org/resource/Lord_Chamberlain
+northamptonshire - http://dbpedia.org/resource/Northamptonshire
+jarrow - http://dbpedia.org/resource/Jarrow
+oakham castle - http://dbpedia.org/resource/Oakham_Castle
+fleeces - http://dbpedia.org/resource/Wool
+robert manners - http://dbpedia.org/resource/Robert_Manners_(British_Army_officer,_born_1758)
+craster - http://dbpedia.org/resource/Craster
+river thames - http://dbpedia.org/resource/River_Thames
+epic - http://dbpedia.org/resource/Epic_poetry
+sarum - http://dbpedia.org/resource/Salisbury
+durham castle - http://dbpedia.org/resource/Durham_Castle
+longchamps - http://dbpedia.org/resource/Longchamp_Racecourse
+westenhanger castle - http://dbpedia.org/resource/Westenhanger_Castle
+halfway - http://dbpedia.org/resource/Mosborough_(ward)
+st - http://dbpedia.org/resource/SATB
+warlords - http://dbpedia.org/resource/Daimyō
+wall paintings - http://dbpedia.org/resource/Fresco
+someries castle - http://dbpedia.org/resource/Someries_Castle
+lancashire - http://dbpedia.org/resource/Lancashire
+hurst castle - http://dbpedia.org/resource/Hurst_Castle
+empress maud - http://dbpedia.org/resource/Empress_Matilda
+manor - http://dbpedia.org/resource/Manorialism
+prison - http://dbpedia.org/resource/Prison
+morpeth - http://dbpedia.org/resource/Morpeth_railway_station
+late medieval - http://dbpedia.org/resource/Middle_Ages
+william ii - http://dbpedia.org/resource/William_II_of_England
+monastery - http://dbpedia.org/resource/Abbey
+wakefield - http://dbpedia.org/resource/Wakefield
+local council - http://dbpedia.org/resource/Local_government_in_England
+walmer - http://dbpedia.org/resource/Walmer_Castle
+architectural style - http://dbpedia.org/resource/Architectural_style
+listed - http://dbpedia.org/resource/Listed_building
+winchester castle - http://dbpedia.org/resource/Winchester_Castle
+crenellated - http://dbpedia.org/resource/Battlement
+greater london - http://dbpedia.org/resource/Kent
+sir walter scott - http://dbpedia.org/resource/Walter_Scott
+salisbury - http://dbpedia.org/resource/Salisbury
+dalton castle - http://dbpedia.org/resource/Dalton_Castle
+engineer - http://dbpedia.org/resource/Civil_engineer
+godric - http://dbpedia.org/resource/Godric_of_Finchale
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+westmorland - http://dbpedia.org/resource/Westmorland
+railway station - http://dbpedia.org/resource/Train_station
+eye - http://dbpedia.org/resource/Tropical_cyclone
+medieval period - http://dbpedia.org/resource/Middle_Ages
+toddington castle - http://dbpedia.org/resource/Toddington_Castle
+royal residences - http://dbpedia.org/resource/Palace
+farleigh hungerford castle - http://dbpedia.org/resource/Farleigh_Hungerford_Castle
+leigh - http://dbpedia.org/resource/Leigh-on-Sea
+kinnersley - http://dbpedia.org/resource/Kinnersley
+organic - http://dbpedia.org/resource/Organic_farming
+york - http://dbpedia.org/resource/York
+runs - http://dbpedia.org/resource/Glossary_of_cricket_terms
+early medieval - http://dbpedia.org/resource/Early_Middle_Ages
+east anglia - http://dbpedia.org/resource/East_Anglia
+powderham - http://dbpedia.org/resource/Manor_of_Powderham
+clophill - http://dbpedia.org/resource/Clophill
+east sussex - http://dbpedia.org/resource/East_Sussex
+bolsover castle - http://dbpedia.org/resource/Bolsover_Castle
+ranulph de meschines - http://dbpedia.org/resource/Ranulf_le_Meschin,_3rd_Earl_of_Chester
+stairs - http://dbpedia.org/resource/Stairs
+claretian - http://dbpedia.org/resource/Claretians
+domesday survey - http://dbpedia.org/resource/Domesday_Book
+queen matilda - http://dbpedia.org/resource/Matilda_of_Boulogne
+caister - http://dbpedia.org/resource/Caister-on-Sea
+grizzly - http://dbpedia.org/resource/Grizzly_bear
+courtyard - http://dbpedia.org/resource/Church_architecture
+edward - http://dbpedia.org/resource/Edward_I_of_England
+essex - http://dbpedia.org/resource/Essex
+helmsley castle - http://dbpedia.org/resource/Helmsley_Castle
+ford - http://dbpedia.org/resource/Ford_Motor_Company
+cheshire - http://dbpedia.org/resource/Cheshire
+askerton castle - http://dbpedia.org/resource/Askerton_Castle
+scaleby - http://dbpedia.org/resource/Scaleby
+aubrey de vere - http://dbpedia.org/resource/Aubrey_de_Vere_I
+parr - http://dbpedia.org/resource/Salmon
+portland stone - http://dbpedia.org/resource/Portland_stone
+conisbrough - http://dbpedia.org/resource/Conisbrough
+swein - http://dbpedia.org/resource/Svein_Knutsson
+st. michaels - http://dbpedia.org/resource/Saint_Michaels,_Maryland
+wiltshire - http://dbpedia.org/resource/Wiltshire
+batman - http://dbpedia.org/resource/Batman
+richard fitz gilbert - http://dbpedia.org/resource/Richard_fitz_Gilbert
+norman times - http://dbpedia.org/resource/Norman_conquest_of_England
+earldom - http://dbpedia.org/resource/Earl_of_Pembroke
+bayeux - http://dbpedia.org/resource/Bayeux
+humphry wakefield - http://dbpedia.org/resource/Humphry_Wakefield
+penrith - http://dbpedia.org/resource/Penrith_Panthers
+wwii - http://dbpedia.org/resource/World_War_II
+thames estuary - http://dbpedia.org/resource/River_Thames
+erosion - http://dbpedia.org/resource/Coastal_erosion
+pevensey - http://dbpedia.org/resource/Pevensey
+manager - http://dbpedia.org/resource/Talent_manager
+powderham castle - http://dbpedia.org/resource/Powderham_Castle
+skipsea - http://dbpedia.org/resource/Skipsea
+tamworth castle - http://dbpedia.org/resource/Tamworth_Castle
+chillingham castle - http://dbpedia.org/resource/Chillingham_Castle
+william knight - http://dbpedia.org/resource/William_Angus_Knight
+newcastle city council - http://dbpedia.org/resource/Newcastle_upon_Tyne
+bamburgh castle - http://dbpedia.org/resource/Bamburgh_Castle
+portsmouth - http://dbpedia.org/resource/Portsmouth
+earthworks - http://dbpedia.org/resource/Siege
+bolingbroke castle - http://dbpedia.org/resource/Bolingbroke_Castle
+stainforth - http://dbpedia.org/resource/George_Stainforth
+spanish armada - http://dbpedia.org/resource/Spanish_Armada
+margaret - http://dbpedia.org/resource/Margaret_of_Anjou
+devizes castle - http://dbpedia.org/resource/Devizes_Castle
+witchfinder general - http://dbpedia.org/resource/Matthew_Hopkins
+caius - http://dbpedia.org/resource/John_Caius
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
+ludgershall castle - http://dbpedia.org/resource/Ludgershall_Castle
+early norman - http://dbpedia.org/resource/Norman_architecture
+dean - http://dbpedia.org/resource/Dean_of_York
+sherborne - http://dbpedia.org/resource/Bishop_of_Salisbury
+skipton castle - http://dbpedia.org/resource/Skipton_Castle
+fortified tower - http://dbpedia.org/resource/Fortified_tower
+bedford castle - http://dbpedia.org/resource/Bedford_Castle
+rural community - http://dbpedia.org/resource/Administrative_divisions_of_Armenia
+buckden - http://dbpedia.org/resource/Buckden_railway_station
+bedford - http://dbpedia.org/resource/Bedford_Vehicles
+peak castle - http://dbpedia.org/resource/Peveril_Castle
+beheaded - http://dbpedia.org/resource/John_the_Baptist
+lincolnshire - http://dbpedia.org/resource/Lincolnshire
+solent - http://dbpedia.org/resource/Solent
+spofforth - http://dbpedia.org/resource/Fred_Spofforth
+oswin - http://dbpedia.org/resource/Oswine_of_Deira
+roger vaughan - http://dbpedia.org/resource/Roger_Vaughan
+corbeil - http://dbpedia.org/resource/Corbeil-Essonnes
+governance - http://dbpedia.org/resource/Government
+royal apartments - http://dbpedia.org/resource/Palazzo_Pitti
+parliamentary - http://dbpedia.org/resource/Roundhead
+cockermouth castle - http://dbpedia.org/resource/Cockermouth
+wedding breakfast - http://dbpedia.org/resource/Wedding_breakfast
+chalgrave castle - http://dbpedia.org/resource/Chalgrave_Castle
+watling street - http://dbpedia.org/resource/Watling_Street
+causeway - http://dbpedia.org/resource/Causeway
+hedingham castle - http://dbpedia.org/resource/Hedingham_Castle
+vaughan - http://dbpedia.org/resource/Vaughan
+ludgershall - http://dbpedia.org/resource/Ludgershall_(UK_Parliament_constituency)
+civil war - http://dbpedia.org/resource/English_Civil_War
+tutbury - http://dbpedia.org/resource/Tutbury_Castle
+prudhoe castle - http://dbpedia.org/resource/Prudhoe_Castle
+black death - http://dbpedia.org/resource/Black_Death
+thetford - http://dbpedia.org/resource/Thetford
+roman fortress - http://dbpedia.org/resource/Castra
+trent - http://dbpedia.org/resource/River_Trent
+buckinghamshire - http://dbpedia.org/resource/Buckinghamshire
+de vere family - http://dbpedia.org/resource/De_Vere_family
+fort - http://dbpedia.org/resource/Castra
+parliamentary forces - http://dbpedia.org/resource/Roundhead
+thurleigh - http://dbpedia.org/resource/Thurleigh
+summit - http://dbpedia.org/resource/Mountain
+country house - http://dbpedia.org/resource/English_country_house
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+thomas lord - http://dbpedia.org/resource/Thomas_Lord
+northumberland - http://dbpedia.org/resource/Northumberland
+bedfordshire - http://dbpedia.org/resource/Bedfordshire
+montgomery - http://dbpedia.org/resource/Bernard_Montgomery
+launceston castle - http://dbpedia.org/resource/Launceston_Castle
+howard family - http://dbpedia.org/resource/House_of_Howard
+clare - http://dbpedia.org/resource/County_Clare
+richard le scrope - http://dbpedia.org/resource/Richard_Scrope_(cleric)
+prince bishops - http://dbpedia.org/resource/Prince-bishop
+rutland county council - http://dbpedia.org/resource/Rutland_County_Council
+pevensey castle - http://dbpedia.org/resource/Pevensey_Castle
+penrith castle - http://dbpedia.org/resource/Penrith_Castle
+percy family - http://dbpedia.org/resource/House_of_Percy
+roman - http://dbpedia.org/resource/Roman_Empire
+hungerford - http://dbpedia.org/resource/Hungerford
+unsettled - http://dbpedia.org/resource/Unsettled
+dene - http://dbpedia.org/resource/Dene_(valley)
+kirkoswald castle - http://dbpedia.org/resource/Kirkoswald_Castle
+river avon - http://dbpedia.org/resource/Avon_Water
+blockhouse - http://dbpedia.org/resource/Blockhouse
+mayor - http://dbpedia.org/resource/Mayor
+victorian era - http://dbpedia.org/resource/Victorian_era
+invasion - http://dbpedia.org/resource/Operation_Sea_Lion
+baron hastings - http://dbpedia.org/resource/Baron_Hastings
+london road - http://dbpedia.org/resource/Manchester_Piccadilly_station
+haltwhistle - http://dbpedia.org/resource/Haltwhistle
+northern england - http://dbpedia.org/resource/Kingdom_of_Northumbria
+crown courts - http://dbpedia.org/resource/Crown_Court
+mark watson - http://dbpedia.org/resource/Mark_Watson
+garrison - http://dbpedia.org/resource/Garrison
+aerial photography - http://dbpedia.org/resource/Aerial_photography
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+hilton family - http://dbpedia.org/resource/Hilton_family
+kimbolton school - http://dbpedia.org/resource/Kimbolton_School
+city walls - http://dbpedia.org/resource/Defensive_wall
+slope - http://dbpedia.org/resource/Slope
+corruption - http://dbpedia.org/resource/Corruption
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+moat - http://dbpedia.org/resource/Moat
+hartshill - http://dbpedia.org/resource/Hartshill
+mortimer family - http://dbpedia.org/resource/Mortimer
+bolsover - http://dbpedia.org/resource/Bolsover_Castle
+ravenglass - http://dbpedia.org/resource/Ravenglass
+rye - http://dbpedia.org/resource/Rye
+shrewsbury - http://dbpedia.org/resource/Shrewsbury
+king edward iii - http://dbpedia.org/resource/Edward_III_of_England
+catherine parr - http://dbpedia.org/resource/Catherine_Parr
+eleanor - http://dbpedia.org/resource/Eleanor_of_Aquitaine
+medway - http://dbpedia.org/resource/River_Medway
+skipsea castle - http://dbpedia.org/resource/Skipsea_Castle
+tynemouth castle - http://dbpedia.org/resource/Tynemouth_Castle_and_Priory
+bolton castle - http://dbpedia.org/resource/Bolton_Castle
+command hq - http://dbpedia.org/resource/Headquarters
+haunted - http://dbpedia.org/resource/Ghost
+treasurer - http://dbpedia.org/resource/Lord_High_Treasurer
+yorkshire - http://dbpedia.org/resource/Yorkshire
+country mansion - http://dbpedia.org/resource/English_country_house
+thomas de criol - http://dbpedia.org/resource/Sir_Thomas_Kyriell
+plague - http://dbpedia.org/resource/Black_Death
+muncaster castle - http://dbpedia.org/resource/Muncaster_Castle
+tamworth - http://dbpedia.org/resource/Tamworth_F.C.
 matthew hopkins - http://dbpedia.org/resource/Matthew_Hopkins
-richard neville - http://dbpedia.org/resource/Richard_Neville,_16th_Earl_of_Warwick
+walter espec - http://dbpedia.org/resource/Walter_Espec
+tonbridge - http://dbpedia.org/resource/Tonbridge
+kirtling tower - http://dbpedia.org/resource/Kirtling_Tower
+knaresborough - http://dbpedia.org/resource/Knaresborough
+roger de montgomery - http://dbpedia.org/resource/Roger_de_Montgomery
+freeview - http://dbpedia.org/resource/Freeview_(UK)
+restormel - http://dbpedia.org/resource/Restormel_Castle
+middleham castle - http://dbpedia.org/resource/Middleham_Castle
+marazion - http://dbpedia.org/resource/Marazion
+defence - http://dbpedia.org/resource/Military
+caister castle - http://dbpedia.org/resource/Caister_Castle
+silting - http://dbpedia.org/resource/Silt
+mount bures - http://dbpedia.org/resource/Mount_Bures
+moral - http://dbpedia.org/resource/Morality
+hedingham - http://dbpedia.org/resource/Castle_Hedingham
+viking raids - http://dbpedia.org/resource/Lindisfarne
+coast - http://dbpedia.org/resource/Coast
+piel - http://dbpedia.org/resource/Piel_Island
+john edward - http://dbpedia.org/resource/John_Edward
+mound - http://dbpedia.org/resource/Tumulus
+piel castle - http://dbpedia.org/resource/Piel_Castle
+roger de caen - http://dbpedia.org/resource/Roger_of_Salisbury
+edmund talbot - http://dbpedia.org/resource/Edmund_FitzAlan-Howard,_1st_Viscount_FitzAlan_of_Derwent
+orford - http://dbpedia.org/resource/Orford_Castle
+sir thomas hungerford - http://dbpedia.org/resource/Thomas_Hungerford_of_Rowden
+king harold ii - http://dbpedia.org/resource/Harold_Godwinson
+brick - http://dbpedia.org/resource/Brick
+southampton water - http://dbpedia.org/resource/Southampton_Water
+thames - http://dbpedia.org/resource/River_Thames
+white lady - http://dbpedia.org/resource/White_Lady_(ghost)
+hever castle - http://dbpedia.org/resource/Hever_Castle
+piel island - http://dbpedia.org/resource/Piel_Island
+roman fleet - http://dbpedia.org/resource/Roman_navy
+appleby castle - http://dbpedia.org/resource/Appleby_Castle
+furness abbey - http://dbpedia.org/resource/Furness_Abbey
+castle motte - http://dbpedia.org/resource/Motte-and-bailey_castle
+william de forz - http://dbpedia.org/resource/William_de_Forz,_3rd_Earl_of_Albemarle
+bastion - http://dbpedia.org/resource/Bastion
+dartmouth castle - http://dbpedia.org/resource/Dartmouth_Castle
+knights - http://dbpedia.org/resource/Knights_Hospitaller
+bolingbroke - http://dbpedia.org/resource/Henry_IV_of_England
+knaresborough castle - http://dbpedia.org/resource/Knaresborough_Castle
+berkeley - http://dbpedia.org/resource/Berkeley_family
+gaol - http://dbpedia.org/resource/Prison
+canterbury - http://dbpedia.org/resource/Canterbury
+weymouth - http://dbpedia.org/resource/Weymouth_F.C.
+white tower - http://dbpedia.org/resource/Tower_of_London
+corfe - http://dbpedia.org/resource/Corfe_Castle
+richard ii - http://dbpedia.org/resource/Richard_II_of_England
+berwick - http://dbpedia.org/resource/Berwick-upon-Tweed
+norham castle - http://dbpedia.org/resource/Norham_Castle
+shropshire council - http://dbpedia.org/resource/Shropshire_Council
+henry iii - http://dbpedia.org/resource/Henry_III_of_England
+evesham - http://dbpedia.org/resource/Battle_of_Evesham
+recycling - http://dbpedia.org/resource/Recycling
+clun - http://dbpedia.org/resource/Clun
+revolt - http://dbpedia.org/resource/Rebellion
+anchor - http://dbpedia.org/resource/Anchor
+richard duke - http://dbpedia.org/resource/Richard_Duke
+hadleigh castle - http://dbpedia.org/resource/Hadleigh_Castle
+drogo - http://dbpedia.org/resource/Drogo_of_Hauteville
+hastings castle - http://dbpedia.org/resource/Hastings_Castle
+gloucester - http://dbpedia.org/resource/Gloucester
+sir hugh de morville - http://dbpedia.org/resource/Hugh_de_Morville,_Lord_of_Westmorland
+earthwork - http://dbpedia.org/resource/Fortification
+shropshire - http://dbpedia.org/resource/Shropshire
+key route - http://dbpedia.org/resource/Key_System
+bamburgh - http://dbpedia.org/resource/Bamburgh_Castle
+flint - http://dbpedia.org/resource/Flint
+arthur - http://dbpedia.org/resource/King_Arthur
+mansion - http://dbpedia.org/resource/English_country_house
+waste - http://dbpedia.org/resource/Waste
+general leslie - http://dbpedia.org/resource/David_Leslie,_1st_Lord_Newark
+ivanhoe - http://dbpedia.org/resource/Ivanhoe
+century roman - http://dbpedia.org/resource/Century_type_family
+lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+uprising - http://dbpedia.org/resource/Rebellion
+kendal castle - http://dbpedia.org/resource/Kendal_Castle
+howard - http://dbpedia.org/resource/House_of_Howard
+ramparts - http://dbpedia.org/resource/Defensive_wall
+baron - http://dbpedia.org/resource/English_feudal_barony
+assizes - http://dbpedia.org/resource/Assizes
+promontory - http://dbpedia.org/resource/Promontory
+windsor - http://dbpedia.org/resource/Windsor_Castle
+acton burnell castle - http://dbpedia.org/resource/Acton_Burnell_Castle
+orford ness - http://dbpedia.org/resource/Orford_Ness
+henry de percy - http://dbpedia.org/resource/Henry_Percy,_1st_Baron_Percy
+crusade - http://dbpedia.org/resource/Crusades
+dacre family - http://dbpedia.org/resource/Baron_Dacre
+paulinus - http://dbpedia.org/resource/Paulinus_of_York
+walchelin de ferriers - http://dbpedia.org/resource/Walchelin_de_Ferriers
+castleton - http://dbpedia.org/resource/Castleton,_Derbyshire
+sunday morning - http://dbpedia.org/resource/CBS_News_Sunday_Morning
+berry pomeroy castle - http://dbpedia.org/resource/Berry_Pomeroy_Castle
+rayleigh - http://dbpedia.org/resource/Rayleigh_(unit)
+gilbert - http://dbpedia.org/resource/Gilbert_(unit)
+castle bailey - http://dbpedia.org/resource/Bailey_(castle)
+estuary - http://dbpedia.org/resource/Thames_Estuary
+continent - http://dbpedia.org/resource/Continental_Europe
+bywell castle - http://dbpedia.org/resource/Bywell_Castle
+elsdon - http://dbpedia.org/resource/Elsdon,_Northumberland
+rosamund clifford - http://dbpedia.org/resource/Rosamund_Clifford
+antony bek - http://dbpedia.org/resource/Antony_Bek_(bishop_of_Durham)
+northern borders - http://dbpedia.org/resource/Northern_Borders
+david - http://dbpedia.org/resource/David_I_of_Scotland
+peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
+skipton - http://dbpedia.org/resource/Skipton
+roman catholic church - http://dbpedia.org/resource/Catholic_Church
+colchester castle museum - http://dbpedia.org/resource/Colchester_Castle
+ilbert de lacy - http://dbpedia.org/resource/De_Lacy
+tintagel castle - http://dbpedia.org/resource/Tintagel_Castle
+furness - http://dbpedia.org/resource/Furness
+herefordshire - http://dbpedia.org/resource/Herefordshire
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+bodiam - http://dbpedia.org/resource/Bodiam
+english heritage - http://dbpedia.org/resource/English_Heritage
+flodden - http://dbpedia.org/resource/Battle_of_Flodden
+arundell family - http://dbpedia.org/resource/Baron_Arundell_of_Wardour
+ypres tower - http://dbpedia.org/resource/Rye_Castle
+latin - http://dbpedia.org/resource/Latin
+suffolk - http://dbpedia.org/resource/Suffolk
+lancastrian - http://dbpedia.org/resource/House_of_Lancaster
+summer - http://dbpedia.org/resource/Midsummer
+lavatrae - http://dbpedia.org/resource/Lavatrae
+church brough - http://dbpedia.org/resource/Brough,_Cumbria
+heavy action - http://dbpedia.org/resource/Heavy_Action
+henry tudor - http://dbpedia.org/resource/Henry_VIII_of_England
+duke william - http://dbpedia.org/resource/William_the_Conqueror
+siege - http://dbpedia.org/resource/Siege
+corby castle - http://dbpedia.org/resource/Corby_Castle
+parliamentary troops - http://dbpedia.org/resource/Roundhead
+mistress - http://dbpedia.org/resource/Concubinage
+crusades - http://dbpedia.org/resource/Crusades
+murals - http://dbpedia.org/resource/Mural
+early earth - http://dbpedia.org/resource/Early_Earth
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+mining - http://dbpedia.org/resource/Coal_mining
+south lakeland - http://dbpedia.org/resource/South_Lakeland
+royal mint - http://dbpedia.org/resource/Royal_Mint
+english parliament - http://dbpedia.org/resource/Parliament_of_England
+wi fi - http://dbpedia.org/resource/Wi-Fi
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+border security - http://dbpedia.org/resource/Border_control
+dart - http://dbpedia.org/resource/Darts
+lady fairhaven - http://dbpedia.org/resource/Urban_H._Broughton
+living quarters - http://dbpedia.org/resource/Living_Quarters
+dyke - http://dbpedia.org/resource/Dry_stone
+dacre - http://dbpedia.org/resource/Baron_Dacre
+earl marshal - http://dbpedia.org/resource/Earl_Marshal
+wight - http://dbpedia.org/resource/Wight
+william de braose - http://dbpedia.org/resource/William_de_Braose,_4th_Lord_of_Bramber
+christmas eve - http://dbpedia.org/resource/Christmas
+warfare - http://dbpedia.org/resource/War
+scotney castle - http://dbpedia.org/resource/Scotney_Castle
+chatham - http://dbpedia.org/resource/Chatham_Dockyard
+hexagonal - http://dbpedia.org/resource/Hexagon
+richmond castle - http://dbpedia.org/resource/Richmond_Castle
+wellington - http://dbpedia.org/resource/Wellington
+scarborough - http://dbpedia.org/resource/Borough_of_Scarborough
+leicester - http://dbpedia.org/resource/Earl_of_Leicester
+queen isabella - http://dbpedia.org/resource/Isabella_of_France
+parliament - http://dbpedia.org/resource/Parliament_of_England
+thomas becket - http://dbpedia.org/resource/Thomas_Becket
+warwick - http://dbpedia.org/resource/Warwick
+king john - http://dbpedia.org/resource/John_II_of_France
+chieftain - http://dbpedia.org/resource/Chiefdom
+saxon shore - http://dbpedia.org/resource/Saxon_Shore
+cinque ports - http://dbpedia.org/resource/Cinque_Ports
+peel tower - http://dbpedia.org/resource/Peel_tower
+wedding - http://dbpedia.org/resource/Wedding
+boothby graffoe - http://dbpedia.org/resource/Boothby_Graffoe
+somerton - http://dbpedia.org/resource/Roxburgh_Park_railway_station
+shell - http://dbpedia.org/resource/Seashell
+berkhamsted - http://dbpedia.org/resource/Berkhamsted
+courtenays - http://dbpedia.org/resource/House_of_Courtenay
+katherine - http://dbpedia.org/resource/Katherine_Swynford
+haughey - http://dbpedia.org/resource/Charles_Haughey
+mitford castle - http://dbpedia.org/resource/Mitford_Castle
+county durham - http://dbpedia.org/resource/County_Durham
+moated castle - http://dbpedia.org/resource/Moat
+southampton - http://dbpedia.org/resource/Southampton
+aydon castle - http://dbpedia.org/resource/Aydon_Castle
+king edward ii - http://dbpedia.org/resource/Edward_II_of_England
+brinklow castle - http://dbpedia.org/resource/Brinklow_Castle
+dorset - http://dbpedia.org/resource/Dorset
+white cliffs - http://dbpedia.org/resource/White_Cliffs_of_Dover
+fotheringhay castle - http://dbpedia.org/resource/Fotheringhay_Castle
+river tamar - http://dbpedia.org/resource/River_Tamar
+manor house - http://dbpedia.org/resource/Manorialism
+deep water harbour - http://dbpedia.org/resource/Port_of_Bridgetown
+sir john wenlock - http://dbpedia.org/resource/John_Wenlock,_1st_Baron_Wenlock
+outhgill - http://dbpedia.org/resource/Outhgill
+meppershall - http://dbpedia.org/resource/Meppershall
+pele tower - http://dbpedia.org/resource/Peel_tower
+king william ii - http://dbpedia.org/resource/William_II_of_England
+dover - http://dbpedia.org/resource/Dover
+river derwent - http://dbpedia.org/resource/River_Derwent_(Tasmania)
+mottes - http://dbpedia.org/resource/Motte-and-bailey_castle
+edlingham - http://dbpedia.org/resource/Edlingham
+region - http://dbpedia.org/resource/Regions_of_England
+de lacy - http://dbpedia.org/resource/De_Lacy
+river tweed - http://dbpedia.org/resource/River_Tweed
+elizabethan style - http://dbpedia.org/resource/Elizabethan_architecture
+guy de balliol - http://dbpedia.org/resource/Guy_I_de_Balliol
+anderitum - http://dbpedia.org/resource/Anderitum
+chalk - http://dbpedia.org/resource/Chalk
+kentish ragstone - http://dbpedia.org/resource/Rag-stone
+dempster - http://dbpedia.org/resource/Moot_hill
+ashby de la zouch castle - http://dbpedia.org/resource/Ashby_de_la_Zouch_Castle
+deddington castle - http://dbpedia.org/resource/Deddington_Castle
+enclosure - http://dbpedia.org/resource/Enclosure
+king henry iii - http://dbpedia.org/resource/Henry_III_of_England
+majestic - http://dbpedia.org/resource/Mister_Majestic
+aragon - http://dbpedia.org/resource/Kingdom_of_Aragon
+queen - http://dbpedia.org/resource/Queen_consort
+river nidd - http://dbpedia.org/resource/River_Nidd
+calshot castle - http://dbpedia.org/resource/Calshot_Castle
+open access - http://dbpedia.org/resource/Freedom_to_roam
+carlisle - http://dbpedia.org/resource/Carlisle
+norwich - http://dbpedia.org/resource/Norwich
+pendragon castle - http://dbpedia.org/resource/Pendragon_Castle
+derbyshire - http://dbpedia.org/resource/Derbyshire
+decay - http://dbpedia.org/resource/Urban_decay
+ludlow castle - http://dbpedia.org/resource/Ludlow_Castle
+richard iii - http://dbpedia.org/resource/Richard_III_of_England
+stonehenge - http://dbpedia.org/resource/Stonehenge
+hunting lodge - http://dbpedia.org/resource/Jagdschloss
+st briavels castle - http://dbpedia.org/resource/St_Briavels_Castle
+eynsford castle - http://dbpedia.org/resource/Eynsford_Castle
+coastal artillery - http://dbpedia.org/resource/Coastal_artillery
+court - http://dbpedia.org/resource/Royal_court
+stone castle - http://dbpedia.org/resource/Stone_Castle
+ranulf flambard - http://dbpedia.org/resource/Ranulf_Flambard
+river wye - http://dbpedia.org/resource/River_Wye
+lord dacre - http://dbpedia.org/resource/Baron_Dacre
+deal castle - http://dbpedia.org/resource/Deal_Castle
+interchange - http://dbpedia.org/resource/Transport_hub
+oakham - http://dbpedia.org/resource/Oakham
+tynemouth - http://dbpedia.org/resource/Tynemouth
+timber - http://dbpedia.org/resource/Timber_framing
+lewes castle - http://dbpedia.org/resource/Lewes_Castle
+bramber - http://dbpedia.org/resource/Bramber
+law - http://dbpedia.org/resource/English_law
+elton hall - http://dbpedia.org/resource/Elton_Hall
+family - http://dbpedia.org/resource/Family
+borough - http://dbpedia.org/resource/Borough
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+anglo - http://dbpedia.org/resource/Anglo
+king james iv - http://dbpedia.org/resource/James_IV_of_Scotland
+hampshire - http://dbpedia.org/resource/Hampshire
+weeting castle - http://dbpedia.org/resource/Weeting_Castle
+red hair - http://dbpedia.org/resource/Red_hair
+river waveney - http://dbpedia.org/resource/River_Waveney
+historic royal palaces - http://dbpedia.org/resource/Historic_Royal_Palaces
+fortification - http://dbpedia.org/resource/Castle
+manners family - http://dbpedia.org/resource/Duke_of_Rutland
+robert bruce - http://dbpedia.org/resource/Robert_the_Bruce
+viking - http://dbpedia.org/resource/Vikings
+satellite - http://dbpedia.org/resource/Satellite
+benedictine abbey - http://dbpedia.org/resource/Benedictines
+berkshire - http://dbpedia.org/resource/Berkshire
+robert de lacy - http://dbpedia.org/resource/De_Lacy
+owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
+britain - http://dbpedia.org/resource/Roman_Britain
+raby castle - http://dbpedia.org/resource/Raby_Castle
+wolvesey castle - http://dbpedia.org/resource/Wolvesey_Castle
+oxfordshire - http://dbpedia.org/resource/Oxfordshire
+william wallace - http://dbpedia.org/resource/William_Wallace
+donjon - http://dbpedia.org/resource/Keep
+spring - http://dbpedia.org/resource/Mineral_spring
+west sussex - http://dbpedia.org/resource/Sussex
+sir fulke greville - http://dbpedia.org/resource/Sir_Fulke_Greville
+harold godwinson - http://dbpedia.org/resource/Harold_Godwinson
+clun castle - http://dbpedia.org/resource/Clun_Castle
+romantic garden - http://dbpedia.org/resource/French_landscape_garden
+whitewashing - http://dbpedia.org/resource/Whitewash
+dunstable - http://dbpedia.org/resource/Dunstable
+burgh - http://dbpedia.org/resource/Burh
+pontefract castle - http://dbpedia.org/resource/Pontefract_Castle
+thirlwall - http://dbpedia.org/resource/Connop_Thirlwall
+robert de vieuxpont - http://dbpedia.org/resource/Robert_de_Vieuxpont
+northern tower - http://dbpedia.org/resource/Northern_Tower
+waterloo - http://dbpedia.org/resource/Battle_of_Waterloo
+herstmonceux castle - http://dbpedia.org/resource/Herstmonceux_Castle
+king stephen - http://dbpedia.org/resource/Stephen_I_of_Hungary
+scaleby castle - http://dbpedia.org/resource/Scaleby_Castle
+oxford castle - http://dbpedia.org/resource/Oxford_Castle
+ruthin - http://dbpedia.org/resource/Ruthin
+waltheof - http://dbpedia.org/resource/Waltheof_of_Melrose
+catholic - http://dbpedia.org/resource/Catholic_Church
+military base - http://dbpedia.org/resource/Military_base
+monmouth - http://dbpedia.org/resource/Monmouth
+falstaff - http://dbpedia.org/resource/Falstaff
+pirates - http://dbpedia.org/resource/Piracy
+ida - http://dbpedia.org/resource/Ida_of_Bernicia
+ridge - http://dbpedia.org/resource/Ridge
+great hall - http://dbpedia.org/resource/Great_hall
+en suite - http://dbpedia.org/resource/Bathroom
+river fal - http://dbpedia.org/resource/River_Fal
+welsh borders - http://dbpedia.org/resource/Welsh_Marches
+falmouth - http://dbpedia.org/resource/Falmouth_Commodores
+wilton castle - http://dbpedia.org/resource/Wilton_Castle
+lake - http://dbpedia.org/resource/Lake_Ontario
+farnham - http://dbpedia.org/resource/Farnham
+rendering - http://dbpedia.org/resource/Stucco
+warwick castle - http://dbpedia.org/resource/Warwick_Castle
+redundant - http://dbpedia.org/resource/Redundant_church
+robert thorpe - http://dbpedia.org/resource/Robert_Thorpe_(judge)
+private ownership - http://dbpedia.org/resource/Land_tenure
+tunbridge wells - http://dbpedia.org/resource/Royal_Tunbridge_Wells
+leyburn - http://dbpedia.org/resource/Leyburn
+hampshire county council - http://dbpedia.org/resource/Hampshire
+rochester castle - http://dbpedia.org/resource/Rochester_Castle
+framlingham - http://dbpedia.org/resource/Framlingham
+armstrong family - http://dbpedia.org/resource/Clan_Armstrong
+henry courtenay - http://dbpedia.org/resource/Henry_Courtenay,_1st_Marquess_of_Exeter
+leicestershire - http://dbpedia.org/resource/Leicestershire
+hamelin plantagenet - http://dbpedia.org/resource/Hamelin_de_Warenne,_Earl_of_Surrey
+anne - http://dbpedia.org/resource/Anne_Boleyn
+longthorpe tower - http://dbpedia.org/resource/Longthorpe_Tower
+norfolk - http://dbpedia.org/resource/Norfolk
+longtown - http://dbpedia.org/resource/Longtown,_Cumbria
+richard plantagenet - http://dbpedia.org/resource/Richard_I_of_England
+sir roger fiennes - http://dbpedia.org/resource/Roger_Fiennes
+rabbit warren - http://dbpedia.org/resource/Warren
+holt - http://dbpedia.org/resource/Woodland
+sir john delamare - http://dbpedia.org/resource/John_Delamare
+robert earl - http://dbpedia.org/resource/Robert_Earl
+langside - http://dbpedia.org/resource/Battle_of_Langside
+archaeological park - http://dbpedia.org/resource/Archaeological_site
+christchurch castle - http://dbpedia.org/resource/Christchurch_Castle
+neville family - http://dbpedia.org/resource/House_of_Neville
+artillery - http://dbpedia.org/resource/Artillery
+scheduled ancient monument - http://dbpedia.org/resource/Scheduled_monument
+stowey - http://dbpedia.org/resource/Over_Stowey
+beeston - http://dbpedia.org/resource/Beeston_Castle
+stem - http://dbpedia.org/resource/Plant_stem
+castle howe - http://dbpedia.org/resource/Castle_Howe
+outer bailey - http://dbpedia.org/resource/Outer_bailey
+victorian - http://dbpedia.org/resource/Victorian_era
+mary - http://dbpedia.org/resource/Mary_I_of_England
+norman architecture - http://dbpedia.org/resource/Norman_architecture
+lucy - http://dbpedia.org/resource/Lucy_Beale
+roman camp - http://dbpedia.org/resource/Castra
+lincolnshire county council - http://dbpedia.org/resource/Lincolnshire
+deira - http://dbpedia.org/resource/Deira
+wilton - http://dbpedia.org/resource/Wilton,_Wiltshire
+king henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+okehampton - http://dbpedia.org/resource/Okehampton
+strictly speaking - http://dbpedia.org/resource/Strictly_Speaking
+english civil war - http://dbpedia.org/resource/English_Civil_War
+bungay - http://dbpedia.org/resource/Bungay_Castle
+thetford castle - http://dbpedia.org/resource/Thetford_Castle
+ireland - http://dbpedia.org/resource/Ireland
+robert d'oilly - http://dbpedia.org/resource/Robert_D'Oyly
+eden valley - http://dbpedia.org/resource/Eden_Valley_Railway
+thomas howard - http://dbpedia.org/resource/Thomas_Howard,_3rd_Duke_of_Norfolk
+masonry - http://dbpedia.org/resource/Stonemasonry
+upnor castle - http://dbpedia.org/resource/Upnor_Castle
+thomas telford - http://dbpedia.org/resource/Thomas_Telford
+bernicia - http://dbpedia.org/resource/Bernicia
+clare castle country park - http://dbpedia.org/resource/Clare_Castle_Country_Park
+pennine - http://dbpedia.org/resource/Pennines
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+yorkshire dales - http://dbpedia.org/resource/Yorkshire_Dales
+roger bigod - http://dbpedia.org/resource/Roger_Bigod_of_Norfolk
+anchorage - http://dbpedia.org/resource/Anchorite
+pele towers - http://dbpedia.org/resource/Peel_tower
+yarmouth castle - http://dbpedia.org/resource/Yarmouth_Castle
+norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
+murder - http://dbpedia.org/resource/Murder
+robert de ferrers - http://dbpedia.org/resource/Robert_de_Ferrers,_6th_Earl_of_Derby
+harry potter films - http://dbpedia.org/resource/Harry_Potter_(film_series)
+beaulieu abbey - http://dbpedia.org/resource/Beaulieu_Abbey
+castle museum - http://dbpedia.org/resource/Norwich_Castle
+sir percival - http://dbpedia.org/resource/Percival
+kent - http://dbpedia.org/resource/Kent
+battlements - http://dbpedia.org/resource/Battlement
+tudor - http://dbpedia.org/resource/Tudor_period
+hugh de lacy - http://dbpedia.org/resource/De_Lacy
+soldier - http://dbpedia.org/resource/British_Army
+st mawes - http://dbpedia.org/resource/St_Mawes_Castle
+royalist - http://dbpedia.org/resource/Cavalier
+catholicism - http://dbpedia.org/resource/Catholic_Church
+calshot - http://dbpedia.org/resource/Calshot_Castle
+folk - http://dbpedia.org/resource/Folklore
+benedictine - http://dbpedia.org/resource/Benedictines
+teme - http://dbpedia.org/resource/River_Teme
+goodrich castle - http://dbpedia.org/resource/Goodrich_Castle
+vikings - http://dbpedia.org/resource/Vikings
+ditched - http://dbpedia.org/resource/Water_landing
+queenborough castle - http://dbpedia.org/resource/Queenborough
+clay - http://dbpedia.org/resource/Clay
+cannon - http://dbpedia.org/resource/Cannon
+pickering castle - http://dbpedia.org/resource/Pickering_Castle
+greystoke - http://dbpedia.org/resource/Greystoke_Castle
+bellister castle - http://dbpedia.org/resource/Bellister_Castle
+saxon - http://dbpedia.org/resource/Saxons
+morpeth castle - http://dbpedia.org/resource/Morpeth_Castle
+oxfordshire county council - http://dbpedia.org/resource/Oxfordshire_County_Council
+whittington - http://dbpedia.org/resource/Whittington_Castle
+pickering - http://dbpedia.org/resource/Pickering_railway_station
+yarmouth - http://dbpedia.org/resource/Great_Yarmouth
+norman castle - http://dbpedia.org/resource/Normans
+raby - http://dbpedia.org/resource/Raby_Castle
+courtyard castle - http://dbpedia.org/resource/Quadrangular_castle
+irony - http://dbpedia.org/resource/Irony
+kirby muxloe castle - http://dbpedia.org/resource/Kirby_Muxloe_Castle
+welsh marches - http://dbpedia.org/resource/Welsh_Marches
+constable family - http://dbpedia.org/resource/Clifford-Constable_baronets
+portchester castle - http://dbpedia.org/resource/Portchester_Castle
+1300s - http://dbpedia.org/resource/14th_century_in_architecture
+tower house - http://dbpedia.org/resource/Tower_house
+river exe - http://dbpedia.org/resource/River_Exe
+surrey - http://dbpedia.org/resource/Surrey
+treason - http://dbpedia.org/resource/Treason
+bungay castle - http://dbpedia.org/resource/Bungay_Castle
+christchurch - http://dbpedia.org/resource/Christchurch
+christmas day - http://dbpedia.org/resource/Christmas
+belsay castle - http://dbpedia.org/resource/Belsay_Castle
+clitheroe - http://dbpedia.org/resource/Clitheroe
+william cavendish - http://dbpedia.org/resource/William_Cavendish_(courtier)
+tapestry - http://dbpedia.org/resource/Tapestry
+settlement - http://dbpedia.org/resource/Town
+secular - http://dbpedia.org/resource/Secular_clergy
+bewcastle castle - http://dbpedia.org/resource/Bewcastle_Castle
+pennington - http://dbpedia.org/resource/Pennington_railway_station
+dunstanburgh castle - http://dbpedia.org/resource/Dunstanburgh_Castle
+fowey - http://dbpedia.org/resource/Fowey
+stable - http://dbpedia.org/resource/Stable
+river eamont - http://dbpedia.org/resource/River_Eamont
+roger de poitou - http://dbpedia.org/resource/Roger_the_Poitevin
+tarporley - http://dbpedia.org/resource/Tarporley
+torture - http://dbpedia.org/resource/Torture
+dacre castle - http://dbpedia.org/resource/Dacre_Castle
+aydon - http://dbpedia.org/resource/Aydon
+roaring meg - http://dbpedia.org/resource/Roaring_Meg_hydro_scheme
 walmer castle - http://dbpedia.org/resource/Walmer_Castle
 queen mary - http://dbpedia.org/resource/Mary_I_of_England
-dorset - http://dbpedia.org/resource/Dorset
-domesday survey - http://dbpedia.org/resource/Domesday_Book
-st briavels castle - http://dbpedia.org/resource/St_Briavels_Castle
-castle morpeth - http://dbpedia.org/resource/Castle_Morpeth
-sutton valence castle - http://dbpedia.org/resource/Sutton_Valence_Castle
-parr - http://dbpedia.org/resource/Salmon
-toddington castle - http://dbpedia.org/resource/Toddington_Castle
-elton hall - http://dbpedia.org/resource/Elton_Hall
-sir fulke greville - http://dbpedia.org/resource/Sir_Fulke_Greville
-warfare - http://dbpedia.org/resource/War
-strong tower - http://dbpedia.org/resource/Strong_Tower
-outer bailey - http://dbpedia.org/resource/Outer_bailey
-edlingham castle - http://dbpedia.org/resource/Edlingham_Castle
-sail - http://dbpedia.org/resource/Sailing
-royal seat - http://dbpedia.org/resource/Colonial_government_in_the_Thirteen_Colonies
-dover - http://dbpedia.org/resource/Dover
-george talbot - http://dbpedia.org/resource/George_Talbot_(entomologist)
-welsh border - http://dbpedia.org/resource/Welsh_Marches
-dean - http://dbpedia.org/resource/Dean_of_York
-purbeck hills - http://dbpedia.org/resource/Purbeck_Hills
-grizzly - http://dbpedia.org/resource/Grizzly_bear
-skipsea castle - http://dbpedia.org/resource/Skipsea_Castle
-king henry iv - http://dbpedia.org/resource/Henry_IV_of_England
-artillery - http://dbpedia.org/resource/Artillery
-summer - http://dbpedia.org/resource/Midsummer
-dam - http://dbpedia.org/resource/Dam
-lord leven - http://dbpedia.org/resource/Alexander_Leslie,_1st_Earl_of_Leven
-ivanhoe - http://dbpedia.org/resource/Ivanhoe
-city wall - http://dbpedia.org/resource/Defensive_wall
-anchor - http://dbpedia.org/resource/Anchor
-sir thomas hungerford - http://dbpedia.org/resource/Thomas_Hungerford_of_Rowden
-hylton castle - http://dbpedia.org/resource/Hylton_Castle
-spring - http://dbpedia.org/resource/Mineral_spring
-anne boleyn - http://dbpedia.org/resource/Anne_Boleyn
-bedford castle - http://dbpedia.org/resource/Bedford_Castle
-flint - http://dbpedia.org/resource/Flint
-market harborough - http://dbpedia.org/resource/Market_Harborough
-thirlwall - http://dbpedia.org/resource/Connop_Thirlwall
-claretian - http://dbpedia.org/resource/Claretians
-clun castle - http://dbpedia.org/resource/Clun_Castle
-age structure - http://dbpedia.org/resource/Population_pyramid
-tynemouth castle - http://dbpedia.org/resource/Tynemouth_Castle_and_Priory
-earl grant - http://dbpedia.org/resource/Earl_Grant
-normandy - http://dbpedia.org/resource/Normandy
-manor - http://dbpedia.org/resource/Manorialism
-charles - http://dbpedia.org/resource/Charles_I_of_England
-baldwin - http://dbpedia.org/resource/Baldwin_III_of_Jerusalem
-pilgrim - http://dbpedia.org/resource/Pilgrimage
-courtyard - http://dbpedia.org/resource/Church_architecture
-peak castle - http://dbpedia.org/resource/Peveril_Castle
-century house - http://dbpedia.org/resource/Century_House,_London
-egremont - http://dbpedia.org/resource/Earl_of_Egremont
-westenhanger castle - http://dbpedia.org/resource/Westenhanger_Castle
-heydon - http://dbpedia.org/resource/Dyson_Heydon
-rochester - http://dbpedia.org/resource/Diocese_of_Rochester
-fortified manor house - http://dbpedia.org/resource/Manor_house
-eleanor - http://dbpedia.org/resource/Eleanor_of_Aquitaine
-boothby graffoe - http://dbpedia.org/resource/Boothby_Graffoe
-dungeon - http://dbpedia.org/resource/Dungeon
-edmund talbot - http://dbpedia.org/resource/Edmund_FitzAlan-Howard,_1st_Viscount_FitzAlan_of_Derwent
-edward lutyens - http://dbpedia.org/resource/Edwin_Lutyens
-anchorage - http://dbpedia.org/resource/Anchorite
-latin - http://dbpedia.org/resource/Latin
-hapton - http://dbpedia.org/resource/Hapton_railway_station
-county durham - http://dbpedia.org/resource/County_Durham
-stem - http://dbpedia.org/resource/Plant_stem
-hever castle - http://dbpedia.org/resource/Hever_Castle
-border security - http://dbpedia.org/resource/Border_control
-earthwork - http://dbpedia.org/resource/Fortification
-chalk - http://dbpedia.org/resource/Chalk
-pontefract - http://dbpedia.org/resource/Pontefract_Castle
-retinue - http://dbpedia.org/resource/Retinue
-greville family - http://dbpedia.org/resource/Category:Greville_family
-gun - http://dbpedia.org/resource/Cannon
-sir john delamare - http://dbpedia.org/resource/John_Delamare
-siege - http://dbpedia.org/resource/Siege
-sprawl - http://dbpedia.org/resource/Urban_sprawl
-acton burnell - http://dbpedia.org/resource/Acton_Burnell
-skipton - http://dbpedia.org/resource/Skipton
-waltheof - http://dbpedia.org/resource/Waltheof_of_Melrose
-totnes castle - http://dbpedia.org/resource/Totnes_Castle
-de braose family - http://dbpedia.org/resource/House_of_Braose
-st - http://dbpedia.org/resource/SATB
-high town - http://dbpedia.org/resource/High_Town,_Luton
-salisbury - http://dbpedia.org/resource/Salisbury
-wye - http://dbpedia.org/resource/Three-phase_electric_power
-orford ness - http://dbpedia.org/resource/Orford_Ness
-river fal - http://dbpedia.org/resource/River_Fal
-owain - http://dbpedia.org/resource/Owain_Gwynedd
-beaulieu abbey - http://dbpedia.org/resource/Beaulieu_Abbey
-acton burnell castle - http://dbpedia.org/resource/Acton_Burnell_Castle
-chatham - http://dbpedia.org/resource/Chatham_Dockyard
-windsor - http://dbpedia.org/resource/Windsor_Castle
-william malet - http://dbpedia.org/resource/William_Malet_(companion_of_William_the_Conqueror)
-gilbert - http://dbpedia.org/resource/Gilbert_(unit)
-auction - http://dbpedia.org/resource/Auction
-jesuit - http://dbpedia.org/resource/Society_of_Jesus
-rufus - http://dbpedia.org/resource/List_of_Kim_Possible_characters
-coastal defence - http://dbpedia.org/resource/Coastal_artillery
-henry courtenay - http://dbpedia.org/resource/Henry_Courtenay,_1st_Marquess_of_Exeter
-king john - http://dbpedia.org/resource/John_II_of_France
-roman - http://dbpedia.org/resource/Roman_Empire
-paul - http://dbpedia.org/resource/Paul_the_Apostle
-unsettled - http://dbpedia.org/resource/Unsettled
-st mawes - http://dbpedia.org/resource/St_Mawes_Castle
-shell - http://dbpedia.org/resource/Seashell
-debt - http://dbpedia.org/resource/Debt
-ridge - http://dbpedia.org/resource/Ridge
+carlisle castle - http://dbpedia.org/resource/Carlisle_Castle
+boarstall - http://dbpedia.org/resource/Boarstall
+dane john gardens - http://dbpedia.org/resource/Dane_John_Mound
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+st catherines - http://dbpedia.org/resource/St_Catherines,_Argyll
 sir edward seymour - http://dbpedia.org/resource/Edward_Seymour,_1st_Duke_of_Somerset
-portchester castle - http://dbpedia.org/resource/Portchester_Castle
-philip ii - http://dbpedia.org/resource/Philip_II_of_France
-jason - http://dbpedia.org/resource/Jason
-administrative centre - http://dbpedia.org/resource/County_town
-thomas howard - http://dbpedia.org/resource/Thomas_Howard,_3rd_Duke_of_Norfolk
-slip - http://dbpedia.org/resource/Slipway
-robert earl - http://dbpedia.org/resource/Robert_Earl
-aydon castle - http://dbpedia.org/resource/Aydon_Castle
-spanish invasion - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
-robert de romille - http://dbpedia.org/resource/Robert_de_Romille
-brother henry - http://dbpedia.org/resource/Brother_Henry
-fowey - http://dbpedia.org/resource/Fowey
-godric - http://dbpedia.org/resource/Godric_of_Finchale
-alexander - http://dbpedia.org/resource/Alexander_the_Great
-rose castle - http://dbpedia.org/resource/Rose_Castle
+egremont castle - http://dbpedia.org/resource/Egremont_Castle
+fosse - http://dbpedia.org/resource/Moat
+flamborough - http://dbpedia.org/resource/Flamborough_Head
+normans - http://dbpedia.org/resource/Norman_conquest_of_England
+elsdon tower - http://dbpedia.org/resource/Elsdon_Tower
+maidstone - http://dbpedia.org/resource/Maidstone
+sorviodunum - http://dbpedia.org/resource/Old_Sarum
+stone - http://dbpedia.org/resource/Sandstone
+gate - http://dbpedia.org/resource/City_gate
+launceston - http://dbpedia.org/resource/Launceston_Castle
+underground tunnels - http://dbpedia.org/resource/Roller_coaster_elements
+footpath - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+king henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+sir edward hungerford - http://dbpedia.org/resource/Edward_Hungerford_(Roundhead)
+british isles - http://dbpedia.org/resource/British_Iron_Age
 sir john fastolf - http://dbpedia.org/resource/John_Fastolf
-buckden palace - http://dbpedia.org/resource/Buckden_Towers
-waste - http://dbpedia.org/resource/Waste
-northamptonshire - http://dbpedia.org/resource/Northamptonshire
+fair rosamund - http://dbpedia.org/resource/Rosamund_Clifford
+hugh courtenay - http://dbpedia.org/resource/Hugh_Courtenay_(died_1348)
+king henry ii - http://dbpedia.org/resource/Henry_II_of_England
+ranulf de blondeville - http://dbpedia.org/resource/Ranulf_de_Blondeville,_6th_Earl_of_Chester
+saints - http://dbpedia.org/resource/Saint
+scottish army - http://dbpedia.org/resource/Scots_Army
+pendennis castle - http://dbpedia.org/resource/Pendennis_Castle
+agricola - http://dbpedia.org/resource/Gnaeus_Julius_Agricola
+thirlwall castle - http://dbpedia.org/resource/Thirlwall_Castle
+etal - http://dbpedia.org/resource/Etal
+pomeroy - http://dbpedia.org/resource/F._W._Pomeroy
+kimbolton - http://dbpedia.org/resource/Duke_of_Manchester
+barrow - http://dbpedia.org/resource/Tumulus
+norton priory - http://dbpedia.org/resource/Norton_Priory
+soil - http://dbpedia.org/resource/Soil
+royal seat - http://dbpedia.org/resource/Colonial_government_in_the_Thirteen_Colonies
+monasteries - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
+st thomas becket - http://dbpedia.org/resource/Thomas_Becket
+forge - http://dbpedia.org/resource/Forge
+king edward iv - http://dbpedia.org/resource/Edward_IV_of_England
+wareham - http://dbpedia.org/resource/Wareham_railway_station
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+rye castle - http://dbpedia.org/resource/Rye_Castle
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+biggleswade - http://dbpedia.org/resource/Biggleswade
+charles - http://dbpedia.org/resource/Charles_I_of_England
+camelot - http://dbpedia.org/resource/Camlet
+carisbrooke - http://dbpedia.org/resource/Carisbrooke_Castle
+dartmouth - http://dbpedia.org/resource/Dartmouth_College
+marriage - http://dbpedia.org/resource/Same-sex_marriage
+chapel - http://dbpedia.org/resource/Chapel
+edenbridge - http://dbpedia.org/resource/Edenbridge_railway_station
+noble - http://dbpedia.org/resource/Nobility
+upnor - http://dbpedia.org/resource/Upnor
+public footpath - http://dbpedia.org/resource/Rights_of_way_in_England_and_Wales
+continuous - http://dbpedia.org/resource/Continuous_wave
+berwick castle - http://dbpedia.org/resource/Berwick_Castle
+devizes - http://dbpedia.org/resource/Devizes
+acre - http://dbpedia.org/resource/Acre
+newark - http://dbpedia.org/resource/Newark-on-Trent
+breton - http://dbpedia.org/resource/Breton_language
+watson family - http://dbpedia.org/resource/Watson_family
+river swale - http://dbpedia.org/resource/River_Swale
+century square - http://dbpedia.org/resource/Century_Square,_Singapore
+french castles - http://dbpedia.org/resource/Château
+somerset - http://dbpedia.org/resource/Somerset
+la tour - http://dbpedia.org/resource/Georges_de_La_Tour
+georgian - http://dbpedia.org/resource/Georgian_language
+nunney castle - http://dbpedia.org/resource/Nunney_Castle
+welsh border - http://dbpedia.org/resource/Welsh_Marches
+winchester - http://dbpedia.org/resource/Winchester
+recycle - http://dbpedia.org/resource/Recycling
+lydford castle - http://dbpedia.org/resource/Lydford_Castle
+lord leven - http://dbpedia.org/resource/Alexander_Leslie,_1st_Earl_of_Leven
+drawbridge - http://dbpedia.org/resource/Drawbridge
+philip ii - http://dbpedia.org/resource/Philip_II_of_France
+boarstall tower - http://dbpedia.org/resource/Boarstall_Tower
+henry ii - http://dbpedia.org/resource/Henry_II_of_England
+london clay - http://dbpedia.org/resource/Clay
+west tower - http://dbpedia.org/resource/West_Tower
+duke - http://dbpedia.org/resource/Duke
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
+royal collection trust - http://dbpedia.org/resource/Royal_Collection_Trust
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+exeter - http://dbpedia.org/resource/Exeter
+tussauds group - http://dbpedia.org/resource/The_Tussauds_Group
+prehistoric - http://dbpedia.org/resource/Prehistory
+lilbourne - http://dbpedia.org/resource/Lilbourne
+honey - http://dbpedia.org/resource/Honey
+internet - http://dbpedia.org/resource/Internet
+retinue - http://dbpedia.org/resource/Retinue
+fortified house - http://dbpedia.org/resource/Manor_house
+totnes castle - http://dbpedia.org/resource/Totnes_Castle
+great tower - http://dbpedia.org/resource/Keep
+percival thirlwall - http://dbpedia.org/resource/Percival_Thirlwall
+etal castle - http://dbpedia.org/resource/Etal_Castle
+harbottle castle - http://dbpedia.org/resource/Harbottle_Castle
+sir henry vane - http://dbpedia.org/resource/Henry_Vane_the_Younger
+baldwin - http://dbpedia.org/resource/Baldwin_III_of_Jerusalem
+spofforth castle - http://dbpedia.org/resource/Spofforth_Castle
+river fowey - http://dbpedia.org/resource/River_Fowey
+market harborough - http://dbpedia.org/resource/Market_Harborough
+william d'aubigny - http://dbpedia.org/resource/William_d'Aubigny,_1st_Earl_of_Arundel
+administrative centre - http://dbpedia.org/resource/County_town
+john hawley - http://dbpedia.org/resource/John_Hawley_(died_1408)
+norham - http://dbpedia.org/resource/Norham_Castle
+charitable trust - http://dbpedia.org/resource/Charitable_organization
+robert curthose - http://dbpedia.org/resource/Robert_Curthose
+middle ages - http://dbpedia.org/resource/Middle_Ages
+cartington - http://dbpedia.org/resource/Cartington
+tonbridge castle - http://dbpedia.org/resource/Tonbridge_Castle
+shakespeare - http://dbpedia.org/resource/William_Shakespeare
+sir john bankes - http://dbpedia.org/resource/John_Bankes
+ludlow - http://dbpedia.org/resource/Ludlow
+winchester cathedral - http://dbpedia.org/resource/Winchester_Cathedral
+missionary - http://dbpedia.org/resource/Christianity
+unusable - http://dbpedia.org/resource/Unusable_(film)
+appleby - http://dbpedia.org/resource/Appleby_Castle
+osmund - http://dbpedia.org/resource/Osmond_process
+bastions - http://dbpedia.org/resource/Bastion
+royalty - http://dbpedia.org/resource/Monarch
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+middleham - http://dbpedia.org/resource/Middleham_Castle
+river medway - http://dbpedia.org/resource/River_Medway
+edward watson - http://dbpedia.org/resource/Edward_Watson_(dancer)
+pontefract - http://dbpedia.org/resource/Pontefract_Castle
+chatham dockyards - http://dbpedia.org/resource/Chatham_Dockyard
+whittington castle - http://dbpedia.org/resource/Whittington_Castle
+de braose family - http://dbpedia.org/resource/House_of_Braose
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+human - http://dbpedia.org/resource/Human
+saxons - http://dbpedia.org/resource/Anglo-Saxons
+neglect - http://dbpedia.org/resource/Urban_decay
+alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
+hyde - http://dbpedia.org/resource/Hyde_(musician)
+arms - http://dbpedia.org/resource/Coat_of_arms
+baileys - http://dbpedia.org/resource/Motte-and-bailey_castle
+eynsford - http://dbpedia.org/resource/Eynsford
+constable - http://dbpedia.org/resource/Castellan
+nether stowey - http://dbpedia.org/resource/Nether_Stowey
+shrewsbury castle - http://dbpedia.org/resource/Shrewsbury_Castle
+roman fort - http://dbpedia.org/resource/Roman_Britain
+newcastle castle - http://dbpedia.org/resource/The_Castle,_Newcastle
+royal navy - http://dbpedia.org/resource/Royal_Navy
+headland - http://dbpedia.org/resource/Headland
+wigmore - http://dbpedia.org/resource/Wigmore_Castle
+divorce - http://dbpedia.org/resource/Divorce
+ribble valley - http://dbpedia.org/resource/River_Ribble
+restormel castle - http://dbpedia.org/resource/Restormel_Castle
+lancashire county council - http://dbpedia.org/resource/Lancashire_County_Council
+lady mary bankes - http://dbpedia.org/resource/Mary_Bankes
+richard neville - http://dbpedia.org/resource/Richard_Neville,_16th_Earl_of_Warwick
+richmond - http://dbpedia.org/resource/Richmond_Football_Club
+hogwarts - http://dbpedia.org/resource/Hogwarts
+rockingham castle - http://dbpedia.org/resource/Rockingham_Castle
+upland - http://dbpedia.org/resource/Highland
+barons dacre - http://dbpedia.org/resource/Baron_Dacre
+roman road - http://dbpedia.org/resource/Roman_roads
+rare breeds - http://dbpedia.org/resource/Dog_breed
+gloucestershire - http://dbpedia.org/resource/Gloucestershire
+map - http://dbpedia.org/resource/Map
+type design - http://dbpedia.org/resource/Type_certificate
+border country - http://dbpedia.org/resource/Anglo-Scottish_border
+canterbury castle - http://dbpedia.org/resource/Canterbury_Castle
+tyne - http://dbpedia.org/resource/River_Tyne
+southern england - http://dbpedia.org/resource/Southern_England
+john brydges - http://dbpedia.org/resource/John_Brydges,_1st_Baron_Chandos
+sussex - http://dbpedia.org/resource/Sussex
+tweed - http://dbpedia.org/resource/Tweed
+crown jewels - http://dbpedia.org/resource/Crown_Jewels_of_the_United_Kingdom
+town walls - http://dbpedia.org/resource/Defensive_wall
+saxon times - http://dbpedia.org/resource/Anglo-Saxons
+hugh de moreville - http://dbpedia.org/resource/Hugh_de_Morville,_Lord_of_Westmorland
+robert de umfraville - http://dbpedia.org/resource/Robert_de_Umfraville
+west okement river - http://dbpedia.org/resource/West_Okement_River
+arundel - http://dbpedia.org/resource/Arundel
+mary bankes - http://dbpedia.org/resource/Mary_Bankes
+blois - http://dbpedia.org/resource/Blois
+river calder - http://dbpedia.org/resource/Aire_and_Calder_Navigation
+coastal fortress - http://dbpedia.org/resource/Coastal_defence_and_fortification
+gatehouse - http://dbpedia.org/resource/Gatehouse
+thomas fairfax - http://dbpedia.org/resource/Thomas_Fairfax
+deddington - http://dbpedia.org/resource/Deddington
+dover castle - http://dbpedia.org/resource/Dover_Castle
+broadland - http://dbpedia.org/resource/Broadland
+hylton castle - http://dbpedia.org/resource/Hylton_Castle
+naworth castle - http://dbpedia.org/resource/Naworth_Castle
+general fairfax - http://dbpedia.org/resource/Thomas_Fairfax
+queens - http://dbpedia.org/resource/Queen_consort
+henry vii - http://dbpedia.org/resource/Henry_VIII_of_England
+julia - http://dbpedia.org/resource/Julia_the_Elder
+military architecture - http://dbpedia.org/resource/Military_engineering
+greville family - http://dbpedia.org/resource/Category:Greville_family
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+newport - http://dbpedia.org/resource/Newport_RFC
+magna carta - http://dbpedia.org/resource/Magna_Carta
+chancellor - http://dbpedia.org/resource/Lord_Chancellor
+river tyne - http://dbpedia.org/resource/River_Tyne
+sheep - http://dbpedia.org/resource/Sheep
+listed building - http://dbpedia.org/resource/Listed_building
+chain - http://dbpedia.org/resource/Chain
+lindsay - http://dbpedia.org/resource/John_Lindsay
+safety - http://dbpedia.org/resource/Safety
+elizabeth de clare - http://dbpedia.org/resource/Elizabeth_de_Clare
+roger mortimer - http://dbpedia.org/resource/Roger_Mortimer_of_Wigmore
+fabric - http://dbpedia.org/resource/Textile
+newark corporation - http://dbpedia.org/resource/Newark_element14
+purbeck hills - http://dbpedia.org/resource/Purbeck_Hills
+hasell - http://dbpedia.org/resource/HASELL
+courthouse - http://dbpedia.org/resource/Courthouse
+river lune - http://dbpedia.org/resource/River_Lune
+parker - http://dbpedia.org/resource/Charlie_Parker
+river severn - http://dbpedia.org/resource/River_Severn
+tudor rose - http://dbpedia.org/resource/Tudor_rose
+hapton - http://dbpedia.org/resource/Hapton_railway_station
+heyday - http://dbpedia.org/resource/Heyday_Records
+owain - http://dbpedia.org/resource/Owain_Gwynedd
+leeds - http://dbpedia.org/resource/Leeds
+church - http://dbpedia.org/resource/Catholic_Church
+clifford castle - http://dbpedia.org/resource/Clifford_Castle
+totnes - http://dbpedia.org/resource/Totnes
+staffordshire - http://dbpedia.org/resource/Staffordshire
+edlingham castle - http://dbpedia.org/resource/Edlingham_Castle
+scarborough castle - http://dbpedia.org/resource/Scarborough_Castle
+caesar - http://dbpedia.org/resource/Julius_Caesar
+fortress - http://dbpedia.org/resource/Castle
+english army - http://dbpedia.org/resource/English_Army
+swaffham - http://dbpedia.org/resource/Swaffham
+brough castle - http://dbpedia.org/resource/Brough_Castle
+de clare - http://dbpedia.org/resource/De_Clare
+runcorn - http://dbpedia.org/resource/Runcorn
+slighting - http://dbpedia.org/resource/Slighting
+prudhoe - http://dbpedia.org/resource/Prudhoe
+rochester - http://dbpedia.org/resource/Diocese_of_Rochester
+norman - http://dbpedia.org/resource/Norman_conquest_of_England
+roman times - http://dbpedia.org/resource/Roman_Britain
+barnard castle - http://dbpedia.org/resource/Barnard_Castle
+toddington - http://dbpedia.org/resource/Littlehampton
+wigmore castle - http://dbpedia.org/resource/Wigmore_Castle
+investment - http://dbpedia.org/resource/Investment
+lawyer - http://dbpedia.org/resource/Barrister
+tudor times - http://dbpedia.org/resource/Tudor_period
+yielden - http://dbpedia.org/resource/Yielden
+robert de roos - http://dbpedia.org/resource/Robert_de_Ros_(died_1227)
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+offa - http://dbpedia.org/resource/Offa_of_Mercia
+hubert de burgh - http://dbpedia.org/resource/Hubert_de_Burgh,_1st_Earl_of_Kent
+anarchy - http://dbpedia.org/resource/The_Anarchy
+don valley - http://dbpedia.org/resource/Lower_Don_Valley
+carrick roads - http://dbpedia.org/resource/Carrick_Roads
+rebellion - http://dbpedia.org/resource/Monmouth_Rebellion
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+clare castle - http://dbpedia.org/resource/Clare_Castle
+donnington - http://dbpedia.org/resource/Donnington_Castle
+mortar - http://dbpedia.org/resource/Lime_mortar
+hylton family - http://dbpedia.org/resource/Baron_Hylton
+edward ii - http://dbpedia.org/resource/Edward_III_of_England
+robert adam - http://dbpedia.org/resource/Robert_Adam
+henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+robert dudley - http://dbpedia.org/resource/Bob_Dudley
+nottinghamshire - http://dbpedia.org/resource/Nottinghamshire
+lindisfarne castle - http://dbpedia.org/resource/Lindisfarne_Castle
+wardour - http://dbpedia.org/resource/Wardour_Castle
+romantic - http://dbpedia.org/resource/Chivalric_romance
+rufus - http://dbpedia.org/resource/List_of_Kim_Possible_characters
+dalton - http://dbpedia.org/resource/Atomic_mass_unit
+roman town - http://dbpedia.org/resource/Roman_Britain
+egremont - http://dbpedia.org/resource/Earl_of_Egremont
+ashby de la zouch - http://dbpedia.org/resource/Ashby_de_la_Zouch
+hastings - http://dbpedia.org/resource/Hastings
+hadrian - http://dbpedia.org/resource/Hadrian
+henry iv - http://dbpedia.org/resource/Henry_IV_of_England
+nevill family - http://dbpedia.org/resource/House_of_Neville
+witches - http://dbpedia.org/resource/Witchcraft
+ipswich museum - http://dbpedia.org/resource/Ipswich_Museum
+james iv - http://dbpedia.org/resource/James_IV_of_Scotland
+late middle ages - http://dbpedia.org/resource/Late_Middle_Ages
+poitiers - http://dbpedia.org/resource/Battle_of_Poitiers
+donnington castle - http://dbpedia.org/resource/Donnington_Castle
+kinnersley castle - http://dbpedia.org/resource/Kinnersley_Castle
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+chillingham - http://dbpedia.org/resource/Chillingham_Castle
+henry howard - http://dbpedia.org/resource/Henry_Howard,_Earl_of_Surrey
+belsay - http://dbpedia.org/resource/Belsay
+conisbrough castle - http://dbpedia.org/resource/Conisbrough_Castle
+william peveril - http://dbpedia.org/resource/William_Peverel
+durham - http://dbpedia.org/resource/Durham_Cathedral
+hertfordshire - http://dbpedia.org/resource/Hertfordshire
+battery - http://dbpedia.org/resource/Artillery_battery
+lord lovel - http://dbpedia.org/resource/Lord_Lovel
+marshal - http://dbpedia.org/resource/Marshal
+river coquet - http://dbpedia.org/resource/River_Coquet
+lugg - http://dbpedia.org/resource/River_Lugg
+bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
+peterborough - http://dbpedia.org/resource/Peterborough
+holy island - http://dbpedia.org/resource/Lindisfarne
+conference centre - http://dbpedia.org/resource/Convention_center
+landmark trust - http://dbpedia.org/resource/Landmark_Trust
+kirkoswald - http://dbpedia.org/resource/Kirkoswald,_Cumbria
+crown court - http://dbpedia.org/resource/Crown_Court
+thurleigh castle - http://dbpedia.org/resource/Thurleigh_Castle
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+hunting - http://dbpedia.org/resource/Fox_hunting
+bishops palace - http://dbpedia.org/resource/St_Davids_Bishops_Palace
+helmsley - http://dbpedia.org/resource/Helmsley
+earl thomas - http://dbpedia.org/resource/Earl_Thomas
+berkhamsted castle - http://dbpedia.org/resource/Berkhamsted_Castle
+mary tudor - http://dbpedia.org/resource/Mary_I_of_England
+bader international study centre - http://dbpedia.org/resource/Herstmonceux_Castle
+sir william courtenay - http://dbpedia.org/resource/William_Courtenay
+derby - http://dbpedia.org/resource/Derby
+mount - http://dbpedia.org/resource/Mountain
+oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+edward lutyens - http://dbpedia.org/resource/Edwin_Lutyens
+north yorkshire - http://dbpedia.org/resource/North_Yorkshire
+bramber castle - http://dbpedia.org/resource/Bramber_Castle
+romans - http://dbpedia.org/resource/Romans_(musician)
+mont st michel - http://dbpedia.org/resource/Mont-Saint-Michel
+lionheart - http://dbpedia.org/resource/Chris_Jericho
+hillfort - http://dbpedia.org/resource/Hillfort
 earthwork mound - http://dbpedia.org/resource/Earthworks_(archaeology)
+town - http://dbpedia.org/resource/Market_town
+bishops - http://dbpedia.org/resource/Bishop
+brinklow - http://dbpedia.org/resource/Brinklow
+catholics - http://dbpedia.org/resource/Catholic_Church
+alnwick - http://dbpedia.org/resource/Alnwick
+okehampton castle - http://dbpedia.org/resource/Okehampton_Castle
+leaf - http://dbpedia.org/resource/Gold_leaf
+hill fort - http://dbpedia.org/resource/Hillfort
+fortified manor house - http://dbpedia.org/resource/Manor_house
+blenkinsop - http://dbpedia.org/resource/John_Blenkinsop
+orford castle - http://dbpedia.org/resource/Orford_Castle
+archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
+auction - http://dbpedia.org/resource/Auction
+devon - http://dbpedia.org/resource/Devon
+cluster - http://dbpedia.org/resource/Cluster_munition
+anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
+monitor - http://dbpedia.org/resource/Display_device
+tide - http://dbpedia.org/resource/Tide
+totternhoe castle - http://dbpedia.org/resource/Totternhoe_Castle
+lowland scots - http://dbpedia.org/resource/Scots_language
+priests - http://dbpedia.org/resource/Priest
+portland castle - http://dbpedia.org/resource/Portland_Castle
+warkworth - http://dbpedia.org/resource/Warkworth_Castle
+king richard - http://dbpedia.org/resource/Richard_I_of_England
+hythe - http://dbpedia.org/resource/Short_Sunderland
+george naylor - http://dbpedia.org/resource/George_Naylor
+single - http://dbpedia.org/resource/Phonograph_record
+acton burnell - http://dbpedia.org/resource/Acton_Burnell
+elizabethan - http://dbpedia.org/resource/Elizabeth_I_of_England
+warwickshire - http://dbpedia.org/resource/Warwickshire
+sandstone - http://dbpedia.org/resource/Sandstone
+parliamentarian - http://dbpedia.org/resource/Parliament_of_England
+edward kerrison - http://dbpedia.org/resource/Sir_Edward_Kerrison,_1st_Baronet
+m6 - http://dbpedia.org/resource/Minor_sixth
+buckden palace - http://dbpedia.org/resource/Buckden_Towers
+chester - http://dbpedia.org/resource/Chester
+love - http://dbpedia.org/resource/Love
+halton castle - http://dbpedia.org/resource/Halton_Castle
+jason - http://dbpedia.org/resource/Jason
+benedictine monks - http://dbpedia.org/resource/Benedictines
+minstrel - http://dbpedia.org/resource/Minstrel
+west country - http://dbpedia.org/resource/West_Country
+iron - http://dbpedia.org/resource/Wrought_iron
+eye castle - http://dbpedia.org/resource/Eye_Castle
+king charles - http://dbpedia.org/resource/Charles_I_of_England
+colchester - http://dbpedia.org/resource/Colchester
+uther pendragon - http://dbpedia.org/resource/Uther_Pendragon
+taste - http://dbpedia.org/resource/Wine_tasting
+warkworth castle - http://dbpedia.org/resource/Warkworth_Castle
+medieval - http://dbpedia.org/resource/Middle_Ages
+coastal defence - http://dbpedia.org/resource/Coastal_artillery
+bowes castle - http://dbpedia.org/resource/Bowes_Castle
+king henry vi - http://dbpedia.org/resource/Henry_VI_of_England
+yielden castle - http://dbpedia.org/resource/Yielden_Castle
+standard bearer - http://dbpedia.org/resource/Standard-bearer
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+northumbria - http://dbpedia.org/resource/Northumberland
+suffolk county council - http://dbpedia.org/resource/County_council
+golf - http://dbpedia.org/resource/Golf
+sandal castle - http://dbpedia.org/resource/Sandal_Castle
+bishop odo - http://dbpedia.org/resource/Odo_of_Bayeux
+cartington castle - http://dbpedia.org/resource/Cartington_Castle
+subsidence - http://dbpedia.org/resource/Subsidence
+brickwork - http://dbpedia.org/resource/Brickwork
+cambridgeshire - http://dbpedia.org/resource/Cambridgeshire
+kirby muxloe - http://dbpedia.org/resource/Kirby_Muxloe
+piling - http://dbpedia.org/resource/Deep_foundation
+william malet - http://dbpedia.org/resource/William_Malet_(companion_of_William_the_Conqueror)
+legend - http://dbpedia.org/resource/Hagiography
+george talbot - http://dbpedia.org/resource/George_Talbot_(entomologist)
+farmhouse - http://dbpedia.org/resource/Farmhouse
+great northern - http://dbpedia.org/resource/Govia_Thameslink_Railway
+beeston castle - http://dbpedia.org/resource/Beeston_Castle
+ditch - http://dbpedia.org/resource/Moat
+geotagged - http://dbpedia.org/resource/Geotagging
+turrets - http://dbpedia.org/resource/Turret
+middleton family - http://dbpedia.org/resource/Middleton_baronets
+halton - http://dbpedia.org/resource/Borough_of_Halton
+nigel d'aubigny - http://dbpedia.org/resource/Nigel_d'Aubigny
+cornwall - http://dbpedia.org/resource/Cornwall
+timber framed - http://dbpedia.org/resource/Timber_framing
+corbridge - http://dbpedia.org/resource/Corbridge
+carisbrooke castle - http://dbpedia.org/resource/Carisbrooke_Castle
+cornish - http://dbpedia.org/resource/Cornwall
+zouch - http://dbpedia.org/resource/Zouch
+kimbolton castle - http://dbpedia.org/resource/Kimbolton_Castle
+national trust - http://dbpedia.org/resource/National_trust
+rose castle - http://dbpedia.org/resource/Rose_Castle
+lord william howard - http://dbpedia.org/resource/Lord_William_Howard
+lostwithiel - http://dbpedia.org/resource/Lostwithiel
+st briavels - http://dbpedia.org/resource/St_Briavels
+sutton valence castle - http://dbpedia.org/resource/Sutton_Valence_Castle
+edwardian - http://dbpedia.org/resource/Edward_I_of_England
+kenilworth castle - http://dbpedia.org/resource/Kenilworth_Castle
+kenilworth - http://dbpedia.org/resource/Kenilworth_Castle
+ross - http://dbpedia.org/resource/Ross-shire
+stone tower - http://dbpedia.org/resource/Stone_Tower_(Ptolemy)
+rutland - http://dbpedia.org/resource/Rutland
+wood - http://dbpedia.org/resource/Woodland
+henry - http://dbpedia.org/resource/Henry_(unit)
+berkeley family - http://dbpedia.org/resource/Baron_Berkeley
+john vane - http://dbpedia.org/resource/John_Vane
+medieval fortification - http://dbpedia.org/resource/Castle
+castle acre castle - http://dbpedia.org/resource/Castle_Acre_Castle_and_town_walls
+blenkinsop castle - http://dbpedia.org/resource/Blenkinsopp_Castle
+cumberland - http://dbpedia.org/resource/Cumberland
+blanche - http://dbpedia.org/resource/Blanche_of_Castile
+baconsthorpe castle - http://dbpedia.org/resource/Baconsthorpe_Castle
+water - http://dbpedia.org/resource/Water_supply
+kendal - http://dbpedia.org/resource/Kendal
+loop - http://dbpedia.org/resource/Ring_road
+elsdon castle - http://dbpedia.org/resource/Elsdon_Castle
+tower - http://dbpedia.org/resource/Keep

@@ -13,7 +13,6 @@ eighth dynasty - http://dbpedia.org/resource/Eighth_Dynasty_of_Egypt
 single - http://dbpedia.org/resource/Extended_play
 amyrtaeus - http://dbpedia.org/resource/Amyrtaeus
 persians - http://dbpedia.org/resource/Achaemenid_Empire
-monument - http://dbpedia.org/resource/Monument
 ninth dynasty - http://dbpedia.org/resource/Ninth_Dynasty_of_Egypt
 thirtieth dynasty - http://dbpedia.org/resource/Thirtieth_Dynasty_of_Egypt
 sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt

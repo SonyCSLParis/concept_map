@@ -1,177 +1,151 @@
-john adams - http://dbpedia.org/resource/John_Adams
-heir apparent - http://dbpedia.org/resource/Heir_apparent
-continental congress - http://dbpedia.org/resource/Continental_Congress
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-farming - http://dbpedia.org/resource/Farmer
-virginia convention - http://dbpedia.org/resource/Virginia_Ratifying_Convention
-wave - http://dbpedia.org/resource/Wave
-alien - http://dbpedia.org/resource/Extraterrestrial_life
-philadelphia - http://dbpedia.org/resource/Philadelphia
-protective tariff - http://dbpedia.org/resource/Tariff_in_United_States_history
-die - http://dbpedia.org/resource/Death
-james madison - http://dbpedia.org/resource/James_Madison
-dose - http://dbpedia.org/resource/Ionizing_radiation
-legislator - http://dbpedia.org/resource/Legislature
-wage - http://dbpedia.org/resource/Wage
-ambrose - http://dbpedia.org/resource/Ambrose
-madison - http://dbpedia.org/resource/Madison_(cycling)
-free speech - http://dbpedia.org/resource/Freedom_of_speech
-federal power - http://dbpedia.org/resource/Federalism_in_the_United_States
-invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
-capital - http://dbpedia.org/resource/Capital_punishment
-president - http://dbpedia.org/resource/President_of_the_United_States
-princeton - http://dbpedia.org/resource/Princeton_University
-revolutionary - http://dbpedia.org/resource/American_Revolution
-statute - http://dbpedia.org/resource/Statute
-virginia james - http://dbpedia.org/resource/Virginia_James
-love - http://dbpedia.org/resource/Love
-ratio - http://dbpedia.org/resource/Reason
-constitutional convention - http://dbpedia.org/resource/Constitution_of_Indiana
-public debt - http://dbpedia.org/resource/Government_debt
-liquor - http://dbpedia.org/resource/Liquor
-james monroe - http://dbpedia.org/resource/James_Monroe
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
-british economy - http://dbpedia.org/resource/Economy_of_the_United_Kingdom
-embargo - http://dbpedia.org/resource/Embargo_Act_of_1807
-orange county - http://dbpedia.org/resource/Orange_County_SC
-confederation - http://dbpedia.org/resource/Confederation
-hume - http://dbpedia.org/resource/David_Hume
 rear guard - http://dbpedia.org/resource/Rearguard
-adam smith - http://dbpedia.org/resource/Adam_Smith
-bumbo - http://dbpedia.org/resource/Bumbo
-presidential - http://dbpedia.org/resource/President_of_the_United_States
-tidewater region - http://dbpedia.org/resource/Tidewater_(region)
-great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
-ring - http://dbpedia.org/resource/Wrestling_ring
-york - http://dbpedia.org/resource/York
-disengage - http://dbpedia.org/resource/Disengage_(album)
-bonus bill - http://dbpedia.org/resource/Bonus_Bill_of_1817
-financial plan - http://dbpedia.org/resource/Financial_plan
-west florida - http://dbpedia.org/resource/West_Florida
-destine - http://dbpedia.org/resource/Destine
-summer - http://dbpedia.org/resource/Summer
-executive branch - http://dbpedia.org/resource/Federal_government_of_the_United_States
-newspaper - http://dbpedia.org/resource/News_media
-monster - http://dbpedia.org/resource/Paranoia
-independence movement - http://dbpedia.org/resource/Separatism
-ideal - http://dbpedia.org/resource/Thought_experiment
-peace - http://dbpedia.org/resource/Peace
-virginia assembly - http://dbpedia.org/resource/Virginia_General_Assembly
-legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
-order council - http://dbpedia.org/resource/Order_of_St._Olav
-washington - http://dbpedia.org/resource/George_Washington
-reservation - http://dbpedia.org/resource/Indian_reservation
-rift - http://dbpedia.org/resource/Cardiff_Rift
-entail - http://dbpedia.org/resource/Fee_tail
-news - http://dbpedia.org/resource/News_media
-liberty - http://dbpedia.org/resource/Republicanism_in_the_United_States
-sailor - http://dbpedia.org/resource/Royal_Navy
-free trade - http://dbpedia.org/resource/Free_trade
-rallying - http://dbpedia.org/resource/Rallying
-agriculture - http://dbpedia.org/resource/Agriculture
-virginia ratifying convention - http://dbpedia.org/resource/Virginia_Ratifying_Convention
-hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
-administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
-napoleon - http://dbpedia.org/resource/Napoleon
-defense - http://dbpedia.org/resource/National_security
-taxation - http://dbpedia.org/resource/Tax
-law - http://dbpedia.org/resource/Law
-madison time - http://dbpedia.org/resource/Madison_Time
-scottish enlightenment - http://dbpedia.org/resource/Scottish_Enlightenment
-disgrace - http://dbpedia.org/resource/Disgrace
-alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
-economic coercion - http://dbpedia.org/resource/Coercion
-philadelphia convention - http://dbpedia.org/resource/Constitutional_Convention_(United_States)
-jefferson administration - http://dbpedia.org/resource/Presidency_of_Thomas_Jefferson
-revolution - http://dbpedia.org/resource/French_Revolution
-annapolis - http://dbpedia.org/resource/Annapolis_Royal
-amendment - http://dbpedia.org/resource/Law
-virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-dolley payne - http://dbpedia.org/resource/Dolley_Madison
-kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-gulf coast - http://dbpedia.org/resource/Gulf_Coast_of_the_United_States
 federalist - http://dbpedia.org/resource/Federalist
-republic - http://dbpedia.org/resource/French_First_Republic
-planter - http://dbpedia.org/resource/Planter_class
-foreign policy - http://dbpedia.org/resource/Foreign_policy
-session house - http://dbpedia.org/resource/Session_(Presbyterianism)
-constituency - http://dbpedia.org/resource/Electoral_district
-elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
-rector - http://dbpedia.org/resource/Anglican_ministry
-bust - http://dbpedia.org/resource/Business_cycle
-landholder - http://dbpedia.org/resource/Land_tenure
-federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-engineer - http://dbpedia.org/resource/Civil_engineer
-continent - http://dbpedia.org/resource/Europe
-aggression - http://dbpedia.org/resource/War_of_aggression
-tobacco - http://dbpedia.org/resource/Tobacco
-jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-rely - http://dbpedia.org/resource/Rely_(brand)
-ghent - http://dbpedia.org/resource/Ghent
-light - http://dbpedia.org/resource/Light_infantry
-spring - http://dbpedia.org/resource/Spring_and_Autumn_period
-election - http://dbpedia.org/resource/Election
-collective impact - http://dbpedia.org/resource/Collective_impact
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-impressment - http://dbpedia.org/resource/Impressment
-american revolution - http://dbpedia.org/resource/American_Revolution
-montpelier - http://dbpedia.org/resource/Montpelier,_Vermont
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
-national bank limited - http://dbpedia.org/resource/National_Bank_Limited
-parliament - http://dbpedia.org/resource/Parliament
-plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
-american constitutional law - http://dbpedia.org/resource/United_States_constitutional_law
-weapon - http://dbpedia.org/resource/Weapon_of_mass_destruction
-veto - http://dbpedia.org/resource/Veto
-marriage - http://dbpedia.org/resource/Same-sex_marriage
-thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-religion - http://dbpedia.org/resource/Freedom_of_religion
-comprehensive plan - http://dbpedia.org/resource/Comprehensive_planning
-sedition - http://dbpedia.org/resource/Sedition
-adams - http://dbpedia.org/resource/John_Adams
-orleans - http://dbpedia.org/resource/New_Orleans
-provocation - http://dbpedia.org/resource/Agent_provocateur
-committee - http://dbpedia.org/resource/Committee
-family - http://dbpedia.org/resource/Family
-consul - http://dbpedia.org/resource/French_Consulate
-canadian campaign - http://dbpedia.org/resource/Invasion_of_Quebec_(1775)
-religious freedom - http://dbpedia.org/resource/Freedom_of_religion
-unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-import duty - http://dbpedia.org/resource/Tariff
-public law - http://dbpedia.org/resource/Criminal_law
-coda - http://dbpedia.org/resource/Epilogue
-financial system - http://dbpedia.org/resource/Finance
-internal improvement - http://dbpedia.org/resource/Internal_improvements
-national bank - http://dbpedia.org/resource/First_Bank_of_the_United_States
-virginia delegate - http://dbpedia.org/resource/Virginia_House_of_Delegates
-draft - http://dbpedia.org/resource/Conscription
-david - http://dbpedia.org/resource/Jacques-Louis_David
-essay - http://dbpedia.org/resource/Essay
-widen - http://dbpedia.org/resource/Widen
-nullification - http://dbpedia.org/resource/Nullification_Crisis
-substitute - http://dbpedia.org/resource/Substitutionary_atonement
-bear - http://dbpedia.org/resource/Bear
-john jay - http://dbpedia.org/resource/John_Jay
-affectionately - http://dbpedia.org/resource/Affectionately
-admire - http://dbpedia.org/resource/Admire,_Kansas
-republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
-dolley madison - http://dbpedia.org/resource/Dolley_Madison
-vulnerable - http://dbpedia.org/resource/Vulnerability
-triad - http://dbpedia.org/resource/Nuclear_triad
-louisiana - http://dbpedia.org/resource/Louisiana
-george washington - http://dbpedia.org/resource/George_Washington
-scrap - http://dbpedia.org/resource/Ship_breaking
-doctrine - http://dbpedia.org/resource/Doctrine
-church - http://dbpedia.org/resource/Catholic_Church
-virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-u.s. house representatives - http://dbpedia.org/resource/United_States_House_of_Representatives
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-governor - http://dbpedia.org/resource/Governor
-republicans - http://dbpedia.org/resource/French_First_Republic
-speculator - http://dbpedia.org/resource/Speculation
-american system - http://dbpedia.org/resource/American_system_of_manufacturing
-human - http://dbpedia.org/resource/Human_rights
-1808 presidential election - http://dbpedia.org/resource/1808_United_States_presidential_election
-whiggish - http://dbpedia.org/resource/Whig_history
-american foreign policy - http://dbpedia.org/resource/Foreign_policy_of_the_United_States
+philadelphia - http://dbpedia.org/resource/Philadelphia
 milan decree - http://dbpedia.org/resource/Milan_Decree
+scrap - http://dbpedia.org/resource/Ship_breaking
+free trade - http://dbpedia.org/resource/Free_trade
+american constitutional law - http://dbpedia.org/resource/United_States_constitutional_law
+fifths - http://dbpedia.org/resource/Perfect_fifth
+consuls - http://dbpedia.org/resource/French_Consulate
+financial system - http://dbpedia.org/resource/Finance
+confederation - http://dbpedia.org/resource/Confederation
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+free speech - http://dbpedia.org/resource/Freedom_of_speech
+legislator - http://dbpedia.org/resource/Legislature
+collective impact - http://dbpedia.org/resource/Collective_impact
+summer - http://dbpedia.org/resource/Summer
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+continental congress - http://dbpedia.org/resource/Continental_Congress
+embargo - http://dbpedia.org/resource/Embargo_Act_of_1807
+washington - http://dbpedia.org/resource/George_Washington
+public debt - http://dbpedia.org/resource/Government_debt
+affectionately - http://dbpedia.org/resource/Affectionately
+virginia convention - http://dbpedia.org/resource/Virginia_Ratifying_Convention
+west florida - http://dbpedia.org/resource/West_Florida
+bust - http://dbpedia.org/resource/Business_cycle
+dolley payne - http://dbpedia.org/resource/Dolley_Madison
+statute - http://dbpedia.org/resource/Statute
+revolution - http://dbpedia.org/resource/French_Revolution
+republicans - http://dbpedia.org/resource/French_First_Republic
+bumbo - http://dbpedia.org/resource/Bumbo
+speculators - http://dbpedia.org/resource/Speculation
+dose - http://dbpedia.org/resource/Ionizing_radiation
+david - http://dbpedia.org/resource/Jacques-Louis_David
+virginia ratifying convention - http://dbpedia.org/resource/Virginia_Ratifying_Convention
+comprehensive plan - http://dbpedia.org/resource/Comprehensive_planning
+heir apparent - http://dbpedia.org/resource/Heir_apparent
+triad - http://dbpedia.org/resource/Nuclear_triad
+john adams - http://dbpedia.org/resource/John_Adams
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+news - http://dbpedia.org/resource/News_media
+great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+republic - http://dbpedia.org/resource/French_First_Republic
+continent - http://dbpedia.org/resource/Continental_Europe
+princeton - http://dbpedia.org/resource/Princeton_University
+virginia delegate - http://dbpedia.org/resource/Virginia_House_of_Delegates
+independence movement - http://dbpedia.org/resource/Separatism
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+landholder - http://dbpedia.org/resource/Land_tenure
+u.s. house - http://dbpedia.org/resource/United_States_House_of_Representatives
+montpelier - http://dbpedia.org/resource/Montpelier,_Vermont
+thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+monster - http://dbpedia.org/resource/Paranoia
+james madison - http://dbpedia.org/resource/James_Madison
+weapon - http://dbpedia.org/resource/Weapon_of_mass_destruction
+amendment - http://dbpedia.org/resource/Law
+tidewater region - http://dbpedia.org/resource/Tidewater_(region)
+republican parties - http://dbpedia.org/resource/Republican_Party_(United_States)
+alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
+ratio - http://dbpedia.org/resource/Reason
+taxation - http://dbpedia.org/resource/Tax
+adams - http://dbpedia.org/resource/John_Adams
+virginia assembly - http://dbpedia.org/resource/Virginia_General_Assembly
+coda - http://dbpedia.org/resource/Epilogue
+protective tariff - http://dbpedia.org/resource/Tariff_in_United_States_history
+whiggish - http://dbpedia.org/resource/Whig_history
+nullification - http://dbpedia.org/resource/Nullification_Crisis
+ambrose - http://dbpedia.org/resource/Ambrose
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+orleans - http://dbpedia.org/resource/New_Orleans
+jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+defense - http://dbpedia.org/resource/National_security
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+york - http://dbpedia.org/resource/York
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+individual rights - http://dbpedia.org/resource/Natural_rights_and_legal_rights
+hume - http://dbpedia.org/resource/David_Hume
+plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
+national bank - http://dbpedia.org/resource/First_Bank_of_the_United_States
+kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+polarized - http://dbpedia.org/resource/Political_polarization
+disengage - http://dbpedia.org/resource/Disengage_(album)
+hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
+sedition - http://dbpedia.org/resource/Sedition
+preoccupied - http://dbpedia.org/resource/International_Code_of_Zoological_Nomenclature
+coercive acts - http://dbpedia.org/resource/Intolerable_Acts
+napoleon - http://dbpedia.org/resource/Napoleon
+republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
+1808 presidential election - http://dbpedia.org/resource/1808_United_States_presidential_election
+internal improvements - http://dbpedia.org/resource/Internal_improvements
+philadelphia convention - http://dbpedia.org/resource/Constitutional_Convention_(United_States)
+george washington - http://dbpedia.org/resource/George_Washington
+orange county - http://dbpedia.org/resource/Orange_County_SC
+constitutional convention - http://dbpedia.org/resource/Constitution_of_Indiana
+draft - http://dbpedia.org/resource/Conscription
+vulnerable - http://dbpedia.org/resource/Vulnerability
+agriculture - http://dbpedia.org/resource/Agriculture
+john jay - http://dbpedia.org/resource/John_Jay
+bonus bill - http://dbpedia.org/resource/Bonus_Bill_of_1817
+liquor - http://dbpedia.org/resource/Liquor
+adam smith - http://dbpedia.org/resource/Adam_Smith
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
+virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+marriage - http://dbpedia.org/resource/Same-sex_marriage
+economic coercion - http://dbpedia.org/resource/Coercion
+british economy - http://dbpedia.org/resource/Economy_of_the_United_Kingdom
+presidential - http://dbpedia.org/resource/President_of_the_United_States
+human - http://dbpedia.org/resource/Human_rights
+aggressions - http://dbpedia.org/resource/Aggression
+religion - http://dbpedia.org/resource/Freedom_of_religion
+disgrace - http://dbpedia.org/resource/Disgrace
+constituency - http://dbpedia.org/resource/Electoral_district
+american foreign policy - http://dbpedia.org/resource/Foreign_policy_of_the_United_States
+impressment - http://dbpedia.org/resource/Impressment
+rector - http://dbpedia.org/resource/Anglican_ministry
+capital - http://dbpedia.org/resource/Capital_punishment
+family - http://dbpedia.org/resource/Family
+reservations - http://dbpedia.org/resource/Indian_reservation
+president - http://dbpedia.org/resource/President_of_the_United_States
+planters - http://dbpedia.org/resource/Planter_class
+executive branch - http://dbpedia.org/resource/Federal_government_of_the_United_States
+gulf coast - http://dbpedia.org/resource/Gulf_Coast_of_the_United_States
+foreign policy - http://dbpedia.org/resource/Foreign_policy
+dolley madison - http://dbpedia.org/resource/Dolley_Madison
+annapolis - http://dbpedia.org/resource/Annapolis_Royal
+ghent - http://dbpedia.org/resource/Ghent
+american system - http://dbpedia.org/resource/American_system_of_manufacturing
+parliament - http://dbpedia.org/resource/Parliament
+revolutionary - http://dbpedia.org/resource/American_Revolution
+farming - http://dbpedia.org/resource/Farmer
+import duties - http://dbpedia.org/resource/Tariff
+federalists - http://dbpedia.org/resource/Federalist_Party
+american revolution - http://dbpedia.org/resource/American_Revolution
+scottish enlightenment - http://dbpedia.org/resource/Scottish_Enlightenment
+virginia james - http://dbpedia.org/resource/Virginia_James
+committee - http://dbpedia.org/resource/Committee
+peace - http://dbpedia.org/resource/Peace
+rallying - http://dbpedia.org/resource/Rallying
+madison - http://dbpedia.org/resource/Madison_(cycling)
+election - http://dbpedia.org/resource/Election
+rift - http://dbpedia.org/resource/Cardiff_Rift
+louisiana - http://dbpedia.org/resource/Louisiana
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+religious freedom - http://dbpedia.org/resource/Freedom_of_religion
+jefferson administration - http://dbpedia.org/resource/Presidency_of_Thomas_Jefferson
+tobacco - http://dbpedia.org/resource/Tobacco
+guiding light - http://dbpedia.org/resource/Guiding_Light
+wave - http://dbpedia.org/resource/Wave
+james monroe - http://dbpedia.org/resource/James_Monroe

@@ -10,14 +10,12 @@ prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdo
 winston churchill - http://dbpedia.org/resource/Winston_Churchill
 race - http://dbpedia.org/resource/Racing
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
+journeyed - http://dbpedia.org/resource/JourneyEd
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 mexico - http://dbpedia.org/resource/Mexico
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
 los alamos - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
-american canadian - http://dbpedia.org/resource/American_Canadians
-nuclear program - http://dbpedia.org/resource/German_nuclear_weapons_program
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
 great britain - http://dbpedia.org/resource/United_Kingdom
 ussr - http://dbpedia.org/resource/Soviet_Union

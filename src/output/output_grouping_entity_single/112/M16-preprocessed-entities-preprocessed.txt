@@ -1,40 +1,38 @@
-technology - http://dbpedia.org/resource/Technology
-interlace - http://dbpedia.org/resource/Interlaced_video
 abstract - http://dbpedia.org/resource/Abstraction
-durrow - http://dbpedia.org/resource/Durrow_Abbey
 insular illumination - http://dbpedia.org/resource/Insular_illumination
-micro - http://dbpedia.org/resource/Microscopic_scale
-illumination - http://dbpedia.org/resource/Illuminated_manuscript
-british isles - http://dbpedia.org/resource/British_Isles
-microscopic - http://dbpedia.org/resource/Microscope
-fuse - http://dbpedia.org/resource/Nuclear_fusion
-renaissance - http://dbpedia.org/resource/Renaissance
-eye - http://dbpedia.org/resource/Human_eye
-proofreader - http://dbpedia.org/resource/Proofreading
-relief - http://dbpedia.org/resource/Relief
-.38 - http://dbpedia.org/resource/.38_Special
-interpupillary distance - http://dbpedia.org/resource/Pupillary_distance
-cisne - http://dbpedia.org/resource/Nevado_El_Cisne
-grid - http://dbpedia.org/resource/Lattice_graph
-stereoscopic - http://dbpedia.org/resource/Stereopsis
-freehand - http://dbpedia.org/resource/Adobe_FreeHand
-precision - http://dbpedia.org/resource/Accuracy_and_precision
-magnification - http://dbpedia.org/resource/Microscope
-lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
-space - http://dbpedia.org/resource/Space
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-stereoacuity - http://dbpedia.org/resource/Stereopsis
-fusion - http://dbpedia.org/resource/Nuclear_fusion
-early medieval - http://dbpedia.org/resource/Early_Middle_Ages
-perception - http://dbpedia.org/resource/Depth_perception
-family monastery - http://dbpedia.org/resource/House_monastery
-proofreading - http://dbpedia.org/resource/Proofreading
-stereoscopic image - http://dbpedia.org/resource/Stereoscopy
-illuminator - http://dbpedia.org/resource/Illuminated_manuscript
-howard - http://dbpedia.org/resource/John_Howard
 paper - http://dbpedia.org/resource/Paper
+family - http://dbpedia.org/resource/Family
+freehand - http://dbpedia.org/resource/Adobe_FreeHand
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+grid - http://dbpedia.org/resource/Lattice_graph
+illuminators - http://dbpedia.org/resource/Illuminated_manuscript
+miracles - http://dbpedia.org/resource/Miracle
+interlace - http://dbpedia.org/resource/Interlaced_video
+microscopic - http://dbpedia.org/resource/Microscope
 gifted - http://dbpedia.org/resource/Gifted_education
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-camera lucida - http://dbpedia.org/resource/Camera_lucida
-successive approximation - http://dbpedia.org/resource/Successive_approximation_ADC
 scribe - http://dbpedia.org/resource/Insular_script
+perception - http://dbpedia.org/resource/Depth_perception
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+successive approximation - http://dbpedia.org/resource/Successive_approximation_ADC
+cisne - http://dbpedia.org/resource/Nevado_El_Cisne
+howard - http://dbpedia.org/resource/John_Howard
+lenses - http://dbpedia.org/resource/Camera_lens
+micro - http://dbpedia.org/resource/Microscopic_scale
+astronomical - http://dbpedia.org/resource/Astronomical_object
+british isles - http://dbpedia.org/resource/British_Isles
+fusion - http://dbpedia.org/resource/Nuclear_fusion
+.38 - http://dbpedia.org/resource/.38_Special
+stereoscopic - http://dbpedia.org/resource/Stereopsis
+magnification - http://dbpedia.org/resource/Magnification
+long lost - http://dbpedia.org/resource/Long_Lost
+camera lucida - http://dbpedia.org/resource/Camera_lucida
+monasteries - http://dbpedia.org/resource/Celtic_Christianity
+technology - http://dbpedia.org/resource/Technology
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+proofreading - http://dbpedia.org/resource/Proofreading
+renaissance - http://dbpedia.org/resource/Renaissance
+early medieval - http://dbpedia.org/resource/Early_Middle_Ages
+relief - http://dbpedia.org/resource/Relief
+lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
+stereoacuity - http://dbpedia.org/resource/Stereopsis
+precision - http://dbpedia.org/resource/Accuracy_and_precision

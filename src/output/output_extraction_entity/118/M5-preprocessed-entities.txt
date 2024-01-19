@@ -2,23 +2,23 @@ roman fort - http://dbpedia.org/resource/Castra
 brocavum - http://dbpedia.org/resource/Brocavum
 robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
 confluence - http://dbpedia.org/resource/Confluence
-river lowther - http://dbpedia.org/resource/River_Lowther
+lowther - http://dbpedia.org/resource/River_Lowther
 eamont - http://dbpedia.org/resource/River_Eamont
 king john - http://dbpedia.org/resource/John_Balliol
 stone - http://dbpedia.org/resource/Stonemasonry
 stone - http://dbpedia.org/resource/Stonemasonry
 marriage - http://dbpedia.org/resource/Same-sex_marriage
 robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
-clifford castle - http://dbpedia.org/resource/Clifford_Castle
+roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
 clifford family - http://dbpedia.org/resource/Baron_de_Clifford
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 robert clifford - http://dbpedia.org/resource/Bob_Clifford
-castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
+gatehouse - http://dbpedia.org/resource/Gatehouse
 tower - http://dbpedia.org/resource/Keep
-corner stone - http://dbpedia.org/resource/Cornerstone
+stone - http://dbpedia.org/resource/Stonemasonry
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
-defence - http://dbpedia.org/resource/Military
+saxon wars - http://dbpedia.org/resource/Saxon_Wars
 great hall - http://dbpedia.org/resource/Great_hall
 lancastrian - http://dbpedia.org/resource/House_of_Lancaster
 clifford family - http://dbpedia.org/resource/Baron_de_Clifford
@@ -30,9 +30,10 @@ john clifford - http://dbpedia.org/resource/John_Clifford,_9th_Baron_Clifford
 john henry - http://dbpedia.org/resource/John_W._Henry
 henry vi - http://dbpedia.org/resource/Henry_VI_of_England
 henry - http://dbpedia.org/resource/Henry_(unit)
-henry vii tudor - http://dbpedia.org/resource/Henry_VII_of_England
-prosper - http://dbpedia.org/resource/Prosper_of_Aquitaine
-clifford castle - http://dbpedia.org/resource/Clifford_Castle
+cliffords - http://dbpedia.org/resource/Baron_de_Clifford
+henry vii - http://dbpedia.org/resource/Henry_VII_of_England
+tudor - http://dbpedia.org/resource/House_of_Tudor
+henry clifford - http://dbpedia.org/resource/Henry_Clifford,_10th_Baron_Clifford
 george clifford - http://dbpedia.org/resource/George_Clifford_III
 court - http://dbpedia.org/resource/Royal_court
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
@@ -47,10 +48,8 @@ tower - http://dbpedia.org/resource/Keep
 tower - http://dbpedia.org/resource/Keep
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
 garage sale - http://dbpedia.org/resource/Garage_sale
-shilling - http://dbpedia.org/resource/Shilling
-decay - http://dbpedia.org/resource/Urban_decay
+shillings - http://dbpedia.org/resource/Shilling
 shell - http://dbpedia.org/resource/Seashell
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
 william wordsworth - http://dbpedia.org/resource/William_Wordsworth
 poem - http://dbpedia.org/resource/Poetry
 prelude - http://dbpedia.org/resource/Prologue

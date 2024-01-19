@@ -12,14 +12,12 @@ digital - http://dbpedia.org/resource/Digital_data
 folio - http://dbpedia.org/resource/Folio
 hebrew - http://dbpedia.org/resource/Hebrew_language
 evangelist - http://dbpedia.org/resource/Four_Evangelists
-symbol - http://dbpedia.org/resource/Symbol
 tcd - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
 ms - http://dbpedia.org/resource/Millisecond
 luke - http://dbpedia.org/resource/Luke_the_Evangelist
 folio - http://dbpedia.org/resource/Folio
-digital - http://dbpedia.org/resource/Digital_data
-surrogate - http://dbpedia.org/resource/Surrogate_key
-transparency - http://dbpedia.org/resource/Reversal_film
+digital surrogates - http://dbpedia.org/resource/Digital_artifactual_value
+transparencies - http://dbpedia.org/resource/Reversal_film
 faksimile - http://dbpedia.org/resource/Facsimile
 lucerne - http://dbpedia.org/resource/Lucerne
 switzerland - http://dbpedia.org/resource/Switzerland
@@ -29,22 +27,18 @@ gospels - http://dbpedia.org/resource/Gospel
 latin - http://dbpedia.org/resource/Latin
 vulgate - http://dbpedia.org/resource/Vulgate
 st jerome - http://dbpedia.org/resource/Jerome
-intermix - http://dbpedia.org/resource/Intermix_(band)
 latin - http://dbpedia.org/resource/Latin
 translation - http://dbpedia.org/resource/Wycliffe's_Bible
-canon table - http://dbpedia.org/resource/Eusebian_Canons
-concordance - http://dbpedia.org/resource/Bible_concordance
-evangelist - http://dbpedia.org/resource/Four_Evangelists
-narrative - http://dbpedia.org/resource/Narrative
-breve - http://dbpedia.org/resource/Breve
-evangelist - http://dbpedia.org/resource/Four_Evangelists
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
+concordances - http://dbpedia.org/resource/Bible_concordance
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+evangelists - http://dbpedia.org/resource/Four_Evangelists
 vellum - http://dbpedia.org/resource/Vellum
 calfskin - http://dbpedia.org/resource/Calfskin
 insular majuscule - http://dbpedia.org/resource/Insular_script
-folio - http://dbpedia.org/resource/Folio
-gild - http://dbpedia.org/resource/Gilding
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-dimension - http://dbpedia.org/resource/Dimension
+folios - http://dbpedia.org/resource/Folio
+gilded - http://dbpedia.org/resource/Gilding
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
 vellum parchment - http://dbpedia.org/resource/Vellum
 ink - http://dbpedia.org/resource/Ink
 kells - http://dbpedia.org/resource/Abbey_of_Kells
@@ -54,10 +48,8 @@ gospels - http://dbpedia.org/resource/Gospel
 latin - http://dbpedia.org/resource/Latin
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 illumination - http://dbpedia.org/resource/Illuminated_manuscript
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 celtic - http://dbpedia.org/resource/Celtic_languages
 illumination - http://dbpedia.org/resource/Illuminated_manuscript
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 medieval - http://dbpedia.org/resource/Medieval_art
 ornament - http://dbpedia.org/resource/Decorative_arts
 celtic - http://dbpedia.org/resource/Celtic_languages

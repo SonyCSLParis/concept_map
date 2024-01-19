@@ -5,8 +5,7 @@ virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolut
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky - http://dbpedia.org/resource/Kentucky
 u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 kentucky - http://dbpedia.org/resource/Kentucky
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 author - http://dbpedia.org/resource/Arthur_Schopenhauer
@@ -24,13 +23,12 @@ sedition - http://dbpedia.org/resource/Sedition
 quasi war - http://dbpedia.org/resource/Quasi-War
 quasi war - http://dbpedia.org/resource/Quasi-War
 federal crime - http://dbpedia.org/resource/Federal_crime_in_the_United_States
-alien - http://dbpedia.org/resource/Extraterrestrial_life
-enemy alien - http://dbpedia.org/resource/Enemy_alien
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
+enemy aliens - http://dbpedia.org/resource/Enemy_alien
 president - http://dbpedia.org/resource/President_of_the_United_States
 federalist party - http://dbpedia.org/resource/Federalist_Party
 subversion - http://dbpedia.org/resource/Subversion
 jeffersonian republicans - http://dbpedia.org/resource/Democratic-Republican_Party
-law - http://dbpedia.org/resource/Common_law
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 secede - http://dbpedia.org/resource/Secession_in_the_United_States
@@ -40,18 +38,17 @@ resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 james madison - http://dbpedia.org/resource/James_Madison
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky - http://dbpedia.org/resource/Kentucky
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
+nullify federal laws - http://dbpedia.org/resource/Nullification_(U.S._Constitution)
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
@@ -62,16 +59,12 @@ nullification - http://dbpedia.org/resource/Nullification_Crisis
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 hampshire - http://dbpedia.org/resource/Hampshire
-newspaper - http://dbpedia.org/resource/News_media
 sinister - http://dbpedia.org/resource/Dexter_and_sinister
-foreshadowing - http://dbpedia.org/resource/Foreshadowing
 civil war - http://dbpedia.org/resource/Civil_war
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky - http://dbpedia.org/resource/Kentucky
-insurrection - http://dbpedia.org/resource/Rebellion
-tumult - http://dbpedia.org/resource/Tumult_Records
 legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
 legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
 hampshire - http://dbpedia.org/resource/Hampshire
@@ -79,20 +72,15 @@ resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 aggression - http://dbpedia.org/resource/War_of_aggression
-warrant - http://dbpedia.org/resource/Arrest_warrant
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
-confide - http://dbpedia.org/resource/Confide
 federalist - http://dbpedia.org/resource/Federalist
 alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
-law - http://dbpedia.org/resource/Common_law
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 resistance - http://dbpedia.org/resource/Resistance_movement
 resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-party party - http://dbpedia.org/resource/Party_Party_(film)
 1800 election - http://dbpedia.org/resource/1800_United_States_presidential_election
 republicans - http://dbpedia.org/resource/Republicanism
 resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
@@ -116,6 +104,7 @@ kentucky - http://dbpedia.org/resource/Kentucky
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 federalism - http://dbpedia.org/resource/Federalism
 constantine - http://dbpedia.org/resource/Grand_Duke_Konstantin_Pavlovich_of_Russia
+tangled - http://dbpedia.org/resource/Tangled
 james madison - http://dbpedia.org/resource/James_Madison
 compound - http://dbpedia.org/resource/Chemical_compound
 republic - http://dbpedia.org/resource/Republic
@@ -143,4 +132,4 @@ madison - http://dbpedia.org/resource/Madison_(cycling)
 american revolution - http://dbpedia.org/resource/Founding_Fathers_of_the_United_States
 kentucky - http://dbpedia.org/resource/Kentucky
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council

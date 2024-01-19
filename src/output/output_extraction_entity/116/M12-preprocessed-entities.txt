@@ -19,17 +19,21 @@ european parliament - http://dbpedia.org/resource/European_Parliament
 budgetary control committee - http://dbpedia.org/resource/European_Parliament_Committee_on_Budgetary_Control
 cepol - http://dbpedia.org/resource/European_Police_College
 furniture - http://dbpedia.org/resource/Furniture
-mobile phone - http://dbpedia.org/resource/Mobile_phone
+mobile phones - http://dbpedia.org/resource/Mobile_phone
 ms - http://dbpedia.org/resource/Millisecond
 gazette - http://dbpedia.org/resource/Gazette
+ethics - http://dbpedia.org/resource/Ethics
 question mark - http://dbpedia.org/resource/Question_mark
 cepol - http://dbpedia.org/resource/European_Police_College
 bramshill house - http://dbpedia.org/resource/Bramshill_House
+listed building - http://dbpedia.org/resource/Listed_building
 national policing improvement agency - http://dbpedia.org/resource/National_Policing_Improvement_Agency
 cepol - http://dbpedia.org/resource/European_Police_College
-police officer - http://dbpedia.org/resource/Police
+runs - http://dbpedia.org/resource/Glossary_of_cricket_terms
+police - http://dbpedia.org/resource/Police
 crime - http://dbpedia.org/resource/Crime
+18 months - http://dbpedia.org/resource/18_Months
 european parliament - http://dbpedia.org/resource/European_Parliament
 budgetary control committee - http://dbpedia.org/resource/European_Parliament_Committee_on_Budgetary_Control
 accounting - http://dbpedia.org/resource/Accounting
-european parliament member - http://dbpedia.org/resource/Member_of_the_European_Parliament
+european parliament - http://dbpedia.org/resource/European_Parliament

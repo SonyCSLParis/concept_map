@@ -1,56 +1,53 @@
-fabric - http://dbpedia.org/resource/Textile
-n17 - http://dbpedia.org/resource/N_postcode_area
-hotel - http://dbpedia.org/resource/Hotel
-mount - http://dbpedia.org/resource/Telescope_mount
-taxi - http://dbpedia.org/resource/Taxicab
-service apartment - http://dbpedia.org/resource/Serviced_apartment
-walk rate - http://dbpedia.org/resource/Bases_on_balls_per_nine_innings_pitched
-wi fi - http://dbpedia.org/resource/Wi-Fi
-cafe - http://dbpedia.org/resource/Coffeehouse
-cargo - http://dbpedia.org/resource/Cargo
-breakfast - http://dbpedia.org/resource/Breakfast
-beaconsfield - http://dbpedia.org/resource/Beaconsfield
-email - http://dbpedia.org/resource/Email
-beaconsfield studios - http://dbpedia.org/resource/Beaconsfield_Film_Studios
-wembley arena - http://dbpedia.org/resource/Wembley_Arena
 heart - http://dbpedia.org/resource/Heart
-north london - http://dbpedia.org/resource/North_London
-pricing - http://dbpedia.org/resource/Pricing
-skiddle - http://dbpedia.org/resource/Skiddle
 o2 arena - http://dbpedia.org/resource/The_O2_Arena
-serviced apartment - http://dbpedia.org/resource/Serviced_apartment
-wembley stadium - http://dbpedia.org/resource/Wembley_Stadium
+egg london - http://dbpedia.org/resource/Egg_London
+boutique hotel - http://dbpedia.org/resource/Boutique_hotel
+pricing - http://dbpedia.org/resource/Pricing
+hotel - http://dbpedia.org/resource/Hotel
+moon - http://dbpedia.org/resource/Moon
+clapton common - http://dbpedia.org/resource/Upper_Clapton
+beaconsfield studios - http://dbpedia.org/resource/Beaconsfield_Film_Studios
+cafe - http://dbpedia.org/resource/Coffeehouse
+west green - http://dbpedia.org/resource/West_Green_House
+stamford hill - http://dbpedia.org/resource/Stamford_Hill
+budget hotel - http://dbpedia.org/resource/Hotel
+taxi - http://dbpedia.org/resource/Taxicab
+mount - http://dbpedia.org/resource/Weapon_mount
+cargo - http://dbpedia.org/resource/Cargo
+station - http://dbpedia.org/resource/Train_station
+high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+finsbury park - http://dbpedia.org/resource/Finsbury_Park
+flies - http://dbpedia.org/resource/Fly_fishing
+harringay - http://dbpedia.org/resource/Harringay
+real time - http://dbpedia.org/resource/Real-time_computing
 fountain hotel - http://dbpedia.org/resource/Fountain_Hotel
-n22 - http://dbpedia.org/resource/N_postcode_area
+court - http://dbpedia.org/resource/Courtyard
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle
+grid - http://dbpedia.org/resource/Grid_plan
+crompton - http://dbpedia.org/resource/Shaw_and_Crompton
+breakfast - http://dbpedia.org/resource/Breakfast
+n16 - http://dbpedia.org/resource/N_postcode_area
+sisters underground - http://dbpedia.org/resource/Sisters_Underground
+london hotel - http://dbpedia.org/resource/London_Hotel,_Albany
 jazz - http://dbpedia.org/resource/Jazz
 guest house - http://dbpedia.org/resource/Guest_house
-n16 - http://dbpedia.org/resource/N_postcode_area
-green lanes - http://dbpedia.org/resource/Green_lane_(road)
-stamford hill - http://dbpedia.org/resource/Stamford_Hill
-crompton - http://dbpedia.org/resource/Shaw_and_Crompton
-luxury hotel - http://dbpedia.org/resource/Hotel
-budget hotel - http://dbpedia.org/resource/Hotel
-boutique hotel - http://dbpedia.org/resource/Boutique_hotel
-wifi - http://dbpedia.org/resource/Wi-Fi
-west green - http://dbpedia.org/resource/West_Green_House
-grid view - http://dbpedia.org/resource/Grid_view
-n15 - http://dbpedia.org/resource/N_postcode_area
-high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
-putney - http://dbpedia.org/resource/Putney
-grid - http://dbpedia.org/resource/Grid_plan
-court - http://dbpedia.org/resource/Courtyard
-harringay - http://dbpedia.org/resource/Harringay
-bruce castle park - http://dbpedia.org/resource/Bruce_Castle
-moon - http://dbpedia.org/resource/Moon
-mountview - http://dbpedia.org/resource/Mountview_Academy_of_Theatre_Arts
-railway station - http://dbpedia.org/resource/Train_station
-egg london - http://dbpedia.org/resource/Egg_London
-restaurant - http://dbpedia.org/resource/Restaurant
-real time - http://dbpedia.org/resource/Real-time_computing
-lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
-n13 - http://dbpedia.org/resource/N_postcode_area
-underground station - http://dbpedia.org/resource/Metro_station
-london hotel - http://dbpedia.org/resource/London_Hotel,_Albany
-finsbury park - http://dbpedia.org/resource/Finsbury_Park
 guesthouse - http://dbpedia.org/resource/Guest_house
-clapton common - http://dbpedia.org/resource/Upper_Clapton
+wi fi - http://dbpedia.org/resource/Wi-Fi
+green lanes - http://dbpedia.org/resource/Green_lane_(road)
+n15 - http://dbpedia.org/resource/N_postcode_area
+n22 - http://dbpedia.org/resource/N_postcode_area
+wifi - http://dbpedia.org/resource/Wi-Fi
+wembley arena - http://dbpedia.org/resource/Wembley_Arena
+n17 - http://dbpedia.org/resource/N_postcode_area
+wembley stadium - http://dbpedia.org/resource/Wembley_Stadium
+email - http://dbpedia.org/resource/Email
+putney - http://dbpedia.org/resource/Putney
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+beaconsfield - http://dbpedia.org/resource/Beaconsfield
+mountview - http://dbpedia.org/resource/Mountview_Academy_of_Theatre_Arts
+n13 - http://dbpedia.org/resource/N_postcode_area
+north london - http://dbpedia.org/resource/North_London
+fitted kitchen - http://dbpedia.org/resource/Kitchen
+fabric - http://dbpedia.org/resource/Textile
+skiddle - http://dbpedia.org/resource/Skiddle
+grid view - http://dbpedia.org/resource/Grid_view

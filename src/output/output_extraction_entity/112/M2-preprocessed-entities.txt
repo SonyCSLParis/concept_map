@@ -4,9 +4,9 @@ centerville - http://dbpedia.org/resource/Centerville,_Ohio
 library - http://dbpedia.org/resource/Library
 facsimile - http://dbpedia.org/resource/Facsimile
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-manuscript - http://dbpedia.org/resource/Manuscript
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 library - http://dbpedia.org/resource/Library
-trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
 dan hill - http://dbpedia.org/resource/Dan_Hill
 forge - http://dbpedia.org/resource/Forge
 washington - http://dbpedia.org/resource/University_of_Washington

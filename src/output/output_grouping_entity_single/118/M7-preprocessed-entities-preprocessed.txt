@@ -1,235 +1,214 @@
-fabric - http://dbpedia.org/resource/Textile
-carlisle - http://dbpedia.org/resource/Carlisle
-cobbled - http://dbpedia.org/resource/Cobblestone
-archaeological excavation - http://dbpedia.org/resource/Excavation_(archaeology)
-soldier - http://dbpedia.org/resource/Soldier
-sports - http://dbpedia.org/resource/Sport
-lady anne - http://dbpedia.org/resource/Anne_Neville
-berm - http://dbpedia.org/resource/Berm
-archaeological record - http://dbpedia.org/resource/Archaeological_record
-die - http://dbpedia.org/resource/Death
-curtain - http://dbpedia.org/resource/Curtain
-roman road - http://dbpedia.org/resource/Roman_roads
-portugal - http://dbpedia.org/resource/Portugal
-token - http://dbpedia.org/resource/Token_coin
-a66 - http://dbpedia.org/resource/A66_road
-moor lane - http://dbpedia.org/resource/Moor_Lane
-river cliff - http://dbpedia.org/resource/Cut_bank
-vicus - http://dbpedia.org/resource/Vicus
-holme - http://dbpedia.org/resource/River_Holme
-hedge - http://dbpedia.org/resource/Hedge
-pottery - http://dbpedia.org/resource/Pottery
-stainmore pass - http://dbpedia.org/resource/Stainmore
-edward iii - http://dbpedia.org/resource/Edward_II_of_England
-unstratified - http://dbpedia.org/resource/Stratum
-robert de vieuxpont - http://dbpedia.org/resource/Robert_de_Vieuxpont
-robert clifford - http://dbpedia.org/resource/Bob_Clifford
-antiquarian - http://dbpedia.org/resource/Antiquarian
-east west - http://dbpedia.org/resource/East_West_MRT_line
-cohort - http://dbpedia.org/resource/Demography
-cohor - http://dbpedia.org/resource/Lineage_of_Ether
-earthwork - http://dbpedia.org/resource/Fortification
-north river - http://dbpedia.org/resource/Hudson_River
-reserve - http://dbpedia.org/resource/Nature_reserve
-castle bailey - http://dbpedia.org/resource/Bailey_(castle)
-asia minor - http://dbpedia.org/resource/Anatolia
-sewage - http://dbpedia.org/resource/Sanitary_sewer
-brocavum - http://dbpedia.org/resource/Brocavum
-fort - http://dbpedia.org/resource/Castra
-trench - http://dbpedia.org/resource/Trench
-region - http://dbpedia.org/resource/Region
-belatucadrus - http://dbpedia.org/resource/Belatucadros
-datum - http://dbpedia.org/resource/Geodetic_datum
-plough - http://dbpedia.org/resource/Plough
-c11 - http://dbpedia.org/resource/List_of_bus_routes_in_London
-roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
-monument - http://dbpedia.org/resource/Monument
-oven - http://dbpedia.org/resource/Oven
-cottage - http://dbpedia.org/resource/Cottage
-c16 - http://dbpedia.org/resource/Commodore_16
-revet - http://dbpedia.org/resource/Revetment
-road castle - http://dbpedia.org/resource/Road_Castle
-appleby - http://dbpedia.org/resource/Appleby_Castle
-virtue - http://dbpedia.org/resource/Morality
-agricola - http://dbpedia.org/resource/Gnaeus_Julius_Agricola
-archaeological feature - http://dbpedia.org/resource/Feature_(archaeology)
-ditch - http://dbpedia.org/resource/Moat
-skipton - http://dbpedia.org/resource/Skipton
-romans - http://dbpedia.org/resource/Romans_(musician)
-country seat - http://dbpedia.org/resource/English_country_house
-rectilinear - http://dbpedia.org/resource/English_Gothic_architecture
-server - http://dbpedia.org/resource/Web_server
-defensive ditch - http://dbpedia.org/resource/Ditch_(fortification)
-rchme - http://dbpedia.org/resource/Royal_Commission_on_the_Historical_Monuments_of_England
-kirkby thore - http://dbpedia.org/resource/Kirkby_Thore
-east field - http://dbpedia.org/resource/Giza_East_Field
-enclosure - http://dbpedia.org/resource/Enclosure
-medieval - http://dbpedia.org/resource/Middle_Ages
-defence - http://dbpedia.org/resource/Military
-south south - http://dbpedia.org/resource/South_South_(Nigeria)
-peace - http://dbpedia.org/resource/Peace
-circuit - http://dbpedia.org/resource/Electrical_network
-penrith - http://dbpedia.org/resource/Penrith_railway_station
-lordship - http://dbpedia.org/resource/Manorialism
-bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
-culture media - http://dbpedia.org/resource/Growth_medium
-confluence - http://dbpedia.org/resource/Confluence
-mount - http://dbpedia.org/resource/Mountain
-john leland - http://dbpedia.org/resource/John_Leland_(antiquary)
-ad 78 - http://dbpedia.org/resource/AD_78
-eden district - http://dbpedia.org/resource/Eden_District
-warfare - http://dbpedia.org/resource/War
-outer bailey - http://dbpedia.org/resource/Outer_bailey
-stone - http://dbpedia.org/resource/Sandstone
-courtyard - http://dbpedia.org/resource/Courtyard
-scheduled area - http://dbpedia.org/resource/Scheduled_Areas
-settlement - http://dbpedia.org/resource/Town
-warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
-wooler - http://dbpedia.org/resource/Wooler
-rsm - http://dbpedia.org/resource/Royal_Saskatchewan_Museum
-crown copyright - http://dbpedia.org/resource/Crown_copyright
-station - http://dbpedia.org/resource/Train_station
-porch - http://dbpedia.org/resource/Porch
-septic tank - http://dbpedia.org/resource/Septic_tank
-northern england - http://dbpedia.org/resource/Kingdom_of_Northumbria
-grid reference - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
-whinfell - http://dbpedia.org/resource/Whinfell
-moat - http://dbpedia.org/resource/Moat
-gatehouse - http://dbpedia.org/resource/Gatehouse
-vacuum - http://dbpedia.org/resource/Vacuum
-roman wall - http://dbpedia.org/resource/Hadrian's_Wall
-cross ditch - http://dbpedia.org/resource/Moat
-civil war - http://dbpedia.org/resource/English_Civil_War
-timber - http://dbpedia.org/resource/Timber_framing
-legacy system - http://dbpedia.org/resource/Legacy_system
-documentary - http://dbpedia.org/resource/Documentary_film
-deity - http://dbpedia.org/resource/Deity
-excavation - http://dbpedia.org/resource/Digging
-ditched - http://dbpedia.org/resource/Water_landing
-brougham - http://dbpedia.org/resource/Brougham_(carriage)
-ordnance survey - http://dbpedia.org/resource/Ordnance_Survey
-amendment - http://dbpedia.org/resource/Law
-south moor - http://dbpedia.org/resource/South_Moor
-cavalry - http://dbpedia.org/resource/Cavalry
-british crown - http://dbpedia.org/resource/The_Crown
-thorn - http://dbpedia.org/resource/Crataegus_monogyna
-embark - http://dbpedia.org/resource/Embark_(transit_authority)
-great hall - http://dbpedia.org/resource/Great_hall
-celle - http://dbpedia.org/resource/Celle
-rebellion - http://dbpedia.org/resource/American_Revolution
-sse - http://dbpedia.org/resource/Points_of_the_compass
-court chapel - http://dbpedia.org/resource/Court_chapel
-marriage - http://dbpedia.org/resource/Marriage_in_The_Church_of_Jesus_Christ_of_Latter-day_Saints
-trackways - http://dbpedia.org/resource/Historic_roads_and_trails
-earthworks - http://dbpedia.org/resource/Fortification
-william stukeley - http://dbpedia.org/resource/William_Stukeley
-postern - http://dbpedia.org/resource/Postern
-sewerage - http://dbpedia.org/resource/Sanitary_sewer
-ocn - http://dbpedia.org/resource/Open_Computer_Network
-roman fort - http://dbpedia.org/resource/Castra
-timber frame - http://dbpedia.org/resource/Timber_framing
-south point - http://dbpedia.org/resource/Ka_Lae
-scottish border - http://dbpedia.org/resource/Anglo-Scottish_border
-turf - http://dbpedia.org/resource/Sod
-north south - http://dbpedia.org/resource/North_South_MRT_line
-vieuxpont - http://dbpedia.org/resource/Vieuxpont
-archaeologically - http://dbpedia.org/resource/Archaeology
-subject term - http://dbpedia.org/resource/Index_term
-parish - http://dbpedia.org/resource/Civil_parish
-anglo - http://dbpedia.org/resource/Anglo
-tudor style - http://dbpedia.org/resource/Tudor_architecture
-furrow - http://dbpedia.org/resource/Plough
-river lowther - http://dbpedia.org/resource/River_Lowther
-ascendance - http://dbpedia.org/resource/Ascendance_(novel)
-gold coin - http://dbpedia.org/resource/Gold_coin
-counterscarp - http://dbpedia.org/resource/Counterscarp
-c3 - http://dbpedia.org/resource/List_of_bus_routes_in_London
-c4 - http://dbpedia.org/resource/Command_and_control
-wsw - http://dbpedia.org/resource/Points_of_the_compass
-c9 - http://dbpedia.org/resource/FN_Minimi
-roman coin - http://dbpedia.org/resource/Roman_currency
-fireplace - http://dbpedia.org/resource/Fireplace
-marching camp - http://dbpedia.org/resource/Castra
-burial ground - http://dbpedia.org/resource/Tumulus
-king john - http://dbpedia.org/resource/John_Balliol
-wing - http://dbpedia.org/resource/Wing
-court - http://dbpedia.org/resource/Courtyard
-painted chamber - http://dbpedia.org/resource/Painted_Chamber
-c5 - http://dbpedia.org/resource/Cervical_vertebrae
-summer house - http://dbpedia.org/resource/Gazebo
-rufus - http://dbpedia.org/resource/List_of_Kim_Possible_characters
-gate - http://dbpedia.org/resource/Gate
-north northern - http://dbpedia.org/resource/North_Northern_Scots
-satellite - http://dbpedia.org/resource/Satellite
-roman - http://dbpedia.org/resource/Roman_Empire
-chapel - http://dbpedia.org/resource/Castle_chapel
-soil - http://dbpedia.org/resource/Soil
-drainage - http://dbpedia.org/resource/Drainage
-cobble - http://dbpedia.org/resource/Cobblestone
-cumbria - http://dbpedia.org/resource/Cumbria
-cumberland - http://dbpedia.org/resource/Cumberland
-asset - http://dbpedia.org/resource/Asset
-confine - http://dbpedia.org/resource/Confine
-hackthorpe - http://dbpedia.org/resource/Hackthorpe
-norman castle - http://dbpedia.org/resource/Normans
-withdrawing room - http://dbpedia.org/resource/Drawing_room
-ridge - http://dbpedia.org/resource/Ridge
-altar - http://dbpedia.org/resource/Sanctuary
-young adult - http://dbpedia.org/resource/Adult
-waterhole - http://dbpedia.org/resource/Well
-normans - http://dbpedia.org/resource/Norman_conquest_of_England
-roman period - http://dbpedia.org/resource/Roman_Britain
-romano british - http://dbpedia.org/resource/Romano-British_culture
-family - http://dbpedia.org/resource/Family
-telegraph pole - http://dbpedia.org/resource/Utility_pole
-national grid - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
-northumbrian - http://dbpedia.org/resource/Northumberland
-roman god - http://dbpedia.org/resource/Janus
-acre - http://dbpedia.org/resource/Acre
-brough - http://dbpedia.org/resource/Brough_Castle
-seizure - http://dbpedia.org/resource/Silk_Road
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-great chamber - http://dbpedia.org/resource/Great_chamber
-nhle - http://dbpedia.org/resource/National_Heritage_List_for_England
-military occupation - http://dbpedia.org/resource/Military_occupation
-national heritage list - http://dbpedia.org/resource/Australian_National_Heritage_List
-thanet - http://dbpedia.org/resource/Isle_of_Thanet
-apr - http://dbpedia.org/resource/Annual_percentage_rate
-floodplain - http://dbpedia.org/resource/Floodplain
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-pendragon - http://dbpedia.org/resource/Pendragon
-vallum - http://dbpedia.org/resource/Vallum
-ploughing - http://dbpedia.org/resource/Plough
-widen - http://dbpedia.org/resource/Widen
-gatepost - http://dbpedia.org/resource/Gatepost
-map - http://dbpedia.org/resource/Map
-field system - http://dbpedia.org/resource/Field_system
-dual - http://dbpedia.org/resource/Multiple_citizenship
-cremation - http://dbpedia.org/resource/Cremation
-westmorland - http://dbpedia.org/resource/Westmorland
-sterile - http://dbpedia.org/resource/Fertility
-trackway - http://dbpedia.org/resource/Historic_roads_and_trails
-post hole - http://dbpedia.org/resource/Posthole
-pennines - http://dbpedia.org/resource/Pennines
-c14 - http://dbpedia.org/resource/Radiocarbon_dating
-spur - http://dbpedia.org/resource/Spur
-strathclyde - http://dbpedia.org/resource/Kingdom_of_Strathclyde
-interest group - http://dbpedia.org/resource/Advocacy_group
-ene - http://dbpedia.org/resource/Points_of_the_compass
-leland - http://dbpedia.org/resource/Leland_Stanford
-causeway - http://dbpedia.org/resource/Causeway
-west point - http://dbpedia.org/resource/United_States_Military_Academy
-heritage - http://dbpedia.org/resource/Cultural_heritage
 ambleside - http://dbpedia.org/resource/Ambleside
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-river eamont - http://dbpedia.org/resource/River_Eamont
-paper - http://dbpedia.org/resource/Paper
-brougham castle - http://dbpedia.org/resource/Brougham_Castle
-ha - http://dbpedia.org/resource/Hectare
-east roman - http://dbpedia.org/resource/Byzantine_Empire
-database - http://dbpedia.org/resource/Database
-pipeline - http://dbpedia.org/resource/Pipeline_transport
+scottish border - http://dbpedia.org/resource/Anglo-Scottish_border
+cottage - http://dbpedia.org/resource/Cottage
+telegraph pole - http://dbpedia.org/resource/Utility_pole
+sewage - http://dbpedia.org/resource/Sanitary_sewer
+east west - http://dbpedia.org/resource/East_West_MRT_line
+great hall - http://dbpedia.org/resource/Great_hall
+ridge - http://dbpedia.org/resource/Ridge
+berm - http://dbpedia.org/resource/Berm
+brough - http://dbpedia.org/resource/Brough_Castle
+archaeological excavation - http://dbpedia.org/resource/Excavation_(archaeology)
+warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
+eden district - http://dbpedia.org/resource/Eden_District
+stainmore pass - http://dbpedia.org/resource/Stainmore
+withdrawing room - http://dbpedia.org/resource/Drawing_room
+roman period - http://dbpedia.org/resource/Roman_Britain
+roman road - http://dbpedia.org/resource/Roman_roads
+satellites - http://dbpedia.org/resource/Satellite
+map - http://dbpedia.org/resource/Map
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+marching camp - http://dbpedia.org/resource/Castra
+earthworks - http://dbpedia.org/resource/Fortification
+scheduled area - http://dbpedia.org/resource/Scheduled_Areas
+bannockburn - http://dbpedia.org/resource/Battle_of_Bannockburn
+marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
+roman roads - http://dbpedia.org/resource/Roman_roads
+court - http://dbpedia.org/resource/Courtyard
+c9 - http://dbpedia.org/resource/FN_Minimi
+antiquarian - http://dbpedia.org/resource/Antiquarian
+sse - http://dbpedia.org/resource/Points_of_the_compass
+revetted - http://dbpedia.org/resource/Revetment
+tudor style - http://dbpedia.org/resource/Tudor_architecture
+cohort - http://dbpedia.org/resource/Demography
+interest group - http://dbpedia.org/resource/Advocacy_group
+crown copyright - http://dbpedia.org/resource/Crown_copyright
+bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+setted - http://dbpedia.org/resource/Sett_(paving)
+roman wall - http://dbpedia.org/resource/Hadrian's_Wall
+ad 78 - http://dbpedia.org/resource/AD_78
+earthwork - http://dbpedia.org/resource/Fortification
+outer bailey - http://dbpedia.org/resource/Outer_bailey
+gatehouse - http://dbpedia.org/resource/Gatehouse
+bounded - http://dbpedia.org/resource/Border
+wooler - http://dbpedia.org/resource/Wooler
+asia minor - http://dbpedia.org/resource/Anatolia
+tokens - http://dbpedia.org/resource/New_York_City_Subway
+plough - http://dbpedia.org/resource/Plough
+leland - http://dbpedia.org/resource/Leland_Stanford
+roman coins - http://dbpedia.org/resource/Roman_currency
+whinfell - http://dbpedia.org/resource/Whinfell
+sports - http://dbpedia.org/resource/Sport
+archaeologically - http://dbpedia.org/resource/Archaeology
+fabric - http://dbpedia.org/resource/Textile
+scottish affairs - http://dbpedia.org/resource/Office_of_the_Secretary_of_State_for_Scotland
 courthouse - http://dbpedia.org/resource/Courthouse
-archaeological - http://dbpedia.org/resource/Archaeology
-tower - http://dbpedia.org/resource/Keep
+unstratified - http://dbpedia.org/resource/Stratum
+rsm - http://dbpedia.org/resource/Royal_Saskatchewan_Museum
+counterscarp - http://dbpedia.org/resource/Counterscarp
+excavation - http://dbpedia.org/resource/Digging
+vallum - http://dbpedia.org/resource/Vallum
+brocavum - http://dbpedia.org/resource/Brocavum
+circuit - http://dbpedia.org/resource/Race_track
+c4 - http://dbpedia.org/resource/Command_and_control
+pendragon - http://dbpedia.org/resource/Pendragon
+trenches - http://dbpedia.org/resource/Trench
+burial ground - http://dbpedia.org/resource/Tumulus
+cumbria - http://dbpedia.org/resource/Cumbria
+pennines - http://dbpedia.org/resource/Pennines
+hackthorpe - http://dbpedia.org/resource/Hackthorpe
+skipton - http://dbpedia.org/resource/Skipton
+british crown - http://dbpedia.org/resource/The_Crown
+john leland - http://dbpedia.org/resource/John_Leland_(antiquary)
+ditched - http://dbpedia.org/resource/Water_landing
+c16 - http://dbpedia.org/resource/Commodore_16
+ploughing - http://dbpedia.org/resource/Plough
+cobbled - http://dbpedia.org/resource/Cobblestone
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+amendment - http://dbpedia.org/resource/Law
+ocn - http://dbpedia.org/resource/Open_Computer_Network
+holme - http://dbpedia.org/resource/River_Holme
+ordnance survey - http://dbpedia.org/resource/Ordnance_Survey
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+cohors - http://dbpedia.org/resource/Cohort_(military_unit)
+rebellion - http://dbpedia.org/resource/Monmouth_Rebellion
+trackways - http://dbpedia.org/resource/Historic_roads_and_trails
+north south - http://dbpedia.org/resource/North_South_MRT_line
+william stukeley - http://dbpedia.org/resource/William_Stukeley
+vacuum - http://dbpedia.org/resource/Vacuum
+hedge - http://dbpedia.org/resource/Hedge
+gold coin - http://dbpedia.org/resource/Gold_coin
+moor lane - http://dbpedia.org/resource/Moor_Lane
+heritage - http://dbpedia.org/resource/Cultural_heritage
+national heritage list - http://dbpedia.org/resource/Australian_National_Heritage_List
+settlement - http://dbpedia.org/resource/Town
+rufus - http://dbpedia.org/resource/List_of_Kim_Possible_characters
+court chapel - http://dbpedia.org/resource/Court_chapel
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+courtyard - http://dbpedia.org/resource/Courtyard
+westmorland - http://dbpedia.org/resource/Westmorland
+postern - http://dbpedia.org/resource/Postern
+river eamont - http://dbpedia.org/resource/River_Eamont
+warfare - http://dbpedia.org/resource/War
 mallerstang - http://dbpedia.org/resource/Mallerstang
+altar - http://dbpedia.org/resource/Sanctuary
+runs - http://dbpedia.org/resource/Glossary_of_cricket_terms
+septic tank - http://dbpedia.org/resource/Septic_tank
+ene - http://dbpedia.org/resource/Points_of_the_compass
+legacy system - http://dbpedia.org/resource/Legacy_system
+thorn - http://dbpedia.org/resource/Crataegus_monogyna
+country seat - http://dbpedia.org/resource/English_country_house
+servers - http://dbpedia.org/resource/Proxy_server
+national grid - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
+normans - http://dbpedia.org/resource/Norman_conquest_of_England
+stone - http://dbpedia.org/resource/Sandstone
+asset - http://dbpedia.org/resource/Asset
+grid reference - http://dbpedia.org/resource/Ordnance_Survey_National_Grid
+antiquarians - http://dbpedia.org/resource/Antiquarian
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+oven - http://dbpedia.org/resource/Oven
+roman fort - http://dbpedia.org/resource/Castra
+romano british - http://dbpedia.org/resource/Romano-British_culture
+agricola - http://dbpedia.org/resource/Gnaeus_Julius_Agricola
+ha - http://dbpedia.org/resource/Hectare
+virtue - http://dbpedia.org/resource/Morality
+river lowther - http://dbpedia.org/resource/River_Lowther
+lady anne - http://dbpedia.org/resource/Anne_Neville
+curtain - http://dbpedia.org/resource/Curtain
+edward iii - http://dbpedia.org/resource/Edward_II_of_England
+romans - http://dbpedia.org/resource/Romans_(musician)
+wsw - http://dbpedia.org/resource/Points_of_the_compass
+soil - http://dbpedia.org/resource/Soil
+roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
+telegraph poles - http://dbpedia.org/resource/Utility_pole
+c11 - http://dbpedia.org/resource/List_of_bus_routes_in_London
+trench - http://dbpedia.org/resource/Trench
+sterile - http://dbpedia.org/resource/Fertility
+dual - http://dbpedia.org/resource/Multiple_citizenship
+enclosure - http://dbpedia.org/resource/Enclosure
+furrow - http://dbpedia.org/resource/Plough
+carlisle - http://dbpedia.org/resource/Carlisle
+roman god - http://dbpedia.org/resource/Janus
+floodplain - http://dbpedia.org/resource/Floodplain
+rchme - http://dbpedia.org/resource/Royal_Commission_on_the_Historical_Monuments_of_England
+causeway - http://dbpedia.org/resource/Causeway
+cavalry - http://dbpedia.org/resource/Cavalry
+belatucadrus - http://dbpedia.org/resource/Belatucadros
+civil war - http://dbpedia.org/resource/English_Civil_War
+turf - http://dbpedia.org/resource/Sod
+monument - http://dbpedia.org/resource/Monument
+fort - http://dbpedia.org/resource/Castra
+c3 - http://dbpedia.org/resource/List_of_bus_routes_in_London
+military occupation - http://dbpedia.org/resource/Military_occupation
+sewerage - http://dbpedia.org/resource/Sanitary_sewer
+timber - http://dbpedia.org/resource/Timber_framing
+cremation - http://dbpedia.org/resource/Cremation
+painted chamber - http://dbpedia.org/resource/Painted_Chamber
+deity - http://dbpedia.org/resource/Deity
+paper - http://dbpedia.org/resource/Paper
+family - http://dbpedia.org/resource/Family
+causeways - http://dbpedia.org/resource/Causeway
+adds - http://dbpedia.org/resource/Applied_Digital_Data_Systems
+vicus - http://dbpedia.org/resource/Vicus
+medieval - http://dbpedia.org/resource/Middle_Ages
+kirkby thore - http://dbpedia.org/resource/Kirkby_Thore
+roman - http://dbpedia.org/resource/Roman_Empire
+anglo - http://dbpedia.org/resource/Anglo
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+c14 - http://dbpedia.org/resource/Radiocarbon_dating
+database - http://dbpedia.org/resource/Database
+lordship - http://dbpedia.org/resource/Manorialism
+nhle - http://dbpedia.org/resource/National_Heritage_List_for_England
+northern england - http://dbpedia.org/resource/Kingdom_of_Northumbria
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+strathclyde - http://dbpedia.org/resource/Kingdom_of_Strathclyde
+parish - http://dbpedia.org/resource/Civil_parish
+young adult - http://dbpedia.org/resource/Adult
+field system - http://dbpedia.org/resource/Field_system
+documentary - http://dbpedia.org/resource/Documentary_film
+rectilinear - http://dbpedia.org/resource/English_Gothic_architecture
+chapel - http://dbpedia.org/resource/Castle_chapel
+tower - http://dbpedia.org/resource/Keep
+summer house - http://dbpedia.org/resource/Gazebo
+ascendance - http://dbpedia.org/resource/Ascendance_(novel)
+moat - http://dbpedia.org/resource/Moat
+ditch - http://dbpedia.org/resource/Moat
+region - http://dbpedia.org/resource/Region
+river cliff - http://dbpedia.org/resource/Cut_bank
+porch - http://dbpedia.org/resource/Porch
+timber framed - http://dbpedia.org/resource/Timber_framing
+c5 - http://dbpedia.org/resource/Cervical_vertebrae
+appleby - http://dbpedia.org/resource/Appleby_Castle
+peace - http://dbpedia.org/resource/Peace
+a66 - http://dbpedia.org/resource/A66_road
+king john - http://dbpedia.org/resource/John_Balliol
+spur - http://dbpedia.org/resource/Spur
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+pipeline - http://dbpedia.org/resource/Pipeline_transport
+seizure - http://dbpedia.org/resource/Silk_Road
+northumbrian - http://dbpedia.org/resource/Northumberland
+great chamber - http://dbpedia.org/resource/Great_chamber
+culture media - http://dbpedia.org/resource/Growth_medium
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+robert de vieuxpont - http://dbpedia.org/resource/Robert_de_Vieuxpont
+drainage - http://dbpedia.org/resource/Drainage
+cumberland - http://dbpedia.org/resource/Cumberland
+archaeological - http://dbpedia.org/resource/Archaeology
+wing - http://dbpedia.org/resource/Wing
+norman - http://dbpedia.org/resource/Norman_architecture
+defence - http://dbpedia.org/resource/Military
+confines - http://dbpedia.org/resource/Angol
+pottery - http://dbpedia.org/resource/Pottery
+gate - http://dbpedia.org/resource/Gate
+portugal - http://dbpedia.org/resource/Portugal
+confluence - http://dbpedia.org/resource/Confluence

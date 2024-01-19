@@ -2,17 +2,16 @@ bramshill house - http://dbpedia.org/resource/Bramshill_House
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 jacobean - http://dbpedia.org/resource/Jacobean_architecture
 mansion - http://dbpedia.org/resource/English_country_house
-acre - http://dbpedia.org/resource/Acre
 ha - http://dbpedia.org/resource/Hectare
 civil parish - http://dbpedia.org/resource/Civil_parish
 bramshill - http://dbpedia.org/resource/Bramshill
 hampshire - http://dbpedia.org/resource/Hampshire
 police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
 bramshill - http://dbpedia.org/resource/Bramshill
-saxon - http://dbpedia.org/resource/Saxons
+saxon times - http://dbpedia.org/resource/History_of_Anglo-Saxon_England
 thomas foxley - http://dbpedia.org/resource/Thomas_Foxley
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
-mason - http://dbpedia.org/resource/Stonemasonry
+masons - http://dbpedia.org/resource/Stonemasonry
 windsor - http://dbpedia.org/resource/Windsor_Castle
 fortified manor house - http://dbpedia.org/resource/Manor_house
 bramshill - http://dbpedia.org/resource/Bramshill
@@ -25,7 +24,8 @@ court - http://dbpedia.org/resource/Royal_court
 kent - http://dbpedia.org/resource/Kent
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 chapel - http://dbpedia.org/resource/Chapel_of_ease
-priest hole - http://dbpedia.org/resource/Priest_hole
+priest - http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church
+hunting - http://dbpedia.org/resource/Hunting_and_shooting_in_the_United_Kingdom
 george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
 archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
 canterbury - http://dbpedia.org/resource/Canterbury
@@ -34,7 +34,6 @@ sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
 family - http://dbpedia.org/resource/Family
 chapel - http://dbpedia.org/resource/Chapel_of_ease
 lord brocket - http://dbpedia.org/resource/Ronald_Nall-Cain,_2nd_Baron_Brocket
-exile - http://dbpedia.org/resource/Exile
 king michael - http://dbpedia.org/resource/Michael_I_of_Romania
 queen - http://dbpedia.org/resource/Queen_consort
 bramshill - http://dbpedia.org/resource/Bramshill

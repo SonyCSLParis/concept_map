@@ -1,13 +1,13 @@
 montevideo - http://dbpedia.org/resource/Montevideo
 natural harbor - http://dbpedia.org/resource/Harbor
 argentina - http://dbpedia.org/resource/Argentina
+annexed - http://dbpedia.org/resource/Annexation
 brazil - http://dbpedia.org/resource/Brazil
 uruguay - http://dbpedia.org/resource/Uruguay
 independence - http://dbpedia.org/resource/Independence
 freedom - http://dbpedia.org/resource/Political_freedom
-administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
 president - http://dbpedia.org/resource/President_of_Mexico
-economic reform - http://dbpedia.org/resource/Chinese_economic_reform
+economic reforms - http://dbpedia.org/resource/Liberalization
 statist - http://dbpedia.org/resource/Statism
 marxist - http://dbpedia.org/resource/Marxism
 urban guerrilla - http://dbpedia.org/resource/Urban_guerrilla_warfare
@@ -16,9 +16,8 @@ uruguay - http://dbpedia.org/resource/Uruguay
 president - http://dbpedia.org/resource/President_of_Mexico
 frente amplio - http://dbpedia.org/resource/Frente_Amplio
 coalition - http://dbpedia.org/resource/Coalition
-election - http://dbpedia.org/resource/Election
 colorado - http://dbpedia.org/resource/Colorado
-blanco party - http://dbpedia.org/resource/National_Party_(Uruguay)
+blanco - http://dbpedia.org/resource/Tequila
 uruguay - http://dbpedia.org/resource/Uruguay
 continent - http://dbpedia.org/resource/Africa
 portuguese rule - http://dbpedia.org/resource/Portugal
@@ -38,7 +37,7 @@ military government - http://dbpedia.org/resource/Military_dictatorship_in_Brazi
 military regime - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
 brazil - http://dbpedia.org/resource/Brazil
 industrial - http://dbpedia.org/resource/Industry
-natural resource - http://dbpedia.org/resource/Natural_resource
+natural resources - http://dbpedia.org/resource/Natural_resource
 south america - http://dbpedia.org/resource/South_America
 economic power - http://dbpedia.org/resource/Purchasing_power_parity
 income inequality - http://dbpedia.org/resource/Economic_inequality
@@ -50,7 +49,7 @@ argentina - http://dbpedia.org/resource/Argentina
 brazil - http://dbpedia.org/resource/Brazil
 south america - http://dbpedia.org/resource/South_America
 atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
-geographic coordinate - http://dbpedia.org/resource/Geographic_coordinate_system
+geographic coordinates - http://dbpedia.org/resource/Geographic_coordinate_system
 wmap - http://dbpedia.org/resource/Wilkinson_Microwave_Anisotropy_Probe
 south america - http://dbpedia.org/resource/South_America
 south america - http://dbpedia.org/resource/South_America
@@ -69,10 +68,8 @@ sao - http://dbpedia.org/resource/Burmese_names
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 sao paulo - http://dbpedia.org/resource/São_Paulo
 washington - http://dbpedia.org/resource/Washington_Mystics
-border country - http://dbpedia.org/resource/Anglo-Scottish_border
 argentina - http://dbpedia.org/resource/Argentina
 brazil - http://dbpedia.org/resource/Brazil
-border country - http://dbpedia.org/resource/Anglo-Scottish_border
 argentina - http://dbpedia.org/resource/Argentina
 bolivia - http://dbpedia.org/resource/Bolivia
 colombia - http://dbpedia.org/resource/Colombia
@@ -104,23 +101,19 @@ nm - http://dbpedia.org/resource/Nanometre
 continental margin - http://dbpedia.org/resource/Continental_margin
 climate - http://dbpedia.org/resource/Climate
 temperate - http://dbpedia.org/resource/Temperate_climate
-temperature - http://dbpedia.org/resource/Temperature
+freezing - http://dbpedia.org/resource/Ice
 tropical - http://dbpedia.org/resource/Tropics
 temperate - http://dbpedia.org/resource/Temperate_climate
-plain - http://dbpedia.org/resource/Great_Plains
-plain - http://dbpedia.org/resource/Great_Plains
-hill mountain - http://dbpedia.org/resource/Hill_Mountain
+rolling plains - http://dbpedia.org/resource/Osage_Plains
 belt - http://dbpedia.org/resource/Asteroid_belt
 elevation - http://dbpedia.org/resource/Altitude
 atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
-high point - http://dbpedia.org/resource/West_Seattle
 cerro catedral - http://dbpedia.org/resource/Cerro_Catedral
 atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
-high point - http://dbpedia.org/resource/West_Seattle
 pico da neblina - http://dbpedia.org/resource/Pico_da_Neblina
 arable land - http://dbpedia.org/resource/Agriculture
 hydropower - http://dbpedia.org/resource/Hydroelectricity
-mineral - http://dbpedia.org/resource/Mining
+minerals - http://dbpedia.org/resource/Mining
 fish - http://dbpedia.org/resource/Fishery
 bauxite - http://dbpedia.org/resource/Bauxite
 gold - http://dbpedia.org/resource/Gold
@@ -128,52 +121,46 @@ iron - http://dbpedia.org/resource/Iron
 ore - http://dbpedia.org/resource/Silver
 manganese - http://dbpedia.org/resource/Manganese
 nickel - http://dbpedia.org/resource/Nickel
-phosphate - http://dbpedia.org/resource/Fertilizer
+phosphates - http://dbpedia.org/resource/Phosphate
 platinum - http://dbpedia.org/resource/Platinum
-rare earth element - http://dbpedia.org/resource/Rare-earth_element
+rare earth elements - http://dbpedia.org/resource/Rare-earth_element
 uranium - http://dbpedia.org/resource/Uranium
 petroleum - http://dbpedia.org/resource/Petroleum
 hydropower - http://dbpedia.org/resource/Hydroelectricity
 timber - http://dbpedia.org/resource/Lumber
 arable land - http://dbpedia.org/resource/Agriculture
-permanent crop - http://dbpedia.org/resource/Permanent_crop
 arable land - http://dbpedia.org/resource/Agriculture
-permanent crop - http://dbpedia.org/resource/Permanent_crop
 irrigated land - http://dbpedia.org/resource/Irrigation
 sq - http://dbpedia.org/resource/Quadraphonic_sound
 sq - http://dbpedia.org/resource/Quadraphonic_sound
-natural hazard - http://dbpedia.org/resource/Natural_hazard
-wind - http://dbpedia.org/resource/Wind_power
+natural hazards - http://dbpedia.org/resource/Natural_hazard
 pampero - http://dbpedia.org/resource/Pampero_(wind)
 wind - http://dbpedia.org/resource/Wind_power
 pampas - http://dbpedia.org/resource/Pampas
-drought - http://dbpedia.org/resource/Drought
-flood - http://dbpedia.org/resource/Flood
+droughts - http://dbpedia.org/resource/Drought
 weather - http://dbpedia.org/resource/Weather
 vulnerable - http://dbpedia.org/resource/Vulnerable_species
-weather front - http://dbpedia.org/resource/Weather_front
-drought - http://dbpedia.org/resource/Drought
-flood - http://dbpedia.org/resource/Flood
+weather fronts - http://dbpedia.org/resource/Weather_front
+droughts - http://dbpedia.org/resource/Drought
 water pollution - http://dbpedia.org/resource/Water_pollution
 meat packing - http://dbpedia.org/resource/Meat_packing_industry
 tannery - http://dbpedia.org/resource/Tanning_(leather)
 hazardous waste - http://dbpedia.org/resource/Hazardous_waste
 deforestation - http://dbpedia.org/resource/Deforestation
 amazon basin - http://dbpedia.org/resource/Amazon_basin
-destroy habitat - http://dbpedia.org/resource/Habitat_destruction
+habitat - http://dbpedia.org/resource/Biome
 plant - http://dbpedia.org/resource/Power_station
-specie - http://dbpedia.org/resource/Currency
-indigenous area - http://dbpedia.org/resource/Indigenous_Area_(Taiwan)
+species - http://dbpedia.org/resource/Species
+indigenous - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
 wildlife trade - http://dbpedia.org/resource/Wildlife_trade
 water pollution - http://dbpedia.org/resource/Water_pollution
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
 sao paulo - http://dbpedia.org/resource/São_Paulo
-city - http://dbpedia.org/resource/City
 land degradation - http://dbpedia.org/resource/Land_degradation
 water pollution - http://dbpedia.org/resource/Water_pollution
 mining - http://dbpedia.org/resource/Mining
 wetland - http://dbpedia.org/resource/Wetland
-oil spill - http://dbpedia.org/resource/Oil_spill
+oil spills - http://dbpedia.org/resource/Oil_spill
 environment international - http://dbpedia.org/resource/Environment_International
 environmental protocol - http://dbpedia.org/resource/International_environmental_agreement
 antarctic treaty - http://dbpedia.org/resource/Antarctic_Treaty_System
@@ -216,15 +203,12 @@ ideal - http://dbpedia.org/resource/Ideal_gas
 cattle - http://dbpedia.org/resource/Cattle
 sheep - http://dbpedia.org/resource/Sheep
 south america - http://dbpedia.org/resource/South_America
-hemisphere - http://dbpedia.org/resource/Earth
 chile - http://dbpedia.org/resource/Chile
 ecuador - http://dbpedia.org/resource/Ecuador
 renewable - http://dbpedia.org/resource/Natural_resource
-water resource - http://dbpedia.org/resource/Water_resources
+water resources - http://dbpedia.org/resource/Water_resources
 freshwater - http://dbpedia.org/resource/Ecoregion
 industrial - http://dbpedia.org/resource/Industry
-caput - http://dbpedia.org/resource/Caput
-caput - http://dbpedia.org/resource/Caput
 age structure - http://dbpedia.org/resource/Population_pyramid
 population growth rate - http://dbpedia.org/resource/Population_growth
 birth rate - http://dbpedia.org/resource/Birth_rate
@@ -232,16 +216,8 @@ death rate - http://dbpedia.org/resource/Mortality_rate
 net migration rate - http://dbpedia.org/resource/Net_migration_rate
 sex ratio - http://dbpedia.org/resource/Human_sex_ratio
 infant mortality rate - http://dbpedia.org/resource/Infant_mortality
-live birth - http://dbpedia.org/resource/Viviparity
-live birth - http://dbpedia.org/resource/Viviparity
-live birth - http://dbpedia.org/resource/Viviparity
-live birth - http://dbpedia.org/resource/Viviparity
-live birth - http://dbpedia.org/resource/Viviparity
-live birth - http://dbpedia.org/resource/Viviparity
 life expectancy - http://dbpedia.org/resource/Life_expectancy
 total fertility rate - http://dbpedia.org/resource/Total_fertility_rate
-bear - http://dbpedia.org/resource/Bear
-bear - http://dbpedia.org/resource/Bear
 hiv - http://dbpedia.org/resource/HIV
 prevalence - http://dbpedia.org/resource/Prevalence
 noun - http://dbpedia.org/resource/Noun
@@ -250,7 +226,6 @@ adjective - http://dbpedia.org/resource/Adjective
 uruguayan - http://dbpedia.org/resource/Uruguay
 noun - http://dbpedia.org/resource/Noun
 adjective - http://dbpedia.org/resource/Adjective
-ethnic group - http://dbpedia.org/resource/Ethnic_groups_in_Europe
 mestizo - http://dbpedia.org/resource/Mestizo
 amerindian - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
 mulatto - http://dbpedia.org/resource/Mulatto
@@ -277,9 +252,8 @@ hiv - http://dbpedia.org/resource/HIV
 portuguese - http://dbpedia.org/resource/Portugal
 frontier - http://dbpedia.org/resource/Frontier
 portuguese - http://dbpedia.org/resource/Portugal
-language - http://dbpedia.org/resource/Latin
-language - http://dbpedia.org/resource/Latin
-amerindian language - http://dbpedia.org/resource/Indigenous_languages_of_the_Americas
+spoken language - http://dbpedia.org/resource/Varieties_of_Chinese
+amerindian languages - http://dbpedia.org/resource/Indigenous_languages_of_the_Americas
 literacy - http://dbpedia.org/resource/Literacy
 education - http://dbpedia.org/resource/Education
 gdp - http://dbpedia.org/resource/Gross_domestic_product
@@ -307,7 +281,6 @@ urban - http://dbpedia.org/resource/Urbanization
 rural - http://dbpedia.org/resource/Rural_area
 urban 13 - http://dbpedia.org/resource/Urban_13
 rural - http://dbpedia.org/resource/Rural_area
-city - http://dbpedia.org/resource/City
 montevideo - http://dbpedia.org/resource/Montevideo
 capital - http://dbpedia.org/resource/Financial_capital
 sao paulo - http://dbpedia.org/resource/São_Paulo
@@ -318,25 +291,20 @@ recife - http://dbpedia.org/resource/Recife
 brasilia - http://dbpedia.org/resource/Instituto_Viver_Basquetebol
 capital - http://dbpedia.org/resource/Financial_capital
 maternal mortality rate - http://dbpedia.org/resource/Maternal_death
-live birth - http://dbpedia.org/resource/Viviparity
-live birth - http://dbpedia.org/resource/Viviparity
 underweight - http://dbpedia.org/resource/Underweight
-health expenditure - http://dbpedia.org/resource/Health_economics
+health - http://dbpedia.org/resource/Health_care
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
-physician - http://dbpedia.org/resource/Physician
 density - http://dbpedia.org/resource/Population_density
 hospital - http://dbpedia.org/resource/Hospital
 density - http://dbpedia.org/resource/Population_density
 obesity - http://dbpedia.org/resource/Obesity
 prevalence - http://dbpedia.org/resource/Prevalence
 child labor - http://dbpedia.org/resource/Child_labour
-datum - http://dbpedia.org/resource/Data
 demographic profile - http://dbpedia.org/resource/Demography
 uruguay - http://dbpedia.org/resource/Uruguay
 secularism - http://dbpedia.org/resource/Secularism
 liberal - http://dbpedia.org/resource/Liberalism
-social law - http://dbpedia.org/resource/Social_law
 social security - http://dbpedia.org/resource/Sustainability
 health - http://dbpedia.org/resource/Health_care
 latin america - http://dbpedia.org/resource/Latin_America
@@ -349,27 +317,23 @@ emigration - http://dbpedia.org/resource/Human_migration
 human capital - http://dbpedia.org/resource/Human_capital
 investment - http://dbpedia.org/resource/Foreign_direct_investment
 education - http://dbpedia.org/resource/Education
-remittance - http://dbpedia.org/resource/Remittance
+remittances - http://dbpedia.org/resource/Remittance
 uruguayans - http://dbpedia.org/resource/Uruguayans
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 emigration - http://dbpedia.org/resource/Human_migration
-young adult - http://dbpedia.org/resource/Youth
 birth rate - http://dbpedia.org/resource/Birth_rate
 uruguay - http://dbpedia.org/resource/Uruguay
 uruguayans - http://dbpedia.org/resource/Uruguayans
 argentina - http://dbpedia.org/resource/Argentina
 brazil - http://dbpedia.org/resource/Brazil
 military dictatorship - http://dbpedia.org/resource/Military_dictatorship_in_Brazil
-economic crisis - http://dbpedia.org/resource/Great_Recession
-trigger - http://dbpedia.org/resource/Brass_instrument
-wave - http://dbpedia.org/resource/Wind_wave
+economic crises - http://dbpedia.org/resource/Financial_crisis
 emigration - http://dbpedia.org/resource/Human_migration
 uruguayan - http://dbpedia.org/resource/Uruguay
-emigrant - http://dbpedia.org/resource/Emigration
 uruguay - http://dbpedia.org/resource/Uruguay
 independence - http://dbpedia.org/resource/Independence
-immigrant - http://dbpedia.org/resource/Immigration
-immigrant - http://dbpedia.org/resource/Immigration
+immigrants - http://dbpedia.org/resource/Immigration
+immigrants - http://dbpedia.org/resource/Immigration
 peruvians - http://dbpedia.org/resource/Peruvians
 brazil - http://dbpedia.org/resource/Brazil
 fertility - http://dbpedia.org/resource/Total_fertility_rate
@@ -379,29 +343,23 @@ brasilia - http://dbpedia.org/resource/Instituto_Viver_Basquetebol
 human capital - http://dbpedia.org/resource/Human_capital
 age structure - http://dbpedia.org/resource/Population_pyramid
 labor force - http://dbpedia.org/resource/Workforce
-pension - http://dbpedia.org/resource/Subsidy
 poverty - http://dbpedia.org/resource/Poverty
 bolsa familia - http://dbpedia.org/resource/Bolsa_Família
-social program - http://dbpedia.org/resource/Welfare
-lift - http://dbpedia.org/resource/Buoyancy
 poverty - http://dbpedia.org/resource/Poverty
 brazil - http://dbpedia.org/resource/Brazil
 middle class - http://dbpedia.org/resource/Middle_class
 poverty - http://dbpedia.org/resource/Poverty
 income inequality - http://dbpedia.org/resource/Economic_inequality
-north center - http://dbpedia.org/resource/North_Center,_Chicago
 mixed race - http://dbpedia.org/resource/Mestizo
-indigenous - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
+indigenous populations - http://dbpedia.org/resource/Indigenous_peoples
 social exclusion - http://dbpedia.org/resource/Social_exclusion
 brazil - http://dbpedia.org/resource/Brazil
 high crime - http://dbpedia.org/resource/High_Crime
 violent crime - http://dbpedia.org/resource/Violent_crime
-city - http://dbpedia.org/resource/City
-favela - http://dbpedia.org/resource/Favela
+favelas - http://dbpedia.org/resource/Favela
 brazil - http://dbpedia.org/resource/Brazil
-immigrant - http://dbpedia.org/resource/Immigration
-slave - http://dbpedia.org/resource/Slavery
-outlaw - http://dbpedia.org/resource/Outlaw
+immigrants - http://dbpedia.org/resource/Immigration
+african slaves - http://dbpedia.org/resource/Slavery_in_Brazil
 brazil - http://dbpedia.org/resource/Brazil
 europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
 italians - http://dbpedia.org/resource/Italy
@@ -410,20 +368,18 @@ spaniards - http://dbpedia.org/resource/Spaniards
 asians - http://dbpedia.org/resource/Race_and_ethnicity_in_the_United_States_Census
 agriculture - http://dbpedia.org/resource/Agriculture
 coffee - http://dbpedia.org/resource/Coffee
-immigrant - http://dbpedia.org/resource/Immigration
+immigrants - http://dbpedia.org/resource/Immigration
 argentina - http://dbpedia.org/resource/Argentina
 chile - http://dbpedia.org/resource/Chile
-andean - http://dbpedia.org/resource/Andes
-illegal migrant - http://dbpedia.org/resource/Illegal_immigration
+andean countries - http://dbpedia.org/resource/Andean_Community
+illegal migrants - http://dbpedia.org/resource/Illegal_immigration
 brazil - http://dbpedia.org/resource/Brazil
 emigration - http://dbpedia.org/resource/Human_migration
 brazil - http://dbpedia.org/resource/Brazil
-emigrant - http://dbpedia.org/resource/Emigration
 middle class - http://dbpedia.org/resource/Middle_class
-peasant - http://dbpedia.org/resource/Peasant
 contraceptive - http://dbpedia.org/resource/Birth_control
 prevalence - http://dbpedia.org/resource/Prevalence
-dependency ratio - http://dbpedia.org/resource/Dependency_ratio
+dependency ratios - http://dbpedia.org/resource/Dependency_ratio
 dependency ratio - http://dbpedia.org/resource/Dependency_ratio
 dependency ratio - http://dbpedia.org/resource/Dependency_ratio
 dependency ratio - http://dbpedia.org/resource/Dependency_ratio
@@ -449,16 +405,19 @@ constitutional republic - http://dbpedia.org/resource/Republic
 republic - http://dbpedia.org/resource/First_Brazilian_Republic
 capital - http://dbpedia.org/resource/Financial_capital
 montevideo - http://dbpedia.org/resource/Montevideo
-geographic coordinate - http://dbpedia.org/resource/Geographic_coordinate_system
+geographic coordinates - http://dbpedia.org/resource/Geographic_coordinate_system
 utc-3 - http://dbpedia.org/resource/UTC−03:00
 washington - http://dbpedia.org/resource/Washington_Mystics
+daylight saving time - http://dbpedia.org/resource/Daylight_saving_time
 brasilia - http://dbpedia.org/resource/Instituto_Viver_Basquetebol
-geographic coordinate - http://dbpedia.org/resource/Geographic_coordinate_system
+geographic coordinates - http://dbpedia.org/resource/Geographic_coordinate_system
 utc-3 - http://dbpedia.org/resource/UTC−03:00
 washington - http://dbpedia.org/resource/Washington_Mystics
-time zone - http://dbpedia.org/resource/Time_zone
+daylight saving time - http://dbpedia.org/resource/Daylight_saving_time
+brazil - http://dbpedia.org/resource/Brazil
+time zones - http://dbpedia.org/resource/Time_zone
 fernando de noronha - http://dbpedia.org/resource/Fernando_de_Noronha
-administrative division - http://dbpedia.org/resource/Administrative_division
+departamentos - http://dbpedia.org/resource/Departments_of_Uruguay
 singular - http://dbpedia.org/resource/Grammatical_number
 artigas - http://dbpedia.org/resource/Artigas_Department
 canelones - http://dbpedia.org/resource/Canelones_Department
@@ -509,8 +468,8 @@ independence - http://dbpedia.org/resource/Independence
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Portugal
 national holiday - http://dbpedia.org/resource/Public_holiday
-independence day - http://dbpedia.org/resource/Argentine_Declaration_of_Independence
-independence day - http://dbpedia.org/resource/Argentine_Declaration_of_Independence
+independence day - http://dbpedia.org/resource/Partition_of_India
+independence day - http://dbpedia.org/resource/Partition_of_India
 constitution - http://dbpedia.org/resource/Constitution
 plebiscite - http://dbpedia.org/resource/Referendum
 legal system - http://dbpedia.org/resource/Law
@@ -521,7 +480,7 @@ civil law - http://dbpedia.org/resource/Law
 code - http://dbpedia.org/resource/Code_of_law
 code - http://dbpedia.org/resource/Code_of_law
 suffrage - http://dbpedia.org/resource/Suffrage
-conscript - http://dbpedia.org/resource/Conscription
+conscripts - http://dbpedia.org/resource/Conscription
 law - http://dbpedia.org/resource/Law
 executive branch - http://dbpedia.org/resource/Federal_government_of_the_United_States
 president - http://dbpedia.org/resource/President_of_Mexico
@@ -540,16 +499,14 @@ saragoza - http://dbpedia.org/resource/Zaragoza
 cabinet - http://dbpedia.org/resource/Cabinet_of_Israel
 president - http://dbpedia.org/resource/President_of_Mexico
 parliamentary - http://dbpedia.org/resource/Parliamentary_system
-election - http://dbpedia.org/resource/Election
 president - http://dbpedia.org/resource/President_of_Mexico
 vice president - http://dbpedia.org/resource/Vice_president
-president elect - http://dbpedia.org/resource/-elect
 popular vote - http://dbpedia.org/resource/Referendum
 election - http://dbpedia.org/resource/Election
 2014 election - http://dbpedia.org/resource/2014_Japanese_general_election
 pepe - http://dbpedia.org/resource/Guglielmo_Pepe
 mujica - http://dbpedia.org/resource/Edward_Mujica
-elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+president - http://dbpedia.org/resource/President_of_Mexico
 pepe - http://dbpedia.org/resource/Guglielmo_Pepe
 mujica - http://dbpedia.org/resource/Edward_Mujica
 luis alberto lacalle - http://dbpedia.org/resource/Luis_Alberto_Lacalle
@@ -569,10 +526,8 @@ lulia - http://dbpedia.org/resource/Lulia
 cabinet - http://dbpedia.org/resource/Cabinet_of_Israel
 cabinet - http://dbpedia.org/resource/Cabinet_of_Israel
 president - http://dbpedia.org/resource/President_of_Mexico
-election - http://dbpedia.org/resource/Election
 president - http://dbpedia.org/resource/President_of_Mexico
 vice president - http://dbpedia.org/resource/Vice_president
-president elect - http://dbpedia.org/resource/-elect
 popular vote - http://dbpedia.org/resource/Referendum
 single - http://dbpedia.org/resource/Phonograph_record
 election - http://dbpedia.org/resource/Election
@@ -580,7 +535,7 @@ runoff - http://dbpedia.org/resource/Election
 runoff election - http://dbpedia.org/resource/Two-round_system
 2014 election - http://dbpedia.org/resource/2014_Japanese_general_election
 dilma rousseff - http://dbpedia.org/resource/Dilma_Rousseff
-elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+president - http://dbpedia.org/resource/President_of_Mexico
 runoff election - http://dbpedia.org/resource/Two-round_system
 dilma rousseff - http://dbpedia.org/resource/Dilma_Rousseff
 jose serra - http://dbpedia.org/resource/José_Serra
@@ -590,9 +545,9 @@ bicameral - http://dbpedia.org/resource/Congress_of_the_Republic_of_Peru
 chamber - http://dbpedia.org/resource/Rocket_engine
 popular vote - http://dbpedia.org/resource/Referendum
 vice president - http://dbpedia.org/resource/Vice_president
-senate chamber - http://dbpedia.org/resource/Senate_of_Canada
+senate - http://dbpedia.org/resource/Senate
+chamber - http://dbpedia.org/resource/Rocket_engine
 popular vote - http://dbpedia.org/resource/Referendum
-election - http://dbpedia.org/resource/Election
 chamber - http://dbpedia.org/resource/Rocket_engine
 chamber - http://dbpedia.org/resource/Rocket_engine
 2014 election - http://dbpedia.org/resource/2014_Japanese_general_election
@@ -612,9 +567,8 @@ senado federal - http://dbpedia.org/resource/Federal_Senate
 federal district - http://dbpedia.org/resource/Mexico_City
 chamber - http://dbpedia.org/resource/Rocket_engine
 proportional representation - http://dbpedia.org/resource/Proportional_representation
-election - http://dbpedia.org/resource/Election
 federal senate - http://dbpedia.org/resource/Federal_Senate
-senate hold - http://dbpedia.org/resource/Senate_hold
+senate - http://dbpedia.org/resource/Senate
 senate chamber - http://dbpedia.org/resource/Senate_of_Canada
 2014 election - http://dbpedia.org/resource/2014_Japanese_general_election
 federal senate - http://dbpedia.org/resource/Federal_Senate
@@ -631,7 +585,7 @@ chamber - http://dbpedia.org/resource/Rocket_engine
 pmdb - http://dbpedia.org/resource/Brazilian_Democratic_Movement
 psdb - http://dbpedia.org/resource/Brazilian_Social_Democracy_Party
 dem - http://dbpedia.org/resource/Deutsche_Mark
-pfl - http://dbpedia.org/resource/Professional_Fighters_League
+pfl - http://dbpedia.org/resource/TT_Pro_League
 psb - http://dbpedia.org/resource/Brazilian_Socialist_Party
 pdt - http://dbpedia.org/resource/Pacific_Time_Zone
 ptb - http://dbpedia.org/resource/Partial_Nuclear_Test_Ban_Treaty
@@ -641,35 +595,31 @@ prb - http://dbpedia.org/resource/Retinoblastoma_protein
 pmn - http://dbpedia.org/resource/Party_of_National_Mobilization
 psol - http://dbpedia.org/resource/Socialism_and_Liberty_Party
 judicial branch - http://dbpedia.org/resource/Judiciary
-high court - http://dbpedia.org/resource/Supreme_court
-supreme court justice - http://dbpedia.org/resource/Supreme_Federal_Court
-judge - http://dbpedia.org/resource/Judge
-judge - http://dbpedia.org/resource/Judge
+highest court - http://dbpedia.org/resource/Supreme_court
+supreme court - http://dbpedia.org/resource/Supreme_court
 judge - http://dbpedia.org/resource/Judge
 president - http://dbpedia.org/resource/President_of_Mexico
-judge - http://dbpedia.org/resource/Judge
 election - http://dbpedia.org/resource/Election
-subordinate court - http://dbpedia.org/resource/State_Courts_of_Singapore
-court appeal - http://dbpedia.org/resource/Lock_Han_Chng_Jonathan_v_Goh_Jessiline
 district courts - http://dbpedia.org/resource/United_States_district_court
 peace - http://dbpedia.org/resource/Peace
 paz - http://dbpedia.org/resource/Octavio_Paz
 rural - http://dbpedia.org/resource/Rural_area
 rurales - http://dbpedia.org/resource/Rurales
-high court - http://dbpedia.org/resource/Supreme_court
+highest court - http://dbpedia.org/resource/Supreme_court
 supreme federal court - http://dbpedia.org/resource/Supreme_Federal_Court
 judge - http://dbpedia.org/resource/Judge
 president - http://dbpedia.org/resource/President_of_Mexico
 federal senate - http://dbpedia.org/resource/Federal_Senate
 mandatory retirement - http://dbpedia.org/resource/Mandatory_retirement
-subordinate court - http://dbpedia.org/resource/State_Courts_of_Singapore
 federal appeals court - http://dbpedia.org/resource/United_States_courts_of_appeals
 superior court - http://dbpedia.org/resource/Superior_court
 superior electoral court - http://dbpedia.org/resource/Superior_Electoral_Court
-regional federal court - http://dbpedia.org/resource/Regional_Federal_Courts
+regional federal courts - http://dbpedia.org/resource/Regional_Federal_Courts
 court - http://dbpedia.org/resource/Court
-political party - http://dbpedia.org/resource/Political_party
+political parties - http://dbpedia.org/resource/Political_party
+broad front - http://dbpedia.org/resource/Broad_Front_(Uruguay)
 frente amplio - http://dbpedia.org/resource/Frente_Amplio
+broad front - http://dbpedia.org/resource/Broad_Front_(Uruguay)
 coalition - http://dbpedia.org/resource/Coalition
 monica - http://dbpedia.org/resource/Saint_Monica
 xavier - http://dbpedia.org/resource/Xavier_Musketeers_men's_basketball
@@ -732,8 +682,8 @@ democratic labor party - http://dbpedia.org/resource/Democratic_Labor_Party_(his
 pdt - http://dbpedia.org/resource/Pacific_Time_Zone
 roberto lupi - http://dbpedia.org/resource/Roberto_Lupi
 dem - http://dbpedia.org/resource/Deutsche_Mark
-liberal party - http://dbpedia.org/resource/Colombian_Liberal_Party
-pfl - http://dbpedia.org/resource/Professional_Fighters_League
+liberal front party - http://dbpedia.org/resource/Democrats_(Brazil)
+pfl - http://dbpedia.org/resource/TT_Pro_League
 free homeland party - http://dbpedia.org/resource/Partido_Patria_Libre
 ppl - http://dbpedia.org/resource/Product_placement
 rubens - http://dbpedia.org/resource/Peter_Paul_Rubens
@@ -787,7 +737,8 @@ maria - http://dbpedia.org/resource/Lunar_mare
 almeida - http://dbpedia.org/resource/Francisco_de_Almeida
 pco - http://dbpedia.org/resource/Pierre_Carl_Ouellet
 rui costa pimenta - http://dbpedia.org/resource/Rui_Costa_Pimenta
-pressure group - http://dbpedia.org/resource/Advocacy_group
+workers party - http://dbpedia.org/resource/Workers_Party_of_America
+political pressure groups - http://dbpedia.org/resource/Advocacy_group
 chamber - http://dbpedia.org/resource/Rocket_engine
 chamber - http://dbpedia.org/resource/Rocket_engine
 uruguay - http://dbpedia.org/resource/Uruguay
@@ -807,11 +758,10 @@ catholic - http://dbpedia.org/resource/Catholic_Church
 church - http://dbpedia.org/resource/Catholic_Church
 mst - http://dbpedia.org/resource/Landless_Workers'_Movement
 industrial - http://dbpedia.org/resource/Industry
-federation - http://dbpedia.org/resource/Federation
-union federation - http://dbpedia.org/resource/National_trade_union_center
-farmer - http://dbpedia.org/resource/Agriculture
+federations - http://dbpedia.org/resource/Federation
+labor unions - http://dbpedia.org/resource/Trade_union
+federations - http://dbpedia.org/resource/Federation
 evangelical christian - http://dbpedia.org/resource/Evangelicalism
-church - http://dbpedia.org/resource/Catholic_Church
 catholic - http://dbpedia.org/resource/Catholic_Church
 church - http://dbpedia.org/resource/Catholic_Church
 celac - http://dbpedia.org/resource/Community_of_Latin_American_and_Caribbean_States
@@ -820,7 +770,6 @@ iadb - http://dbpedia.org/resource/Inter-American_Development_Bank
 iaea - http://dbpedia.org/resource/International_Atomic_Energy_Agency
 ibrd - http://dbpedia.org/resource/International_Bank_for_Reconstruction_and_Development
 icao - http://dbpedia.org/resource/International_Civil_Aviation_Organization
-committee - http://dbpedia.org/resource/Committee
 icrm - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
 ida - http://dbpedia.org/resource/Idaea
 ifad - http://dbpedia.org/resource/International_Fund_for_Agricultural_Development
@@ -871,7 +820,6 @@ iadb - http://dbpedia.org/resource/Inter-American_Development_Bank
 iaea - http://dbpedia.org/resource/International_Atomic_Energy_Agency
 ibrd - http://dbpedia.org/resource/International_Bank_for_Reconstruction_and_Development
 icao - http://dbpedia.org/resource/International_Civil_Aviation_Organization
-committee - http://dbpedia.org/resource/Committee
 icrm - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
 ida - http://dbpedia.org/resource/Idaea
 ifad - http://dbpedia.org/resource/International_Fund_for_Agricultural_Development
@@ -975,34 +923,28 @@ sao paulo - http://dbpedia.org/resource/São_Paulo
 consulate - http://dbpedia.org/resource/Diplomatic_mission
 recife - http://dbpedia.org/resource/Recife
 flag - http://dbpedia.org/resource/National_flag
-blue white - http://dbpedia.org/resource/Blauw-Wit_Amsterdam
-hoist - http://dbpedia.org/resource/Glossary_of_vexillology
+white top - http://dbpedia.org/resource/White_Top
+hoist side - http://dbpedia.org/resource/Glossary_of_vexillology
 yellow sun - http://dbpedia.org/resource/Yellow_Sun_(nuclear_weapon)
-bear - http://dbpedia.org/resource/Bear
 human - http://dbpedia.org/resource/Human_rights
 sun - http://dbpedia.org/resource/Sun
-ray - http://dbpedia.org/resource/Stingray
+rays - http://dbpedia.org/resource/Batoidea
 uruguay - http://dbpedia.org/resource/Uruguay
 sun symbol - http://dbpedia.org/resource/Solar_symbol
 legend - http://dbpedia.org/resource/Cartography
 sun - http://dbpedia.org/resource/Sun
-cloud - http://dbpedia.org/resource/Cloud
 independence - http://dbpedia.org/resource/Independence
 uruguay - http://dbpedia.org/resource/Uruguay
-win independence - http://dbpedia.org/resource/Republic_of_Texas
+independence - http://dbpedia.org/resource/Independence
 brazil - http://dbpedia.org/resource/Brazil
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
-national color - http://dbpedia.org/resource/Flag_of_the_United_States
+national colors - http://dbpedia.org/resource/Flag_of_the_United_States
 argentina - http://dbpedia.org/resource/Argentina
 flag - http://dbpedia.org/resource/National_flag
 yellow diamond - http://dbpedia.org/resource/Diamond
-bear - http://dbpedia.org/resource/Bear
 celestial globe - http://dbpedia.org/resource/Globe
-white point - http://dbpedia.org/resource/White_point
 motto - http://dbpedia.org/resource/Motto
 progresso - http://dbpedia.org/resource/Progresso
 flag - http://dbpedia.org/resource/National_flag
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
 brazil - http://dbpedia.org/resource/Brazil
 flag - http://dbpedia.org/resource/National_flag
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
@@ -1015,6 +957,7 @@ rhombus - http://dbpedia.org/resource/Rhomboid
 mineral - http://dbpedia.org/resource/Mining
 blue circle - http://dbpedia.org/resource/Blue_Circle_Industries
 coat - http://dbpedia.org/resource/Fur
+arms - http://dbpedia.org/resource/Weapon
 flag - http://dbpedia.org/resource/National_flag
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
 republic - http://dbpedia.org/resource/First_Brazilian_Republic
@@ -1075,31 +1018,28 @@ uruguay - http://dbpedia.org/resource/Uruguay
 mercosur - http://dbpedia.org/resource/Mercosur
 mining - http://dbpedia.org/resource/Mining
 manufacturing - http://dbpedia.org/resource/Manufacturing
-service sector - http://dbpedia.org/resource/Tertiary_sector_of_the_economy
 middle class - http://dbpedia.org/resource/Middle_class
 brazil - http://dbpedia.org/resource/Brazil
 economy - http://dbpedia.org/resource/Economy
 brazil - http://dbpedia.org/resource/Brazil
-market - http://dbpedia.org/resource/Market_economy
 brazil - http://dbpedia.org/resource/Brazil
 macroeconomic - http://dbpedia.org/resource/Macroeconomics
-foreign reserve - http://dbpedia.org/resource/Foreign-exchange_reserves
+foreign reserves - http://dbpedia.org/resource/Foreign-exchange_reserves
 debt - http://dbpedia.org/resource/External_debt
 debt - http://dbpedia.org/resource/External_debt
 brazil - http://dbpedia.org/resource/Brazil
 creditor - http://dbpedia.org/resource/Creditor
-rating agency - http://dbpedia.org/resource/Credit_rating_agency
+ratings agencies - http://dbpedia.org/resource/Credit_rating_agency
 investment grade - http://dbpedia.org/resource/Bond_credit_rating
 debt - http://dbpedia.org/resource/External_debt
 global financial crisis - http://dbpedia.org/resource/Great_Recession
-brazil 2008 - http://dbpedia.org/resource/2008_FIFA_Futsal_World_Cup
+brazil - http://dbpedia.org/resource/Brazil
 brazil - http://dbpedia.org/resource/Brazil
 recession - http://dbpedia.org/resource/Recession
 brazil - http://dbpedia.org/resource/Brazil
 commodity - http://dbpedia.org/resource/Commodity
-dwindle - http://dbpedia.org/resource/Dwindle_Distribution
 brazil - http://dbpedia.org/resource/Brazil
-market - http://dbpedia.org/resource/Market_economy
+emerging markets - http://dbpedia.org/resource/Emerging_market
 consumer - http://dbpedia.org/resource/Final_good
 investor - http://dbpedia.org/resource/Investment
 gdp - http://dbpedia.org/resource/Gross_domestic_product
@@ -1109,37 +1049,28 @@ unemployment - http://dbpedia.org/resource/Unemployment
 brazil - http://dbpedia.org/resource/Brazil
 income inequality - http://dbpedia.org/resource/Economic_inequality
 brazil - http://dbpedia.org/resource/Brazil
-interest rate - http://dbpedia.org/resource/Interest_rate
-investor - http://dbpedia.org/resource/Investment
-capital - http://dbpedia.org/resource/Financial_capital
+interest rates - http://dbpedia.org/resource/Interest_rate
+capital inflows - http://dbpedia.org/resource/Capital_account
 currency - http://dbpedia.org/resource/United_States_dollar
 competitiveness - http://dbpedia.org/resource/Competition
 manufacturing - http://dbpedia.org/resource/Manufacturing
-foreign exchange market - http://dbpedia.org/resource/Foreign_exchange_market
-capital - http://dbpedia.org/resource/Financial_capital
+foreign exchange - http://dbpedia.org/resource/International_trade
+capital inflows - http://dbpedia.org/resource/Capital_account
 president - http://dbpedia.org/resource/President_of_Mexico
 dilma rousseff - http://dbpedia.org/resource/Dilma_Rousseff
 administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
-inflation target - http://dbpedia.org/resource/Inflation_targeting
-float - http://dbpedia.org/resource/Floating_exchange_rate
-exchange rate - http://dbpedia.org/resource/Exchange_rate
+inflation targeting - http://dbpedia.org/resource/Inflation_targeting
+floating exchange rate - http://dbpedia.org/resource/Floating_exchange_rate
 gdp - http://dbpedia.org/resource/Gross_domestic_product
-parity - http://dbpedia.org/resource/Purchasing_power_parity
-datum - http://dbpedia.org/resource/Data
-dollar - http://dbpedia.org/resource/United_States_dollar
+purchasing power parity - http://dbpedia.org/resource/Purchasing_power_parity
 trillion - http://dbpedia.org/resource/Long_and_short_scales
 trillion - http://dbpedia.org/resource/Long_and_short_scales
 trillion - http://dbpedia.org/resource/Long_and_short_scales
-datum - http://dbpedia.org/resource/Data
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 ppp - http://dbpedia.org/resource/Dynamics_(music)
-datum - http://dbpedia.org/resource/Data
-dollar - http://dbpedia.org/resource/United_States_dollar
-datum - http://dbpedia.org/resource/Data
 agriculture - http://dbpedia.org/resource/Agriculture
 agriculture - http://dbpedia.org/resource/Agriculture
 poverty - http://dbpedia.org/resource/Poverty
-datum - http://dbpedia.org/resource/Data
 extreme poverty - http://dbpedia.org/resource/Extreme_poverty
 household income - http://dbpedia.org/resource/Household_income_in_the_United_States
 consumption - http://dbpedia.org/resource/Consumerism
@@ -1151,35 +1082,28 @@ agriculture - http://dbpedia.org/resource/Agriculture
 agriculture - http://dbpedia.org/resource/Agriculture
 unemployment rate - http://dbpedia.org/resource/Unemployment
 family - http://dbpedia.org/resource/Family
-revenue - http://dbpedia.org/resource/Tax
-revenue - http://dbpedia.org/resource/Tax
 food processing - http://dbpedia.org/resource/Food_processing
-petroleum product - http://dbpedia.org/resource/Petroleum_product
-textile - http://dbpedia.org/resource/Textile
-chemical - http://dbpedia.org/resource/Chemical_substance
-beverage - http://dbpedia.org/resource/Alcoholic_drink
-textile - http://dbpedia.org/resource/Textile
-shoe - http://dbpedia.org/resource/Shoemaking
-chemical - http://dbpedia.org/resource/Chemical_substance
+petroleum - http://dbpedia.org/resource/Petroleum
+textiles - http://dbpedia.org/resource/Textile
+textiles - http://dbpedia.org/resource/Textile
 cement - http://dbpedia.org/resource/Cement
 lumber - http://dbpedia.org/resource/Lumber
 iron - http://dbpedia.org/resource/Iron
 ore - http://dbpedia.org/resource/Silver
 steel - http://dbpedia.org/resource/Steel
 aircraft - http://dbpedia.org/resource/Aircraft
-motor vehicle - http://dbpedia.org/resource/Car
 industrial - http://dbpedia.org/resource/Industry
 agriculture - http://dbpedia.org/resource/Agriculture
-soybean - http://dbpedia.org/resource/Soybean
+soybeans - http://dbpedia.org/resource/Soybean
 rice - http://dbpedia.org/resource/Rice
 wheat - http://dbpedia.org/resource/Wheat
 beef - http://dbpedia.org/resource/Beef
-dairy product - http://dbpedia.org/resource/Dairy_product
+dairy products - http://dbpedia.org/resource/Dairy
 fish - http://dbpedia.org/resource/Fishery
 lumber - http://dbpedia.org/resource/Lumber
 cellulose - http://dbpedia.org/resource/Cellulose
 coffee - http://dbpedia.org/resource/Coffee
-soybean - http://dbpedia.org/resource/Soybean
+soybeans - http://dbpedia.org/resource/Soybean
 wheat - http://dbpedia.org/resource/Wheat
 rice - http://dbpedia.org/resource/Rice
 corn - http://dbpedia.org/resource/Maize
@@ -1187,35 +1111,36 @@ sugarcane - http://dbpedia.org/resource/Sugarcane
 cocoa - http://dbpedia.org/resource/Cocoa_bean
 citrus - http://dbpedia.org/resource/Citrus
 beef - http://dbpedia.org/resource/Beef
-commodity - http://dbpedia.org/resource/Commodity
+commodities - http://dbpedia.org/resource/Commodity
 beef - http://dbpedia.org/resource/Beef
-soybean - http://dbpedia.org/resource/Soybean
+soybeans - http://dbpedia.org/resource/Soybean
 cellulose - http://dbpedia.org/resource/Cellulose
 rice - http://dbpedia.org/resource/Rice
 wheat - http://dbpedia.org/resource/Wheat
 wood - http://dbpedia.org/resource/Lumber
-dairy product - http://dbpedia.org/resource/Dairy_product
+dairy products - http://dbpedia.org/resource/Dairy
 wool - http://dbpedia.org/resource/Wool
 transport - http://dbpedia.org/resource/Transport
 iron - http://dbpedia.org/resource/Iron
 ore - http://dbpedia.org/resource/Silver
-soybean - http://dbpedia.org/resource/Soybean
+soybeans - http://dbpedia.org/resource/Soybean
 footwear - http://dbpedia.org/resource/Footwear
 coffee - http://dbpedia.org/resource/Coffee
+autos - http://dbpedia.org/resource/Car
 brazil - http://dbpedia.org/resource/Brazil
 argentina - http://dbpedia.org/resource/Argentina
 germany - http://dbpedia.org/resource/Germany
 argentina - http://dbpedia.org/resource/Argentina
 netherlands - http://dbpedia.org/resource/Netherlands
-commodity - http://dbpedia.org/resource/Commodity
+commodities - http://dbpedia.org/resource/Commodity
 refined oil - http://dbpedia.org/resource/Petroleum_product
 crude oil - http://dbpedia.org/resource/Petroleum
-cellular phone - http://dbpedia.org/resource/Mobile_phone
+cellular phones - http://dbpedia.org/resource/Mobile_phone
 transport - http://dbpedia.org/resource/Transport
 chemical - http://dbpedia.org/resource/Chemical_substance
 oil - http://dbpedia.org/resource/Petroleum
-automotive - http://dbpedia.org/resource/Car
-electronic - http://dbpedia.org/resource/Electronics
+automotive parts - http://dbpedia.org/resource/Automotive_engineering
+electronics - http://dbpedia.org/resource/Electronics
 brazil - http://dbpedia.org/resource/Brazil
 argentina - http://dbpedia.org/resource/Argentina
 paraguay - http://dbpedia.org/resource/Paraguay
@@ -1223,10 +1148,11 @@ argentina - http://dbpedia.org/resource/Argentina
 germany - http://dbpedia.org/resource/Germany
 south korea - http://dbpedia.org/resource/South_Korea
 debt - http://dbpedia.org/resource/External_debt
-exchange rate - http://dbpedia.org/resource/Exchange_rate
+exchange rates - http://dbpedia.org/resource/Exchange_rate
 uruguayan - http://dbpedia.org/resource/Uruguay
 pesos - http://dbpedia.org/resource/Mexican_peso
 dollar - http://dbpedia.org/resource/United_States_dollar
+reals - http://dbpedia.org/resource/Brazilian_real
 brl - http://dbpedia.org/resource/Brazilian_real
 dollar - http://dbpedia.org/resource/United_States_dollar
 fiscal year - http://dbpedia.org/resource/Fiscal_year
@@ -1235,26 +1161,19 @@ calendar year - http://dbpedia.org/resource/Calendar_year
 public debt - http://dbpedia.org/resource/External_debt
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
-datum - http://dbpedia.org/resource/Data
 government debt - http://dbpedia.org/resource/Government_debt
 debt - http://dbpedia.org/resource/External_debt
-datum - http://dbpedia.org/resource/Data
 debt - http://dbpedia.org/resource/External_debt
-datum - http://dbpedia.org/resource/Data
 debt - http://dbpedia.org/resource/External_debt
-subnational entity - http://dbpedia.org/resource/Administrative_division
+subnational entities - http://dbpedia.org/resource/Administrative_division
 intra - http://dbpedia.org/resource/Verbania
 debt - http://dbpedia.org/resource/External_debt
 intra - http://dbpedia.org/resource/Verbania
 debt - http://dbpedia.org/resource/External_debt
-social fund - http://dbpedia.org/resource/Social_fund
 unemployment - http://dbpedia.org/resource/Unemployment
 debt - http://dbpedia.org/resource/External_debt
-social fund - http://dbpedia.org/resource/Social_fund
-public auction - http://dbpedia.org/resource/Public_auction
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
-reserve - http://dbpedia.org/resource/Nature_reserve
 foreign exchange - http://dbpedia.org/resource/International_trade
 gold - http://dbpedia.org/resource/Gold
 current account balance - http://dbpedia.org/resource/Current_account_(balance_of_payments)
@@ -1266,6 +1185,7 @@ direct foreign investment - http://dbpedia.org/resource/Foreign_direct_investmen
 stock - http://dbpedia.org/resource/Livestock
 direct foreign investment - http://dbpedia.org/resource/Foreign_direct_investment
 market - http://dbpedia.org/resource/Market_economy
+publicly traded - http://dbpedia.org/resource/Public_company
 trillion - http://dbpedia.org/resource/Long_and_short_scales
 trillion - http://dbpedia.org/resource/Long_and_short_scales
 trillion - http://dbpedia.org/resource/Long_and_short_scales
@@ -1283,7 +1203,6 @@ trillion - http://dbpedia.org/resource/Long_and_short_scales
 stock - http://dbpedia.org/resource/Livestock
 stock - http://dbpedia.org/resource/Livestock
 broad money - http://dbpedia.org/resource/Central_Bank_of_Iran
-revenue - http://dbpedia.org/resource/Tax
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 budget surplus - http://dbpedia.org/resource/Government_budget_balance
@@ -1294,19 +1213,17 @@ gdp - http://dbpedia.org/resource/Gross_domestic_product
 household consumption - http://dbpedia.org/resource/Consumption_(economics)
 consumption - http://dbpedia.org/resource/Consumerism
 investment - http://dbpedia.org/resource/Foreign_direct_investment
-capital - http://dbpedia.org/resource/Financial_capital
+fixed capital - http://dbpedia.org/resource/Fixed_capital
 investment - http://dbpedia.org/resource/Foreign_direct_investment
-inventory - http://dbpedia.org/resource/Inventory
-export good - http://dbpedia.org/resource/Trade_route
-import - http://dbpedia.org/resource/International_trade
+goods - http://dbpedia.org/resource/Final_good
+goods - http://dbpedia.org/resource/Final_good
 household consumption - http://dbpedia.org/resource/Consumption_(economics)
 consumption - http://dbpedia.org/resource/Consumerism
 investment - http://dbpedia.org/resource/Foreign_direct_investment
-capital - http://dbpedia.org/resource/Financial_capital
+fixed capital - http://dbpedia.org/resource/Fixed_capital
 investment - http://dbpedia.org/resource/Foreign_direct_investment
-inventory - http://dbpedia.org/resource/Inventory
-export good - http://dbpedia.org/resource/Trade_route
-import - http://dbpedia.org/resource/International_trade
+goods - http://dbpedia.org/resource/Final_good
+goods - http://dbpedia.org/resource/Final_good
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
@@ -1320,46 +1237,41 @@ kwh - http://dbpedia.org/resource/Kilowatt_hour
 kwh - http://dbpedia.org/resource/Kilowatt_hour
 kwh - http://dbpedia.org/resource/Kilowatt_hour
 kwh - http://dbpedia.org/resource/Kilowatt_hour
-import - http://dbpedia.org/resource/International_trade
 kwh - http://dbpedia.org/resource/Kilowatt_hour
 kwh - http://dbpedia.org/resource/Kilowatt_hour
 oil - http://dbpedia.org/resource/Petroleum
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
 oil - http://dbpedia.org/resource/Petroleum
-import - http://dbpedia.org/resource/International_trade
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
 oil - http://dbpedia.org/resource/Petroleum
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
 oil - http://dbpedia.org/resource/Petroleum
-reserve - http://dbpedia.org/resource/Nature_reserve
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
 natural gas - http://dbpedia.org/resource/Natural_gas
-reserve - http://dbpedia.org/resource/Nature_reserve
 natural gas - http://dbpedia.org/resource/Natural_gas
 natural gas - http://dbpedia.org/resource/Natural_gas
 consumption - http://dbpedia.org/resource/Consumerism
 natural gas - http://dbpedia.org/resource/Natural_gas
 natural gas - http://dbpedia.org/resource/Natural_gas
-import - http://dbpedia.org/resource/International_trade
-petroleum product - http://dbpedia.org/resource/Petroleum_product
+petroleum - http://dbpedia.org/resource/Petroleum
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
-petroleum product - http://dbpedia.org/resource/Petroleum_product
+petroleum - http://dbpedia.org/resource/Petroleum
 consumption - http://dbpedia.org/resource/Consumerism
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
-petroleum product - http://dbpedia.org/resource/Petroleum_product
+petroleum - http://dbpedia.org/resource/Petroleum
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
-petroleum product - http://dbpedia.org/resource/Petroleum_product
-import - http://dbpedia.org/resource/International_trade
+petroleum - http://dbpedia.org/resource/Petroleum
 bbl - http://dbpedia.org/resource/Barrel
 bbl - http://dbpedia.org/resource/Barrel
 carbon dioxide - http://dbpedia.org/resource/Greenhouse_gas
+emissions - http://dbpedia.org/resource/Greenhouse_gas
 consumption - http://dbpedia.org/resource/Consumerism
 energy - http://dbpedia.org/resource/World_energy_consumption
 mobile cellular - http://dbpedia.org/resource/Mobile_phone
@@ -1369,24 +1281,22 @@ microwave radio relay - http://dbpedia.org/resource/Microwave_transmission
 network - http://dbpedia.org/resource/Television_network
 mobile cellular - http://dbpedia.org/resource/Mobile_phone
 teledensity - http://dbpedia.org/resource/Telephone_density
-telephone - http://dbpedia.org/resource/Telecommunication
 country code - http://dbpedia.org/resource/Telephone_numbering_plan
 submarine cable - http://dbpedia.org/resource/Submarine_communications_cable
 brazil - http://dbpedia.org/resource/Brazil
 argentina - http://dbpedia.org/resource/Argentina
-earth station - http://dbpedia.org/resource/Ground_station
+satellite earth stations - http://dbpedia.org/resource/Communications_satellite
 intelsat - http://dbpedia.org/resource/Intelsat
 atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
 microwave radio relay - http://dbpedia.org/resource/Microwave_transmission
 domestic satellite system - http://dbpedia.org/resource/Orbita_(TV_system)
-earth station - http://dbpedia.org/resource/Ground_station
 stable - http://dbpedia.org/resource/Stable
 cellular technology - http://dbpedia.org/resource/Mobile_technology
 telephone - http://dbpedia.org/resource/Telecommunication
 mobile cellular - http://dbpedia.org/resource/Mobile_phone
 teledensity - http://dbpedia.org/resource/Telephone_density
 country code - http://dbpedia.org/resource/Telephone_numbering_plan
-submarine cable - http://dbpedia.org/resource/Submarine_communications_cable
+submarine - http://dbpedia.org/resource/Submarine
 americas - http://dbpedia.org/resource/Americas
 americas - http://dbpedia.org/resource/Americas
 atlantis-2 - http://dbpedia.org/resource/Atlantis-2
@@ -1394,7 +1304,7 @@ south america - http://dbpedia.org/resource/South_America
 latin american - http://dbpedia.org/resource/Latin_America
 nautilus - http://dbpedia.org/resource/Nautilus
 central america - http://dbpedia.org/resource/Central_America
-earth station - http://dbpedia.org/resource/Ground_station
+satellite earth stations - http://dbpedia.org/resource/Communications_satellite
 intelsat - http://dbpedia.org/resource/Intelsat
 atlantic ocean - http://dbpedia.org/resource/Atlantic_Ocean
 inmarsat - http://dbpedia.org/resource/International_Mobile_Satellite_Organization
@@ -1406,13 +1316,12 @@ b3 - http://dbpedia.org/resource/Niacin
 earth station - http://dbpedia.org/resource/Ground_station
 internet - http://dbpedia.org/resource/Internet
 country code - http://dbpedia.org/resource/Telephone_numbering_plan
-internet host - http://dbpedia.org/resource/Host_(network)
+internet hosts - http://dbpedia.org/resource/Host_(network)
+broadcast media - http://dbpedia.org/resource/Broadcasting
+broadcast media - http://dbpedia.org/resource/Broadcasting
 commercial radio - http://dbpedia.org/resource/Radio
-station - http://dbpedia.org/resource/Train_station
-tv channel - http://dbpedia.org/resource/Television_channel
 cable tv - http://dbpedia.org/resource/Cable_television
 community radio - http://dbpedia.org/resource/Community_radio
-tv station - http://dbpedia.org/resource/Television_station
 hybrid - http://dbpedia.org/resource/Hybrid_vehicle
 japanese brazilian - http://dbpedia.org/resource/Japanese_Brazilians
 hdtv - http://dbpedia.org/resource/High-definition_television
@@ -1420,20 +1329,19 @@ isdb - http://dbpedia.org/resource/ISDB
 radiobras - http://dbpedia.org/resource/Agência_Brasil
 radio - http://dbpedia.org/resource/Radio
 network - http://dbpedia.org/resource/Television_network
-radio station - http://dbpedia.org/resource/Radio
-tv channel - http://dbpedia.org/resource/Television_channel
+radio - http://dbpedia.org/resource/Radio
+media ownership - http://dbpedia.org/resource/Concentration_of_media_ownership
 standard gauge - http://dbpedia.org/resource/Standard-gauge_railway
 gauge - http://dbpedia.org/resource/Track_gauge
 broad gauge - http://dbpedia.org/resource/Barge
 gauge - http://dbpedia.org/resource/Track_gauge
-electrify - http://dbpedia.org/resource/Tram
+electrified - http://dbpedia.org/resource/Electricity
 standard gauge - http://dbpedia.org/resource/Standard-gauge_railway
 gauge - http://dbpedia.org/resource/Track_gauge
 narrow gauge - http://dbpedia.org/resource/Narrow-gauge_railway
 gauge - http://dbpedia.org/resource/Track_gauge
 urban - http://dbpedia.org/resource/Urbanization
-waterway - http://dbpedia.org/resource/River
-pipeline - http://dbpedia.org/resource/Pipeline_transport
+pipelines - http://dbpedia.org/resource/Pipeline_transport
 gas - http://dbpedia.org/resource/Natural_gas
 oil - http://dbpedia.org/resource/Petroleum
 condensate - http://dbpedia.org/resource/Natural-gas_condensate
@@ -1441,7 +1349,7 @@ gas - http://dbpedia.org/resource/Natural_gas
 gas - http://dbpedia.org/resource/Natural_gas
 liquid petroleum gas - http://dbpedia.org/resource/Liquefied_petroleum_gas
 oil - http://dbpedia.org/resource/Petroleum
-terminal - http://dbpedia.org/resource/Port
+refined products - http://dbpedia.org/resource/Petroleum_product
 seaport - http://dbpedia.org/resource/Port
 montevideo - http://dbpedia.org/resource/Montevideo
 seaport - http://dbpedia.org/resource/Port
@@ -1458,7 +1366,7 @@ bulk cargo - http://dbpedia.org/resource/Bulk_cargo
 sepetiba - http://dbpedia.org/resource/Sepetiba
 ore - http://dbpedia.org/resource/Silver
 terminal - http://dbpedia.org/resource/Port
-container port - http://dbpedia.org/resource/Port
+container - http://dbpedia.org/resource/Containerization
 teus - http://dbpedia.org/resource/Twenty-foot_equivalent_unit
 santos - http://dbpedia.org/resource/Santo_(art)
 itajai - http://dbpedia.org/resource/Itajaí
@@ -1489,8 +1397,7 @@ bulk carrier - http://dbpedia.org/resource/Bulk_carrier
 cargo - http://dbpedia.org/resource/Goods
 chemical tanker - http://dbpedia.org/resource/Chemical_tanker
 container - http://dbpedia.org/resource/Containerization
-liquefy - http://dbpedia.org/resource/Liquefaction
-gas - http://dbpedia.org/resource/Natural_gas
+liquefied gas - http://dbpedia.org/resource/Liquefied_petroleum_gas
 petroleum tanker - http://dbpedia.org/resource/Oil_tanker
 chile - http://dbpedia.org/resource/Chile
 denmark - http://dbpedia.org/resource/Denmark
@@ -1504,8 +1411,6 @@ ghana - http://dbpedia.org/resource/Ghana
 liberia - http://dbpedia.org/resource/Liberia
 marshall islands - http://dbpedia.org/resource/Marshall_Islands
 panama - http://dbpedia.org/resource/Panama
-runway - http://dbpedia.org/resource/Runway
-runway - http://dbpedia.org/resource/Runway
 uruguayan - http://dbpedia.org/resource/Uruguay
 armed forces - http://dbpedia.org/resource/Military
 uruguayan - http://dbpedia.org/resource/Uruguay
@@ -1537,7 +1442,7 @@ education - http://dbpedia.org/resource/Education
 compulsory military service - http://dbpedia.org/resource/Conscription
 conscript - http://dbpedia.org/resource/Conscription
 volunteer - http://dbpedia.org/resource/Volunteering
-armed force - http://dbpedia.org/resource/Military
+armed forces - http://dbpedia.org/resource/Military
 brazilian army - http://dbpedia.org/resource/Brazilian_Army
 south america - http://dbpedia.org/resource/South_America
 navy - http://dbpedia.org/resource/Navy
@@ -1545,7 +1450,6 @@ air force - http://dbpedia.org/resource/Argentine_Air_Force
 reserve - http://dbpedia.org/resource/Nature_reserve
 military service - http://dbpedia.org/resource/Military
 military service - http://dbpedia.org/resource/Military
-military expenditure - http://dbpedia.org/resource/Military_budget
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
 gdp - http://dbpedia.org/resource/Gross_domestic_product
@@ -1556,21 +1460,21 @@ gdp - http://dbpedia.org/resource/Gross_domestic_product
 uruguay - http://dbpedia.org/resource/Uruguay
 icj - http://dbpedia.org/resource/International_Court_of_Justice
 uruguay - http://dbpedia.org/resource/Uruguay
-paper mill - http://dbpedia.org/resource/Paper_mill
+paper - http://dbpedia.org/resource/Paper
 uruguay river - http://dbpedia.org/resource/Uruguay_River
 argentina - http://dbpedia.org/resource/Argentina
 pollution - http://dbpedia.org/resource/Pollution
-monitor - http://dbpedia.org/resource/Display_device
 boundary dispute - http://dbpedia.org/resource/Territorial_dispute
 brazil - http://dbpedia.org/resource/Brazil
 uruguay - http://dbpedia.org/resource/Uruguay
 quarai - http://dbpedia.org/resource/Quarai
 cuareim river - http://dbpedia.org/resource/Quaraí_River
+leaves - http://dbpedia.org/resource/Brexit
 tripoint - http://dbpedia.org/resource/Tripoint
 argentina - http://dbpedia.org/resource/Argentina
 smuggling - http://dbpedia.org/resource/Illegal_drug_trade
-firearm - http://dbpedia.org/resource/Firearm
-narcotic - http://dbpedia.org/resource/Narcotic
+firearms - http://dbpedia.org/resource/Firearm
+narcotics - http://dbpedia.org/resource/Illegal_drug_trade
 uruguay - http://dbpedia.org/resource/Uruguay
 brazil - http://dbpedia.org/resource/Brazil
 boundary dispute - http://dbpedia.org/resource/Territorial_dispute
@@ -1578,33 +1482,30 @@ brazil - http://dbpedia.org/resource/Brazil
 uruguay - http://dbpedia.org/resource/Uruguay
 quarai - http://dbpedia.org/resource/Quarai
 cuareim river - http://dbpedia.org/resource/Quaraí_River
+leaves - http://dbpedia.org/resource/Brexit
 tripoint - http://dbpedia.org/resource/Tripoint
 argentina - http://dbpedia.org/resource/Argentina
 smuggling - http://dbpedia.org/resource/Illegal_drug_trade
-firearm - http://dbpedia.org/resource/Firearm
-narcotic - http://dbpedia.org/resource/Narcotic
+firearms - http://dbpedia.org/resource/Firearm
+narcotics - http://dbpedia.org/resource/Illegal_drug_trade
 uruguay - http://dbpedia.org/resource/Uruguay
 brazil - http://dbpedia.org/resource/Brazil
 colombian - http://dbpedia.org/resource/Colombia
-narcotic - http://dbpedia.org/resource/Narcotic
+illegal narcotics - http://dbpedia.org/resource/Narcotic
 paramilitary - http://dbpedia.org/resource/Paramilitary
 brazil - http://dbpedia.org/resource/Brazil
 region - http://dbpedia.org/resource/Region
 venezuela - http://dbpedia.org/resource/Venezuela
-illicit drug - http://dbpedia.org/resource/Illegal_drug_trade
-drug - http://dbpedia.org/resource/Illegal_drug_trade
-bear - http://dbpedia.org/resource/Bear
-container - http://dbpedia.org/resource/Containerization
+illicit drugs - http://dbpedia.org/resource/Illegal_drug_trade
+borne - http://dbpedia.org/resource/Matt_Osborne
 law enforcement - http://dbpedia.org/resource/Law_enforcement_agency
 corruption - http://dbpedia.org/resource/Political_corruption
 money laundering - http://dbpedia.org/resource/Money_laundering
-law - http://dbpedia.org/resource/Law
 border control - http://dbpedia.org/resource/Border_control
 frontier - http://dbpedia.org/resource/Frontier
 consumption - http://dbpedia.org/resource/Consumerism
 cocaine - http://dbpedia.org/resource/Cocaine
 synthetic - http://dbpedia.org/resource/Synthetic_fiber
-drug - http://dbpedia.org/resource/Illegal_drug_trade
 consumer - http://dbpedia.org/resource/Final_good
 cocaine - http://dbpedia.org/resource/Cocaine
 producer - http://dbpedia.org/resource/Filmmaking
@@ -1617,18 +1518,16 @@ transshipment - http://dbpedia.org/resource/Transshipment
 colombian - http://dbpedia.org/resource/Colombia
 cocaine - http://dbpedia.org/resource/Cocaine
 station - http://dbpedia.org/resource/Train_station
-narcotic - http://dbpedia.org/resource/Narcotic
-transshipment - http://dbpedia.org/resource/Transshipment
+narcotics - http://dbpedia.org/resource/Illegal_drug_trade
 peru - http://dbpedia.org/resource/Peru
 colombia - http://dbpedia.org/resource/Colombia
 upsurge - http://dbpedia.org/resource/Upsurge
 drug - http://dbpedia.org/resource/Illegal_drug_trade
 violence - http://dbpedia.org/resource/Violence
-weapon - http://dbpedia.org/resource/Weapon
 smuggling - http://dbpedia.org/resource/Illegal_drug_trade
 market - http://dbpedia.org/resource/Market_economy
 colombian - http://dbpedia.org/resource/Colombia
 cocaine - http://dbpedia.org/resource/Cocaine
-narcotic - http://dbpedia.org/resource/Narcotic
-launder - http://dbpedia.org/resource/Money_laundering
+narcotics - http://dbpedia.org/resource/Illegal_drug_trade
+laundered - http://dbpedia.org/resource/Money_laundering
 financial system - http://dbpedia.org/resource/Finance

@@ -1,6 +1,5 @@
 brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
 brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
-encompass - http://dbpedia.org/resource/Encompass
 brazil - http://dbpedia.org/resource/Brazil
 uruguay - http://dbpedia.org/resource/Uruguay
 independence - http://dbpedia.org/resource/Independence
@@ -11,7 +10,6 @@ dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 brazil - http://dbpedia.org/resource/Brazil
 stable - http://dbpedia.org/resource/Glossary_of_professional_wrestling_terms
 cisplatine war - http://dbpedia.org/resource/Cisplatine_War
-lose control - http://dbpedia.org/resource/Lose_Control_(Missy_Elliott_song)
 uruguay - http://dbpedia.org/resource/Uruguay
 independent - http://dbpedia.org/resource/Independence
 amazonas - http://dbpedia.org/resource/Amazon_basin
@@ -24,7 +22,8 @@ uruguayan war - http://dbpedia.org/resource/Uruguayan_War
 triple alliance - http://dbpedia.org/resource/Paraguayan_War
 argentina - http://dbpedia.org/resource/Argentina
 uruguay - http://dbpedia.org/resource/Uruguay
-brazil republic - http://dbpedia.org/resource/Brazil
+brazil - http://dbpedia.org/resource/Brazil
+republic - http://dbpedia.org/resource/First_Brazilian_Republic
 republic - http://dbpedia.org/resource/First_Brazilian_Republic
 brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
 independence - http://dbpedia.org/resource/Independence
@@ -32,8 +31,6 @@ dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-siege - http://dbpedia.org/resource/Siege
-skirmish - http://dbpedia.org/resource/Skirmisher
 brazil - http://dbpedia.org/resource/Brazil
 independent - http://dbpedia.org/resource/Independence
 constitution - http://dbpedia.org/resource/Constitution
@@ -44,9 +41,8 @@ brazil - http://dbpedia.org/resource/Brazil
 economic growth - http://dbpedia.org/resource/Economic_growth
 freedom - http://dbpedia.org/resource/Freedom_of_the_press
 democratic - http://dbpedia.org/resource/Parliamentary_system
-country woman - http://dbpedia.org/resource/Country_Woman
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
 bicameral - http://dbpedia.org/resource/Bicameralism
 parliament - http://dbpedia.org/resource/Parliament
 senate - http://dbpedia.org/resource/Senate
@@ -84,7 +80,7 @@ sovereignty - http://dbpedia.org/resource/Sovereign_state
 misiones orientales - http://dbpedia.org/resource/Misiones_Orientales
 banda oriental - http://dbpedia.org/resource/Banda_Oriental
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
-abdicate - http://dbpedia.org/resource/Abdication
+abdicated - http://dbpedia.org/resource/Abdication
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 stress - http://dbpedia.org/resource/Portuguese_language
 portuguese - http://dbpedia.org/resource/Portuguese_language
@@ -103,21 +99,19 @@ brazil - http://dbpedia.org/resource/Brazil
 dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 regent - http://dbpedia.org/resource/Regent
-regent - http://dbpedia.org/resource/Regent
+regents - http://dbpedia.org/resource/Regent
 bolivia - http://dbpedia.org/resource/Bolivia
 amazonas - http://dbpedia.org/resource/Amazon_basin
 amazonas region - http://dbpedia.org/resource/Department_of_Amazonas,_Peru
 brazil - http://dbpedia.org/resource/Brazil
 la paz - http://dbpedia.org/resource/La_Paz
-region - http://dbpedia.org/resource/Region
 pará - http://dbpedia.org/resource/Campeonato_Paraense
 netherlands - http://dbpedia.org/resource/Dutch_Republic
 pará - http://dbpedia.org/resource/Campeonato_Paraense
-region - http://dbpedia.org/resource/Region
 northern brazil - http://dbpedia.org/resource/North_Region,_Brazil
 guyana - http://dbpedia.org/resource/Guyana
 dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
-coronate - http://dbpedia.org/resource/Cornate_d'Adda
+coronated - http://dbpedia.org/resource/Coronation
 dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 brazil - http://dbpedia.org/resource/Brazil
 peace - http://dbpedia.org/resource/Peace
@@ -139,15 +133,16 @@ uruguay - http://dbpedia.org/resource/Uruguay
 uruguayan war - http://dbpedia.org/resource/Uruguayan_War
 brazil - http://dbpedia.org/resource/Brazil
 argentina - http://dbpedia.org/resource/Argentina
-uruguay team - http://dbpedia.org/resource/Uruguay_national_football_team
+uruguay - http://dbpedia.org/resource/Uruguay
 paraguay - http://dbpedia.org/resource/Paraguay
+ambitions - http://dbpedia.org/resource/Ambitions_(song)
 triple alliance - http://dbpedia.org/resource/Paraguayan_War
 paraguay - http://dbpedia.org/resource/Paraguay
 suicide - http://dbpedia.org/resource/Suicide
 paraguay - http://dbpedia.org/resource/Paraguay
 brazil - http://dbpedia.org/resource/Brazil
-abolish slavery - http://dbpedia.org/resource/Abolitionism
-visual art - http://dbpedia.org/resource/Visual_arts
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+visual arts - http://dbpedia.org/resource/Visual_arts
 literature - http://dbpedia.org/resource/Literature
 theater - http://dbpedia.org/resource/Theatre
 twilight - http://dbpedia.org/resource/Twilight
@@ -158,7 +153,6 @@ brazil - http://dbpedia.org/resource/Brazil
 monarch - http://dbpedia.org/resource/Monarchy_of_Spain
 republic - http://dbpedia.org/resource/First_Brazilian_Republic
 bloodless coup - http://dbpedia.org/resource/Siamese_revolution_of_1932
-officer - http://dbpedia.org/resource/Officer
 bourgeois - http://dbpedia.org/resource/Bourgeoisie
 dictatorship - http://dbpedia.org/resource/Dictatorship
 republic - http://dbpedia.org/resource/First_Brazilian_Republic

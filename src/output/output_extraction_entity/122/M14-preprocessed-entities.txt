@@ -7,39 +7,32 @@ early medieval - http://dbpedia.org/resource/Early_Middle_Ages
 medieval period - http://dbpedia.org/resource/England_in_the_Middle_Ages
 de bruce - http://dbpedia.org/resource/Debruce,_New_York
 family - http://dbpedia.org/resource/Family
-scotland - http://dbpedia.org/resource/Parliament_of_Scotland
-robert bruce king - http://dbpedia.org/resource/Robert_Bruce_King
-scotland - http://dbpedia.org/resource/Parliament_of_Scotland
 english crown - http://dbpedia.org/resource/Kingdom_of_England
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
-court - http://dbpedia.org/resource/Royal_court
+court - http://dbpedia.org/resource/Courtyard
 groom - http://dbpedia.org/resource/Bridegroom
 chamber - http://dbpedia.org/resource/Debate_chamber
 compton - http://dbpedia.org/resource/Denis_Compton
 courtyard house - http://dbpedia.org/resource/Courtyard_house
-brick - http://dbpedia.org/resource/Brick
 tower - http://dbpedia.org/resource/Keep
-brick - http://dbpedia.org/resource/Brick
 clay - http://dbpedia.org/resource/Pottery
 fabric - http://dbpedia.org/resource/Textile
-tudor - http://dbpedia.org/resource/Tudor_period
-brick - http://dbpedia.org/resource/Brick
+tudor - http://dbpedia.org/resource/Tudor_architecture
 tower - http://dbpedia.org/resource/Keep
 tottenham - http://dbpedia.org/resource/Tottenham
 parish church - http://dbpedia.org/resource/Church_of_England
-tudor - http://dbpedia.org/resource/Tudor_period
+tudor - http://dbpedia.org/resource/Tudor_architecture
 porch - http://dbpedia.org/resource/Porch
-mould - http://dbpedia.org/resource/Mold
+moulded - http://dbpedia.org/resource/Molding_(decorative)
 brick - http://dbpedia.org/resource/Brick
-ornament - http://dbpedia.org/resource/Decorative_arts
+ornament - http://dbpedia.org/resource/Jewellery
 tower - http://dbpedia.org/resource/Keep
 falconry - http://dbpedia.org/resource/Falconry
-mew - http://dbpedia.org/resource/Mews_(falconry)
-bird - http://dbpedia.org/resource/Bird
+mews - http://dbpedia.org/resource/Mews
 hunting - http://dbpedia.org/resource/Hunting_and_shooting_in_the_United_Kingdom
 lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
 tottenham - http://dbpedia.org/resource/Tottenham
@@ -52,7 +45,6 @@ henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 manor house - http://dbpedia.org/resource/Manor_house
 margaret - http://dbpedia.org/resource/Margaret_Tudor
 queen - http://dbpedia.org/resource/Queen_consort
-scotland - http://dbpedia.org/resource/Parliament_of_Scotland
 queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
@@ -60,10 +52,9 @@ plague - http://dbpedia.org/resource/Great_Plague_of_London
 hugh hare - http://dbpedia.org/resource/Hugh_Hare
 lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
 hugh hare - http://dbpedia.org/resource/Hugh_Hare
-die - http://dbpedia.org/resource/Death
+choking - http://dbpedia.org/resource/Choking
 turkey - http://dbpedia.org/resource/Domestic_turkey
 bone - http://dbpedia.org/resource/Bone
-gentleman - http://dbpedia.org/resource/Gentry
 turkey - http://dbpedia.org/resource/Domestic_turkey
 bone - http://dbpedia.org/resource/Bone
 mouth - http://dbpedia.org/resource/Mouth
@@ -82,14 +73,13 @@ constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
 lucy - http://dbpedia.org/resource/Lucy_Beale
 mystery - http://dbpedia.org/resource/Mystery_play
 constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
-henry grow - http://dbpedia.org/resource/Henry_Grow
-lock - http://dbpedia.org/resource/Lock_and_key
+henry grew - http://dbpedia.org/resource/Henry_Grew
 clock - http://dbpedia.org/resource/Turret_clock
 constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
 balcony - http://dbpedia.org/resource/Balcony
 hallow - http://dbpedia.org/resource/Hallow
-church parish - http://dbpedia.org/resource/Parish
-parish register - http://dbpedia.org/resource/Parish_register
+church - http://dbpedia.org/resource/Church_architecture
+parish registers - http://dbpedia.org/resource/Parish_register
 constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 edmonton - http://dbpedia.org/resource/Edmonton
@@ -97,11 +87,9 @@ advertiser - http://dbpedia.org/resource/Advertising
 henry hare - http://dbpedia.org/resource/Henry_Hare
 radical - http://dbpedia.org/resource/Political_radicalism
 turret - http://dbpedia.org/resource/Turret
-projection - http://dbpedia.org/resource/Movie_projector
 clock tower - http://dbpedia.org/resource/Clock_tower
 porch - http://dbpedia.org/resource/Porch
 henry - http://dbpedia.org/resource/Henry_(unit)
-marriage - http://dbpedia.org/resource/Marriage_in_Islam
 duchess - http://dbpedia.org/resource/Duke
 somerset - http://dbpedia.org/resource/Somerset
 henry - http://dbpedia.org/resource/Henry_(unit)
@@ -110,24 +98,22 @@ bruce castle - http://dbpedia.org/resource/Bruce_Castle
 henry - http://dbpedia.org/resource/Henry_(unit)
 henry - http://dbpedia.org/resource/Henry_(unit)
 coat - http://dbpedia.org/resource/Fur_clothing
+arms - http://dbpedia.org/resource/Coat_of_arms
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 henrietta - http://dbpedia.org/resource/Henrietta_of_England
 illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
-petition - http://dbpedia.org/resource/Petition
 parliament - http://dbpedia.org/resource/Parliament_of_England
 james townsend - http://dbpedia.org/resource/James_Townsend_(British_politician)
 lord mayor - http://dbpedia.org/resource/Lord_Mayor_of_London
 parapet - http://dbpedia.org/resource/Parapet
-tudor - http://dbpedia.org/resource/Tudor_period
-gable - http://dbpedia.org/resource/Gable
+tudor - http://dbpedia.org/resource/Tudor_architecture
 georgian - http://dbpedia.org/resource/Georgian_language
 east wing - http://dbpedia.org/resource/East_Wing
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
-auction - http://dbpedia.org/resource/Auction
 john eardley wilmot - http://dbpedia.org/resource/John_Eardley_Wilmot
-refugee - http://dbpedia.org/resource/Refugee
+refugees - http://dbpedia.org/resource/Refugee
 independence - http://dbpedia.org/resource/Partition_of_India
-refugee - http://dbpedia.org/resource/Refugee
+refugees - http://dbpedia.org/resource/Refugee
 french revolution - http://dbpedia.org/resource/French_Revolution
 wilmot - http://dbpedia.org/resource/Chester_Wilmot
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
@@ -138,12 +124,10 @@ family - http://dbpedia.org/resource/Family
 boarding school - http://dbpedia.org/resource/Boarding_school
 victorian - http://dbpedia.org/resource/Victorian_era
 wing - http://dbpedia.org/resource/Wing
-park house school - http://dbpedia.org/resource/Park_House_School
 rowland hill - http://dbpedia.org/resource/Rowland_Hill
 headmaster - http://dbpedia.org/resource/Head_teacher
 arthur - http://dbpedia.org/resource/King_Arthur
 corporal punishment - http://dbpedia.org/resource/Corporal_punishment
-hit boy - http://dbpedia.org/resource/Hit-Boy
 bruce castle school - http://dbpedia.org/resource/Bruce_Castle_School
 charles dickens - http://dbpedia.org/resource/Charles_Dickens
 charles - http://dbpedia.org/resource/Charles_II_of_England
@@ -157,11 +141,13 @@ penny post - http://dbpedia.org/resource/Penny_Post
 joshua - http://dbpedia.org/resource/Joshua
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 tottenham urban district council - http://dbpedia.org/resource/Municipal_Borough_of_Tottenham
-park building - http://dbpedia.org/resource/Somerville_College,_Oxford
+public park - http://dbpedia.org/resource/Urban_park
 tottenham - http://dbpedia.org/resource/Tottenham
 dentist - http://dbpedia.org/resource/Dentist
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
+grade 1 listed building - http://dbpedia.org/resource/Listed_building
+listed building - http://dbpedia.org/resource/Listed_building
 borough - http://dbpedia.org/resource/Borough
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 local history - http://dbpedia.org/resource/Local_history

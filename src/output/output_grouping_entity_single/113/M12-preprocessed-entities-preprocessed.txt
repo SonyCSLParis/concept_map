@@ -1,133 +1,129 @@
-innovation - http://dbpedia.org/resource/Innovation
-single - http://dbpedia.org/resource/Single_person
-sir thomas stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
-education - http://dbpedia.org/resource/Education
-main source - http://dbpedia.org/resource/Main_Source
-ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
-flore - http://dbpedia.org/resource/Flora_(mythology)
-heritage list - http://dbpedia.org/resource/New_South_Wales_Heritage_Database
-komodo - http://dbpedia.org/resource/Komodo_dragon
-stone - http://dbpedia.org/resource/Masonry
-karma - http://dbpedia.org/resource/Karma
-komodo national park - http://dbpedia.org/resource/Komodo_National_Park
-jakarta globe - http://dbpedia.org/resource/Jakarta_Globe
-meter - http://dbpedia.org/resource/Measuring_instrument
-coral sea - http://dbpedia.org/resource/Coral_Sea
-marine life - http://dbpedia.org/resource/Marine_life
-conservation - http://dbpedia.org/resource/Conservation_biology
-whs - http://dbpedia.org/resource/World_Heritage_Site
-small island - http://dbpedia.org/resource/Small_Island_(novel)
-walpole - http://dbpedia.org/resource/Robert_Walpole
-muntilan - http://dbpedia.org/resource/Muntilan
-komodo dragon - http://dbpedia.org/resource/Komodo_dragon
-local government - http://dbpedia.org/resource/Local_government
-public private partnership - http://dbpedia.org/resource/Public–private_partnership
-monitor - http://dbpedia.org/resource/Monitor_lizard
-monument - http://dbpedia.org/resource/Monument
-heart - http://dbpedia.org/resource/Cardiovascular_disease
-endemic - http://dbpedia.org/resource/Endemism
-mammal - http://dbpedia.org/resource/Mammal
-candi borobudur - http://dbpedia.org/resource/Borobudur
-decay - http://dbpedia.org/resource/Decomposition
-guinness - http://dbpedia.org/resource/Guinness_World_Records
-rinca - http://dbpedia.org/resource/Rinca
-alert - http://dbpedia.org/resource/Alertness
-ecosystem - http://dbpedia.org/resource/Ecosystem
-magelang regency - http://dbpedia.org/resource/Magelang_Regency
-golden age - http://dbpedia.org/resource/Golden_Age
-biodiversity - http://dbpedia.org/resource/Biodiversity
-fishing - http://dbpedia.org/resource/Fishery
-millennia - http://dbpedia.org/resource/Millennium
-mendut - http://dbpedia.org/resource/Mendut
-contradiction - http://dbpedia.org/resource/Contradiction
-forestry - http://dbpedia.org/resource/Forestry
-village - http://dbpedia.org/resource/Village
-maria sharapova - http://dbpedia.org/resource/Maria_Sharapova
-pressure - http://dbpedia.org/resource/Pressure
-remarkable - http://dbpedia.org/resource/ReMarkable
-celebrity endorsement - http://dbpedia.org/resource/Testimonial
-greenwood publishing group - http://dbpedia.org/resource/Greenwood_Publishing_Group
-stock - http://dbpedia.org/resource/Livestock
-acidic - http://dbpedia.org/resource/PH
-empowerment - http://dbpedia.org/resource/Empowerment
-padar - http://dbpedia.org/resource/Padar,_Indonesia
-news - http://dbpedia.org/resource/News_media
-terrestrial - http://dbpedia.org/resource/Ecoregion
-dragons - http://dbpedia.org/resource/Dragon
-7 wonders - http://dbpedia.org/resource/7_Wonders_(board_game)
-nirvana - http://dbpedia.org/resource/Nirvana
-market - http://dbpedia.org/resource/Market_economy
-kode - http://dbpedia.org/resource/Kode
-wonderful indonesia - http://dbpedia.org/resource/Tourism_in_Indonesia
-heritage conservation - http://dbpedia.org/resource/Historic_preservation
-merapi - http://dbpedia.org/resource/Mount_Merapi
-buddhist temple - http://dbpedia.org/resource/Buddhist_temple
-creative economy - http://dbpedia.org/resource/Creative_industries
-archipelago - http://dbpedia.org/resource/Archipelago
-eruption - http://dbpedia.org/resource/Volcano
-stakeholder - http://dbpedia.org/resource/Project_stakeholder
-architecture - http://dbpedia.org/resource/Architecture
-marine protected area - http://dbpedia.org/resource/Marine_protected_area
-resemble - http://dbpedia.org/resource/SoltyRei
-east nusa tenggara - http://dbpedia.org/resource/East_Nusa_Tenggara
-knp - http://dbpedia.org/resource/Koalisyon_ng_Nagkakaisang_Pilipino
-gili motang - http://dbpedia.org/resource/Gili_Motang
-conservationist - http://dbpedia.org/resource/Conservation_biology
-relief - http://dbpedia.org/resource/Relief
-ecotourism - http://dbpedia.org/resource/Ecotourism
-richard gere - http://dbpedia.org/resource/Richard_Gere
-rely - http://dbpedia.org/resource/Rely_(brand)
-indigenous - http://dbpedia.org/resource/Indigenous_peoples
-lizard - http://dbpedia.org/resource/Monitor_lizard
-central java - http://dbpedia.org/resource/Central_Java
-unesco - http://dbpedia.org/resource/World_Heritage_Site
-cassel - http://dbpedia.org/resource/Kassel
-buddha statue - http://dbpedia.org/resource/Buddharupa
-tourism management - http://dbpedia.org/resource/Hospitality_management_studies
-handicraft - http://dbpedia.org/resource/Handicraft
-fish - http://dbpedia.org/resource/Fishery
-heritage management - http://dbpedia.org/resource/Cultural_heritage_management
-hinterland - http://dbpedia.org/resource/Hinterland
-ratu boko - http://dbpedia.org/resource/Ratu_Boko
-culture - http://dbpedia.org/resource/Culture
-temple - http://dbpedia.org/resource/Candi_of_Indonesia
-prambanan - http://dbpedia.org/resource/Prambanan
-environmental conservation - http://dbpedia.org/resource/Environmental_protection
-hospitality - http://dbpedia.org/resource/Hospitality
-heritage tourism - http://dbpedia.org/resource/Heritage_tourism
-great copper mountain - http://dbpedia.org/resource/Falun_Mine
-poisonous - http://dbpedia.org/resource/Poison
-equator - http://dbpedia.org/resource/Equator
-planet - http://dbpedia.org/resource/Earth
-scandinavian - http://dbpedia.org/resource/Scandinavia
-ensemble - http://dbpedia.org/resource/Numerical_weather_prediction
-species - http://dbpedia.org/resource/Species
-buddhism - http://dbpedia.org/resource/Buddhism
-specie - http://dbpedia.org/resource/Money
-borobudur - http://dbpedia.org/resource/Borobudur
-buddhist - http://dbpedia.org/resource/Buddhism
-annals - http://dbpedia.org/resource/Annals
-endangered - http://dbpedia.org/resource/Endangered_species
-community development program - http://dbpedia.org/resource/Community_development
-tourism - http://dbpedia.org/resource/Tourism
-jakarta - http://dbpedia.org/resource/Jakarta
 entrepreneurship - http://dbpedia.org/resource/Entrepreneurship
+poisonous - http://dbpedia.org/resource/Poison
+forestry - http://dbpedia.org/resource/Forestry
+7 wonders - http://dbpedia.org/resource/7_Wonders_(board_game)
+walpole - http://dbpedia.org/resource/Robert_Walpole
+flore - http://dbpedia.org/resource/Flora_(mythology)
+jakarta globe - http://dbpedia.org/resource/Jakarta_Globe
 feasibility study - http://dbpedia.org/resource/Feasibility_study
+stone - http://dbpedia.org/resource/Masonry
+creative economy - http://dbpedia.org/resource/Creative_industries
+nirvana - http://dbpedia.org/resource/Nirvana
+cassel - http://dbpedia.org/resource/Kassel
+komodo - http://dbpedia.org/resource/Komodo_dragon
 commercialization - http://dbpedia.org/resource/Commercialization
-sumbawa - http://dbpedia.org/resource/Sumbawa
-civilization - http://dbpedia.org/resource/Civilization
-compound - http://dbpedia.org/resource/Chemical_compound
-pawon - http://dbpedia.org/resource/Pawon
-ladkin - http://dbpedia.org/resource/Ladkin
-celebrity - http://dbpedia.org/resource/Celebrity
-mount merapi - http://dbpedia.org/resource/Mount_Merapi
-heritage - http://dbpedia.org/resource/Cultural_heritage
-fletcher - http://dbpedia.org/resource/Fletching
-fish bomb - http://dbpedia.org/resource/Blast_fishing
-yogyakarta - http://dbpedia.org/resource/Yogyakarta
-human - http://dbpedia.org/resource/Human_rights
+fish - http://dbpedia.org/resource/Fishery
+candi borobudur - http://dbpedia.org/resource/Borobudur
+celebrity endorsement - http://dbpedia.org/resource/Testimonial
+endangered - http://dbpedia.org/resource/Endangered_species
+education - http://dbpedia.org/resource/Education
+acidic - http://dbpedia.org/resource/PH
+rinca - http://dbpedia.org/resource/Rinca
+village - http://dbpedia.org/resource/Village
+jakarta - http://dbpedia.org/resource/Jakarta
+indigenous - http://dbpedia.org/resource/Indigenous_peoples
+conservation - http://dbpedia.org/resource/Conservation_biology
+resemble - http://dbpedia.org/resource/SoltyRei
+wonderful indonesia - http://dbpedia.org/resource/Tourism_in_Indonesia
+tourism management - http://dbpedia.org/resource/Hospitality_management_studies
+eruption - http://dbpedia.org/resource/Volcano
+news - http://dbpedia.org/resource/News_media
+heritage conservation - http://dbpedia.org/resource/Historic_preservation
+heart - http://dbpedia.org/resource/Cardiovascular_disease
+sir thomas stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
+equator - http://dbpedia.org/resource/Equator
+biodiversity - http://dbpedia.org/resource/Biodiversity
+scandinavian - http://dbpedia.org/resource/Scandinavia
+hospitality - http://dbpedia.org/resource/Hospitality
+merapi - http://dbpedia.org/resource/Mount_Merapi
 unsupervised - http://dbpedia.org/resource/Unsupervised_learning
+compound - http://dbpedia.org/resource/Chemical_compound
+millennia - http://dbpedia.org/resource/Millennium
+mount merapi - http://dbpedia.org/resource/Mount_Merapi
+muntilan - http://dbpedia.org/resource/Muntilan
+environmental conservation - http://dbpedia.org/resource/Environmental_protection
+ecosystem - http://dbpedia.org/resource/Ecosystem
+stakeholders - http://dbpedia.org/resource/Project_stakeholder
+empowerment - http://dbpedia.org/resource/Empowerment
+magelang regency - http://dbpedia.org/resource/Magelang_Regency
+unesco - http://dbpedia.org/resource/World_Heritage_Site
+great copper mountain - http://dbpedia.org/resource/Falun_Mine
+main source - http://dbpedia.org/resource/Main_Source
+market - http://dbpedia.org/resource/Market_economy
+heritage - http://dbpedia.org/resource/Cultural_heritage
+heritage management - http://dbpedia.org/resource/Cultural_heritage_management
+guinness - http://dbpedia.org/resource/Guinness_World_Records
+endangered species - http://dbpedia.org/resource/Endangered_species
+tourism - http://dbpedia.org/resource/Tourism
+lizard - http://dbpedia.org/resource/Monitor_lizard
+annals - http://dbpedia.org/resource/Annals
+komodo dragons - http://dbpedia.org/resource/Komodo_dragon
+relief - http://dbpedia.org/resource/Relief
+monitor - http://dbpedia.org/resource/Monitor_lizard
+endemic - http://dbpedia.org/resource/Endemism
+temple - http://dbpedia.org/resource/Candi_of_Indonesia
+marine protected area - http://dbpedia.org/resource/Marine_protected_area
+archipelago - http://dbpedia.org/resource/Archipelago
+buddhist - http://dbpedia.org/resource/Buddhism
+east nusa tenggara - http://dbpedia.org/resource/East_Nusa_Tenggara
 prey - http://dbpedia.org/resource/Predation
-borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds
-varanus komodoensis - http://dbpedia.org/resource/Komodo_dragon
+single - http://dbpedia.org/resource/Single_person
+handicrafts - http://dbpedia.org/resource/Handicraft
+knp - http://dbpedia.org/resource/Koalisyon_ng_Nagkakaisang_Pilipino
+prambanan - http://dbpedia.org/resource/Prambanan
+pressure - http://dbpedia.org/resource/Pressure
+sumbawa - http://dbpedia.org/resource/Sumbawa
+padar - http://dbpedia.org/resource/Padar,_Indonesia
+marketing - http://dbpedia.org/resource/Marketing
+architecture - http://dbpedia.org/resource/Architecture
+mendut - http://dbpedia.org/resource/Mendut
+species - http://dbpedia.org/resource/Species
 connecticut - http://dbpedia.org/resource/Connecticut
+ratu boko - http://dbpedia.org/resource/Ratu_Boko
+stakeholder - http://dbpedia.org/resource/Project_stakeholder
+ecotourism - http://dbpedia.org/resource/Ecotourism
+planet - http://dbpedia.org/resource/Earth
+remarkable - http://dbpedia.org/resource/ReMarkable
+alert - http://dbpedia.org/resource/Alertness
+greenwood publishing group - http://dbpedia.org/resource/Greenwood_Publishing_Group
+pawon - http://dbpedia.org/resource/Pawon
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
+conservationists - http://dbpedia.org/resource/Conservation_biology
+marine life - http://dbpedia.org/resource/Marine_life
+terrestrial - http://dbpedia.org/resource/Ecoregion
+monument - http://dbpedia.org/resource/Monument
+innovation - http://dbpedia.org/resource/Innovation
+ensemble - http://dbpedia.org/resource/Numerical_weather_prediction
+whs - http://dbpedia.org/resource/World_Heritage_Site
+central java - http://dbpedia.org/resource/Central_Java
+richard gere - http://dbpedia.org/resource/Richard_Gere
+fishing - http://dbpedia.org/resource/Fishery
+destructive fishing practices - http://dbpedia.org/resource/Destructive_fishing_practices
+komodo dragon - http://dbpedia.org/resource/Komodo_dragon
+culture - http://dbpedia.org/resource/Culture
+dragons - http://dbpedia.org/resource/Dragon
+buddha statues - http://dbpedia.org/resource/Buddhist_art
+rely - http://dbpedia.org/resource/Rely_(brand)
+komodo national park - http://dbpedia.org/resource/Komodo_National_Park
+ladkin - http://dbpedia.org/resource/Ladkin
+city - http://dbpedia.org/resource/City
+maria sharapova - http://dbpedia.org/resource/Maria_Sharapova
+gili motang - http://dbpedia.org/resource/Gili_Motang
+fletcher - http://dbpedia.org/resource/Fletching
+varanus komodoensis - http://dbpedia.org/resource/Komodo_dragon
+golden age - http://dbpedia.org/resource/Golden_Age
+ancestor worship - http://dbpedia.org/resource/Veneration_of_the_dead
+buddhism - http://dbpedia.org/resource/Buddhism
+celebrity - http://dbpedia.org/resource/Celebrity
+decay - http://dbpedia.org/resource/Decomposition
+human - http://dbpedia.org/resource/Human
+karma - http://dbpedia.org/resource/Karma
+borobudur - http://dbpedia.org/resource/Borobudur
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+community development - http://dbpedia.org/resource/Community_development
+heritage list - http://dbpedia.org/resource/New_South_Wales_Heritage_Database
+heritage tourism - http://dbpedia.org/resource/Heritage_tourism
+hinterland - http://dbpedia.org/resource/Hinterland
+sea mammals - http://dbpedia.org/resource/Marine_mammal
+kode - http://dbpedia.org/resource/Kode
+borobudur temple compounds - http://dbpedia.org/resource/Borobudur_Temple_Compounds

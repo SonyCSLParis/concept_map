@@ -1,209 +1,184 @@
-patrician - http://dbpedia.org/resource/Norwegian_patriciate
-political economic - http://dbpedia.org/resource/Political_economy
-concentration - http://dbpedia.org/resource/Internment
-armor - http://dbpedia.org/resource/Armour
-middle ages - http://dbpedia.org/resource/Middle_Ages
-rampart - http://dbpedia.org/resource/Defensive_wall
-tower house - http://dbpedia.org/resource/Tower_house
-garrison - http://dbpedia.org/resource/Garrison
-sénéchal - http://dbpedia.org/resource/Seneschal
-jed water - http://dbpedia.org/resource/Jed_Water
-bóbr - http://dbpedia.org/resource/Bóbr
-battlement - http://dbpedia.org/resource/Battlement
-dominicans - http://dbpedia.org/resource/Dominican_Order
-fodder - http://dbpedia.org/resource/Fodder
-plain - http://dbpedia.org/resource/Plain
-pastoral - http://dbpedia.org/resource/Pasture
-thoor ballylee - http://dbpedia.org/resource/Thoor_Ballylee
-town - http://dbpedia.org/resource/Market_town
-kinlough - http://dbpedia.org/resource/Kinlough
-stone - http://dbpedia.org/resource/Masonry
-tuscany - http://dbpedia.org/resource/Tuscany
-yardley - http://dbpedia.org/resource/Norman_Yardley
-craigievar castle - http://dbpedia.org/resource/Craigievar_Castle
-bread - http://dbpedia.org/resource/Sacramental_bread
-julian - http://dbpedia.org/resource/Istrian_Italians
-feud - http://dbpedia.org/resource/Feudalism
-emery - http://dbpedia.org/resource/Nail_file
-genre - http://dbpedia.org/resource/Genre_art
-pengersick castle - http://dbpedia.org/resource/Pengersick_Castle
-piel - http://dbpedia.org/resource/Piel_Island
-border security - http://dbpedia.org/resource/Border_control
-molding - http://dbpedia.org/resource/Injection_moulding
-mural - http://dbpedia.org/resource/Mural
-earthwork - http://dbpedia.org/resource/Fortification
-parapet - http://dbpedia.org/resource/Parapet
-tie beam - http://dbpedia.org/resource/Joist
-region - http://dbpedia.org/resource/Region
-bartizan - http://dbpedia.org/resource/Bartizan
-longthorpe - http://dbpedia.org/resource/Longthorpe,_Peterborough
-percys - http://dbpedia.org/resource/House_of_Percy
-dorset - http://dbpedia.org/resource/Dorset
-siege - http://dbpedia.org/resource/Siege
+pirates - http://dbpedia.org/resource/Piracy
 coast - http://dbpedia.org/resource/Coast
-limerick - http://dbpedia.org/resource/Limerick
-audit - http://dbpedia.org/resource/Audit
-crenellate - http://dbpedia.org/resource/Battlement
-medieval ireland - http://dbpedia.org/resource/Ireland_in_the_Middle_Ages
-freedom - http://dbpedia.org/resource/Freedom_of_the_City
-bunratty castle - http://dbpedia.org/resource/Bunratty_Castle
-fragmentation - http://dbpedia.org/resource/Grenade
-arable - http://dbpedia.org/resource/Arable_land
-rosieres - http://dbpedia.org/resource/Operation_Michael
-duke - http://dbpedia.org/resource/Duke
-south lanarkshire - http://dbpedia.org/resource/South_Lanarkshire
-french tower - http://dbpedia.org/resource/French_Tower
-spiral - http://dbpedia.org/resource/Spiral
-mercenary soldier - http://dbpedia.org/resource/Mercenary
-castle fraser - http://dbpedia.org/resource/Castle_Fraser
-medieval - http://dbpedia.org/resource/Middle_Ages
-torre grossa - http://dbpedia.org/resource/Torre_Grossa
-tudor conquest - http://dbpedia.org/resource/Tudor_conquest_of_Ireland
-village - http://dbpedia.org/resource/Village
-château de najac - http://dbpedia.org/resource/Château_de_Najac
-article - http://dbpedia.org/resource/Bratislava
-pounds - http://dbpedia.org/resource/Pound_sterling
-remarkable - http://dbpedia.org/resource/ReMarkable
-wind - http://dbpedia.org/resource/Windmill
-wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
-edinburgh - http://dbpedia.org/resource/Edinburgh_Castle
-tuscan - http://dbpedia.org/resource/Tuscan_order
-lordship - http://dbpedia.org/resource/Manorialism
-gable - http://dbpedia.org/resource/Gable
-defense - http://dbpedia.org/resource/Military
-high tower - http://dbpedia.org/resource/High_Tower
-urban - http://dbpedia.org/resource/Urban_area
-tree - http://dbpedia.org/resource/Tree
-northern england - http://dbpedia.org/resource/Northern_England
-crathes castle - http://dbpedia.org/resource/Crathes_Castle
-ring - http://dbpedia.org/resource/Ring_of_bells
-kyme - http://dbpedia.org/resource/Cumae
-ornament - http://dbpedia.org/resource/Decorative_arts
-peasant - http://dbpedia.org/resource/Peasant
-agriculture - http://dbpedia.org/resource/Agriculture
-castle building - http://dbpedia.org/resource/Castle_Building
-ireland - http://dbpedia.org/resource/Ireland
-administrative center - http://dbpedia.org/resource/Capital_city
-bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-gatehouse - http://dbpedia.org/resource/Gatehouse
-galway - http://dbpedia.org/resource/Galway
-social center - http://dbpedia.org/resource/Community_centre
-security - http://dbpedia.org/resource/Security
-manor - http://dbpedia.org/resource/Manor_house
-rich family - http://dbpedia.org/resource/Rich_family
-geograph.org.uk - http://dbpedia.org/resource/Geograph_Britain_and_Ireland
-irish gaelic - http://dbpedia.org/resource/Gaels
-meat - http://dbpedia.org/resource/Meat
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-nevilles - http://dbpedia.org/resource/House_of_Neville
-city beautiful - http://dbpedia.org/resource/City_Beautiful_movement
-wall painting - http://dbpedia.org/resource/Fresco
-winchester - http://dbpedia.org/resource/Winchester
+crenelated - http://dbpedia.org/resource/Battlement
+piel - http://dbpedia.org/resource/Piel_Island
+moldings - http://dbpedia.org/resource/Molding_(decorative)
+poland - http://dbpedia.org/resource/Poland
 great hall - http://dbpedia.org/resource/Great_hall
-lancelot - http://dbpedia.org/resource/Lancelot
-clare - http://dbpedia.org/resource/County_Clare
-status symbol - http://dbpedia.org/resource/Status_symbol
-bourchiers - http://dbpedia.org/resource/Earl_of_Bath
-pyrenees - http://dbpedia.org/resource/Pyrenees
-latrine - http://dbpedia.org/resource/Latrine
-porter station - http://dbpedia.org/resource/Porter_station
-author - http://dbpedia.org/resource/Author
-edward iii - http://dbpedia.org/resource/Edward_III_of_England
-preston - http://dbpedia.org/resource/Preston_railway_station
-san gimignano - http://dbpedia.org/resource/San_Gimignano
-dowse - http://dbpedia.org/resource/Dowsing
-painting - http://dbpedia.org/resource/Painting
-silesia - http://dbpedia.org/resource/Silesia
-lake - http://dbpedia.org/resource/Lake
-furness peninsula - http://dbpedia.org/resource/Furness
-fortress - http://dbpedia.org/resource/Castle
-chimney - http://dbpedia.org/resource/Chimney
-history ireland - http://dbpedia.org/resource/History_Ireland
-wheel - http://dbpedia.org/resource/Potter's_wheel
-spiral staircase - http://dbpedia.org/resource/Stairs
-aberdeenshire - http://dbpedia.org/resource/Aberdeenshire
-halloughton - http://dbpedia.org/resource/Halloughton
-sizergh - http://dbpedia.org/resource/Sizergh_Castle_and_Garden
-import - http://dbpedia.org/resource/Import
-anglo - http://dbpedia.org/resource/Anglo
-chapel - http://dbpedia.org/resource/Chapel
-northern central - http://dbpedia.org/resource/Northern_Central_Railway
-craigmillar castle - http://dbpedia.org/resource/Craigmillar_Castle
-architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
-stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
-grain - http://dbpedia.org/resource/Grain
-food - http://dbpedia.org/resource/Food
-anglo norman - http://dbpedia.org/resource/Anglo-Normans
-warfare - http://dbpedia.org/resource/Medieval_warfare
-cluster - http://dbpedia.org/resource/Cluster_munition
-ducal - http://dbpedia.org/resource/Duke
-lympne castle - http://dbpedia.org/resource/Lympne_Castle
-social emulation - http://dbpedia.org/resource/Imitation
-fireplace - http://dbpedia.org/resource/Fireplace
-bird - http://dbpedia.org/resource/Poultry
-king john - http://dbpedia.org/resource/John_Balliol
-wing - http://dbpedia.org/resource/Wing
-medieval europe - http://dbpedia.org/resource/Middle_Ages
-baron - http://dbpedia.org/resource/English_feudal_barony
-court - http://dbpedia.org/resource/Courtyard
-crenellation - http://dbpedia.org/resource/Battlement
-wine - http://dbpedia.org/resource/Wine
-kent - http://dbpedia.org/resource/Kent
-nottingham - http://dbpedia.org/resource/Nottingham
-cumbria - http://dbpedia.org/resource/Cumbria
-illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-proliferation - http://dbpedia.org/resource/Nuclear_proliferation
-space tower - http://dbpedia.org/resource/Non-rocket_spacelaunch
-scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-feudal - http://dbpedia.org/resource/Feudalism
 ridge - http://dbpedia.org/resource/Ridge
-administration - http://dbpedia.org/resource/Public_administration
-continent - http://dbpedia.org/resource/Continental_Europe
-northern tower - http://dbpedia.org/resource/Northern_Tower
-historical monument - http://dbpedia.org/resource/Monument_historique
-family - http://dbpedia.org/resource/Family
-king richard ii - http://dbpedia.org/resource/Richard_II_of_England
-teviot - http://dbpedia.org/resource/River_Teviot
-rural community - http://dbpedia.org/resource/Administrative_divisions_of_Armenia
-revolt - http://dbpedia.org/resource/Rebellion
-peterborough - http://dbpedia.org/resource/Peterborough_Cathedral
-liddel - http://dbpedia.org/resource/Liddel_Water
-gentry - http://dbpedia.org/resource/Gentry
+central europe - http://dbpedia.org/resource/Central_Europe
+northern england - http://dbpedia.org/resource/Northern_England
+evolution - http://dbpedia.org/resource/Evolution
+bread - http://dbpedia.org/resource/Sacramental_bread
+geograph.org.uk - http://dbpedia.org/resource/Geograph_Britain_and_Ireland
+rosieres - http://dbpedia.org/resource/Operation_Michael
+station - http://dbpedia.org/resource/Train_station
+knights - http://dbpedia.org/resource/Knight
+straight flight - http://dbpedia.org/resource/Straight_Flight
+earthworks - http://dbpedia.org/resource/Fortification
+nottingham - http://dbpedia.org/resource/Nottingham
+space - http://dbpedia.org/resource/Outer_space
+stone - http://dbpedia.org/resource/Masonry
+parapets - http://dbpedia.org/resource/Battlement
+belfry - http://dbpedia.org/resource/Bell_tower
+julian - http://dbpedia.org/resource/Istrian_Italians
+fodder - http://dbpedia.org/resource/Fodder
 westminster - http://dbpedia.org/resource/Palace_of_Westminster
 longthorpe tower - http://dbpedia.org/resource/Longthorpe_Tower
-crenelation - http://dbpedia.org/resource/Battlement
-fortified manor house - http://dbpedia.org/resource/Manor_house
-esk - http://dbpedia.org/resource/Esk_War_Memorial
-belfry - http://dbpedia.org/resource/Bell_tower
-formidable - http://dbpedia.org/resource/French_ship_Formidable
-straight flight - http://dbpedia.org/resource/Straight_Flight
-lincolnshire - http://dbpedia.org/resource/Lincolnshire
-wall walk - http://dbpedia.org/resource/Chemin_de_ronde
-chamber - http://dbpedia.org/resource/Room
-jawor - http://dbpedia.org/resource/Duchy_of_Jawor
-arnside tower - http://dbpedia.org/resource/Arnside_Tower
-political history - http://dbpedia.org/resource/Political_history
+manor - http://dbpedia.org/resource/Manor_house
+crenellations - http://dbpedia.org/resource/Battlement
+furness peninsula - http://dbpedia.org/resource/Furness
+proliferation - http://dbpedia.org/resource/Nuclear_proliferation
+bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
+gatehouse - http://dbpedia.org/resource/Gatehouse
 shropshire - http://dbpedia.org/resource/Shropshire
-symbol - http://dbpedia.org/resource/Symbol
-monastery - http://dbpedia.org/resource/Abbey
-noble - http://dbpedia.org/resource/Nobility
+thoor ballylee - http://dbpedia.org/resource/Thoor_Ballylee
+craigmillar castle - http://dbpedia.org/resource/Craigmillar_Castle
+chevenon - http://dbpedia.org/resource/Chevenon
+village - http://dbpedia.org/resource/Village
+emery - http://dbpedia.org/resource/Nail_file
+tower houses - http://dbpedia.org/resource/Tower_house
+craigievar castle - http://dbpedia.org/resource/Craigievar_Castle
+ireland - http://dbpedia.org/resource/Ireland
+lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+urban - http://dbpedia.org/resource/Urban_area
+parapet - http://dbpedia.org/resource/Parapet
+south lanarkshire - http://dbpedia.org/resource/South_Lanarkshire
+grains - http://dbpedia.org/resource/Grain
+edinburgh - http://dbpedia.org/resource/Edinburgh_Castle
+sénéchal - http://dbpedia.org/resource/Seneschal
+medieval ireland - http://dbpedia.org/resource/Ireland_in_the_Middle_Ages
+king richard ii - http://dbpedia.org/resource/Richard_II_of_England
+meat - http://dbpedia.org/resource/Meat
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+continent - http://dbpedia.org/resource/Continental_Europe
+concentration - http://dbpedia.org/resource/Internment
+kent - http://dbpedia.org/resource/Kent
+battlements - http://dbpedia.org/resource/Battlement
+french tower - http://dbpedia.org/resource/French_Tower
+tuscany - http://dbpedia.org/resource/Tuscany
+dominicans - http://dbpedia.org/resource/Dominican_Order
 norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
+cumbria - http://dbpedia.org/resource/Cumbria
+administrative center - http://dbpedia.org/resource/Capital_city
+annexed - http://dbpedia.org/resource/Annexation
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+spiral staircase - http://dbpedia.org/resource/Stairs
+manor house - http://dbpedia.org/resource/Manor_house
+arnside tower - http://dbpedia.org/resource/Arnside_Tower
+jawor - http://dbpedia.org/resource/Duchy_of_Jawor
 aveyron - http://dbpedia.org/resource/Aveyron
 wood - http://dbpedia.org/resource/Wood
-secular - http://dbpedia.org/resource/Secularity
-pitch battle - http://dbpedia.org/resource/Pitch_Battle
-chevenon - http://dbpedia.org/resource/Chevenon
-cornwall - http://dbpedia.org/resource/Cornwall
-manor house - http://dbpedia.org/resource/Manor_house
-tower houses - http://dbpedia.org/resource/Tower_house
+wall paintings - http://dbpedia.org/resource/Fresco
+arable - http://dbpedia.org/resource/Arable_land
+kyme - http://dbpedia.org/resource/Cumae
+galway - http://dbpedia.org/resource/Galway
+torre grossa - http://dbpedia.org/resource/Torre_Grossa
+murals - http://dbpedia.org/resource/Mural
+genre - http://dbpedia.org/resource/Genre_art
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+freedom - http://dbpedia.org/resource/Freedom_of_the_City
+spiral - http://dbpedia.org/resource/Spiral
+listed - http://dbpedia.org/resource/Listed_building
+tower house - http://dbpedia.org/resource/Tower_house
+pastoral - http://dbpedia.org/resource/Pasture
+social emulation - http://dbpedia.org/resource/Imitation
+political history - http://dbpedia.org/resource/Political_history
+pounds - http://dbpedia.org/resource/Pound_sterling
+mercenary - http://dbpedia.org/resource/Mercenary
+longthorpe - http://dbpedia.org/resource/Longthorpe,_Peterborough
+central italy - http://dbpedia.org/resource/Central_Italy
+formidable - http://dbpedia.org/resource/French_ship_Formidable
+crenelation - http://dbpedia.org/resource/Battlement
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
+feudal obligations - http://dbpedia.org/resource/Feudal_duties
+stairs - http://dbpedia.org/resource/Stairs
+bourchiers - http://dbpedia.org/resource/Earl_of_Bath
+ring - http://dbpedia.org/resource/Ring_of_bells
+crathes castle - http://dbpedia.org/resource/Crathes_Castle
+ducal - http://dbpedia.org/resource/Duke
+sizergh - http://dbpedia.org/resource/Sizergh_Castle_and_Garden
+article - http://dbpedia.org/resource/Bratislava
+pengersick castle - http://dbpedia.org/resource/Pengersick_Castle
+kinlough - http://dbpedia.org/resource/Kinlough
+administration - http://dbpedia.org/resource/Public_administration
+stokesay castle - http://dbpedia.org/resource/Stokesay_Castle
+fragmentation - http://dbpedia.org/resource/Grenade
+medieval europe - http://dbpedia.org/resource/Middle_Ages
+dorset - http://dbpedia.org/resource/Dorset
+lympne castle - http://dbpedia.org/resource/Lympne_Castle
+jed water - http://dbpedia.org/resource/Jed_Water
+percys - http://dbpedia.org/resource/House_of_Percy
+peterborough - http://dbpedia.org/resource/Peterborough_Cathedral
+rural community - http://dbpedia.org/resource/Administrative_divisions_of_Armenia
+town - http://dbpedia.org/resource/Market_town
+monasteries - http://dbpedia.org/resource/Dissolution_of_the_Monasteries
+agriculture - http://dbpedia.org/resource/Agriculture
+wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
+chimneys - http://dbpedia.org/resource/Chimney
+aberdeenshire - http://dbpedia.org/resource/Aberdeenshire
+gentry - http://dbpedia.org/resource/Gentry
+corbelled - http://dbpedia.org/resource/Corbel
+patrician - http://dbpedia.org/resource/Norwegian_patriciate
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+lincolnshire - http://dbpedia.org/resource/Lincolnshire
+rampart - http://dbpedia.org/resource/Defensive_wall
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+tudor conquest - http://dbpedia.org/resource/Tudor_conquest_of_Ireland
+chapel - http://dbpedia.org/resource/Chapel
+remarkable - http://dbpedia.org/resource/ReMarkable
+cluster - http://dbpedia.org/resource/Cluster_munition
+food - http://dbpedia.org/resource/Food
+halloughton - http://dbpedia.org/resource/Halloughton
+bóbr - http://dbpedia.org/resource/Bóbr
+lancelot - http://dbpedia.org/resource/Lancelot
+tuscan - http://dbpedia.org/resource/Tuscan_order
 common control - http://dbpedia.org/resource/Common_control
+limerick - http://dbpedia.org/resource/Limerick
+teviot - http://dbpedia.org/resource/River_Teviot
+warfare - http://dbpedia.org/resource/Medieval_warfare
+winchester - http://dbpedia.org/resource/Winchester
+defense - http://dbpedia.org/resource/Military
+status symbol - http://dbpedia.org/resource/Status_symbol
+history ireland - http://dbpedia.org/resource/History_Ireland
+château de najac - http://dbpedia.org/resource/Château_de_Najac
+bunratty castle - http://dbpedia.org/resource/Bunratty_Castle
+family - http://dbpedia.org/resource/Family
+clare - http://dbpedia.org/resource/County_Clare
+fireplace - http://dbpedia.org/resource/Fireplace
+duke - http://dbpedia.org/resource/Duke
+tie beams - http://dbpedia.org/resource/Tie_(engineering)
+medieval - http://dbpedia.org/resource/Middle_Ages
+anglo - http://dbpedia.org/resource/Anglo
+porter - http://dbpedia.org/resource/Bellhop
+yardley - http://dbpedia.org/resource/Norman_Yardley
+castle building - http://dbpedia.org/resource/Castle_Building
+liddel - http://dbpedia.org/resource/Liddel_Water
+author - http://dbpedia.org/resource/Author
+esk - http://dbpedia.org/resource/Esk_War_Memorial
+bartizans - http://dbpedia.org/resource/Bartizan
+armor - http://dbpedia.org/resource/Armour
+middle ages - http://dbpedia.org/resource/Middle_Ages
+symbol - http://dbpedia.org/resource/Symbol
+preston - http://dbpedia.org/resource/Preston_railway_station
+wall walk - http://dbpedia.org/resource/Chemin_de_ronde
+cornwall - http://dbpedia.org/resource/Cornwall
+dowse - http://dbpedia.org/resource/Dowsing
+anglo norman - http://dbpedia.org/resource/Anglo-Normans
+castle fraser - http://dbpedia.org/resource/Castle_Fraser
+pyrenees - http://dbpedia.org/resource/Pyrenees
+arms - http://dbpedia.org/resource/Heraldry
 heraldry - http://dbpedia.org/resource/Heraldry
-central europe - http://dbpedia.org/resource/Central_Europe
-evolution - http://dbpedia.org/resource/Evolution
 thorpe - http://dbpedia.org/resource/Benjamin_Thorpe
+plain - http://dbpedia.org/resource/Plain
+northern tower - http://dbpedia.org/resource/Northern_Tower
+silesia - http://dbpedia.org/resource/Silesia
+lake - http://dbpedia.org/resource/Lake
+san gimignano - http://dbpedia.org/resource/San_Gimignano
+wheel - http://dbpedia.org/resource/Potter's_wheel
+social centers - http://dbpedia.org/resource/Community_centre
+nevilles - http://dbpedia.org/resource/House_of_Neville
+secular - http://dbpedia.org/resource/Secularity
+security - http://dbpedia.org/resource/Security
+crenellate - http://dbpedia.org/resource/Battlement
 tower - http://dbpedia.org/resource/Keep
-meter - http://dbpedia.org/resource/Hymn
-lincoln - http://dbpedia.org/resource/Abraham_Lincoln
-space - http://dbpedia.org/resource/Outer_space
-poland - http://dbpedia.org/resource/Poland

@@ -1,46 +1,40 @@
 britain - http://dbpedia.org/resource/United_Kingdom
 nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
-nuclear test - http://dbpedia.org/resource/Nuclear_weapons_testing
+nuclear tests - http://dbpedia.org/resource/Operation_Crossroads
 soviet russia - http://dbpedia.org/resource/Soviet_Union
-weapon - http://dbpedia.org/resource/Nuclear_weapon
 u.k. prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
 harold macmillan - http://dbpedia.org/resource/Harold_Macmillan
 britain - http://dbpedia.org/resource/United_Kingdom
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 critical mass - http://dbpedia.org/resource/Critical_mass
 otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
 maud committee - http://dbpedia.org/resource/MAUD_Committee
 code - http://dbpedia.org/resource/Punched_card
 nanny - http://dbpedia.org/resource/Nanny
 sir henry tizard - http://dbpedia.org/resource/Henry_Tizard
 henry tizard - http://dbpedia.org/resource/Henry_Tizard
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-1941 committee - http://dbpedia.org/resource/1941_Committee
+committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
 fission bomb - http://dbpedia.org/resource/Nuclear_weapon
 uranium enrichment - http://dbpedia.org/resource/Gaseous_diffusion
 gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
 maud committee - http://dbpedia.org/resource/MAUD_Committee
 instrumental - http://dbpedia.org/resource/Musical_instrument
-alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
 espionage - http://dbpedia.org/resource/Atomic_spies
 ussr - http://dbpedia.org/resource/Soviet_Union
 fission - http://dbpedia.org/resource/Nuclear_weapon
-weapon - http://dbpedia.org/resource/Nuclear_weapon
 wwii - http://dbpedia.org/resource/World_War_II
 britain - http://dbpedia.org/resource/United_Kingdom
 quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
 britain - http://dbpedia.org/resource/United_Kingdom
 british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
 los alamos - http://dbpedia.org/resource/Project_Y
-scientist - http://dbpedia.org/resource/Scientist
 shock wave - http://dbpedia.org/resource/Shock_wave
 physics - http://dbpedia.org/resource/Physics
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 nucleus - http://dbpedia.org/resource/Atomic_nucleus
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
 prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
 clement attlee - http://dbpedia.org/resource/Clement_Attlee
 secret cabinet - http://dbpedia.org/resource/Shadow_government_(conspiracy)
@@ -54,12 +48,13 @@ atom bomb - http://dbpedia.org/resource/Nuclear_weapon
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
 attlee - http://dbpedia.org/resource/Clement_Attlee
 subset - http://dbpedia.org/resource/Subset
+key decisions - http://dbpedia.org/resource/Arrested_Development_(season_1)
 atomic bomb program - http://dbpedia.org/resource/Pakistan_and_weapons_of_mass_destruction
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
 energy - http://dbpedia.org/resource/Energy
 acae - http://dbpedia.org/resource/Achaei
 attlee - http://dbpedia.org/resource/Clement_Attlee
-nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
+nuclear reactors - http://dbpedia.org/resource/Nuclear_reactor
 attlee - http://dbpedia.org/resource/Clement_Attlee
 energy - http://dbpedia.org/resource/Energy
 energy - http://dbpedia.org/resource/Energy
@@ -84,13 +79,12 @@ leslie groves - http://dbpedia.org/resource/Leslie_Groves
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 energy - http://dbpedia.org/resource/Energy
 hinton - http://dbpedia.org/resource/Geoffrey_Hinton
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
 bit - http://dbpedia.org/resource/Bit
 britain - http://dbpedia.org/resource/United_Kingdom
 nuclear program - http://dbpedia.org/resource/Nuclear_power
 harwell - http://dbpedia.org/resource/Atomic_Energy_Research_Establishment
 berkshire downs - http://dbpedia.org/resource/Berkshire_Downs
-south oxford - http://dbpedia.org/resource/South_Oxford,_Maine
 risley - http://dbpedia.org/resource/ROF_Risley
 lancashire - http://dbpedia.org/resource/Lancashire
 hinton - http://dbpedia.org/resource/Geoffrey_Hinton
@@ -100,8 +94,7 @@ nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
 bepo - http://dbpedia.org/resource/Nikolai_Volkoff
 britain - http://dbpedia.org/resource/United_Kingdom
 ton - http://dbpedia.org/resource/Tonne
-gravity wave - http://dbpedia.org/resource/Gravity_wave
-water - http://dbpedia.org/resource/Water
+gravity waves - http://dbpedia.org/resource/Wind_wave
 gadget - http://dbpedia.org/resource/Gadget
 rain - http://dbpedia.org/resource/Rain
 fog - http://dbpedia.org/resource/Fog
@@ -114,25 +107,24 @@ british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhat
 los alamos - http://dbpedia.org/resource/Project_Y
 physics - http://dbpedia.org/resource/Physics
 hydrodynamic - http://dbpedia.org/resource/Fluid_dynamics
-wave - http://dbpedia.org/resource/Electromagnetic_radiation
-shock wave - http://dbpedia.org/resource/Shock_wave
-gravity wave - http://dbpedia.org/resource/Gravity_wave
-breakwater - http://dbpedia.org/resource/Glossary_of_nautical_terms
+shock waves - http://dbpedia.org/resource/Shock_wave
+gravity waves - http://dbpedia.org/resource/Wind_wave
+breakwaters - http://dbpedia.org/resource/Breakwater_(structure)
 normandy - http://dbpedia.org/resource/Normandy_landings
 invasion - http://dbpedia.org/resource/Invasion_of_Normandy
-imperial college london - http://dbpedia.org/resource/Imperial_College_London
+imperial college - http://dbpedia.org/resource/Imperial_College_London
 los alamos - http://dbpedia.org/resource/Project_Y
 los alamos - http://dbpedia.org/resource/Project_Y
+damage effects - http://dbpedia.org/resource/Effects_of_nuclear_explosions
 blast wave - http://dbpedia.org/resource/Blast_wave
 atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 implosion - http://dbpedia.org/resource/Nuclear_weapon_design
-ocean wave - http://dbpedia.org/resource/Wind_wave
-underwater explosion - http://dbpedia.org/resource/Underwater_explosion
+underwater - http://dbpedia.org/resource/Underwater_environment
 analytical skill - http://dbpedia.org/resource/Analytical_skill
 communication - http://dbpedia.org/resource/Communication
 los alamos - http://dbpedia.org/resource/Project_Y
 brain trust - http://dbpedia.org/resource/Brain_trust
+key decisions - http://dbpedia.org/resource/Arrested_Development_(season_1)
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
 john von neumann - http://dbpedia.org/resource/John_von_Neumann
 parsons - http://dbpedia.org/resource/C._A._Parsons_and_Company
@@ -148,9 +140,8 @@ nagasaki - http://dbpedia.org/resource/Fat_Man
 observation - http://dbpedia.org/resource/Reconnaissance
 plane - http://dbpedia.org/resource/Airplane
 imperial college - http://dbpedia.org/resource/Imperial_College_London
-mathematic - http://dbpedia.org/resource/Mathematics
+mathematics - http://dbpedia.org/resource/Mathematics
 oxford university - http://dbpedia.org/resource/University_of_Oxford
-tender - http://dbpedia.org/resource/Destroyer_tender
 c.p. snow - http://dbpedia.org/resource/C._P._Snow
 chief superintendent - http://dbpedia.org/resource/Chief_superintendent
 csar - http://dbpedia.org/resource/Search_and_rescue
@@ -164,17 +155,13 @@ nuclear technology - http://dbpedia.org/resource/Nuclear_technology
 britain - http://dbpedia.org/resource/United_Kingdom
 operation crossroads - http://dbpedia.org/resource/Operation_Crossroads
 bikini atoll - http://dbpedia.org/resource/Bikini_Atoll
-atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
-warship - http://dbpedia.org/resource/Warship
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 lord portal - http://dbpedia.org/resource/Charles_Portal,_1st_Viscount_Portal_of_Hungerford
-outline - http://dbpedia.org/resource/Nutrition
 atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
-plan 4 - http://dbpedia.org/resource/Plan_4
-prepare - http://dbpedia.org/resource/PREPARE
-travel washington - http://dbpedia.org/resource/Travel_Washington
+washington - http://dbpedia.org/resource/George_Washington
 cabinet committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
 attlee - http://dbpedia.org/resource/Clement_Attlee
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
 britain - http://dbpedia.org/resource/United_Kingdom
 nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
 atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
@@ -183,22 +170,21 @@ bomb - http://dbpedia.org/resource/Nuclear_weapon
 prepare - http://dbpedia.org/resource/PREPARE
 implosion - http://dbpedia.org/resource/Nuclear_weapon_design
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+british atomic weapons - http://dbpedia.org/resource/Nuclear_weapons_and_the_United_Kingdom
 soviets - http://dbpedia.org/resource/Soviet_Union
 klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
 plutonium - http://dbpedia.org/resource/Plutonium
 weapon - http://dbpedia.org/resource/Nuclear_weapon
-diagram - http://dbpedia.org/resource/Diagram
 weapon - http://dbpedia.org/resource/Nuclear_weapon
 code - http://dbpedia.org/resource/Punched_card
 high explosive - http://dbpedia.org/resource/Explosive
 woolwich arsenal - http://dbpedia.org/resource/Royal_Arsenal
 atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
+custom built - http://dbpedia.org/resource/Custom_Built
 los alamos - http://dbpedia.org/resource/Project_Y
 woolwich - http://dbpedia.org/resource/Woolwich
 ard - http://dbpedia.org/resource/Ard_(plough)
 fort halstead - http://dbpedia.org/resource/Fort_Halstead
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 weapon - http://dbpedia.org/resource/Nuclear_weapon
 implosion system - http://dbpedia.org/resource/Nuclear_weapon_design
@@ -207,11 +193,11 @@ plutonium - http://dbpedia.org/resource/Plutonium
 hinton - http://dbpedia.org/resource/Geoffrey_Hinton
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 single - http://dbpedia.org/resource/Phonograph_record
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
 aldermaston - http://dbpedia.org/resource/Atomic_Weapons_Establishment
 berkshire - http://dbpedia.org/resource/Berkshire
 plutonium - http://dbpedia.org/resource/Plutonium
-production reactor - http://dbpedia.org/resource/Nuclear_reactor
+production reactors - http://dbpedia.org/resource/Nuclear_reactor
 plutonium - http://dbpedia.org/resource/Plutonium
 plant - http://dbpedia.org/resource/Chemical_plant
 sellafield - http://dbpedia.org/resource/Sellafield
@@ -223,7 +209,6 @@ sellafield - http://dbpedia.org/resource/Sellafield
 production reactor - http://dbpedia.org/resource/Nuclear_reactor
 plutonium - http://dbpedia.org/resource/Plutonium
 plant - http://dbpedia.org/resource/Chemical_plant
-operation 25 - http://dbpedia.org/resource/Invasion_of_Yugoslavia
 plutonium - http://dbpedia.org/resource/Plutonium
 metal - http://dbpedia.org/resource/Metal
 gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
@@ -235,11 +220,9 @@ heu - http://dbpedia.org/resource/Enriched_uranium
 map - http://dbpedia.org/resource/Map
 population density - http://dbpedia.org/resource/Population_density
 britain - http://dbpedia.org/resource/United_Kingdom
-weapon - http://dbpedia.org/resource/Nuclear_weapon
 britain - http://dbpedia.org/resource/United_Kingdom
-weapon - http://dbpedia.org/resource/Nuclear_weapon
 monte bello islands - http://dbpedia.org/resource/Montebello_Islands
-coast australia - http://dbpedia.org/resource/Coast_(TV_series)
+coast - http://dbpedia.org/resource/Intercontinental_ballistic_missile
 plutonium - http://dbpedia.org/resource/Plutonium
 windscale - http://dbpedia.org/resource/Sellafield
 plant - http://dbpedia.org/resource/Chemical_plant
@@ -251,7 +234,7 @@ atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
 captain - http://dbpedia.org/resource/Sea_captain
 rear admiral - http://dbpedia.org/resource/Rear_admiral
 torlesse - http://dbpedia.org/resource/Torlesse_Composite_Terrane
-sail - http://dbpedia.org/resource/Sail
+sailing - http://dbpedia.org/resource/Sailing
 flag ship - http://dbpedia.org/resource/Flagship
 escort carrier - http://dbpedia.org/resource/Escort_carrier
 hms campania - http://dbpedia.org/resource/HMS_Campania_(D48)
@@ -265,20 +248,18 @@ wast - http://dbpedia.org/resource/WNYT_(TV)
 monte bello islands - http://dbpedia.org/resource/Montebello_Islands
 etest - http://dbpedia.org/resource/Etest
 kt - http://dbpedia.org/resource/TNT_equivalent
-detonate - http://dbpedia.org/resource/Detonation
 lagoon - http://dbpedia.org/resource/Lagoon
 bomb - http://dbpedia.org/resource/Nuclear_weapon
+hull - http://dbpedia.org/resource/Hull_number
 river class frigate - http://dbpedia.org/resource/River-class_frigate
 hms plym - http://dbpedia.org/resource/HMS_Plym_(K271)
-anchor - http://dbpedia.org/resource/Anchor
-water - http://dbpedia.org/resource/Water
 explosion - http://dbpedia.org/resource/Nuclear_explosion
-water - http://dbpedia.org/resource/Water
 zulu time - http://dbpedia.org/resource/Coordinated_Universal_Time
 gmt - http://dbpedia.org/resource/Greenwich_Mean_Time
 gmt - http://dbpedia.org/resource/Greenwich_Mean_Time
 cathcart - http://dbpedia.org/resource/Cathcart
 cathcart - http://dbpedia.org/resource/Cathcart
+adds - http://dbpedia.org/resource/Applied_Digital_Data_Systems
 perth - http://dbpedia.org/resource/Perth
 gmt - http://dbpedia.org/resource/Greenwich_Mean_Time
 gmt - http://dbpedia.org/resource/Greenwich_Mean_Time
@@ -295,25 +276,22 @@ sellafield - http://dbpedia.org/resource/Sellafield
 pu-240 - http://dbpedia.org/resource/Plutonium-240
 irradiation - http://dbpedia.org/resource/Ionizing_radiation
 windscale - http://dbpedia.org/resource/Sellafield
+manufacturing - http://dbpedia.org/resource/Manufacturing
 plutonium - http://dbpedia.org/resource/Plutonium
-bomb threat - http://dbpedia.org/resource/Bomb_threat
-vaporize - http://dbpedia.org/resource/Evaporation
+bomb - http://dbpedia.org/resource/Nuclear_weapon
 explosion - http://dbpedia.org/resource/Nuclear_explosion
 hot metal - http://dbpedia.org/resource/Pig_iron
 spinifex - http://dbpedia.org/resource/Spinifex_people
-scrub - http://dbpedia.org/resource/Shrubland
+scrub - http://dbpedia.org/resource/Deserts_and_xeric_shrublands
 explosion - http://dbpedia.org/resource/Nuclear_explosion
-water - http://dbpedia.org/resource/Water
 saucer - http://dbpedia.org/resource/Unidentified_flying_object
 crater - http://dbpedia.org/resource/Explosion_crater
 seabed - http://dbpedia.org/resource/Seabed
 cloud - http://dbpedia.org/resource/Cloud
 explosion - http://dbpedia.org/resource/Nuclear_explosion
 evaporation - http://dbpedia.org/resource/Evaporation
-water - http://dbpedia.org/resource/Water
 cloud - http://dbpedia.org/resource/Cloud
 altitude - http://dbpedia.org/resource/Altitude
-station - http://dbpedia.org/resource/Royal_Air_Force
 hermite - http://dbpedia.org/resource/Charles_Hermite
 campania - http://dbpedia.org/resource/Campania
 observation - http://dbpedia.org/resource/Reconnaissance

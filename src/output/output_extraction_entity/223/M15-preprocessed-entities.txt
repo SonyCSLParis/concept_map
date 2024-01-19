@@ -14,9 +14,6 @@ turkish - http://dbpedia.org/resource/Turkic_peoples
 migrate - http://dbpedia.org/resource/Human_migration
 armenia - http://dbpedia.org/resource/Armenian_Kingdom_of_Cilicia
 asia minor - http://dbpedia.org/resource/Anatolia
-sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
-city - http://dbpedia.org/resource/City
-plunder - http://dbpedia.org/resource/Looting
 armenian - http://dbpedia.org/resource/Armenians
 capital - http://dbpedia.org/resource/Capital_punishment
 romanus iv - http://dbpedia.org/resource/Romanos_IV_Diogenes
@@ -40,34 +37,36 @@ siege - http://dbpedia.org/resource/Siege_of_Antioch
 edessa - http://dbpedia.org/resource/Edessa
 romanus - http://dbpedia.org/resource/Rome
 arslan - http://dbpedia.org/resource/Arslan
-prepare - http://dbpedia.org/resource/PREPARE
 sultan - http://dbpedia.org/resource/Sultan
 romanus - http://dbpedia.org/resource/Rome
 andronicus ducas - http://dbpedia.org/resource/Andronikos_Doukas_(cousin_of_Michael_VII)
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 romanus - http://dbpedia.org/resource/Rome
 nicephorus - http://dbpedia.org/resource/Nikephoros_I
+loyalties - http://dbpedia.org/resource/Loyalties_(1933_film)
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
+provinces - http://dbpedia.org/resource/Roman_province
+provinces - http://dbpedia.org/resource/Roman_province
 franks - http://dbpedia.org/resource/Franks
 normans - http://dbpedia.org/resource/Italo-Normans
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 roussel de bailleul - http://dbpedia.org/resource/Roussel_de_Bailleul
 turkish - http://dbpedia.org/resource/Turkic_peoples
 pecheneg - http://dbpedia.org/resource/Pechenegs
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 duke - http://dbpedia.org/resource/Dux
 antioch - http://dbpedia.org/resource/Antioch
 armenian - http://dbpedia.org/resource/Armenians
 varangian guard - http://dbpedia.org/resource/Varangian_Guard
 turkish - http://dbpedia.org/resource/Turkic_peoples
+gibbons - http://dbpedia.org/resource/Gibbon
 roman empire - http://dbpedia.org/resource/Byzantine_Empire
-east west - http://dbpedia.org/resource/East_West_Records
 asia minor - http://dbpedia.org/resource/Anatolia
 romanus - http://dbpedia.org/resource/Rome
 baggage train - http://dbpedia.org/resource/Wagon_train
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 romanus - http://dbpedia.org/resource/Rome
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 sebasteia - http://dbpedia.org/resource/Sivas
 halys - http://dbpedia.org/resource/Kızılırmak_River
 seljuk - http://dbpedia.org/resource/Seljuq_dynasty
@@ -85,7 +84,6 @@ cavalry - http://dbpedia.org/resource/Cavalry
 aleppo - http://dbpedia.org/resource/Aleppo
 mosul - http://dbpedia.org/resource/Mosul
 arslan - http://dbpedia.org/resource/Arslan
-spy - http://dbpedia.org/resource/Espionage
 romanus - http://dbpedia.org/resource/Rome
 romanus - http://dbpedia.org/resource/Rome
 romanus - http://dbpedia.org/resource/Rome
@@ -102,7 +100,7 @@ melitene - http://dbpedia.org/resource/Malatya
 romanus - http://dbpedia.org/resource/Rome
 tarchaneiotes - http://dbpedia.org/resource/Tarchaneiotes
 manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
-forage - http://dbpedia.org/resource/Foraging
+foraging - http://dbpedia.org/resource/Foraging
 bryennius - http://dbpedia.org/resource/Nikephoros_Bryennios_the_Younger
 seljuk - http://dbpedia.org/resource/Seljuq_dynasty
 manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
@@ -120,7 +118,7 @@ romanus - http://dbpedia.org/resource/Rome
 counterattack - http://dbpedia.org/resource/Counterattack
 romanus - http://dbpedia.org/resource/Rome
 turkish - http://dbpedia.org/resource/Turkic_peoples
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 seljuk - http://dbpedia.org/resource/Seljuq_dynasty
 romanus - http://dbpedia.org/resource/Rome
 seljuk - http://dbpedia.org/resource/Seljuq_dynasty
@@ -140,22 +138,18 @@ reserve - http://dbpedia.org/resource/Military_reserve
 seljuks - http://dbpedia.org/resource/Seljuq_dynasty
 arslan - http://dbpedia.org/resource/Arslan
 seljuk - http://dbpedia.org/resource/Seljuq_dynasty
-archer - http://dbpedia.org/resource/Archery
+archers - http://dbpedia.org/resource/Mounted_archery
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-wing - http://dbpedia.org/resource/Wing
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 arrow - http://dbpedia.org/resource/Arrow
 arslan - http://dbpedia.org/resource/Arslan
-wing - http://dbpedia.org/resource/Wing
-arrow - http://dbpedia.org/resource/Arrow
 seljuks - http://dbpedia.org/resource/Seljuq_dynasty
-pitch battle - http://dbpedia.org/resource/Pitch_Battle
+pitched battle - http://dbpedia.org/resource/Pitched_battle
 seljuk - http://dbpedia.org/resource/Seljuq_dynasty
 cavalry - http://dbpedia.org/resource/Cavalry
 seljuks - http://dbpedia.org/resource/Seljuq_dynasty
 romanus - http://dbpedia.org/resource/Rome
-withdrawal time - http://dbpedia.org/resource/Withdrawal_time
 wing - http://dbpedia.org/resource/Wing
 misunderstood - http://dbpedia.org/resource/The_Misunderstood
 romanus - http://dbpedia.org/resource/Rome
@@ -174,21 +168,20 @@ romanus iv - http://dbpedia.org/resource/Romanos_IV_Diogenes
 alp arslan - http://dbpedia.org/resource/Alp_Arslan
 peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
 alp arslan - http://dbpedia.org/resource/Alp_Arslan
-guard force - http://dbpedia.org/resource/Rhodesian_Security_Forces
 sultan - http://dbpedia.org/resource/Sultan
 alp arslan - http://dbpedia.org/resource/Alp_Arslan
 romanus - http://dbpedia.org/resource/Rome
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 alp arslan - http://dbpedia.org/resource/Alp_Arslan
-set free - http://dbpedia.org/resource/Set_Free_(film)
 romanus - http://dbpedia.org/resource/Rome
 alp - http://dbpedia.org/resource/Alpine_transhumance
 curse - http://dbpedia.org/resource/Curse
 romanus - http://dbpedia.org/resource/Rome
-blind - http://dbpedia.org/resource/Visual_impairment
+blinded - http://dbpedia.org/resource/Political_mutilation_in_Byzantine_culture
 torture - http://dbpedia.org/resource/Torture
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
+coup - http://dbpedia.org/resource/1963_South_Vietnamese_coup
 romanus - http://dbpedia.org/resource/Rome
 bryennius - http://dbpedia.org/resource/Nikephoros_Bryennios_the_Younger
 wing - http://dbpedia.org/resource/Wing
@@ -205,7 +198,6 @@ baggage train - http://dbpedia.org/resource/Wagon_train
 manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
 disaster - http://dbpedia.org/resource/Disaster
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
-historian - http://dbpedia.org/resource/Roman_historiography
 lament - http://dbpedia.org/resource/Lament
 disaster - http://dbpedia.org/resource/Disaster
 disaster - http://dbpedia.org/resource/Disaster
@@ -219,7 +211,7 @@ seljuks - http://dbpedia.org/resource/Seljuq_dynasty
 andronicus ducas - http://dbpedia.org/resource/Andronikos_Doukas_(cousin_of_Michael_VII)
 resistance - http://dbpedia.org/resource/French_Resistance
 turkish - http://dbpedia.org/resource/Turkic_peoples
-migration - http://dbpedia.org/resource/Human_migration
+migrations - http://dbpedia.org/resource/Migration_Period
 asia minor - http://dbpedia.org/resource/Anatolia
 seljuks - http://dbpedia.org/resource/Seljuq_dynasty
 norwich - http://dbpedia.org/resource/Norwich
@@ -227,15 +219,13 @@ trilogy - http://dbpedia.org/resource/Trilogy
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
 anatolian - http://dbpedia.org/resource/Anatolia
 anatolia - http://dbpedia.org/resource/Anatolia
-heart - http://dbpedia.org/resource/Heart_(symbol)
+heart - http://dbpedia.org/resource/Heart
 manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
 intrigue - http://dbpedia.org/resource/Oldsmobile_Intrigue
 romanus - http://dbpedia.org/resource/Rome
-ripple - http://dbpedia.org/resource/Ripple_marks
-historian - http://dbpedia.org/resource/Roman_historiography
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 root - http://dbpedia.org/resource/Root
-crusade - http://dbpedia.org/resource/Crusades
+crusades - http://dbpedia.org/resource/Crusades
 manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
 signal - http://dbpedia.org/resource/Railway_signal
 byzantium - http://dbpedia.org/resource/Byzantine_Empire

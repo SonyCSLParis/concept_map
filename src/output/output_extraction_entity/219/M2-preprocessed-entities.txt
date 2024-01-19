@@ -2,11 +2,12 @@ nuclear decay - http://dbpedia.org/resource/Radioactive_decay
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 atomic bomb - http://dbpedia.org/resource/Little_Boy
 atomic age - http://dbpedia.org/resource/Atomic_Age
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 photographer - http://dbpedia.org/resource/Photographer
 martin miller - http://dbpedia.org/resource/Martin_Miller_(actor)
-nuclear explosive - http://dbpedia.org/resource/Nuclear_explosive
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+explosives - http://dbpedia.org/resource/Explosive
 atomic bomb - http://dbpedia.org/resource/Little_Boy
 uranium - http://dbpedia.org/resource/Uranium-235
 plant - http://dbpedia.org/resource/Chemical_plant
@@ -17,12 +18,10 @@ reactor - http://dbpedia.org/resource/Nuclear_reactor
 hanford - http://dbpedia.org/resource/Hanford_Site
 washington - http://dbpedia.org/resource/George_Washington
 stark - http://dbpedia.org/resource/Stark_Street
-scientist - http://dbpedia.org/resource/Scientist
 gadget - http://dbpedia.org/resource/Gadget
 code - http://dbpedia.org/resource/Punched_card
-explosive - http://dbpedia.org/resource/Explosion
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
-detonate - http://dbpedia.org/resource/Detonation
+explosives - http://dbpedia.org/resource/Explosive
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 nagasaki - http://dbpedia.org/resource/Fat_Man
 explosive - http://dbpedia.org/resource/Explosion
@@ -38,11 +37,12 @@ albert einstein - http://dbpedia.org/resource/Albert_Einstein
 president - http://dbpedia.org/resource/President_of_the_United_States
 franklin - http://dbpedia.org/resource/The_Franklin's_Tale
 roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+nazi germany - http://dbpedia.org/resource/Nazi_Germany
 u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 atomic bomb - http://dbpedia.org/resource/Little_Boy
 miller - http://dbpedia.org/resource/Gristmill
-historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
+unleashed - http://dbpedia.org/resource/Unleashed_(band)
 reactor - http://dbpedia.org/resource/Nuclear_reactor
 hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
 reactor - http://dbpedia.org/resource/Nuclear_reactor
@@ -51,7 +51,6 @@ bomb - http://dbpedia.org/resource/Nuclear_weapon
 plutonium - http://dbpedia.org/resource/Plutonium
 hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
 atomic bomb - http://dbpedia.org/resource/Little_Boy
-detonate - http://dbpedia.org/resource/Detonation
 basin - http://dbpedia.org/resource/Sink
 jemez mountains - http://dbpedia.org/resource/Jemez_Mountains
 mexico - http://dbpedia.org/resource/Mexico
@@ -68,7 +67,6 @@ hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasak
 plutonium - http://dbpedia.org/resource/Plutonium
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 nagasaki - http://dbpedia.org/resource/Fat_Man
-japanese surrender - http://dbpedia.org/resource/Surrender_of_Japan
 fat - http://dbpedia.org/resource/Vegetable_oil
 kt - http://dbpedia.org/resource/TNT_equivalent
 atomic bomb - http://dbpedia.org/resource/Little_Boy
@@ -76,10 +74,9 @@ nagasaki - http://dbpedia.org/resource/Fat_Man
 gadget - http://dbpedia.org/resource/Gadget
 kt - http://dbpedia.org/resource/TNT_equivalent
 atomic bomb - http://dbpedia.org/resource/Little_Boy
-plant - http://dbpedia.org/resource/Chemical_plant
 gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
-calutron - http://dbpedia.org/resource/Calutron
-control panel - http://dbpedia.org/resource/Plugboard
+calutron girls - http://dbpedia.org/resource/Calutron_Girls
+control panels - http://dbpedia.org/resource/System_Preferences
 electromagnetic separation - http://dbpedia.org/resource/Isotope_separation
 reactor - http://dbpedia.org/resource/Nuclear_reactor
 valve - http://dbpedia.org/resource/Valve
@@ -94,17 +91,14 @@ hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
 electrical substation - http://dbpedia.org/resource/Electrical_substation
 reactor - http://dbpedia.org/resource/Nuclear_reactor
 hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-dollar - http://dbpedia.org/resource/United_States_dollar
 clinton engineering works - http://dbpedia.org/resource/Clinton_Engineer_Works
 tennessee - http://dbpedia.org/resource/Tennessee
-plant - http://dbpedia.org/resource/Chemical_plant
 uranium - http://dbpedia.org/resource/Uranium-235
 isotope - http://dbpedia.org/resource/Isotopes_of_uranium
 u235 - http://dbpedia.org/resource/Uranium-235
 u238 - http://dbpedia.org/resource/Uranium-238
 miller - http://dbpedia.org/resource/Gristmill
-calutron - http://dbpedia.org/resource/Calutron
+calutrons - http://dbpedia.org/resource/Calutron
 electromagnetic separation - http://dbpedia.org/resource/Isotope_separation
 u235 - http://dbpedia.org/resource/Uranium-235
 hiroshima bomb - http://dbpedia.org/resource/Little_Boy
@@ -133,21 +127,18 @@ plant - http://dbpedia.org/resource/Chemical_plant
 ridge - http://dbpedia.org/resource/Ridge
 gable mountain - http://dbpedia.org/resource/Gable_Mountain
 plutonium - http://dbpedia.org/resource/Plutonium
-vault - http://dbpedia.org/resource/Bank_vault
+vaults - http://dbpedia.org/resource/Bank_vault
 hanford nuclear reservation - http://dbpedia.org/resource/Hanford_Site
 hanford - http://dbpedia.org/resource/Hanford_Site
 washington - http://dbpedia.org/resource/George_Washington
 plutonium - http://dbpedia.org/resource/Plutonium
-bombard - http://dbpedia.org/resource/Bombardment
 u238 - http://dbpedia.org/resource/Uranium-238
-neutron - http://dbpedia.org/resource/Neutron
+neutrons - http://dbpedia.org/resource/Neutron
 fission - http://dbpedia.org/resource/Nuclear_fission
 u235 - http://dbpedia.org/resource/Uranium-235
-chemical - http://dbpedia.org/resource/Chemical_weapon
 remote control - http://dbpedia.org/resource/Remote_control
 plutonium - http://dbpedia.org/resource/Plutonium
 cold war - http://dbpedia.org/resource/Cold_War
-reactor - http://dbpedia.org/resource/Nuclear_reactor
 hanford - http://dbpedia.org/resource/Hanford_Site
 plutonium - http://dbpedia.org/resource/Plutonium
 uranium - http://dbpedia.org/resource/Uranium-235
@@ -156,7 +147,6 @@ bomb - http://dbpedia.org/resource/Nuclear_weapon
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 mexico - http://dbpedia.org/resource/Mexico
 chemistry - http://dbpedia.org/resource/Nuclear_chemistry
-plant - http://dbpedia.org/resource/Chemical_plant
 nazis - http://dbpedia.org/resource/Nazism
 beta - http://dbpedia.org/resource/Beta_particle
 calutron - http://dbpedia.org/resource/Calutron

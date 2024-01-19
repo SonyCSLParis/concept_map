@@ -1,37 +1,36 @@
-gothic - http://dbpedia.org/resource/Gothic_architecture
-emblem - http://dbpedia.org/resource/Emblem
-hatfield house - http://dbpedia.org/resource/Hatfield_House
-italian renaissance - http://dbpedia.org/resource/Renaissance_architecture
-late medieval - http://dbpedia.org/resource/Middle_Ages
-mélange - http://dbpedia.org/resource/Mélange
-inigo jones - http://dbpedia.org/resource/Inigo_Jones
-shaw - http://dbpedia.org/resource/Shaw_(woodland)
-charles - http://dbpedia.org/resource/Charles_I_of_England
-jacobean - http://dbpedia.org/resource/Jacobean_architecture
-obelisk - http://dbpedia.org/resource/Obelisk
-strapwork - http://dbpedia.org/resource/Strapwork
-herm - http://dbpedia.org/resource/Herma
-sturgis - http://dbpedia.org/resource/John_Hubbard_Sturgis
-grotesque - http://dbpedia.org/resource/Grotesque
-bramshill - http://dbpedia.org/resource/Bramshill
-heraldic device - http://dbpedia.org/resource/Heraldry
-surrey - http://dbpedia.org/resource/Surrey
-ornament - http://dbpedia.org/resource/Decorative_arts
-mullioned - http://dbpedia.org/resource/Mullion
-queen anne style - http://dbpedia.org/resource/Queen_Anne_style_architecture
-perpendicular architecture - http://dbpedia.org/resource/English_Gothic_architecture
-country house - http://dbpedia.org/resource/English_country_house
-jacobean revival - http://dbpedia.org/resource/Jacobean_architecture
-james vi - http://dbpedia.org/resource/James_VI_and_I
-elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
 essex - http://dbpedia.org/resource/Essex
-king james vi - http://dbpedia.org/resource/James_VI_and_I
-audley - http://dbpedia.org/resource/Baron_Audley
-assemblage - http://dbpedia.org/resource/Glossary_of_archaeology
-jewelled - http://dbpedia.org/resource/Gemstone
+mélange - http://dbpedia.org/resource/Mélange
+grotesque - http://dbpedia.org/resource/Grotesque
+elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
+perpendicular architecture - http://dbpedia.org/resource/English_Gothic_architecture
+mullioned - http://dbpedia.org/resource/Mullion
+hatfield house - http://dbpedia.org/resource/Hatfield_House
+transomed - http://dbpedia.org/resource/Transom_(architectural)
+herms - http://dbpedia.org/resource/Herma
+king james - http://dbpedia.org/resource/James_VI_and_I
+assemblages - http://dbpedia.org/resource/Glossary_of_archaeology
+jacobean revival - http://dbpedia.org/resource/Jacobean_architecture
+sturgis - http://dbpedia.org/resource/John_Hubbard_Sturgis
+bramshill - http://dbpedia.org/resource/Bramshill
 jacobean architecture - http://dbpedia.org/resource/Jacobean_architecture
-english architecture - http://dbpedia.org/resource/Architecture_of_England
-flemish - http://dbpedia.org/resource/Flemish
-dutch gable - http://dbpedia.org/resource/Dutch_gable
-hybrid - http://dbpedia.org/resource/Cross-genre
+country houses - http://dbpedia.org/resource/English_country_house
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+italian renaissance - http://dbpedia.org/resource/Renaissance_architecture
+strapwork - http://dbpedia.org/resource/Strapwork
 mannerism - http://dbpedia.org/resource/Mannerism
+late medieval - http://dbpedia.org/resource/Middle_Ages
+shaw - http://dbpedia.org/resource/Shaw_(woodland)
+flemish - http://dbpedia.org/resource/Flemish
+inigo jones - http://dbpedia.org/resource/Inigo_Jones
+gothic - http://dbpedia.org/resource/Gothic_architecture
+dutch gables - http://dbpedia.org/resource/Dutch_gable
+ornament - http://dbpedia.org/resource/Decorative_arts
+charles - http://dbpedia.org/resource/Charles_I_of_England
+surrey - http://dbpedia.org/resource/Surrey
+audley - http://dbpedia.org/resource/Baron_Audley
+english architecture - http://dbpedia.org/resource/Architecture_of_England
+queen anne style - http://dbpedia.org/resource/Queen_Anne_style_architecture
+obelisks - http://dbpedia.org/resource/Obelisk
+hybrid - http://dbpedia.org/resource/Cross-genre
+jewelled - http://dbpedia.org/resource/Gemstone
+heraldic devices - http://dbpedia.org/resource/Heraldry

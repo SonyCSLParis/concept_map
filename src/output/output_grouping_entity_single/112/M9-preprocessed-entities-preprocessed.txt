@@ -1,87 +1,80 @@
-region - http://dbpedia.org/resource/Regions_of_Italy
-eric red - http://dbpedia.org/resource/Eric_Red
-tribe - http://dbpedia.org/resource/Tribe
-israelites - http://dbpedia.org/resource/Israelites
-leif ericsson - http://dbpedia.org/resource/Leif_Erikson
-vellum - http://dbpedia.org/resource/Vellum
-dominant - http://dbpedia.org/resource/Dominance_and_submission
-milesians - http://dbpedia.org/resource/Miletus
-norsemen - http://dbpedia.org/resource/Vikings
-iona - http://dbpedia.org/resource/Iona
-god - http://dbpedia.org/resource/God
-milesian - http://dbpedia.org/resource/Miletus
-europe region - http://dbpedia.org/resource/Little_League_World_Series_in_Europe
-sanctuary - http://dbpedia.org/resource/Sanctuary
-wild ox - http://dbpedia.org/resource/Aurochs
-annals - http://dbpedia.org/resource/Irish_annals
-irish people - http://dbpedia.org/resource/Irish_people
-sailor - http://dbpedia.org/resource/Sailor
-immigration - http://dbpedia.org/resource/Aliyah
-natural dye - http://dbpedia.org/resource/Natural_dye
-monastery - http://dbpedia.org/resource/Monastery
-moses - http://dbpedia.org/resource/Moses
-romans - http://dbpedia.org/resource/Romans_(musician)
-apocalypse - http://dbpedia.org/resource/Apocalyptic_literature
-carthage - http://dbpedia.org/resource/Carthage
-danaans - http://dbpedia.org/resource/Achaeans_(Homer)
-tunisia - http://dbpedia.org/resource/Tunisia
-joseph - http://dbpedia.org/resource/Saint_Joseph
-luke - http://dbpedia.org/resource/Gospel_of_Luke
-tuatha de danaan - http://dbpedia.org/resource/Tuatha_Dé_Danann
-eye - http://dbpedia.org/resource/Eye
-sheep - http://dbpedia.org/resource/Sheep
-tabernacle - http://dbpedia.org/resource/Tabernacle
-discover america - http://dbpedia.org/resource/Chris_Staples
-phoenicia - http://dbpedia.org/resource/Phoenicia
-settlement - http://dbpedia.org/resource/Town
-lord christ - http://dbpedia.org/resource/Christ_(title)
-james lord - http://dbpedia.org/resource/James_Lord_(author)
-ancient history - http://dbpedia.org/resource/Ancient_history
-standard ensign - http://dbpedia.org/resource/Standard_Vanguard
-ireland - http://dbpedia.org/resource/Ireland
-apostles - http://dbpedia.org/resource/Apostles
-arrow - http://dbpedia.org/resource/Arrow
-calf - http://dbpedia.org/resource/Cattle
-columbus - http://dbpedia.org/resource/Christopher_Columbus
-migrate - http://dbpedia.org/resource/Emigration
-professor - http://dbpedia.org/resource/Professor
-vikings - http://dbpedia.org/resource/Vikings
-monk - http://dbpedia.org/resource/Monk
-coat - http://dbpedia.org/resource/Fur_clothing
-sea glass - http://dbpedia.org/resource/Sea_glass
-holy holy holy - http://dbpedia.org/resource/Holy,_Holy,_Holy
-gospels - http://dbpedia.org/resource/Gospel
-greeting - http://dbpedia.org/resource/Greeting
-ephraim - http://dbpedia.org/resource/Ephraim
-wing - http://dbpedia.org/resource/Rugby_union_positions
-b.c. - http://dbpedia.org/resource/Figured_bass
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-dispersion - http://dbpedia.org/resource/Dispersion_relation
-harvard university - http://dbpedia.org/resource/Harvard_University
-immigrant - http://dbpedia.org/resource/Aliyah
-barry fell - http://dbpedia.org/resource/Barry_Fell
-christ - http://dbpedia.org/resource/Jesus
-scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-calf skin - http://dbpedia.org/resource/Calfskin
-thy - http://dbpedia.org/resource/Thy_(district)
-emblem - http://dbpedia.org/resource/Emblem
-historian - http://dbpedia.org/resource/Historian
-ancient carthage - http://dbpedia.org/resource/Ancient_Carthage
-prophets - http://dbpedia.org/resource/Prophet
-ink - http://dbpedia.org/resource/Ink
-john christ - http://dbpedia.org/resource/John_Christ
-gad - http://dbpedia.org/resource/Tribe_of_Gad
-phoenician - http://dbpedia.org/resource/Phoenicia
-simeon - http://dbpedia.org/resource/Tribe_of_Simeon
-danites - http://dbpedia.org/resource/Danite
-revelation - http://dbpedia.org/resource/Revelation
-james 1 - http://dbpedia.org/resource/James_1
-reuben - http://dbpedia.org/resource/Tribe_of_Reuben
-north america - http://dbpedia.org/resource/North_America
-symbol - http://dbpedia.org/resource/Christian_symbolism
-columban - http://dbpedia.org/resource/Columba
 hast - http://dbpedia.org/resource/Highly_accelerated_stress_test
-relic - http://dbpedia.org/resource/Relic
+simeon - http://dbpedia.org/resource/Tribe_of_Simeon
+columbus - http://dbpedia.org/resource/Christopher_Columbus
+ancient carthage - http://dbpedia.org/resource/Ancient_Carthage
+apostles - http://dbpedia.org/resource/Apostles
+ink - http://dbpedia.org/resource/Ink
+danaans - http://dbpedia.org/resource/Achaeans_(Homer)
+b.c. - http://dbpedia.org/resource/Figured_bass
+ephraim - http://dbpedia.org/resource/Ephraim
+tuatha de danaan - http://dbpedia.org/resource/Tuatha_Dé_Danann
+coat - http://dbpedia.org/resource/Fur_clothing
+ireland - http://dbpedia.org/resource/Ireland
+ten lost tribes - http://dbpedia.org/resource/Ten_Lost_Tribes
+norsemen - http://dbpedia.org/resource/Vikings
+emblem - http://dbpedia.org/resource/Emblem
+region - http://dbpedia.org/resource/Regions_of_Italy
+monastery - http://dbpedia.org/resource/Monastery
+natural dyes - http://dbpedia.org/resource/Natural_dye
+vellum - http://dbpedia.org/resource/Vellum
+wild ox - http://dbpedia.org/resource/Aurochs
+thy - http://dbpedia.org/resource/Thy_(district)
+calf - http://dbpedia.org/resource/Cattle
+harvard university - http://dbpedia.org/resource/Harvard_University
+vikings - http://dbpedia.org/resource/Vikings
+ancient history - http://dbpedia.org/resource/Ancient_history
+ensign - http://dbpedia.org/resource/Ensign
+james 1 - http://dbpedia.org/resource/James_1
+barry fell - http://dbpedia.org/resource/Barry_Fell
+apocalypse - http://dbpedia.org/resource/Apocalyptic_literature
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+danites - http://dbpedia.org/resource/Danite
 judah - http://dbpedia.org/resource/Tribe_of_Judah
+luke - http://dbpedia.org/resource/Gospel_of_Luke
+settlement - http://dbpedia.org/resource/Town
+leif ericsson - http://dbpedia.org/resource/Leif_Erikson
+revelation - http://dbpedia.org/resource/Revelation
+lost sheep - http://dbpedia.org/resource/Parable_of_the_Lost_Sheep
+tribe - http://dbpedia.org/resource/Tribe
+lord christ - http://dbpedia.org/resource/Christ_(title)
+tabernacle - http://dbpedia.org/resource/Tabernacle
+apostle john - http://dbpedia.org/resource/John_the_Apostle
+disciples - http://dbpedia.org/resource/Apostles
+columban - http://dbpedia.org/resource/Columba
+holy holy holy - http://dbpedia.org/resource/Holy,_Holy,_Holy
+israelites - http://dbpedia.org/resource/Israelites
+north america - http://dbpedia.org/resource/North_America
 heaven - http://dbpedia.org/resource/Heaven
+irish people - http://dbpedia.org/resource/Irish_people
+prophets - http://dbpedia.org/resource/Prophet
+romans - http://dbpedia.org/resource/Romans_(musician)
+dominant - http://dbpedia.org/resource/Dominance_and_submission
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+phoenician - http://dbpedia.org/resource/Phoenicia
+tunisia - http://dbpedia.org/resource/Tunisia
+gad - http://dbpedia.org/resource/Tribe_of_Gad
+flying eagle - http://dbpedia.org/resource/Flying_Eagle_cent
+elders - http://dbpedia.org/resource/Presbyterian_polity
+twelve tribes - http://dbpedia.org/resource/Twelve_Tribes_of_Israel
+milesians - http://dbpedia.org/resource/Miletus
+sanctuary - http://dbpedia.org/resource/Sanctuary
+calf skin - http://dbpedia.org/resource/Calfskin
+annals - http://dbpedia.org/resource/Irish_annals
+christ - http://dbpedia.org/resource/Jesus
+reuben - http://dbpedia.org/resource/Tribe_of_Reuben
+glass - http://dbpedia.org/resource/Glass
+dispersion - http://dbpedia.org/resource/Dispersion_relation
+moses - http://dbpedia.org/resource/Moses
+relic - http://dbpedia.org/resource/Relic
+joseph - http://dbpedia.org/resource/Joseph_Smith
+carthage - http://dbpedia.org/resource/Carthage
+god - http://dbpedia.org/resource/God
+crowns - http://dbpedia.org/resource/Austro-Hungarian_krone
+gospels - http://dbpedia.org/resource/Gospel
+arms - http://dbpedia.org/resource/Heraldry
+professor - http://dbpedia.org/resource/Professor
+iona - http://dbpedia.org/resource/Iona
+milesian - http://dbpedia.org/resource/Miletus
+phoenicia - http://dbpedia.org/resource/Phoenicia
 danite - http://dbpedia.org/resource/Tribe_of_Dan
+irish immigrants - http://dbpedia.org/resource/Irish_people

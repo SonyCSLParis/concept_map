@@ -1,8 +1,7 @@
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 dynastic - http://dbpedia.org/resource/Dynasty
 chephren - http://dbpedia.org/resource/Khafra
-amenophis ii - http://dbpedia.org/resource/Amenhotep_II
-tuthmosis ii - http://dbpedia.org/resource/Thutmose_II
+amenophis - http://dbpedia.org/resource/Amenhotep_III
 iv - http://dbpedia.org/resource/Intravenous_therapy
 hatshepsut - http://dbpedia.org/resource/Hatshepsut
 akhenaten - http://dbpedia.org/resource/Akhenaten
@@ -14,6 +13,6 @@ alexander - http://dbpedia.org/resource/Alexander_the_Great
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
 cleopatra - http://dbpedia.org/resource/Cleopatra
 octavius - http://dbpedia.org/resource/Augustus
-egypt central - http://dbpedia.org/resource/Egypt_Central
+central government - http://dbpedia.org/resource/Central_government
 greco - http://dbpedia.org/resource/Ancient_Greece
-roman time - http://dbpedia.org/resource/Roman_Empire
+roman times - http://dbpedia.org/resource/Ancient_Rome

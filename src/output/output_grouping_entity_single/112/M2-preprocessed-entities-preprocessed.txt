@@ -1,10 +1,10 @@
-facsimile - http://dbpedia.org/resource/Facsimile
-centerville - http://dbpedia.org/resource/Centerville,_Ohio
 forge - http://dbpedia.org/resource/Forge
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+dan hill - http://dbpedia.org/resource/Dan_Hill
+facsimile - http://dbpedia.org/resource/Facsimile
+library - http://dbpedia.org/resource/Library
+centerville - http://dbpedia.org/resource/Centerville,_Ohio
+kells - http://dbpedia.org/resource/Abbey_of_Kells
 spring valley - http://dbpedia.org/resource/Spring_Valley,_New_York
 washington - http://dbpedia.org/resource/University_of_Washington
-trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-dan hill - http://dbpedia.org/resource/Dan_Hill
-manuscript - http://dbpedia.org/resource/Manuscript
-library - http://dbpedia.org/resource/Library
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript

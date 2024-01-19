@@ -1,99 +1,89 @@
-southern india - http://dbpedia.org/resource/South_India
-arcot - http://dbpedia.org/resource/Arcot_State
-eastern empire - http://dbpedia.org/resource/Byzantine_Empire
-eye - http://dbpedia.org/resource/Tropical_cyclone
-fear - http://dbpedia.org/resource/Fear
-military alliance - http://dbpedia.org/resource/Military_alliance
-mauritius - http://dbpedia.org/resource/Mauritius
-atlas - http://dbpedia.org/resource/Atlas
-trading post - http://dbpedia.org/resource/Fur_trade
-revenue - http://dbpedia.org/resource/Revenue
-king college - http://dbpedia.org/resource/King_University
-professor - http://dbpedia.org/resource/Academy
-berbice - http://dbpedia.org/resource/Berbice
-transport - http://dbpedia.org/resource/Transport
-overseas possession - http://dbpedia.org/resource/Stato_da_Màr
-emigrant - http://dbpedia.org/resource/Emigration
-gaoler - http://dbpedia.org/resource/Prison_officer
-navy - http://dbpedia.org/resource/Royal_Navy
-mughals - http://dbpedia.org/resource/Mughal_Empire
-great powers - http://dbpedia.org/resource/Great_power
-ceylon - http://dbpedia.org/resource/Dutch_Ceylon
-kingmaker - http://dbpedia.org/resource/Kingmaker
-robert clive - http://dbpedia.org/resource/Robert_Clive
-tropical - http://dbpedia.org/resource/Tropics
-peace - http://dbpedia.org/resource/Peace
-override - http://dbpedia.org/resource/Veto
-protestant - http://dbpedia.org/resource/Protestantism
-asian - http://dbpedia.org/resource/Asia
-sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
-settlement - http://dbpedia.org/resource/Town
-napoleon - http://dbpedia.org/resource/Napoleon
-vienna - http://dbpedia.org/resource/Vienna
-europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
-security - http://dbpedia.org/resource/Security
-client - http://dbpedia.org/resource/Client_state
-barbados - http://dbpedia.org/resource/Barbados
-victorian - http://dbpedia.org/resource/Victorian_era
-sierra leone - http://dbpedia.org/resource/Sierra_Leone
-britain - http://dbpedia.org/resource/British_Empire
-indian independence - http://dbpedia.org/resource/Indian_independence_movement
-political faction - http://dbpedia.org/resource/Political_faction
-governors general - http://dbpedia.org/resource/Governor-general
-west africa - http://dbpedia.org/resource/West_Africa
-author - http://dbpedia.org/resource/Author
-british empire - http://dbpedia.org/resource/British_Empire
-agency - http://dbpedia.org/resource/Institution
-british isles - http://dbpedia.org/resource/Terminology_of_the_British_Isles
-hemisphere - http://dbpedia.org/resource/Western_Hemisphere
-south wales - http://dbpedia.org/resource/South_Wales
-west indies - http://dbpedia.org/resource/West_Indies
-wide range - http://dbpedia.org/resource/Fender_Wide_Range
 global warfare - http://dbpedia.org/resource/Global_Warfare
-partition - http://dbpedia.org/resource/Partitions_of_Poland
-freed slave - http://dbpedia.org/resource/Freedman
-british north america - http://dbpedia.org/resource/British_America
-wellesley - http://dbpedia.org/resource/Wellesley_College
-continent - http://dbpedia.org/resource/History_of_Europe
-trinidad - http://dbpedia.org/resource/Trinidad
-rivalry - http://dbpedia.org/resource/Rivalry
-convict - http://dbpedia.org/resource/Convicts_in_Australia
-gambia - http://dbpedia.org/resource/Gambia_River
-mysore - http://dbpedia.org/resource/Mysore
-coherent - http://dbpedia.org/resource/Laser
-oxford university - http://dbpedia.org/resource/Oxford_University_Press
+vagaries - http://dbpedia.org/resource/Memories_and_Vagaries
 independence - http://dbpedia.org/resource/Independence
-unavoidable - http://dbpedia.org/resource/Unavoidable
-essequibo - http://dbpedia.org/resource/Essequibo_River
-slave revolt - http://dbpedia.org/resource/Haitian_Revolution
-dominant - http://dbpedia.org/resource/Dominance_hierarchy
-scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-pj - http://dbpedia.org/resource/Joule
-humanitarian - http://dbpedia.org/resource/Humanitarianism
-oup - http://dbpedia.org/resource/Oxford_University_Press
-ottoman turkey - http://dbpedia.org/resource/Ottoman_Empire
-french revolutionary war - http://dbpedia.org/resource/French_Revolutionary_Wars
-rhodes - http://dbpedia.org/resource/Rhodes
-provinces - http://dbpedia.org/resource/Province
-east india company - http://dbpedia.org/resource/East_India_Company
-cape - http://dbpedia.org/resource/Headlands_and_bays
-ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
-colony - http://dbpedia.org/resource/Colony
-lawrence james - http://dbpedia.org/resource/Lawrence_James
-article - http://dbpedia.org/resource/Falklands_War
-jamaica - http://dbpedia.org/resource/Jamaica
-andrew porter - http://dbpedia.org/resource/Andrew_I._Porter
-interval - http://dbpedia.org/resource/Time
-trafalgar 1805 - http://dbpedia.org/resource/Battle_of_Trafalgar
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-maritime - http://dbpedia.org/resource/Maritime_history
-st domingue - http://dbpedia.org/resource/Saint-Domingue
-demerara - http://dbpedia.org/resource/Demerara
-north america - http://dbpedia.org/resource/North_America
-routledge - http://dbpedia.org/resource/Routledge
-south african war - http://dbpedia.org/resource/Second_Boer_War
+great powers - http://dbpedia.org/resource/Great_power
+governors general - http://dbpedia.org/resource/Governor-general
 south africa - http://dbpedia.org/resource/South_Africa
-russia - http://dbpedia.org/resource/Russia
-hastings - http://dbpedia.org/resource/Hastings
-cambridge - http://dbpedia.org/resource/University_of_Cambridge
+protestant - http://dbpedia.org/resource/Protestantism
+sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+maritime - http://dbpedia.org/resource/Maritime_history
+barbados - http://dbpedia.org/resource/Barbados
+eastern empire - http://dbpedia.org/resource/Byzantine_Empire
+dominant - http://dbpedia.org/resource/Dominance_hierarchy
+victorian - http://dbpedia.org/resource/Victorian_era
+southern india - http://dbpedia.org/resource/South_India
+partition - http://dbpedia.org/resource/Partitions_of_Poland
+trinidad - http://dbpedia.org/resource/Trinidad
+hemisphere - http://dbpedia.org/resource/Western_Hemisphere
 acute - http://dbpedia.org/resource/Acute_stress_reaction
+oup - http://dbpedia.org/resource/Oxford_University_Press
+mysore - http://dbpedia.org/resource/Mysore
+losing ground - http://dbpedia.org/resource/Losing_Ground_(1982_film)
+europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
+wellesley - http://dbpedia.org/resource/Wellesley_College
+east india company - http://dbpedia.org/resource/East_India_Company
+rivalry - http://dbpedia.org/resource/College_rivalry
+navy - http://dbpedia.org/resource/Royal_Navy
+american colonies - http://dbpedia.org/resource/Thirteen_Colonies
+robert clive - http://dbpedia.org/resource/Robert_Clive
+kingmaker - http://dbpedia.org/resource/Kingmaker
+south wales - http://dbpedia.org/resource/South_Wales
+coherent - http://dbpedia.org/resource/Laser
+unleashed - http://dbpedia.org/resource/Unleashed_(band)
+cambridge - http://dbpedia.org/resource/University_of_Cambridge
+british isles - http://dbpedia.org/resource/Terminology_of_the_British_Isles
+essequibo - http://dbpedia.org/resource/Essequibo_River
+demerara - http://dbpedia.org/resource/Demerara
+cape - http://dbpedia.org/resource/Headlands_and_bays
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+st domingue - http://dbpedia.org/resource/Saint-Domingue
+convicts - http://dbpedia.org/resource/Convicts_in_Australia
+indian independence - http://dbpedia.org/resource/Indian_independence_movement
+west africa - http://dbpedia.org/resource/West_Africa
+settlement - http://dbpedia.org/resource/Town
+hastings - http://dbpedia.org/resource/Hastings
+vienna - http://dbpedia.org/resource/Vienna
+west indies - http://dbpedia.org/resource/West_Indies
+colonies - http://dbpedia.org/resource/Colony
+gambia - http://dbpedia.org/resource/Gambia_River
+british empire - http://dbpedia.org/resource/British_Empire
+trafalgar - http://dbpedia.org/resource/Battle_of_Trafalgar
+domestic difficulties - http://dbpedia.org/resource/Domestic_Difficulties
+napoleon - http://dbpedia.org/resource/Napoleon
+north america - http://dbpedia.org/resource/North_America
+lawrence james - http://dbpedia.org/resource/Lawrence_James
+britain - http://dbpedia.org/resource/British_Empire
+mauritius - http://dbpedia.org/resource/Mauritius
+ottoman turkey - http://dbpedia.org/resource/Ottoman_Empire
+wide range - http://dbpedia.org/resource/Fender_Wide_Range
+asian - http://dbpedia.org/resource/Asia
+slave revolt - http://dbpedia.org/resource/Haitian_Revolution
+rhodes - http://dbpedia.org/resource/Rhodes
+routledge - http://dbpedia.org/resource/Routledge
+agency - http://dbpedia.org/resource/Institution
+humanitarian - http://dbpedia.org/resource/Humanitarianism
+berbice - http://dbpedia.org/resource/Berbice
+russia - http://dbpedia.org/resource/Russia
+arcot - http://dbpedia.org/resource/Arcot_State
+atlas - http://dbpedia.org/resource/Atlas
+pj - http://dbpedia.org/resource/Joule
+french revolutionary wars - http://dbpedia.org/resource/French_Revolutionary_Wars
+south african war - http://dbpedia.org/resource/Second_Boer_War
+ambitions - http://dbpedia.org/resource/Ambitions_(song)
+revenue - http://dbpedia.org/resource/Revenue
+slaves - http://dbpedia.org/resource/History_of_slavery
+unavoidable - http://dbpedia.org/resource/Unavoidable
+jamaica - http://dbpedia.org/resource/Jamaica
+professor - http://dbpedia.org/resource/Academy
+author - http://dbpedia.org/resource/Author
+mughals - http://dbpedia.org/resource/Mughal_Empire
+provinces - http://dbpedia.org/resource/Roman_province
+ireland - http://dbpedia.org/resource/Kingdom_of_Ireland
+peace - http://dbpedia.org/resource/Peace
+sierra leone - http://dbpedia.org/resource/Sierra_Leone
+continent - http://dbpedia.org/resource/History_of_Europe
+ceylon - http://dbpedia.org/resource/Dutch_Ceylon
+tropical - http://dbpedia.org/resource/Tropics
+andrew porter - http://dbpedia.org/resource/Andrew_I._Porter
+british north america - http://dbpedia.org/resource/Thirteen_Colonies
+security - http://dbpedia.org/resource/Security

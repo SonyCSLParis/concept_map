@@ -12,7 +12,6 @@ pennsylvania - http://dbpedia.org/resource/Pennsylvania
 european history - http://dbpedia.org/resource/History_of_Europe
 apr - http://dbpedia.org/resource/Annual_percentage_rate
 medieval - http://dbpedia.org/resource/Middle_Ages
-castle island - http://dbpedia.org/resource/Castleisland
 bornholm - http://dbpedia.org/resource/Bornholm
 denmark - http://dbpedia.org/resource/Denmark
 rhombus - http://dbpedia.org/resource/Rhombus
@@ -40,12 +39,10 @@ obsolescence - http://dbpedia.org/resource/Obsolescence
 neuschwanstein - http://dbpedia.org/resource/Neuschwanstein_Castle
 germany - http://dbpedia.org/resource/Germany
 doh - http://dbpedia.org/resource/Health_department
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
 big city - http://dbpedia.org/resource/Lenny_White
 8mr - http://dbpedia.org/resource/8_Metre_(keelboat)
 rhombus - http://dbpedia.org/resource/Rhombus
 doh - http://dbpedia.org/resource/Health_department
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
 big city - http://dbpedia.org/resource/Lenny_White
 medieval - http://dbpedia.org/resource/Middle_Ages
 castle town - http://dbpedia.org/resource/Castle_town
@@ -54,7 +51,7 @@ germany - http://dbpedia.org/resource/Germany
 medieval period - http://dbpedia.org/resource/Middle_Ages
 wattle - http://dbpedia.org/resource/Wattle_and_daub
 daub - http://dbpedia.org/resource/Wattle_and_daub
-timber frame - http://dbpedia.org/resource/Timber_framing
+timber - http://dbpedia.org/resource/Timber_framing
 apr - http://dbpedia.org/resource/Annual_percentage_rate
 pontefract castle - http://dbpedia.org/resource/Pontefract_Castle
 western europe - http://dbpedia.org/resource/Western_Europe

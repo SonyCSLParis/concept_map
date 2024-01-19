@@ -5,26 +5,21 @@ freaky - http://dbpedia.org/resource/Freaky_(song)
 folk tales - http://dbpedia.org/resource/Fairy_tale
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bride - http://dbpedia.org/resource/False_hero
-legend - http://dbpedia.org/resource/Legend
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bride - http://dbpedia.org/resource/False_hero
 family - http://dbpedia.org/resource/Family
-legend - http://dbpedia.org/resource/Legend
 bride - http://dbpedia.org/resource/False_hero
 wedding - http://dbpedia.org/resource/Wedding
 legend - http://dbpedia.org/resource/Legend
-family - http://dbpedia.org/resource/Family
 uncertainty - http://dbpedia.org/resource/Uncertainty
 tragedy - http://dbpedia.org/resource/Tragedy
 antiquity - http://dbpedia.org/resource/Ancient_Egypt
-historian - http://dbpedia.org/resource/Historian
-antiquarian - http://dbpedia.org/resource/Antiquarian
+antiquarians - http://dbpedia.org/resource/Antiquarian
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 hampshire - http://dbpedia.org/resource/Hampshire
 family - http://dbpedia.org/resource/Family
 dyer - http://dbpedia.org/resource/Dye
-romance - http://dbpedia.org/resource/Romanticism
-mystery - http://dbpedia.org/resource/Mystery_fiction
+romances - http://dbpedia.org/resource/Chivalric_romance
 family - http://dbpedia.org/resource/Family
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bride - http://dbpedia.org/resource/False_hero
@@ -48,46 +43,45 @@ paris - http://dbpedia.org/resource/Paris
 edward baker - http://dbpedia.org/resource/Edward_Dickinson_Baker
 hilton - http://dbpedia.org/resource/Hilton_Worldwide
 bride - http://dbpedia.org/resource/False_hero
-lock - http://dbpedia.org/resource/Lock_and_key
 relic - http://dbpedia.org/resource/Relic
 gossip - http://dbpedia.org/resource/Gossip
+chattering classes - http://dbpedia.org/resource/Chattering_classes
 york - http://dbpedia.org/resource/House_of_York
 bride - http://dbpedia.org/resource/False_hero
 fear - http://dbpedia.org/resource/Fear
+haunted - http://dbpedia.org/resource/Ghost
 bride - http://dbpedia.org/resource/False_hero
-die - http://dbpedia.org/resource/Death
 lock - http://dbpedia.org/resource/Lock_and_key
 tragedy - http://dbpedia.org/resource/Tragedy
-paper - http://dbpedia.org/resource/Origami
-awaken - http://dbpedia.org/resource/Going_for_the_One
 panelling - http://dbpedia.org/resource/Panelling
-noise - http://dbpedia.org/resource/Noise_music
 light - http://dbpedia.org/resource/Light
+hurrying - http://dbpedia.org/resource/Hurrying
+footsteps - http://dbpedia.org/resource/Footsteps_(organization)
 partition - http://dbpedia.org/resource/Wall
+terrified - http://dbpedia.org/resource/Terrified_(album)
 consciousness - http://dbpedia.org/resource/Consciousness
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bride - http://dbpedia.org/resource/False_hero
 bramshill house - http://dbpedia.org/resource/Bramshill_House
-retainer - http://dbpedia.org/resource/Retinue
 clatter - http://dbpedia.org/resource/Clatter,_Powys
+hurrying - http://dbpedia.org/resource/Hurrying
 attic - http://dbpedia.org/resource/Attic
 swish - http://dbpedia.org/resource/Swish_cymbal
-skirt - http://dbpedia.org/resource/Skirt
 thump - http://dbpedia.org/resource/Vice_Media
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bride - http://dbpedia.org/resource/False_hero
 thomas haynes bayly - http://dbpedia.org/resource/Thomas_Haynes_Bayly
 mistletoe - http://dbpedia.org/resource/Mistletoe
 holly - http://dbpedia.org/resource/Holly
+shone - http://dbpedia.org/resource/Shone
 baron - http://dbpedia.org/resource/Baron
-retainer - http://dbpedia.org/resource/Retinue
 gay - http://dbpedia.org/resource/Homosexuality
 christmas holiday - http://dbpedia.org/resource/Christmas_Holiday
 baron - http://dbpedia.org/resource/Baron
 beautiful child - http://dbpedia.org/resource/Beautiful_Child
 lovell - http://dbpedia.org/resource/Thomas_Lovell
 bride - http://dbpedia.org/resource/False_hero
-eye - http://dbpedia.org/resource/Eye
+bright eyes - http://dbpedia.org/resource/Imaginations_from_the_Other_Side
 lovell - http://dbpedia.org/resource/Thomas_Lovell
 grief - http://dbpedia.org/resource/Grief
 lovell - http://dbpedia.org/resource/Thomas_Lovell
@@ -101,11 +95,10 @@ lord lovell - http://dbpedia.org/resource/Francis_Lovell,_1st_Viscount_Lovell
 bride - http://dbpedia.org/resource/False_hero
 bride - http://dbpedia.org/resource/False_hero
 family - http://dbpedia.org/resource/Family
-die - http://dbpedia.org/resource/Death
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
 statesman - http://dbpedia.org/resource/Roman_Senate
-adventurer - http://dbpedia.org/resource/Player_character
+adventurer - http://dbpedia.org/resource/Adventure
 philosopher - http://dbpedia.org/resource/Philosopher
 elizabethan period - http://dbpedia.org/resource/Elizabethan_era
 william cecil - http://dbpedia.org/resource/William_Amherst_Vanderbilt_Cecil
@@ -119,20 +112,16 @@ essex - http://dbpedia.org/resource/Essex
 sir walter raleigh - http://dbpedia.org/resource/Walter_Raleigh
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
 mansion - http://dbpedia.org/resource/Mansion
-noble - http://dbpedia.org/resource/Nobility
-monument - http://dbpedia.org/resource/Funerary_art
 elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
-mansion - http://dbpedia.org/resource/Mansion
 great house - http://dbpedia.org/resource/Great_house
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
-niche - http://dbpedia.org/resource/Niche_market
+niche - http://dbpedia.org/resource/Ecological_niche
 finery - http://dbpedia.org/resource/Finery_forge
 great oak - http://dbpedia.org/resource/Oak
-gild - http://dbpedia.org/resource/Gilding
-salon - http://dbpedia.org/resource/Drawing_room
+gilded - http://dbpedia.org/resource/Gilding
+salons - http://dbpedia.org/resource/Drawing_room
 furniture - http://dbpedia.org/resource/Furniture
 metal - http://dbpedia.org/resource/Heavy_metal_music
-chamber - http://dbpedia.org/resource/Room
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
 philosophical - http://dbpedia.org/resource/Philosophy
 great house - http://dbpedia.org/resource/Great_house
@@ -140,27 +129,24 @@ lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
 family - http://dbpedia.org/resource/Family
 banbury - http://dbpedia.org/resource/Banbury
 baronetcies - http://dbpedia.org/resource/Baronet
-bear - http://dbpedia.org/resource/Teddy_bear
-christen - http://dbpedia.org/resource/Infant_baptism
+cope baronets - http://dbpedia.org/resource/Cope_baronets
+borne - http://dbpedia.org/resource/Matt_Osborne
+christened - http://dbpedia.org/resource/Baptism
 incumbent - http://dbpedia.org/resource/Vicar
 johns - http://dbpedia.org/resource/Prostitution
 lord lovell - http://dbpedia.org/resource/Francis_Lovell,_1st_Viscount_Lovell
 nobleman - http://dbpedia.org/resource/Nobility
-extinct - http://dbpedia.org/resource/Hereditary_peer
+extinct - http://dbpedia.org/resource/Extinction
 family - http://dbpedia.org/resource/Family
 wedding - http://dbpedia.org/resource/Wedding
 sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
 mansion - http://dbpedia.org/resource/Mansion
 wedding - http://dbpedia.org/resource/Wedding
 splendid - http://dbpedia.org/resource/Le_Splendid
-wedding - http://dbpedia.org/resource/Wedding
 revelry - http://dbpedia.org/resource/Revelry_(song)
 wedding - http://dbpedia.org/resource/Wedding
-noble family - http://dbpedia.org/resource/Nobility
 gaiety - http://dbpedia.org/resource/Gaiety_Theatre,_London
-taste - http://dbpedia.org/resource/Taste
 wine - http://dbpedia.org/resource/Wine
-spirit - http://dbpedia.org/resource/Ghost
 bride - http://dbpedia.org/resource/False_hero
 intimate apparel - http://dbpedia.org/resource/Undergarment
 nuptial - http://dbpedia.org/resource/Wedding
@@ -169,20 +155,18 @@ wedding - http://dbpedia.org/resource/Wedding
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 great house - http://dbpedia.org/resource/Great_house
 nobility - http://dbpedia.org/resource/Nobility
-family - http://dbpedia.org/resource/Family
 banquet - http://dbpedia.org/resource/Banquet
 amazing - http://dbpedia.org/resource/Earth-616
 wild boar - http://dbpedia.org/resource/Wild_boar
 roasted - http://dbpedia.org/resource/Roasting
-bear - http://dbpedia.org/resource/Teddy_bear
+tusks - http://dbpedia.org/resource/Tusk
+borne - http://dbpedia.org/resource/Matt_Osborne
 banquet hall - http://dbpedia.org/resource/Assembly_hall
-retainer - http://dbpedia.org/resource/Retinue
 music - http://dbpedia.org/resource/Music
-minstrel - http://dbpedia.org/resource/Minstrel
+minstrels - http://dbpedia.org/resource/Minstrel
 ancient house - http://dbpedia.org/resource/Ancient_House,_Clare
 geese - http://dbpedia.org/resource/Goose
-delicacy - http://dbpedia.org/resource/Chinese_cuisine
-bird - http://dbpedia.org/resource/Bird
+ducks - http://dbpedia.org/resource/Duck
 fat - http://dbpedia.org/resource/Fat
 court - http://dbpedia.org/resource/Royal_court
 sergeant - http://dbpedia.org/resource/Man-at-arms
@@ -197,7 +181,6 @@ bride - http://dbpedia.org/resource/False_hero
 simple game - http://dbpedia.org/resource/Cooperative_game_theory
 bride - http://dbpedia.org/resource/False_hero
 bridegroom - http://dbpedia.org/resource/Wedding
-evening wear - http://dbpedia.org/resource/Evening_gown
 bridegroom - http://dbpedia.org/resource/Wedding
 bride - http://dbpedia.org/resource/False_hero
 bride - http://dbpedia.org/resource/False_hero
@@ -209,7 +192,6 @@ willingly - http://dbpedia.org/resource/Willingly
 lord lovell - http://dbpedia.org/resource/Francis_Lovell,_1st_Viscount_Lovell
 withered - http://dbpedia.org/resource/Withered
 bride - http://dbpedia.org/resource/False_hero
-young generation - http://dbpedia.org/resource/Dougie_Squires
 wedding - http://dbpedia.org/resource/Wedding
 oaken - http://dbpedia.org/resource/Oaken
 panelling - http://dbpedia.org/resource/Panelling
@@ -219,33 +201,29 @@ lord lovell - http://dbpedia.org/resource/Francis_Lovell,_1st_Viscount_Lovell
 bride - http://dbpedia.org/resource/False_hero
 skeleton - http://dbpedia.org/resource/Skeleton
 wedding - http://dbpedia.org/resource/Wedding
-robe - http://dbpedia.org/resource/Robe
 wedding dress - http://dbpedia.org/resource/Wedding_dress
-stain - http://dbpedia.org/resource/Wood_stain
 corruption - http://dbpedia.org/resource/Political_corruption
 tomb - http://dbpedia.org/resource/Tomb
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bride - http://dbpedia.org/resource/False_hero
 bramshill house - http://dbpedia.org/resource/Bramshill_House
 bride - http://dbpedia.org/resource/False_hero
-pursuer - http://dbpedia.org/resource/Plaintiff
 puzzle - http://dbpedia.org/resource/Puzzle_video_game
 spring - http://dbpedia.org/resource/Spring_and_Autumn_period
-die - http://dbpedia.org/resource/Death
 odour - http://dbpedia.org/resource/Odor
 chimney - http://dbpedia.org/resource/Chimney
 odour - http://dbpedia.org/resource/Odor
 lord lovell - http://dbpedia.org/resource/Francis_Lovell,_1st_Viscount_Lovell
-die - http://dbpedia.org/resource/Death
 tragedy - http://dbpedia.org/resource/Tragedy
-poem - http://dbpedia.org/resource/Poetry
-ballad - http://dbpedia.org/resource/Ballad
+ballads - http://dbpedia.org/resource/Ballad
 bride - http://dbpedia.org/resource/False_hero
 wedding - http://dbpedia.org/resource/Wedding
 bride - http://dbpedia.org/resource/False_hero
+living death - http://dbpedia.org/resource/Living_Death_(band)
 wedding - http://dbpedia.org/resource/Wedding
 breathing - http://dbpedia.org/resource/Breathing
 martyrdom - http://dbpedia.org/resource/Martyr
+footsteps - http://dbpedia.org/resource/Footsteps_(organization)
 bridegroom - http://dbpedia.org/resource/Wedding
 oaken - http://dbpedia.org/resource/Oaken
 partition - http://dbpedia.org/resource/Wall
@@ -256,7 +234,6 @@ bramshill park - http://dbpedia.org/resource/Bramshill_House
 oxfordshire - http://dbpedia.org/resource/Oxfordshire
 oxfordshire - http://dbpedia.org/resource/Oxfordshire
 lovell - http://dbpedia.org/resource/Thomas_Lovell
-stout - http://dbpedia.org/resource/Stout
 heart - http://dbpedia.org/resource/Heart_(symbol)
 pulse - http://dbpedia.org/resource/Pulse
 race - http://dbpedia.org/resource/Racing

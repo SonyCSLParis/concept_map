@@ -1,5 +1,6 @@
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+gospels - http://dbpedia.org/resource/Gospel
 luke - http://dbpedia.org/resource/Luke_the_Evangelist
 ancient ireland - http://dbpedia.org/resource/Prehistoric_Ireland
 celtic art - http://dbpedia.org/resource/Celtic_art
@@ -8,6 +9,7 @@ kells - http://dbpedia.org/resource/Abbey_of_Kells
 iona - http://dbpedia.org/resource/Iona
 st. columba - http://dbpedia.org/resource/Columba
 church - http://dbpedia.org/resource/Catholic_Church
+viking raids - http://dbpedia.org/resource/Lindisfarne
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 monastery - http://dbpedia.org/resource/Monastery
 county meath - http://dbpedia.org/resource/County_Meath
@@ -19,14 +21,15 @@ monastery - http://dbpedia.org/resource/Monastery
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 roman catholic church - http://dbpedia.org/resource/Catholic_Church
 ireland - http://dbpedia.org/resource/Ireland
-trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
 archbishop ussher - http://dbpedia.org/resource/James_Ussher
 library - http://dbpedia.org/resource/Biblioteca_Marciana
+gospels - http://dbpedia.org/resource/Gospel
 hebrew - http://dbpedia.org/resource/Hebrew_language
-cannon - http://dbpedia.org/resource/Cannon
+leaves - http://dbpedia.org/resource/Recto_and_verso
 calfskin - http://dbpedia.org/resource/Calfskin
 amazing - http://dbpedia.org/resource/Earth-616
-saint - http://dbpedia.org/resource/Saint
+saints - http://dbpedia.org/resource/Saint
 christ - http://dbpedia.org/resource/Jesus
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 amazing - http://dbpedia.org/resource/Earth-616
@@ -34,5 +37,5 @@ symbol - http://dbpedia.org/resource/Christian_symbolism
 ribbon - http://dbpedia.org/resource/Ribbon
 square inch - http://dbpedia.org/resource/Square_inch
 magnifying glass - http://dbpedia.org/resource/Magnifying_glass
-angel - http://dbpedia.org/resource/Angel
+angels - http://dbpedia.org/resource/Angel
 kells - http://dbpedia.org/resource/Abbey_of_Kells

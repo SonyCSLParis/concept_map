@@ -5,35 +5,30 @@ foundation stone - http://dbpedia.org/resource/Cornerstone
 british empire - http://dbpedia.org/resource/British_Empire
 trading post - http://dbpedia.org/resource/Fur_trade
 bantam - http://dbpedia.org/resource/Bantamweight
-trading post - http://dbpedia.org/resource/Fur_trade
 indian subcontinent - http://dbpedia.org/resource/Indian_subcontinent
 navy - http://dbpedia.org/resource/Navy
 britain - http://dbpedia.org/resource/British_Empire
 dominant - http://dbpedia.org/resource/Dominant-party_system
-apply pressure - http://dbpedia.org/resource/Apply_Pressure
-military alliance - http://dbpedia.org/resource/Military_alliance
+pressure - http://dbpedia.org/resource/Pressure
 east india company - http://dbpedia.org/resource/East_India_Company
-trade route - http://dbpedia.org/resource/Trade_route
 britain - http://dbpedia.org/resource/British_Empire
-trade route - http://dbpedia.org/resource/Trade_route
 catalyst - http://dbpedia.org/resource/Catalysis
-cultural change - http://dbpedia.org/resource/Culture
 tea - http://dbpedia.org/resource/Tea
 britain - http://dbpedia.org/resource/British_Empire
-spice - http://dbpedia.org/resource/Spice_trade
-textile - http://dbpedia.org/resource/Textile_industry
+spices - http://dbpedia.org/resource/Spice_trade
+textiles - http://dbpedia.org/resource/Textile_industry
 porcelain - http://dbpedia.org/resource/Porcelain
-custom duty - http://dbpedia.org/resource/Tariff
+customs duty - http://dbpedia.org/resource/Tariff
 tea - http://dbpedia.org/resource/Tea
 british government - http://dbpedia.org/resource/British_Raj
 revenue - http://dbpedia.org/resource/Revenue
-armed force - http://dbpedia.org/resource/Military
-soldier - http://dbpedia.org/resource/Soldier
+armed forces - http://dbpedia.org/resource/Military
 east india company - http://dbpedia.org/resource/East_India_Company
 east india company - http://dbpedia.org/resource/East_India_Company
 british library - http://dbpedia.org/resource/British_Library
 indian rebellion - http://dbpedia.org/resource/Indian_Rebellion_of_1857
-peasant - http://dbpedia.org/resource/Peasant
+arms - http://dbpedia.org/resource/Weapon
+peasant labourers - http://dbpedia.org/resource/Peasant_Character_Studies_(Van_Gogh_series)
 northern india - http://dbpedia.org/resource/North_India
 human - http://dbpedia.org/resource/Human_rights
 east india company - http://dbpedia.org/resource/East_India_Company

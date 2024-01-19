@@ -24,7 +24,7 @@ independence - http://dbpedia.org/resource/Independence
 royal family - http://dbpedia.org/resource/Spanish_royal_family
 orleans - http://dbpedia.org/resource/New_Orleans
 republican revolution - http://dbpedia.org/resource/5_October_1910_revolution
-colony - http://dbpedia.org/resource/Colony
+colonies - http://dbpedia.org/resource/Colony
 south america - http://dbpedia.org/resource/South_America
 orleans - http://dbpedia.org/resource/New_Orleans
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal

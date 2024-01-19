@@ -1,36 +1,32 @@
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
-texas - http://dbpedia.org/resource/Texas
-petition - http://dbpedia.org/resource/Petition
-elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
-committee - http://dbpedia.org/resource/Committee
-settlement - http://dbpedia.org/resource/Israeli_settlement
-mexican texas - http://dbpedia.org/resource/Mexican_Texas
-portrait - http://dbpedia.org/resource/Portrait
-austin - http://dbpedia.org/resource/Austin_College
-san felipe - http://dbpedia.org/resource/Philip_the_Apostle
-revolt - http://dbpedia.org/resource/Slave_rebellion
-immigration - http://dbpedia.org/resource/Immigration
-mexican government - http://dbpedia.org/resource/First_Mexican_Republic
-colony - http://dbpedia.org/resource/Colony
-anglo - http://dbpedia.org/resource/Anglo
-wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
-washington - http://dbpedia.org/resource/George_Washington
-draft - http://dbpedia.org/resource/Conscription
-grievance - http://dbpedia.org/resource/Grievance
-independent texas - http://dbpedia.org/resource/Republic_of_Texas
 motion - http://dbpedia.org/resource/Motion
-statehood - http://dbpedia.org/resource/Admission_to_the_Union
-independence - http://dbpedia.org/resource/Mexican_War_of_Independence
-houston - http://dbpedia.org/resource/Houston
-outline - http://dbpedia.org/resource/Nutrition
-law - http://dbpedia.org/resource/Law
-capital - http://dbpedia.org/resource/Capital_city
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
-resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
-mexico - http://dbpedia.org/resource/First_Mexican_Republic
+independent texas - http://dbpedia.org/resource/Republic_of_Texas
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 tejano - http://dbpedia.org/resource/Tejano
-colonist - http://dbpedia.org/resource/Settler
-texas revolution - http://dbpedia.org/resource/Texas_Revolution
+austin - http://dbpedia.org/resource/Austin_College
 constitution - http://dbpedia.org/resource/Constitution
+anglo - http://dbpedia.org/resource/Anglo
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
+portrait - http://dbpedia.org/resource/Portrait
+capital - http://dbpedia.org/resource/Capital_city
+texas - http://dbpedia.org/resource/Texas
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+immigration - http://dbpedia.org/resource/Immigration
+slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+houston - http://dbpedia.org/resource/Houston
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+draft - http://dbpedia.org/resource/Conscription
+washington - http://dbpedia.org/resource/George_Washington
+law - http://dbpedia.org/resource/Law
+committee - http://dbpedia.org/resource/Committee
+president - http://dbpedia.org/resource/President_of_Mexico
+statehood - http://dbpedia.org/resource/Admission_to_the_Union
+mexican texas - http://dbpedia.org/resource/Mexican_Texas
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+districts - http://dbpedia.org/resource/Electoral_district
 coahuila - http://dbpedia.org/resource/Coahuila
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+colonies - http://dbpedia.org/resource/Thirteen_Colonies
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+galvanized - http://dbpedia.org/resource/Galvanization

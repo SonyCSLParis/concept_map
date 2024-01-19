@@ -4,7 +4,7 @@ byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 komnenian restoration - http://dbpedia.org/resource/Komnenian_restoration
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 komnenian - http://dbpedia.org/resource/Komnenos
-crusader - http://dbpedia.org/resource/First_Crusade
+crusaders - http://dbpedia.org/resource/Fourth_Crusade
 ephesus - http://dbpedia.org/resource/Ephesus
 town - http://dbpedia.org/resource/Town
 seljuk turks - http://dbpedia.org/resource/Seljuq_dynasty
@@ -13,16 +13,14 @@ ancient greek - http://dbpedia.org/resource/Ancient_Greek
 city - http://dbpedia.org/resource/City
 ephesus - http://dbpedia.org/resource/Ephesus
 hellenistic - http://dbpedia.org/resource/Hellenistic_period
-city - http://dbpedia.org/resource/City
 roman period - http://dbpedia.org/resource/Roman_Empire
 ephesus - http://dbpedia.org/resource/Ephesus
 city - http://dbpedia.org/resource/City
 asia minor - http://dbpedia.org/resource/Anatolia
 town - http://dbpedia.org/resource/Town
-hard time - http://dbpedia.org/resource/Hard_Time_(film)
+hard times - http://dbpedia.org/resource/NWA_Hard_Times
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 crusader - http://dbpedia.org/resource/First_Crusade
-gate - http://dbpedia.org/resource/Gate
 ephesus - http://dbpedia.org/resource/Ephesus
 region - http://dbpedia.org/resource/Region
 frontier - http://dbpedia.org/resource/Frontier
@@ -30,9 +28,8 @@ philomelion - http://dbpedia.org/resource/Akşehir
 iconium - http://dbpedia.org/resource/Sultanate_of_Rum
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 scottish army - http://dbpedia.org/resource/Scots_Army
-south england - http://dbpedia.org/resource/Southern_England
 cambridge - http://dbpedia.org/resource/Cambridge
-stone throw - http://dbpedia.org/resource/Stone_throwing
+stone - http://dbpedia.org/resource/Masonry
 resistance - http://dbpedia.org/resource/Resistance_movement
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 ephesus - http://dbpedia.org/resource/Ephesus
@@ -41,13 +38,9 @@ byzantines - http://dbpedia.org/resource/Byzantine_Empire
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 ephesus - http://dbpedia.org/resource/Ephesus
 komnenian restoration - http://dbpedia.org/resource/Komnenian_restoration
-empire fortune - http://dbpedia.org/resource/SS_Stad_Schiedam_(1942)
-emperor - http://dbpedia.org/resource/Byzantine_Empire
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 john ii - http://dbpedia.org/resource/John_II_Komnenos
 manuel komnenos - http://dbpedia.org/resource/Manuel_I_Komnenos
-emperor - http://dbpedia.org/resource/Byzantine_Empire
-good manager - http://dbpedia.org/resource/Good_Manager
 anatolia - http://dbpedia.org/resource/Anatolia
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 disaster - http://dbpedia.org/resource/Disaster
@@ -66,7 +59,6 @@ asia minor - http://dbpedia.org/resource/Anatolia
 foreign policy - http://dbpedia.org/resource/Foreign_policy
 john ii - http://dbpedia.org/resource/John_II_Komnenos
 lunacy - http://dbpedia.org/resource/Insanity
-waste - http://dbpedia.org/resource/Waste
 invasion - http://dbpedia.org/resource/Invasion
 asia minor - http://dbpedia.org/resource/Anatolia
 turks - http://dbpedia.org/resource/Seljuq_dynasty
@@ -98,22 +90,19 @@ byzantium - http://dbpedia.org/resource/Byzantine_Empire
 ratio - http://dbpedia.org/resource/Reason
 greece - http://dbpedia.org/resource/Ancient_Greece
 turkish - http://dbpedia.org/resource/Turkic_peoples
-population exchange - http://dbpedia.org/resource/Population_exchange_between_Greece_and_Turkey
+population exchanges - http://dbpedia.org/resource/Population_transfer
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 john ii komnenos - http://dbpedia.org/resource/John_II_Komnenos
-komnenian - http://dbpedia.org/resource/Komnenos
-emperor - http://dbpedia.org/resource/Byzantine_Empire
+komnenian emperors - http://dbpedia.org/resource/Byzantine_Empire_under_the_Komnenos_dynasty
 asia minor - http://dbpedia.org/resource/Anatolia
 coast - http://dbpedia.org/resource/Coast
 asia minor - http://dbpedia.org/resource/Anatolia
 peripheral - http://dbpedia.org/resource/Periphery_countries
-town - http://dbpedia.org/resource/Town
 gangra - http://dbpedia.org/resource/Çankırı
 syria - http://dbpedia.org/resource/Syria
 bit - http://dbpedia.org/resource/Bit
-john march - http://dbpedia.org/resource/John_March
 syria - http://dbpedia.org/resource/Syria
-asia minor campaign - http://dbpedia.org/resource/Greco-Turkish_War_(1919–1922)
+asia minor - http://dbpedia.org/resource/Anatolia
 waste - http://dbpedia.org/resource/Waste
 anatolia - http://dbpedia.org/resource/Anatolia
 antioch - http://dbpedia.org/resource/Antioch
@@ -126,7 +115,6 @@ alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 anatolia - http://dbpedia.org/resource/Anatolia
 crusade - http://dbpedia.org/resource/Crusades
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
-town - http://dbpedia.org/resource/Town
 asia minor - http://dbpedia.org/resource/Anatolia
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 philomelion - http://dbpedia.org/resource/Akşehir
@@ -136,27 +124,28 @@ komnenian - http://dbpedia.org/resource/Komnenos
 nepotism - http://dbpedia.org/resource/Nepotism
 eastern empire - http://dbpedia.org/resource/Byzantine_Empire
 komnenian - http://dbpedia.org/resource/Komnenos
-seljuk turk - http://dbpedia.org/resource/Seljuq_dynasty
+seljuk turks - http://dbpedia.org/resource/Seljuq_dynasty
 anatolian - http://dbpedia.org/resource/Anatolia
 roman army - http://dbpedia.org/resource/Byzantine_army
 tagmata - http://dbpedia.org/resource/Tagma_(military)
 manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
 frankish - http://dbpedia.org/resource/Franks
 normans - http://dbpedia.org/resource/Normans
-mercenary - http://dbpedia.org/resource/Mercenary
-legion - http://dbpedia.org/resource/Roman_legion
+mercenaries - http://dbpedia.org/resource/Mercenary
+legions - http://dbpedia.org/resource/Roman_legion
 teutoberg forest - http://dbpedia.org/resource/Teutoburg_Forest
 germania - http://dbpedia.org/resource/Germanium_dioxide
-crusader - http://dbpedia.org/resource/First_Crusade
+crusaders - http://dbpedia.org/resource/Fourth_Crusade
 jerusalem - http://dbpedia.org/resource/Kingdom_of_Jerusalem
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 capital - http://dbpedia.org/resource/Capital_city
-crusader - http://dbpedia.org/resource/First_Crusade
+crusaders - http://dbpedia.org/resource/Fourth_Crusade
 roman catholic church - http://dbpedia.org/resource/Catholic_Church
+maligned - http://dbpedia.org/resource/Malignancy
 paul - http://dbpedia.org/resource/Paul_the_Apostle
+rehabilitated - http://dbpedia.org/resource/Denazification
 glad - http://dbpedia.org/resource/The_Glad_Products_Company
-komnenian - http://dbpedia.org/resource/Komnenos
-emperor - http://dbpedia.org/resource/Byzantine_Empire
+komnenian emperors - http://dbpedia.org/resource/Byzantine_Empire_under_the_Komnenos_dynasty
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 anatolia - http://dbpedia.org/resource/Anatolia
 foreign policy - http://dbpedia.org/resource/Foreign_policy
@@ -166,22 +155,20 @@ turkish - http://dbpedia.org/resource/Turkic_peoples
 komnenoi - http://dbpedia.org/resource/Komnenos
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 upland - http://dbpedia.org/resource/Upland_and_lowland
-region - http://dbpedia.org/resource/Region
 intensive agriculture - http://dbpedia.org/resource/Intensive_farming
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 asia minor - http://dbpedia.org/resource/Anatolia
 steppe - http://dbpedia.org/resource/Eurasian_Steppe
 komnenoi - http://dbpedia.org/resource/Komnenos
 themata - http://dbpedia.org/resource/Theme_(Byzantine_district)
-region - http://dbpedia.org/resource/Region
 fault - http://dbpedia.org/resource/Transform_fault
 komnenoi - http://dbpedia.org/resource/Komnenos
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 dysfunctional - http://dbpedia.org/resource/Dysfunctional_family
 piecemeal - http://dbpedia.org/resource/Proteus_(Marvel_Comics)
 warfare - http://dbpedia.org/resource/War
-civil war - http://dbpedia.org/resource/Civil_war
+civil wars - http://dbpedia.org/resource/Civil_war
 basil ii - http://dbpedia.org/resource/Basil_II
 anna komnene - http://dbpedia.org/resource/Anna_Komnene
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
@@ -192,11 +179,11 @@ constantinople - http://dbpedia.org/resource/Byzantine_Empire
 dyrrachion - http://dbpedia.org/resource/Durrës
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 robert guiscard - http://dbpedia.org/resource/Robert_Guiscard
-political game - http://dbpedia.org/resource/Government_simulation_game
 capital - http://dbpedia.org/resource/Capital_city
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 siege - http://dbpedia.org/resource/Siege
 turks - http://dbpedia.org/resource/Seljuq_dynasty
+pirates - http://dbpedia.org/resource/Piracy
 aegean - http://dbpedia.org/resource/Aegean_Sea
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 normans - http://dbpedia.org/resource/Normans
@@ -209,7 +196,6 @@ alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 cuman - http://dbpedia.org/resource/Turkic_peoples
 balkan war - http://dbpedia.org/resource/Balkan_Wars
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
-prepare - http://dbpedia.org/resource/PREPARE
 bridgehead - http://dbpedia.org/resource/Bridgehead
 invasion - http://dbpedia.org/resource/Invasion
 crusade - http://dbpedia.org/resource/Crusades
@@ -217,13 +203,13 @@ konya - http://dbpedia.org/resource/Konya
 turkish - http://dbpedia.org/resource/Turkic_peoples
 myriokephalon - http://dbpedia.org/resource/Battle_of_Myriokephalon
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
+arms - http://dbpedia.org/resource/Weapon
 asia minor - http://dbpedia.org/resource/Anatolia
 heartland theory - http://dbpedia.org/resource/The_Geographical_Pivot_of_History
+provinces - http://dbpedia.org/resource/Roman_province
 asia minor - http://dbpedia.org/resource/Anatolia
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-region - http://dbpedia.org/resource/Region
-komnenian - http://dbpedia.org/resource/Komnenos
-emperor - http://dbpedia.org/resource/Byzantine_Empire
+komnenian emperors - http://dbpedia.org/resource/Byzantine_Empire_under_the_Komnenos_dynasty
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 anatolia - http://dbpedia.org/resource/Anatolia
 foreign policy - http://dbpedia.org/resource/Foreign_policy
@@ -243,24 +229,18 @@ piecemeal - http://dbpedia.org/resource/Proteus_(Marvel_Comics)
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 gangra - http://dbpedia.org/resource/Çankırı
 ankara - http://dbpedia.org/resource/Battle_of_Ankara
-garrison - http://dbpedia.org/resource/Garrison
 city - http://dbpedia.org/resource/City
-2,000 man - http://dbpedia.org/resource/Their_Satanic_Majesties_Request
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 syria - http://dbpedia.org/resource/Syria
 manuel komnenos - http://dbpedia.org/resource/Manuel_I_Komnenos
 asia minor - http://dbpedia.org/resource/Anatolia
-waste - http://dbpedia.org/resource/Waste
 peripheral - http://dbpedia.org/resource/Periphery_countries
 hungary - http://dbpedia.org/resource/Kingdom_of_Hungary
 serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
 peace - http://dbpedia.org/resource/Peace
 turks - http://dbpedia.org/resource/Seljuq_dynasty
-cost benefit - http://dbpedia.org/resource/Cost–benefit_analysis
 konya - http://dbpedia.org/resource/Konya
-field army - http://dbpedia.org/resource/Army
 konya - http://dbpedia.org/resource/Konya
-sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
 frederick - http://dbpedia.org/resource/Frederick_the_Great
 barbarosa - http://dbpedia.org/resource/Barbarosa
 crusade - http://dbpedia.org/resource/Crusades
@@ -280,35 +260,34 @@ frontier - http://dbpedia.org/resource/Frontier
 invasion - http://dbpedia.org/resource/Invasion
 devastation - http://dbpedia.org/resource/HMS_Devastation_(1871)
 turkoman - http://dbpedia.org/resource/Oghuz_Turks
-nomad - http://dbpedia.org/resource/Nomad
+nomads - http://dbpedia.org/resource/Bedouin
 city - http://dbpedia.org/resource/City
 antalya - http://dbpedia.org/resource/Antalya
 ideal - http://dbpedia.org/resource/Thought_experiment
-vine - http://dbpedia.org/resource/Vineyard
 turks - http://dbpedia.org/resource/Seljuq_dynasty
-city wall - http://dbpedia.org/resource/Walls_of_Constantinople
+city walls - http://dbpedia.org/resource/Walls_of_Constantinople
+depopulated - http://dbpedia.org/resource/Population_decline
 coast - http://dbpedia.org/resource/Coast
 map - http://dbpedia.org/resource/Map
 komnenian - http://dbpedia.org/resource/Komnenos
 frontier - http://dbpedia.org/resource/Frontier
 vulnerable - http://dbpedia.org/resource/Vulnerability
 themata - http://dbpedia.org/resource/Theme_(Byzantine_district)
-region - http://dbpedia.org/resource/Region
 fault - http://dbpedia.org/resource/Transform_fault
 komnenoi - http://dbpedia.org/resource/Komnenos
 alexios - http://dbpedia.org/resource/Alexios_I_Komnenos
 dysfunctional - http://dbpedia.org/resource/Dysfunctional_family
 piecemeal - http://dbpedia.org/resource/Proteus_(Marvel_Comics)
 warfare - http://dbpedia.org/resource/War
-civil war - http://dbpedia.org/resource/Civil_war
+civil wars - http://dbpedia.org/resource/Civil_war
 basil ii - http://dbpedia.org/resource/Basil_II
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 ancient rome - http://dbpedia.org/resource/Ancient_Rome
 komnenoi - http://dbpedia.org/resource/Komnenos
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 emperor - http://dbpedia.org/resource/Byzantine_Empire
@@ -318,7 +297,6 @@ byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 komnenoi - http://dbpedia.org/resource/Komnenos
 asia minor - http://dbpedia.org/resource/Anatolia
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
-rely - http://dbpedia.org/resource/Rely_(brand)
 anatolia - http://dbpedia.org/resource/Anatolia
 approximation - http://dbpedia.org/resource/Approximation
 balkans - http://dbpedia.org/resource/Balkans
@@ -335,8 +313,6 @@ turkey - http://dbpedia.org/resource/Turkey
 population density - http://dbpedia.org/resource/Population_density
 map - http://dbpedia.org/resource/Map
 anatolian - http://dbpedia.org/resource/Anatolia
-cluster - http://dbpedia.org/resource/Cluster_munition
-coast - http://dbpedia.org/resource/Coast
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 4th crusade - http://dbpedia.org/resource/Fourth_Crusade
 nicaean - http://dbpedia.org/resource/Empire_of_Nicaea
@@ -352,10 +328,9 @@ turkish - http://dbpedia.org/resource/Turkic_peoples
 komnenoi - http://dbpedia.org/resource/Komnenos
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 upland - http://dbpedia.org/resource/Upland_and_lowland
-region - http://dbpedia.org/resource/Region
 intensive agriculture - http://dbpedia.org/resource/Intensive_farming
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 seljuk - http://dbpedia.org/resource/Seljuq_dynasty
 turkey - http://dbpedia.org/resource/Turkey
 john freely - http://dbpedia.org/resource/John_Freely
@@ -374,11 +349,11 @@ amazon.com - http://dbpedia.org/resource/Amazon_(company)
 posti - http://dbpedia.org/resource/Posti_Group
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 ancient rome - http://dbpedia.org/resource/Ancient_Rome
 komnenoi - http://dbpedia.org/resource/Komnenos
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-mercenary - http://dbpedia.org/resource/Mercenary
+mercenaries - http://dbpedia.org/resource/Mercenary
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 emperor - http://dbpedia.org/resource/Byzantine_Empire
@@ -391,8 +366,9 @@ theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 militia - http://dbpedia.org/resource/Militia
+standing army - http://dbpedia.org/resource/Standing_army
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-invasion - http://dbpedia.org/resource/Invasion
+arab invasions - http://dbpedia.org/resource/Spread_of_Islam
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 komnenian army - http://dbpedia.org/resource/Byzantine_army_(Komnenian_era)
@@ -420,7 +396,6 @@ bulgaria - http://dbpedia.org/resource/Second_Bulgarian_Empire
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
 medieval - http://dbpedia.org/resource/Middle_Ages
 imperium - http://dbpedia.org/resource/Imperium
-book book - http://dbpedia.org/resource/Book_Book,_New_South_Wales
 posti - http://dbpedia.org/resource/Posti_Group
 brill - http://dbpedia.org/resource/Brill_(fish)
 hardback - http://dbpedia.org/resource/Hardcover
@@ -437,8 +412,6 @@ bulgaria - http://dbpedia.org/resource/Second_Bulgarian_Empire
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
 medieval - http://dbpedia.org/resource/Middle_Ages
 imperium - http://dbpedia.org/resource/Imperium
-book book - http://dbpedia.org/resource/Book_Book,_New_South_Wales
-eavesdrop - http://dbpedia.org/resource/Eavesdropping
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
 democracy - http://dbpedia.org/resource/Democracy
 kinda - http://dbpedia.org/resource/Kindah

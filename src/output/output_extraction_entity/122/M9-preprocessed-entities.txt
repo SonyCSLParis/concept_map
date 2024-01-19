@@ -1,10 +1,8 @@
 sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
-bear - http://dbpedia.org/resource/Bear
 abt - http://dbpedia.org/resource/Control_car
 abt - http://dbpedia.org/resource/Control_car
 compton - http://dbpedia.org/resource/Denis_Compton
 warwickshire - http://dbpedia.org/resource/Warwickshire
-die - http://dbpedia.org/resource/Death
 compton - http://dbpedia.org/resource/Denis_Compton
 warwickshire - http://dbpedia.org/resource/Warwickshire
 brereton - http://dbpedia.org/resource/Brereton_Hall
@@ -16,7 +14,7 @@ berkeley - http://dbpedia.org/resource/George_Berkeley
 stourton - http://dbpedia.org/resource/Stourton_with_Gasper
 francis - http://dbpedia.org/resource/Francis_I_of_France
 cheney - http://dbpedia.org/resource/Thomas_Cheney
-peter - http://dbpedia.org/resource/Saint_Peter
+1 peter - http://dbpedia.org/resource/First_Epistle_of_Peter
 compton - http://dbpedia.org/resource/Denis_Compton
 catherine - http://dbpedia.org/resource/Catherine_of_Aragon
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
@@ -51,7 +49,6 @@ catalina - http://dbpedia.org/resource/Consolidated_PBY_Catalina
 ambassador - http://dbpedia.org/resource/Ambassador
 sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 henry - http://dbpedia.org/resource/Henry_(unit)
-court - http://dbpedia.org/resource/Royal_court
 anne - http://dbpedia.org/resource/Anne_Boleyn
 lady hastings - http://dbpedia.org/resource/Sarah_Harington
 compton - http://dbpedia.org/resource/Denis_Compton
@@ -65,7 +62,7 @@ buckingham - http://dbpedia.org/resource/Buckingham
 compton - http://dbpedia.org/resource/Denis_Compton
 court - http://dbpedia.org/resource/Royal_court
 anne - http://dbpedia.org/resource/Anne_Boleyn
-safety - http://dbpedia.org/resource/Safety
+safety - http://dbpedia.org/resource/Occupational_safety_and_health
 nunnery - http://dbpedia.org/resource/Abbey
 henry - http://dbpedia.org/resource/Henry_(unit)
 compton - http://dbpedia.org/resource/Denis_Compton
@@ -80,25 +77,18 @@ anne - http://dbpedia.org/resource/Anne_Boleyn
 compton - http://dbpedia.org/resource/Denis_Compton
 sacrament - http://dbpedia.org/resource/Eucharist
 guilt - http://dbpedia.org/resource/Original_sin
-belie - http://dbpedia.org/resource/Belie
 chantry - http://dbpedia.org/resource/Chantry
-prayer - http://dbpedia.org/resource/Prayer
 soul - http://dbpedia.org/resource/Soul
 family - http://dbpedia.org/resource/Family
 leicestershire - http://dbpedia.org/resource/Leicestershire
-earmark - http://dbpedia.org/resource/Hypothecated_tax
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
-manorial - http://dbpedia.org/resource/Manorialism
+manorial rights - http://dbpedia.org/resource/Manorialism
 sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 tudor - http://dbpedia.org/resource/House_of_Tudor
 tower - http://dbpedia.org/resource/Keep
-brick - http://dbpedia.org/resource/Brick
 tudor - http://dbpedia.org/resource/House_of_Tudor
-brick - http://dbpedia.org/resource/Brick
-theory - http://dbpedia.org/resource/Theory
 tower - http://dbpedia.org/resource/Keep
-mew - http://dbpedia.org/resource/Mews_(falconry)
-bird - http://dbpedia.org/resource/Bird
+mews - http://dbpedia.org/resource/Mews
 prey - http://dbpedia.org/resource/Predation
 medieval - http://dbpedia.org/resource/England_in_the_Middle_Ages
 falconry - http://dbpedia.org/resource/Falconry
@@ -111,11 +101,9 @@ sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 john st. leger - http://dbpedia.org/resource/John_St._Leger_(died_1596)
 bride - http://dbpedia.org/resource/Bride
 dowry - http://dbpedia.org/resource/Dowry
-family - http://dbpedia.org/resource/Family
 marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
 catherine - http://dbpedia.org/resource/Catherine_of_Aragon
 compton - http://dbpedia.org/resource/Denis_Compton
-die - http://dbpedia.org/resource/Death
 sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 groom - http://dbpedia.org/resource/Bridegroom
 gentleman - http://dbpedia.org/resource/Landed_gentry
@@ -124,6 +112,8 @@ privy purse - http://dbpedia.org/resource/Privy_Purse
 thorn - http://dbpedia.org/resource/Crataegus_monogyna
 wolsey - http://dbpedia.org/resource/Thomas_Wolsey
 flesh - http://dbpedia.org/resource/Flesh
+mignons - http://dbpedia.org/resource/Les_Mignons
+minor victories - http://dbpedia.org/resource/Minor_Victories
 margaret dymoke - http://dbpedia.org/resource/Margaret_Dymoke
 sir richard vernon - http://dbpedia.org/resource/Richard_Vernon_(speaker)
 haddon hall - http://dbpedia.org/resource/Haddon_Hall

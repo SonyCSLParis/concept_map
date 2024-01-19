@@ -12,10 +12,8 @@ egyptians - http://dbpedia.org/resource/Ancient_Egypt
 bce - http://dbpedia.org/resource/Common_Era
 civilization - http://dbpedia.org/resource/Civilization
 archaeological - http://dbpedia.org/resource/Archaeology
-human - http://dbpedia.org/resource/Human
 nile river - http://dbpedia.org/resource/Nile
 bce - http://dbpedia.org/resource/Common_Era
-trait - http://dbpedia.org/resource/Phenotypic_trait
 independent - http://dbpedia.org/resource/Independence
 bce - http://dbpedia.org/resource/Common_Era
 single - http://dbpedia.org/resource/Phonograph_record
@@ -29,6 +27,7 @@ nile river - http://dbpedia.org/resource/Nile
 mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
 nile delta - http://dbpedia.org/resource/Nile_Delta
 nile - http://dbpedia.org/resource/Nile
+early kingdoms - http://dbpedia.org/resource/Tarumanagara
 soil - http://dbpedia.org/resource/Soil
 delta - http://dbpedia.org/resource/Nile_Delta
 egyptian - http://dbpedia.org/resource/Ancient_Egyptian_religion
@@ -40,7 +39,6 @@ white crown - http://dbpedia.org/resource/Hedjet
 symbol - http://dbpedia.org/resource/Symbol
 sedge - http://dbpedia.org/resource/Cyperaceae
 plant - http://dbpedia.org/resource/Plant
-resemble - http://dbpedia.org/resource/SoltyRei
 marsh grass - http://dbpedia.org/resource/Hymenachne
 unification - http://dbpedia.org/resource/Italian_unification
 archaic period - http://dbpedia.org/resource/Archaic_Greece
@@ -55,9 +53,8 @@ archaeologically - http://dbpedia.org/resource/Archaeology
 unification - http://dbpedia.org/resource/Italian_unification
 pharaohs - http://dbpedia.org/resource/Pharaoh
 double crown - http://dbpedia.org/resource/Pschent
-white crown - http://dbpedia.org/resource/Hedjet
-lead change - http://dbpedia.org/resource/Lead_(leg)
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+crowns - http://dbpedia.org/resource/Swedish_krona
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 pharaoh - http://dbpedia.org/resource/Pharaoh
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
 national deity - http://dbpedia.org/resource/National_god

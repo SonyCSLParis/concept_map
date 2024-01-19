@@ -2,10 +2,9 @@ kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 western calligraphy - http://dbpedia.org/resource/Calligraphy
 illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-artifact - http://dbpedia.org/resource/Cultural_artifact
+artifacts - http://dbpedia.org/resource/Cultural_artifact
 medieval europe - http://dbpedia.org/resource/Middle_Ages
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-north dublin - http://dbpedia.org/resource/Fingal
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 scotland - http://dbpedia.org/resource/Scotland
 ireland - http://dbpedia.org/resource/Republic_of_Ireland
@@ -14,13 +13,12 @@ latin - http://dbpedia.org/resource/Latin
 calligraphy - http://dbpedia.org/resource/Calligraphy
 homage - http://dbpedia.org/resource/Commendation_ceremony
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-notebook - http://dbpedia.org/resource/Notebook
 celtic art - http://dbpedia.org/resource/Celtic_art
 ireland - http://dbpedia.org/resource/Republic_of_Ireland
 national treasure - http://dbpedia.org/resource/National_treasure
 thames - http://dbpedia.org/resource/River_Thames
 architecture - http://dbpedia.org/resource/Architecture
 photography - http://dbpedia.org/resource/Photography
-decorative art - http://dbpedia.org/resource/Decorative_arts
+decorative arts - http://dbpedia.org/resource/Decorative_arts
 fashion - http://dbpedia.org/resource/Fashion
 spirituality - http://dbpedia.org/resource/Spirituality

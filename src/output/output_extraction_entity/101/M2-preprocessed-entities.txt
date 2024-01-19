@@ -1,4 +1,5 @@
 building 7 - http://dbpedia.org/resource/7_World_Trade_Center
+building 7 - http://dbpedia.org/resource/7_World_Trade_Center
 skyscraper - http://dbpedia.org/resource/Skyscraper
 high rise - http://dbpedia.org/resource/High-rise_building
 september 11 2001 - http://dbpedia.org/resource/September_11_attacks

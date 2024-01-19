@@ -1,11 +1,11 @@
 ancient régime - http://dbpedia.org/resource/Ancien_Régime
-drakon - http://dbpedia.org/resource/Dragons_in_Greek_mythology
-agriculture - http://dbpedia.org/resource/Agriculture
-soldier - http://dbpedia.org/resource/British_Army
-colony - http://dbpedia.org/resource/Colony
+great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
+british empire - http://dbpedia.org/resource/British_Empire
+colonial empires - http://dbpedia.org/resource/Colonialism
+colonies - http://dbpedia.org/resource/Spanish_Empire
+nt - http://dbpedia.org/resource/Nucleotide
 napoléon - http://dbpedia.org/resource/Napoleon
 sq - http://dbpedia.org/resource/Stereo_Quadraphonic
-british empire - http://dbpedia.org/resource/British_Empire
-french colonial empire - http://dbpedia.org/resource/French_colonial_empire
-great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 food - http://dbpedia.org/resource/Food
+drakon - http://dbpedia.org/resource/Dragons_in_Greek_mythology
+agriculture - http://dbpedia.org/resource/Agriculture

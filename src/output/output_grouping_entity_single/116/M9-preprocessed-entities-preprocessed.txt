@@ -1,48 +1,40 @@
-escarpment - http://dbpedia.org/resource/Escarpment
+police - http://dbpedia.org/resource/Police
 family - http://dbpedia.org/resource/Family
-formal garden - http://dbpedia.org/resource/Formal_garden
-lake - http://dbpedia.org/resource/Lake
-lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
-landscape - http://dbpedia.org/resource/Landscape_architect
+italian gardens - http://dbpedia.org/resource/Italian_Renaissance_garden
+century house - http://dbpedia.org/resource/Century_House,_London
+eccentricities - http://dbpedia.org/resource/Orbital_eccentricity
 red cross - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+ha - http://dbpedia.org/resource/Hectare
+portsmouth - http://dbpedia.org/resource/Portsmouth
 jacobean - http://dbpedia.org/resource/Jacobean_architecture
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+henley - http://dbpedia.org/resource/Henley-on-Thames
+medieval - http://dbpedia.org/resource/Medieval_architecture
+embankments - http://dbpedia.org/resource/Levee
+grade ii listed - http://dbpedia.org/resource/Listed_building
 harringworth - http://dbpedia.org/resource/Harringworth
 splendid - http://dbpedia.org/resource/Le_Splendid
-pavilion - http://dbpedia.org/resource/Pavilion
-elevation - http://dbpedia.org/resource/Multiview_projection
-police - http://dbpedia.org/resource/Police
-queen anne - http://dbpedia.org/resource/Queen_Anne_style_architecture
-exile - http://dbpedia.org/resource/Exile
-century house - http://dbpedia.org/resource/Century_House,_London
-project wing - http://dbpedia.org/resource/X_(company)
-chapel - http://dbpedia.org/resource/Chapel
-edward 11th baron zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
-tree - http://dbpedia.org/resource/Tree
-bramshill house - http://dbpedia.org/resource/Bramshill_House
-plateau - http://dbpedia.org/resource/Plateau
-courtyard - http://dbpedia.org/resource/Courtyard
-embankment - http://dbpedia.org/resource/Levee
-river hart - http://dbpedia.org/resource/River_Hart
-prodigy house - http://dbpedia.org/resource/Prodigy_house
-heathland - http://dbpedia.org/resource/Heath
-mixed woodland - http://dbpedia.org/resource/Woodland
-great house - http://dbpedia.org/resource/Great_house
-lawn - http://dbpedia.org/resource/Lawn
-mezzanine - http://dbpedia.org/resource/Mezzanine
-mansion - http://dbpedia.org/resource/English_country_house
-middle house - http://dbpedia.org/resource/Burwash_Hall
-wall garden - http://dbpedia.org/resource/Walled_garden
-perch - http://dbpedia.org/resource/Perch
-evacuee - http://dbpedia.org/resource/Evacuations_of_civilians_in_Britain_during_World_War_II
-belt - http://dbpedia.org/resource/Belt_armor
-south terrace - http://dbpedia.org/resource/South_Terrace,_Adelaide
-italian gardens - http://dbpedia.org/resource/Italian_Renaissance_garden
-grade ii - http://dbpedia.org/resource/Listed_building
-henley - http://dbpedia.org/resource/Henley-on-Thames
-eccentricity - http://dbpedia.org/resource/Ellipse
-ha - http://dbpedia.org/resource/Hectare
 sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
-veteran tree - http://dbpedia.org/resource/Veteran_tree
-portsmouth - http://dbpedia.org/resource/Portsmouth
-medieval - http://dbpedia.org/resource/Medieval_architecture
-walled garden - http://dbpedia.org/resource/Walled_garden
+heathland - http://dbpedia.org/resource/Heath
+pavilion - http://dbpedia.org/resource/Pavilion
+escarpment - http://dbpedia.org/resource/Escarpment
+listed - http://dbpedia.org/resource/Listed_building
+elevation - http://dbpedia.org/resource/Multiview_projection
+belt - http://dbpedia.org/resource/Belt_armor
+chapel - http://dbpedia.org/resource/Chapel
+river hart - http://dbpedia.org/resource/River_Hart
+evacuee - http://dbpedia.org/resource/Evacuations_of_civilians_in_Britain_during_World_War_II
+mezzanine - http://dbpedia.org/resource/Mezzanine
+courtyard - http://dbpedia.org/resource/Courtyard
+prodigy houses - http://dbpedia.org/resource/Prodigy_house
+mansion - http://dbpedia.org/resource/English_country_house
+lake - http://dbpedia.org/resource/Lake
+edward 11th baron zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+mixed woodland - http://dbpedia.org/resource/Woodland
+tree avenues - http://dbpedia.org/resource/Avenue_(landscape)
+great houses - http://dbpedia.org/resource/Great_house
+queen anne - http://dbpedia.org/resource/Queen_Anne_style_architecture
+landscape - http://dbpedia.org/resource/Landscape_architect
+plateau - http://dbpedia.org/resource/Plateau
+stairs - http://dbpedia.org/resource/Stairs

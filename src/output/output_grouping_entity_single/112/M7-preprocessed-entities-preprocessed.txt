@@ -1,29 +1,31 @@
-magnifying glass - http://dbpedia.org/resource/Magnifying_glass
+hebrew - http://dbpedia.org/resource/Hebrew_language
+ancient ireland - http://dbpedia.org/resource/Prehistoric_Ireland
+viking raids - http://dbpedia.org/resource/Lindisfarne
+leaves - http://dbpedia.org/resource/Recto_and_verso
+square inch - http://dbpedia.org/resource/Square_inch
 monastery - http://dbpedia.org/resource/Monastery
-archbishop ussher - http://dbpedia.org/resource/James_Ussher
-celtic art - http://dbpedia.org/resource/Celtic_art
-angel - http://dbpedia.org/resource/Angel
-cannon - http://dbpedia.org/resource/Cannon
-saint - http://dbpedia.org/resource/Saint
-trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
-library - http://dbpedia.org/resource/Biblioteca_Marciana
+church - http://dbpedia.org/resource/Catholic_Church
+saints - http://dbpedia.org/resource/Saint
 roman catholic church - http://dbpedia.org/resource/Catholic_Church
+water - http://dbpedia.org/resource/Water
+amazing - http://dbpedia.org/resource/Earth-616
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospels - http://dbpedia.org/resource/Gospel
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+magnifying glass - http://dbpedia.org/resource/Magnifying_glass
+western europe - http://dbpedia.org/resource/Western_Europe
+angels - http://dbpedia.org/resource/Angel
 iona - http://dbpedia.org/resource/Iona
 calfskin - http://dbpedia.org/resource/Calfskin
-hebrew - http://dbpedia.org/resource/Hebrew_language
-amazing - http://dbpedia.org/resource/Earth-616
-ribbon - http://dbpedia.org/resource/Ribbon
-ireland - http://dbpedia.org/resource/Ireland
 st. columba - http://dbpedia.org/resource/Columba
-ancient ireland - http://dbpedia.org/resource/Prehistoric_Ireland
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-square inch - http://dbpedia.org/resource/Square_inch
-church - http://dbpedia.org/resource/Catholic_Church
-luke - http://dbpedia.org/resource/Luke_the_Evangelist
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-county meath - http://dbpedia.org/resource/County_Meath
+library - http://dbpedia.org/resource/Biblioteca_Marciana
+celtic art - http://dbpedia.org/resource/Celtic_art
+ireland - http://dbpedia.org/resource/Ireland
+ribbon - http://dbpedia.org/resource/Ribbon
+ditch - http://dbpedia.org/resource/Hadrian's_Wall
 symbol - http://dbpedia.org/resource/Christian_symbolism
 christ - http://dbpedia.org/resource/Jesus
-western europe - http://dbpedia.org/resource/Western_Europe
-ditch - http://dbpedia.org/resource/Hadrian's_Wall
-water - http://dbpedia.org/resource/Water
+county meath - http://dbpedia.org/resource/County_Meath
+luke - http://dbpedia.org/resource/Luke_the_Evangelist
+archbishop ussher - http://dbpedia.org/resource/James_Ussher

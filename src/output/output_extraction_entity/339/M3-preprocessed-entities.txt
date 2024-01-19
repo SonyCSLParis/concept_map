@@ -9,29 +9,26 @@ ph.d. - http://dbpedia.org/resource/Thesis
 abstract - http://dbpedia.org/resource/Abstraction
 unstoppable - http://dbpedia.org/resource/The_39_Clues
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-circle - http://dbpedia.org/resource/Circle
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 sovereign - http://dbpedia.org/resource/Sovereignty
 doctrine - http://dbpedia.org/resource/Doctrine
 james madison - http://dbpedia.org/resource/James_Madison
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 essay - http://dbpedia.org/resource/Essay
 madison - http://dbpedia.org/resource/Madison_(cycling)
 single - http://dbpedia.org/resource/Phonograph_record
-law - http://dbpedia.org/resource/Common_law
 madison - http://dbpedia.org/resource/Madison_(cycling)
 interposition - http://dbpedia.org/resource/Interposition
 public opinion - http://dbpedia.org/resource/Public_opinion
-petition - http://dbpedia.org/resource/Lawsuit
-legislature - http://dbpedia.org/resource/Legislature
 conformity - http://dbpedia.org/resource/Conformity
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 interposition - http://dbpedia.org/resource/Interposition
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 justification - http://dbpedia.org/resource/Defamation
-liberal conservative - http://dbpedia.org/resource/Liberal_conservatism
+liberal - http://dbpedia.org/resource/Liberalism
+conservative - http://dbpedia.org/resource/Conservatism
+american politics - http://dbpedia.org/resource/Politics_of_the_United_States
 invocation - http://dbpedia.org/resource/Glossary_of_ancient_Roman_religion
 doctrine - http://dbpedia.org/resource/Doctrine
 nullification - http://dbpedia.org/resource/Nullification_Crisis
@@ -39,11 +36,9 @@ secession - http://dbpedia.org/resource/Secession
 james madison - http://dbpedia.org/resource/James_Madison
 madison - http://dbpedia.org/resource/Madison_(cycling)
 single - http://dbpedia.org/resource/Phonograph_record
-law - http://dbpedia.org/resource/Common_law
 doctrine - http://dbpedia.org/resource/Doctrine
 interposition - http://dbpedia.org/resource/Interposition
 nullification - http://dbpedia.org/resource/Nullification_Crisis
-link time - http://dbpedia.org/resource/Link_time
 madison - http://dbpedia.org/resource/Madison_(cycling)
 interposition - http://dbpedia.org/resource/Interposition
 essay - http://dbpedia.org/resource/Essay
@@ -59,17 +54,15 @@ constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 conformity - http://dbpedia.org/resource/Conformity
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+written constitution - http://dbpedia.org/resource/Constitution
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 essay - http://dbpedia.org/resource/Essay
-pertain - http://dbpedia.org/resource/Pertain
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign people - http://dbpedia.org/resource/Sovereign_People
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 doctrine - http://dbpedia.org/resource/Doctrine
 interposition - http://dbpedia.org/resource/Interposition
 nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 interposition - http://dbpedia.org/resource/Interposition
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 language - http://dbpedia.org/resource/Language
@@ -86,7 +79,6 @@ sovereign - http://dbpedia.org/resource/Sovereignty
 madison - http://dbpedia.org/resource/Madison_(cycling)
 theory - http://dbpedia.org/resource/Theory
 interposition - http://dbpedia.org/resource/Interposition
-monitor - http://dbpedia.org/resource/Computer_monitor
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 adoption - http://dbpedia.org/resource/Adoption
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -96,7 +88,7 @@ federal system - http://dbpedia.org/resource/Common_law
 sovereign - http://dbpedia.org/resource/Sovereignty
 national constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereignty - http://dbpedia.org/resource/Sovereignty
-sovereign individual - http://dbpedia.org/resource/Self-ownership
+sovereign - http://dbpedia.org/resource/Sovereignty
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
@@ -110,25 +102,18 @@ interposition - http://dbpedia.org/resource/Interposition
 spirited - http://dbpedia.org/resource/Spirited
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 interposition - http://dbpedia.org/resource/Interposition
-law - http://dbpedia.org/resource/Common_law
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 health - http://dbpedia.org/resource/Health
 involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-legislature - http://dbpedia.org/resource/Legislature
 sovereign - http://dbpedia.org/resource/Sovereignty
 national constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
 federalist - http://dbpedia.org/resource/Federalism
-legislature - http://dbpedia.org/resource/Legislature
 federal system - http://dbpedia.org/resource/Common_law
-legislature - http://dbpedia.org/resource/Legislature
-hamilton sound - http://dbpedia.org/resource/Sir_Charles_Hamilton_Sound
-exceed - http://dbpedia.org/resource/Hummingbird_Ltd.
+hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 public opinion - http://dbpedia.org/resource/Public_opinion
-petition - http://dbpedia.org/resource/Lawsuit
 interposition - http://dbpedia.org/resource/Interposition
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 interposition - http://dbpedia.org/resource/Interposition
@@ -150,20 +135,14 @@ sun - http://dbpedia.org/resource/Sun
 sun - http://dbpedia.org/resource/Sun
 light - http://dbpedia.org/resource/Speed_of_light
 interposition - http://dbpedia.org/resource/Interposition
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 sovereign - http://dbpedia.org/resource/Sovereignty
 sovereign - http://dbpedia.org/resource/Sovereignty
 interposition - http://dbpedia.org/resource/Interposition
 sovereign - http://dbpedia.org/resource/Sovereignty
 sovereign - http://dbpedia.org/resource/Sovereignty
-law - http://dbpedia.org/resource/Common_law
 interposer - http://dbpedia.org/resource/Interposer
 public opinion - http://dbpedia.org/resource/Public_opinion
-petition - http://dbpedia.org/resource/Lawsuit
-legislature - http://dbpedia.org/resource/Legislature
 conformity - http://dbpedia.org/resource/Conformity
-mandate - http://dbpedia.org/resource/Mandate_of_Heaven
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 interposition - http://dbpedia.org/resource/Interposition
 interposition - http://dbpedia.org/resource/Interposition
 light - http://dbpedia.org/resource/Speed_of_light
@@ -174,31 +153,27 @@ u.s. supreme court justice - http://dbpedia.org/resource/Supreme_Court_of_the_Un
 levi woodbury - http://dbpedia.org/resource/Levi_Woodbury
 nullity - http://dbpedia.org/resource/Declaration_of_nullity
 law - http://dbpedia.org/resource/Common_law
+doings - http://dbpedia.org/resource/Doings
 public opinion - http://dbpedia.org/resource/Public_opinion
-amendment - http://dbpedia.org/resource/Law
+fourths - http://dbpedia.org/resource/Subdominant
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 interposition - http://dbpedia.org/resource/Interposition
 communication - http://dbpedia.org/resource/Communication
-deliberation - http://dbpedia.org/resource/Deliberative_democracy
 regularized - http://dbpedia.org/resource/Tikhonov_regularization
-legislature - http://dbpedia.org/resource/Legislature
-legislature - http://dbpedia.org/resource/Legislature
-law - http://dbpedia.org/resource/Common_law
+learning - http://dbpedia.org/resource/Learning
 lag - http://dbpedia.org/resource/Lag
 interposition - http://dbpedia.org/resource/Interposition
 communication - http://dbpedia.org/resource/Communication
-legislator - http://dbpedia.org/resource/Legislature
-legislator - http://dbpedia.org/resource/Legislature
 washington - http://dbpedia.org/resource/George_Washington
 interposition - http://dbpedia.org/resource/Interposition
-virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-senator - http://dbpedia.org/resource/Roman_Senate
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+legislature - http://dbpedia.org/resource/Legislature
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 senate - http://dbpedia.org/resource/Roman_Senate
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 legislature - http://dbpedia.org/resource/Legislature
-senator - http://dbpedia.org/resource/Roman_Senate
+legislature - http://dbpedia.org/resource/Legislature
 sovereign people - http://dbpedia.org/resource/Sovereign_People
 pennsylvania - http://dbpedia.org/resource/Province_of_Pennsylvania
 excise tax - http://dbpedia.org/resource/Excise
@@ -206,7 +181,6 @@ impose - http://dbpedia.org/resource/Impose_(magazine)
 legislature - http://dbpedia.org/resource/Legislature
 interposition - http://dbpedia.org/resource/Interposition
 legislature - http://dbpedia.org/resource/Legislature
-liberty - http://dbpedia.org/resource/Liberty
 pennsylvania - http://dbpedia.org/resource/Province_of_Pennsylvania
 interposition - http://dbpedia.org/resource/Interposition
 legislature - http://dbpedia.org/resource/Legislature
@@ -214,14 +188,14 @@ excise - http://dbpedia.org/resource/Tax
 misguided - http://dbpedia.org/resource/Misguided
 maryland - http://dbpedia.org/resource/Maryland
 interposition - http://dbpedia.org/resource/Interposition
-legislature - http://dbpedia.org/resource/Legislature
 approbation - http://dbpedia.org/resource/Imprimatur
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 interposition - http://dbpedia.org/resource/Interposition
-lessen - http://dbpedia.org/resource/Łasin
 communication - http://dbpedia.org/resource/Communication
 infrastructure - http://dbpedia.org/resource/Infrastructure
+telegraphs - http://dbpedia.org/resource/Telegraphy
+railroads - http://dbpedia.org/resource/Rail_transport
 interposition - http://dbpedia.org/resource/Interposition
 stigma - http://dbpedia.org/resource/Mental_disorder
 doctrine - http://dbpedia.org/resource/Doctrine
@@ -230,8 +204,6 @@ communication - http://dbpedia.org/resource/Communication
 revolution - http://dbpedia.org/resource/Revolution
 civil war - http://dbpedia.org/resource/Civil_war
 interposition - http://dbpedia.org/resource/Interposition
-legislature - http://dbpedia.org/resource/Legislature
-senator - http://dbpedia.org/resource/Roman_Senate
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
 interposition - http://dbpedia.org/resource/Interposition
@@ -239,15 +211,15 @@ virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 interposition - http://dbpedia.org/resource/Interposition
 interference - http://dbpedia.org/resource/Wave_interference
-federalist - http://dbpedia.org/resource/Federalism
-pass law - http://dbpedia.org/resource/Pass_laws
+federalists - http://dbpedia.org/resource/Federalism
 law - http://dbpedia.org/resource/Common_law
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 president - http://dbpedia.org/resource/President_of_the_United_States
 deport - http://dbpedia.org/resource/Deportation
-alien - http://dbpedia.org/resource/Extraterrestrial_life
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
 peace - http://dbpedia.org/resource/Peace
 safety - http://dbpedia.org/resource/Safety
+machinations - http://dbpedia.org/resource/Machinations_(band)
 sedition - http://dbpedia.org/resource/Sedition
 president - http://dbpedia.org/resource/President_of_the_United_States
 federalist - http://dbpedia.org/resource/Federalism
@@ -255,15 +227,12 @@ sedition - http://dbpedia.org/resource/Sedition
 republicans - http://dbpedia.org/resource/Republicanism
 federalist - http://dbpedia.org/resource/Federalism
 bias - http://dbpedia.org/resource/Bias
-newspaper - http://dbpedia.org/resource/News_media
 republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
 sedition - http://dbpedia.org/resource/Sedition
 republicans - http://dbpedia.org/resource/Republicanism
-newspaper - http://dbpedia.org/resource/News_media
 federalist - http://dbpedia.org/resource/Federalism
 republicans - http://dbpedia.org/resource/Republicanism
 alien - http://dbpedia.org/resource/Extraterrestrial_life
-exceed - http://dbpedia.org/resource/Hummingbird_Ltd.
 sedition - http://dbpedia.org/resource/Sedition
 amendment - http://dbpedia.org/resource/Law
 thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
@@ -278,41 +247,30 @@ alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
 madison - http://dbpedia.org/resource/Madison_(cycling)
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-draft - http://dbpedia.org/resource/Conscription
-legislature - http://dbpedia.org/resource/Legislature
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky - http://dbpedia.org/resource/Kentucky
 interposition - http://dbpedia.org/resource/Interposition
 madison - http://dbpedia.org/resource/Madison_(cycling)
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-draft - http://dbpedia.org/resource/Conscription
+learning - http://dbpedia.org/resource/Learning
 sedition - http://dbpedia.org/resource/Sedition
 kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-legislature - http://dbpedia.org/resource/Legislature
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 governor - http://dbpedia.org/resource/Governor
-legislature - http://dbpedia.org/resource/Legislature
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky - http://dbpedia.org/resource/Kentucky
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-legislature - http://dbpedia.org/resource/Legislature
-law - http://dbpedia.org/resource/Common_law
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 legislature - http://dbpedia.org/resource/Legislature
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 sovereign people - http://dbpedia.org/resource/Sovereign_People
-law - http://dbpedia.org/resource/Common_law
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
@@ -321,35 +279,33 @@ madison - http://dbpedia.org/resource/Madison_(cycling)
 legislature - http://dbpedia.org/resource/Legislature
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 legislature - http://dbpedia.org/resource/Legislature
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 dead letter - http://dbpedia.org/resource/Legislation
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 madison - http://dbpedia.org/resource/Madison_(cycling)
 legislature - http://dbpedia.org/resource/Legislature
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 collective action - http://dbpedia.org/resource/Collective_action
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
 governor - http://dbpedia.org/resource/Governor
 james garrard - http://dbpedia.org/resource/James_Garrard
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
-legislator - http://dbpedia.org/resource/Legislature
 censure - http://dbpedia.org/resource/Censure
 legislature - http://dbpedia.org/resource/Legislature
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 kentucky - http://dbpedia.org/resource/Kentucky
 resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
-virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 interposition - http://dbpedia.org/resource/Interposition
 legislature - http://dbpedia.org/resource/Legislature
 kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 madison - http://dbpedia.org/resource/Madison_(cycling)
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
@@ -360,66 +316,51 @@ john taylor - http://dbpedia.org/resource/John_Taylor_of_Caroline
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
-law - http://dbpedia.org/resource/Common_law
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
 madison - http://dbpedia.org/resource/Madison_(cycling)
-reiterate - http://dbpedia.org/resource/Reiterate
 legislature - http://dbpedia.org/resource/Legislature
 law - http://dbpedia.org/resource/Common_law
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-legislator - http://dbpedia.org/resource/Legislature
 legislature - http://dbpedia.org/resource/Legislature
 federal pact - http://dbpedia.org/resource/Federal_Pact
 judge - http://dbpedia.org/resource/Judge
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-legislature - http://dbpedia.org/resource/Legislature
+rendering - http://dbpedia.org/resource/Extraordinary_rendition
 confederation - http://dbpedia.org/resource/Confederation
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 compact - http://dbpedia.org/resource/Compact_theory
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 interposition - http://dbpedia.org/resource/Interposition
-legislature - http://dbpedia.org/resource/Legislature
 resort - http://dbpedia.org/resource/Resort
 interposition - http://dbpedia.org/resource/Interposition
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 madison - http://dbpedia.org/resource/Madison_(cycling)
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-legislator - http://dbpedia.org/resource/Legislature
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+kentucky - http://dbpedia.org/resource/Kentucky
 alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
 ratification - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
-legislature - http://dbpedia.org/resource/Legislature
-hamilton function - http://dbpedia.org/resource/Hamiltonian_mechanics
-exceed - http://dbpedia.org/resource/Hummingbird_Ltd.
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
-legislature - http://dbpedia.org/resource/Legislature
+hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 john taylor - http://dbpedia.org/resource/John_Taylor_of_Caroline
-legislature - http://dbpedia.org/resource/Legislature
 judge - http://dbpedia.org/resource/Judge
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 guardianship - http://dbpedia.org/resource/Legal_guardian
-legislator - http://dbpedia.org/resource/Legislature
 madison - http://dbpedia.org/resource/Madison_(cycling)
-eye - http://dbpedia.org/resource/Human_eye
-entrust - http://dbpedia.org/resource/Entrust
-tongue tie - http://dbpedia.org/resource/Ankyloglossia
 censure - http://dbpedia.org/resource/Censure
-legislator - http://dbpedia.org/resource/Legislature
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky - http://dbpedia.org/resource/Kentucky
 stream - http://dbpedia.org/resource/Streaming_media
-petition - http://dbpedia.org/resource/Lawsuit
+counties - http://dbpedia.org/resource/County
 york - http://dbpedia.org/resource/House_of_York
 pennsylvania - http://dbpedia.org/resource/Province_of_Pennsylvania
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
@@ -430,44 +371,40 @@ wilson cary nicholas - http://dbpedia.org/resource/Wilson_Cary_Nicholas
 town - http://dbpedia.org/resource/Town
 kentuckian - http://dbpedia.org/resource/Kentucky
 legislature - http://dbpedia.org/resource/Legislature
-petition - http://dbpedia.org/resource/Lawsuit
+remonstrances - http://dbpedia.org/resource/Remonstrances
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-congressional delegate - http://dbpedia.org/resource/Non-voting_members_of_the_United_States_House_of_Representatives
 federalist - http://dbpedia.org/resource/Federalism
-rally - http://dbpedia.org/resource/Protest
-legislature - http://dbpedia.org/resource/Legislature
+rallying - http://dbpedia.org/resource/Rallying
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 federalist - http://dbpedia.org/resource/Federalism
 george washington - http://dbpedia.org/resource/George_Washington
+party politics - http://dbpedia.org/resource/Political_party
 republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
 deaf - http://dbpedia.org/resource/Hearing_loss
-law point - http://dbpedia.org/resource/Law_Point
-virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 washington - http://dbpedia.org/resource/George_Washington
-fear - http://dbpedia.org/resource/Fear
-echo - http://dbpedia.org/resource/Echo
-federalist - http://dbpedia.org/resource/Federalism
+federalists - http://dbpedia.org/resource/Federalism
 massachusetts - http://dbpedia.org/resource/Province_of_Massachusetts_Bay
 federalist - http://dbpedia.org/resource/Federalism
 theodore sedgwick - http://dbpedia.org/resource/Theodore_Sedgwick
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 timothy pickering - http://dbpedia.org/resource/Timothy_Pickering
 disobey - http://dbpedia.org/resource/Disobey
-law - http://dbpedia.org/resource/Common_law
 constitutional interpretation - http://dbpedia.org/resource/Judicial_interpretation
-federal court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+vested - http://dbpedia.org/resource/Vestment
+federal courts - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
-federalist - http://dbpedia.org/resource/Federalism
-legislature - http://dbpedia.org/resource/Legislature
+federalists - http://dbpedia.org/resource/Federalism
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky - http://dbpedia.org/resource/Kentucky
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 anarchy - http://dbpedia.org/resource/Anarchy
-republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
+republicans - http://dbpedia.org/resource/Republicanism
 judiciary - http://dbpedia.org/resource/Judiciary
 interpreter - http://dbpedia.org/resource/Music
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -477,9 +414,8 @@ senate - http://dbpedia.org/resource/Roman_Senate
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 legislature - http://dbpedia.org/resource/Legislature
 republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
-legislator - http://dbpedia.org/resource/Legislature
 vermont - http://dbpedia.org/resource/Vermont
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 watchful - http://dbpedia.org/resource/Watchful
 scrupulosity - http://dbpedia.org/resource/Scrupulosity
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -490,35 +426,31 @@ judiciary - http://dbpedia.org/resource/Judiciary
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
 john taylor - http://dbpedia.org/resource/John_Taylor_of_Caroline
-people nation - http://dbpedia.org/resource/People_Nation
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
-legislator - http://dbpedia.org/resource/Legislature
 madison - http://dbpedia.org/resource/Madison_(cycling)
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
-draft - http://dbpedia.org/resource/Conscription
+kentucky - http://dbpedia.org/resource/Kentucky
 madison - http://dbpedia.org/resource/Madison_(cycling)
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 kentucky - http://dbpedia.org/resource/Kentucky
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 secede - http://dbpedia.org/resource/Secession
 harmony - http://dbpedia.org/resource/Harmony
-kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+kentucky - http://dbpedia.org/resource/Kentucky
+legislature - http://dbpedia.org/resource/Legislature
 sovereign - http://dbpedia.org/resource/Sovereignty
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judge - http://dbpedia.org/resource/Judge
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 nullification - http://dbpedia.org/resource/Nullification_Crisis
-sovereignty - http://dbpedia.org/resource/Sovereignty
+sovereignties - http://dbpedia.org/resource/Sovereignty
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 kentucky - http://dbpedia.org/resource/Kentucky
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
-law - http://dbpedia.org/resource/Common_law
 bow - http://dbpedia.org/resource/Bow_and_arrow
-law - http://dbpedia.org/resource/Common_law
 legislature - http://dbpedia.org/resource/Legislature
 interposition - http://dbpedia.org/resource/Interposition
 nullification - http://dbpedia.org/resource/Nullification_Crisis
@@ -527,91 +459,78 @@ resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 draft - http://dbpedia.org/resource/Conscription
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 madison - http://dbpedia.org/resource/Madison_(cycling)
-formal reply - http://dbpedia.org/resource/Right_of_reply
-legislature - http://dbpedia.org/resource/Legislature
-virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 madison - http://dbpedia.org/resource/Madison_(cycling)
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 interposition - http://dbpedia.org/resource/Interposition
-monitor - http://dbpedia.org/resource/Computer_monitor
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
-virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 communication - http://dbpedia.org/resource/Communication
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-legislator - http://dbpedia.org/resource/Legislature
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
-recall - http://dbpedia.org/resource/Recall_election
-federalist - http://dbpedia.org/resource/Federalism
-virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
-signal - http://dbpedia.org/resource/Signal
+federalists - http://dbpedia.org/resource/Federalism
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+legislature - http://dbpedia.org/resource/Legislature
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
 madison - http://dbpedia.org/resource/Madison_(cycling)
 interposition - http://dbpedia.org/resource/Interposition
-legislature - http://dbpedia.org/resource/Legislature
-citizen legislature - http://dbpedia.org/resource/Citizen_legislature
-expression - http://dbpedia.org/resource/Freedom_of_speech
 reflection - http://dbpedia.org/resource/Introspection
-virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 interposition - http://dbpedia.org/resource/Interposition
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-legislature - http://dbpedia.org/resource/Legislature
 object - http://dbpedia.org/resource/Physical_object
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 legislature - http://dbpedia.org/resource/Legislature
 interposition - http://dbpedia.org/resource/Interposition
-legislature - http://dbpedia.org/resource/Legislature
 madison - http://dbpedia.org/resource/Madison_(cycling)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 amendment - http://dbpedia.org/resource/Law
 constitutional convention - http://dbpedia.org/resource/Constitution_of_Indiana
 interposition - http://dbpedia.org/resource/Interposition
-virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+legislature - http://dbpedia.org/resource/Legislature
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 interposition - http://dbpedia.org/resource/Interposition
-virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
-sovereign people - http://dbpedia.org/resource/Sovereign_People
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+legislature - http://dbpedia.org/resource/Legislature
+sovereign - http://dbpedia.org/resource/Sovereignty
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 sovereign - http://dbpedia.org/resource/Sovereignty
 solution - http://dbpedia.org/resource/Solution
 madison - http://dbpedia.org/resource/Madison_(cycling)
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereignty - http://dbpedia.org/resource/Sovereignty
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign people - http://dbpedia.org/resource/Sovereign_People
 absolute sovereignty - http://dbpedia.org/resource/Absolute_monarchy
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-enjoin - http://dbpedia.org/resource/Injunction
-virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+legislature - http://dbpedia.org/resource/Legislature
 revolutionary - http://dbpedia.org/resource/French_Revolution
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 sovereign - http://dbpedia.org/resource/Sovereignty
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+written constitution - http://dbpedia.org/resource/Constitution
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 plain - http://dbpedia.org/resource/John_Major
 common sense - http://dbpedia.org/resource/Common_sense
-compact - http://dbpedia.org/resource/Compact_theory
 resort - http://dbpedia.org/resource/Resort
-party party - http://dbpedia.org/resource/Party_Party_(film)
-judge - http://dbpedia.org/resource/Judge
 resort - http://dbpedia.org/resource/Resort
 madison - http://dbpedia.org/resource/Madison_(cycling)
 interposition - http://dbpedia.org/resource/Interposition
 sovereign - http://dbpedia.org/resource/Sovereignty
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-vital principle - http://dbpedia.org/resource/Vitalism
 political system - http://dbpedia.org/resource/Stalinism
 final resolution - http://dbpedia.org/resource/Final_Resolution
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -625,16 +544,15 @@ interposition - http://dbpedia.org/resource/Interposition
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 object - http://dbpedia.org/resource/Physical_object
 resort - http://dbpedia.org/resource/Resort
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 sovereign people - http://dbpedia.org/resource/Sovereign_People
-historian - http://dbpedia.org/resource/History_of_science
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 interposition - http://dbpedia.org/resource/Interposition
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
@@ -648,43 +566,38 @@ election - http://dbpedia.org/resource/Election
 public opinion - http://dbpedia.org/resource/Public_opinion
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-lead generation - http://dbpedia.org/resource/Lead_generation
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 interposition - http://dbpedia.org/resource/Interposition
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 revolutionary - http://dbpedia.org/resource/French_Revolution
 die - http://dbpedia.org/resource/Death
+generation lost - http://dbpedia.org/resource/Rise_Against_discography
 interposition - http://dbpedia.org/resource/Interposition
 nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
 tariff - http://dbpedia.org/resource/Tariff
-import - http://dbpedia.org/resource/Import
-impose - http://dbpedia.org/resource/Impose_(magazine)
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 revenue - http://dbpedia.org/resource/Tax
 tariff - http://dbpedia.org/resource/Tariff
 protectionist - http://dbpedia.org/resource/Protectionism
-import - http://dbpedia.org/resource/Import
 revenue - http://dbpedia.org/resource/Tax
+goods - http://dbpedia.org/resource/Personal_property
 tariff - http://dbpedia.org/resource/Tariff
 south carolina - http://dbpedia.org/resource/South_Carolina
-impose - http://dbpedia.org/resource/Impose_(magazine)
 tariff - http://dbpedia.org/resource/Tariff
-exceed - http://dbpedia.org/resource/Hummingbird_Ltd.
 perversion - http://dbpedia.org/resource/Paraphilia
 agriculture - http://dbpedia.org/resource/Agriculture
-tariff - http://dbpedia.org/resource/Tariff
+tariffs - http://dbpedia.org/resource/Protectionism
 interposition - http://dbpedia.org/resource/Interposition
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 south carolina - http://dbpedia.org/resource/South_Carolina
+counties - http://dbpedia.org/resource/County
 madison - http://dbpedia.org/resource/Madison_(cycling)
 orange county - http://dbpedia.org/resource/Orange_County_SC
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-legislature - http://dbpedia.org/resource/Legislature
 georgia - http://dbpedia.org/resource/Province_of_Georgia
 petition - http://dbpedia.org/resource/Lawsuit
-relief - http://dbpedia.org/resource/Welfare
+relief - http://dbpedia.org/resource/Legal_remedy
 tariff - http://dbpedia.org/resource/Tariff
 national convention - http://dbpedia.org/resource/National_Convention
 free trade - http://dbpedia.org/resource/Protectionism
@@ -699,23 +612,22 @@ south carolina - http://dbpedia.org/resource/South_Carolina
 tariff - http://dbpedia.org/resource/Tariff
 federal system - http://dbpedia.org/resource/Common_law
 tariff - http://dbpedia.org/resource/Tariff
-relief - http://dbpedia.org/resource/Welfare
+relief - http://dbpedia.org/resource/Legal_remedy
 interposition - http://dbpedia.org/resource/Interposition
-petition - http://dbpedia.org/resource/Lawsuit
+remonstrances - http://dbpedia.org/resource/Remonstrances
 interposition - http://dbpedia.org/resource/Interposition
 south carolinian - http://dbpedia.org/resource/South_Carolina
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
-petition - http://dbpedia.org/resource/Lawsuit
 tariff - http://dbpedia.org/resource/Tariff
-south carolina legislature - http://dbpedia.org/resource/South_Carolina_General_Assembly
+south carolina - http://dbpedia.org/resource/South_Carolina
+legislature - http://dbpedia.org/resource/Legislature
 tariff - http://dbpedia.org/resource/Tariff
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 philadelphia - http://dbpedia.org/resource/Philadelphia
 free trade - http://dbpedia.org/resource/Protectionism
 south carolina - http://dbpedia.org/resource/South_Carolina
 tariff - http://dbpedia.org/resource/Tariff
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 tariff - http://dbpedia.org/resource/Tariff
 solution - http://dbpedia.org/resource/Solution
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
@@ -729,9 +641,7 @@ veto - http://dbpedia.org/resource/Veto
 veto - http://dbpedia.org/resource/Veto
 veto - http://dbpedia.org/resource/Veto
 interposition - http://dbpedia.org/resource/Interposition
-reserve - http://dbpedia.org/resource/Bank_reserves
 heat - http://dbpedia.org/resource/Heat
-intensify - http://dbpedia.org/resource/Intensify
 veto - http://dbpedia.org/resource/Veto
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 secession - http://dbpedia.org/resource/Secession
@@ -756,11 +666,11 @@ national revenue - http://dbpedia.org/resource/Minister_of_National_Revenue_(Can
 november 1828 - http://dbpedia.org/resource/November_1828
 legislature - http://dbpedia.org/resource/Legislature
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
-draft - http://dbpedia.org/resource/Conscription
 south carolina - http://dbpedia.org/resource/South_Carolina
 legislature - http://dbpedia.org/resource/Legislature
 madison - http://dbpedia.org/resource/Madison_(cycling)
-virginia legislature - http://dbpedia.org/resource/Virginia_General_Assembly
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+legislature - http://dbpedia.org/resource/Legislature
 south carolina - http://dbpedia.org/resource/South_Carolina
 justification - http://dbpedia.org/resource/Defamation
 veto - http://dbpedia.org/resource/Veto
@@ -771,6 +681,7 @@ veto - http://dbpedia.org/resource/Veto
 unsettled - http://dbpedia.org/resource/Unsettled
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
+americans united - http://dbpedia.org/resource/Americans_United_for_Separation_of_Church_and_State
 sovereign - http://dbpedia.org/resource/Sovereignty
 veto - http://dbpedia.org/resource/Veto
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
@@ -788,7 +699,6 @@ veto - http://dbpedia.org/resource/Veto
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 object - http://dbpedia.org/resource/Physical_object
-sacrifice - http://dbpedia.org/resource/Sacrifice
 object - http://dbpedia.org/resource/Physical_object
 ion - http://dbpedia.org/resource/Ion
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -798,33 +708,32 @@ perversion - http://dbpedia.org/resource/Paraphilia
 tariff - http://dbpedia.org/resource/Tariff
 tariff - http://dbpedia.org/resource/Tariff
 revenue - http://dbpedia.org/resource/Tax
+manufacturing - http://dbpedia.org/resource/Manufacturing
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 theory - http://dbpedia.org/resource/Theory
 interposition - http://dbpedia.org/resource/Interposition
-envision - http://dbpedia.org/resource/Buick_Envision
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-framer - http://dbpedia.org/resource/Framer
 veto - http://dbpedia.org/resource/Veto
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 veto - http://dbpedia.org/resource/Veto
-political party - http://dbpedia.org/resource/Political_party
+political parties - http://dbpedia.org/resource/Political_party
 presidential cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
-proof theory - http://dbpedia.org/resource/Proof_theory
+theory - http://dbpedia.org/resource/Theory
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 madison - http://dbpedia.org/resource/Madison_(cycling)
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 madison - http://dbpedia.org/resource/Madison_(cycling)
 veto - http://dbpedia.org/resource/Veto
 veto - http://dbpedia.org/resource/Veto
 interposition - http://dbpedia.org/resource/Interposition
 interposition - http://dbpedia.org/resource/Interposition
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+kentucky - http://dbpedia.org/resource/Kentucky
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 single - http://dbpedia.org/resource/Phonograph_record
 veto - http://dbpedia.org/resource/Veto
@@ -856,24 +765,19 @@ secession - http://dbpedia.org/resource/Secession
 heresy - http://dbpedia.org/resource/Heresy
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 madison - http://dbpedia.org/resource/Madison_(cycling)
-doctrine - http://dbpedia.org/resource/Doctrine
-spring - http://dbpedia.org/resource/March_equinox
 poisonous - http://dbpedia.org/resource/Poison
 root - http://dbpedia.org/resource/Superuser
 root - http://dbpedia.org/resource/Superuser
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 doctrine - http://dbpedia.org/resource/Doctrine
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-wind - http://dbpedia.org/resource/Wind
 madison - http://dbpedia.org/resource/Madison_(cycling)
 veto - http://dbpedia.org/resource/Veto
 veto - http://dbpedia.org/resource/Veto
 south carolina - http://dbpedia.org/resource/South_Carolina
-proposition - http://dbpedia.org/resource/Referendum
 madison - http://dbpedia.org/resource/Madison_(cycling)
 powerless - http://dbpedia.org/resource/Powerless_(TV_series)
-aberration - http://dbpedia.org/resource/Chromosome
-muse - http://dbpedia.org/resource/Muses
+aberrations - http://dbpedia.org/resource/Optical_aberration
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 memory - http://dbpedia.org/resource/Memory
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
@@ -886,6 +790,7 @@ toxic - http://dbpedia.org/resource/Poison
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 sovereign - http://dbpedia.org/resource/Sovereignty
 elusive - http://dbpedia.org/resource/Elusive
+energized - http://dbpedia.org/resource/Energized
 revolution - http://dbpedia.org/resource/Revolution
 sovereign - http://dbpedia.org/resource/Sovereignty
 expression - http://dbpedia.org/resource/Freedom_of_speech
@@ -910,7 +815,7 @@ sovereign - http://dbpedia.org/resource/Sovereignty
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 preamble - http://dbpedia.org/resource/Preamble
-ordain - http://dbpedia.org/resource/Holy_orders
+ordained - http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 sovereign - http://dbpedia.org/resource/Sovereignty
 preamble - http://dbpedia.org/resource/Preamble
@@ -921,7 +826,6 @@ article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_contr
 ratification - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 independent - http://dbpedia.org/resource/Independence
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
 bond - http://dbpedia.org/resource/Surety
 webster - http://dbpedia.org/resource/Martell_Webster
 popular sovereignty - http://dbpedia.org/resource/Popular_sovereignty
@@ -931,18 +835,16 @@ calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 sovereign - http://dbpedia.org/resource/Sovereignty
 webster - http://dbpedia.org/resource/Martell_Webster
 sovereign - http://dbpedia.org/resource/Sovereignty
-sovereign people - http://dbpedia.org/resource/Sovereign_People
+sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 webster - http://dbpedia.org/resource/Martell_Webster
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 theory - http://dbpedia.org/resource/Theory
 veto - http://dbpedia.org/resource/Veto
-rely - http://dbpedia.org/resource/Rely_(brand)
 natural law - http://dbpedia.org/resource/Natural_law
 resistance - http://dbpedia.org/resource/Resistance_movement
 tyranny - http://dbpedia.org/resource/Tyrant
@@ -953,14 +855,13 @@ veto - http://dbpedia.org/resource/Veto
 webster - http://dbpedia.org/resource/Martell_Webster
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 revolution - http://dbpedia.org/resource/Revolution
-rebellion - http://dbpedia.org/resource/Rebellion
+rebellion - http://dbpedia.org/resource/American_Revolution
 resistance - http://dbpedia.org/resource/Resistance_movement
 webster - http://dbpedia.org/resource/Martell_Webster
 federal union - http://dbpedia.org/resource/Federation
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-sovereign - http://dbpedia.org/resource/Sovereignty
-envision - http://dbpedia.org/resource/Buick_Envision
+sovereigns - http://dbpedia.org/resource/Sovereignty
 webster - http://dbpedia.org/resource/Martell_Webster
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 sovereign - http://dbpedia.org/resource/Sovereignty
@@ -997,7 +898,7 @@ sovereign people - http://dbpedia.org/resource/Sovereign_People
 sovereign people - http://dbpedia.org/resource/Sovereign_People
 federal convention - http://dbpedia.org/resource/Federation_of_Australia
 madison - http://dbpedia.org/resource/Madison_(cycling)
-sovereign people - http://dbpedia.org/resource/Sovereign_People
+sovereign - http://dbpedia.org/resource/Sovereignty
 discrete - http://dbpedia.org/resource/Probability_distribution
 draft - http://dbpedia.org/resource/Conscription
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -1006,15 +907,13 @@ sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 independent - http://dbpedia.org/resource/Independence
 john taylor - http://dbpedia.org/resource/John_Taylor_of_Caroline
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
-political society - http://dbpedia.org/resource/Political_movement
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 st. george tucker - http://dbpedia.org/resource/St._George_Tucker
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 consent - http://dbpedia.org/resource/Consent
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 madison - http://dbpedia.org/resource/Madison_(cycling)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -1027,7 +926,7 @@ madison - http://dbpedia.org/resource/Madison_(cycling)
 veto - http://dbpedia.org/resource/Veto
 interposition - http://dbpedia.org/resource/Interposition
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-kentucky legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+kentucky - http://dbpedia.org/resource/Kentucky
 single - http://dbpedia.org/resource/Phonograph_record
 veto - http://dbpedia.org/resource/Veto
 law - http://dbpedia.org/resource/Common_law
@@ -1044,7 +943,7 @@ sovereign - http://dbpedia.org/resource/Sovereignty
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 confederation - http://dbpedia.org/resource/Confederation
 sovereign - http://dbpedia.org/resource/Sovereignty
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 madison - http://dbpedia.org/resource/Madison_(cycling)
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
@@ -1061,7 +960,6 @@ theory - http://dbpedia.org/resource/Theory
 sovereign - http://dbpedia.org/resource/Sovereignty
 veto - http://dbpedia.org/resource/Veto
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
 madison - http://dbpedia.org/resource/Madison_(cycling)
 sovereign - http://dbpedia.org/resource/Sovereignty
@@ -1075,13 +973,11 @@ sovereign - http://dbpedia.org/resource/Sovereignty
 madison - http://dbpedia.org/resource/Madison_(cycling)
 sovereign - http://dbpedia.org/resource/Sovereignty
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-encompass - http://dbpedia.org/resource/Encompass
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 sovereign people - http://dbpedia.org/resource/Sovereign_People
-compact - http://dbpedia.org/resource/Compact_theory
 sovereign people - http://dbpedia.org/resource/Sovereign_People
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
@@ -1089,9 +985,8 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 sovereign - http://dbpedia.org/resource/Sovereignty
 sovereign - http://dbpedia.org/resource/Sovereignty
-people nation - http://dbpedia.org/resource/People_Nation
 sovereign - http://dbpedia.org/resource/Sovereignty
-sovereign - http://dbpedia.org/resource/Sovereignty
+sovereigns - http://dbpedia.org/resource/Sovereignty
 sovereign - http://dbpedia.org/resource/Sovereignty
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -1105,11 +1000,11 @@ sovereign people - http://dbpedia.org/resource/Sovereign_People
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 compact - http://dbpedia.org/resource/Compact_theory
-envision - http://dbpedia.org/resource/Buick_Envision
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 climate - http://dbpedia.org/resource/Global_warming
 madison - http://dbpedia.org/resource/Madison_(cycling)
+articulated - http://dbpedia.org/resource/Joint
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 nationalistic - http://dbpedia.org/resource/Nationalism
@@ -1117,11 +1012,10 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereignty - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereignty
-judiciary branch - http://dbpedia.org/resource/Judiciary
-sovereign people - http://dbpedia.org/resource/Sovereign_People
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+judiciary - http://dbpedia.org/resource/Judiciary
+sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-judicial branch - http://dbpedia.org/resource/Judiciary
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 unlimited power - http://dbpedia.org/resource/Unlimited_Power
 sovereign - http://dbpedia.org/resource/Sovereignty
 resort - http://dbpedia.org/resource/Resort
@@ -1133,9 +1027,8 @@ compact - http://dbpedia.org/resource/Compact_theory
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-magistrate - http://dbpedia.org/resource/Magistrate
+magistrates - http://dbpedia.org/resource/Magistrate
 interposition - http://dbpedia.org/resource/Interposition
-alert - http://dbpedia.org/resource/Alertness
 conformity - http://dbpedia.org/resource/Conformity
 sovereign - http://dbpedia.org/resource/Sovereignty
 madison - http://dbpedia.org/resource/Madison_(cycling)
@@ -1147,8 +1040,7 @@ kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolut
 south carolina - http://dbpedia.org/resource/South_Carolina
 south carolina - http://dbpedia.org/resource/South_Carolina
 madison - http://dbpedia.org/resource/Madison_(cycling)
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
-law - http://dbpedia.org/resource/Common_law
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 single - http://dbpedia.org/resource/Phonograph_record
 oppression - http://dbpedia.org/resource/Oppression
 revolution - http://dbpedia.org/resource/Revolution
@@ -1177,7 +1069,6 @@ resort - http://dbpedia.org/resource/Resort
 contradiction - http://dbpedia.org/resource/Contradiction
 madison - http://dbpedia.org/resource/Madison_(cycling)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-judicial branch - http://dbpedia.org/resource/Judiciary
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -1210,6 +1101,7 @@ south carolina - http://dbpedia.org/resource/South_Carolina
 tariff - http://dbpedia.org/resource/Tariff
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 rely - http://dbpedia.org/resource/Rely_(brand)
+natural rights - http://dbpedia.org/resource/Natural_rights_and_legal_rights
 revolution - http://dbpedia.org/resource/Revolution
 madison - http://dbpedia.org/resource/Madison_(cycling)
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
@@ -1229,7 +1121,6 @@ nullification - http://dbpedia.org/resource/Nullification_Crisis
 disunion - http://dbpedia.org/resource/Secession_in_the_United_States
 nullification - http://dbpedia.org/resource/Nullification_Crisis
 disunion - http://dbpedia.org/resource/Secession_in_the_United_States
-monitor - http://dbpedia.org/resource/Computer_monitor
 president - http://dbpedia.org/resource/President_of_the_United_States
 andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
 swift - http://dbpedia.org/resource/Swift
@@ -1269,25 +1160,20 @@ illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
 inference - http://dbpedia.org/resource/Inference
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
-engineer - http://dbpedia.org/resource/Railroad_engineer
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 tariff - http://dbpedia.org/resource/Tariff
 force bill - http://dbpedia.org/resource/Force_Bill
 presidential - http://dbpedia.org/resource/President_of_the_United_States
-national revenue - http://dbpedia.org/resource/Minister_of_National_Revenue_(Canada)
 compromise tariff - http://dbpedia.org/resource/Tariff_of_1833
 tariff - http://dbpedia.org/resource/Tariff
 jackson - http://dbpedia.org/resource/Andrew_Jackson
 south carolina - http://dbpedia.org/resource/South_Carolina
 force bill - http://dbpedia.org/resource/Force_Bill
 compromise tariff - http://dbpedia.org/resource/Tariff_of_1833
-gesture - http://dbpedia.org/resource/Gesture
 south carolina - http://dbpedia.org/resource/South_Carolina
 calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
-judge - http://dbpedia.org/resource/Judge
 nullification - http://dbpedia.org/resource/Nullification_Crisis
-grievance - http://dbpedia.org/resource/Grievance
-sovereign people - http://dbpedia.org/resource/Sovereign_People
+sovereign - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 arbiter - http://dbpedia.org/resource/Arbitration
 interposition - http://dbpedia.org/resource/Interposition
@@ -1303,25 +1189,18 @@ law - http://dbpedia.org/resource/Common_law
 revolutionary - http://dbpedia.org/resource/French_Revolution
 madison - http://dbpedia.org/resource/Madison_(cycling)
 interposition - http://dbpedia.org/resource/Interposition
-legislature - http://dbpedia.org/resource/Legislature
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
-law - http://dbpedia.org/resource/Common_law
 single - http://dbpedia.org/resource/Phonograph_record
-law - http://dbpedia.org/resource/Common_law
 secede - http://dbpedia.org/resource/Secession
 madison - http://dbpedia.org/resource/Madison_(cycling)
 judge - http://dbpedia.org/resource/Judge
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereignty
-law - http://dbpedia.org/resource/Common_law
-american constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-sovereign people - http://dbpedia.org/resource/Sovereign_People
+sovereign - http://dbpedia.org/resource/Sovereignty
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 monopoly - http://dbpedia.org/resource/Monopoly
 civil war - http://dbpedia.org/resource/Civil_war
-legislature - http://dbpedia.org/resource/Legislature
 federal judiciary - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 interposition - http://dbpedia.org/resource/Interposition
@@ -1329,10 +1208,7 @@ sovereign people - http://dbpedia.org/resource/Sovereign_People
 interposition - http://dbpedia.org/resource/Interposition
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereignty
-election - http://dbpedia.org/resource/Election
-election - http://dbpedia.org/resource/Election
 interposition - http://dbpedia.org/resource/Interposition
-election - http://dbpedia.org/resource/Election
 interposition - http://dbpedia.org/resource/Interposition
 suffrage - http://dbpedia.org/resource/Suffrage
 interposition - http://dbpedia.org/resource/Interposition
@@ -1340,14 +1216,10 @@ interposition - http://dbpedia.org/resource/Interposition
 constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
 law - http://dbpedia.org/resource/Common_law
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
-court interpreter - http://dbpedia.org/resource/Language_interpretation
+interpreter - http://dbpedia.org/resource/Music
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-judicial branch - http://dbpedia.org/resource/Judiciary
-monitor - http://dbpedia.org/resource/Computer_monitor
 interposition - http://dbpedia.org/resource/Interposition
-warrant - http://dbpedia.org/resource/Theory_of_justification
-role play - http://dbpedia.org/resource/Role-playing
-political party - http://dbpedia.org/resource/Political_party
+political parties - http://dbpedia.org/resource/Political_party
 constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
 madison - http://dbpedia.org/resource/Madison_(cycling)
 civil war - http://dbpedia.org/resource/Civil_war
@@ -1355,7 +1227,6 @@ madison - http://dbpedia.org/resource/Madison_(cycling)
 interposition - http://dbpedia.org/resource/Interposition
 madison - http://dbpedia.org/resource/Madison_(cycling)
 vigilant - http://dbpedia.org/resource/Vickers_Vigilant
-monitor - http://dbpedia.org/resource/Computer_monitor
 ph.d. - http://dbpedia.org/resource/Thesis
 leod - http://dbpedia.org/resource/Leod
 professor - http://dbpedia.org/resource/Academy

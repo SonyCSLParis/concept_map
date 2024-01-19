@@ -1,99 +1,83 @@
-fdny - http://dbpedia.org/resource/New_York_City_Fire_Department
-burke - http://dbpedia.org/resource/Edmund_Burke
-invisible - http://dbpedia.org/resource/Invisibility
-assistant commissioner - http://dbpedia.org/resource/Assistant_commissioner
-january 17 - http://dbpedia.org/resource/January_17
-process control - http://dbpedia.org/resource/Process_control
-ablaze - http://dbpedia.org/resource/Ablaze
-1 wtc - http://dbpedia.org/resource/One_World_Trade_Center
-msnbc - http://dbpedia.org/resource/MSNBC
-internet time - http://dbpedia.org/resource/Swatch_Internet_Time
-olive branch press - http://dbpedia.org/resource/Interlink_Publishing
-trigger - http://dbpedia.org/resource/Hypnosis
-tower ladder - http://dbpedia.org/resource/Firefighting_apparatus
-mass - http://dbpedia.org/resource/Mass
-observation - http://dbpedia.org/resource/Observation
-building 7 - http://dbpedia.org/resource/7_World_Trade_Center
-xxxv - http://dbpedia.org/resource/Super_Bowl_XXXV
-fire department - http://dbpedia.org/resource/New_York_City_Fire_Department
-precipitate - http://dbpedia.org/resource/Precipitation
-sept - http://dbpedia.org/resource/Sept
-block time - http://dbpedia.org/resource/Blockchain
-high rise building - http://dbpedia.org/resource/High-rise_building
-seal - http://dbpedia.org/resource/Pinniped
-dailymotion.com - http://dbpedia.org/resource/Dailymotion
-mayor giuliani - http://dbpedia.org/resource/Rudy_Giuliani
-firefighter - http://dbpedia.org/resource/Firefighter
-intensify - http://dbpedia.org/resource/Intensify
-timothy - http://dbpedia.org/resource/Timothy-grass
-fire play - http://dbpedia.org/resource/Temperature_play
-york - http://dbpedia.org/resource/York
-flood - http://dbpedia.org/resource/Flood
-emt - http://dbpedia.org/resource/Emergency_medical_technician
-steel - http://dbpedia.org/resource/Steel
-implode - http://dbpedia.org/resource/Building_implosion
-debunker - http://dbpedia.org/resource/Debunker
-rational - http://dbpedia.org/resource/Rationality
-nassa - http://dbpedia.org/resource/Nassa_(gastropod)
-bbc - http://dbpedia.org/resource/BBC
-doom - http://dbpedia.org/resource/Doom_metal
-safety investigation - http://dbpedia.org/resource/Accident_analysis
-narrative - http://dbpedia.org/resource/Narrative
-xxxvi - http://dbpedia.org/resource/Super_Bowl_XXXVI
-building collapse - http://dbpedia.org/resource/Structural_integrity_and_failure
-buckle - http://dbpedia.org/resource/Buckling
-single - http://dbpedia.org/resource/Phonograph_record
-ryan - http://dbpedia.org/resource/Ryan_Atwood
-sequence - http://dbpedia.org/resource/Sequence
-thermal expansion - http://dbpedia.org/resource/Thermal_expansion
-de facto - http://dbpedia.org/resource/De_facto
-fortis - http://dbpedia.org/resource/Fortis_and_lenis
-steel frame - http://dbpedia.org/resource/Steel_frame
-northampton - http://dbpedia.org/resource/Northampton
 girder - http://dbpedia.org/resource/Girder
-technology - http://dbpedia.org/resource/Technology
-disaster - http://dbpedia.org/resource/Disaster
-sawyer - http://dbpedia.org/resource/Sawyer_(occupation)
-sunder - http://dbpedia.org/resource/Sunder_Deodhar
-north south - http://dbpedia.org/resource/North_South_MRT_line
-ashleigh banfield - http://dbpedia.org/resource/Ashleigh_Banfield
-fire safety - http://dbpedia.org/resource/Fire_safety
-column - http://dbpedia.org/resource/Column
-queen - http://dbpedia.org/resource/Queen_bee
-joseph - http://dbpedia.org/resource/Joseph_Smith
-xxxvii - http://dbpedia.org/resource/Super_Bowl_XXXVII
-diesel fuel - http://dbpedia.org/resource/Diesel_fuel
-foreknowledge - http://dbpedia.org/resource/Omniscience
-truck - http://dbpedia.org/resource/Semi-trailer_truck
-article - http://dbpedia.org/resource/No_Gun_Ri_massacre
-command post - http://dbpedia.org/resource/Command_and_control
-engineer - http://dbpedia.org/resource/Railroad_engineer
-myth - http://dbpedia.org/resource/Urban_legend
-fuel oil - http://dbpedia.org/resource/Fuel_oil
-griffin - http://dbpedia.org/resource/Griffin
-cnn - http://dbpedia.org/resource/CNN
-shyam - http://dbpedia.org/resource/Shyam_(composer)
-center fire - http://dbpedia.org/resource/Centerfire_ammunition
-9/11 - http://dbpedia.org/resource/September_11_attacks
-xxxviii - http://dbpedia.org/resource/Super_Bowl_XXXVIII
-nist - http://dbpedia.org/resource/National_Institute_of_Standards_and_Technology
-television network - http://dbpedia.org/resource/Television_network
-james drury - http://dbpedia.org/resource/James_Drury
-6 wtc - http://dbpedia.org/resource/Six_World_Trade_Center
-popular mechanics - http://dbpedia.org/resource/Popular_Mechanics
-officer - http://dbpedia.org/resource/Police_officer
-thomas - http://dbpedia.org/resource/THOMAS
-september 11 2001 - http://dbpedia.org/resource/September_11_attacks
-high rise - http://dbpedia.org/resource/High-rise_building
-progress report - http://dbpedia.org/resource/Report_card
-network - http://dbpedia.org/resource/Social_network
-fire chief - http://dbpedia.org/resource/Fire_chief
-question time - http://dbpedia.org/resource/Question_time
-imminence - http://dbpedia.org/resource/Imminence_(band)
-east west - http://dbpedia.org/resource/East_West_Records
+fdny - http://dbpedia.org/resource/New_York_City_Fire_Department
 television - http://dbpedia.org/resource/Television
-ibid - http://dbpedia.org/resource/Ibid.
-david - http://dbpedia.org/resource/David
-oral history - http://dbpedia.org/resource/Oral_history
+ablaze - http://dbpedia.org/resource/Ablaze
+emt - http://dbpedia.org/resource/Emergency_medical_technician
+imploded - http://dbpedia.org/resource/Building_implosion
+diesel fuel - http://dbpedia.org/resource/Diesel_fuel
+progress report - http://dbpedia.org/resource/Report_card
+debunking - http://dbpedia.org/resource/Debunker
+msnbc - http://dbpedia.org/resource/MSNBC
+flood - http://dbpedia.org/resource/Flood
+nassa - http://dbpedia.org/resource/Nassa_(gastropod)
+listed - http://dbpedia.org/resource/Angle_of_list
+buckle - http://dbpedia.org/resource/Buckling
+fortis - http://dbpedia.org/resource/Fortis_and_lenis
+nist - http://dbpedia.org/resource/National_Institute_of_Standards_and_Technology
+steel - http://dbpedia.org/resource/Steel
+sequence - http://dbpedia.org/resource/Sequence
+queen - http://dbpedia.org/resource/Queen_bee
+imminence - http://dbpedia.org/resource/Imminence_(band)
+sunder - http://dbpedia.org/resource/Sunder_Deodhar
+northampton - http://dbpedia.org/resource/Northampton
+1 wtc - http://dbpedia.org/resource/One_World_Trade_Center
 oral histories - http://dbpedia.org/resource/Oral_history
+observation - http://dbpedia.org/resource/Observation
+9/11 - http://dbpedia.org/resource/September_11_attacks
+firefighter - http://dbpedia.org/resource/Firefighter
+assistant commissioner - http://dbpedia.org/resource/Assistant_commissioner
+bbc - http://dbpedia.org/resource/BBC_News
+disaster - http://dbpedia.org/resource/Disaster
+sept - http://dbpedia.org/resource/Sept
+safety investigation - http://dbpedia.org/resource/Accident_analysis
+xxxv - http://dbpedia.org/resource/Super_Bowl_XXXV
+paramedic - http://dbpedia.org/resource/Paramedic
+xxxvi - http://dbpedia.org/resource/Super_Bowl_XXXVI
+fire department - http://dbpedia.org/resource/New_York_City_Fire_Department
+column - http://dbpedia.org/resource/Column
+burke - http://dbpedia.org/resource/Edmund_Burke
+xxxviii - http://dbpedia.org/resource/Super_Bowl_XXXVIII
+york - http://dbpedia.org/resource/York
+sawyer - http://dbpedia.org/resource/Sawyer_(occupation)
 task force - http://dbpedia.org/resource/Task_force
+rational - http://dbpedia.org/resource/Rationality
+ibid - http://dbpedia.org/resource/Ibid.
+january 17 - http://dbpedia.org/resource/January_17
+buckling - http://dbpedia.org/resource/Buckling
+cnn - http://dbpedia.org/resource/CNN
+thermal expansion - http://dbpedia.org/resource/Thermal_expansion
+ashleigh banfield - http://dbpedia.org/resource/Ashleigh_Banfield
+xxxvii - http://dbpedia.org/resource/Super_Bowl_XXXVII
+high rise - http://dbpedia.org/resource/High-rise_building
+controlled demolition - http://dbpedia.org/resource/World_Trade_Center_controlled_demolition_conspiracy_theories
+foreknowledge - http://dbpedia.org/resource/Omniscience
+command post - http://dbpedia.org/resource/Command_and_control
+invisible - http://dbpedia.org/resource/Invisibility
+shyam - http://dbpedia.org/resource/Shyam_(composer)
+3 minutes - http://dbpedia.org/resource/3_Minutes
+firefighters - http://dbpedia.org/resource/New_York_City_Fire_Department
+building 7 - http://dbpedia.org/resource/7_World_Trade_Center
+single - http://dbpedia.org/resource/Phonograph_record
+de facto - http://dbpedia.org/resource/De_facto
+james drury - http://dbpedia.org/resource/James_Drury
+fire safety - http://dbpedia.org/resource/Fire_safety
+internet - http://dbpedia.org/resource/Internet
+joseph - http://dbpedia.org/resource/Joseph_Smith
+thomas - http://dbpedia.org/resource/THOMAS
+fuel oil - http://dbpedia.org/resource/Fuel_oil
+david - http://dbpedia.org/resource/David
+ryan - http://dbpedia.org/resource/Ryan_Aeronautical
+olive branch press - http://dbpedia.org/resource/Interlink_Publishing
+popular mechanics - http://dbpedia.org/resource/Popular_Mechanics
+high rise building - http://dbpedia.org/resource/High-rise_building
+10 minutes - http://dbpedia.org/resource/10_Minutes_(Inna_song)
+mayor giuliani - http://dbpedia.org/resource/Rudy_Giuliani
+tower ladder - http://dbpedia.org/resource/Firefighting_apparatus
+september 11 2001 - http://dbpedia.org/resource/September_11_attacks
+mass - http://dbpedia.org/resource/Mass
+griffin - http://dbpedia.org/resource/Griffin
+timothy - http://dbpedia.org/resource/Timothy-grass
+dailymotion.com - http://dbpedia.org/resource/Dailymotion
+technology - http://dbpedia.org/resource/Technology
+narrative - http://dbpedia.org/resource/Narrative
+article - http://dbpedia.org/resource/No_Gun_Ri_massacre

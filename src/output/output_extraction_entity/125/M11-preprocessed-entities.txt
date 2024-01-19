@@ -1,5 +1,4 @@
 church - http://dbpedia.org/resource/Christian_denomination
-wildwood - http://dbpedia.org/resource/Wildwood,_New_Jersey
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
 church - http://dbpedia.org/resource/Christian_denomination
 town - http://dbpedia.org/resource/Market_town
@@ -7,14 +6,14 @@ capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
 west virginia - http://dbpedia.org/resource/West_Virginia
 baptist - http://dbpedia.org/resource/Baptists
 church - http://dbpedia.org/resource/Christian_denomination
-baptist - http://dbpedia.org/resource/Baptists
+baptists - http://dbpedia.org/resource/Baptists
 southern methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church,_South
 methodist episcopal church - http://dbpedia.org/resource/Methodist_Episcopal_Church
 united methodist church - http://dbpedia.org/resource/United_Methodist_Church
 church - http://dbpedia.org/resource/Christian_denomination
 american civil war - http://dbpedia.org/resource/American_Civil_War
 confederacy - http://dbpedia.org/resource/Confederate_States_of_America
-african americans - http://dbpedia.org/resource/African_Americans
+enslaved african americans - http://dbpedia.org/resource/Slavery_in_the_United_States
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
 rural - http://dbpedia.org/resource/Rural_area
 religious architecture - http://dbpedia.org/resource/Sacral_architecture

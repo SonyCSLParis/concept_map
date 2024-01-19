@@ -16,12 +16,7 @@ human - http://dbpedia.org/resource/Human_nature
 temptation - http://dbpedia.org/resource/Temptation
 landscape archaeology - http://dbpedia.org/resource/Landscape_archaeology
 trackway - http://dbpedia.org/resource/Historic_roads_and_trails
-hump - http://dbpedia.org/resource/Camel
-bump - http://dbpedia.org/resource/Bump_mapping
-church house - http://dbpedia.org/resource/Church_House_Publishing
-human - http://dbpedia.org/resource/Human_nature
-hump - http://dbpedia.org/resource/Camel
-bump - http://dbpedia.org/resource/Bump_mapping
+church - http://dbpedia.org/resource/Christian_Church
 listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
 queen - http://dbpedia.org/resource/Queen_regnant
 priest - http://dbpedia.org/resource/Clergy
@@ -35,52 +30,45 @@ landscape - http://dbpedia.org/resource/Landscape
 landscape - http://dbpedia.org/resource/Landscape
 observation - http://dbpedia.org/resource/Observation
 landscape archaeology - http://dbpedia.org/resource/Landscape_archaeology
+preoccupied - http://dbpedia.org/resource/International_Code_of_Zoological_Nomenclature
 medieval - http://dbpedia.org/resource/Middle_Ages
 early modern - http://dbpedia.org/resource/Early_modern_period
 rural - http://dbpedia.org/resource/Rural_area
-landscape - http://dbpedia.org/resource/Landscape
 gloss - http://dbpedia.org/resource/Interlinear_gloss
 feudal - http://dbpedia.org/resource/Feudalism
 capitalist - http://dbpedia.org/resource/Capitalism
 social organization - http://dbpedia.org/resource/Institution
 landscape archaeology - http://dbpedia.org/resource/Landscape_archaeology
 infinite regression - http://dbpedia.org/resource/Infinite_regress
-landscape - http://dbpedia.org/resource/Landscape
 enclosure - http://dbpedia.org/resource/Enclosure
 field system - http://dbpedia.org/resource/Field_system
-entail - http://dbpedia.org/resource/Logical_consequence
 early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
 prehistoric - http://dbpedia.org/resource/Prehistory
-roman period - http://dbpedia.org/resource/Roman_Britain
-function - http://dbpedia.org/resource/Role
+roman - http://dbpedia.org/resource/Roman_Empire
 function - http://dbpedia.org/resource/Role
 social status - http://dbpedia.org/resource/Social_class
 medieval - http://dbpedia.org/resource/Middle_Ages
 great hall - http://dbpedia.org/resource/Great_hall
 lordship - http://dbpedia.org/resource/Feudalism
-landscape - http://dbpedia.org/resource/Landscape
-landscape - http://dbpedia.org/resource/Landscape
+designed landscapes - http://dbpedia.org/resource/Landscape_architecture
 middle ages - http://dbpedia.org/resource/Middle_Ages
 violence - http://dbpedia.org/resource/Violence
 social structure - http://dbpedia.org/resource/Social_structure
 ritual - http://dbpedia.org/resource/Ritual
 jousting - http://dbpedia.org/resource/Jousting
 political economic - http://dbpedia.org/resource/Political_economy
-control flow - http://dbpedia.org/resource/Control_flow
 landscape - http://dbpedia.org/resource/Landscape
-hydraulic - http://dbpedia.org/resource/Hydraulics
-moat - http://dbpedia.org/resource/Moat
-fishpond - http://dbpedia.org/resource/Fish_pond
-leat - http://dbpedia.org/resource/Leat
-water feature - http://dbpedia.org/resource/Water_feature
-human - http://dbpedia.org/resource/Human_nature
+hydraulics - http://dbpedia.org/resource/Hydraulics
+fishponds - http://dbpedia.org/resource/Fish_pond
+water - http://dbpedia.org/resource/Water
+goods - http://dbpedia.org/resource/Conspicuous_consumption
 sterile - http://dbpedia.org/resource/Fertility
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 medieval - http://dbpedia.org/resource/Middle_Ages
 fortification - http://dbpedia.org/resource/Castle
 bodiam - http://dbpedia.org/resource/Bodiam
 classic case - http://dbpedia.org/resource/Classic_Case
-military theorist - http://dbpedia.org/resource/Military_theory
+military theorists - http://dbpedia.org/resource/Military_theory
 coast - http://dbpedia.org/resource/Coast
 rye - http://dbpedia.org/resource/Rye
 winchelsea - http://dbpedia.org/resource/Winchelsea
@@ -89,8 +77,8 @@ defence - http://dbpedia.org/resource/Military
 charles coulson - http://dbpedia.org/resource/Charles_Coulson
 honorific - http://dbpedia.org/resource/Honorific
 architecture - http://dbpedia.org/resource/Architecture
-landscape - http://dbpedia.org/resource/Landscape
-causeway - http://dbpedia.org/resource/Causeway
+designed landscape - http://dbpedia.org/resource/Designed_landscape
+causeways - http://dbpedia.org/resource/Causeway
 water - http://dbpedia.org/resource/Water
 bodiam - http://dbpedia.org/resource/Bodiam
 northwestern university - http://dbpedia.org/resource/Northwestern_University
@@ -111,8 +99,7 @@ landscape - http://dbpedia.org/resource/Landscape
 bodiam - http://dbpedia.org/resource/Bodiam
 defence - http://dbpedia.org/resource/Military
 bodiam - http://dbpedia.org/resource/Bodiam
-article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
 bodiam - http://dbpedia.org/resource/Bodiam
 gate - http://dbpedia.org/resource/Gate
 landscape - http://dbpedia.org/resource/Landscape
-vernacular - http://dbpedia.org/resource/Vernacular
+vernacular houses - http://dbpedia.org/resource/Vernacular_architecture

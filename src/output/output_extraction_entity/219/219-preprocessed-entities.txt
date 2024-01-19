@@ -11,23 +11,26 @@ critical mass - http://dbpedia.org/resource/Critical_mass
 otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
 franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-klaus - http://dbpedia.org/resource/Klaus_Mann
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 uranium - http://dbpedia.org/resource/Uranium-235
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 maud report - http://dbpedia.org/resource/MAUD_Committee
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
 winston churchill - http://dbpedia.org/resource/Winston_Churchill
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
 birmingham - http://dbpedia.org/resource/University_of_Birmingham
 soviet - http://dbpedia.org/resource/Soviet_Union
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-alloy - http://dbpedia.org/resource/Alloy
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+galvanized - http://dbpedia.org/resource/Galvanization
 maud report - http://dbpedia.org/resource/MAUD_Committee
 uranium - http://dbpedia.org/resource/Uranium-235
 critical mass - http://dbpedia.org/resource/Critical_mass

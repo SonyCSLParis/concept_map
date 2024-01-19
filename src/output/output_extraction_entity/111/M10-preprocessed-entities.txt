@@ -10,10 +10,11 @@ shirburn - http://dbpedia.org/resource/Shirburn
 edward iii - http://dbpedia.org/resource/Edward_III_of_England
 rectangle - http://dbpedia.org/resource/Rectangle
 pele tower - http://dbpedia.org/resource/Peel_tower
-pele tower - http://dbpedia.org/resource/Peel_tower
+pele towers - http://dbpedia.org/resource/Peel_tower
 aydon castle - http://dbpedia.org/resource/Aydon_Castle
 northumberland - http://dbpedia.org/resource/Northumberland
 manor - http://dbpedia.org/resource/Manor_house
+solar - http://dbpedia.org/resource/Solar_eclipse
 stone enclosure - http://dbpedia.org/resource/Nordic_megalith_architecture
 barry castle - http://dbpedia.org/resource/Barry_Castle
 glamorgan - http://dbpedia.org/resource/Glamorgan
@@ -27,9 +28,7 @@ beaumaris castle - http://dbpedia.org/resource/Beaumaris_Castle
 anglesey - http://dbpedia.org/resource/Anglesey
 concentric - http://dbpedia.org/resource/Concentric_castle
 concentric castle - http://dbpedia.org/resource/Concentric_castle
-gatehouse - http://dbpedia.org/resource/Gatehouse
-tower - http://dbpedia.org/resource/Keep
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+curtain walls - http://dbpedia.org/resource/Curtain_wall_(fortification)
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 sussex - http://dbpedia.org/resource/Sussex
 tq - http://dbpedia.org/resource/TQ_(singer)
@@ -56,7 +55,7 @@ enclosure - http://dbpedia.org/resource/Enclosure
 great tower - http://dbpedia.org/resource/Keep
 moat - http://dbpedia.org/resource/Moat
 rock - http://dbpedia.org/resource/Rock_music
-siege castle - http://dbpedia.org/resource/Counter-castle
+siege - http://dbpedia.org/resource/Siege
 owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
 dunster castle - http://dbpedia.org/resource/Dunster_Castle
 somerset - http://dbpedia.org/resource/Somerset
@@ -79,7 +78,7 @@ eynsford - http://dbpedia.org/resource/Eynsford
 tower - http://dbpedia.org/resource/Keep
 stone - http://dbpedia.org/resource/Stonemasonry
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-stone - http://dbpedia.org/resource/Stonemasonry
+stone buildings - http://dbpedia.org/resource/Stone_Buildings
 carmarthenshire - http://dbpedia.org/resource/Carmarthenshire
 manor - http://dbpedia.org/resource/Manor_house
 rede - http://dbpedia.org/resource/Wiccan_Rede
@@ -121,7 +120,6 @@ warwickshire - http://dbpedia.org/resource/Warwickshire
 manor - http://dbpedia.org/resource/Manor_house
 william de clinton - http://dbpedia.org/resource/William_de_Clinton,_1st_Earl_of_Huntingdon
 moat - http://dbpedia.org/resource/Moat
-tower - http://dbpedia.org/resource/Keep
 gatehouse - http://dbpedia.org/resource/Gatehouse
 humphrey stafford - http://dbpedia.org/resource/Humphrey_Stafford,_1st_Duke_of_Buckingham
 middleham castle - http://dbpedia.org/resource/Middleham_Castle
@@ -139,29 +137,23 @@ mansion - http://dbpedia.org/resource/English_country_house
 picton castle - http://dbpedia.org/resource/Picton_Castle
 pembrokeshire - http://dbpedia.org/resource/Pembrokeshire
 motte castle - http://dbpedia.org/resource/Motte-and-bailey_castle
-tower - http://dbpedia.org/resource/Keep
-wall tower - http://dbpedia.org/resource/Fortified_tower
 scalloway castle - http://dbpedia.org/resource/Scalloway_Castle
 shetland - http://dbpedia.org/resource/Shetland
 tower house - http://dbpedia.org/resource/Tower_house
 patrick stewart - http://dbpedia.org/resource/Patrick_Stewart
 earl - http://dbpedia.org/resource/Earl
 orkney - http://dbpedia.org/resource/Orkney
-tower - http://dbpedia.org/resource/Keep
-vault - http://dbpedia.org/resource/Bank_vault
+vaulted - http://dbpedia.org/resource/Barrel_vault
 cromwell - http://dbpedia.org/resource/Oliver_Cromwell
 skenfrith castle - http://dbpedia.org/resource/Skenfrith_Castle
 monmouthshire - http://dbpedia.org/resource/Monmouthshire
 enclosure - http://dbpedia.org/resource/Enclosure
-compact - http://dbpedia.org/resource/Compact_space
+compact - http://dbpedia.org/resource/Compact_car
 quadrilateral - http://dbpedia.org/resource/Quadrilateral
 enclosure - http://dbpedia.org/resource/Enclosure
-tower - http://dbpedia.org/resource/Keep
 great tower - http://dbpedia.org/resource/Keep
-water - http://dbpedia.org/resource/Water
-defence - http://dbpedia.org/resource/Military
-supply river - http://dbpedia.org/resource/Supply_River
-monnow - http://dbpedia.org/resource/River_Monnow
+water - http://dbpedia.org/resource/Water_supply
+river monnow - http://dbpedia.org/resource/River_Monnow
 sully - http://dbpedia.org/resource/Sully_Historic_Site
 cardiff - http://dbpedia.org/resource/Cardiff
 st - http://dbpedia.org/resource/SATB

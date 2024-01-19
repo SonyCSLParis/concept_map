@@ -1,82 +1,68 @@
-aggression - http://dbpedia.org/resource/Aggression
-unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
-alien - http://dbpedia.org/resource/Extraterrestrial_life
-philadelphia - http://dbpedia.org/resource/Philadelphia
-sovereign - http://dbpedia.org/resource/Sovereignty
-james madison - http://dbpedia.org/resource/James_Madison
-resort - http://dbpedia.org/resource/Resort
-warrant - http://dbpedia.org/resource/Theory_of_justification
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
-judiciary - http://dbpedia.org/resource/Judicial_system_of_Singapore
-observation - http://dbpedia.org/resource/Observation
-denial - http://dbpedia.org/resource/Denial
-interposition - http://dbpedia.org/resource/Interposition
-inconceivable - http://dbpedia.org/resource/Inconceivable_(TV_series)
-sovereignty - http://dbpedia.org/resource/Sovereignty
-judge - http://dbpedia.org/resource/Judge
-open source - http://dbpedia.org/resource/Free_software
-legislature - http://dbpedia.org/resource/Legislature
-epoch - http://dbpedia.org/resource/Age_of_the_universe
-political system - http://dbpedia.org/resource/Political_system
-truth - http://dbpedia.org/resource/Truth
-candor - http://dbpedia.org/resource/Candor_Chasma
-attachment - http://dbpedia.org/resource/Attachment_theory
-spirit - http://dbpedia.org/resource/Soul
-discharge - http://dbpedia.org/resource/Military_discharge
-compact - http://dbpedia.org/resource/Compact_theory
-language - http://dbpedia.org/resource/Language
-vital principle - http://dbpedia.org/resource/Vitalism
-enjoin - http://dbpedia.org/resource/Injunction
-commonwealth - http://dbpedia.org/resource/Republic
-liberty - http://dbpedia.org/resource/Liberty
-constitution committee - http://dbpedia.org/resource/Constitution_of_the_Irish_Free_State
-subversion - http://dbpedia.org/resource/Subversion
-safety - http://dbpedia.org/resource/Safety
-amendment - http://dbpedia.org/resource/Law
-signification - http://dbpedia.org/resource/Sign_(semiotics)
-virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-degeneracy - http://dbpedia.org/resource/Degeneration_theory
 relief - http://dbpedia.org/resource/Legal_remedy
-constitutional union - http://dbpedia.org/resource/Constitutional_Union_Party_(United_States)
-common sense - http://dbpedia.org/resource/Common_sense
-federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-judicial power - http://dbpedia.org/resource/Judiciary
-franklin - http://dbpedia.org/resource/The_Franklin's_Tale
-symptom - http://dbpedia.org/resource/Symptom
-revolution - http://dbpedia.org/resource/Revolution
-reserve - http://dbpedia.org/resource/Bank_reserves
-hypothesis - http://dbpedia.org/resource/Hypothesis
-plain - http://dbpedia.org/resource/John_Major
-dangerous power - http://dbpedia.org/resource/Dangerous_Power
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-clause - http://dbpedia.org/resource/Clause
-light - http://dbpedia.org/resource/Speed_of_light
-party party - http://dbpedia.org/resource/Party_Party_(film)
-magnitude - http://dbpedia.org/resource/Euclidean_vector
-declaratory - http://dbpedia.org/resource/Injunction
-political society - http://dbpedia.org/resource/Political_movement
-independence - http://dbpedia.org/resource/Independence
-resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
-sedition - http://dbpedia.org/resource/Sedition
-federal power - http://dbpedia.org/resource/Federalism
-committee - http://dbpedia.org/resource/Committee
-york - http://dbpedia.org/resource/House_of_York
-eye - http://dbpedia.org/resource/Human_eye
+diminution - http://dbpedia.org/resource/Diminution
+subversion - http://dbpedia.org/resource/Subversion
+philadelphia - http://dbpedia.org/resource/Philadelphia
+judge - http://dbpedia.org/resource/Judge
 chicago - http://dbpedia.org/resource/Chicago
+aggression - http://dbpedia.org/resource/Aggression
+adds - http://dbpedia.org/resource/Applied_Digital_Data_Systems
+discharge - http://dbpedia.org/resource/Military_discharge
+sedition - http://dbpedia.org/resource/Sedition
+candor - http://dbpedia.org/resource/Candor_Chasma
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 jan - http://dbpedia.org/resource/Joint_Electronics_Type_Designation_System
-concurrence - http://dbpedia.org/resource/Concurring_opinion
+observation - http://dbpedia.org/resource/Observation
+republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
+commonwealth - http://dbpedia.org/resource/Republic
+independence - http://dbpedia.org/resource/Independence
 vigilant - http://dbpedia.org/resource/Vickers_Vigilant
-republic - http://dbpedia.org/resource/Republic
+federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+plain - http://dbpedia.org/resource/John_Major
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+truth - http://dbpedia.org/resource/Truth
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+inconceivable - http://dbpedia.org/resource/Inconceivable_(TV_series)
+wished - http://dbpedia.org/resource/Wished_(film)
+language - http://dbpedia.org/resource/Language
+compact - http://dbpedia.org/resource/Compact_theory
+common sense - http://dbpedia.org/resource/Common_sense
+james madison - http://dbpedia.org/resource/James_Madison
+attachment - http://dbpedia.org/resource/Attachment_theory
+magnitude - http://dbpedia.org/resource/Euclidean_vector
+amendment - http://dbpedia.org/resource/Law
+resort - http://dbpedia.org/resource/Resort
+spirit - http://dbpedia.org/resource/Soul
+political system - http://dbpedia.org/resource/Political_system
+sovereign - http://dbpedia.org/resource/Sovereignty
+light - http://dbpedia.org/resource/Speed_of_light
+judiciary - http://dbpedia.org/resource/Judicial_system_of_Singapore
+epoch - http://dbpedia.org/resource/Epoch
+judicial power - http://dbpedia.org/resource/Judiciary
+temperate - http://dbpedia.org/resource/Temperance_movement
+declaratory - http://dbpedia.org/resource/Injunction
+committee - http://dbpedia.org/resource/Committee
+hypothesis - http://dbpedia.org/resource/Hypothesis
+concurrence - http://dbpedia.org/resource/Concurring_opinion
+virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 object - http://dbpedia.org/resource/Physical_object
 doctrine - http://dbpedia.org/resource/Doctrine
-compact power - http://dbpedia.org/resource/LG_Chem
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-evil - http://dbpedia.org/resource/Good_and_evil
-temperate - http://dbpedia.org/resource/Temperance_movement
-inference - http://dbpedia.org/resource/Inference
-diminution - http://dbpedia.org/resource/Diminution
-republican constitution - http://dbpedia.org/resource/Constitution_of_India
 adoption - http://dbpedia.org/resource/Adoption
+trusts - http://dbpedia.org/resource/English_trust_law
+evil - http://dbpedia.org/resource/Good_and_evil
+eye - http://dbpedia.org/resource/Human_eye
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+signification - http://dbpedia.org/resource/Sign_(semiotics)
+sovereignty - http://dbpedia.org/resource/Sovereignty
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+denial - http://dbpedia.org/resource/Denial
+safety - http://dbpedia.org/resource/Safety
+revolution - http://dbpedia.org/resource/Revolution
+york - http://dbpedia.org/resource/York
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+interposition - http://dbpedia.org/resource/Interposition
+constitutional union - http://dbpedia.org/resource/Constitutional_Union_Party_(United_States)
+legislature - http://dbpedia.org/resource/Legislature
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+liberty - http://dbpedia.org/resource/Liberty
+degeneracy - http://dbpedia.org/resource/Degeneration_theory

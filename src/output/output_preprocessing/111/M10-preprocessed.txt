@@ -1,109 +1,81 @@
-2d look castle ground plan
-affleck castle location angus os
-493389 type tower house date 15th century
-property belong afflecks 1471 17th century
-l plan wall 7 ft thick
-occupy
-angle castle location pembrokeshire os
-sm 866030 type tower date unknown build robert de shirburn reign edward iii 1327 77
-preserve rectangle pele tower
-pele tower wales
-aydon castle location northumberland os nz 001663 type fortified manor date 14th century build robert de raymes
-story solar dining hall kitchen
-stone enclosure wall surround
-castle capture scots 1315 1346
-barry castle location glamorgan os st 101672 type fortified manor date 13th century
-remain fortified manor include gate part curtain wall
-build early earthwork castle
-beaumaris castle location anglesey os sh 607763
-type concentric date 1294 classic example concentric castle
-gatehouse tower curtain wall 36 ft high 15 ft thick
-bodiam castle location sussex o tq
-785256
-type quadrangular date 1385 build sir edward dalyngrygge
-quadrangular plan surround broad moat
-bolton castle location sussex o tq
-785256
-type quadrangular date 1385 build sir edward dalyngrygge
-quadrangular plan surround broad moat
-bothwell castle location south lanarkshire o ns 688594
-type enclosure date
-13th century certain build castle stonework complete 1290
-65 ft 80 ft storey wall 15 ft thick
-cartington castle location northumberland os nu 039045
-type enclosure date 1442 15th century tower 41 ft 31 ft wall 6 ft thick build enclosure
-slight roundheads 1648
-ruin remain
-dinefwr castle location gwynedd os
-sn 611217 type enclosure date 12th century inside enclosure great tower build 1150 1250
-moat carve solid rock
-siege castle take place 1402 owain glyndwr
-dunster castle location somerset o ss 991434
-type motte date unknowna fortified manor build site 14th century besiege 1646 civil war
-salvin restore manor 19th century
-earlshall castle location fife os
-465211 type enclosure date 1546 build sir william bruce
-consist main block small detached tower storey wall 8 ft thick
-17th century range building build courtyard
-abandon restore 1892 sir robert lorimer
-eynsford castle location kent os tq 542658
-type enclosure date 11th century builtby william de eynsford start earthen platform wooden tower
-1088 receive 30 ft high 6 ft thick stone curtain wall
-stone building add 12th century
-green castle location carmarthenshire o sn 396166 type fortified manor date unknown own rede family
-l shape range adjoining courtyard rock cut cellar
-refer castell moel
-herstmonceux castleherstmonceux castle location sussex o tq
-646104
-type quadrangular date 1441 build brick sir roger fiennes
-inner masonry rob build nearby house outer masonry restore
-kirby muxloe castle location leicestershire os sk 524046 type fortified manor date 1480 quadrangular design build brick lord hastings
-complete lord hastings execute building
-liverpool castle location liverpool o sj 397933
-type enclosure date 1232150 ft square surround dry ditch cut solid rock
-build william de ferrers lock leven castle location perth kinross os
-138018 type tower house date
-14th centurya square plan storey 36 ft 31 ft wall 8 ft thick
-besiege english 1301 1335 edward balliol
-mary queen scots imprison june 1567 1568
-maxstoke castle location warwickshire os
-sp 224891 type fortified manor date 1345 build william de clinton
-deep moat surround quadrangular shape castle corner tower gatehouse
-humphrey stafford acquire castle 1440
-middleham castle location yorkshire o se 128875
-type motte date 1086 robert fitzrandolph build great tower 1170
-13th century quadrangular curtain raise
-building add 14th 15th century
-richard iii favorite residence
-pencoed castle location
-monmouthshire o st 101672 type enclosure date 1270
-remain tower curtain wall rest 16th century mansion
-picton castle location pembrokeshire os sn 011135 type quadrangular date
-13th centurya castle build near motte castle 1087 strong corner tower mid wall tower
-castle occupy alter
-scalloway castle location shetland o hu 404392
-type tower house date 1600 build patrick stewart earl orkney
-l plan story cylindrical square stair tower vault basement occupy cromwell 1650 abandon 17th century
-1908 turn state
-skenfrith castle location
-monmouthshire os
-457202
-type enclosure date
-11th centurya compact quadrilateral enclosure corner cylindrical tower
-great tower sit motte 35 ft diameter story high
-east water defence supply river monnow
-sully castle location cardiff os
-st 151683
-type enclosure date
-12th century remain house build site 1970
-wall 10 ft thick
-weobley castle location swansea os ss 478927
-type fortified manor date
-13th century irregular square building
-castle overlook river loughor
-attack damage owain glyndwr 1403
+have a 2d look at some of the castle ground plans
+affleck castle location angus os no 493389 type tower house date 15th century
+the property belonged to the afflecks from 1471 to the 17th century l plan with walls 7 ft thick
+it is still occupied
+angle castle location pembrokeshire os sm 866030 type tower date unknown built by robert de shirburn during the reign of edward iii 1327 77
+a well preserved rectangle pele tower
+one of the few pele towers in wales
+aydon castle location northumberland os nz 001663 type fortified manor date 14th century built by robert de raymes
+it was two stories with a solar dining hall and kitchen
+a stone enclosure wall surrounded it
+the castle was captured by the scots in 1315 and 1346 barry castle location glamorgan os st 101672 type
+fortified manor date 13th century
+the remains of this fortified manor includes a gate and parts of a curtain wall
+it was built over an earlier earthwork castle
+beaumaris castle location anglesey os sh 607763 type concentric date 1294 classic example of a concentric castle
+two gatehouses six towers with curtain walls 36 ft high that were over 15 ft thick
+bodiam castle location sussex os tq 785256 type quadrangular date 1385 built by sir edward dalyngrygge
+it was of a quadrangular plan and surrounded by a broad moat
+bolton castle location sussex os tq 785256 type quadrangular date 1385 built by sir edward dalyngrygge
+it was of a quadrangular plan and surrounded by a broad moat
+bothwell castle location south lanarkshire os ns 688594 type enclosure date 13th century
+it is not for certain who built the castle and most of the stonework had been completed by 1290
+the keep is 65 ft by 80 ft four storeys and had walls 15 ft thick
+cartington castle location northumberland os nu 039045 type enclosure date 1442
+in the 15th century a tower 41 ft by 31 ft with walls 6 ft thick was built in the enclosure
+slighted by the roundheads in 1648
+only ruins remain
+dinefwr castle location gwynedd os sn 611217 type enclosure date 12th century inside the enclosure a great tower was built between 1150 and 1250
+there is a moat carved out of solid rock
+the siege of this castle took place in 1402 by owain glyndwr
+dunster castle location somerset os ss 991434 type motte date unknowna fortified manor was built on the site in the 14th century and was besieged in 1646 during the civil war
+salvin restored the manor in the 19th century
+earlshall castle location fife os no 465211 type enclosure date 1546 built by sir william bruce
+consists of a main block and a smaller detached tower of three storeys with walls 8 ft thick
+in the 17th century a range of buildings were built in the courtyard abandoned but then restored in 1892 by sir robert lorimer
+eynsford castle location kent os tq 542658 type enclosure date 11th century builtby william de eynsford started as an earthen platform with a wooden tower
+in 1088 it received a 30 ft high 6 ft thick stone curtain wall
+stone buildings were added in the 12th century
+green castle location carmarthenshire os sn 396166
+type fortified manor date unknown owned by the rede family
+an l shaped range with adjoining courtyard and rock cut cellar
+also referred to as castell moel herstmonceux castleherstmonceux castle location sussex os tq 646104
+type quadrangular date 1441 built of brick by sir roger fiennes
+some inner masonry was robbed to build a nearby house but the outer masonry has been restored
+kirby muxloe castle location leicestershire os sk 524046 type fortified manor date 1480 quadrangular design built of brick by lord hastings
+it was never completed as lord hastings was executed during building
+liverpool castle location liverpool os sj 397933 type enclosure date 1232150 ft square and surrounded by a dry ditch cut out of solid rock
+built by william de ferrers lock leven castle location perth kinross os
+no 138018 type tower house date 14th centurya square plan of five storeys 36 ft by 31 ft with walls 8 ft thick besieged by the english in 1301 and again in 1335 by edward balliol
+mary queen of scots was imprisoned here from june 1567 to may 1568
+maxstoke castle location warwickshire os sp 224891 type fortified manor date 1345 built by william de clinton
+a deep moat surrounds this quadrangular shaped castle with corner towers and gatehouse
+humphrey stafford acquired the castle in 1440
+middleham castle location yorkshire os se 128875 type motte date 1086 robert fitzrandolph built a great tower in 1170
+in the 13th century a quadrangular curtain was raised
+further buildings were added in the 14th and 15th centuries
+this was richard iii 's favorite residence
+pencoed castle location monmouthshire os st 101672 type enclosure date 1270
+the remains of the tower and curtain wall rests beside a 16th century mansion
+picton castle location pembrokeshire os sn 011135 type quadrangular date 13th centurya castle built near a motte castle of 1087 with strong corner towers and mid wall towers
+the castle is still occupied but has been altered
+scalloway castle location shetland os hu
+404392 type tower house date 1600 built by patrick stewart earl of orkney
+an l plan of four stories with cylindrical and square stair towers and vaulted basement
+occupied by cromwell in the 1650 's
+abandoned in the 17th century
+in 1908 it was turned over to the state
+skenfrith castle location monmouthshire os
+so 457202 type enclosure date 11th centurya compact quadrilateral enclosure with corner cylindrical towers
+the great tower sits on a motte and is 35 ft in diameter and three stories high
+the east side had water defences supplied by the river monnow
+sully castle location cardiff os st 151683 type enclosure date 12th century nothing remains as houses were built over the site in the 1970 's
+the keep walls were 10 ft thick
+weobley castle location swansea os ss 478927 type
+fortified manor date 13th century an irregular square of buildings
+the castle overlooks the river loughor
+attacked and damaged by owain glyndwr in 1403
 windsor castle location windsor os su 970770
-type motte date 1067 begin motte castle
-build improve england large castle
-besiege 1216
-royal residence
+type motte date 1067 began as a motte castle built on and improved upon and is now one of england 's largest castle
+besieged in 1216
+it is the royal residence

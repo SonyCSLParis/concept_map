@@ -1,30 +1,27 @@
-administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
-brick - http://dbpedia.org/resource/Brick
-defensive ditch - http://dbpedia.org/resource/Ditch_(fortification)
-siege tower - http://dbpedia.org/resource/Siege_tower
-military elite - http://dbpedia.org/resource/Special_forces
-lord family - http://dbpedia.org/resource/Lord_family
-fortress - http://dbpedia.org/resource/Castle
-ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
+family - http://dbpedia.org/resource/Family
 glass - http://dbpedia.org/resource/Glass
-king noble - http://dbpedia.org/resource/Reynard_the_Fox
-mount - http://dbpedia.org/resource/Working_animal
+brick - http://dbpedia.org/resource/Brick
+administration - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+medieval - http://dbpedia.org/resource/Middle_Ages
+siege towers - http://dbpedia.org/resource/Siege_engine
 economy - http://dbpedia.org/resource/Economy
-stone - http://dbpedia.org/resource/Masonry
-main castle - http://dbpedia.org/resource/Inner_bailey
-defense - http://dbpedia.org/resource/Military
-warfare - http://dbpedia.org/resource/Medieval_warfare
-peasant - http://dbpedia.org/resource/Peasant
-com4 - http://dbpedia.org/resource/DOS
-moat - http://dbpedia.org/resource/Moat
-listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+archers - http://dbpedia.org/resource/Longbow
 great tower - http://dbpedia.org/resource/Keep
-gate - http://dbpedia.org/resource/Gate
-carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
-noble - http://dbpedia.org/resource/Nobility
-archer - http://dbpedia.org/resource/Bow_and_arrow
-wood - http://dbpedia.org/resource/Wood
+fortress - http://dbpedia.org/resource/Castle
+knights - http://dbpedia.org/resource/Knights_Hospitaller
 krak des chevaliers - http://dbpedia.org/resource/Krak_des_Chevaliers
-kurds - http://dbpedia.org/resource/Kurds
-norman bailey - http://dbpedia.org/resource/Norman_Bailey_(bass-baritone)
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+military elite - http://dbpedia.org/resource/Special_forces
+norman - http://dbpedia.org/resource/Normans
 water - http://dbpedia.org/resource/Water
+stone - http://dbpedia.org/resource/Masonry
+mounted warfare - http://dbpedia.org/resource/Horses_in_warfare
+wood - http://dbpedia.org/resource/Wood
+ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
+moat - http://dbpedia.org/resource/Moat
+com4 - http://dbpedia.org/resource/DOS
+kurds - http://dbpedia.org/resource/Kurds
+noble - http://dbpedia.org/resource/Nobility
+bailey - http://dbpedia.org/resource/Inner_bailey
+gate - http://dbpedia.org/resource/Gate
+defensive ditch - http://dbpedia.org/resource/Ditch_(fortification)

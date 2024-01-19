@@ -1,4 +1,5 @@
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+restored byzantine empire - http://dbpedia.org/resource/Byzantine_Empire_under_the_Palaiologos_dynasty
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 catholicism - http://dbpedia.org/resource/Catholic_Church
 turks - http://dbpedia.org/resource/Ottoman_Turks
@@ -7,6 +8,7 @@ ottoman empire - http://dbpedia.org/resource/Ottoman_Turks
 learning objective - http://dbpedia.org/resource/Educational_aims_and_objectives
 turkish conquest - http://dbpedia.org/resource/Ottoman_wars_in_Europe
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+restored byzantine empire - http://dbpedia.org/resource/Byzantine_Empire_under_the_Palaiologos_dynasty
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 bulgarian empire - http://dbpedia.org/resource/First_Bulgarian_Empire
 serbian empire - http://dbpedia.org/resource/Serbian_Empire
@@ -19,7 +21,7 @@ islamic land - http://dbpedia.org/resource/Divisions_of_the_world_in_Islam
 turks - http://dbpedia.org/resource/Ottoman_Turks
 ottoman empire - http://dbpedia.org/resource/Ottoman_Turks
 turks - http://dbpedia.org/resource/Ottoman_Turks
-orthodox catholic - http://dbpedia.org/resource/Eastern_Orthodox_Church
+orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
 catholic christianity - http://dbpedia.org/resource/Catholic_Church
 eastern orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
 catholics - http://dbpedia.org/resource/Catholic_Church
@@ -41,6 +43,7 @@ constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 turks - http://dbpedia.org/resource/Ottoman_Turks
 ottoman empire - http://dbpedia.org/resource/Ottoman_Turks
+restored byzantine empire - http://dbpedia.org/resource/Byzantine_Empire_under_the_Palaiologos_dynasty
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 bulgarian empire - http://dbpedia.org/resource/First_Bulgarian_Empire
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
@@ -52,10 +55,8 @@ turks - http://dbpedia.org/resource/Ottoman_Turks
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 asia minor - http://dbpedia.org/resource/Anatolia
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
-emperor - http://dbpedia.org/resource/Byzantine_Empire
 rely - http://dbpedia.org/resource/Rely_(brand)
-mercenary - http://dbpedia.org/resource/Mercenary
-soldier - http://dbpedia.org/resource/Soldier
+mercenaries - http://dbpedia.org/resource/Mercenary
 anatolia - http://dbpedia.org/resource/Anatolia
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 islamic land - http://dbpedia.org/resource/Divisions_of_the_world_in_Islam
@@ -74,17 +75,19 @@ pope - http://dbpedia.org/resource/Pope
 stress - http://dbpedia.org/resource/Portuguese_language
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 catholic christianity - http://dbpedia.org/resource/Catholic_Church
-byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+byzantine emperors - http://dbpedia.org/resource/Byzantine_Empire
 catholics - http://dbpedia.org/resource/Catholic_Church
 sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 catholic - http://dbpedia.org/resource/Catholic_Church
 church - http://dbpedia.org/resource/Catholic_Church
 theological - http://dbpedia.org/resource/Catholic_theology
-orthodox catholics - http://dbpedia.org/resource/Eastern_Orthodox_Church
+orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+catholics - http://dbpedia.org/resource/Catholic_Church
 civil war - http://dbpedia.org/resource/Civil_war
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 ottomans - http://dbpedia.org/resource/Ottoman_(furniture)
+annexed - http://dbpedia.org/resource/Annexation
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 city - http://dbpedia.org/resource/Municipiu
@@ -100,10 +103,8 @@ orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 muslim - http://dbpedia.org/resource/Muslims
 turks - http://dbpedia.org/resource/Ottoman_Turks
-religious belief - http://dbpedia.org/resource/Religion
 catholic - http://dbpedia.org/resource/Catholic_Church
 church - http://dbpedia.org/resource/Catholic_Church
-emperor - http://dbpedia.org/resource/Byzantine_Empire
 byzantium - http://dbpedia.org/resource/Byzantine_Empire
 ottoman empire - http://dbpedia.org/resource/Ottoman_Turks
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
@@ -114,15 +115,16 @@ byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 catholic christianity - http://dbpedia.org/resource/Catholic_Church
 john viii palaiologos - http://dbpedia.org/resource/John_VIII_Palaiologos
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
+bishops - http://dbpedia.org/resource/Bishop
 catholic - http://dbpedia.org/resource/Catholic_Church
-church council - http://dbpedia.org/resource/Ecumenical_council
+church - http://dbpedia.org/resource/Catholic_Church
 florence - http://dbpedia.org/resource/Republic_of_Florence
 catholic christianity - http://dbpedia.org/resource/Catholic_Church
+bishops - http://dbpedia.org/resource/Bishop
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 catholic - http://dbpedia.org/resource/Catholic_Church
 church - http://dbpedia.org/resource/Catholic_Church
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
-emperor - http://dbpedia.org/resource/Byzantine_Empire
 ottoman turks - http://dbpedia.org/resource/Ottoman_Turks
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 catholic - http://dbpedia.org/resource/Catholic_Church

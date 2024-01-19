@@ -8,7 +8,7 @@ import regex as re
 def preprocess_text(text):
     doc = nlp(text)
 
-    cleaned_tokens = [token.text for token in doc if not (token.is_stop or token.is_punct)]
+    cleaned_tokens = [token.text for token in doc if not (token.is_punct)]
 
     cleaned_text = ' '.join(cleaned_tokens).lower()
 

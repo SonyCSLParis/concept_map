@@ -11,18 +11,16 @@ lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
 ona - http://dbpedia.org/resource/Original_net_animation
 wedding - http://dbpedia.org/resource/Wedding
-acre - http://dbpedia.org/resource/Acre
+listed building - http://dbpedia.org/resource/Listed_building
 wedding - http://dbpedia.org/resource/Wedding
 local history - http://dbpedia.org/resource/Local_history
-loan - http://dbpedia.org/resource/Loan
-bequest - http://dbpedia.org/resource/Bequest
-object - http://dbpedia.org/resource/Object-oriented_programming
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 accreditation - http://dbpedia.org/resource/Accreditation
 sandford - http://dbpedia.org/resource/Sandford-on-Thames
 heritage - http://dbpedia.org/resource/Heritage_railway
 education - http://dbpedia.org/resource/Education
 car park - http://dbpedia.org/resource/Parking_lot
+stairs - http://dbpedia.org/resource/Stairs
 stair lift - http://dbpedia.org/resource/Stairlift
 wheelchair - http://dbpedia.org/resource/Wheelchair
 toilet - http://dbpedia.org/resource/Public_toilet
@@ -30,10 +28,8 @@ large print - http://dbpedia.org/resource/Large-print
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
 map - http://dbpedia.org/resource/Map
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
-bicycle - http://dbpedia.org/resource/Police_bicycle
 charter - http://dbpedia.org/resource/Charter
-bicycle - http://dbpedia.org/resource/Police_bicycle
-bicycle - http://dbpedia.org/resource/Police_bicycle
+tudor - http://dbpedia.org/resource/Tudor_architecture
 tower - http://dbpedia.org/resource/Tower
 train - http://dbpedia.org/resource/Train_station
 bruce grove station - http://dbpedia.org/resource/Bruce_Grove_railway_station
@@ -48,7 +44,7 @@ bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 rail - http://dbpedia.org/resource/Handrail
 station - http://dbpedia.org/resource/Metro_station
-escalator - http://dbpedia.org/resource/Escalator
+escalators - http://dbpedia.org/resource/Escalator
 station - http://dbpedia.org/resource/Metro_station
 newspaper - http://dbpedia.org/resource/Newspaper
 kiosk - http://dbpedia.org/resource/Kiosk
@@ -75,7 +71,6 @@ bus - http://dbpedia.org/resource/Bus
 tfl - http://dbpedia.org/resource/Transport_for_London
 journey planner - http://dbpedia.org/resource/Journey_planner
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
-underground station - http://dbpedia.org/resource/Metro_station
 tfl - http://dbpedia.org/resource/Transport_for_London
 journey planner - http://dbpedia.org/resource/Journey_planner
 car park - http://dbpedia.org/resource/Parking_lot
@@ -83,6 +78,5 @@ church - http://dbpedia.org/resource/Church_service
 space - http://dbpedia.org/resource/Outer_space
 archive service - http://dbpedia.org/resource/Archive
 street parking - http://dbpedia.org/resource/Parking
-match day - http://dbpedia.org/resource/Match_Day_(video_game)
 tottenham hotspur fc - http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station

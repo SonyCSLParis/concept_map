@@ -2,11 +2,12 @@ manhattan project - http://dbpedia.org/resource/Manhattan_Project
 article - http://dbpedia.org/resource/Falklands_War
 heritage - http://dbpedia.org/resource/History
 encyclopedia - http://dbpedia.org/resource/Encyclopedia
+licensed - http://dbpedia.org/resource/License
 article - http://dbpedia.org/resource/Falklands_War
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 topical - http://dbpedia.org/resource/Topical_medication
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 major general - http://dbpedia.org/resource/Major_general
 leslie groves - http://dbpedia.org/resource/Leslie_Groves
 army corps - http://dbpedia.org/resource/Corps
@@ -15,9 +16,7 @@ manhattan - http://dbpedia.org/resource/Manhattan
 codename - http://dbpedia.org/resource/Code_name
 tube alloys - http://dbpedia.org/resource/Tube_Alloys
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-dollar - http://dbpedia.org/resource/United_States_dollar
-fissionable material - http://dbpedia.org/resource/Nuclear_fission
-weapon - http://dbpedia.org/resource/Nuclear_weapon
+fissionable - http://dbpedia.org/resource/Nuclear_fission
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 gun - http://dbpedia.org/resource/Anti-aircraft_warfare
 fission - http://dbpedia.org/resource/Nuclear_weapon
@@ -35,14 +34,15 @@ ridge - http://dbpedia.org/resource/Ridge
 tennessee - http://dbpedia.org/resource/Tennessee
 uranium - http://dbpedia.org/resource/Uranium-235
 plutonium - http://dbpedia.org/resource/Plutonium
-reactor - http://dbpedia.org/resource/Nuclear_reactor
 ridge - http://dbpedia.org/resource/Ridge
 hanford - http://dbpedia.org/resource/Hanford_Site
 washington - http://dbpedia.org/resource/George_Washington
 uranium - http://dbpedia.org/resource/Uranium-235
-transmute - http://dbpedia.org/resource/Nuclear_transmutation
+irradiated - http://dbpedia.org/resource/Radiation
+transmuted - http://dbpedia.org/resource/Nuclear_transmutation
 plutonium - http://dbpedia.org/resource/Plutonium
 plutonium - http://dbpedia.org/resource/Plutonium
+chemically separated - http://dbpedia.org/resource/Separation_process
 uranium - http://dbpedia.org/resource/Uranium-235
 gun - http://dbpedia.org/resource/Anti-aircraft_warfare
 type design - http://dbpedia.org/resource/Type_certificate
@@ -54,14 +54,13 @@ los alamos - http://dbpedia.org/resource/Manhattan_Project
 mexico - http://dbpedia.org/resource/Mexico
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-atomic bombing - http://dbpedia.org/resource/Nuclear_weapon
+atomic bombings - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 nagasaki - http://dbpedia.org/resource/Fat_Man
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 atomic energy commission - http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 einstein - http://dbpedia.org/resource/Albert_Einstein
-author - http://dbpedia.org/resource/Author
 physicist - http://dbpedia.org/resource/Nuclear_physics
 leó szilárd - http://dbpedia.org/resource/Leo_Szilard
 president - http://dbpedia.org/resource/President_of_the_United_States
@@ -85,16 +84,14 @@ uranium - http://dbpedia.org/resource/Uranium-235
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
 lyman briggs - http://dbpedia.org/resource/Lyman_James_Briggs
 neutron - http://dbpedia.org/resource/Neutron
-experiment - http://dbpedia.org/resource/Experiment
 2 john - http://dbpedia.org/resource/Second_Epistle_of_John
 dunning - http://dbpedia.org/resource/Dunning_(process)
-team columbia - http://dbpedia.org/resource/HTC–Highroad
 columbia university - http://dbpedia.org/resource/Columbia_University
 niels bohr - http://dbpedia.org/resource/Niels_Bohr
 hypothesis - http://dbpedia.org/resource/Hypothesis
 uranium 235 - http://dbpedia.org/resource/Uranium-235
 fission - http://dbpedia.org/resource/Nuclear_weapon
-neutron - http://dbpedia.org/resource/Neutron
+neutrons - http://dbpedia.org/resource/Neutron
 otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
 author - http://dbpedia.org/resource/Author
@@ -149,7 +146,7 @@ mark oliphant - http://dbpedia.org/resource/Mark_Oliphant
 urge - http://dbpedia.org/resource/Urge_(digital_music_service)
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 maud report - http://dbpedia.org/resource/MAUD_Committee
 maud report - http://dbpedia.org/resource/MAUD_Committee
 roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
@@ -171,7 +168,7 @@ great britain - http://dbpedia.org/resource/United_Kingdom
 germany - http://dbpedia.org/resource/Nazi_Germany
 uranium - http://dbpedia.org/resource/Uranium-235
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
 atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
 compton - http://dbpedia.org/resource/Denis_Compton
@@ -195,7 +192,6 @@ fission bomb - http://dbpedia.org/resource/Nuclear_weapon
 edward teller - http://dbpedia.org/resource/Edward_Teller
 hydrogen bomb - http://dbpedia.org/resource/Nuclear_weapon
 sir john anderson - http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
 prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
 winston churchill - http://dbpedia.org/resource/Winston_Churchill
 manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
@@ -205,12 +201,10 @@ eugene reybold - http://dbpedia.org/resource/Eugene_Reybold
 major general - http://dbpedia.org/resource/Major_general
 colonel - http://dbpedia.org/resource/Colonel
 leslie groves - http://dbpedia.org/resource/Leslie_Groves
-grove - http://dbpedia.org/resource/Orchard
 brigadier general - http://dbpedia.org/resource/General_officer
 policy committee - http://dbpedia.org/resource/Committee
 conant - http://dbpedia.org/resource/James_B._Conant
 rear admiral - http://dbpedia.org/resource/Rear_admiral
-acre - http://dbpedia.org/resource/Acre
 ha - http://dbpedia.org/resource/Century
 tennessee - http://dbpedia.org/resource/Tennessee
 ridge - http://dbpedia.org/resource/Ridge
@@ -218,10 +212,8 @@ tennessee - http://dbpedia.org/resource/Tennessee
 laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 war production board - http://dbpedia.org/resource/War_Production_Board
-grove - http://dbpedia.org/resource/Orchard
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
 laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
-grove - http://dbpedia.org/resource/Orchard
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 mexico - http://dbpedia.org/resource/Mexico
@@ -229,9 +221,7 @@ chicago pile-1 - http://dbpedia.org/resource/Chicago_Pile-1
 nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
 chicago - http://dbpedia.org/resource/University_of_Chicago
 enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
-grove - http://dbpedia.org/resource/Orchard
 hanford site - http://dbpedia.org/resource/Hanford_Site
-acre - http://dbpedia.org/resource/Acre
 ha - http://dbpedia.org/resource/Century
 hanford - http://dbpedia.org/resource/Hanford_Site
 february 18 - http://dbpedia.org/resource/February_18
@@ -275,7 +265,7 @@ combined policy committee - http://dbpedia.org/resource/Quebec_Agreement
 quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
 henry stimson - http://dbpedia.org/resource/Henry_L._Stimson
 conant - http://dbpedia.org/resource/James_B._Conant
-field marshal - http://dbpedia.org/resource/Generalfeldmarschall
+field marshal - http://dbpedia.org/resource/Field_marshal
 sir john dill - http://dbpedia.org/resource/John_Dill
 colonel - http://dbpedia.org/resource/Colonel
 reactor - http://dbpedia.org/resource/Nuclear_reactor
@@ -284,27 +274,24 @@ graphite - http://dbpedia.org/resource/Graphite
 reactor - http://dbpedia.org/resource/Nuclear_reactor
 ridge - http://dbpedia.org/resource/Ridge
 british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
 rudolph peierls - http://dbpedia.org/resource/Rudolf_Peierls
 otto hahn - http://dbpedia.org/resource/Otto_Hahn
 franz simon - http://dbpedia.org/resource/Francis_Simon
 klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
 newport news - http://dbpedia.org/resource/Newport_News_Shipbuilding
 virginia - http://dbpedia.org/resource/Virginia
-group theoretical - http://dbpedia.org/resource/Group_theory
+special group - http://dbpedia.org/resource/Oversight_of_United_States_covert_operations
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 edward teller - http://dbpedia.org/resource/Edward_Teller
 implosion - http://dbpedia.org/resource/Nuclear_weapon_design
 beta - http://dbpedia.org/resource/Beta_particle
-calutron - http://dbpedia.org/resource/Calutron
-operation oak - http://dbpedia.org/resource/Gran_Sasso_raid
+calutrons - http://dbpedia.org/resource/Calutron
 ridge - http://dbpedia.org/resource/Ridge
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 emilio segrè - http://dbpedia.org/resource/Emilio_Segrè
 sample - http://dbpedia.org/resource/Adsorption
 reactor - http://dbpedia.org/resource/Nuclear_reactor
-breed - http://dbpedia.org/resource/Reproduction
 plutonium - http://dbpedia.org/resource/Plutonium
 ridge - http://dbpedia.org/resource/Ridge
 spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
@@ -313,7 +300,6 @@ fission - http://dbpedia.org/resource/Nuclear_weapon
 weapon - http://dbpedia.org/resource/Nuclear_weapon
 reactor - http://dbpedia.org/resource/Nuclear_reactor
 aqueous homogeneous reactor - http://dbpedia.org/resource/Aqueous_homogeneous_reactor
-fuel - http://dbpedia.org/resource/Nuclear_fuel
 enriched uranium - http://dbpedia.org/resource/Enriched_uranium
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 july 4 - http://dbpedia.org/resource/July_4
@@ -325,11 +311,11 @@ weapon - http://dbpedia.org/resource/Nuclear_weapon
 thin man - http://dbpedia.org/resource/The_Thin_Man
 workable - http://dbpedia.org/resource/Workable_FC
 implosion design - http://dbpedia.org/resource/Nuclear_weapon_design
+top priority - http://dbpedia.org/resource/Top_Priority
 laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
 july 20 - http://dbpedia.org/resource/20_July_plot
 los alamos - http://dbpedia.org/resource/Manhattan_Project
 organizational structure - http://dbpedia.org/resource/Organizational_structure
-chemist - http://dbpedia.org/resource/Chemist
 arnold kramish - http://dbpedia.org/resource/Arnold_Kramish
 corrosive - http://dbpedia.org/resource/Corrosion
 acid - http://dbpedia.org/resource/Acid
@@ -345,7 +331,6 @@ reactor - http://dbpedia.org/resource/Nuclear_reactor
 hanford site - http://dbpedia.org/resource/Hanford_Site
 samuel goudsmit - http://dbpedia.org/resource/Samuel_Goudsmit
 alsos mission - http://dbpedia.org/resource/Alsos_Mission
-paper - http://dbpedia.org/resource/Scientific_literature
 strasbourg - http://dbpedia.org/resource/Strasbourg
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
@@ -356,9 +341,8 @@ paul - http://dbpedia.org/resource/Paul_of_Greece
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 brigadier general - http://dbpedia.org/resource/General_officer
 thomas farrell - http://dbpedia.org/resource/Thomas_Farrell_(general)
-grove - http://dbpedia.org/resource/Orchard
 bridgewire - http://dbpedia.org/resource/Bridgewire
-detonator - http://dbpedia.org/resource/Detonator
+detonators - http://dbpedia.org/resource/Detonator
 january 20 - http://dbpedia.org/resource/January_20
 uranium hexafluoride - http://dbpedia.org/resource/Uranium_hexafluoride
 gas - http://dbpedia.org/resource/Gas
@@ -372,7 +356,7 @@ haigerloch - http://dbpedia.org/resource/Haigerloch
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
 nazi germany - http://dbpedia.org/resource/World_War_II
-allied power - http://dbpedia.org/resource/Allies_of_World_War_II
+allied powers - http://dbpedia.org/resource/Allies_of_World_War_II
 [73 - http://dbpedia.org/resource/Debbie_Wasserman_Schultz
 ton - http://dbpedia.org/resource/Tonne
 explosion - http://dbpedia.org/resource/Nuclear_explosion
@@ -380,14 +364,12 @@ alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
 mexico - http://dbpedia.org/resource/Mexico
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
 los alamos - http://dbpedia.org/resource/Manhattan_Project
-city - http://dbpedia.org/resource/City
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 kokura - http://dbpedia.org/resource/Kokura
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 kyoto - http://dbpedia.org/resource/Kyoto_Protocol
 kyoto - http://dbpedia.org/resource/Kyoto_Protocol
 metallurgical laboratory - http://dbpedia.org/resource/Metallurgical_Laboratory
-scientist - http://dbpedia.org/resource/Scientist
 james franck - http://dbpedia.org/resource/James_Franck
 franck report - http://dbpedia.org/resource/Franck_Report
 bomb - http://dbpedia.org/resource/Nuclear_weapon
@@ -400,11 +382,9 @@ nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
 gadget - http://dbpedia.org/resource/Gadget
 alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
 uss indianapolis - http://dbpedia.org/resource/USS_Indianapolis_(CA-35)
-sail - http://dbpedia.org/resource/Sailing
 tinian - http://dbpedia.org/resource/Tinian
 nuclear - http://dbpedia.org/resource/Nuclear_weapon
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
-grove - http://dbpedia.org/resource/Orchard
 gun - http://dbpedia.org/resource/Anti-aircraft_warfare
 type design - http://dbpedia.org/resource/Type_certificate
 uranium-235 - http://dbpedia.org/resource/Uranium-235
@@ -413,9 +393,8 @@ president - http://dbpedia.org/resource/President_of_the_United_States
 truman - http://dbpedia.org/resource/Harry_S._Truman
 soviet leader - http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union
 joseph stalin - http://dbpedia.org/resource/Joseph_Stalin
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
 stalin - http://dbpedia.org/resource/Joseph_Stalin
-feign - http://dbpedia.org/resource/Feign_(album)
 espionage - http://dbpedia.org/resource/Atomic_spies
 carl spaatz - http://dbpedia.org/resource/Carl_Spaatz
 bomb - http://dbpedia.org/resource/Nuclear_weapon
@@ -441,18 +420,17 @@ kokura - http://dbpedia.org/resource/Kokura
 cloud - http://dbpedia.org/resource/Cloud
 smoke - http://dbpedia.org/resource/Smoke
 smyth report - http://dbpedia.org/resource/Smyth_Report
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-allied power - http://dbpedia.org/resource/Allies_of_World_War_II
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
+allied powers - http://dbpedia.org/resource/Allies_of_World_War_II
 physicist - http://dbpedia.org/resource/Nuclear_physics
 dose - http://dbpedia.org/resource/Ionizing_radiation
-rem - http://dbpedia.org/resource/Roentgen_equivalent_man
+rems - http://dbpedia.org/resource/Acute_radiation_syndrome
 radiation - http://dbpedia.org/resource/Radioactive_decay
 criticality accident - http://dbpedia.org/resource/Criticality_accident
 tungsten carbide - http://dbpedia.org/resource/Tungsten_carbide
 brick - http://dbpedia.org/resource/Brick
 plutonium - http://dbpedia.org/resource/Plutonium
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-die - http://dbpedia.org/resource/Integrated_circuit
 manhattan district - http://dbpedia.org/resource/Manhattan_Project
 shutdown - http://dbpedia.org/resource/Strike_action
 liquid thermal diffusion - http://dbpedia.org/resource/Thermophoresis
@@ -472,20 +450,18 @@ russian spy ring - http://dbpedia.org/resource/Illegals_Program
 defector - http://dbpedia.org/resource/Defection
 igor - http://dbpedia.org/resource/Hurricane_Igor
 atomic spy - http://dbpedia.org/resource/Atomic_spies
-hysteria - http://dbpedia.org/resource/Year_2000_problem
 conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
 physicist - http://dbpedia.org/resource/Nuclear_physics
 louis slotin - http://dbpedia.org/resource/Louis_Slotin
 dose - http://dbpedia.org/resource/Ionizing_radiation
 radiation - http://dbpedia.org/resource/Radioactive_decay
-rem - http://dbpedia.org/resource/Roentgen_equivalent_man
+rems - http://dbpedia.org/resource/Acute_radiation_syndrome
 screwdriver - http://dbpedia.org/resource/Screwdriver
 beryllium - http://dbpedia.org/resource/Beryllium
-hemisphere - http://dbpedia.org/resource/Earth
+hemispheres - http://dbpedia.org/resource/Earth
 bikini atoll - http://dbpedia.org/resource/Bikini_Atoll
 operation crossroads - http://dbpedia.org/resource/Operation_Crossroads
 underwater - http://dbpedia.org/resource/Underwater_diving
-baker - http://dbpedia.org/resource/Bakery
 truman - http://dbpedia.org/resource/Harry_S._Truman
 energy - http://dbpedia.org/resource/Energy
 law - http://dbpedia.org/resource/Scientific_law
@@ -496,7 +472,7 @@ manhattan project - http://dbpedia.org/resource/Manhattan_Project
 atomic energy commission - http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
 manhattan district - http://dbpedia.org/resource/Manhattan_Project
 chronology - http://dbpedia.org/resource/Chronology
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
 sublette - http://dbpedia.org/resource/William_Sublette
 nuclear - http://dbpedia.org/resource/Nuclear_weapon
 chronology - http://dbpedia.org/resource/Chronology

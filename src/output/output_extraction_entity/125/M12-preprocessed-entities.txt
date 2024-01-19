@@ -4,11 +4,9 @@ nixon - http://dbpedia.org/resource/Richard_Nixon
 george - http://dbpedia.org/resource/George_(band)
 nixon - http://dbpedia.org/resource/Richard_Nixon
 rachel - http://dbpedia.org/resource/Rachel
-bear - http://dbpedia.org/resource/Bear
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 hampshire - http://dbpedia.org/resource/Hampshire_county_cricket_teams
 va - http://dbpedia.org/resource/Virginia
-die - http://dbpedia.org/resource/Death
 mary - http://dbpedia.org/resource/Mary_Shelley
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 nixon - http://dbpedia.org/resource/Richard_Nixon

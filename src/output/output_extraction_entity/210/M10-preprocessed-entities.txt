@@ -3,11 +3,12 @@ metz - http://dbpedia.org/resource/Metz
 washington - http://dbpedia.org/resource/George_Washington
 library - http://dbpedia.org/resource/Library
 egyptian civilization - http://dbpedia.org/resource/Ancient_Egypt
+settled life - http://dbpedia.org/resource/Neolithic
 nile river - http://dbpedia.org/resource/Nile
 egyptian people - http://dbpedia.org/resource/Egyptians
 heritage - http://dbpedia.org/resource/Tradition
 egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
-epoch - http://dbpedia.org/resource/Era
+epochs - http://dbpedia.org/resource/Epoch
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 culture - http://dbpedia.org/resource/Culture
 unification - http://dbpedia.org/resource/Italian_unification
@@ -29,28 +30,20 @@ brick - http://dbpedia.org/resource/Mudbrick
 unification - http://dbpedia.org/resource/Italian_unification
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 plow - http://dbpedia.org/resource/Plough
-sailor - http://dbpedia.org/resource/Sailor
-shipbuilder - http://dbpedia.org/resource/Shipbuilding
 chart - http://dbpedia.org/resource/Horoscope
-heaven - http://dbpedia.org/resource/Inanna
 nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
-physician - http://dbpedia.org/resource/Physician
-surgical operation - http://dbpedia.org/resource/Surgery
+surgical - http://dbpedia.org/resource/Surgery
 stone - http://dbpedia.org/resource/Stone_tool
-wall tomb - http://dbpedia.org/resource/Funerary_art
 naturalistic - http://dbpedia.org/resource/Metaphysical_naturalism
-mural - http://dbpedia.org/resource/Mural
+murals - http://dbpedia.org/resource/Mural
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 stone - http://dbpedia.org/resource/Stone_tool
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 rock - http://dbpedia.org/resource/Rock_music
-tomb - http://dbpedia.org/resource/Tomb
-temple - http://dbpedia.org/resource/Egyptian_temple
 luxor - http://dbpedia.org/resource/Luxor
 karnak - http://dbpedia.org/resource/Karnak
 ptolemaic - http://dbpedia.org/resource/Ptolemaic_Kingdom
-temple - http://dbpedia.org/resource/Egyptian_temple
 edfu - http://dbpedia.org/resource/Edfu
 dendera - http://dbpedia.org/resource/Dendera
 roman temple - http://dbpedia.org/resource/Roman_temple
@@ -59,14 +52,11 @@ philae island - http://dbpedia.org/resource/Philae
 predynastic - http://dbpedia.org/resource/Prehistoric_Egypt
 dynasties - http://dbpedia.org/resource/Dynasty
 nile - http://dbpedia.org/resource/Nile
-hunter gatherer - http://dbpedia.org/resource/Hunter-gatherer
-subsistence - http://dbpedia.org/resource/Hunter-gatherer
-agriculturalist - http://dbpedia.org/resource/Agriculture
-language - http://dbpedia.org/resource/Latin
+subsistence agriculturalists - http://dbpedia.org/resource/Subsistence_agriculture
+written language - http://dbpedia.org/resource/Orthography
 religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
 pharaonic egypt - http://dbpedia.org/resource/Pharaoh
 cradle - http://dbpedia.org/resource/Cradle_of_civilization
-civilization - http://dbpedia.org/resource/Civilization
 antiquity - http://dbpedia.org/resource/Ancient_Egypt
 ancient egyptian civilization - http://dbpedia.org/resource/Ancient_Egypt
 bond - http://dbpedia.org/resource/Surety
@@ -84,9 +74,7 @@ flood - http://dbpedia.org/resource/Flood_myth
 flood - http://dbpedia.org/resource/Flood_myth
 uniform - http://dbpedia.org/resource/Uniform
 silt - http://dbpedia.org/resource/Silt
-lagoon - http://dbpedia.org/resource/Lagoon
-stream - http://dbpedia.org/resource/Wadi
-natural reservoir - http://dbpedia.org/resource/Natural_reservoir
+reservoirs - http://dbpedia.org/resource/Reservoir
 fish - http://dbpedia.org/resource/Fishing
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 nile - http://dbpedia.org/resource/Nile
@@ -94,38 +82,29 @@ vegetation - http://dbpedia.org/resource/Vegetation
 nile - http://dbpedia.org/resource/Nile
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 flood - http://dbpedia.org/resource/Flood_myth
-water - http://dbpedia.org/resource/Water
 rebirth - http://dbpedia.org/resource/Reincarnation
-crop - http://dbpedia.org/resource/Agriculture
 rebirth - http://dbpedia.org/resource/Reincarnation
 sequence - http://dbpedia.org/resource/Sequence
 sun - http://dbpedia.org/resource/Solar_deity
-die - http://dbpedia.org/resource/Death
-human - http://dbpedia.org/resource/Human
 paleolithic - http://dbpedia.org/resource/Paleolithic
 neolithic - http://dbpedia.org/resource/Neolithic
 revolution - http://dbpedia.org/resource/Revolution
 food production - http://dbpedia.org/resource/Food_industry
 meat - http://dbpedia.org/resource/Meat
-article - http://dbpedia.org/resource/Bratislava
 diet - http://dbpedia.org/resource/Diet_of_Hungary
-plant - http://dbpedia.org/resource/Factory
 wheat - http://dbpedia.org/resource/Wheat
 barley - http://dbpedia.org/resource/Barley
-crop - http://dbpedia.org/resource/Agriculture
 random - http://dbpedia.org/resource/Randomness
 egalitarian - http://dbpedia.org/resource/Egalitarianism
 nile valley - http://dbpedia.org/resource/Nile
 economy - http://dbpedia.org/resource/Economy
 southwest asia - http://dbpedia.org/resource/Western_Asia
-development town - http://dbpedia.org/resource/Development_town
 hierarchical - http://dbpedia.org/resource/Hierarchy
 nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
 rainmaker - http://dbpedia.org/resource/Rainmaking
-town - http://dbpedia.org/resource/Town
 cult - http://dbpedia.org/resource/Imperial_cult
-egyptologist - http://dbpedia.org/resource/Egyptology
-autonomous community - http://dbpedia.org/resource/Autonomous_communities_of_Spain
+egyptologists - http://dbpedia.org/resource/Egyptology
+autonomous communities - http://dbpedia.org/resource/Autonomous_communities_of_Spain
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 ancient egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
 unification - http://dbpedia.org/resource/Italian_unification
@@ -133,6 +112,7 @@ delta - http://dbpedia.org/resource/Nile_Delta
 soil - http://dbpedia.org/resource/Soil
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 sun - http://dbpedia.org/resource/Solar_deity
+baked - http://dbpedia.org/resource/Baking
 symbol - http://dbpedia.org/resource/Symbol
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 white crown - http://dbpedia.org/resource/Hedjet
@@ -145,8 +125,7 @@ god - http://dbpedia.org/resource/Ancient_Egyptian_deities
 delta - http://dbpedia.org/resource/Nile_Delta
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 unification - http://dbpedia.org/resource/Italian_unification
-myth - http://dbpedia.org/resource/Myth
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 osiris - http://dbpedia.org/resource/Osiris
 isis - http://dbpedia.org/resource/Isis
 evil - http://dbpedia.org/resource/Evil
@@ -164,20 +143,13 @@ menes - http://dbpedia.org/resource/Menes
 king narmer - http://dbpedia.org/resource/Narmer
 centralized government - http://dbpedia.org/resource/Centralized_government
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-king country - http://dbpedia.org/resource/King_Country
-political institution - http://dbpedia.org/resource/Political_system
 central government - http://dbpedia.org/resource/Central_government
-soldier - http://dbpedia.org/resource/Soldier
-retainer - http://dbpedia.org/resource/Retinue
-bureaucrat - http://dbpedia.org/resource/Bureaucracy
-artisan - http://dbpedia.org/resource/Artisan
-upper class - http://dbpedia.org/resource/Bourgeoisie
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+goods - http://dbpedia.org/resource/Goods
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 early dynastic period - http://dbpedia.org/resource/History_of_Sumer
-artisan - http://dbpedia.org/resource/Artisan
-civil servant - http://dbpedia.org/resource/Civil_service
+civil servants - http://dbpedia.org/resource/Civil_service
 central government - http://dbpedia.org/resource/Central_government
-fashion - http://dbpedia.org/resource/Fashion
+learning - http://dbpedia.org/resource/Education
 pharaonic - http://dbpedia.org/resource/Pharaoh
 civilization - http://dbpedia.org/resource/Civilization
 middle kingdom - http://dbpedia.org/resource/Middle_Francia
@@ -192,18 +164,15 @@ plateau - http://dbpedia.org/resource/Plateau
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
 b.c. - http://dbpedia.org/resource/Figured_bass
-falter - http://dbpedia.org/resource/Falter
 civil war - http://dbpedia.org/resource/Civil_war
 central government - http://dbpedia.org/resource/Central_government
 twelfth dynasty - http://dbpedia.org/resource/Twelfth_Dynasty_of_Egypt
 middle kingdom - http://dbpedia.org/resource/Middle_Francia
 divine kingship - http://dbpedia.org/resource/Imperial_cult
-political economic - http://dbpedia.org/resource/Political_economy
+economic system - http://dbpedia.org/resource/Economy
 god incarnate - http://dbpedia.org/resource/Incarnation
-power control - http://dbpedia.org/resource/Power_control
 nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-tomb - http://dbpedia.org/resource/Tomb
 cult - http://dbpedia.org/resource/Imperial_cult
 pharaoh - http://dbpedia.org/resource/Pharaoh
 godking - http://dbpedia.org/resource/God_king
@@ -214,6 +183,7 @@ maat - http://dbpedia.org/resource/Maat
 truth - http://dbpedia.org/resource/Truth
 ideal - http://dbpedia.org/resource/Theory_of_forms
 universe - http://dbpedia.org/resource/Universe
+personified - http://dbpedia.org/resource/Personification
 goddess - http://dbpedia.org/resource/Ancient_Egyptian_deities
 maat - http://dbpedia.org/resource/Maat
 constraint - http://dbpedia.org/resource/Relational_database
@@ -222,37 +192,31 @@ decree - http://dbpedia.org/resource/Decree
 fourth dynasty - http://dbpedia.org/resource/Fourth_Dynasty_of_Egypt
 vizier - http://dbpedia.org/resource/Vizier
 chief minister - http://dbpedia.org/resource/Prime_minister
-prince royal - http://dbpedia.org/resource/Crown_prince
 blood - http://dbpedia.org/resource/Blood
 government department - http://dbpedia.org/resource/Departments_of_the_Government_of_the_United_Kingdom
-nome - http://dbpedia.org/resource/Prefectures_of_Greece
-nomarch - http://dbpedia.org/resource/Nomarch
-governor - http://dbpedia.org/resource/Roman_governor
-nomarch - http://dbpedia.org/resource/Nomarch
+nomes - http://dbpedia.org/resource/Nome_(Egypt)
+districts - http://dbpedia.org/resource/District
 independence - http://dbpedia.org/resource/Independence
 nomarch - http://dbpedia.org/resource/Nomarch
 hereditary - http://dbpedia.org/resource/Dynasty
 hereditary - http://dbpedia.org/resource/Dynasty
-gentry - http://dbpedia.org/resource/Gentry
-courtier - http://dbpedia.org/resource/Royal_court
-gift tax - http://dbpedia.org/resource/Gift_tax
+landed gentry - http://dbpedia.org/resource/Gentry
+tax exempt - http://dbpedia.org/resource/Tax_exemption
 feudal - http://dbpedia.org/resource/Feudalism
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 administration - http://dbpedia.org/resource/Public_administration
 sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
 climatic - http://dbpedia.org/resource/Climate
 nile - http://dbpedia.org/resource/Nile
-water - http://dbpedia.org/resource/Water
 famine - http://dbpedia.org/resource/Famine
 famine - http://dbpedia.org/resource/Famine
 pharaonic - http://dbpedia.org/resource/Pharaoh
 nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
 hereditary - http://dbpedia.org/resource/Dynasty
-manor - http://dbpedia.org/resource/Feudalism
-court - http://dbpedia.org/resource/Royal_court
+manors - http://dbpedia.org/resource/Manorialism
 feudal - http://dbpedia.org/resource/Feudalism
 decentralized - http://dbpedia.org/resource/Decentralization
-eleventh dynasty - http://dbpedia.org/resource/Eleventh_Dynasty_of_Egypt
+dynasties - http://dbpedia.org/resource/Dynasty
 twelfth dynasty - http://dbpedia.org/resource/Twelfth_Dynasty_of_Egypt
 central government - http://dbpedia.org/resource/Central_government
 single - http://dbpedia.org/resource/Phonograph_record
@@ -261,7 +225,7 @@ middle kingdom - http://dbpedia.org/resource/Middle_Francia
 hyksos - http://dbpedia.org/resource/Hyksos
 hyksos - http://dbpedia.org/resource/Hyksos
 semitic - http://dbpedia.org/resource/Semitic_people
-nomad - http://dbpedia.org/resource/Nomad
+nomads - http://dbpedia.org/resource/Nomad
 delta - http://dbpedia.org/resource/Nile_Delta
 avaris - http://dbpedia.org/resource/Avaris
 delta - http://dbpedia.org/resource/Nile_Delta
@@ -292,36 +256,27 @@ kheops - http://dbpedia.org/resource/Khufu
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 giza - http://dbpedia.org/resource/Giza
 limestone - http://dbpedia.org/resource/Limestone
-ton - http://dbpedia.org/resource/Tonne
-stone - http://dbpedia.org/resource/Stone_tool
+casing - http://dbpedia.org/resource/Cabinetry
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 medieval cairo - http://dbpedia.org/resource/Cairo
-funerary monument - http://dbpedia.org/resource/Funerary_art
 single - http://dbpedia.org/resource/Phonograph_record
 middle kingdom - http://dbpedia.org/resource/Middle_Francia
 channeling - http://dbpedia.org/resource/Mediumship
-funerary monument - http://dbpedia.org/resource/Funerary_art
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 pharaonic - http://dbpedia.org/resource/Pharaoh
 civilization - http://dbpedia.org/resource/Civilization
-egyptologist - http://dbpedia.org/resource/Egyptology
-innovation - http://dbpedia.org/resource/Innovation
+egyptologists - http://dbpedia.org/resource/Egyptology
 technology - http://dbpedia.org/resource/Technology
 court - http://dbpedia.org/resource/Royal_court
 consumption - http://dbpedia.org/resource/Consumerism
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 pharaohs - http://dbpedia.org/resource/Pharaoh
-tomb - http://dbpedia.org/resource/Tomb
 ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
-religious belief - http://dbpedia.org/resource/Religion
 afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
-culture - http://dbpedia.org/resource/Culture
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 rock - http://dbpedia.org/resource/Rock_music
-tomb - http://dbpedia.org/resource/Tomb
-picture wall - http://dbpedia.org/resource/Lahore_Fort
 tomb - http://dbpedia.org/resource/Tomb
 substitute - http://dbpedia.org/resource/Substitutionary_atonement
 stone - http://dbpedia.org/resource/Stone_tool
@@ -330,7 +285,6 @@ autonomous - http://dbpedia.org/resource/Autonomy
 theban - http://dbpedia.org/resource/Luxor
 suzerainty - http://dbpedia.org/resource/Suzerainty
 hyksos - http://dbpedia.org/resource/Hyksos
-king country - http://dbpedia.org/resource/King_Country
 hyksos - http://dbpedia.org/resource/Hyksos
 ahmose - http://dbpedia.org/resource/Ahmose_I
 b.c. - http://dbpedia.org/resource/Figured_bass
@@ -340,7 +294,6 @@ egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
 administration - http://dbpedia.org/resource/Public_administration
 pharaoh - http://dbpedia.org/resource/Pharaoh
 chief minister - http://dbpedia.org/resource/Prime_minister
-military campaign - http://dbpedia.org/resource/Military_campaign
 pharaoh - http://dbpedia.org/resource/Pharaoh
 thutmose iii - http://dbpedia.org/resource/Thutmose_III
 b.c. - http://dbpedia.org/resource/Figured_bass
@@ -348,12 +301,11 @@ palestine - http://dbpedia.org/resource/State_of_Palestine
 syria - http://dbpedia.org/resource/Syria
 euphrates - http://dbpedia.org/resource/Euphrates
 mesopotamia - http://dbpedia.org/resource/Mesopotamia
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 diplomacy - http://dbpedia.org/resource/Diplomacy
+treaties - http://dbpedia.org/resource/Treaty
 thutmose iii - http://dbpedia.org/resource/Thutmose_III
 pharaohs - http://dbpedia.org/resource/Pharaoh
 warfare - http://dbpedia.org/resource/War
-pressure - http://dbpedia.org/resource/Pressure
 libyans - http://dbpedia.org/resource/Ancient_Libya
 nubians - http://dbpedia.org/resource/Nubia
 ethiopians - http://dbpedia.org/resource/Ethiopia
@@ -371,6 +323,7 @@ city - http://dbpedia.org/resource/City
 memphis - http://dbpedia.org/resource/Memphis_Tigers_men's_basketball
 capital - http://dbpedia.org/resource/Capital_city
 pharaoh - http://dbpedia.org/resource/Pharaoh
+jubilees - http://dbpedia.org/resource/Book_of_Jubilees
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 thebes - http://dbpedia.org/resource/Phthiotic_Thebes
 pharaohs - http://dbpedia.org/resource/Pharaoh
@@ -384,6 +337,7 @@ egyptian - http://dbpedia.org/resource/Ancient_Egypt
 nubia - http://dbpedia.org/resource/Nubia
 ethiopia - http://dbpedia.org/resource/Ethiopia
 pharaohs - http://dbpedia.org/resource/Pharaoh
+dynasties - http://dbpedia.org/resource/Dynasty
 libyans - http://dbpedia.org/resource/Ancient_Libya
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 nile delta - http://dbpedia.org/resource/Nile
@@ -403,18 +357,13 @@ architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
 historian - http://dbpedia.org/resource/Historian
 cyril aldred - http://dbpedia.org/resource/Cyril_Aldred
 civilization - http://dbpedia.org/resource/Civilization
-epoch - http://dbpedia.org/resource/Era
+epochs - http://dbpedia.org/resource/Epoch
 egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
 tomb - http://dbpedia.org/resource/Tomb
 tutankhamen - http://dbpedia.org/resource/Tutankhamun
 b.c. - http://dbpedia.org/resource/Figured_bass
-dazzle - http://dbpedia.org/resource/Dazzle_camouflage
 court - http://dbpedia.org/resource/Royal_court
-art period - http://dbpedia.org/resource/Periods_in_Western_art_history
-artisan - http://dbpedia.org/resource/Artisan
-innovation - http://dbpedia.org/resource/Innovation
 rock - http://dbpedia.org/resource/Rock_music
-tomb - http://dbpedia.org/resource/Tomb
 pharaohs - http://dbpedia.org/resource/Pharaoh
 b.c. - http://dbpedia.org/resource/Figured_bass
 pharaoh - http://dbpedia.org/resource/Pharaoh
@@ -424,17 +373,15 @@ rock - http://dbpedia.org/resource/Rock_music
 tomb - http://dbpedia.org/resource/Tomb
 thebes - http://dbpedia.org/resource/Phthiotic_Thebes
 luxor - http://dbpedia.org/resource/Luxor
-tomb - http://dbpedia.org/resource/Tomb
-mortuary temple - http://dbpedia.org/resource/Mortuary_temple
+mortuary - http://dbpedia.org/resource/Funerary_art
 plain - http://dbpedia.org/resource/Great_Plains
-tomb - http://dbpedia.org/resource/Tomb
-queen - http://dbpedia.org/resource/Queen_regnant
+wadis - http://dbpedia.org/resource/Wadi
+queens - http://dbpedia.org/resource/Queen_regnant
 innovation - http://dbpedia.org/resource/Innovation
 temple - http://dbpedia.org/resource/Egyptian_temple
 hatshepsut - http://dbpedia.org/resource/Hatshepsut
 queen - http://dbpedia.org/resource/Queen_regnant
-claimant - http://dbpedia.org/resource/Pretender
-worship god - http://dbpedia.org/resource/Worship_God
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
 amun - http://dbpedia.org/resource/Amun
 cult - http://dbpedia.org/resource/Imperial_cult
 thebes - http://dbpedia.org/resource/Phthiotic_Thebes
@@ -443,7 +390,6 @@ temple - http://dbpedia.org/resource/Egyptian_temple
 funerary cult - http://dbpedia.org/resource/Funerary_cult
 bahri - http://dbpedia.org/resource/Bahri_dynasty
 thebes - http://dbpedia.org/resource/Phthiotic_Thebes
-great temple - http://dbpedia.org/resource/Templo_Mayor
 pharaoh - http://dbpedia.org/resource/Pharaoh
 amenophis iii - http://dbpedia.org/resource/Amenhotep_III
 thebes - http://dbpedia.org/resource/Phthiotic_Thebes
@@ -455,7 +401,6 @@ plain - http://dbpedia.org/resource/Great_Plains
 funerary temple - http://dbpedia.org/resource/Mortuary_temple
 ramesses ii - http://dbpedia.org/resource/Ramesses_II
 double crown - http://dbpedia.org/resource/Pschent
-temple - http://dbpedia.org/resource/Egyptian_temple
 mortuary temple - http://dbpedia.org/resource/Mortuary_temple
 thebes - http://dbpedia.org/resource/Phthiotic_Thebes
 ramesseum - http://dbpedia.org/resource/Ramesseum
@@ -481,15 +426,15 @@ b.c. - http://dbpedia.org/resource/Figured_bass
 cult - http://dbpedia.org/resource/Imperial_cult
 primeval mound - http://dbpedia.org/resource/Nu_(mythology)
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 sun god - http://dbpedia.org/resource/Ra
 universe - http://dbpedia.org/resource/Universe
 aten - http://dbpedia.org/resource/Aten
-doctrine - http://dbpedia.org/resource/Doctrine
 sun worship - http://dbpedia.org/resource/Solar_deity
 pharaoh - http://dbpedia.org/resource/Pharaoh
 akhenaten - http://dbpedia.org/resource/Akhenaten
 monotheist - http://dbpedia.org/resource/Monotheism
+aldred - http://dbpedia.org/resource/Aldred_the_Scribe
 monotheism - http://dbpedia.org/resource/Monotheism
 akhenaten - http://dbpedia.org/resource/Akhenaten
 aten - http://dbpedia.org/resource/Aten
@@ -500,10 +445,7 @@ aten - http://dbpedia.org/resource/Aten
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
 disk - http://dbpedia.org/resource/Floppy_disk
 sunbeam - http://dbpedia.org/resource/Sunlight
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-excise - http://dbpedia.org/resource/Tax
-temple - http://dbpedia.org/resource/Egyptian_temple
-revenue - http://dbpedia.org/resource/Tax
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 plural - http://dbpedia.org/resource/Mormonism_and_polygamy
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
 akhenaten - http://dbpedia.org/resource/Akhenaten
@@ -520,31 +462,27 @@ economic collapse - http://dbpedia.org/resource/Great_Depression
 morale - http://dbpedia.org/resource/Morale
 akhenaten - http://dbpedia.org/resource/Akhenaten
 tutankhamen - http://dbpedia.org/resource/Tutankhamun
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-blight - http://dbpedia.org/resource/Urban_decay
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 human - http://dbpedia.org/resource/Human
-temple - http://dbpedia.org/resource/Egyptian_temple
-priest - http://dbpedia.org/resource/Clergy
+priests - http://dbpedia.org/resource/Kohen
+endowments - http://dbpedia.org/resource/Financial_endowment
 akhenaten - http://dbpedia.org/resource/Akhenaten
 city - http://dbpedia.org/resource/City
-sand - http://dbpedia.org/resource/Sand
 b.c. - http://dbpedia.org/resource/Figured_bass
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-function - http://dbpedia.org/resource/Role
 independent - http://dbpedia.org/resource/Independence
 egyptian culture - http://dbpedia.org/resource/Culture_of_Egypt
 pressure - http://dbpedia.org/resource/Pressure
-civilization - http://dbpedia.org/resource/Civilization
 eastern mediterranean - http://dbpedia.org/resource/Eastern_Mediterranean
 socioeconomic system - http://dbpedia.org/resource/Socioeconomics
 efficiency - http://dbpedia.org/resource/Economic_efficiency
 disaster - http://dbpedia.org/resource/Disaster
 persian occupation - http://dbpedia.org/resource/History_of_Persian_Egypt
+dynasties - http://dbpedia.org/resource/Dynasty
 indigenous - http://dbpedia.org/resource/Indigenous_peoples
-power center - http://dbpedia.org/resource/Retail_park
-revolt - http://dbpedia.org/resource/Revolution
+power centers - http://dbpedia.org/resource/Retail_park
 persian occupation - http://dbpedia.org/resource/History_of_Persian_Egypt
-thirtieth dynasty - http://dbpedia.org/resource/Thirtieth_Dynasty_of_Egypt
+dynasties - http://dbpedia.org/resource/Dynasty
 sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
 b.c. - http://dbpedia.org/resource/Figured_bass
 pharaonic - http://dbpedia.org/resource/Pharaoh
@@ -554,19 +492,21 @@ invasion - http://dbpedia.org/resource/Invasion
 cambyses - http://dbpedia.org/resource/Cambyses_II
 cyrus - http://dbpedia.org/resource/Cyrus_the_Great
 pharaoh - http://dbpedia.org/resource/Pharaoh
+cambyses - http://dbpedia.org/resource/Cambyses_II
 pharaoh - http://dbpedia.org/resource/Pharaoh
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 hierarchy - http://dbpedia.org/resource/Hierarchy
 persian - http://dbpedia.org/resource/Persian_language
 revenue - http://dbpedia.org/resource/Tax
 achaemenid empire - http://dbpedia.org/resource/Achaemenid_Empire
+cambyses - http://dbpedia.org/resource/Cambyses_II
 darius ii - http://dbpedia.org/resource/Darius_II
 b.c. - http://dbpedia.org/resource/Figured_bass
-persian emperor - http://dbpedia.org/resource/Persian_Empire
-egyptian revolt - http://dbpedia.org/resource/Ptolemy_V_Epiphanes
+persian - http://dbpedia.org/resource/Persian_language
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
 b.c. - http://dbpedia.org/resource/Figured_bass
 independence - http://dbpedia.org/resource/Independence
-thirtieth dynasty - http://dbpedia.org/resource/Thirtieth_Dynasty_of_Egypt
+dynasties - http://dbpedia.org/resource/Dynasty
 independence - http://dbpedia.org/resource/Independence
 b.c. - http://dbpedia.org/resource/Figured_bass
 persian - http://dbpedia.org/resource/Persian_language

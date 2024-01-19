@@ -3,10 +3,9 @@ nullification - http://dbpedia.org/resource/Jury
 deniers - http://dbpedia.org/resource/Climate_change_denial
 huldah - http://dbpedia.org/resource/Huldah
 parrot - http://dbpedia.org/resource/Parrot
-theory - http://dbpedia.org/resource/Theory
 truth - http://dbpedia.org/resource/Truth
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 spalding - http://dbpedia.org/resource/Spalding_Professor_of_Eastern_Religion_and_Ethics
 heritage foundation - http://dbpedia.org/resource/The_Heritage_Foundation
 human events - http://dbpedia.org/resource/Human_Events
@@ -36,7 +35,7 @@ thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
 conditions precedent - http://dbpedia.org/resource/Condition_precedent
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 nullification - http://dbpedia.org/resource/Jury
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -73,7 +72,6 @@ virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 tariff - http://dbpedia.org/resource/Tariff
-object - http://dbpedia.org/resource/Physical_object
 tariff - http://dbpedia.org/resource/Tariff
 nullification - http://dbpedia.org/resource/Jury
 independence - http://dbpedia.org/resource/Independence
@@ -102,50 +100,44 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereign_state
 federation - http://dbpedia.org/resource/Federalism
-government delegate - http://dbpedia.org/resource/Government_Delegation_for_Poland
 james madison - http://dbpedia.org/resource/James_Madison
 federalist - http://dbpedia.org/resource/Federalism
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-object - http://dbpedia.org/resource/Physical_object
 peace negotiation - http://dbpedia.org/resource/Peace_treaty
 taxation - http://dbpedia.org/resource/Tax
-reserve - http://dbpedia.org/resource/Bank_reserves
-object - http://dbpedia.org/resource/Physical_object
-liberty - http://dbpedia.org/resource/Liberty
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
+listed - http://dbpedia.org/resource/Public_company
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
 defense - http://dbpedia.org/resource/National_security
 international commerce - http://dbpedia.org/resource/Trade
 immigration - http://dbpedia.org/resource/Immigration
 naturalization - http://dbpedia.org/resource/Citizenship_of_the_United_States
 uniform - http://dbpedia.org/resource/Uniform
-patent - http://dbpedia.org/resource/Patent
-copyright - http://dbpedia.org/resource/Copyright
 gold - http://dbpedia.org/resource/Gold_standard
 silver - http://dbpedia.org/resource/Silver
-bankruptcy law - http://dbpedia.org/resource/Bankruptcy
+bankruptcy laws - http://dbpedia.org/resource/Bankruptcy
 road building - http://dbpedia.org/resource/Road
+civil rights - http://dbpedia.org/resource/Civil_liberties
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-reserve - http://dbpedia.org/resource/Bank_reserves
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 god - http://dbpedia.org/resource/God
 5it - http://dbpedia.org/resource/5IT
 liberty - http://dbpedia.org/resource/Liberty
 defense - http://dbpedia.org/resource/National_security
-law - http://dbpedia.org/resource/Common_law
 piracy - http://dbpedia.org/resource/Copyright_infringement
-felony - http://dbpedia.org/resource/Felony
+felonies - http://dbpedia.org/resource/Felony
 invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
 iv - http://dbpedia.org/resource/Intravenous_therapy
-traitor - http://dbpedia.org/resource/Treason
-immigration policy - http://dbpedia.org/resource/Border_control
+immigration - http://dbpedia.org/resource/Immigration
+property rights - http://dbpedia.org/resource/Property
 prosper - http://dbpedia.org/resource/Prosper_of_Aquitaine
 original intent - http://dbpedia.org/resource/Originalism
 interstate commerce clause - http://dbpedia.org/resource/Commerce_Clause
-article - http://dbpedia.org/resource/No_Gun_Ri_massacre
-transport - http://dbpedia.org/resource/Transport
 uniform - http://dbpedia.org/resource/Uniform
 gold - http://dbpedia.org/resource/Gold_standard
 silver - http://dbpedia.org/resource/Silver
@@ -154,19 +146,14 @@ paper currency - http://dbpedia.org/resource/Banknote
 fractional - http://dbpedia.org/resource/Fractional_ownership
 reserve - http://dbpedia.org/resource/Bank_reserves
 theft - http://dbpedia.org/resource/Theft
-counterfeiter - http://dbpedia.org/resource/Counterfeit
-bankruptcy law - http://dbpedia.org/resource/Bankruptcy
+counterfeiters - http://dbpedia.org/resource/Counterfeit
+bankruptcy laws - http://dbpedia.org/resource/Bankruptcy
 dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
-debtor - http://dbpedia.org/resource/Debtor
-creditor - http://dbpedia.org/resource/Creditor
-patent - http://dbpedia.org/resource/Patent
-copyright - http://dbpedia.org/resource/Copyright
 liberty - http://dbpedia.org/resource/Liberty
-law - http://dbpedia.org/resource/Common_law
 slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
 amendment - http://dbpedia.org/resource/Law
-fair trial - http://dbpedia.org/resource/Right_to_a_fair_trial
-federal court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+fair trials - http://dbpedia.org/resource/Fair_Trials
+federal courts - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 god - http://dbpedia.org/resource/God
@@ -177,22 +164,20 @@ thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 nullification - http://dbpedia.org/resource/Jury
 compact - http://dbpedia.org/resource/Compact_theory
 dominion - http://dbpedia.org/resource/Dominion
-madison - http://dbpedia.org/resource/Madison_(cycling)
+james madison - http://dbpedia.org/resource/James_Madison
 nullification - http://dbpedia.org/resource/Jury
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 oppression - http://dbpedia.org/resource/Oppression
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 federalist - http://dbpedia.org/resource/Federalism
 defense - http://dbpedia.org/resource/National_security
-positive form - http://dbpedia.org/resource/Positive_form
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 rein - http://dbpedia.org/resource/Rein
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 security - http://dbpedia.org/resource/Security_interest
-invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
 liberty - http://dbpedia.org/resource/Liberty
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 nullification - http://dbpedia.org/resource/Jury
 federalist papers - http://dbpedia.org/resource/The_Federalist_Papers
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -201,7 +186,7 @@ nullification - http://dbpedia.org/resource/Jury
 defense - http://dbpedia.org/resource/National_security
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -215,26 +200,24 @@ god - http://dbpedia.org/resource/God
 nullification - http://dbpedia.org/resource/Jury
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-reserve power - http://dbpedia.org/resource/Reserve_power
 amendment - http://dbpedia.org/resource/Law
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-reserve - http://dbpedia.org/resource/Bank_reserves
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
-reserve power - http://dbpedia.org/resource/Reserve_power
 madison - http://dbpedia.org/resource/Madison_(cycling)
 federalist - http://dbpedia.org/resource/Federalism
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-reserve - http://dbpedia.org/resource/Bank_reserves
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 pervert - http://dbpedia.org/resource/Perversion
@@ -249,48 +232,38 @@ federal government - http://dbpedia.org/resource/Federal_government_of_the_Unite
 christianity - http://dbpedia.org/resource/Christianity
 public square - http://dbpedia.org/resource/Town_square
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
-prayer - http://dbpedia.org/resource/Prayer
-public school - http://dbpedia.org/resource/Education_in_the_United_States
-court - http://dbpedia.org/resource/Court
-commandments - http://dbpedia.org/resource/Ten_Commandments
-public school - http://dbpedia.org/resource/Education_in_the_United_States
-court - http://dbpedia.org/resource/Court
+public schools - http://dbpedia.org/resource/Education_in_the_United_States
+court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+ten commandments - http://dbpedia.org/resource/Ten_Commandments
+public schools - http://dbpedia.org/resource/Education_in_the_United_States
+court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 law - http://dbpedia.org/resource/Common_law
 president - http://dbpedia.org/resource/President_of_the_United_States
 executive order - http://dbpedia.org/resource/Executive_order
-gun - http://dbpedia.org/resource/Firearm
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 law - http://dbpedia.org/resource/Common_law
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-municipal law - http://dbpedia.org/resource/Municipal_law
 rosa parks - http://dbpedia.org/resource/Rosa_Parks
 martin luther king - http://dbpedia.org/resource/Martin_Luther_King_Jr.
 jim - http://dbpedia.org/resource/Jim_Halpert
-law - http://dbpedia.org/resource/Common_law
 black people - http://dbpedia.org/resource/Black_people
 bus - http://dbpedia.org/resource/Bus
-public place - http://dbpedia.org/resource/Public_space
-public restroom - http://dbpedia.org/resource/Public_toilet
-water fountain - http://dbpedia.org/resource/Fountain
+water - http://dbpedia.org/resource/Water
 civil disobedience - http://dbpedia.org/resource/Civil_disobedience
 rosa parks - http://dbpedia.org/resource/Rosa_Parks
 mlk - http://dbpedia.org/resource/Malik
 black people - http://dbpedia.org/resource/Black_people
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 nullification - http://dbpedia.org/resource/Jury
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-disobey - http://dbpedia.org/resource/Disobey
 thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 james madison - http://dbpedia.org/resource/James_Madison
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
-object - http://dbpedia.org/resource/Physical_object
-law - http://dbpedia.org/resource/Common_law
 president - http://dbpedia.org/resource/President_of_the_United_States
-alien - http://dbpedia.org/resource/Extraterrestrial_life
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
 seditious - http://dbpedia.org/resource/Sedition
 kentucky - http://dbpedia.org/resource/Kentucky
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
@@ -300,7 +273,7 @@ alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
 president - http://dbpedia.org/resource/President_of_the_United_States
 raw power - http://dbpedia.org/resource/Raw_Power
-alien - http://dbpedia.org/resource/Extraterrestrial_life
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
 seditious - http://dbpedia.org/resource/Sedition
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 madison - http://dbpedia.org/resource/Madison_(cycling)
@@ -310,7 +283,7 @@ unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 randy barnett - http://dbpedia.org/resource/Randy_Barnett
 law professor - http://dbpedia.org/resource/Lawyer
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 nullification - http://dbpedia.org/resource/Jury
@@ -319,8 +292,8 @@ litigation - http://dbpedia.org/resource/Lawsuit
 attorney - http://dbpedia.org/resource/Attorney_general
 motion - http://dbpedia.org/resource/Motion
 judge - http://dbpedia.org/resource/Judge
-whip - http://dbpedia.org/resource/Flagellation
-court - http://dbpedia.org/resource/Court
+whips - http://dbpedia.org/resource/Flagellation
+court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 judge - http://dbpedia.org/resource/Judge
 judge - http://dbpedia.org/resource/Judge
 listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
@@ -339,37 +312,40 @@ supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 tyranny - http://dbpedia.org/resource/Tyrant
+lured - http://dbpedia.org/resource/Lured
 god - http://dbpedia.org/resource/God
+progressives - http://dbpedia.org/resource/Modern_liberalism_in_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 monster - http://dbpedia.org/resource/Paranoia
-impose - http://dbpedia.org/resource/Impose_(magazine)
 welfare - http://dbpedia.org/resource/Welfare
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-natural resource - http://dbpedia.org/resource/Natural_resource
-human resource - http://dbpedia.org/resource/Employment
+natural resources - http://dbpedia.org/resource/Natural_resource
+human resources - http://dbpedia.org/resource/Human_resources
 welfare - http://dbpedia.org/resource/Welfare
-parasite - http://dbpedia.org/resource/Parasitism
-labor union - http://dbpedia.org/resource/Trade_union
+parasites - http://dbpedia.org/resource/Parasitism
+labor unions - http://dbpedia.org/resource/Trade_union
 obama - http://dbpedia.org/resource/Presidency_of_Barack_Obama
-progressives - http://dbpedia.org/resource/Progressivism
+progressives - http://dbpedia.org/resource/Modern_liberalism_in_the_United_States
 public interest - http://dbpedia.org/resource/Public_interest
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 public interest - http://dbpedia.org/resource/Public_interest
+progressives - http://dbpedia.org/resource/Modern_liberalism_in_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-people express - http://dbpedia.org/resource/People_Express_Airlines_(1980s)
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-progressives - http://dbpedia.org/resource/Progressivism
+progressives - http://dbpedia.org/resource/Modern_liberalism_in_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 blank check - http://dbpedia.org/resource/Blank_cheque
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-impose - http://dbpedia.org/resource/Impose_(magazine)
-progressives - http://dbpedia.org/resource/Progressivism
+progressives - http://dbpedia.org/resource/Modern_liberalism_in_the_United_States
 evil - http://dbpedia.org/resource/Evil
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 god - http://dbpedia.org/resource/God
+property rights - http://dbpedia.org/resource/Property
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+robs - http://dbpedia.org/resource/Rob_Roy_Boat_Club
 paul - http://dbpedia.org/resource/Paul_the_Apostle
 global warming - http://dbpedia.org/resource/Global_warming
 medical insurance - http://dbpedia.org/resource/Health_insurance
@@ -379,6 +355,7 @@ liberty - http://dbpedia.org/resource/Liberty
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 oppression - http://dbpedia.org/resource/Oppression
 god - http://dbpedia.org/resource/God
@@ -388,14 +365,15 @@ federal government - http://dbpedia.org/resource/Federal_government_of_the_Unite
 god - http://dbpedia.org/resource/God
 tyranny - http://dbpedia.org/resource/Tyrant
 liberty - http://dbpedia.org/resource/Liberty
+ruling class - http://dbpedia.org/resource/Ruling_class
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
-judge - http://dbpedia.org/resource/Judge
+deniers - http://dbpedia.org/resource/Climate_change_denial
+president - http://dbpedia.org/resource/President_of_the_United_States
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 law - http://dbpedia.org/resource/Common_law
 legislative branch - http://dbpedia.org/resource/United_States_Congress
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
@@ -403,7 +381,6 @@ executive order - http://dbpedia.org/resource/Executive_order
 president - http://dbpedia.org/resource/President_of_the_United_States
 executive branch - http://dbpedia.org/resource/Federal_government_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-judge - http://dbpedia.org/resource/Judge
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 judicial branch - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
@@ -416,16 +393,14 @@ supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judge - http://dbpedia.org/resource/Judge
-judge - http://dbpedia.org/resource/Judge
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-regurgitate - http://dbpedia.org/resource/Regurgitation_(digestion)
+regurgitates - http://dbpedia.org/resource/Regurgitation_(digestion)
 statist - http://dbpedia.org/resource/Statism
 decision maker - http://dbpedia.org/resource/Decision-making
 political system - http://dbpedia.org/resource/Stalinism
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
 randy barnett - http://dbpedia.org/resource/Randy_Barnett
 law professor - http://dbpedia.org/resource/Lawyer
-chant - http://dbpedia.org/resource/Chant
 statist - http://dbpedia.org/resource/Statism
 refrain - http://dbpedia.org/resource/Refrain
 supreme court - http://dbpedia.org/resource/Supreme_Court_of_the_United_Kingdom
@@ -447,11 +422,10 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 madison - http://dbpedia.org/resource/Madison_(cycling)
-federal judge - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+federal judges - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-judge - http://dbpedia.org/resource/Judge
 sovereign - http://dbpedia.org/resource/Sovereign_state
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
@@ -465,13 +439,11 @@ madison - http://dbpedia.org/resource/Madison_(cycling)
 committee - http://dbpedia.org/resource/Committee
 plain - http://dbpedia.org/resource/John_Major
 common sense - http://dbpedia.org/resource/Common_sense
-compact - http://dbpedia.org/resource/Compact_theory
 resort - http://dbpedia.org/resource/Resort
-party party - http://dbpedia.org/resource/Party_Party_(film)
-judge - http://dbpedia.org/resource/Judge
 resort - http://dbpedia.org/resource/Resort
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereign_state
+adds - http://dbpedia.org/resource/Applied_Digital_Data_Systems
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 sovereign - http://dbpedia.org/resource/Sovereign_state
@@ -493,7 +465,6 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 safety - http://dbpedia.org/resource/Safety
 relief - http://dbpedia.org/resource/Legal_remedy
 subversion - http://dbpedia.org/resource/Subversion
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 plain - http://dbpedia.org/resource/John_Major
 denial - http://dbpedia.org/resource/Jim_Crow_laws
 independence - http://dbpedia.org/resource/Independence
@@ -506,18 +477,17 @@ federal government - http://dbpedia.org/resource/Federal_government_of_the_Unite
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereign_state
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 defense - http://dbpedia.org/resource/National_security
 madison - http://dbpedia.org/resource/Madison_(cycling)
 judicial branch - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereign_state
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judge - http://dbpedia.org/resource/Judge
 judicial branch - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
-dangerous power - http://dbpedia.org/resource/Dangerous_Power
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judge - http://dbpedia.org/resource/Judge
 compact - http://dbpedia.org/resource/Compact_theory
 judiciary - http://dbpedia.org/resource/Judiciary
@@ -529,12 +499,13 @@ judicial branch - http://dbpedia.org/resource/Federal_judiciary_of_the_United_St
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judicial branch - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
+trusts - http://dbpedia.org/resource/Trust_law
 hypothesis - http://dbpedia.org/resource/Hypothesis
 judicial power - http://dbpedia.org/resource/Judiciary
 concurrence - http://dbpedia.org/resource/Concurring_opinion
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 madison - http://dbpedia.org/resource/Madison_(cycling)
 madison - http://dbpedia.org/resource/Madison_(cycling)
 judicial branch - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
@@ -574,24 +545,23 @@ federal government - http://dbpedia.org/resource/Federal_government_of_the_Unite
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 tariff - http://dbpedia.org/resource/Tariff
 nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
+goods - http://dbpedia.org/resource/Personal_property
 cotton - http://dbpedia.org/resource/Cotton
-infant industry - http://dbpedia.org/resource/Infant_industry
-import - http://dbpedia.org/resource/Import
-import - http://dbpedia.org/resource/Import
-impose - http://dbpedia.org/resource/Impose_(magazine)
+infant industries - http://dbpedia.org/resource/Infant_industry_argument
+goods - http://dbpedia.org/resource/Personal_property
 tariff - http://dbpedia.org/resource/Tariff
-import - http://dbpedia.org/resource/Import
 tariff - http://dbpedia.org/resource/Tariff
-abomination - http://dbpedia.org/resource/Abomination_(Bible)
 tariff - http://dbpedia.org/resource/Tariff
+goods - http://dbpedia.org/resource/Personal_property
+goods - http://dbpedia.org/resource/Personal_property
 cotton - http://dbpedia.org/resource/Cotton
-manufactured good - http://dbpedia.org/resource/Final_good
+goods - http://dbpedia.org/resource/Personal_property
 cotton - http://dbpedia.org/resource/Cotton
 economy - http://dbpedia.org/resource/Economy
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 impose - http://dbpedia.org/resource/Impose_(magazine)
+tariffs - http://dbpedia.org/resource/Tariff
 tariff - http://dbpedia.org/resource/Tariff
-import tariff - http://dbpedia.org/resource/Tariff
 tariff - http://dbpedia.org/resource/Tariff
 dear reader - http://dbpedia.org/resource/Dear_Reader
 spalding - http://dbpedia.org/resource/Spalding_Professor_of_Eastern_Religion_and_Ethics
@@ -622,13 +592,15 @@ doctrine - http://dbpedia.org/resource/Doctrine
 nullification - http://dbpedia.org/resource/Jury
 madison - http://dbpedia.org/resource/Madison_(cycling)
 doctrine - http://dbpedia.org/resource/Doctrine
-government delegate - http://dbpedia.org/resource/Government_Delegation_for_Poland
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 impose - http://dbpedia.org/resource/Impose_(magazine)
-import tariff - http://dbpedia.org/resource/Tariff
+import - http://dbpedia.org/resource/Import
+tariffs - http://dbpedia.org/resource/Tariff
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-import tariff - http://dbpedia.org/resource/Tariff
+import - http://dbpedia.org/resource/Import
+tariffs - http://dbpedia.org/resource/Tariff
 uniform - http://dbpedia.org/resource/Uniform
-tariff - http://dbpedia.org/resource/Tariff
+tariffs - http://dbpedia.org/resource/Tariff
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
@@ -649,24 +621,20 @@ federal government - http://dbpedia.org/resource/Federal_government_of_the_Unite
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-government delegate - http://dbpedia.org/resource/Government_Delegation_for_Poland
-power control - http://dbpedia.org/resource/Power_control
-gun - http://dbpedia.org/resource/Firearm
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 ammunition - http://dbpedia.org/resource/Ammunition
-public school - http://dbpedia.org/resource/Education_in_the_United_States
+public schools - http://dbpedia.org/resource/Education_in_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 sovereign - http://dbpedia.org/resource/Sovereign_state
-power object - http://dbpedia.org/resource/Exponential_object
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 madison - http://dbpedia.org/resource/Madison_(cycling)
 nullification - http://dbpedia.org/resource/Jury
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 dear reader - http://dbpedia.org/resource/Dear_Reader
 nullification - http://dbpedia.org/resource/Jury
-denier - http://dbpedia.org/resource/Climate_change_denial
-misrepresentation - http://dbpedia.org/resource/Misrepresentation
+deniers - http://dbpedia.org/resource/Climate_change_denial
 nullification - http://dbpedia.org/resource/Jury
 defense - http://dbpedia.org/resource/National_security
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -674,10 +642,8 @@ defense - http://dbpedia.org/resource/National_security
 god - http://dbpedia.org/resource/God
 independence - http://dbpedia.org/resource/Independence
 nullification - http://dbpedia.org/resource/Jury
-reserve power - http://dbpedia.org/resource/Reserve_power
 amendment - http://dbpedia.org/resource/Law
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-reserve power - http://dbpedia.org/resource/Reserve_power
 god - http://dbpedia.org/resource/God
 disobey - http://dbpedia.org/resource/Disobey
 god - http://dbpedia.org/resource/God
@@ -688,28 +654,23 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 nullification - http://dbpedia.org/resource/Jury
 oath - http://dbpedia.org/resource/Oath
 article vi - http://dbpedia.org/resource/Article_Six_of_the_United_States_Constitution
-officer - http://dbpedia.org/resource/Police_officer
-judge - http://dbpedia.org/resource/Judge
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 smack - http://dbpedia.org/resource/Heroin
-people today - http://dbpedia.org/resource/People_Today_(magazine)
 statecraft - http://dbpedia.org/resource/Public_policy
 political philosophy - http://dbpedia.org/resource/Political_philosophy
-indoctrinate - http://dbpedia.org/resource/Indoctrination
 statism - http://dbpedia.org/resource/Statism
 indoctrination - http://dbpedia.org/resource/Indoctrination
 federalist papers - http://dbpedia.org/resource/The_Federalist_Papers
 cowardice - http://dbpedia.org/resource/Cowardice
 evil - http://dbpedia.org/resource/Evil
-man people - http://dbpedia.org/resource/Manchu_people
 cato institute - http://dbpedia.org/resource/Cato_Institute
 cato institute - http://dbpedia.org/resource/Cato_Institute
 article - http://dbpedia.org/resource/No_Gun_Ri_massacre
 york - http://dbpedia.org/resource/House_of_York
 nullification - http://dbpedia.org/resource/Jury
-regurgitate - http://dbpedia.org/resource/Regurgitation_(digestion)
+regurgitates - http://dbpedia.org/resource/Regurgitation_(digestion)
 randy barnett - http://dbpedia.org/resource/Randy_Barnett
 madison - http://dbpedia.org/resource/Madison_(cycling)
 federal law - http://dbpedia.org/resource/Law_of_the_United_States
@@ -722,18 +683,19 @@ resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 james madison - http://dbpedia.org/resource/James_Madison
 nullification - http://dbpedia.org/resource/Jury
 function - http://dbpedia.org/resource/Role
-denier - http://dbpedia.org/resource/Climate_change_denial
+deniers - http://dbpedia.org/resource/Climate_change_denial
 sovereignty - http://dbpedia.org/resource/Sovereign_state
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
 federalist - http://dbpedia.org/resource/Federalism
 national sovereignty - http://dbpedia.org/resource/Sovereignty
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+aims - http://dbpedia.org/resource/Atoms_in_molecules
 sovereignty - http://dbpedia.org/resource/Sovereign_state
-cap - http://dbpedia.org/resource/Hat
+caps - http://dbpedia.org/resource/Non-economic_damages_caps
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 federalist - http://dbpedia.org/resource/Federalism
-u.s. senator - http://dbpedia.org/resource/United_States_Senate
+u.s. senators - http://dbpedia.org/resource/United_States_Senate
 sovereignty - http://dbpedia.org/resource/Sovereign_state
 sovereignty - http://dbpedia.org/resource/Sovereign_state
 republic - http://dbpedia.org/resource/Republic
@@ -757,26 +719,20 @@ magnitude - http://dbpedia.org/resource/Euclidean_vector
 interposition - http://dbpedia.org/resource/Interposition
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
-object - http://dbpedia.org/resource/Physical_object
-object - http://dbpedia.org/resource/Physical_object
+leaves - http://dbpedia.org/resource/Brexit
 federalist - http://dbpedia.org/resource/Federalism
 madison - http://dbpedia.org/resource/Madison_(cycling)
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-law - http://dbpedia.org/resource/Common_law
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
-object - http://dbpedia.org/resource/Physical_object
 federalist - http://dbpedia.org/resource/Federalism
 madison - http://dbpedia.org/resource/Madison_(cycling)
-law - http://dbpedia.org/resource/Common_law
 confederacy - http://dbpedia.org/resource/Federalism
-object - http://dbpedia.org/resource/Physical_object
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
 supreme law - http://dbpedia.org/resource/Supremacy_Clause
-legislature - http://dbpedia.org/resource/Legislature
-court - http://dbpedia.org/resource/Court
-magistrate - http://dbpedia.org/resource/Magistrate
-cap - http://dbpedia.org/resource/Hat
+magistrates - http://dbpedia.org/resource/Magistrate
+caps - http://dbpedia.org/resource/Non-economic_damages_caps
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 federalist - http://dbpedia.org/resource/Federalism
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -793,9 +749,10 @@ federal government - http://dbpedia.org/resource/Federal_government_of_the_Unite
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 concurrent jurisdiction - http://dbpedia.org/resource/Concurrent_jurisdiction
 teddy roosevelt - http://dbpedia.org/resource/Theodore_Roosevelt
+progressives - http://dbpedia.org/resource/Modern_liberalism_in_the_United_States
 hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
 legislative branch - http://dbpedia.org/resource/United_States_Congress
-federalist 78 - http://dbpedia.org/resource/Federalist_No._78
+federalist - http://dbpedia.org/resource/Federalism
 tenor - http://dbpedia.org/resource/Tenor
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 virtue - http://dbpedia.org/resource/Morality

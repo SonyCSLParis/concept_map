@@ -1,9 +1,9 @@
 latin america - http://dbpedia.org/resource/Latin_America
-american history - http://dbpedia.org/resource/History_of_the_United_States
-gold - http://dbpedia.org/resource/Gold
-san francisco - http://dbpedia.org/resource/San_Francisco
 mining - http://dbpedia.org/resource/Mining
+san francisco - http://dbpedia.org/resource/San_Francisco
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
-demographic - http://dbpedia.org/resource/Demography
-prospector - http://dbpedia.org/resource/Prospecting
 california - http://dbpedia.org/resource/California
+demographic - http://dbpedia.org/resource/Demography
+prospectors - http://dbpedia.org/resource/Prospecting
+gold - http://dbpedia.org/resource/Gold
+american history - http://dbpedia.org/resource/History_of_the_United_States

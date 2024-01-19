@@ -5,28 +5,24 @@ marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 courageous - http://dbpedia.org/resource/Operation_Courageous
 soldier - http://dbpedia.org/resource/Soldier
+wished - http://dbpedia.org/resource/Wished_(film)
 bodiam - http://dbpedia.org/resource/Bodiam
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 east sussex - http://dbpedia.org/resource/East_Sussex
-south east england - http://dbpedia.org/resource/South_East_England
 landscaping - http://dbpedia.org/resource/Landscaping
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 lush - http://dbpedia.org/resource/Lush_3
 romantic - http://dbpedia.org/resource/Romanticism
-castle moat - http://dbpedia.org/resource/Moat
-excavation - http://dbpedia.org/resource/Excavator
+moat - http://dbpedia.org/resource/Moat
 garderobe - http://dbpedia.org/resource/Garderobe
 barbican - http://dbpedia.org/resource/Barbican
 drawbridge - http://dbpedia.org/resource/Drawbridge
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-landscape - http://dbpedia.org/resource/Landscape
 diagram - http://dbpedia.org/resource/Diagram
 larissa - http://dbpedia.org/resource/Larissa
 diagram - http://dbpedia.org/resource/Diagram
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 bodiam - http://dbpedia.org/resource/Bodiam
-landscape - http://dbpedia.org/resource/Landscape
-map - http://dbpedia.org/resource/Map
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 majestic - http://dbpedia.org/resource/Majestic_12
 moat - http://dbpedia.org/resource/Moat
@@ -36,84 +32,70 @@ grass - http://dbpedia.org/resource/Cereal
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 contemporary architecture - http://dbpedia.org/resource/Contemporary_architecture
 great hall - http://dbpedia.org/resource/Great_hall
-banquet - http://dbpedia.org/resource/Banquet
 straw - http://dbpedia.org/resource/Straw
 buttery - http://dbpedia.org/resource/Buttery_(room)
 liquor - http://dbpedia.org/resource/Liquor
 great hall - http://dbpedia.org/resource/Great_hall
 food - http://dbpedia.org/resource/Food
-lord family - http://dbpedia.org/resource/Lord_family
+living quarters - http://dbpedia.org/resource/Living_Quarters
+family - http://dbpedia.org/resource/Family
 solar - http://dbpedia.org/resource/Solar_panel
 larissa - http://dbpedia.org/resource/Larissa
-fireplace - http://dbpedia.org/resource/Fireplace
 lush - http://dbpedia.org/resource/Lush_3
 grass - http://dbpedia.org/resource/Cereal
 water - http://dbpedia.org/resource/Water
 lake - http://dbpedia.org/resource/Lake
 moat - http://dbpedia.org/resource/Moat
-drum tower - http://dbpedia.org/resource/Drum
-turret - http://dbpedia.org/resource/Turret
+drum towers - http://dbpedia.org/resource/Drum_tower_(Europe)
+turrets - http://dbpedia.org/resource/Turret
 vantage - http://dbpedia.org/resource/Aston_Martin_Vantage
-point guard - http://dbpedia.org/resource/Point_guard
-postern door - http://dbpedia.org/resource/Postern
+postern - http://dbpedia.org/resource/Postern
 coat - http://dbpedia.org/resource/Fur_clothing
-garderobe - http://dbpedia.org/resource/Garderobe
+arms - http://dbpedia.org/resource/Coat_of_arms
 technology - http://dbpedia.org/resource/Technology
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 technology - http://dbpedia.org/resource/Technology
-crossbow - http://dbpedia.org/resource/Crossbow
 ballistas - http://dbpedia.org/resource/Ballista
-crossbow - http://dbpedia.org/resource/Crossbow
-bolt - http://dbpedia.org/resource/Crossbow
+bolts - http://dbpedia.org/resource/Crossbow_bolt
 hoarding - http://dbpedia.org/resource/Billboard
 timber - http://dbpedia.org/resource/Timber_framing
-archer - http://dbpedia.org/resource/Bow_and_arrow
-merlon - http://dbpedia.org/resource/Merlon
-crenellation - http://dbpedia.org/resource/Battlement
-battlement - http://dbpedia.org/resource/Battlement
-defender - http://dbpedia.org/resource/Defendant
-murder hole - http://dbpedia.org/resource/Murder_hole
-missile - http://dbpedia.org/resource/Missile
+archers - http://dbpedia.org/resource/Bow_and_arrow
+merlons - http://dbpedia.org/resource/Merlon
+crenellations - http://dbpedia.org/resource/Battlement
+battlements - http://dbpedia.org/resource/Battlement
+murder holes - http://dbpedia.org/resource/Murder_hole
 larissa - http://dbpedia.org/resource/Larissa
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-dungeon - http://dbpedia.org/resource/Dungeon
 trap door - http://dbpedia.org/resource/Trapdoor
 pantry - http://dbpedia.org/resource/Pantry
-perishable food - http://dbpedia.org/resource/Shelf_life
 milk - http://dbpedia.org/resource/Milk
 meat - http://dbpedia.org/resource/Meat
-peasant - http://dbpedia.org/resource/Peasant
+knights - http://dbpedia.org/resource/Knight
 outline - http://dbpedia.org/resource/Nutrition
 blacksmith - http://dbpedia.org/resource/Blacksmith
-maid - http://dbpedia.org/resource/Domestic_worker
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 diligent - http://dbpedia.org/resource/Hired_armed_cutter_Diligent
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-train - http://dbpedia.org/resource/Train
-trebuchet - http://dbpedia.org/resource/Trebuchet
-catapult - http://dbpedia.org/resource/Catapult
-crossbow - http://dbpedia.org/resource/Crossbow
+knights - http://dbpedia.org/resource/Knight
+trebuchets - http://dbpedia.org/resource/Trebuchet
+catapults - http://dbpedia.org/resource/Catapult
 bodiam - http://dbpedia.org/resource/Bodiam
-defence - http://dbpedia.org/resource/Military
 marvellous - http://dbpedia.org/resource/Marvellous
 blacksmith - http://dbpedia.org/resource/Blacksmith
 larissa - http://dbpedia.org/resource/Larissa
 blacksmith - http://dbpedia.org/resource/Blacksmith
-weapon - http://dbpedia.org/resource/Weapon
+knights - http://dbpedia.org/resource/Knight
 love - http://dbpedia.org/resource/Love
 space - http://dbpedia.org/resource/Outer_space
-metal - http://dbpedia.org/resource/Metal
-knife - http://dbpedia.org/resource/Knife
-sword - http://dbpedia.org/resource/Sword
+metal - http://dbpedia.org/resource/Metalworking
+knives - http://dbpedia.org/resource/Knife
 love - http://dbpedia.org/resource/Love
-sword - http://dbpedia.org/resource/Sword
-metal - http://dbpedia.org/resource/Metal
+metal - http://dbpedia.org/resource/Metalworking
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 chewy - http://dbpedia.org/resource/Chewy_(company)
 pork - http://dbpedia.org/resource/Pork
-vegetable - http://dbpedia.org/resource/Vegetable
-turnip - http://dbpedia.org/resource/Turnip
-carrot - http://dbpedia.org/resource/Carrot
+turnips - http://dbpedia.org/resource/Turnip
+carrots - http://dbpedia.org/resource/Carrot
 cauliflower - http://dbpedia.org/resource/Cauliflower
 cabbage - http://dbpedia.org/resource/Cabbage
 great hall - http://dbpedia.org/resource/Great_hall

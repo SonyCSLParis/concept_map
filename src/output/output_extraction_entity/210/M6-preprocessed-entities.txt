@@ -5,55 +5,54 @@ social studies - http://dbpedia.org/resource/Social_studies
 charter school - http://dbpedia.org/resource/Charter_school
 ms - http://dbpedia.org/resource/Millisecond
 nile river - http://dbpedia.org/resource/Nile
-heart - http://dbpedia.org/resource/Heart_(symbol)
+heart - http://dbpedia.org/resource/Heart
 nile river - http://dbpedia.org/resource/Nile
-long river - http://dbpedia.org/resource/Yangtze
+miles long - http://dbpedia.org/resource/Miles_Long
 nile river - http://dbpedia.org/resource/Nile
 central africa - http://dbpedia.org/resource/Central_Africa
 mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
 nile delta - http://dbpedia.org/resource/Nile_Delta
-delta river - http://dbpedia.org/resource/Delta_River
-split channel - http://dbpedia.org/resource/Split_Channel
 mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
-nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
+nile flooded - http://dbpedia.org/resource/Flooding_of_the_Nile
 soil - http://dbpedia.org/resource/Soil
 farming - http://dbpedia.org/resource/Agriculture_in_ancient_Rome
-green map - http://dbpedia.org/resource/Green_Map
+map - http://dbpedia.org/resource/Map
 soil - http://dbpedia.org/resource/Soil
-desert call - http://dbpedia.org/resource/Desert_Call
+red lands - http://dbpedia.org/resource/Red_Lands
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 nile delta - http://dbpedia.org/resource/Nile_Delta
 memphis - http://dbpedia.org/resource/Memphis_Tigers_football
 nile delta - http://dbpedia.org/resource/Nile_Delta
 map - http://dbpedia.org/resource/Map
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
-sea level - http://dbpedia.org/resource/Sea_level_rise
 elevation - http://dbpedia.org/resource/Altitude
 upper egypt - http://dbpedia.org/resource/Upper_Egypt
 invasion - http://dbpedia.org/resource/Invasion
 red sea - http://dbpedia.org/resource/Red_Sea
 mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
 cataracts - http://dbpedia.org/resource/Cataracts_of_the_Nile
+rapids - http://dbpedia.org/resource/Rapids
 nile - http://dbpedia.org/resource/Nile
 safety - http://dbpedia.org/resource/Occupational_safety_and_health
 security - http://dbpedia.org/resource/Security
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
-prosper - http://dbpedia.org/resource/Prosper_of_Aquitaine
 ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
 polytheistic - http://dbpedia.org/resource/Ancient_Greek_religion
-worship god - http://dbpedia.org/resource/Worship_God
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 wind - http://dbpedia.org/resource/Wind
 rain - http://dbpedia.org/resource/Rain
+heavenly bodies - http://dbpedia.org/resource/Astronomical_object
 moon - http://dbpedia.org/resource/Moon
-planet - http://dbpedia.org/resource/Earth
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-sun god - http://dbpedia.org/resource/Ra
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+planets - http://dbpedia.org/resource/Planet
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 sun - http://dbpedia.org/resource/Solar_deity
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
+sun - http://dbpedia.org/resource/Solar_deity
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 dependence - http://dbpedia.org/resource/Correlation_and_dependence
-sun river - http://dbpedia.org/resource/Sun_River
+sun - http://dbpedia.org/resource/Solar_deity
 sun - http://dbpedia.org/resource/Solar_deity
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 osiris - http://dbpedia.org/resource/Osiris
@@ -62,57 +61,50 @@ osiris - http://dbpedia.org/resource/Osiris
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 resurrection - http://dbpedia.org/resource/Resurrection
 osiris - http://dbpedia.org/resource/Osiris
-murder - http://dbpedia.org/resource/Murder
 nile - http://dbpedia.org/resource/Nile
 osiris - http://dbpedia.org/resource/Osiris
 isis - http://dbpedia.org/resource/Isis
 osiris - http://dbpedia.org/resource/Osiris
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
 ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
 osiris - http://dbpedia.org/resource/Osiris
 osiris - http://dbpedia.org/resource/Osiris
 isis - http://dbpedia.org/resource/Isis
 mummification - http://dbpedia.org/resource/Mummy
-bodie - http://dbpedia.org/resource/Bodie_Broadus
-wash water - http://dbpedia.org/resource/Wash_Water
+water - http://dbpedia.org/resource/Water
 nile - http://dbpedia.org/resource/Nile
 liver - http://dbpedia.org/resource/Liver
-lung - http://dbpedia.org/resource/Chinese_dragon
+lungs - http://dbpedia.org/resource/Lung
 stomach - http://dbpedia.org/resource/Stomach
-intestine - http://dbpedia.org/resource/Gastrointestinal_tract
-jar - http://dbpedia.org/resource/Jar
-tomb - http://dbpedia.org/resource/Tomb
+intestines - http://dbpedia.org/resource/Gastrointestinal_tract
 brain - http://dbpedia.org/resource/Brain
 nose - http://dbpedia.org/resource/Human_nose
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 water - http://dbpedia.org/resource/Water
 rebirth - http://dbpedia.org/resource/Reincarnation
-spice - http://dbpedia.org/resource/Spice
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+spices - http://dbpedia.org/resource/Spice
+soaked - http://dbpedia.org/resource/RollerCoaster_Tycoon_3
+egyptian pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 bce - http://dbpedia.org/resource/Common_Era
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 city - http://dbpedia.org/resource/City
 city - http://dbpedia.org/resource/City
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 pharaoh - http://dbpedia.org/resource/Pharaoh
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 family - http://dbpedia.org/resource/Family
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 mastabas - http://dbpedia.org/resource/Mastaba
-flat roof - http://dbpedia.org/resource/Flat_roof
-tomb - http://dbpedia.org/resource/Tomb
 pharaoh - http://dbpedia.org/resource/Pharaoh
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-stock - http://dbpedia.org/resource/Livestock
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
+stocked - http://dbpedia.org/resource/Fish_stock
 pharaohs - http://dbpedia.org/resource/Pharaoh
 resurrection - http://dbpedia.org/resource/Resurrection
-archaeologist - http://dbpedia.org/resource/Archaeology
+archaeologists - http://dbpedia.org/resource/Archaeology
 food - http://dbpedia.org/resource/Food
 furniture - http://dbpedia.org/resource/Furniture
-weapon - http://dbpedia.org/resource/Weapon
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-chamber - http://dbpedia.org/resource/Chamber_tomb
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 pharaoh - http://dbpedia.org/resource/Pharaoh
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 bce - http://dbpedia.org/resource/Common_Era
@@ -122,9 +114,8 @@ menes - http://dbpedia.org/resource/Menes
 archaic period - http://dbpedia.org/resource/Archaic_Greece
 despotic - http://dbpedia.org/resource/Despotism
 pharaohs - http://dbpedia.org/resource/Pharaoh
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
-funerary monument - http://dbpedia.org/resource/Funerary_art
-pyramid - http://dbpedia.org/resource/Egyptian_pyramids
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
+pyramids - http://dbpedia.org/resource/Egyptian_pyramids
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 kingdom city - http://dbpedia.org/resource/Kingdom_City,_Missouri
 thebes - http://dbpedia.org/resource/Phthiotic_Thebes
@@ -150,30 +141,28 @@ roman occupation - http://dbpedia.org/resource/Roman_Empire
 imperial province - http://dbpedia.org/resource/Imperial_province
 menes - http://dbpedia.org/resource/Menes
 egyptian pharaohs - http://dbpedia.org/resource/Pharaoh
+dynasties - http://dbpedia.org/resource/Dynasties_of_Ancient_Egypt
 ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
 egyptian pharaohs - http://dbpedia.org/resource/Pharaoh
-glean - http://dbpedia.org/resource/Gleaning
 palermo stone - http://dbpedia.org/resource/Palermo_Stone
 stone tablet - http://dbpedia.org/resource/Stele
 pharaohs - http://dbpedia.org/resource/Pharaoh
 pharonic - http://dbpedia.org/resource/Ancient_Egypt
 stone - http://dbpedia.org/resource/Stone_tool
 bce - http://dbpedia.org/resource/Common_Era
-village - http://dbpedia.org/resource/Village
 single - http://dbpedia.org/resource/Phonograph_record
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 double crown - http://dbpedia.org/resource/Pschent
 pharaohs - http://dbpedia.org/resource/Pharaoh
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-pharaoh - http://dbpedia.org/resource/Pharaoh
+pharaohs - http://dbpedia.org/resource/Pharaoh
 unlimited power - http://dbpedia.org/resource/Unlimited_Power
 pharaohs - http://dbpedia.org/resource/Pharaoh
 bureaucracy - http://dbpedia.org/resource/Bureaucracy
 bureaucracy - http://dbpedia.org/resource/Bureaucracy
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 pharaohs - http://dbpedia.org/resource/Pharaoh
-law - http://dbpedia.org/resource/Roman_law
 bce - http://dbpedia.org/resource/Common_Era
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 bce - http://dbpedia.org/resource/Common_Era
@@ -190,10 +179,8 @@ syria - http://dbpedia.org/resource/Syria
 public welfare - http://dbpedia.org/resource/Welfare
 pharaohs - http://dbpedia.org/resource/Pharaoh
 bronze - http://dbpedia.org/resource/Bronze_Age
-weapon - http://dbpedia.org/resource/Weapon
 southwest asia - http://dbpedia.org/resource/Western_Asia
-pharaoh - http://dbpedia.org/resource/Pharaoh
-temple - http://dbpedia.org/resource/Egyptian_temple
+pharaohs - http://dbpedia.org/resource/Pharaoh
 pharaoh - http://dbpedia.org/resource/Pharaoh
 amenhotep iv - http://dbpedia.org/resource/Akhenaten
 egyptian religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
@@ -202,80 +189,69 @@ god - http://dbpedia.org/resource/Ancient_Egyptian_deities
 sun - http://dbpedia.org/resource/Solar_deity
 disk - http://dbpedia.org/resource/Hard_disk_drive
 god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+tutankhamen - http://dbpedia.org/resource/Tutankhamun
 religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
-die - http://dbpedia.org/resource/Death
 bce - http://dbpedia.org/resource/Common_Era
 middle kingdom - http://dbpedia.org/resource/Middle_Francia
 religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
 western asia - http://dbpedia.org/resource/Western_Asia
-invade egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
-war chariot - http://dbpedia.org/resource/Chariot
+invaded egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
+war chariots - http://dbpedia.org/resource/Chariot
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 libyans - http://dbpedia.org/resource/Ancient_Libya
 persians - http://dbpedia.org/resource/Achaemenid_Empire
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
+greeks - http://dbpedia.org/resource/Ancient_Greece
 romans - http://dbpedia.org/resource/Romans_(musician)
 bronze - http://dbpedia.org/resource/Bronze_Age
-chariot - http://dbpedia.org/resource/Solar_deity
-weapon - http://dbpedia.org/resource/Weapon
+chariots - http://dbpedia.org/resource/Chariot
 bce - http://dbpedia.org/resource/Common_Era
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 flax - http://dbpedia.org/resource/Flax
-linen - http://dbpedia.org/resource/Linen
+linen clothes - http://dbpedia.org/resource/Linen
 linen - http://dbpedia.org/resource/Linen
 mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
 commodity - http://dbpedia.org/resource/Commodity
-nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
+nile flooded - http://dbpedia.org/resource/Flooding_of_the_Nile
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 outlook - http://dbpedia.org/resource/Microsoft_Outlook
 stable - http://dbpedia.org/resource/Stable
 nile river - http://dbpedia.org/resource/Nile
 nile river - http://dbpedia.org/resource/Nile
 inundation - http://dbpedia.org/resource/Inundation
-nile flood - http://dbpedia.org/resource/Flooding_of_the_Nile
+nile flooded - http://dbpedia.org/resource/Flooding_of_the_Nile
 farming - http://dbpedia.org/resource/Agriculture_in_ancient_Rome
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 pyramid - http://dbpedia.org/resource/Egyptian_pyramids
 pharaoh - http://dbpedia.org/resource/Pharaoh
-slave - http://dbpedia.org/resource/Slavery_in_ancient_Rome
+slaves - http://dbpedia.org/resource/Slavery_in_ancient_Rome
 pharaoh - http://dbpedia.org/resource/Pharaoh
-priest - http://dbpedia.org/resource/Kohen
+priests - http://dbpedia.org/resource/Kohen
 middle class - http://dbpedia.org/resource/Middle_class
-soldier - http://dbpedia.org/resource/Soldier
-scribe - http://dbpedia.org/resource/Scribe
-merchant - http://dbpedia.org/resource/Merchant
-farmer - http://dbpedia.org/resource/Agriculture
-crop - http://dbpedia.org/resource/Agriculture
-slave - http://dbpedia.org/resource/Slavery_in_ancient_Rome
+scribes - http://dbpedia.org/resource/Egyptian_hieroglyphs
+slaves - http://dbpedia.org/resource/Slavery_in_ancient_Rome
 ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
-marriage - http://dbpedia.org/resource/Marriage_in_ancient_Rome
 family - http://dbpedia.org/resource/Family
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
-hieroglyphic - http://dbpedia.org/resource/Egyptian_hieroglyphs
+hieroglyphics - http://dbpedia.org/resource/Egyptian_hieroglyphs
 abstract - http://dbpedia.org/resource/Abstraction
-hieroglyphic - http://dbpedia.org/resource/Egyptian_hieroglyphs
+hieroglyphics - http://dbpedia.org/resource/Egyptian_hieroglyphs
 hieratic - http://dbpedia.org/resource/Hieratic
-dash - http://dbpedia.org/resource/Dash
-stroke - http://dbpedia.org/resource/Stroke
-curve - http://dbpedia.org/resource/Curve
-hieroglyphic - http://dbpedia.org/resource/Egyptian_hieroglyphs
+hieroglyphics - http://dbpedia.org/resource/Egyptian_hieroglyphs
 hieratic - http://dbpedia.org/resource/Hieratic
 ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
-sculptor - http://dbpedia.org/resource/Sculpture
-jewelry maker - http://dbpedia.org/resource/Jewellery_design
-ceramicist - http://dbpedia.org/resource/Pottery
+jewelry - http://dbpedia.org/resource/Jewellery
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 writing instruments - http://dbpedia.org/resource/Writing_implement
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
-mathematic - http://dbpedia.org/resource/Mathematics
+mathematics - http://dbpedia.org/resource/Ancient_Egyptian_mathematics
 calendar - http://dbpedia.org/resource/Calendar
 architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
 egyptians - http://dbpedia.org/resource/Ancient_Egypt
-technology - http://dbpedia.org/resource/Technology
 agriculture - http://dbpedia.org/resource/Agriculture_in_ancient_Rome
-mathematic - http://dbpedia.org/resource/Mathematics
+mathematics - http://dbpedia.org/resource/Ancient_Egyptian_mathematics
 literature - http://dbpedia.org/resource/Latin_literature
 water clock - http://dbpedia.org/resource/Water_clock

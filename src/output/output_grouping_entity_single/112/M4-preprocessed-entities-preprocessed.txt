@@ -1,204 +1,186 @@
-ussher - http://dbpedia.org/resource/James_Ussher
-james ussher - http://dbpedia.org/resource/James_Ussher
-francoise henry - http://dbpedia.org/resource/Françoise_Henry
-uncial - http://dbpedia.org/resource/Uncial_script
-early christian art - http://dbpedia.org/resource/Early_Christian_art_and_architecture
-peacock tail - http://dbpedia.org/resource/Peafowl
-deer - http://dbpedia.org/resource/Deer
-harp - http://dbpedia.org/resource/Harp
-christianity - http://dbpedia.org/resource/Christianity
-celtic art - http://dbpedia.org/resource/Celtic_art
-hiberno - http://dbpedia.org/resource/History_of_Ireland_(400–800)
-trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
-illumination - http://dbpedia.org/resource/Illuminated_manuscript
-dispose - http://dbpedia.org/resource/Dispose_pattern
-icon - http://dbpedia.org/resource/Iconography
-portrait - http://dbpedia.org/resource/Portrait
-sacred - http://dbpedia.org/resource/Religious_art
-saint columba - http://dbpedia.org/resource/Columba
-northumberland - http://dbpedia.org/resource/Northumberland
-precious metal - http://dbpedia.org/resource/Precious_metal
-arcade - http://dbpedia.org/resource/Action_game
-irish monk - http://dbpedia.org/resource/Hiberno-Scottish_mission
-calligraphy - http://dbpedia.org/resource/Calligraphy
-iona - http://dbpedia.org/resource/Iona
-abbot - http://dbpedia.org/resource/Abbot
-capital - http://dbpedia.org/resource/Capital_punishment
-acrobatic - http://dbpedia.org/resource/Acrobatics
-clutch - http://dbpedia.org/resource/Clutch
-grant land - http://dbpedia.org/resource/Grant_Land
-outline - http://dbpedia.org/resource/Nutrition
-quadruped - http://dbpedia.org/resource/Quadrupedalism
-canon tables - http://dbpedia.org/resource/Eusebian_Canons
-mood - http://dbpedia.org/resource/Tempo
-meath - http://dbpedia.org/resource/County_Meath
-space - http://dbpedia.org/resource/Space
-ornament - http://dbpedia.org/resource/Jewellery
-bird - http://dbpedia.org/resource/Bird
-heraldic beast - http://dbpedia.org/resource/Charge_(heraldry)
-illuminations - http://dbpedia.org/resource/Illuminated_manuscript
-biblical - http://dbpedia.org/resource/New_Testament
-continuous - http://dbpedia.org/resource/Continuous_function
-coast - http://dbpedia.org/resource/Coast
-annals - http://dbpedia.org/resource/Irish_annals
-coil - http://dbpedia.org/resource/Solenoid
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-county meath - http://dbpedia.org/resource/County_Meath
-monastic - http://dbpedia.org/resource/Monastery
-motif - http://dbpedia.org/resource/Motif-Index_of_Folk-Literature
-ethiopia - http://dbpedia.org/resource/Ethiopia
-york - http://dbpedia.org/resource/York
-ditch - http://dbpedia.org/resource/Moat
-monastery - http://dbpedia.org/resource/Monastery
-columba - http://dbpedia.org/resource/Columba
-communion wafer - http://dbpedia.org/resource/Sacramental_bread
+viking raids - http://dbpedia.org/resource/Lindisfarne
 abstract - http://dbpedia.org/resource/Abstract_art
-spiral - http://dbpedia.org/resource/Spiral
-conflagration - http://dbpedia.org/resource/Fire
-torture - http://dbpedia.org/resource/Torture
-international gothic - http://dbpedia.org/resource/International_Gothic
-insular art - http://dbpedia.org/resource/Insular_art
-fantasy - http://dbpedia.org/resource/Fantasy
-saxon - http://dbpedia.org/resource/Saxons
-culture area - http://dbpedia.org/resource/Cultural_area
-pierpont morgan library - http://dbpedia.org/resource/Morgan_Library_&_Museum
-interlace - http://dbpedia.org/resource/Celtic_knot
-scriptorium - http://dbpedia.org/resource/Scriptorium
-medieval - http://dbpedia.org/resource/Middle_Ages
-early christian - http://dbpedia.org/resource/Early_Christian_art_and_architecture
-st - http://dbpedia.org/resource/SATB
-holy island - http://dbpedia.org/resource/Lindisfarne
-lindisfarne - http://dbpedia.org/resource/Lindisfarne
-saint luke - http://dbpedia.org/resource/Luke_the_Evangelist
-manuscript illumination - http://dbpedia.org/resource/Illuminated_manuscript
-saint columcille - http://dbpedia.org/resource/Columba
-eye - http://dbpedia.org/resource/Eye
-celtic culture - http://dbpedia.org/resource/Celts
-spirit - http://dbpedia.org/resource/Soul
-narrative - http://dbpedia.org/resource/Narrative
-scotland - http://dbpedia.org/resource/Scotland
-codex usserianus primus - http://dbpedia.org/resource/Codex_Usserianus_Primus
-circle - http://dbpedia.org/resource/Circle
-codex amiatinus - http://dbpedia.org/resource/Codex_Amiatinus
-expression - http://dbpedia.org/resource/Idiom
-decorative art - http://dbpedia.org/resource/Decorative_arts
-methuen - http://dbpedia.org/resource/Methuen_Publishing
-ireland - http://dbpedia.org/resource/Ireland
-virgin - http://dbpedia.org/resource/Virginity
-safety - http://dbpedia.org/resource/Safety
-luke - http://dbpedia.org/resource/Luke_the_Evangelist
-overpower - http://dbpedia.org/resource/OverPower
-temptation - http://dbpedia.org/resource/Temptation_of_Christ
-coptic - http://dbpedia.org/resource/Coptic_language
-evangelists - http://dbpedia.org/resource/Four_Evangelists
-sensibility - http://dbpedia.org/resource/Sensibility
-strike - http://dbpedia.org/resource/Strike_action
-scribes - http://dbpedia.org/resource/Scribe
-metropolis - http://dbpedia.org/resource/Diocese
-visual approach - http://dbpedia.org/resource/Visual_approach
-cruciform - http://dbpedia.org/resource/Cruciform
-painting - http://dbpedia.org/resource/Painting
-vikings - http://dbpedia.org/resource/Vikings
-monk - http://dbpedia.org/resource/Monk
-angel - http://dbpedia.org/resource/Angel
-enamel - http://dbpedia.org/resource/Vitreous_enamel
-paleographic - http://dbpedia.org/resource/Palaeography
-crucifixion - http://dbpedia.org/resource/Crucifixion
-vignette - http://dbpedia.org/resource/Scenario
-splendid - http://dbpedia.org/resource/Le_Splendid
-animate - http://dbpedia.org/resource/Animation
-echternach gospels - http://dbpedia.org/resource/Echternach_Gospels
-colum cille - http://dbpedia.org/resource/Columba
-heritage - http://dbpedia.org/resource/Tradition
-orientalized - http://dbpedia.org/resource/Orientalism
-latin script - http://dbpedia.org/resource/Latin_script
-chain - http://dbpedia.org/resource/Chain
-appetite - http://dbpedia.org/resource/Appetite
-delicacy - http://dbpedia.org/resource/Chinese_cuisine
-saint matthew - http://dbpedia.org/resource/Matthew_the_Apostle
-human - http://dbpedia.org/resource/Human
-christianize - http://dbpedia.org/resource/Christianity
-gospels - http://dbpedia.org/resource/Gospel
-zoomorphic - http://dbpedia.org/resource/Zoomorphism
-la tene - http://dbpedia.org/resource/La_Tène_culture
-mouse - http://dbpedia.org/resource/Mouse
-scribe - http://dbpedia.org/resource/Insular_script
-byzantine art - http://dbpedia.org/resource/Byzantine_art
-garima gospels - http://dbpedia.org/resource/Garima_Gospels
-genealogy - http://dbpedia.org/resource/Genealogy_of_Jesus
+coast - http://dbpedia.org/resource/Coast
 east mediterranean - http://dbpedia.org/resource/Levant
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-celtic designs - http://dbpedia.org/resource/Celtic_art
-illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
-iam - http://dbpedia.org/resource/International_Association_of_Machinists_and_Aerospace_Workers
-illuminators - http://dbpedia.org/resource/Illuminated_manuscript
-snake - http://dbpedia.org/resource/Snake
-lichfield - http://dbpedia.org/resource/Lichfield
-illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-niello - http://dbpedia.org/resource/Niello
-christ - http://dbpedia.org/resource/Jesus
-pierpont morgan collection - http://dbpedia.org/resource/Morgan_Library_&_Museum
-chi ro - http://dbpedia.org/resource/Chi_Rho
-john hold - http://dbpedia.org/resource/John_Hold
-beauty - http://dbpedia.org/resource/Aesthetics
-library - http://dbpedia.org/resource/Library
-christian art - http://dbpedia.org/resource/Christian_art
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-dun cow - http://dbpedia.org/resource/Dun_Cow
-learning - http://dbpedia.org/resource/Learning
-fish - http://dbpedia.org/resource/Fish
-early irish christianity - http://dbpedia.org/resource/Celtic_Christianity
-celtic knots - http://dbpedia.org/resource/Celtic_knot
-talisman - http://dbpedia.org/resource/Amulet
-loop - http://dbpedia.org/resource/Control_flow
-coptic art - http://dbpedia.org/resource/Coptic_art
-greek christianity - http://dbpedia.org/resource/Greek_Orthodox_Church
-durrow - http://dbpedia.org/resource/Durrow_Abbey
-lichfield gospels - http://dbpedia.org/resource/Lichfield_Gospels
-entrust - http://dbpedia.org/resource/Entrust
-potent - http://dbpedia.org/resource/Efficacy
+ornament - http://dbpedia.org/resource/Jewellery
 cathach - http://dbpedia.org/resource/Cathach_of_St._Columba
-child seat - http://dbpedia.org/resource/Child_safety_seat
-irish art - http://dbpedia.org/resource/Irish_art
-asymmetry - http://dbpedia.org/resource/Symmetry
-medieval art - http://dbpedia.org/resource/Medieval_art
-analogy - http://dbpedia.org/resource/Analogy
-robe - http://dbpedia.org/resource/Robe
-infant - http://dbpedia.org/resource/Infant_baptism
-number theory - http://dbpedia.org/resource/Number_theory
-monogram - http://dbpedia.org/resource/Monogram
-armagh - http://dbpedia.org/resource/Armagh
-blind - http://dbpedia.org/resource/Visual_impairment
-dimma - http://dbpedia.org/resource/Book_of_Dimma
-individualist - http://dbpedia.org/resource/Individualism
-bear - http://dbpedia.org/resource/Bear
-painter - http://dbpedia.org/resource/Painting
-carpet - http://dbpedia.org/resource/Carpet
-ribbon - http://dbpedia.org/resource/Ribbon
-celtic - http://dbpedia.org/resource/Celts
-baroque - http://dbpedia.org/resource/Baroque
-characteristic set - http://dbpedia.org/resource/Wu's_method_of_characteristic_set
-celts - http://dbpedia.org/resource/Celts
-object - http://dbpedia.org/resource/Object-oriented_programming
-lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
-church - http://dbpedia.org/resource/Church_architecture
-symbol - http://dbpedia.org/resource/Symbol
-metalwork - http://dbpedia.org/resource/Metalworking
-plunder - http://dbpedia.org/resource/Looting
-interlacing - http://dbpedia.org/resource/Interlaced_video
-illuminator - http://dbpedia.org/resource/Illuminated_manuscript
-point control - http://dbpedia.org/resource/King_of_the_Hill_(game)
-chi rho - http://dbpedia.org/resource/Chi_Rho
-gothic - http://dbpedia.org/resource/Gothic_art
-writhe - http://dbpedia.org/resource/Writhe
-portico - http://dbpedia.org/resource/Portico
-romanesque - http://dbpedia.org/resource/Romanesque_art
-columban - http://dbpedia.org/resource/Columba
-evangelist - http://dbpedia.org/resource/Four_Evangelists
-trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
-relic - http://dbpedia.org/resource/Relic
-pen - http://dbpedia.org/resource/Quill
+quadrupeds - http://dbpedia.org/resource/Quadrupedalism
 evolution - http://dbpedia.org/resource/Evolution
-unearth - http://dbpedia.org/resource/Unearth
-genre - http://dbpedia.org/resource/Genre
+scriptorium - http://dbpedia.org/resource/Scriptorium
+illuminator - http://dbpedia.org/resource/Illuminated_manuscript
+crucifixion - http://dbpedia.org/resource/Crucifixion
+communion wafer - http://dbpedia.org/resource/Sacramental_bread
+evangelists - http://dbpedia.org/resource/Four_Evangelists
+splendid - http://dbpedia.org/resource/Le_Splendid
+celts - http://dbpedia.org/resource/Celts
+heritage - http://dbpedia.org/resource/Tradition
+uncial - http://dbpedia.org/resource/Uncial_script
+talismans - http://dbpedia.org/resource/Amulet
+codex usserianus primus - http://dbpedia.org/resource/Codex_Usserianus_Primus
+visual approach - http://dbpedia.org/resource/Visual_approach
+jewelled - http://dbpedia.org/resource/Jewellery
+biblical - http://dbpedia.org/resource/New_Testament
+angels - http://dbpedia.org/resource/Angel
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+abbot - http://dbpedia.org/resource/Abbot
+niello - http://dbpedia.org/resource/Niello
+mood - http://dbpedia.org/resource/Tempo
+potent - http://dbpedia.org/resource/Cross_potent
+celtic designs - http://dbpedia.org/resource/Celtic_art
+francoise henry - http://dbpedia.org/resource/Françoise_Henry
+genealogy - http://dbpedia.org/resource/Genealogy_of_Jesus
+ireland - http://dbpedia.org/resource/Ireland
+ribbon - http://dbpedia.org/resource/Ribbon
+illuminations - http://dbpedia.org/resource/Illuminated_manuscript
+chain - http://dbpedia.org/resource/Chain
+safety - http://dbpedia.org/resource/Safety
+vignettes - http://dbpedia.org/resource/Diorama
+irish art - http://dbpedia.org/resource/Irish_art
+scribes - http://dbpedia.org/resource/Scribe
+ussher - http://dbpedia.org/resource/James_Ussher
+eye - http://dbpedia.org/resource/Eye
+enamel - http://dbpedia.org/resource/Vitreous_enamel
+temptation - http://dbpedia.org/resource/Temptation_of_Christ
+romanesque - http://dbpedia.org/resource/Romanesque_art
+latin script - http://dbpedia.org/resource/Latin_script
+saint luke - http://dbpedia.org/resource/Luke_the_Evangelist
+mice - http://dbpedia.org/resource/Mouse
+monastery - http://dbpedia.org/resource/Monastery
+decorative art - http://dbpedia.org/resource/Decorative_arts
+beauty - http://dbpedia.org/resource/Aesthetics
+james ussher - http://dbpedia.org/resource/James_Ussher
+evangelist - http://dbpedia.org/resource/Four_Evangelists
+cruciform - http://dbpedia.org/resource/Cruciform
+portraitist - http://dbpedia.org/resource/Portrait
+vikings - http://dbpedia.org/resource/Vikings
+illuminated books - http://dbpedia.org/resource/Illuminated_manuscript
+saxon - http://dbpedia.org/resource/Saxons
 latin - http://dbpedia.org/resource/Latin
+monasteries - http://dbpedia.org/resource/Monastery
+colum cille - http://dbpedia.org/resource/Columba
+st - http://dbpedia.org/resource/SATB
+byzantine art - http://dbpedia.org/resource/Byzantine_art
+virgin - http://dbpedia.org/resource/Virginity
+spirit - http://dbpedia.org/resource/Soul
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+capitals - http://dbpedia.org/resource/Letter_case
+infant - http://dbpedia.org/resource/Infant_baptism
+spiral - http://dbpedia.org/resource/Spiral
+celtic - http://dbpedia.org/resource/Celts
+la tene - http://dbpedia.org/resource/La_Tène_culture
+fish - http://dbpedia.org/resource/Fish
+saint columba - http://dbpedia.org/resource/Columba
+pen - http://dbpedia.org/resource/Quill
+carpet - http://dbpedia.org/resource/Carpet
+gothic - http://dbpedia.org/resource/Gothic_art
+harp - http://dbpedia.org/resource/Harp
+conflagration - http://dbpedia.org/resource/Fire
+celtic art - http://dbpedia.org/resource/Celtic_art
+columba - http://dbpedia.org/resource/Columba
+motifs - http://dbpedia.org/resource/Leitmotif
+york - http://dbpedia.org/resource/York
+torture - http://dbpedia.org/resource/Torture
+hiberno - http://dbpedia.org/resource/History_of_Ireland_(400–800)
+annals - http://dbpedia.org/resource/Annals
+early christian art - http://dbpedia.org/resource/Early_Christian_art_and_architecture
+arcades - http://dbpedia.org/resource/Arcade_game
+coptic art - http://dbpedia.org/resource/Coptic_art
+coptic binding - http://dbpedia.org/resource/Coptic_binding
+metalwork - http://dbpedia.org/resource/Goldsmith
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
+lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
+codex amiatinus - http://dbpedia.org/resource/Codex_Amiatinus
+early irish christianity - http://dbpedia.org/resource/Celtic_Christianity
+learning - http://dbpedia.org/resource/Learning
+manuscript illumination - http://dbpedia.org/resource/Illuminated_manuscript
+individualist - http://dbpedia.org/resource/Individualism
+interlacing - http://dbpedia.org/resource/Interlaced_video
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+holy island - http://dbpedia.org/resource/Lindisfarne
+high point - http://dbpedia.org/resource/West_Seattle
+illumination - http://dbpedia.org/resource/Illuminated_manuscript
+columban - http://dbpedia.org/resource/Columba
+garima gospels - http://dbpedia.org/resource/Garima_Gospels
+expression - http://dbpedia.org/resource/Idiom
+lichfield - http://dbpedia.org/resource/Lichfield
+insular art - http://dbpedia.org/resource/Insular_art
+orientalized - http://dbpedia.org/resource/Orientalism
+relics - http://dbpedia.org/resource/Relic
+library - http://dbpedia.org/resource/Library
+greek christianity - http://dbpedia.org/resource/Greek_Orthodox_Church
+scribe - http://dbpedia.org/resource/Insular_script
+chi ro - http://dbpedia.org/resource/Chi_Rho
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+irish manuscripts - http://dbpedia.org/resource/Insular_art
+christianize - http://dbpedia.org/resource/Christianity
+saint columcille - http://dbpedia.org/resource/Columba
+celtic knots - http://dbpedia.org/resource/Celtic_knot
+coptic - http://dbpedia.org/resource/Coptic_language
+runs - http://dbpedia.org/resource/Glossary_of_music_terminology
+precious metals - http://dbpedia.org/resource/Precious_metal
+scotland - http://dbpedia.org/resource/Scotland
+acrobatic - http://dbpedia.org/resource/Acrobatics
+continuous - http://dbpedia.org/resource/Continuous_function
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
+sensibility - http://dbpedia.org/resource/Sensibility
+metropolis - http://dbpedia.org/resource/Diocese
+icon - http://dbpedia.org/resource/Iconography
+echternach gospels - http://dbpedia.org/resource/Echternach_Gospels
+celtic culture - http://dbpedia.org/resource/Celts
+christ - http://dbpedia.org/resource/Jesus
+northumberland - http://dbpedia.org/resource/Northumberland
+pierpont morgan collection - http://dbpedia.org/resource/Morgan_Library_&_Museum
+fantasy - http://dbpedia.org/resource/Fantasy
+early christian - http://dbpedia.org/resource/Early_Christian_art_and_architecture
+church - http://dbpedia.org/resource/Church_architecture
+medieval - http://dbpedia.org/resource/Middle_Ages
+loops - http://dbpedia.org/resource/Control_flow
+delicacy - http://dbpedia.org/resource/Chinese_cuisine
+trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
+ethiopia - http://dbpedia.org/resource/Ethiopia
+lindisfarne - http://dbpedia.org/resource/Lindisfarne
+sacred - http://dbpedia.org/resource/Religious_art
+portrait - http://dbpedia.org/resource/Portrait
+zoomorphic - http://dbpedia.org/resource/Zoomorphism
+monastic - http://dbpedia.org/resource/Monastery
+illuminators - http://dbpedia.org/resource/Illuminated_manuscript
+interlace - http://dbpedia.org/resource/Celtic_knot
+baroque - http://dbpedia.org/resource/Baroque
+unearthed - http://dbpedia.org/resource/Triple_J_Unearthed
+analogy - http://dbpedia.org/resource/Analogy
+genre - http://dbpedia.org/resource/Genre
+deer - http://dbpedia.org/resource/Deer
+lichfield gospels - http://dbpedia.org/resource/Lichfield_Gospels
+paleographic - http://dbpedia.org/resource/Palaeography
+armagh - http://dbpedia.org/resource/Armagh
+gospels - http://dbpedia.org/resource/Gospel
+ditch - http://dbpedia.org/resource/Moat
+iam - http://dbpedia.org/resource/International_Association_of_Machinists_and_Aerospace_Workers
+symbol - http://dbpedia.org/resource/Symbol
+saint matthew - http://dbpedia.org/resource/Matthew_the_Apostle
+monogram - http://dbpedia.org/resource/Monogram
+methuen - http://dbpedia.org/resource/Methuen_Publishing
+animated - http://dbpedia.org/resource/Animation
+blind - http://dbpedia.org/resource/Visual_impairment
+irish monks - http://dbpedia.org/resource/Hiberno-Scottish_mission
+medieval art - http://dbpedia.org/resource/Medieval_art
+christianity - http://dbpedia.org/resource/Christianity
+calligraphy - http://dbpedia.org/resource/Calligraphy
+painting - http://dbpedia.org/resource/Painting
+iona - http://dbpedia.org/resource/Iona
+outline - http://dbpedia.org/resource/Nutrition
+chi rho - http://dbpedia.org/resource/Chi_Rho
+human - http://dbpedia.org/resource/Human
+meath - http://dbpedia.org/resource/Kingdom_of_Meath
+durrow - http://dbpedia.org/resource/Durrow_Abbey
+christian art - http://dbpedia.org/resource/Christian_art
+narrative - http://dbpedia.org/resource/Narrative
+snakes - http://dbpedia.org/resource/Snake
+dimma - http://dbpedia.org/resource/Book_of_Dimma
+asymmetry - http://dbpedia.org/resource/Symmetry
+dun cow - http://dbpedia.org/resource/Dun_Cow
+county meath - http://dbpedia.org/resource/County_Meath
+luke - http://dbpedia.org/resource/Luke_the_Evangelist
+pierpont morgan library - http://dbpedia.org/resource/Morgan_Library_&_Museum
+international gothic - http://dbpedia.org/resource/International_Gothic

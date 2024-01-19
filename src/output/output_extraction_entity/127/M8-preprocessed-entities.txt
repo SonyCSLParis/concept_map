@@ -2,26 +2,22 @@ neuschwanstein - http://dbpedia.org/resource/Neuschwanstein_Castle
 alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
 northern england - http://dbpedia.org/resource/Northern_England
 alnwick - http://dbpedia.org/resource/Alnwick_Castle
-siege - http://dbpedia.org/resource/Siege
 burg eltz - http://dbpedia.org/resource/Eltz_Castle
 burg eltz - http://dbpedia.org/resource/Eltz_Castle
-family - http://dbpedia.org/resource/Family
 château de chenonceau - http://dbpedia.org/resource/Château_de_Chenonceau
 château de chenonceau - http://dbpedia.org/resource/Château_de_Chenonceau
 european history - http://dbpedia.org/resource/History_of_Europe
 cité de carcassonne - http://dbpedia.org/resource/Cité_de_Carcassonne
-city - http://dbpedia.org/resource/City
 medieval europe - http://dbpedia.org/resource/Middle_Ages
 cité de carcassonne - http://dbpedia.org/resource/Cité_de_Carcassonne
 modern history - http://dbpedia.org/resource/Early_modern_period
 conwy castle - http://dbpedia.org/resource/Conwy_Castle
-historian - http://dbpedia.org/resource/History
 medieval - http://dbpedia.org/resource/Middle_Ages
 conwy - http://dbpedia.org/resource/Conwy_Castle
 heidelberg castle - http://dbpedia.org/resource/Heidelberg_Castle
 gothic - http://dbpedia.org/resource/Gothic_architecture
 renaissance - http://dbpedia.org/resource/Renaissance
-fashion innovation - http://dbpedia.org/resource/History_of_fashion_design
+fashion - http://dbpedia.org/resource/Fashion
 alps - http://dbpedia.org/resource/Alps
 heidelberg castle - http://dbpedia.org/resource/Heidelberg_Castle
 germany - http://dbpedia.org/resource/Kingdom_of_Germany
@@ -53,7 +49,6 @@ middle east - http://dbpedia.org/resource/Middle_East
 middle ages - http://dbpedia.org/resource/Middle_Ages
 nobility - http://dbpedia.org/resource/Nobility
 timber - http://dbpedia.org/resource/Timber_framing
-defense - http://dbpedia.org/resource/Military
 stone - http://dbpedia.org/resource/Masonry
 evolution - http://dbpedia.org/resource/Evolution
 culture history - http://dbpedia.org/resource/Culture-historical_archaeology
@@ -67,54 +62,44 @@ royalty - http://dbpedia.org/resource/Monarchy
 nobility - http://dbpedia.org/resource/Nobility
 proliferation - http://dbpedia.org/resource/Nuclear_proliferation
 technology - http://dbpedia.org/resource/Technology
-weapon - http://dbpedia.org/resource/Weapon
 fashion - http://dbpedia.org/resource/Fashion
-fuel - http://dbpedia.org/resource/Fuel
 golden age - http://dbpedia.org/resource/Golden_Age
 ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
-eastern civilization - http://dbpedia.org/resource/Eastern_world
 fortification - http://dbpedia.org/resource/Castle
-settlement - http://dbpedia.org/resource/Town
 hill fort - http://dbpedia.org/resource/Hillfort
-siege weapon - http://dbpedia.org/resource/Siege_engine
-fort - http://dbpedia.org/resource/Fortification
+siege - http://dbpedia.org/resource/Siege
 defense - http://dbpedia.org/resource/Military
 roman empire - http://dbpedia.org/resource/Roman_Empire
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine
 stone - http://dbpedia.org/resource/Masonry
-hill fort - http://dbpedia.org/resource/Hillfort
+hill forts - http://dbpedia.org/resource/Hillfort
 carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
 royalty - http://dbpedia.org/resource/Monarchy
 church - http://dbpedia.org/resource/Church_architecture
 architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
 middle ages - http://dbpedia.org/resource/Middle_Ages
-mote - http://dbpedia.org/resource/Sensor_node
+motes - http://dbpedia.org/resource/Sensor_node
 normans - http://dbpedia.org/resource/Normans
 scandinavia - http://dbpedia.org/resource/Scandinavia
 stone - http://dbpedia.org/resource/Masonry
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 tower - http://dbpedia.org/resource/Keep
-alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
+alnwick - http://dbpedia.org/resource/Alnwick_Castle
 peace - http://dbpedia.org/resource/Peace
 norman - http://dbpedia.org/resource/Normans
-crusade - http://dbpedia.org/resource/Crusades
+crusades - http://dbpedia.org/resource/Crusades
 middle east - http://dbpedia.org/resource/Middle_East
-european castle - http://dbpedia.org/resource/Castle
+european castles - http://dbpedia.org/resource/Castle
 military orders - http://dbpedia.org/resource/Military_order_(religious_society)
 knights hospitaller - http://dbpedia.org/resource/Knights_Hospitaller
 knights templar - http://dbpedia.org/resource/Knights_Templar
 teutonic knights - http://dbpedia.org/resource/Teutonic_Order
-usher - http://dbpedia.org/resource/Rashidun_Caliphate
 wave - http://dbpedia.org/resource/Wind_wave
 mediaeval architecture - http://dbpedia.org/resource/Medieval_architecture
-victorian - http://dbpedia.org/resource/Victorian_era
-armor - http://dbpedia.org/resource/Armour
-defense - http://dbpedia.org/resource/Military
-wall tower - http://dbpedia.org/resource/Fortified_tower
+victorian times - http://dbpedia.org/resource/Victorian_era
 germany - http://dbpedia.org/resource/Kingdom_of_Germany
 gunpowder - http://dbpedia.org/resource/Early_modern_warfare
-weapon - http://dbpedia.org/resource/Weapon
-summer - http://dbpedia.org/resource/Midsummer
+summer - http://dbpedia.org/resource/Summer_solstice
 winter - http://dbpedia.org/resource/Tilia
 switch - http://dbpedia.org/resource/Railroad_switch
 retrofitting - http://dbpedia.org/resource/Retrofitting

@@ -1,15 +1,16 @@
 promissory note - http://dbpedia.org/resource/Promissory_note
+jim - http://dbpedia.org/resource/Jim_Halpert
 promissory note - http://dbpedia.org/resource/Promissory_note
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+jim - http://dbpedia.org/resource/Jim_Halpert
 heritage auctions - http://dbpedia.org/resource/Heritage_Auctions
 auction - http://dbpedia.org/resource/Auction
 dallas - http://dbpedia.org/resource/Dallas
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+jim - http://dbpedia.org/resource/Jim_Halpert
 promissory note - http://dbpedia.org/resource/Promissory_note
 heritage auctions - http://dbpedia.org/resource/Heritage_Auctions
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 draft - http://dbpedia.org/resource/Conscription_in_the_United_States
-petition - http://dbpedia.org/resource/Petition
 mexican government - http://dbpedia.org/resource/First_Mexican_Republic
 independent - http://dbpedia.org/resource/Independence
 statehood - http://dbpedia.org/resource/U.S._state
@@ -18,10 +19,7 @@ lift - http://dbpedia.org/resource/Elevator
 immigration - http://dbpedia.org/resource/Immigration
 integral - http://dbpedia.org/resource/Integral
 texas revolution - http://dbpedia.org/resource/Texas_Revolution
-death battle - http://dbpedia.org/resource/Rooster_Teeth
 auction - http://dbpedia.org/resource/Auction
-vie - http://dbpedia.org/resource/Vie_(river)
-map - http://dbpedia.org/resource/Map
 lone star - http://dbpedia.org/resource/Lone_Star_Conference
 auction - http://dbpedia.org/resource/Auction
 amazing - http://dbpedia.org/resource/Amazing_Stories
@@ -40,16 +38,16 @@ charles - http://dbpedia.org/resource/Charles_I_of_England
 map - http://dbpedia.org/resource/Map
 texas - http://dbpedia.org/resource/Texas
 unsettled - http://dbpedia.org/resource/Unsettled
-indian tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+indian tribes - http://dbpedia.org/resource/Native_Americans_in_the_United_States
 houston - http://dbpedia.org/resource/Houston
 broadside - http://dbpedia.org/resource/Broadside_ballad
-pen - http://dbpedia.org/resource/Pen
 david - http://dbpedia.org/resource/David
 davy crockett - http://dbpedia.org/resource/Davy_Crockett
 william barret travis - http://dbpedia.org/resource/William_B._Travis
 police - http://dbpedia.org/resource/Police
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 land grant - http://dbpedia.org/resource/Land_grant
+austin - http://dbpedia.org/resource/Austin_College
 austin - http://dbpedia.org/resource/Austin_College
 colony - http://dbpedia.org/resource/Colony_of_Virginia
 matagorda - http://dbpedia.org/resource/Matagorda_Bay
@@ -69,8 +67,7 @@ pine - http://dbpedia.org/resource/Pine
 mantle - http://dbpedia.org/resource/Mantle_(geology)
 stagecoach - http://dbpedia.org/resource/Stagecoach
 texas - http://dbpedia.org/resource/Texas
-frontier - http://dbpedia.org/resource/Frontier
-auction - http://dbpedia.org/resource/Auction
+frontier - http://dbpedia.org/resource/American_frontier
 auction - http://dbpedia.org/resource/Auction
 heritage auctions - http://dbpedia.org/resource/Heritage_Auctions
 heritage - http://dbpedia.org/resource/Cultural_heritage

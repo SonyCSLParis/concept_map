@@ -1,201 +1,190 @@
-religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
-pagan - http://dbpedia.org/resource/Paganism
-danube - http://dbpedia.org/resource/Danube
-education - http://dbpedia.org/resource/Education
-custom class - http://dbpedia.org/resource/Business_class
-byzantine - http://dbpedia.org/resource/Byzantine_Empire
-christianity - http://dbpedia.org/resource/Christianity
-tribe - http://dbpedia.org/resource/Tribe
-huns - http://dbpedia.org/resource/Huns
-christian monastic life - http://dbpedia.org/resource/Christian_monasticism
-central asia - http://dbpedia.org/resource/Central_Asia
-british isles - http://dbpedia.org/resource/British_Isles
-obedience - http://dbpedia.org/resource/Vow_of_obedience
-benedictine monasticism - http://dbpedia.org/resource/Benedictines
-franks - http://dbpedia.org/resource/Franks
-confession - http://dbpedia.org/resource/Sacrament_of_Penance
-stress - http://dbpedia.org/resource/Portuguese_language
-saint jerome - http://dbpedia.org/resource/Jerome
-priest - http://dbpedia.org/resource/Presbyter
-ambrose - http://dbpedia.org/resource/Ambrose
-evil - http://dbpedia.org/resource/Evil
-roman emperors - http://dbpedia.org/resource/Roman_Empire
-rome - http://dbpedia.org/resource/Roman_Empire
-britons - http://dbpedia.org/resource/Celtic_Britons
-early christians - http://dbpedia.org/resource/History_of_Christianity
-anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
-god - http://dbpedia.org/resource/God
-manual - http://dbpedia.org/resource/Manual_labour
-hippo - http://dbpedia.org/resource/Hippopotamus
-outline - http://dbpedia.org/resource/Nutrition
-avars - http://dbpedia.org/resource/Pannonian_Avars
-geometry - http://dbpedia.org/resource/Mathematics_in_medieval_Islam
-byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-diocesan - http://dbpedia.org/resource/Secular_clergy
-early medieval - http://dbpedia.org/resource/Early_Middle_Ages
-crop rotation - http://dbpedia.org/resource/Crop_rotation
-anglo saxon england - http://dbpedia.org/resource/History_of_Anglo-Saxon_England
-chieftain - http://dbpedia.org/resource/Germanic_kingship
-code - http://dbpedia.org/resource/Code_of_law
-confederation - http://dbpedia.org/resource/Confederation
-secular - http://dbpedia.org/resource/Secular_clergy
-byzantine medicine - http://dbpedia.org/resource/Byzantine_medicine
-nomadic - http://dbpedia.org/resource/Nomad
-greco - http://dbpedia.org/resource/Ancient_Greece
-steppe - http://dbpedia.org/resource/Eurasian_Steppe
-byzantines - http://dbpedia.org/resource/Byzantine_Empire
-anglo saxons - http://dbpedia.org/resource/Anglo-Saxons
-byzantine science - http://dbpedia.org/resource/Byzantine_science
-physician - http://dbpedia.org/resource/Ancient_Greek_medicine
-moral code - http://dbpedia.org/resource/Morality
-church - http://dbpedia.org/resource/Christian_Church
-law - http://dbpedia.org/resource/Roman_law
-britannium - http://dbpedia.org/resource/Britannia_metal
-migration - http://dbpedia.org/resource/Human_migration
-romans - http://dbpedia.org/resource/Romans_(musician)
-monk - http://dbpedia.org/resource/Monasticism
-warband - http://dbpedia.org/resource/Warrior
-arian heresy - http://dbpedia.org/resource/Arianism
-justinian - http://dbpedia.org/resource/Justinian_I
-central asian - http://dbpedia.org/resource/Central_Asia
-classical - http://dbpedia.org/resource/Classical_antiquity
-justinian plague - http://dbpedia.org/resource/Plague_of_Justinian
-eastern europe - http://dbpedia.org/resource/Eastern_Europe
-barbarian kingdom - http://dbpedia.org/resource/Barbarian_kingdoms
-court - http://dbpedia.org/resource/Royal_court
-folk - http://dbpedia.org/resource/Folk_religion
-medieval - http://dbpedia.org/resource/Middle_Ages
-village - http://dbpedia.org/resource/Village
-endemic - http://dbpedia.org/resource/Endemism
-pressure - http://dbpedia.org/resource/Pressure
-sexual desire - http://dbpedia.org/resource/Sexual_desire
-plow - http://dbpedia.org/resource/Plough
-law code - http://dbpedia.org/resource/Early_Irish_law
-human nature - http://dbpedia.org/resource/Human_nature
-city god - http://dbpedia.org/resource/Tutelary_deity
-germanic kingdoms - http://dbpedia.org/resource/Germanic_kingship
-warfare - http://dbpedia.org/resource/War
-western monasticism - http://dbpedia.org/resource/Christian_monasticism
-urban - http://dbpedia.org/resource/Urbanization
-virtue - http://dbpedia.org/resource/Virtue
-christian worldview - http://dbpedia.org/resource/Christian_worldview
-philosophical - http://dbpedia.org/resource/Philosophy
-slavs - http://dbpedia.org/resource/Slavs
-mouth - http://dbpedia.org/resource/Mouth
-resistance - http://dbpedia.org/resource/Resistance_movement
-ireland - http://dbpedia.org/resource/Ireland
-city hospital - http://dbpedia.org/resource/Hennepin_County_Medical_Center
-early christianity - http://dbpedia.org/resource/History_of_Christianity
-jutes - http://dbpedia.org/resource/Jutes
-brittany - http://dbpedia.org/resource/Brittany
-assault - http://dbpedia.org/resource/Sexual_assault
-st. patrick - http://dbpedia.org/resource/Saint_Patrick
-independent - http://dbpedia.org/resource/Independence
-corpus juris civilis - http://dbpedia.org/resource/Corpus_Juris_Civilis
-theodosius - http://dbpedia.org/resource/Theodosius_I
-saint augustine - http://dbpedia.org/resource/Augustine_of_Hippo
-bulgars - http://dbpedia.org/resource/Bulgars
-christian monasticism - http://dbpedia.org/resource/Christian_monasticism
-arthur - http://dbpedia.org/resource/King_Arthur
-embark - http://dbpedia.org/resource/Embark_(transit_authority)
-constantine - http://dbpedia.org/resource/Constantine_the_Great
-ascetic - http://dbpedia.org/resource/Asceticism
-nun - http://dbpedia.org/resource/Nun
-medical science - http://dbpedia.org/resource/Medicine
-animal husbandry - http://dbpedia.org/resource/Animal_husbandry
-early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
-chapter 7 - http://dbpedia.org/resource/Ezra_7
-roman empire - http://dbpedia.org/resource/Western_Roman_Empire
-mathematic - http://dbpedia.org/resource/Mathematics
-coenobitic - http://dbpedia.org/resource/Cenobitic_monasticism
-sin - http://dbpedia.org/resource/Original_sin
-saint basil - http://dbpedia.org/resource/Basil_of_Caesarea
-vow - http://dbpedia.org/resource/Vow
-petrine - http://dbpedia.org/resource/Saint_Peter
-comitatus - http://dbpedia.org/resource/Comes
-saxons - http://dbpedia.org/resource/Saxons
-byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
-rhine - http://dbpedia.org/resource/Rhine
-kinship - http://dbpedia.org/resource/Kinship
-st. benedict - http://dbpedia.org/resource/Rule_of_Saint_Benedict
-christian missionary - http://dbpedia.org/resource/Christian_mission
-roman camp - http://dbpedia.org/resource/Castra
-grain - http://dbpedia.org/resource/Grain
-germanic people - http://dbpedia.org/resource/Germanic_peoples
-monastic - http://dbpedia.org/resource/Monasticism
-violence - http://dbpedia.org/resource/Violence
-medicine - http://dbpedia.org/resource/Medicine
-assimilation - http://dbpedia.org/resource/Cultural_assimilation
-continent - http://dbpedia.org/resource/History_of_Europe
-christian community - http://dbpedia.org/resource/The_Christian_Community
-nicene creed - http://dbpedia.org/resource/Nicene_Creed
-theory - http://dbpedia.org/resource/Theory
-christian missionaries - http://dbpedia.org/resource/Christian_mission
-roman - http://dbpedia.org/resource/Roman_Empire
-christian church - http://dbpedia.org/resource/Christianity
-monasticism - http://dbpedia.org/resource/Monasticism
-gender - http://dbpedia.org/resource/Gender_role
-west wales - http://dbpedia.org/resource/Cornwall
-whitby - http://dbpedia.org/resource/Whitby_Abbey
-western christian church - http://dbpedia.org/resource/Western_Christianity
-frontier - http://dbpedia.org/resource/Frontier
-egyptian - http://dbpedia.org/resource/Ancient_Egypt
-hun - http://dbpedia.org/resource/Huns
-christ - http://dbpedia.org/resource/Jesus
-constantinople - http://dbpedia.org/resource/Byzantine_Empire
-germanic tribe - http://dbpedia.org/resource/Germanic_peoples
-scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
-common ancestor - http://dbpedia.org/resource/Animal
-culture - http://dbpedia.org/resource/Culture
-persians - http://dbpedia.org/resource/Sasanian_Empire
-greeks - http://dbpedia.org/resource/Ancient_Greece
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-legal code - http://dbpedia.org/resource/Roman_law
-roman culture - http://dbpedia.org/resource/Ancient_Rome
-ironworker - http://dbpedia.org/resource/Ironworker
-orthodoxy - http://dbpedia.org/resource/Eastern_Orthodox_Church
-fortification - http://dbpedia.org/resource/Fortification
-nobility - http://dbpedia.org/resource/Nobility
-monastery - http://dbpedia.org/resource/Christian_monasticism
-brand - http://dbpedia.org/resource/Brand
-family - http://dbpedia.org/resource/Family
-augustine - http://dbpedia.org/resource/Augustine_of_Hippo
-celtic britons - http://dbpedia.org/resource/Celtic_Britons
-hellenistic - http://dbpedia.org/resource/Hellenistic_period
-medieval christianity - http://dbpedia.org/resource/Christianity_in_the_Middle_Ages
-missionary - http://dbpedia.org/resource/Christianity
-gaul - http://dbpedia.org/resource/Gaul
 st. basil - http://dbpedia.org/resource/Basil_of_Caesarea
-late antiquity - http://dbpedia.org/resource/Late_antiquity
-alamanni - http://dbpedia.org/resource/Alemanni
-orthodox monasticism - http://dbpedia.org/resource/Degrees_of_Eastern_Orthodox_monasticism
-emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
-pope - http://dbpedia.org/resource/Pope
-emperor justinian - http://dbpedia.org/resource/Justinian_I
-celt - http://dbpedia.org/resource/Celts
-sex - http://dbpedia.org/resource/Human_sexuality
-legend - http://dbpedia.org/resource/Hagiography
-substitute - http://dbpedia.org/resource/Substitutionary_atonement
-arians - http://dbpedia.org/resource/Arianism
-heptarchy - http://dbpedia.org/resource/Heptarchy
-early christian community - http://dbpedia.org/resource/History_of_Christianity
-celtic - http://dbpedia.org/resource/Celts
-orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
-celts - http://dbpedia.org/resource/Celts
-penitential - http://dbpedia.org/resource/Penance
-field crop - http://dbpedia.org/resource/Produce
-german king - http://dbpedia.org/resource/Kingdom_of_Germany
-doctrine - http://dbpedia.org/resource/Doctrine
-germanic law - http://dbpedia.org/resource/Ancient_Germanic_law
-temple church - http://dbpedia.org/resource/Temple_Church
+folk - http://dbpedia.org/resource/Folk_religion
 germanic society - http://dbpedia.org/resource/Germanic_peoples
-byzantium - http://dbpedia.org/resource/Byzantine_Empire
-nicaea - http://dbpedia.org/resource/First_Council_of_Nicaea
+violence - http://dbpedia.org/resource/Violence
+hippo - http://dbpedia.org/resource/Hippopotamus
+personified - http://dbpedia.org/resource/Personification
+migration - http://dbpedia.org/resource/Human_migration
+late antiquity - http://dbpedia.org/resource/Late_antiquity
+medicine - http://dbpedia.org/resource/Medicine
+eremitical - http://dbpedia.org/resource/Hermit
+britannium - http://dbpedia.org/resource/Britannia_metal
+western christian church - http://dbpedia.org/resource/Western_Christianity
+code - http://dbpedia.org/resource/Code_of_law
+benedictine monasticism - http://dbpedia.org/resource/Benedictines
+central asian - http://dbpedia.org/resource/Central_Asia
+celts - http://dbpedia.org/resource/Celts
+saint jerome - http://dbpedia.org/resource/Jerome
+theory - http://dbpedia.org/resource/Theory
+steppe - http://dbpedia.org/resource/Eurasian_Steppe
+rome - http://dbpedia.org/resource/Roman_Empire
+roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+classical - http://dbpedia.org/resource/Classical_antiquity
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+theodosius - http://dbpedia.org/resource/Theodosius_I
+greco - http://dbpedia.org/resource/Ancient_Greece
+mouth - http://dbpedia.org/resource/Mouth
+orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
+education - http://dbpedia.org/resource/Education
+franks - http://dbpedia.org/resource/Franks
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+priests - http://dbpedia.org/resource/Presbyter
+chapter 7 - http://dbpedia.org/resource/Ezra_7
+avars - http://dbpedia.org/resource/Pannonian_Avars
+constantinople - http://dbpedia.org/resource/Byzantine_Empire
+evil - http://dbpedia.org/resource/Evil
+arthur - http://dbpedia.org/resource/King_Arthur
+early christian - http://dbpedia.org/resource/History_of_Christianity
+justinian - http://dbpedia.org/resource/Justinian_I
+sexual desire - http://dbpedia.org/resource/Sexual_desire
+church - http://dbpedia.org/resource/Christian_Church
+christian worldview - http://dbpedia.org/resource/Christian_worldview
+ireland - http://dbpedia.org/resource/Ireland
+alamanni - http://dbpedia.org/resource/Alemanni
+assimilation - http://dbpedia.org/resource/Cultural_assimilation
+byzantine medicine - http://dbpedia.org/resource/Byzantine_medicine
+saint basil - http://dbpedia.org/resource/Basil_of_Caesarea
+slavs - http://dbpedia.org/resource/Slavs
+customs - http://dbpedia.org/resource/Tradition
+legalized christianity - http://dbpedia.org/resource/Edict_of_Milan
+monastery - http://dbpedia.org/resource/Christian_monasticism
+christian monasticism - http://dbpedia.org/resource/Christian_monasticism
+early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
+early church - http://dbpedia.org/resource/History_of_Christianity
+germanic law - http://dbpedia.org/resource/Ancient_Germanic_law
+monastic - http://dbpedia.org/resource/Monasticism
+bulgars - http://dbpedia.org/resource/Bulgars
 patriarchal - http://dbpedia.org/resource/Ecumenical_Patriarch_of_Constantinople
+crop rotation - http://dbpedia.org/resource/Crop_rotation
+huns - http://dbpedia.org/resource/Huns
+legal code - http://dbpedia.org/resource/Roman_law
+western monasticism - http://dbpedia.org/resource/Christian_monasticism
+scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
+barbarian - http://dbpedia.org/resource/Barbarian
+st. patrick - http://dbpedia.org/resource/Saint_Patrick
+celtic - http://dbpedia.org/resource/Celts
+byzantine science - http://dbpedia.org/resource/Byzantine_science
+monasticism - http://dbpedia.org/resource/Monasticism
+britons - http://dbpedia.org/resource/Celtic_Britons
+christian church - http://dbpedia.org/resource/Christianity
+learning - http://dbpedia.org/resource/Education
+secular - http://dbpedia.org/resource/Secular_clergy
 st. anthony - http://dbpedia.org/resource/Anthony_the_Great
 european law - http://dbpedia.org/resource/European_Union_law
+ambrose - http://dbpedia.org/resource/Ambrose
+anglo saxon england - http://dbpedia.org/resource/History_of_Anglo-Saxon_England
+chieftain - http://dbpedia.org/resource/Germanic_kingship
+persians - http://dbpedia.org/resource/Sasanian_Empire
+warfare - http://dbpedia.org/resource/War
+early christians - http://dbpedia.org/resource/History_of_Christianity
+germanic kingdoms - http://dbpedia.org/resource/Germanic_kingship
 greek orthodoxy - http://dbpedia.org/resource/Greek_Orthodox_Church
-barbarian - http://dbpedia.org/resource/Barbarian
-early church - http://dbpedia.org/resource/History_of_Christianity
-eremitical - http://dbpedia.org/resource/Hermit
+tribe - http://dbpedia.org/resource/Tribe
+early medieval - http://dbpedia.org/resource/Early_Middle_Ages
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+roman emperors - http://dbpedia.org/resource/Roman_Empire
+nicene creed - http://dbpedia.org/resource/Nicene_Creed
+danube - http://dbpedia.org/resource/Danube
+celtic britons - http://dbpedia.org/resource/Celtic_Britons
+endemic - http://dbpedia.org/resource/Endemism
+medical science - http://dbpedia.org/resource/Medicine
+ascetic - http://dbpedia.org/resource/Asceticism
+sin - http://dbpedia.org/resource/Original_sin
+germanic peoples - http://dbpedia.org/resource/Germanic_peoples
+hellenistic - http://dbpedia.org/resource/Hellenistic_period
+animal husbandry - http://dbpedia.org/resource/Animal_husbandry
+heptarchy - http://dbpedia.org/resource/Heptarchy
+german kings - http://dbpedia.org/resource/King_of_the_Romans
+emperor justinian - http://dbpedia.org/resource/Justinian_I
+pagan - http://dbpedia.org/resource/Paganism
+greeks - http://dbpedia.org/resource/Ancient_Greece
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+philosophical - http://dbpedia.org/resource/Philosophy
+independent - http://dbpedia.org/resource/Independence
+confession - http://dbpedia.org/resource/Sacrament_of_Penance
+pope - http://dbpedia.org/resource/Pope
+early christianity - http://dbpedia.org/resource/History_of_Christianity
+pressure - http://dbpedia.org/resource/Pressure
+gaul - http://dbpedia.org/resource/Gaul
+plow - http://dbpedia.org/resource/Plough
+romans - http://dbpedia.org/resource/Romans_(musician)
+penitentials - http://dbpedia.org/resource/Penitential
+migrations - http://dbpedia.org/resource/Migration_Period
+resistance - http://dbpedia.org/resource/Resistance_movement
+nobility - http://dbpedia.org/resource/Nobility
+dioceses - http://dbpedia.org/resource/Diocese
+obedience - http://dbpedia.org/resource/Vow_of_obedience
+arians - http://dbpedia.org/resource/Arianism
+common ancestor - http://dbpedia.org/resource/Animal
+bishops - http://dbpedia.org/resource/Bishop
+warband - http://dbpedia.org/resource/Warrior
+christian monastic life - http://dbpedia.org/resource/Christian_monasticism
+vow - http://dbpedia.org/resource/Vow
+doctrine - http://dbpedia.org/resource/Doctrine
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
+geometry - http://dbpedia.org/resource/Mathematics_in_medieval_Islam
+human nature - http://dbpedia.org/resource/Human_nature
+anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
+moral code - http://dbpedia.org/resource/Morality
+medieval christianity - http://dbpedia.org/resource/Christianity_in_the_Middle_Ages
+anglo saxons - http://dbpedia.org/resource/Anglo-Saxons
+barbarian kingdoms - http://dbpedia.org/resource/Barbarian_kingdoms
+gender - http://dbpedia.org/resource/Gender_role
+urban - http://dbpedia.org/resource/Urbanization
+kinship - http://dbpedia.org/resource/Kinship
+coenobitic - http://dbpedia.org/resource/Cenobitic_monasticism
+monk - http://dbpedia.org/resource/Monasticism
+court - http://dbpedia.org/resource/Royal_court
+christ - http://dbpedia.org/resource/Jesus
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+petrine - http://dbpedia.org/resource/Saint_Peter
+st. benedict - http://dbpedia.org/resource/Rule_of_Saint_Benedict
+christian missionaries - http://dbpedia.org/resource/Christian_mission
+law code - http://dbpedia.org/resource/Early_Irish_law
+christian virtues - http://dbpedia.org/resource/Seven_virtues
+family - http://dbpedia.org/resource/Family
+central asia - http://dbpedia.org/resource/Central_Asia
+frontier - http://dbpedia.org/resource/Frontier
+brand - http://dbpedia.org/resource/Brand
+medieval - http://dbpedia.org/resource/Middle_Ages
+roman - http://dbpedia.org/resource/Roman_Empire
+eastern europe - http://dbpedia.org/resource/Eastern_Europe
+field crop - http://dbpedia.org/resource/Produce
+culture - http://dbpedia.org/resource/Culture
+monasteries - http://dbpedia.org/resource/Monasticism
+jutes - http://dbpedia.org/resource/Jutes
+orthodox monasticism - http://dbpedia.org/resource/Degrees_of_Eastern_Orthodox_monasticism
+nicaea - http://dbpedia.org/resource/First_Council_of_Nicaea
+grain - http://dbpedia.org/resource/Grain
+comitatus - http://dbpedia.org/resource/Comes
+god - http://dbpedia.org/resource/God
+nomadic - http://dbpedia.org/resource/Nomad
+byzantine emperors - http://dbpedia.org/resource/Byzantine_Empire
+city - http://dbpedia.org/resource/City
+germanic tribes - http://dbpedia.org/resource/Germanic_peoples
+sex - http://dbpedia.org/resource/Human_sexuality
 missionaries - http://dbpedia.org/resource/Missionary
+missionary - http://dbpedia.org/resource/Christianity
+christianity - http://dbpedia.org/resource/Christianity
+rhine - http://dbpedia.org/resource/Rhine
+orthodoxy - http://dbpedia.org/resource/Eastern_Orthodox_Church
+continent - http://dbpedia.org/resource/History_of_Europe
+british isles - http://dbpedia.org/resource/British_Isles
+confederations - http://dbpedia.org/resource/Confederation
+outline - http://dbpedia.org/resource/Nutrition
+saint augustine - http://dbpedia.org/resource/Augustine_of_Hippo
+justinian plague - http://dbpedia.org/resource/Plague_of_Justinian
+brittany - http://dbpedia.org/resource/Brittany
+arian heresy - http://dbpedia.org/resource/Arianism
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+saxons - http://dbpedia.org/resource/Saxons
+emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
+roman culture - http://dbpedia.org/resource/Ancient_Rome
+diocesan - http://dbpedia.org/resource/Secular_clergy
+stress - http://dbpedia.org/resource/Portuguese_language
+mathematics - http://dbpedia.org/resource/Greek_mathematics
+whitby - http://dbpedia.org/resource/Whitby_Abbey
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+corpus juris civilis - http://dbpedia.org/resource/Corpus_Juris_Civilis
+augustine - http://dbpedia.org/resource/Augustine_of_Hippo
