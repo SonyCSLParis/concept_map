@@ -1,19 +1,20 @@
 brougham roman fort brocavum and civil settlement and brougham castle list entry summary this monument is scheduled under the ancient monuments and archaeological areas act 1979 as amended as it appears to the secretary of state to be of national importance
 this entry is a copy the original is held by the department for culture media and sport
-name brougham roman fort brocavum and civil settlement and brougham castle list entry number 1007186 locationbrougham cumbria the monument may lie within the boundary of more than one authority
-county cumbria district eden district type district authority parish brougham national park
-not applicable to this list entry
+name brougham roman fort brocavum and civil settlement and brougham castle list entry number 1007186 locationbrougham cumbria
+the monument may lie within the boundary of more than one authority
+county cumbria district eden district type district authority parish brougham national park not applicable to this list entry
 grade not applicable to this list entry
 this record has been generated from an old county number ocn scheduling record
 as these are some of our oldest designation records they do not have all the information held electronically that our modernised records contain
 therefore the original date of scheduling is not available electronically
 the date of scheduling may be noted in our paper records please contact us for further information
 date first scheduled 26 jun-1924date of most recent amendment 05 sep-2014legacy system information the contents of this record have been generated from a legacy data system
-legacy system rsm ocnuid
-cu 241 asset groupings this list entry does not comprise part of an asset grouping
+legacy system rsm ocnuid cu 241 asset groupings
+this list entry does not comprise part of an asset grouping
 asset groupings are not part of the official record but are added later for information
 list entry description summary of monument the upstanding and buried remains of brougham roman fort brocavum and its associated civil settlement and brougham medieval castle
-reasons for designation brougham roman fort brocavum and civil settlement and brougham castle is scheduled for the following principal reasons survival the monument survives well with the castle displaying significant upstanding fabric that illustrates its constructional development during the five centuries of its occupation while the roman fort survives well as a substantial earthwork partly overlain by the castle and partly surrounded by defensive ditches potential various limited archaeological excavations within the vicus castle and castle 's bailey have revealed the well preserved remains of buried archaeological features and the monument retains enormous potential for the preservation of similar archaeological material historic interest the monument retains significant historic interest to enhance our understanding of the roman and medieval military occupation and settlement of northern england and the responses to perceived and actual threats from the north during these periods documentation the roman fort and castle are well documented both historically and in the archaeological records which adds to their interest group value the castle has group value with strategically contemporary castles along the stainmore pass route over the pennines at bowes appleby and brough while the roman fort has group value with strategically contemporary forts at brough kirkby thore to the east low borrowbridge to the south old penrith and carlisle to the north and ambleside to the south west
+reasons for designation brougham roman fort brocavum and civil settlement and brougham castle is scheduled for the following principal reasons
+survival the monument survives well with the castle displaying significant upstanding fabric that illustrates its constructional development during the five centuries of its occupation while the roman fort survives well as a substantial earthwork partly overlain by the castle and partly surrounded by defensive ditches potential various limited archaeological excavations within the vicus castle and castle 's bailey have revealed the well preserved remains of buried archaeological features and the monument retains enormous potential for the preservation of similar archaeological material historic interest the monument retains significant historic interest to enhance our understanding of the roman and medieval military occupation and settlement of northern england and the responses to perceived and actual threats from the north during these periods documentation the roman fort and castle are well documented both historically and in the archaeological records which adds to their interest group value the castle has group value with strategically contemporary castles along the stainmore pass route over the pennines at bowes appleby and brough while the roman fort has group value with strategically contemporary forts at brough kirkby thore to the east low borrowbridge to the south old penrith and carlisle to the north and ambleside to the south west
 historybrougham roman fort brocavum was constructed on the south bank of the river eamont near its confluence with the river lowther at the junction of main north south and east west roman roads which intersected and crossed the river eamont at this point
 the occupation of the fort seems to have lasted from the governorship of agricola ad 78 84 to the end of the c4
 it measured about 3.4 acres 1.37 ha
@@ -78,7 +79,8 @@ in the southern half of the fort there appear to be the disturbed remains of a t
 archaeological excavation in 2007 revealed well preserved buried remains of the vicus in the field on the opposite side of the b6262 road to the south of the fort
 these remains flank a roman road issuing from the fort 's south gate and include c3 and c4 rectilinear timber framed buildings minor roads lanes cobbled surfaces and a broadly contemporary field system represented by a system of ditches
 in the field to the east of moor lane and south of the b6262 further building remains trackways ditched field boundaries and several large wells or waterholes were revealed while further east in the field south of the a66 trackways field boundaries wells or waterholes were also located together with several certain or probable cremation burials
-these burials almost certainly formed part of the same burial ground that was largely destroyed during widening of the a66 in the later half of the c20 brougham castle is of stone construction and together with its southern defences it overlies the very northern part of the roman fort
+these burials almost certainly formed part of the same burial ground that was largely destroyed during widening of the a66 in the later half of the c20
+brougham castle is of stone construction and together with its southern defences it overlies the very northern part of the roman fort
 it has been constructed on the spur of a low river cliff jutting into the floodplain which provides a natural defence on the north side and on the northern part of the west side
 access is via a cobbled causeway leading from moor lane and passes through the outer gatehouse gatehouse court and inner gatehouse to emerge into a cobbled courtyard
 a five storey keep is attached to the south side of the gatehouses and between the keep and the east curtain wall there are the remains of buildings including early and later halls a halls court and a forebuilding
@@ -118,7 +120,8 @@ all rights reserved
 ordnance survey licence number 100024900
 © british crown and sea zone solutions limited 2016
 all rights reserved
-licence number 102006.006 use of this data is subject to terms and conditions
+licence number 102006.006
+use of this data is subject to terms and conditions
 the above map is for quick reference purposes only and may not be to scale
 for a copy of the full scale map please see the attached pdf 1007186
 pdfthe pdf will be generated from our live systems and may take a few minutes to download depending on how busy our servers are

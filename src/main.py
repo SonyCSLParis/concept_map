@@ -3,12 +3,13 @@ from preprocess import *
 from group_entities import *
 from extract_entities import *
 from graph import *
-from extract_relations import *
+from extract_relations_fine_tuned import *
+
 if __name__ == '__main__':
     # PREPROCESS
-    # parent_folder_path = WIKI_TRAIN
-    # output_folder_path = OUTPUT_PREPROCESSING
-    # preprocess_folder(parent_folder_path,output_folder_path)
+    parent_folder_path = WIKI_TRAIN
+    output_folder_path = OUTPUT_PREPROCESSING
+    preprocess_folder(parent_folder_path,output_folder_path)
 
     # EXTRACT ENTITY
     # parent_folder_path = OUTPUT_PREPROCESSING
@@ -16,19 +17,17 @@ if __name__ == '__main__':
     # extract_dbpedia_spotlight_entities(parent_folder_path, output_folder_path)
 
     # EXTRACT RELATIONSHIP
-    entity_folder_path = OUTPUT_EXTRACTION_ENTITY
-    output_folder_path = OUTPUT_RELATIONS
-    text_folder_path = OUTPUT_PREPROCESSING
-    extracted_relationships = extract_relationships(entity_folder_path, text_folder_path, output_folder_path)
-    for relationship in extracted_relationships:
-        print(f"Relationship between {relationship[0]} and {relationship[1]}: {relationship[2]}")
+    entity_path = OUTPUT_EXTRACTION_ENTITY
+    text_path = OUTPUT_PREPROCESSING
+    output_path = OUTPUT_TRIPLETS_FINE_TUNE
+    entity_extracted_rebel(entity_path, text_path, output_path)
 
     #GROUP ENTITY
-    parent_folder_path = OUTPUT_EXTRACTION_ENTITY
-    output_folder_path = OUTPUT_GROUPING_ENTITY_SINGLE_FILES
-    set_entities(parent_folder_path, output_folder_path)
-    new_output_folder_path = OUTPUT_GROUPING_ENTITY_SUBFOLDERS
-    get_unique_entities_from_files_in_subfolders(output_folder_path, new_output_folder_path)
+    # parent_folder_path = OUTPUT_EXTRACTION_ENTITY
+    # output_folder_path = OUTPUT_GROUPING_ENTITY_SINGLE_FILES
+    # set_entities(parent_folder_path, output_folder_path)
+    # new_output_folder_path = OUTPUT_GROUPING_ENTITY_SUBFOLDERS
+    # get_unique_entities_from_files_in_subfolders(output_folder_path, new_output_folder_path)
 
     #CREATE GRAPH
     # parent_folder_path = OUTPUT_GROUPING_ENTITY_SUBFOLDERS

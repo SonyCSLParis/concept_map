@@ -36,12 +36,13 @@ OUTPUT_DIR = os.path.join(SRC_DIR + '/output')
 OUTPUT_PREPROCESSING = os.path.join(OUTPUT_DIR + '/output_preprocessing')
 OUTPUT_EXTRACTION_ENTITY = os.path.join(OUTPUT_DIR + '/output_extraction_entity')
 OUTPUT_GROUPING_ENTITY_SINGLE_FILES = os.path.join(OUTPUT_DIR + '/output_grouping_entity_single')
-OUTPUT_RELATIONS = os.path.join(OUTPUT_DIR + '/output_relations')
-
+OUTPUT_TRIPLETS_FINE_TUNE = os.path.join(OUTPUT_DIR + '/triplets')
 OUTPUT_GROUPING_ENTITY_SUBFOLDERS = os.path.join(OUTPUT_DIR + '/output_grouping_entity_subfolders')
+OUTPUT_TRIPLETS_PREPORCESSED = os.path.join(OUTPUT_DIR + '/triplets_preprocessed')
+
 HTML_CONCEPTS = os.path.join(OUTPUT_DIR + '/html_images')
 
-list_dir = [DATA_DIR,HTML_CONCEPTS, OUTPUT_DIR, OUTPUT_RELATIONS, OUTPUT_EXTRACTION_ENTITY, OUTPUT_PREPROCESSING,OUTPUT_GROUPING_ENTITY_SINGLE_FILES,OUTPUT_GROUPING_ENTITY_SUBFOLDERS]
+list_dir = [DATA_DIR,HTML_CONCEPTS, OUTPUT_TRIPLETS_PREPORCESSED, OUTPUT_TRIPLETS_FINE_TUNE, OUTPUT_DIR, OUTPUT_EXTRACTION_ENTITY, OUTPUT_PREPROCESSING,OUTPUT_GROUPING_ENTITY_SINGLE_FILES,OUTPUT_GROUPING_ENTITY_SUBFOLDERS]
 for x in list_dir:
     if not os.path.exists(x):
         os.makedirs(x)

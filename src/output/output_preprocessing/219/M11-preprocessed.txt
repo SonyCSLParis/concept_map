@@ -25,9 +25,7 @@ the third secret part of the program the development of atomic weapons came a bi
 the initial sites for britain 's nuclear program were also elected in 1946
 the two civilian oriented components were located at harwell on the berkshire downs 12 miles south of oxford for the aere research center and risley in lancashire for hinton 's industrial complex
 construction began there for britain 's first nuclear reactor bepo britain experimental pile zero which went critical on 3 july 1948
-14 kwilliam g. penneyat los alamos23
-kwilliam g. penney23
-kwilliam penney in 1952la-283 100 ton test permanent earth movement earth and air shocksla-215 gravity waves in water caused by explosionsla-217 use of gadget in rain or fog los alamos reports by william penney the oppenheimer of britain was physicist william g. penney who had a prominent part of the british mission at los alamos during the war
+14 kwilliam g. penneyat los alamos23 kwilliam g. penney23 kwilliam penney in 1952la-283 100 ton test permanent earth movement earth and air shocksla-215 gravity waves in water caused by explosionsla-217 use of gadget in rain or fog los alamos reports by william penney the oppenheimer of britain was physicist william g. penney who had a prominent part of the british mission at los alamos during the war
 penney 's area of specialty was studying the physics of hydrodynamic waves both shock waves and the more familiar ocean gravity waves
 penney had designed and supervised development of the mobile breakwaters used to protect the landing sites of the normandy d day invasion in 1944
 shortly before d day he had left his teaching post at imperial college in london and travelled to los alamos at the request of g. i. taylor
@@ -43,7 +41,8 @@ he turned down the prestigious sedleian chair of mathematics at oxford universit
 penney 's appointment was announced 1 january 1946
 no decision had been made by the british government at that point to develop an atomic bomb but clearly penney realized that this decision was inevitable and when it happened the responsibility would fall to him to lead the effort
 penney was soon called away from his post in london at the request of general groves to participate in the first post war nuclear test called operation crossroads
-the u.s. had turned sharply away from collaborating on nuclear technology with the uk after the end of the war and this was a golden opportunity for britain to keep this relationship alive operation crossroads was conducted at bikini atoll by 242 ships and 42,000 men and tested the effect of two atomic bombs on a captive test fleet of warships
+the u.s. had turned sharply away from collaborating on nuclear technology with the uk after the end of the war and this was a golden opportunity for britain to keep this relationship alive
+operation crossroads was conducted at bikini atoll by 242 ships and 42,000 men and tested the effect of two atomic bombs on a captive test fleet of warships
 on 1 october 1946 penney returned to london and at the request of lord portal spent the month writing a ten page report outlining a plan for developing an atomic bomb
 penney met with portal to discuss the plan on 4 november
 penney then returned to preparing a final report on the crossroads tests and travelled to washington dc in december to present his findings returning to london in february
@@ -77,15 +76,13 @@ because the windscale plant was not quite able to meet this some canadian suppli
 the expedition to test the first british atomic bomb was led by captain later rear admiral ad torlesse sailing on his flag ship the escort carrier hms campania
 the entire expedition fleet consisted of five ships the campania the sacrificial test ship plym and three landing craft and 1500 men a fraction of the size of the crossroads operation
 this force proved to be just barely adequate to carry out the planned test operation finding itself stretched to the limit in almost every capacity
-hurricanetest hurricanetime 0000 03
-october 1952 gmt);23:59:24 02 october 1952 gmt 08:00 03 october 1952 wast)location off trimouille island in the monte bello islands australia20.40 s 115.57 etest height and type ship -2.7 myield 25 kt on 3 october 1952
-hurricane was detonated in a lagoon off the western shore of trimouille island
+hurricanetest hurricanetime 0000 03 october 1952 gmt);23:59:24 02 october 1952 gmt
+08:00 03 october 1952 wast)location off trimouille island in the monte bello islands australia20.40 s 115.57 etest height and type ship -2.7 myield 25 kt on 3 october 1952 hurricane was detonated in a lagoon off the western shore of trimouille island
 the bomb was exploded inside the hull of the river class frigate hms plym which was anchored in 12 m 40 feet of water 400 yards off shore
 the explosion occurred 2.7 m below the water line
 there seems to be some discrepancy in the precise time of the test
-the time normally given is 0000z
-mignight zulu time that is gmt or 0001z
-on 3 october 1952 arnold 1987 arnold explains that the shot was almost precisely at midnight and that 0001z was used to assign it to a definite gmt date
+the time normally given is 0000z mignight zulu time that is gmt or 0001z on 3 october 1952 arnold 1987
+arnold explains that the shot was almost precisely at midnight and that 0001z was used to assign it to a definite gmt date
 according to cathcart 1994
 however the test was 36 seconds before the hour
 cathcart adds some possible confusion about what the hour was also
