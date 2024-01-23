@@ -3,25 +3,29 @@ import ast
 import re
 from settings import *
 
-def preprocess_input_text(input_lines):
-    # Concatenate the list of strings into a single string
-    input_text = ''.join(input_lines)
 
-    # Remove double quotes around each triplet string
-    input_text = re.sub(r'"({.*?})"', r'\1', input_text)
-    return input_text
+def transform_content(input_content):
+    result = []
+    for item in input_content:
+        # Use regular expression to find all dictionary-like structures in the string
+        matches = re.findall(r'\{.*?\}', item)
+        for match in matches:
+            # Safely evaluate each dictionary-like structure
+            item_dict = ast.literal_eval(match)
 
-def transform_output(input_text):
-    # Use ast.literal_eval to safely convert the string to a Python object
-    triplets = ast.literal_eval(input_text)
+            head = item_dict['head']
+            type_ = re.sub(r'ed in$', 'ed, entered, in', item_dict['type'])
+            type_ = re.sub(r' by$', ' by, entered, by', type_)
+            type_ = re.sub(r'$', ', placed, ', type_)
 
-    # Transform triplets into the desired format
-    transformed_text = '\n'.join([f"{triplet['head']}, {triplet['type']}, {triplet['tail']}" for triplet in triplets])
+            tail = item_dict['tail']
+            result.append(f"{head}, {type_}, {tail}")
 
-    return transformed_text
+    return result
 
 def save_to_file(output_text, output_file_path):
     with open(output_file_path, 'w') as output_file:
+        output_text = '\n'.join(output_text)
         output_file.write(output_text)
 
 def process_output_file(input_folder, output_folder):
@@ -30,19 +34,15 @@ def process_output_file(input_folder, output_folder):
             if file_name.endswith(".txt"):
                 file_path = os.path.join(root, file_name)
                 with open(file_path, "r") as file:
-                    input_lines = file.readlines()
-
-                    # Preprocess the input text
-                    input_text = preprocess_input_text(input_lines)
-
-                    # Transform the preprocessed text
-                    transformed_output = transform_output(input_text)
-
+                    input_lines = file.read()
+                    matches = re.findall(r'\{.*?\}', input_lines)
+                    input_data_list = [f"[{match}]" for match in matches]
+                    output_data = transform_content(input_data_list)
                     output_root = root.replace(input_folder, output_folder)
                     os.makedirs(output_root, exist_ok=True)
                     output_file_name = file_name.replace(".txt", "-transformed.txt")  # Change the extension to .txt
                     output_file_path = os.path.join(output_root, output_file_name)
-                    save_to_file(transformed_output, output_file_path)
+                    save_to_file(output_data, output_file_path)
                     print(f'Transformed output saved to: {output_file_path}')
 
 
