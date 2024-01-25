@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
-def extract_triplets(text):
+def extract_triples(text):
     triplets = []
     relation, subject, relation, object_ = '', '', '', ''
     text = text.strip()

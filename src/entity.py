@@ -3,6 +3,7 @@ Running spacy pipeline on data with DBpedia Spotlight
 """
 import os
 import requests
+from typing import Union
 from loguru import logger
 
 
@@ -19,7 +20,7 @@ class EntityExtractor:
         """ Payload for requests """
         return {'text': text, 'confidence': self.confidence}
 
-    def __call__(self, text: str, file_path: str = "[N/A]"):
+    def __call__(self, text: str, file_path: Union[str, None] = None):
         """ Extract entities for one string text """
         response = requests.post(
             self.dbpedia_spotlight_api, data=self.get_payload(text=text),
@@ -27,7 +28,8 @@ class EntityExtractor:
         if response.status_code == 200:
             return [(resource["@URI"], resource["@surfaceForm"]) \
                 for resource in response.json()["Resources"]]
-        logger.error(f"{response.status_code} - Failed to get entities for {file_path}")
+        logger.error(f"{response.status_code} - " + \
+            f"Failed to get entities for {file_path if file_path else text}")
         return []
 
     def main_folder(self, input_folder: str, output_folder: str):
