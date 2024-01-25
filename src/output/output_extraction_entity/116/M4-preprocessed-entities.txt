@@ -5,7 +5,6 @@ white lady - http://dbpedia.org/resource/White_Lady_(ghost)
 fragrance - http://dbpedia.org/resource/Perfume
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bride - http://dbpedia.org/resource/Bride
-spirit - http://dbpedia.org/resource/Ghost
 police college - http://dbpedia.org/resource/Police_academy
 chief superintendent - http://dbpedia.org/resource/Chief_superintendent
 police officer - http://dbpedia.org/resource/Police_officer
@@ -14,11 +13,10 @@ chapel - http://dbpedia.org/resource/Chapel
 drawing room - http://dbpedia.org/resource/Drawing_room
 bramshill - http://dbpedia.org/resource/Bramshill
 police college - http://dbpedia.org/resource/Police_academy
-britain - http://dbpedia.org/resource/United_Kingdom
+britain - http://dbpedia.org/resource/Roman_Britain
 nuffield - http://dbpedia.org/resource/Nuffield_Foundation
 chief superintendent - http://dbpedia.org/resource/Chief_superintendent
 officer - http://dbpedia.org/resource/Police_officer
-crack - http://dbpedia.org/resource/Crack_cocaine
 wink - http://dbpedia.org/resource/Wink
 dear friend - http://dbpedia.org/resource/Dear_Friend
 white lady - http://dbpedia.org/resource/White_Lady_(ghost)
@@ -28,33 +26,27 @@ police officer - http://dbpedia.org/resource/Police_officer
 bramshill - http://dbpedia.org/resource/Bramshill
 chapel - http://dbpedia.org/resource/Chapel
 drawing room - http://dbpedia.org/resource/Drawing_room
+smelt - http://dbpedia.org/resource/Smelting
 fragrance - http://dbpedia.org/resource/Perfume
 fragrance - http://dbpedia.org/resource/Perfume
 fragrance - http://dbpedia.org/resource/Perfume
 scent - http://dbpedia.org/resource/Odor
 experiment - http://dbpedia.org/resource/Experiment
-eye - http://dbpedia.org/resource/Eye
 flower - http://dbpedia.org/resource/Flower
-pot - http://dbpedia.org/resource/Pottery
-nose - http://dbpedia.org/resource/Human_nose
-plant - http://dbpedia.org/resource/Plant
 sofa - http://dbpedia.org/resource/Couch
-curtain - http://dbpedia.org/resource/Curtain
 carpet - http://dbpedia.org/resource/Carpet
 scent - http://dbpedia.org/resource/Odor
-nostril - http://dbpedia.org/resource/Nostril
 fragrance - http://dbpedia.org/resource/Perfume
 invisible - http://dbpedia.org/resource/Invisibility
 spirit - http://dbpedia.org/resource/Ghost
 hair - http://dbpedia.org/resource/Hair
 bristle - http://dbpedia.org/resource/Bristle
 chief superintendent - http://dbpedia.org/resource/Chief_superintendent
-volunteer - http://dbpedia.org/resource/Volunteering
 bramshill house - http://dbpedia.org/resource/Bramshill_House
-spirit - http://dbpedia.org/resource/Ghost
+haunted - http://dbpedia.org/resource/Ghost
 white lady - http://dbpedia.org/resource/White_Lady_(ghost)
 fragrance - http://dbpedia.org/resource/Perfume
-arum lily - http://dbpedia.org/resource/Zantedeschia
+arum lilies - http://dbpedia.org/resource/Zantedeschia
 lily - http://dbpedia.org/resource/Lilium
 bramshill - http://dbpedia.org/resource/Bramshill
 jacobean - http://dbpedia.org/resource/Jacobean_architecture
@@ -62,7 +54,6 @@ mansion - http://dbpedia.org/resource/Mansion
 edward lord - http://dbpedia.org/resource/Edward_Lord
 henry - http://dbpedia.org/resource/Henry_(unit)
 young henry - http://dbpedia.org/resource/Henry_the_Young_King
-die - http://dbpedia.org/resource/Death
 typhoid - http://dbpedia.org/resource/Typhoid_fever
 tragedy - http://dbpedia.org/resource/Tragedy
 mansion - http://dbpedia.org/resource/Mansion
@@ -70,10 +61,8 @@ mansion - http://dbpedia.org/resource/Mansion
 continuous - http://dbpedia.org/resource/Continuous_function
 family - http://dbpedia.org/resource/Family
 mansion - http://dbpedia.org/resource/Mansion
-britain - http://dbpedia.org/resource/United_Kingdom
+britain - http://dbpedia.org/resource/Roman_Britain
 police college - http://dbpedia.org/resource/Police_academy
-acre - http://dbpedia.org/resource/Acre
-captivate - http://dbpedia.org/resource/Adobe_Captivate
 grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
 white lady - http://dbpedia.org/resource/White_Lady_(ghost)
 spirit - http://dbpedia.org/resource/Ghost
@@ -85,14 +74,12 @@ mistletoe - http://dbpedia.org/resource/Mistletoe
 skeletal - http://dbpedia.org/resource/Skeleton
 spring - http://dbpedia.org/resource/Mineral_spring
 lock - http://dbpedia.org/resource/Lock_and_key
-snap - http://dbpedia.org/resource/Snap_fastener
 mistletoe - http://dbpedia.org/resource/Mistletoe
 bramshill - http://dbpedia.org/resource/Bramshill
 legend - http://dbpedia.org/resource/Legend
 orsini - http://dbpedia.org/resource/Orsini_family
 ghastly - http://dbpedia.org/resource/Ghastly_(DJ)
-import - http://dbpedia.org/resource/International_trade
-import - http://dbpedia.org/resource/International_trade
+wanders - http://dbpedia.org/resource/Meanings_of_minor_planet_names:_10001–11000
 mansion - http://dbpedia.org/resource/Mansion
 long gallery - http://dbpedia.org/resource/Long_gallery
 fleur de lys - http://dbpedia.org/resource/Fleur-de-lis
@@ -117,7 +104,8 @@ auburn hair - http://dbpedia.org/resource/Auburn_hair
 robe - http://dbpedia.org/resource/Robe
 dissenter - http://dbpedia.org/resource/English_Dissenters
 bramshill - http://dbpedia.org/resource/Bramshill
-behead - http://dbpedia.org/resource/Decapitation
+beheaded - http://dbpedia.org/resource/John_the_Baptist
+wanders - http://dbpedia.org/resource/Meanings_of_minor_planet_names:_10001–11000
 mansion - http://dbpedia.org/resource/Mansion
 grey lady - http://dbpedia.org/resource/Fort_St._Angelo
 grey lady - http://dbpedia.org/resource/Fort_St._Angelo
@@ -125,49 +113,46 @@ jacobean - http://dbpedia.org/resource/Jacobean_architecture
 green man - http://dbpedia.org/resource/Green_Man
 fresh water - http://dbpedia.org/resource/Fresh_water
 lake - http://dbpedia.org/resource/Lake
-bridge - http://dbpedia.org/resource/Contract_bridge
+bridge - http://dbpedia.org/resource/Bridge
 tudor - http://dbpedia.org/resource/Tudor_architecture
 gatehouse - http://dbpedia.org/resource/Gatehouse
 family - http://dbpedia.org/resource/Family
 lake - http://dbpedia.org/resource/Lake
-green head - http://dbpedia.org/resource/Green_Head,_Western_Australia
 knee - http://dbpedia.org/resource/Knee
 knee - http://dbpedia.org/resource/Knee
-ward - http://dbpedia.org/resource/Wards_of_the_City_of_London
-boot - http://dbpedia.org/resource/Boot
+wards - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
 security officer - http://dbpedia.org/resource/Security_guard
 night patrol - http://dbpedia.org/resource/Night_Patrol
 bramshill - http://dbpedia.org/resource/Bramshill
 lord brocket - http://dbpedia.org/resource/Ronald_Nall-Cain,_2nd_Baron_Brocket
-die - http://dbpedia.org/resource/Death
 tennis - http://dbpedia.org/resource/Tennis
 gear - http://dbpedia.org/resource/Landing_gear
 racket - http://dbpedia.org/resource/Rackett
 mistletoe - http://dbpedia.org/resource/Mistletoe
+haunted - http://dbpedia.org/resource/Ghost
 chapel - http://dbpedia.org/resource/Chapel
 drawing room - http://dbpedia.org/resource/Drawing_room
 queen anne - http://dbpedia.org/resource/Anne_of_Denmark
 bodice - http://dbpedia.org/resource/Bodice
 skirt - http://dbpedia.org/resource/Skirt
+haunted - http://dbpedia.org/resource/Ghost
 invisible - http://dbpedia.org/resource/Invisibility
 float - http://dbpedia.org/resource/Buoyancy
+ghosts - http://dbpedia.org/resource/Ghost
 bramshill - http://dbpedia.org/resource/Bramshill
+haunted - http://dbpedia.org/resource/Ghost
 gardener - http://dbpedia.org/resource/Gardener
 lake - http://dbpedia.org/resource/Lake
-dog - http://dbpedia.org/resource/Dog
 tunnel - http://dbpedia.org/resource/Tunnel
 overgrown - http://dbpedia.org/resource/Overgrown
-tree - http://dbpedia.org/resource/Tree
 tunnel - http://dbpedia.org/resource/Tunnel
 security officer - http://dbpedia.org/resource/Security_guard
 flannel - http://dbpedia.org/resource/Flannel
 mansion - http://dbpedia.org/resource/Mansion
-cross hall - http://dbpedia.org/resource/Cross_Hall
-plaster - http://dbpedia.org/resource/Plasterwork
 terrace - http://dbpedia.org/resource/Terrace_garden
-loggia - http://dbpedia.org/resource/Loggia
-bay window - http://dbpedia.org/resource/Bay_window
-balustrade - http://dbpedia.org/resource/Baluster
+bay windows - http://dbpedia.org/resource/Bay_window
+balustrades - http://dbpedia.org/resource/Baluster
+haunted - http://dbpedia.org/resource/Ghost
 mysterious woman - http://dbpedia.org/resource/Mysterious_Woman
 family - http://dbpedia.org/resource/Family
 butler - http://dbpedia.org/resource/Butler
@@ -175,6 +160,9 @@ balustrade - http://dbpedia.org/resource/Baluster
 bramshill - http://dbpedia.org/resource/Bramshill
 haunted house - http://dbpedia.org/resource/Haunted_house
 hampshire - http://dbpedia.org/resource/Hampshire
+ghosts - http://dbpedia.org/resource/Ghost
 gardener - http://dbpedia.org/resource/Gardener
-friendly - http://dbpedia.org/resource/Friendship
+friendly - http://dbpedia.org/resource/Exhibition
+ghosts - http://dbpedia.org/resource/Ghost
+ghosts - http://dbpedia.org/resource/Ghost
 bramshill - http://dbpedia.org/resource/Bramshill

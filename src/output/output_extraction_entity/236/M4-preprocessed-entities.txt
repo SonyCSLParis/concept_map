@@ -1,9 +1,9 @@
 latin america - http://dbpedia.org/resource/Latin_America
 brazil - http://dbpedia.org/resource/Brazil
-independence - http://dbpedia.org/resource/Independence
+declares independence - http://dbpedia.org/resource/2008_Kosovo_declaration_of_independence
 colin - http://dbpedia.org/resource/Large_intestine
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
-independence - http://dbpedia.org/resource/Independence
+declared independence - http://dbpedia.org/resource/Proclamation_of_Indonesian_Independence
 ipiranga - http://dbpedia.org/resource/Ipiranga_Brook
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
@@ -34,24 +34,20 @@ tree - http://dbpedia.org/resource/Tree
 trunk - http://dbpedia.org/resource/Elephant
 dye - http://dbpedia.org/resource/Dye
 indigenous people - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
-die - http://dbpedia.org/resource/Death
-tree - http://dbpedia.org/resource/Tree
 colony - http://dbpedia.org/resource/Colony
-switch - http://dbpedia.org/resource/Switch
-sugar - http://dbpedia.org/resource/Sugarcane
 mining - http://dbpedia.org/resource/Mining
+diamonds - http://dbpedia.org/resource/Diamond
 gold - http://dbpedia.org/resource/Gold
 minas gerais - http://dbpedia.org/resource/Minas_Gerais
 são paulo - http://dbpedia.org/resource/Campeonato_Paulista
-rely - http://dbpedia.org/resource/Rely_(brand)
 slave labor - http://dbpedia.org/resource/Slavery_in_Brazil
 portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
 brazil - http://dbpedia.org/resource/Brazil
-hierarchy - http://dbpedia.org/resource/Social_stratification
+hierarchies - http://dbpedia.org/resource/Social_stratification
 spanish america - http://dbpedia.org/resource/Hispanic_America
 colony - http://dbpedia.org/resource/Colony
-decree - http://dbpedia.org/resource/Decree
 brazil - http://dbpedia.org/resource/Brazil
+printing press - http://dbpedia.org/resource/Printing_press
 portuguese rule - http://dbpedia.org/resource/Portuguese_Empire
 brazil - http://dbpedia.org/resource/Brazil
 spanish america - http://dbpedia.org/resource/Hispanic_America
@@ -70,17 +66,15 @@ court - http://dbpedia.org/resource/Royal_court
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
 brazil - http://dbpedia.org/resource/Brazil
 portuguese empire - http://dbpedia.org/resource/Portuguese_Empire
-colony - http://dbpedia.org/resource/Colony
+colonies - http://dbpedia.org/resource/Spanish_Empire
 remarkable - http://dbpedia.org/resource/ReMarkable
 brazil - http://dbpedia.org/resource/Brazil
 printing - http://dbpedia.org/resource/Printing
-boom - http://dbpedia.org/resource/Business_cycle
 portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
 outlaw - http://dbpedia.org/resource/Outlaw
+printing - http://dbpedia.org/resource/Printing
 education - http://dbpedia.org/resource/Education
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
-merchant - http://dbpedia.org/resource/Merchant
-politician - http://dbpedia.org/resource/Politics
 thrilled - http://dbpedia.org/resource/Thrilled_(Punchline_album)
 monarch - http://dbpedia.org/resource/Monarchy_of_Spain
 colony - http://dbpedia.org/resource/Colony
@@ -103,14 +97,14 @@ portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 portuguese - http://dbpedia.org/resource/Portuguese_language
 colony - http://dbpedia.org/resource/Colony
 pressure - http://dbpedia.org/resource/Pressure
-mount brazil - http://dbpedia.org/resource/Mount_Brazil
+brazil - http://dbpedia.org/resource/Brazil
 wave - http://dbpedia.org/resource/Wave
-independence movement - http://dbpedia.org/resource/Separatism
+independence - http://dbpedia.org/resource/Independence
 spanish america - http://dbpedia.org/resource/Hispanic_America
 brazil - http://dbpedia.org/resource/Brazil
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-independence - http://dbpedia.org/resource/Independence
+proclaiming independence - http://dbpedia.org/resource/Proclamation_of_Indonesian_Independence
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 diarrhea - http://dbpedia.org/resource/Diarrhea
 scatological - http://dbpedia.org/resource/Scatology
@@ -123,7 +117,6 @@ brazil - http://dbpedia.org/resource/Brazil
 latin american - http://dbpedia.org/resource/Latin_America
 independence - http://dbpedia.org/resource/Independence
 warfare - http://dbpedia.org/resource/War
-uprising - http://dbpedia.org/resource/Rebellion
 monarchy - http://dbpedia.org/resource/Empire_of_Brazil
 latin america - http://dbpedia.org/resource/Latin_America
 independence - http://dbpedia.org/resource/Independence

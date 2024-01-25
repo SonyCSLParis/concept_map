@@ -7,7 +7,7 @@ knotwork - http://dbpedia.org/resource/Celtic_knot
 violet brown - http://dbpedia.org/resource/Violet_Brown
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 runic - http://dbpedia.org/resource/Runes
-font - http://dbpedia.org/resource/Typeface
+font - http://dbpedia.org/resource/Baptismal_font
 celtic - http://dbpedia.org/resource/Celts
 irish art - http://dbpedia.org/resource/Irish_art
 kells - http://dbpedia.org/resource/Abbey_of_Kells
@@ -19,7 +19,6 @@ currency - http://dbpedia.org/resource/Currency
 paper - http://dbpedia.org/resource/Paper
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-theory - http://dbpedia.org/resource/Theory
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 ireland - http://dbpedia.org/resource/Ireland
@@ -31,41 +30,36 @@ theory - http://dbpedia.org/resource/Theory
 iona - http://dbpedia.org/resource/Iona
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 calligraphy - http://dbpedia.org/resource/Calligraphy
-illumination - http://dbpedia.org/resource/Illuminated_manuscript
+illuminations - http://dbpedia.org/resource/Illuminated_manuscript
 ireland - http://dbpedia.org/resource/Ireland
-monk - http://dbpedia.org/resource/Monk
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 columban - http://dbpedia.org/resource/Columba
-monk - http://dbpedia.org/resource/Monk
 iona - http://dbpedia.org/resource/Iona
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-time book - http://dbpedia.org/resource/Time_book
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 bible - http://dbpedia.org/resource/Bible
-folio - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 vellum - http://dbpedia.org/resource/Vellum
 vellum - http://dbpedia.org/resource/Vellum
 skin - http://dbpedia.org/resource/Skin
-calf - http://dbpedia.org/resource/Calfskin
+calves - http://dbpedia.org/resource/Calf
 sheep - http://dbpedia.org/resource/Sheep
 goat - http://dbpedia.org/resource/Goat
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 calfskin - http://dbpedia.org/resource/Calfskin
-folio - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-skin - http://dbpedia.org/resource/Skin
-calf - http://dbpedia.org/resource/Calfskin
-ink - http://dbpedia.org/resource/Ink
+skins - http://dbpedia.org/resource/Skin
+calves - http://dbpedia.org/resource/Calf
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-pigment - http://dbpedia.org/resource/Pigment
+pigments - http://dbpedia.org/resource/Pigment
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 purple blue - http://dbpedia.org/resource/Purple_Blue
-pigment - http://dbpedia.org/resource/Pigment
-yellow book - http://dbpedia.org/resource/Yellow_pages
+pigments - http://dbpedia.org/resource/Pigment
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 orpiment - http://dbpedia.org/resource/Orpiment
 yellow ochre - http://dbpedia.org/resource/Ochre
@@ -94,26 +88,25 @@ purple - http://dbpedia.org/resource/Purple
 purple - http://dbpedia.org/resource/Purple
 ink - http://dbpedia.org/resource/Ink
 mauve - http://dbpedia.org/resource/Mauve
-dye - http://dbpedia.org/resource/Dye
+purple - http://dbpedia.org/resource/Purple
+dyes - http://dbpedia.org/resource/Dye
 purple - http://dbpedia.org/resource/Purple
 shellfish - http://dbpedia.org/resource/Shellfish
 dye - http://dbpedia.org/resource/Dye
-elderberry - http://dbpedia.org/resource/Sambucus
-blueberry - http://dbpedia.org/resource/Blueberry
+elderberries - http://dbpedia.org/resource/Sambucus
+blueberries - http://dbpedia.org/resource/Blueberry
 brazil wood - http://dbpedia.org/resource/Paubrasilia
-lichen - http://dbpedia.org/resource/Lichen
+lichens - http://dbpedia.org/resource/Lichen
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 light - http://dbpedia.org/resource/Light
 azure - http://dbpedia.org/resource/Azure_(heraldry)
 greenish blue - http://dbpedia.org/resource/Icaricia_saepiolus
 plant - http://dbpedia.org/resource/Plant
-ratio - http://dbpedia.org/resource/Ratio
 lapis lazuli - http://dbpedia.org/resource/Lapis_lazuli
 persia - http://dbpedia.org/resource/Achaemenid_Empire
-chalk - http://dbpedia.org/resource/Calcium_carbonate
 iron - http://dbpedia.org/resource/Iron_oxide
 gall ink - http://dbpedia.org/resource/Iron_gall_ink
-oak gall - http://dbpedia.org/resource/Oak_apple
+oak galls - http://dbpedia.org/resource/Gall
 sulfite - http://dbpedia.org/resource/Sulfite
 iron - http://dbpedia.org/resource/Iron_oxide
 gum - http://dbpedia.org/resource/Gum_arabic
@@ -123,7 +116,6 @@ kells - http://dbpedia.org/resource/Abbey_of_Kells
 lamp black - http://dbpedia.org/resource/Carbon_black
 soot - http://dbpedia.org/resource/Soot
 soot - http://dbpedia.org/resource/Soot
-bone - http://dbpedia.org/resource/Bone
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 iona - http://dbpedia.org/resource/Iona
 small island - http://dbpedia.org/resource/Small_Island_(novel)
@@ -133,7 +125,7 @@ town - http://dbpedia.org/resource/Market_town
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 ireland - http://dbpedia.org/resource/Ireland
 trinity college library - http://dbpedia.org/resource/Library_of_Trinity_College_Dublin
-dye - http://dbpedia.org/resource/Dye
+dyes - http://dbpedia.org/resource/Dye
 illumination - http://dbpedia.org/resource/Illuminated_manuscript
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 celtic art - http://dbpedia.org/resource/Celtic_art
@@ -150,7 +142,6 @@ illumination - http://dbpedia.org/resource/Illuminated_manuscript
 brian kennedy - http://dbpedia.org/resource/Brian_K._Kennedy
 seattle university - http://dbpedia.org/resource/Seattle_University
 washington - http://dbpedia.org/resource/University_of_Washington
-ruth vincent - http://dbpedia.org/resource/Ruth_Vincent
 celtic art - http://dbpedia.org/resource/Celtic_art
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 york - http://dbpedia.org/resource/York

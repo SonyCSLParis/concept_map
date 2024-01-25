@@ -12,11 +12,12 @@ outline - http://dbpedia.org/resource/Nutrition
 roman fort - http://dbpedia.org/resource/Castra
 ideal - http://dbpedia.org/resource/Theory_of_forms
 picnic - http://dbpedia.org/resource/Picnic
-set family - http://dbpedia.org/resource/Hypergraph
+family day - http://dbpedia.org/resource/Family_Day
 roman fort - http://dbpedia.org/resource/Castra
-river eamont - http://dbpedia.org/resource/River_Eamont
+eamont - http://dbpedia.org/resource/River_Eamont
 lowther - http://dbpedia.org/resource/River_Lowther
-stone enclosure - http://dbpedia.org/resource/Nordic_megalith_architecture
+stone - http://dbpedia.org/resource/Stonemasonry
+enclosure - http://dbpedia.org/resource/Enclosure
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 family - http://dbpedia.org/resource/Family
 robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
@@ -28,20 +29,17 @@ brough castle - http://dbpedia.org/resource/Brough_Castle
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
 robert clifford - http://dbpedia.org/resource/Bob_Clifford
-lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
 anglo - http://dbpedia.org/resource/Anglo
-scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
 robert clifford - http://dbpedia.org/resource/Bob_Clifford
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
-defence - http://dbpedia.org/resource/Military
-defence - http://dbpedia.org/resource/Military
 stone - http://dbpedia.org/resource/Stonemasonry
 stone - http://dbpedia.org/resource/Stonemasonry
 gate - http://dbpedia.org/resource/City_gate
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
 clifford family - http://dbpedia.org/resource/Baron_de_Clifford
 region - http://dbpedia.org/resource/Region
-sack - http://dbpedia.org/resource/Looting
 clifford family - http://dbpedia.org/resource/Baron_de_Clifford
 skipton castle - http://dbpedia.org/resource/Skipton_Castle
 yorkshire - http://dbpedia.org/resource/Yorkshire
@@ -62,7 +60,6 @@ thanet - http://dbpedia.org/resource/Isle_of_Thanet
 shell - http://dbpedia.org/resource/Seashell
 decay - http://dbpedia.org/resource/Urban_decay
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
 painting - http://dbpedia.org/resource/Painting
 turner - http://dbpedia.org/resource/Woodturning
 william wordsworth - http://dbpedia.org/resource/William_Wordsworth
@@ -71,7 +68,6 @@ prelude - http://dbpedia.org/resource/Prologue
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
 english heritage - http://dbpedia.org/resource/English_Heritage
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-tombstone - http://dbpedia.org/resource/Headstone
 roman fort - http://dbpedia.org/resource/Castra
 guide book - http://dbpedia.org/resource/Guide_book
 brougham castle - http://dbpedia.org/resource/Brougham_Castle

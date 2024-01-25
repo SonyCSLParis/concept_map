@@ -2,40 +2,35 @@ anglo american - http://dbpedia.org/resource/Anglo-America
 colonization - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
 alcalde - http://dbpedia.org/resource/Alcalde
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
-austin - http://dbpedia.org/resource/Austin_Motor_Company
+austin - http://dbpedia.org/resource/Austin_College
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
-resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
-resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 militia - http://dbpedia.org/resource/Militia
-committee - http://dbpedia.org/resource/Committee
 safety - http://dbpedia.org/resource/Safety
 texas - http://dbpedia.org/resource/Texas
-resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
-resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 edward burleson - http://dbpedia.org/resource/Edward_Burleson
 lieutenant colonel - http://dbpedia.org/resource/Lieutenant_colonel
 militia - http://dbpedia.org/resource/Militia
 alcalde - http://dbpedia.org/resource/Alcalde
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
-austin - http://dbpedia.org/resource/Austin_Motor_Company
+austin - http://dbpedia.org/resource/Austin_College
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 texas memorial museum - http://dbpedia.org/resource/Texas_Memorial_Museum
 memorial - http://dbpedia.org/resource/Memorial
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-petition - http://dbpedia.org/resource/Petition
 coahuila - http://dbpedia.org/resource/Coahuila
 texas - http://dbpedia.org/resource/Texas
-prepare - http://dbpedia.org/resource/PREPARE
 constitution - http://dbpedia.org/resource/Constitution
 texas - http://dbpedia.org/resource/Texas
 committee - http://dbpedia.org/resource/Committee
 memorial - http://dbpedia.org/resource/Memorial
 mexican government - http://dbpedia.org/resource/First_Mexican_Republic
-outline - http://dbpedia.org/resource/Nutrition
-virtue - http://dbpedia.org/resource/Virtue
 constitution - http://dbpedia.org/resource/Constitution
-austin - http://dbpedia.org/resource/Austin_Motor_Company
+austin - http://dbpedia.org/resource/Austin_College
 mexico city - http://dbpedia.org/resource/Mexico_City
 memorial - http://dbpedia.org/resource/Memorial
 mexican government - http://dbpedia.org/resource/First_Mexican_Republic

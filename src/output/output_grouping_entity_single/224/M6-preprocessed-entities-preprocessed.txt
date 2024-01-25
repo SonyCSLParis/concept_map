@@ -1,21 +1,20 @@
-coloma - http://dbpedia.org/resource/Coloma_High_School
-land grant - http://dbpedia.org/resource/Ranchos_of_California
-farming - http://dbpedia.org/resource/Agriculture
-james marshall - http://dbpedia.org/resource/James_W._Marshall
 sacramento - http://dbpedia.org/resource/Sacramento_River
-acre - http://dbpedia.org/resource/Acre
-prospector - http://dbpedia.org/resource/Prospecting
-james polk - http://dbpedia.org/resource/James_K._Polk
-fort - http://dbpedia.org/resource/Fortification
-john sutter - http://dbpedia.org/resource/John_Sutter
-california - http://dbpedia.org/resource/California_Trail
-news - http://dbpedia.org/resource/News
-sawmill - http://dbpedia.org/resource/Sawmill
 president - http://dbpedia.org/resource/President_of_the_United_States
-metal - http://dbpedia.org/resource/Metal
-gold - http://dbpedia.org/resource/Gold
-immigrant - http://dbpedia.org/resource/Immigration
-sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+james marshall - http://dbpedia.org/resource/James_W._Marshall
+immigrants - http://dbpedia.org/resource/Immigration
+station - http://dbpedia.org/resource/Train_station
+farming - http://dbpedia.org/resource/Agriculture
+coloma - http://dbpedia.org/resource/Coloma_High_School
+prospectors - http://dbpedia.org/resource/Prospecting
+land grant - http://dbpedia.org/resource/Land_grant
+fort - http://dbpedia.org/resource/Fortification
+news - http://dbpedia.org/resource/News
 emigrant - http://dbpedia.org/resource/Emigration
+james polk - http://dbpedia.org/resource/James_K._Polk
 sutter - http://dbpedia.org/resource/John_Sutter
-station - http://dbpedia.org/resource/Radio_broadcasting
+gold - http://dbpedia.org/resource/Gold
+sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+california - http://dbpedia.org/resource/California_Trail
+metal - http://dbpedia.org/resource/Metal
+sawmill - http://dbpedia.org/resource/Sawmill
+john sutter - http://dbpedia.org/resource/John_Sutter

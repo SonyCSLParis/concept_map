@@ -1,55 +1,52 @@
-brazoria - http://dbpedia.org/resource/Brazoria_National_Wildlife_Refuge
-heritage auctions - http://dbpedia.org/resource/Heritage_Auctions
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-palomino - http://dbpedia.org/resource/Palomino
-dallas - http://dbpedia.org/resource/Dallas
-san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
-texas - http://dbpedia.org/resource/Texas
-counties - http://dbpedia.org/resource/County
-mantle - http://dbpedia.org/resource/Mantle_(geology)
-petition - http://dbpedia.org/resource/Petition
-amazing - http://dbpedia.org/resource/Amazing_Stories
-indian tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
-broadside - http://dbpedia.org/resource/Broadside_ballad
-colony - http://dbpedia.org/resource/Colony_of_Virginia
-charles - http://dbpedia.org/resource/Charles_I_of_England
 william barret travis - http://dbpedia.org/resource/William_B._Travis
-sandra - http://dbpedia.org/resource/List_of_Heroes_characters
-austin - http://dbpedia.org/resource/Austin_College
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+colony - http://dbpedia.org/resource/Colony_of_Virginia
+heritage auctions - http://dbpedia.org/resource/Heritage_Auctions
 police - http://dbpedia.org/resource/Police
-immigration - http://dbpedia.org/resource/Immigration
-auction - http://dbpedia.org/resource/Auction
-mexican government - http://dbpedia.org/resource/First_Mexican_Republic
-james buchanan - http://dbpedia.org/resource/James_Buchanan
-lift - http://dbpedia.org/resource/Elevator
-vie - http://dbpedia.org/resource/Vie_(river)
-benjamin - http://dbpedia.org/resource/Styrax_benzoin
-integral - http://dbpedia.org/resource/Integral
-map - http://dbpedia.org/resource/Map
-paul - http://dbpedia.org/resource/Paul_McCartney
+jim - http://dbpedia.org/resource/Jim_Halpert
+davy crockett - http://dbpedia.org/resource/Davy_Crockett
+mantle - http://dbpedia.org/resource/Mantle_(geology)
+austin - http://dbpedia.org/resource/Austin_College
+revere - http://dbpedia.org/resource/Paul_Revere
 president - http://dbpedia.org/resource/President_of_the_United_States
-death battle - http://dbpedia.org/resource/Rooster_Teeth
-independence - http://dbpedia.org/resource/Mexican_War_of_Independence
-houston - http://dbpedia.org/resource/Houston
-pen - http://dbpedia.org/resource/Pen
-surety bond - http://dbpedia.org/resource/Surety
+unsettled - http://dbpedia.org/resource/Unsettled
+frontier - http://dbpedia.org/resource/American_frontier
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
 promissory note - http://dbpedia.org/resource/Promissory_note
 independent - http://dbpedia.org/resource/Independence
-revere - http://dbpedia.org/resource/Paul_Revere
-davy crockett - http://dbpedia.org/resource/Davy_Crockett
-mexican war - http://dbpedia.org/resource/Mexican–American_War
-heritage - http://dbpedia.org/resource/Cultural_heritage
-lone star - http://dbpedia.org/resource/Lone_Star_Conference
-statehood - http://dbpedia.org/resource/U.S._state
-unsettled - http://dbpedia.org/resource/Unsettled
+texas - http://dbpedia.org/resource/Texas
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+map - http://dbpedia.org/resource/Map
 crockett - http://dbpedia.org/resource/Davy_Crockett
-pine - http://dbpedia.org/resource/Pine
-mathew caldwell - http://dbpedia.org/resource/Mathew_Caldwell
-stagecoach - http://dbpedia.org/resource/Stagecoach
-frontier - http://dbpedia.org/resource/Frontier
 david - http://dbpedia.org/resource/David
-matagorda - http://dbpedia.org/resource/Matagorda_Bay
+counties - http://dbpedia.org/resource/County
+immigration - http://dbpedia.org/resource/Immigration
+stagecoach - http://dbpedia.org/resource/Stagecoach
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+houston - http://dbpedia.org/resource/Houston
 land grant - http://dbpedia.org/resource/Land_grant
-texas revolution - http://dbpedia.org/resource/Texas_Revolution
+pine - http://dbpedia.org/resource/Pine
+sandra - http://dbpedia.org/resource/List_of_Heroes_characters
+mathew caldwell - http://dbpedia.org/resource/Mathew_Caldwell
+benjamin - http://dbpedia.org/resource/Styrax_benzoin
+lone star - http://dbpedia.org/resource/Lone_Star_Conference
+broadside - http://dbpedia.org/resource/Broadside_ballad
+surety bond - http://dbpedia.org/resource/Surety
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+charles - http://dbpedia.org/resource/Charles_I_of_England
+auction - http://dbpedia.org/resource/Auction
+heritage - http://dbpedia.org/resource/Cultural_heritage
+matagorda - http://dbpedia.org/resource/Matagorda_Bay
+paul - http://dbpedia.org/resource/Paul_McCartney
+integral - http://dbpedia.org/resource/Integral
+statehood - http://dbpedia.org/resource/U.S._state
+brazoria - http://dbpedia.org/resource/Brazoria_National_Wildlife_Refuge
+lift - http://dbpedia.org/resource/Elevator
+mexican war - http://dbpedia.org/resource/Mexican–American_War
 coahuila - http://dbpedia.org/resource/Coahuila
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+james buchanan - http://dbpedia.org/resource/James_Buchanan
+palomino - http://dbpedia.org/resource/Palomino
+amazing - http://dbpedia.org/resource/Amazing_Stories
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+indian tribes - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+dallas - http://dbpedia.org/resource/Dallas

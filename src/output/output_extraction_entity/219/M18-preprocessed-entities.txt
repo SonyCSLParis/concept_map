@@ -4,9 +4,8 @@ alternative title - http://dbpedia.org/resource/Alternative_title
 laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
-refugee - http://dbpedia.org/resource/Refugee
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
+refugees - http://dbpedia.org/resource/Refugee
 fascist - http://dbpedia.org/resource/Fascism
 fission - http://dbpedia.org/resource/Nuclear_fission
 pegram - http://dbpedia.org/resource/Erric_Pegram
@@ -15,7 +14,6 @@ enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
 navy department - http://dbpedia.org/resource/United_States_Navy
 summer - http://dbpedia.org/resource/Summer
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
-scientist - http://dbpedia.org/resource/Scientist
 fission - http://dbpedia.org/resource/Nuclear_fission
 chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
 pres - http://dbpedia.org/resource/Pôle_de_recherche_et_d'enseignement_supérieur
@@ -25,11 +23,9 @@ committee - http://dbpedia.org/resource/Committee
 technology - http://dbpedia.org/resource/Nuclear_technology
 vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
 array - http://dbpedia.org/resource/Astronomical_interferometer
-pilot plant - http://dbpedia.org/resource/Pilot_plant
-laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+pilot - http://dbpedia.org/resource/Aircraft_pilot
 manufacturing - http://dbpedia.org/resource/Manufacturing
 u.s. army - http://dbpedia.org/resource/United_States_Army_Air_Forces
-scientist - http://dbpedia.org/resource/Scientist
 manhattan district - http://dbpedia.org/resource/Manhattan_Project
 columbia university - http://dbpedia.org/resource/Columbia_University
 manhattan - http://dbpedia.org/resource/Manhattan
@@ -38,22 +34,18 @@ gen. - http://dbpedia.org/resource/Divisional_general
 leslie - http://dbpedia.org/resource/Leslie_speaker
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 code - http://dbpedia.org/resource/Punched_card
-scientist - http://dbpedia.org/resource/Scientist
 urey - http://dbpedia.org/resource/Harold_Urey
 pegram - http://dbpedia.org/resource/Erric_Pegram
-visit england - http://dbpedia.org/resource/VisitEngland
-policy committee - http://dbpedia.org/resource/Committee
+combined policy committee - http://dbpedia.org/resource/Quebec_Agreement
 great britain - http://dbpedia.org/resource/United_Kingdom
-scientist - http://dbpedia.org/resource/Scientist
-explosive material - http://dbpedia.org/resource/Explosive
+explosive materials - http://dbpedia.org/resource/Explosive
 weapon - http://dbpedia.org/resource/Nuclear_weapon
 uranium-235 - http://dbpedia.org/resource/Uranium-235
-fissionable - http://dbpedia.org/resource/Nuclear_fission
-postulate - http://dbpedia.org/resource/Axiom
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 uranium-238 - http://dbpedia.org/resource/Uranium
 chemical - http://dbpedia.org/resource/Chemistry
-isotope - http://dbpedia.org/resource/Isotopes_of_uranium
+atoms - http://dbpedia.org/resource/Atom
+isotopes - http://dbpedia.org/resource/Fissile_material
 electromagnetic - http://dbpedia.org/resource/Calutron
 california - http://dbpedia.org/resource/California
 berkeley - http://dbpedia.org/resource/George_Berkeley
@@ -65,7 +57,6 @@ columbia university - http://dbpedia.org/resource/Columbia_University
 diffusion - http://dbpedia.org/resource/Diffusion
 electric power - http://dbpedia.org/resource/Electricity
 uranium-235 - http://dbpedia.org/resource/Uranium-235
-method call - http://dbpedia.org/resource/Method_(computer_programming)
 thermal diffusion - http://dbpedia.org/resource/Enriched_uranium
 knoxville - http://dbpedia.org/resource/Knoxville_campaign
 tennessee - http://dbpedia.org/resource/Tennessee
@@ -78,7 +69,6 @@ chicago - http://dbpedia.org/resource/University_of_Chicago
 arthur - http://dbpedia.org/resource/Chester_A._Arthur
 holly - http://dbpedia.org/resource/Holly
 compton - http://dbpedia.org/resource/Denis_Compton
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 transmutation - http://dbpedia.org/resource/Nuclear_transmutation
 reactor - http://dbpedia.org/resource/Nuclear_reactor
 uranium-238 - http://dbpedia.org/resource/Uranium
@@ -89,22 +79,19 @@ reactor - http://dbpedia.org/resource/Nuclear_reactor
 chicago - http://dbpedia.org/resource/University_of_Chicago
 plutonium-239 - http://dbpedia.org/resource/Plutonium
 reactor - http://dbpedia.org/resource/Nuclear_reactor
-kilowatt hour - http://dbpedia.org/resource/Kilowatt_hour
+kilowatt hours - http://dbpedia.org/resource/Kilowatt_hour
 heat - http://dbpedia.org/resource/Heat
 gram - http://dbpedia.org/resource/Gram
 plutonium - http://dbpedia.org/resource/Plutonium
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 chemical - http://dbpedia.org/resource/Chemistry
 reactor - http://dbpedia.org/resource/Nuclear_reactor
 ridge - http://dbpedia.org/resource/Ridge
-production reactor - http://dbpedia.org/resource/Nuclear_reactor
+production reactors - http://dbpedia.org/resource/Nuclear_reactor
 columbia river - http://dbpedia.org/resource/Columbia_River
 pasco - http://dbpedia.org/resource/Cerro_de_Pasco
 washington - http://dbpedia.org/resource/University_of_Washington
 hanford engineer works - http://dbpedia.org/resource/Hanford_Site
-work design - http://dbpedia.org/resource/Job_design
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-experiment - http://dbpedia.org/resource/Experiment
 laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
 mesa - http://dbpedia.org/resource/Mesa
@@ -112,8 +99,6 @@ los alamos - http://dbpedia.org/resource/Manhattan_Project
 mexico - http://dbpedia.org/resource/Mexico
 santa fe - http://dbpedia.org/resource/Santa_Fe_Trail
 laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
-fissionable - http://dbpedia.org/resource/Nuclear_fission
-plant - http://dbpedia.org/resource/Chemical_plant
 metal - http://dbpedia.org/resource/Metal
 metal - http://dbpedia.org/resource/Metal
 fissionable material - http://dbpedia.org/resource/Nuclear_fission
@@ -122,7 +107,6 @@ nuclear explosion - http://dbpedia.org/resource/Nuclear_explosion
 deliverable - http://dbpedia.org/resource/Deliverable
 weapon - http://dbpedia.org/resource/Nuclear_weapon
 plane - http://dbpedia.org/resource/Airplane
-fuse - http://dbpedia.org/resource/Nuclear_fusion
 detonate - http://dbpedia.org/resource/Detonation
 fissionable material - http://dbpedia.org/resource/Nuclear_fission
 summer - http://dbpedia.org/resource/Summer
@@ -138,31 +122,24 @@ atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
 albuquerque - http://dbpedia.org/resource/Kirtland_Air_Force_Base
 mexico - http://dbpedia.org/resource/Mexico
-detonate - http://dbpedia.org/resource/Detonation
 steel - http://dbpedia.org/resource/Steel
 tower - http://dbpedia.org/resource/Air_traffic_control
 remote monitoring - http://dbpedia.org/resource/RMON
-bunker - http://dbpedia.org/resource/Bunker
-scientist - http://dbpedia.org/resource/Scientist
 explosion - http://dbpedia.org/resource/Nuclear_explosion
 light - http://dbpedia.org/resource/Electromagnetic_radiation
 wave - http://dbpedia.org/resource/Electromagnetic_radiation
 heat - http://dbpedia.org/resource/Heat
 shock wave - http://dbpedia.org/resource/Shock_wave
-echo valley - http://dbpedia.org/resource/Echo_Valley_Provincial_Park
 ball - http://dbpedia.org/resource/Ball
 mushroom cloud - http://dbpedia.org/resource/Mushroom_cloud
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 explosive - http://dbpedia.org/resource/Explosive
-ton - http://dbpedia.org/resource/Tonne
 trinitrotoluene - http://dbpedia.org/resource/TNT
 tnt - http://dbpedia.org/resource/TNT
 tower - http://dbpedia.org/resource/Air_traffic_control
-vaporize - http://dbpedia.org/resource/Evaporation
-fuse - http://dbpedia.org/resource/Nuclear_fusion
 glass - http://dbpedia.org/resource/Glass
 radius - http://dbpedia.org/resource/Radius
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 uranium-235 - http://dbpedia.org/resource/Uranium-235
 plutonium - http://dbpedia.org/resource/Plutonium
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki

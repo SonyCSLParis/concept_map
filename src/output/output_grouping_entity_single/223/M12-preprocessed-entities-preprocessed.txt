@@ -1,247 +1,224 @@
-islam - http://dbpedia.org/resource/Islam
-middle ages - http://dbpedia.org/resource/Middle_Ages
-religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
-constantinopolis - http://dbpedia.org/resource/Constantinople
-engineer - http://dbpedia.org/resource/Military_engineering
-eastern christians - http://dbpedia.org/resource/Eastern_Christianity
-eastern empire - http://dbpedia.org/resource/Byzantine_Empire
-education - http://dbpedia.org/resource/Education
-byzantine - http://dbpedia.org/resource/Byzantine_Empire
-christianity - http://dbpedia.org/resource/Christianity
-alien - http://dbpedia.org/resource/Extraterrestrial_life
-huns - http://dbpedia.org/resource/Huns
-central asia - http://dbpedia.org/resource/Central_Asia
-bosphorus straits - http://dbpedia.org/resource/Bosporus
-byzantines - http://dbpedia.org/resource/Byzantium
-die - http://dbpedia.org/resource/Death
-administrative centre - http://dbpedia.org/resource/Capital_city
-heraclius - http://dbpedia.org/resource/Heraclius
-franks - http://dbpedia.org/resource/Franks
-serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
-megara - http://dbpedia.org/resource/Megara
-army retreat - http://dbpedia.org/resource/Great_Retreat_(Serbian)
-crusades - http://dbpedia.org/resource/Crusades
-alexandria - http://dbpedia.org/resource/Alexandria
-wage - http://dbpedia.org/resource/Wage
-exile - http://dbpedia.org/resource/Exile
-historian - http://dbpedia.org/resource/Roman_historiography
-reunification - http://dbpedia.org/resource/Sui_dynasty
-thrace - http://dbpedia.org/resource/Thrace
-rome - http://dbpedia.org/resource/Roman_Empire
-ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
-constantinople - http://dbpedia.org/resource/Constantinople
-nicomedia - http://dbpedia.org/resource/Nicomedia
-balkans - http://dbpedia.org/resource/Balkans
-harbour - http://dbpedia.org/resource/Harbor
-theology - http://dbpedia.org/resource/Christian_theology
-arcadius - http://dbpedia.org/resource/Arcadius
-emperor - http://dbpedia.org/resource/Byzantine_Empire
-istanbul - http://dbpedia.org/resource/Istanbul
-constantine xi - http://dbpedia.org/resource/Constantine_XI_Palaiologos
-fishing - http://dbpedia.org/resource/Fishing
-rift - http://dbpedia.org/resource/The_Riftwar_Cycle
-open hostility - http://dbpedia.org/resource/Open_Hostility
-asia minor - http://dbpedia.org/resource/Anatolia
-holy land - http://dbpedia.org/resource/Holy_Land
-assault - http://dbpedia.org/resource/Battle_of_France
-seljuk turks - http://dbpedia.org/resource/Seljuq_dynasty
-421–422 - http://dbpedia.org/resource/Roman–Sasanian_War_of_421–422
-mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
-murad ii - http://dbpedia.org/resource/Murad_II
-mystery - http://dbpedia.org/resource/Greco-Roman_mysteries
-mount athos - http://dbpedia.org/resource/Mount_Athos
-murad - http://dbpedia.org/resource/Murad_II
-coast - http://dbpedia.org/resource/Coast
-siege - http://dbpedia.org/resource/Siege
-inheritance - http://dbpedia.org/resource/Inheritance
-athens - http://dbpedia.org/resource/Classical_Athens
-original greek - http://dbpedia.org/resource/Koine_Greek
-law - http://dbpedia.org/resource/Roman_law
-hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
-church - http://dbpedia.org/resource/Christian_Church
-fragmentation - http://dbpedia.org/resource/Grenade
-regeneration - http://dbpedia.org/resource/Urban_renewal
-latin regime - http://dbpedia.org/resource/Latin_Empire
-bithynia - http://dbpedia.org/resource/Bithynia
-caesars - http://dbpedia.org/resource/Caesar_(title)
-codex theodosianus - http://dbpedia.org/resource/Codex_Theodosianus
-oracle - http://dbpedia.org/resource/Delphi
-romans - http://dbpedia.org/resource/Romans_(musician)
-nova roma - http://dbpedia.org/resource/New_Rome
-vassal - http://dbpedia.org/resource/Vassal
-standardisation - http://dbpedia.org/resource/Standard_language
-decay - http://dbpedia.org/resource/Urban_decay
-justinian - http://dbpedia.org/resource/Justinian_I
-byzantine emperors - http://dbpedia.org/resource/Byzantine_Empire
-golden age - http://dbpedia.org/resource/Golden_Age
-islamic force - http://dbpedia.org/resource/Islamic_Force
-sassanids - http://dbpedia.org/resource/Sasanian_Empire
-iconoclasm - http://dbpedia.org/resource/Byzantine_Iconoclasm
-icon - http://dbpedia.org/resource/Icon
-pressure - http://dbpedia.org/resource/Pressure
-theodosius ii - http://dbpedia.org/resource/Theodosius_II
-peace - http://dbpedia.org/resource/Peace
-assassination - http://dbpedia.org/resource/Assassination
-shaky ground - http://dbpedia.org/resource/Shaky_Ground
-theological - http://dbpedia.org/resource/Christian_theology
-muslim - http://dbpedia.org/resource/Islam
-fortification - http://dbpedia.org/resource/Castle
-historiography - http://dbpedia.org/resource/Roman_historiography
-refugee - http://dbpedia.org/resource/Refugee
-sail - http://dbpedia.org/resource/Sailing
-settlement - http://dbpedia.org/resource/Town
-aegean sea - http://dbpedia.org/resource/Aegean_Sea
-holy war - http://dbpedia.org/resource/Religious_war
-slavs - http://dbpedia.org/resource/Slavs
-sassanid empire - http://dbpedia.org/resource/Sasanian_Empire
-spiritual - http://dbpedia.org/resource/Soul
-oath - http://dbpedia.org/resource/Oath
-byzantium - http://dbpedia.org/resource/Byzantium
-maurice - http://dbpedia.org/resource/Saint_Maurice
-latin culture - http://dbpedia.org/resource/Italic_peoples
-manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
-turkish threat - http://dbpedia.org/resource/Ottoman_Empire
-political institution - http://dbpedia.org/resource/Political_system
-independent - http://dbpedia.org/resource/Independence
-theodosius - http://dbpedia.org/resource/Theodosius_I
-orphanage - http://dbpedia.org/resource/Orphanage
-byzantine greek - http://dbpedia.org/resource/Byzantine_Empire
-diocletian - http://dbpedia.org/resource/Diocletian
-sparta - http://dbpedia.org/resource/Sparta
-montesquieu - http://dbpedia.org/resource/Montesquieu
-aegean - http://dbpedia.org/resource/Aegean_Sea
-church council - http://dbpedia.org/resource/Ecumenical_council
-licinius - http://dbpedia.org/resource/Licinius
-patriarch - http://dbpedia.org/resource/Ecumenical_Patriarch_of_Constantinople
-michael viii - http://dbpedia.org/resource/Michael_VIII_Palaiologos
-constantine - http://dbpedia.org/resource/Constantine_the_Great
-north africa - http://dbpedia.org/resource/Muslim_conquest_of_the_Maghreb
-volatile - http://dbpedia.org/resource/Volatile_organic_compound
-islamic empire - http://dbpedia.org/resource/Caliphate
-slavic people - http://dbpedia.org/resource/Slavs
-crusade - http://dbpedia.org/resource/Crusades
-patriarchate - http://dbpedia.org/resource/Patriarch_of_Antioch
-animosity - http://dbpedia.org/resource/Animosity_(band)
-leo iii - http://dbpedia.org/resource/Leo_III_the_Isaurian
-greece - http://dbpedia.org/resource/Ancient_Greece
-looting - http://dbpedia.org/resource/Looting
-macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
-ancient rome - http://dbpedia.org/resource/Ancient_Rome
-mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
-battle day - http://dbpedia.org/resource/Battle_of_the_Falkland_Islands
-monk - http://dbpedia.org/resource/Monk
-ottoman turks - http://dbpedia.org/resource/Ottoman_Turks
-sack - http://dbpedia.org/resource/Sack_of_Constantinople_(1204)
-veneration - http://dbpedia.org/resource/Relic
-byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
-economy - http://dbpedia.org/resource/Economy
-jerusalem - http://dbpedia.org/resource/Kingdom_of_Jerusalem
-military administration - http://dbpedia.org/resource/Occupied_Enemy_Territory_Administration
-bosphorus - http://dbpedia.org/resource/Bosporus
-holy wisdom - http://dbpedia.org/resource/Holy_Wisdom
-prophet muhammad - http://dbpedia.org/resource/Muhammad
-relief - http://dbpedia.org/resource/Relief
-byzantine empire - http://dbpedia.org/resource/Byzantium
-eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
-skirmish - http://dbpedia.org/resource/Skirmisher
-limp - http://dbpedia.org/resource/Unconsciousness
-tax - http://dbpedia.org/resource/Roman_Empire
-roman empire - http://dbpedia.org/resource/Byzantine_Empire
-reign supreme - http://dbpedia.org/resource/Reign_Supreme
-western mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
-scythians - http://dbpedia.org/resource/Scythians
-religious image - http://dbpedia.org/resource/Religious_image
-hieronymus wolf - http://dbpedia.org/resource/Hieronymus_Wolf
-nicaea - http://dbpedia.org/resource/Nicaea
-antioch - http://dbpedia.org/resource/Antioch
-bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
-partition - http://dbpedia.org/resource/Partitions_of_Poland
-capital city - http://dbpedia.org/resource/Capital_city
-city - http://dbpedia.org/resource/City
-honorius - http://dbpedia.org/resource/Pope_Honorius_I
-continent - http://dbpedia.org/resource/History_of_Europe
-holiness - http://dbpedia.org/resource/Sacred
-capital - http://dbpedia.org/resource/Capital_city
-cloud - http://dbpedia.org/resource/Cloud
-charlemagne - http://dbpedia.org/resource/Charlemagne
-roman - http://dbpedia.org/resource/Roman_Empire
-debtor - http://dbpedia.org/resource/Debtor
-frontier - http://dbpedia.org/resource/Frontier
-alexius - http://dbpedia.org/resource/Alexios_I_Komnenos
-independence - http://dbpedia.org/resource/Independence
-lead mosque - http://dbpedia.org/resource/Lead_Mosque,_Berat
-thrive - http://dbpedia.org/resource/Thrive_Music
-hinterland - http://dbpedia.org/resource/Hinterland
-culture - http://dbpedia.org/resource/Culture
-debt - http://dbpedia.org/resource/Debt
-persians - http://dbpedia.org/resource/Sasanian_Empire
-fourth crusade - http://dbpedia.org/resource/Fourth_Crusade
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-legal code - http://dbpedia.org/resource/Roman_law
-administration - http://dbpedia.org/resource/Public_administration
-monument - http://dbpedia.org/resource/Funerary_art
-roman polytheism - http://dbpedia.org/resource/Religion_in_ancient_Rome
-ancient roman - http://dbpedia.org/resource/Roman_Empire
-syria - http://dbpedia.org/resource/Syria
-western roman empire - http://dbpedia.org/resource/Western_Roman_Empire
-insolvent - http://dbpedia.org/resource/Insolvency
-oppression - http://dbpedia.org/resource/Anti-Judaism
-earthquake - http://dbpedia.org/resource/Earthquake
-delphi - http://dbpedia.org/resource/Delphi
-venice - http://dbpedia.org/resource/Republic_of_Venice
-monasticism - http://dbpedia.org/resource/Monk
-missionary - http://dbpedia.org/resource/Christianity
-sassanid persia - http://dbpedia.org/resource/Sasanian_Empire
-greek history - http://dbpedia.org/resource/Ancient_Greece
-pope urban ii - http://dbpedia.org/resource/Pope_Urban_II
-late antiquity - http://dbpedia.org/resource/Late_antiquity
-milan - http://dbpedia.org/resource/Milan
-apollo - http://dbpedia.org/resource/Apollo
-emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
-pope - http://dbpedia.org/resource/Pope
-serbian - http://dbpedia.org/resource/Serbian_language
 official language - http://dbpedia.org/resource/Official_language
+sparta - http://dbpedia.org/resource/Sparta
+megara - http://dbpedia.org/resource/Megara
+coast - http://dbpedia.org/resource/Coast
+spiritual - http://dbpedia.org/resource/Soul
+western mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+monasticism - http://dbpedia.org/resource/Monk
+latin regime - http://dbpedia.org/resource/Latin_Empire
+macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
+michael viii - http://dbpedia.org/resource/Michael_VIII_Palaiologos
+delphi - http://dbpedia.org/resource/Delphi
+economy - http://dbpedia.org/resource/Economy
+exile - http://dbpedia.org/resource/Exile
+independence - http://dbpedia.org/resource/Independence
+persian - http://dbpedia.org/resource/Persian_language
+milan - http://dbpedia.org/resource/Milan
+vassal - http://dbpedia.org/resource/Vassal
+late antiquity - http://dbpedia.org/resource/Late_antiquity
+annexation - http://dbpedia.org/resource/Annexation
+bosphorus straits - http://dbpedia.org/resource/Bosporus
+harbour - http://dbpedia.org/resource/Harbor
+charlemagne - http://dbpedia.org/resource/Charlemagne
+church council - http://dbpedia.org/resource/Ecumenical_council
+slavic peoples - http://dbpedia.org/resource/Slavs
+islamic empire - http://dbpedia.org/resource/Caliphate
+colony - http://dbpedia.org/resource/Colonies_in_antiquity
+anatolia - http://dbpedia.org/resource/Anatolia
+celts - http://dbpedia.org/resource/Celts
+leo iii - http://dbpedia.org/resource/Leo_III_the_Isaurian
+missionaries - http://dbpedia.org/resource/Dawah
+rome - http://dbpedia.org/resource/Roman_Empire
+mount athos - http://dbpedia.org/resource/Mount_Athos
+eastern empire - http://dbpedia.org/resource/Byzantine_Empire
+geopolitics - http://dbpedia.org/resource/Geopolitics
+fourth crusade - http://dbpedia.org/resource/Fourth_Crusade
+aegean sea - http://dbpedia.org/resource/Aegean_Sea
+theodosius - http://dbpedia.org/resource/Theodosius_I
+education - http://dbpedia.org/resource/Education
+franks - http://dbpedia.org/resource/Franks
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+asia minor - http://dbpedia.org/resource/Anatolia
+seljuk turks - http://dbpedia.org/resource/Seljuq_dynasty
+julius nepos - http://dbpedia.org/resource/Julius_Nepos
+byzantine greek - http://dbpedia.org/resource/Byzantine_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
 660 bc - http://dbpedia.org/resource/660_BC
-blind - http://dbpedia.org/resource/Visual_impairment
+church - http://dbpedia.org/resource/Christian_Church
+alexius - http://dbpedia.org/resource/Alexios_I_Komnenos
+athens - http://dbpedia.org/resource/Classical_Athens
+antioch - http://dbpedia.org/resource/Antioch
+islam - http://dbpedia.org/resource/Islam
+byzas - http://dbpedia.org/resource/Byzas
+pressure - http://dbpedia.org/resource/Atmospheric_pressure
+roman empire - http://dbpedia.org/resource/Byzantine_Empire
+slavs - http://dbpedia.org/resource/Slavs
+hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
+crusade - http://dbpedia.org/resource/Crusades
+mystery - http://dbpedia.org/resource/Greco-Roman_mysteries
+veneration - http://dbpedia.org/resource/Relic
+ottoman turks - http://dbpedia.org/resource/Ottoman_Turks
+eastern christians - http://dbpedia.org/resource/Eastern_Christianity
+ancient greek history - http://dbpedia.org/resource/Ancient_Greece
+roman polytheism - http://dbpedia.org/resource/Religion_in_ancient_Rome
+apollo - http://dbpedia.org/resource/Apollo
+ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
+north africa - http://dbpedia.org/resource/Muslim_conquest_of_the_Maghreb
+heraclius - http://dbpedia.org/resource/Heraclius
+serbia - http://dbpedia.org/resource/Serbia_in_the_Middle_Ages
+capital city - http://dbpedia.org/resource/Capital_city
+clermont - http://dbpedia.org/resource/Clermont-Ferrand
+iconoclasm - http://dbpedia.org/resource/Byzantine_Iconoclasm
+bosphorus - http://dbpedia.org/resource/Bosporus
+greek history - http://dbpedia.org/resource/Ancient_Greece
+capital - http://dbpedia.org/resource/Capital_city
+christian theologies - http://dbpedia.org/resource/Christian_theology
+hieronymus wolf - http://dbpedia.org/resource/Hieronymus_Wolf
+codified - http://dbpedia.org/resource/Code_of_law
+summation - http://dbpedia.org/resource/Summation
+volatile - http://dbpedia.org/resource/Volatile_organic_compound
+palaeologus - http://dbpedia.org/resource/Palaiologos
+holiness - http://dbpedia.org/resource/Sacred
+latin - http://dbpedia.org/resource/Latin
+open hostility - http://dbpedia.org/resource/Open_Hostility
+arcadius - http://dbpedia.org/resource/Arcadius
+insolvent - http://dbpedia.org/resource/Insolvency
+siege - http://dbpedia.org/resource/Siege
+emperor - http://dbpedia.org/resource/Byzantine_Empire
+maurice - http://dbpedia.org/resource/Saint_Maurice
+huns - http://dbpedia.org/resource/Huns
+sassanid empire - http://dbpedia.org/resource/Sasanian_Empire
+patriarch - http://dbpedia.org/resource/Ecumenical_Patriarch_of_Constantinople
+legal code - http://dbpedia.org/resource/Roman_law
+medieval greek - http://dbpedia.org/resource/Medieval_Greek
+thrace - http://dbpedia.org/resource/Thrace
+crusades - http://dbpedia.org/resource/Crusades
+town - http://dbpedia.org/resource/German_town_law
+holy wars - http://dbpedia.org/resource/Religious_war
+muslim - http://dbpedia.org/resource/Islam
+balkans - http://dbpedia.org/resource/Balkans
+orthodox christianity - http://dbpedia.org/resource/Eastern_Orthodox_Church
+montesquieu - http://dbpedia.org/resource/Montesquieu
+icons - http://dbpedia.org/resource/Icon
+alexandria - http://dbpedia.org/resource/Alexandria
+sultan - http://dbpedia.org/resource/Ottoman_dynasty
+oppression - http://dbpedia.org/resource/Anti-Judaism
+patriarchates - http://dbpedia.org/resource/Patriarchate
+aegean - http://dbpedia.org/resource/Aegean_Sea
+regeneration - http://dbpedia.org/resource/Urban_renewal
+settlement - http://dbpedia.org/resource/Town
+constantinople - http://dbpedia.org/resource/Constantinople
+caesars - http://dbpedia.org/resource/Caesar_(title)
+latin culture - http://dbpedia.org/resource/Italic_peoples
+partitioned - http://dbpedia.org/resource/Partitions_of_Poland
+byzantines - http://dbpedia.org/resource/Byzantium
+turkish threat - http://dbpedia.org/resource/Ottoman_Empire
+inheritance - http://dbpedia.org/resource/Inheritance
+persians - http://dbpedia.org/resource/Sasanian_Empire
+alien - http://dbpedia.org/resource/Extraterrestrial_life
 literature - http://dbpedia.org/resource/Latin_literature
 germany - http://dbpedia.org/resource/Kingdom_of_Germany
-anatolia - http://dbpedia.org/resource/Anatolia
-geopolitic - http://dbpedia.org/resource/Geopolitics
-western christians - http://dbpedia.org/resource/Western_Christianity
-julius nepos - http://dbpedia.org/resource/Julius_Nepos
-bear - http://dbpedia.org/resource/Bear
-medieval greek - http://dbpedia.org/resource/Medieval_Greek
-town - http://dbpedia.org/resource/German_town_law
-crusaders - http://dbpedia.org/resource/Fourth_Crusade
-hospital - http://dbpedia.org/resource/Hospital
-colony - http://dbpedia.org/resource/Colonies_in_antiquity
-alexander - http://dbpedia.org/resource/Alexander_the_Great
-celts - http://dbpedia.org/resource/Celts
-michael iii - http://dbpedia.org/resource/Michael_III
-muslim conquest - http://dbpedia.org/resource/Spread_of_Islam
-clermont - http://dbpedia.org/resource/Clermont-Ferrand
-east west - http://dbpedia.org/resource/East_West_Records
-sultan - http://dbpedia.org/resource/Ottoman_dynasty
-mehmed - http://dbpedia.org/resource/Mehmed_the_Conqueror
-summation - http://dbpedia.org/resource/Summation
-palaeologus - http://dbpedia.org/resource/Palaiologos
-chalcedon - http://dbpedia.org/resource/Chalcedonian_Christianity
-doctrine - http://dbpedia.org/resource/Doctrine
-latin rule - http://dbpedia.org/resource/Latin_Rule
-regression - http://dbpedia.org/resource/Regression_analysis
-wax - http://dbpedia.org/resource/Wax
-ancient greek history - http://dbpedia.org/resource/Ancient_Greece
-persian - http://dbpedia.org/resource/Persian_language
-historiographic - http://dbpedia.org/resource/Historiography
-annexation - http://dbpedia.org/resource/Annexation
-roman law - http://dbpedia.org/resource/Roman_law
+bithynia - http://dbpedia.org/resource/Bithynia
+pope urban ii - http://dbpedia.org/resource/Pope_Urban_II
+relief - http://dbpedia.org/resource/Relief
+proscribed - http://dbpedia.org/resource/Proscription
+venice - http://dbpedia.org/resource/Republic_of_Venice
+muslim conquests - http://dbpedia.org/resource/Spread_of_Islam
+western roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+theological - http://dbpedia.org/resource/Christian_theology
 ottoman army - http://dbpedia.org/resource/Ottoman_Empire
-cultural institution - http://dbpedia.org/resource/Cultural_institution
-orthodox christianity - http://dbpedia.org/resource/Eastern_Orthodox_Church
-byzas - http://dbpedia.org/resource/Byzas
-russia - http://dbpedia.org/resource/Russia
-turks - http://dbpedia.org/resource/Seljuq_dynasty
-renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
+ancient roman - http://dbpedia.org/resource/Roman_Empire
+mehmed - http://dbpedia.org/resource/Mehmed_the_Conqueror
+nicomedia - http://dbpedia.org/resource/Nicomedia
+administration - http://dbpedia.org/resource/Public_administration
+scythians - http://dbpedia.org/resource/Scythians
+fragmentation - http://dbpedia.org/resource/Grenade
+michael iii - http://dbpedia.org/resource/Michael_III
+holy land - http://dbpedia.org/resource/Holy_Land
+independent - http://dbpedia.org/resource/Independence
+jerusalem - http://dbpedia.org/resource/Kingdom_of_Jerusalem
+pope - http://dbpedia.org/resource/Pope
+manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
+honorius - http://dbpedia.org/resource/Pope_Honorius_I
+regression - http://dbpedia.org/resource/Marine_regression
+latin rule - http://dbpedia.org/resource/Latin_Rule
+romans - http://dbpedia.org/resource/Romans_(musician)
+theodosius ii - http://dbpedia.org/resource/Theodosius_II
+roman law - http://dbpedia.org/resource/Roman_law
+original greek - http://dbpedia.org/resource/Koine_Greek
+sassanid persia - http://dbpedia.org/resource/Sasanian_Empire
+holy war - http://dbpedia.org/resource/Religious_war
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+nova roma - http://dbpedia.org/resource/New_Rome
+latin realms - http://dbpedia.org/resource/Frankokratia
+doctrine - http://dbpedia.org/resource/Doctrine
+thrive - http://dbpedia.org/resource/Thrive_Music
+crusaders - http://dbpedia.org/resource/Fourth_Crusade
+murad ii - http://dbpedia.org/resource/Murad_II
+religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
 spartans - http://dbpedia.org/resource/Sparta
+nicaea - http://dbpedia.org/resource/Nicaea
+mehmed ii - http://dbpedia.org/resource/Mehmed_the_Conqueror
+byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
+diocletian - http://dbpedia.org/resource/Diocletian
+russia - http://dbpedia.org/resource/Russia
+blinds - http://dbpedia.org/resource/Window_blind
+decay - http://dbpedia.org/resource/Urban_decay
+religious controversies - http://dbpedia.org/resource/Religious_controversies
+historian - http://dbpedia.org/resource/Roman_historiography
+licinius - http://dbpedia.org/resource/Licinius
+assassination - http://dbpedia.org/resource/Assassination
+oracle - http://dbpedia.org/resource/Delphi
+assault - http://dbpedia.org/resource/Battle_of_France
+central asia - http://dbpedia.org/resource/Central_Asia
+byzantium - http://dbpedia.org/resource/Byzantium
+frontier - http://dbpedia.org/resource/Frontier
+byzantine empire - http://dbpedia.org/resource/Byzantium
+roman - http://dbpedia.org/resource/Roman_Empire
+murad - http://dbpedia.org/resource/Murad_II
+constantine xi - http://dbpedia.org/resource/Constantine_XI_Palaiologos
+shaky ground - http://dbpedia.org/resource/Shaky_Ground
+fishing - http://dbpedia.org/resource/Fishing
+istanbul - http://dbpedia.org/resource/Istanbul
+greece - http://dbpedia.org/resource/Ancient_Greece
+rift - http://dbpedia.org/resource/The_Riftwar_Cycle
+culture - http://dbpedia.org/resource/Culture
+holy wisdom - http://dbpedia.org/resource/Holy_Wisdom
+chalcedon - http://dbpedia.org/resource/Chalcedonian_Christianity
+renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
+codex theodosianus - http://dbpedia.org/resource/Codex_Theodosianus
+mosque - http://dbpedia.org/resource/Mosque
+administrative centre - http://dbpedia.org/resource/Capital_city
+sassanids - http://dbpedia.org/resource/Sasanian_Empire
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+middle ages - http://dbpedia.org/resource/Middle_Ages
+city - http://dbpedia.org/resource/City
+byzantine emperors - http://dbpedia.org/resource/Byzantine_Empire
+refugees - http://dbpedia.org/resource/Refugee
+golden age - http://dbpedia.org/resource/Golden_Age
+blind - http://dbpedia.org/resource/Visual_impairment
+animosity - http://dbpedia.org/resource/Animosity_(band)
+standardisation - http://dbpedia.org/resource/Standard_language
+peace - http://dbpedia.org/resource/Peace
+christianity - http://dbpedia.org/resource/Christianity
+looting - http://dbpedia.org/resource/Looting
+reunification - http://dbpedia.org/resource/Sui_dynasty
+tax - http://dbpedia.org/resource/Roman_Empire
+turks - http://dbpedia.org/resource/Seljuq_dynasty
+western christians - http://dbpedia.org/resource/Western_Christianity
+emperor constantine - http://dbpedia.org/resource/Constantine_the_Great
+earthquake - http://dbpedia.org/resource/Earthquake
 ottomans - http://dbpedia.org/resource/Ottoman_(furniture)
-latin - http://dbpedia.org/resource/Latin
+bulgaria - http://dbpedia.org/resource/First_Bulgarian_Empire
+mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
+debtor - http://dbpedia.org/resource/Debtor
+historiography - http://dbpedia.org/resource/Roman_historiography
+hinterland - http://dbpedia.org/resource/Hinterland
+ancient rome - http://dbpedia.org/resource/Ancient_Rome
+prophet muhammad - http://dbpedia.org/resource/Muhammad
+421–422 - http://dbpedia.org/resource/Roman–Sasanian_War_of_421–422
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+historiographic - http://dbpedia.org/resource/Historiography
+oath - http://dbpedia.org/resource/Oath
+constantinopolis - http://dbpedia.org/resource/Constantinople
+syria - http://dbpedia.org/resource/Syria

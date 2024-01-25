@@ -1,64 +1,61 @@
-b.c.e. - http://dbpedia.org/resource/Common_Era
-turkish cultural foundation - http://dbpedia.org/resource/Turkish_Cultural_Foundation
-mevlana - http://dbpedia.org/resource/Rumi
-ottoman beylik - http://dbpedia.org/resource/Rise_of_the_Ottoman_Empire
-eastern empire - http://dbpedia.org/resource/Byzantine_Empire
-economic power - http://dbpedia.org/resource/Economic_power
-byzantine - http://dbpedia.org/resource/Byzantine_Empire
-justinian - http://dbpedia.org/resource/Justinian_I
-christianity - http://dbpedia.org/resource/Christianity
-classical - http://dbpedia.org/resource/Classical_antiquity
-turk - http://dbpedia.org/resource/Ottoman_Empire
-seljuk empire - http://dbpedia.org/resource/Seljuk_Empire
-university hospital - http://dbpedia.org/resource/Teaching_hospital
-central asia - http://dbpedia.org/resource/Central_Asia
-malazgirt - http://dbpedia.org/resource/Malazgirt
-fortress - http://dbpedia.org/resource/Fortification
-mystic - http://dbpedia.org/resource/Sufism
-stone - http://dbpedia.org/resource/Masonry
-wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
-constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
-mosaic - http://dbpedia.org/resource/Mosaic
-tomb - http://dbpedia.org/resource/Tomb
-bridge - http://dbpedia.org/resource/Roman_bridge
-ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
-rome - http://dbpedia.org/resource/Roman_Empire
-asian - http://dbpedia.org/resource/Asia
-turkish empire - http://dbpedia.org/resource/Ottoman_Empire
-map - http://dbpedia.org/resource/Map
-istanbul - http://dbpedia.org/resource/Istanbul
-anatolia - http://dbpedia.org/resource/Anatolia
-osmanli - http://dbpedia.org/resource/Ottoman_Turks
-ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
-poet - http://dbpedia.org/resource/Persian_literature
-anatolian - http://dbpedia.org/resource/Sultanate_of_Rum
-byzantine art - http://dbpedia.org/resource/Byzantine_art
-tile - http://dbpedia.org/resource/Iznik_pottery
-celaleddin rumi - http://dbpedia.org/resource/Rumi
-manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
-caravanserais - http://dbpedia.org/resource/Caravanserai
-whirling dervish - http://dbpedia.org/resource/Mevlevi_Order
-mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
-church - http://dbpedia.org/resource/Church_architecture
-tribe - http://dbpedia.org/resource/Turkic_tribal_confederations
-capital - http://dbpedia.org/resource/Capital_city
-byzantine period - http://dbpedia.org/resource/Byzantine_Empire
-byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-purple - http://dbpedia.org/resource/Roman_emperor
-independent - http://dbpedia.org/resource/Independence
-seljuk - http://dbpedia.org/resource/Sultanate_of_Rum
 mongolian - http://dbpedia.org/resource/Mongol_Empire
-sultan - http://dbpedia.org/resource/Ottoman_dynasty
-mosque - http://dbpedia.org/resource/Mosque
-great seljuk empire - http://dbpedia.org/resource/Seljuk_Empire
-byzantium - http://dbpedia.org/resource/Byzantine_Empire
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+central asia - http://dbpedia.org/resource/Central_Asia
+b.c.e. - http://dbpedia.org/resource/Common_Era
+ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
+church - http://dbpedia.org/resource/Church_architecture
 philosopher - http://dbpedia.org/resource/Ancient_Greek_philosophy
-turkish - http://dbpedia.org/resource/Ottoman_Empire
-turks - http://dbpedia.org/resource/Seljuq_dynasty
-constantine - http://dbpedia.org/resource/Constantine_the_Great
-byzantines - http://dbpedia.org/resource/Byzantine_Empire
+tile - http://dbpedia.org/resource/Iznik_pottery
+turkish empire - http://dbpedia.org/resource/Ottoman_Empire
+purple - http://dbpedia.org/resource/Roman_emperor
+seljuk - http://dbpedia.org/resource/Sultanate_of_Rum
+istanbul - http://dbpedia.org/resource/Istanbul
+capital - http://dbpedia.org/resource/Capital_city
+universities - http://dbpedia.org/resource/Medieval_university
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+independent - http://dbpedia.org/resource/Independence
+malazgirt - http://dbpedia.org/resource/Malazgirt
+manzikert - http://dbpedia.org/resource/Battle_of_Manzikert
+byzantine period - http://dbpedia.org/resource/Byzantine_Empire
+map - http://dbpedia.org/resource/Map
+celaleddin rumi - http://dbpedia.org/resource/Rumi
+anatolia - http://dbpedia.org/resource/Anatolia
+ottoman beylik - http://dbpedia.org/resource/Rise_of_the_Ottoman_Empire
+stone - http://dbpedia.org/resource/Masonry
+mosques - http://dbpedia.org/resource/Mosque
+caravanserais - http://dbpedia.org/resource/Caravanserai
+asian - http://dbpedia.org/resource/Asia
+turkish cultural foundation - http://dbpedia.org/resource/Turkish_Cultural_Foundation
+mosaics - http://dbpedia.org/resource/Mosaic
+economic power - http://dbpedia.org/resource/Economic_power
+byzantine art - http://dbpedia.org/resource/Byzantine_art
+anatolian - http://dbpedia.org/resource/Sultanate_of_Rum
+ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+rome - http://dbpedia.org/resource/Roman_Empire
 konya - http://dbpedia.org/resource/Konya
-ottomans - http://dbpedia.org/resource/Ottoman_(furniture)
-hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
-dome - http://dbpedia.org/resource/Dome
+wikimedia commons - http://dbpedia.org/resource/Wikimedia_Commons
+eastern empire - http://dbpedia.org/resource/Byzantine_Empire
+classical - http://dbpedia.org/resource/Classical_antiquity
+bridge - http://dbpedia.org/resource/Roman_bridge
+whirling dervish - http://dbpedia.org/resource/Mevlevi_Order
+christianity - http://dbpedia.org/resource/Christianity
+seljuk empire - http://dbpedia.org/resource/Seljuk_Empire
+beyliks - http://dbpedia.org/resource/Anatolian_beyliks
+osmanli - http://dbpedia.org/resource/Ottoman_Turks
+sultan - http://dbpedia.org/resource/Ottoman_dynasty
+constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+great seljuk empire - http://dbpedia.org/resource/Seljuk_Empire
+turks - http://dbpedia.org/resource/Seljuq_dynasty
 anatolian seljuk - http://dbpedia.org/resource/Sultanate_of_Rum
+turkish - http://dbpedia.org/resource/Ottoman_Empire
+justinian - http://dbpedia.org/resource/Justinian_I
+mevlana - http://dbpedia.org/resource/Rumi
+ottomans - http://dbpedia.org/resource/Ottoman_(furniture)
+mystic - http://dbpedia.org/resource/Sufism
+dome - http://dbpedia.org/resource/Dome
+byzantine - http://dbpedia.org/resource/Byzantine_Empire
+byzantium - http://dbpedia.org/resource/Byzantine_Empire
+poet - http://dbpedia.org/resource/Persian_literature
+byzantines - http://dbpedia.org/resource/Byzantine_Empire
+hagia sophia - http://dbpedia.org/resource/Hagia_Sophia

@@ -1,93 +1,82 @@
-middle ages - http://dbpedia.org/resource/Middle_Ages
-armor - http://dbpedia.org/resource/Armour
-retrofitting - http://dbpedia.org/resource/Retrofitting
-culture history - http://dbpedia.org/resource/Culture-historical_archaeology
-stone - http://dbpedia.org/resource/Masonry
-fort - http://dbpedia.org/resource/Fortification
-neuschwanstein - http://dbpedia.org/resource/Neuschwanstein_Castle
-château de chenonceau - http://dbpedia.org/resource/Château_de_Chenonceau
-modern history - http://dbpedia.org/resource/Early_modern_period
-european castle - http://dbpedia.org/resource/Castle
-siege engine - http://dbpedia.org/resource/Siege_engine
-weapon - http://dbpedia.org/resource/Weapon
-bavaria - http://dbpedia.org/resource/Bavaria
-scandinavia - http://dbpedia.org/resource/Scandinavia
-leeds castle - http://dbpedia.org/resource/Leeds_Castle
-carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
-siege - http://dbpedia.org/resource/Siege
-castle house - http://dbpedia.org/resource/Sheffield_Co-operative_Society
-english royal family - http://dbpedia.org/resource/House_of_Windsor
-military orders - http://dbpedia.org/resource/Military_order_(religious_society)
-alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
-gothic - http://dbpedia.org/resource/Gothic_architecture
-fantasy - http://dbpedia.org/resource/Fantasy
-golden age - http://dbpedia.org/resource/Golden_Age
-norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
-knights hospitaller - http://dbpedia.org/resource/Knights_Hospitaller
-medieval - http://dbpedia.org/resource/Middle_Ages
-eastern civilization - http://dbpedia.org/resource/Eastern_world
-peace - http://dbpedia.org/resource/Peace
-pop culture - http://dbpedia.org/resource/Popular_culture
-defense - http://dbpedia.org/resource/Military
-norman - http://dbpedia.org/resource/Normans
-fortification - http://dbpedia.org/resource/Castle
-teutonic knights - http://dbpedia.org/resource/Teutonic_Order
-northern england - http://dbpedia.org/resource/Northern_England
-alnwick - http://dbpedia.org/resource/Alnwick_Castle
-settlement - http://dbpedia.org/resource/Town
-nostalgia - http://dbpedia.org/resource/Nostalgia
-cité de carcassonne - http://dbpedia.org/resource/Cité_de_Carcassonne
-normans - http://dbpedia.org/resource/Normans
-windsor castle - http://dbpedia.org/resource/Windsor_Castle
-timber - http://dbpedia.org/resource/Timber_framing
-bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-victorian - http://dbpedia.org/resource/Victorian_era
-knights templar - http://dbpedia.org/resource/Knights_Templar
-siege weapon - http://dbpedia.org/resource/Siege_engine
-crusade - http://dbpedia.org/resource/Crusades
-technology - http://dbpedia.org/resource/Technology
-european history - http://dbpedia.org/resource/History_of_Europe
-conwy - http://dbpedia.org/resource/Conwy_Castle
-summer - http://dbpedia.org/resource/Midsummer
-fashion innovation - http://dbpedia.org/resource/History_of_fashion_design
-renaissance - http://dbpedia.org/resource/Renaissance
-warwick castle - http://dbpedia.org/resource/Warwick_Castle
-mote - http://dbpedia.org/resource/Sensor_node
-wave - http://dbpedia.org/resource/Wind_wave
-royalty - http://dbpedia.org/resource/Monarchy
-ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
-architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
-warfare - http://dbpedia.org/resource/Medieval_warfare
-alps - http://dbpedia.org/resource/Alps
-function - http://dbpedia.org/resource/Role
-heidelberg castle - http://dbpedia.org/resource/Heidelberg_Castle
-city - http://dbpedia.org/resource/City
-medieval europe - http://dbpedia.org/resource/Middle_Ages
-winter - http://dbpedia.org/resource/Tilia
-fuel - http://dbpedia.org/resource/Fuel
-burg eltz - http://dbpedia.org/resource/Eltz_Castle
-fashion - http://dbpedia.org/resource/Fashion
-proliferation - http://dbpedia.org/resource/Nuclear_proliferation
-middle east - http://dbpedia.org/resource/Middle_East
-wall tower - http://dbpedia.org/resource/Fortified_tower
-historian - http://dbpedia.org/resource/History
-switch - http://dbpedia.org/resource/Railroad_switch
-culture - http://dbpedia.org/resource/Culture
-highclere castle - http://dbpedia.org/resource/Highclere_Castle
-lichtenstein castle - http://dbpedia.org/resource/Lichtenstein_Castle_(Württemberg)
-nobility - http://dbpedia.org/resource/Nobility
-family - http://dbpedia.org/resource/Family
-neuschwanstein castle - http://dbpedia.org/resource/Neuschwanstein_Castle
-usher - http://dbpedia.org/resource/Rashidun_Caliphate
 ludwig ii - http://dbpedia.org/resource/Ludwig_II_of_Bavaria
-mediaeval architecture - http://dbpedia.org/resource/Medieval_architecture
-gunpowder - http://dbpedia.org/resource/Early_modern_warfare
-hill fort - http://dbpedia.org/resource/Hillfort
-germany - http://dbpedia.org/resource/Kingdom_of_Germany
-caste - http://dbpedia.org/resource/Caste
-church - http://dbpedia.org/resource/Church_architecture
-heritage - http://dbpedia.org/resource/Cultural_heritage
-conwy castle - http://dbpedia.org/resource/Conwy_Castle
-roman empire - http://dbpedia.org/resource/Roman_Empire
+northern england - http://dbpedia.org/resource/Northern_England
 evolution - http://dbpedia.org/resource/Evolution
+castle house - http://dbpedia.org/resource/Sheffield_Co-operative_Society
+function - http://dbpedia.org/resource/Role
+warwick castle - http://dbpedia.org/resource/Warwick_Castle
+gunpowder - http://dbpedia.org/resource/Early_modern_warfare
+victorian times - http://dbpedia.org/resource/Victorian_era
+knights hospitaller - http://dbpedia.org/resource/Knights_Hospitaller
+stone - http://dbpedia.org/resource/Masonry
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+neuschwanstein castle - http://dbpedia.org/resource/Neuschwanstein_Castle
+proliferation - http://dbpedia.org/resource/Nuclear_proliferation
+victorian - http://dbpedia.org/resource/Victorian_era
+wave - http://dbpedia.org/resource/Wind_wave
+pop culture - http://dbpedia.org/resource/Popular_culture
+summer - http://dbpedia.org/resource/Summer_solstice
+burg eltz - http://dbpedia.org/resource/Eltz_Castle
+renaissance - http://dbpedia.org/resource/Renaissance
+château de chenonceau - http://dbpedia.org/resource/Château_de_Chenonceau
+caste - http://dbpedia.org/resource/Caste
+norman invasion - http://dbpedia.org/resource/Norman_conquest_of_England
+teutonic knights - http://dbpedia.org/resource/Teutonic_Order
+retrofitting - http://dbpedia.org/resource/Retrofitting
+english royal family - http://dbpedia.org/resource/House_of_Windsor
+knights templar - http://dbpedia.org/resource/Knights_Templar
+switch - http://dbpedia.org/resource/Railroad_switch
+hill forts - http://dbpedia.org/resource/Hillfort
+norman - http://dbpedia.org/resource/Normans
+siege - http://dbpedia.org/resource/Siege
+crusades - http://dbpedia.org/resource/Crusades
+middle east - http://dbpedia.org/resource/Middle_East
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+roman empire - http://dbpedia.org/resource/Roman_Empire
+heritage - http://dbpedia.org/resource/Cultural_heritage
+motes - http://dbpedia.org/resource/Sensor_node
+nostalgia - http://dbpedia.org/resource/Nostalgia
+alps - http://dbpedia.org/resource/Alps
+germany - http://dbpedia.org/resource/Kingdom_of_Germany
+european history - http://dbpedia.org/resource/History_of_Europe
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+normans - http://dbpedia.org/resource/Normans
+cité de carcassonne - http://dbpedia.org/resource/Cité_de_Carcassonne
+scandinavia - http://dbpedia.org/resource/Scandinavia
+military orders - http://dbpedia.org/resource/Military_order_(religious_society)
+medieval europe - http://dbpedia.org/resource/Middle_Ages
+carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
+culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+leeds castle - http://dbpedia.org/resource/Leeds_Castle
+lichtenstein castle - http://dbpedia.org/resource/Lichtenstein_Castle_(Württemberg)
+european castles - http://dbpedia.org/resource/Castle
+nobility - http://dbpedia.org/resource/Nobility
+neuschwanstein - http://dbpedia.org/resource/Neuschwanstein_Castle
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+hill fort - http://dbpedia.org/resource/Hillfort
+siege engines - http://dbpedia.org/resource/Siege_engine
+warfare - http://dbpedia.org/resource/Medieval_warfare
+defense - http://dbpedia.org/resource/Military
+timber - http://dbpedia.org/resource/Timber_framing
+fantasy - http://dbpedia.org/resource/Fantasy
+church - http://dbpedia.org/resource/Church_architecture
+medieval - http://dbpedia.org/resource/Middle_Ages
+heidelberg castle - http://dbpedia.org/resource/Heidelberg_Castle
+fortification - http://dbpedia.org/resource/Castle
+culture - http://dbpedia.org/resource/Culture
+winter - http://dbpedia.org/resource/Tilia
+bavaria - http://dbpedia.org/resource/Bavaria
+fashion - http://dbpedia.org/resource/Fashion
 tower - http://dbpedia.org/resource/Keep
+middle ages - http://dbpedia.org/resource/Middle_Ages
+royalty - http://dbpedia.org/resource/Monarchy
+golden age - http://dbpedia.org/resource/Golden_Age
+highclere castle - http://dbpedia.org/resource/Highclere_Castle
+peace - http://dbpedia.org/resource/Peace
+gothic - http://dbpedia.org/resource/Gothic_architecture
+modern history - http://dbpedia.org/resource/Early_modern_period
+conwy castle - http://dbpedia.org/resource/Conwy_Castle
+alnwick - http://dbpedia.org/resource/Alnwick_Castle
+alnwick castle - http://dbpedia.org/resource/Alnwick_Castle
+conwy - http://dbpedia.org/resource/Conwy_Castle
+technology - http://dbpedia.org/resource/Technology
+mediaeval architecture - http://dbpedia.org/resource/Medieval_architecture

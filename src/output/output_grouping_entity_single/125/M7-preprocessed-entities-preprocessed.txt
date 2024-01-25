@@ -1,11 +1,11 @@
-leatherman - http://dbpedia.org/resource/Leather_subculture
-sunday school - http://dbpedia.org/resource/Sunday_school
-capon chapel - http://dbpedia.org/resource/Capon_Chapel
-keyser - http://dbpedia.org/resource/Keyser_High_School
 city - http://dbpedia.org/resource/City
-pastor - http://dbpedia.org/resource/Pastor
+leatherman - http://dbpedia.org/resource/Leather_subculture
+keyser - http://dbpedia.org/resource/Keyser_High_School
 meat - http://dbpedia.org/resource/Lamb_and_mutton
-south city - http://dbpedia.org/resource/South_City
 ridge - http://dbpedia.org/resource/Ridge
 fried - http://dbpedia.org/resource/Frying
+pastor - http://dbpedia.org/resource/Pastor
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+sunday school - http://dbpedia.org/resource/Sunday_school
+south city - http://dbpedia.org/resource/South_City
 worship service - http://dbpedia.org/resource/Church_service

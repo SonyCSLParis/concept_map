@@ -1,22 +1,15 @@
-historian - http://dbpedia.org/resource/Historian
-day tripper - http://dbpedia.org/resource/Day_Tripper
+feudal - http://dbpedia.org/resource/Feudalism
+middle east - http://dbpedia.org/resource/Middle_East
 artillery - http://dbpedia.org/resource/Artillery
-administrative centre - http://dbpedia.org/resource/Capital_city
-crusades - http://dbpedia.org/resource/Crusades
-historic site - http://dbpedia.org/resource/Historic_site
-fortification - http://dbpedia.org/resource/Castle
-planet - http://dbpedia.org/resource/Planet
+status symbols - http://dbpedia.org/resource/Status_symbol
+fashion - http://dbpedia.org/resource/Fashion
 map - http://dbpedia.org/resource/Map
-spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+gunpowder - http://dbpedia.org/resource/Gunpowder
+planet - http://dbpedia.org/resource/Planet
+norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
 ardent - http://dbpedia.org/resource/Ardent_Records
 fiefdom - http://dbpedia.org/resource/Fief
-noble - http://dbpedia.org/resource/Nobility
-norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
-gunpowder - http://dbpedia.org/resource/Gunpowder
-cachet - http://dbpedia.org/resource/Cachet
 north africa - http://dbpedia.org/resource/North_Africa
-fashion - http://dbpedia.org/resource/Fashion
-status symbol - http://dbpedia.org/resource/Status_symbol
-middle east - http://dbpedia.org/resource/Middle_East
-tourist attraction - http://dbpedia.org/resource/Tourist_attraction
-feudal - http://dbpedia.org/resource/Feudalism
+cachet - http://dbpedia.org/resource/Cachet
+day trippers - http://dbpedia.org/resource/Day-tripper
+crusades - http://dbpedia.org/resource/Crusades

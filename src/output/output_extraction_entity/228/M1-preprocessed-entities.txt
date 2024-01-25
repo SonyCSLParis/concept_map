@@ -1,5 +1,5 @@
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 wharton - http://dbpedia.org/resource/Texan_brig_Wharton
@@ -11,10 +11,8 @@ nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
 constitution - http://dbpedia.org/resource/Constitution
 constitution - http://dbpedia.org/resource/Constitution
 austin - http://dbpedia.org/resource/Austin_College
-petition - http://dbpedia.org/resource/Petition
 mexico city - http://dbpedia.org/resource/Mexico_City
 austin - http://dbpedia.org/resource/Austin_College
 austin - http://dbpedia.org/resource/Austin_College
-specific charge - http://dbpedia.org/resource/Mass-to-charge_ratio
 texas - http://dbpedia.org/resource/Texas
 texas revolution - http://dbpedia.org/resource/Texas_Revolution

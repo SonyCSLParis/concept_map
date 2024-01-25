@@ -1,20 +1,19 @@
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
-bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+listed - http://dbpedia.org/resource/Listed_building
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
 borough - http://dbpedia.org/resource/Borough
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 local history - http://dbpedia.org/resource/Local_history
-art exhibition - http://dbpedia.org/resource/Art_exhibition
 castle museum - http://dbpedia.org/resource/York_Castle_Museum
+listed - http://dbpedia.org/resource/Listed_building
 manor house - http://dbpedia.org/resource/Manor_house
-acre - http://dbpedia.org/resource/Acre
-bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
 borough - http://dbpedia.org/resource/Borough
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 local history - http://dbpedia.org/resource/Local_history
-art exhibition - http://dbpedia.org/resource/Art_exhibition
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
 good friday - http://dbpedia.org/resource/Good_Friday
 summer - http://dbpedia.org/resource/Summer
-bank holiday - http://dbpedia.org/resource/Bank_holiday
+bank holidays - http://dbpedia.org/resource/Bank_holiday
 map - http://dbpedia.org/resource/Map

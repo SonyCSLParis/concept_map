@@ -8,9 +8,8 @@ listed - http://dbpedia.org/resource/Listed_building
 mansion - http://dbpedia.org/resource/English_country_house
 grade ii listed - http://dbpedia.org/resource/Listed_building
 majestic - http://dbpedia.org/resource/Majestic_12
-banquet hall - http://dbpedia.org/resource/Assembly_hall
+banquet - http://dbpedia.org/resource/Banquet
 library - http://dbpedia.org/resource/Library
-chapel - http://dbpedia.org/resource/Chapel
 stone - http://dbpedia.org/resource/Stonemasonry
 frontispiece - http://dbpedia.org/resource/Book_frontispiece
 john thorpe - http://dbpedia.org/resource/John_Thorpe
@@ -18,7 +17,6 @@ lake - http://dbpedia.org/resource/Lake
 geometric - http://dbpedia.org/resource/Geometry
 mansion - http://dbpedia.org/resource/English_country_house
 listed - http://dbpedia.org/resource/Listed_building
-walled garden - http://dbpedia.org/resource/Walled_garden
 deer - http://dbpedia.org/resource/Deer
 mystical - http://dbpedia.org/resource/Mysticism
 deer - http://dbpedia.org/resource/Deer
@@ -27,9 +25,8 @@ managing director - http://dbpedia.org/resource/Chief_executive_officer
 city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
 bramshill - http://dbpedia.org/resource/Bramshill
 aesthetic - http://dbpedia.org/resource/Aesthetics
-heritage asset - http://dbpedia.org/resource/Heritage_asset
-asset - http://dbpedia.org/resource/Asset_management
-neglect - http://dbpedia.org/resource/Urban_decay
+heritage - http://dbpedia.org/resource/Cultural_heritage
+asset - http://dbpedia.org/resource/Asset
 investment - http://dbpedia.org/resource/Investment
 heritage asset - http://dbpedia.org/resource/Heritage_asset
 heritage asset - http://dbpedia.org/resource/Heritage_asset
@@ -55,7 +52,6 @@ sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
 mansion - http://dbpedia.org/resource/English_country_house
 family - http://dbpedia.org/resource/Family
 red cross - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
-exile - http://dbpedia.org/resource/Exile
 family - http://dbpedia.org/resource/Family
 mansion - http://dbpedia.org/resource/English_country_house
 police - http://dbpedia.org/resource/Police
@@ -63,12 +59,12 @@ mansion - http://dbpedia.org/resource/English_country_house
 rail - http://dbpedia.org/resource/Rail_transport
 winchfield - http://dbpedia.org/resource/Winchfield
 london waterloo - http://dbpedia.org/resource/London_Waterloo_station
+ten miles - http://dbpedia.org/resource/Ten_Miles
 m4 - http://dbpedia.org/resource/M4_(computer_language)
 motorway - http://dbpedia.org/resource/Controlled-access_highway
 heathrow - http://dbpedia.org/resource/Heathrow_Airport
-gatwick airport - http://dbpedia.org/resource/Gatwick_Airport
+gatwick - http://dbpedia.org/resource/Gatwick_Airport
 city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
 heritage - http://dbpedia.org/resource/Cultural_heritage
 bristol city centre - http://dbpedia.org/resource/Bristol_city_centre
 king edward vii - http://dbpedia.org/resource/Edward_VII

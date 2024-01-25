@@ -1,116 +1,117 @@
-tower house - http://dbpedia.org/resource/Tower_house
-compact - http://dbpedia.org/resource/Compact_space
-shirburn - http://dbpedia.org/resource/Shirburn
-siege castle - http://dbpedia.org/resource/Counter-castle
-stone - http://dbpedia.org/resource/Stonemasonry
-supply river - http://dbpedia.org/resource/Supply_River
-curtain - http://dbpedia.org/resource/Curtain
-warwickshire - http://dbpedia.org/resource/Warwickshire
-sir robert lorimer - http://dbpedia.org/resource/Robert_Lorimer
-picton castle - http://dbpedia.org/resource/Picton_Castle
-cartington castle - http://dbpedia.org/resource/Cartington_Castle
-northumberland - http://dbpedia.org/resource/Northumberland
-leven - http://dbpedia.org/resource/Leven,_Fife
-angle - http://dbpedia.org/resource/Angle
-herstmonceux - http://dbpedia.org/resource/Herstmonceux_Castle
-tq - http://dbpedia.org/resource/TQ_(singer)
-scalloway castle - http://dbpedia.org/resource/Scalloway_Castle
-earthwork - http://dbpedia.org/resource/Fortification
-kirby muxloe castle - http://dbpedia.org/resource/Kirby_Muxloe_Castle
-maxstoke castle - http://dbpedia.org/resource/Maxstoke_Castle
-william de clinton - http://dbpedia.org/resource/William_de_Clinton,_1st_Earl_of_Huntingdon
-sully - http://dbpedia.org/resource/Sully_Historic_Site
-yorkshire - http://dbpedia.org/resource/Yorkshire
-earl - http://dbpedia.org/resource/Earl
-rectangle - http://dbpedia.org/resource/Rectangle
-gwynedd - http://dbpedia.org/resource/Gwynedd
-stone enclosure - http://dbpedia.org/resource/Nordic_megalith_architecture
-ditch - http://dbpedia.org/resource/Moat
-south lanarkshire - http://dbpedia.org/resource/South_Lanarkshire
-skenfrith castle - http://dbpedia.org/resource/Skenfrith_Castle
-monnow - http://dbpedia.org/resource/River_Monnow
-vault - http://dbpedia.org/resource/Bank_vault
-enclosure - http://dbpedia.org/resource/Enclosure
-st - http://dbpedia.org/resource/SATB
-defence - http://dbpedia.org/resource/Military
-quadrangular plan - http://dbpedia.org/resource/Quadrangular_castle
-liverpool - http://dbpedia.org/resource/Liverpool
-liverpool castle - http://dbpedia.org/resource/Liverpool_Castle
-richard iii - http://dbpedia.org/resource/Richard_III_of_England
-courtyard - http://dbpedia.org/resource/Courtyard
-pembrokeshire - http://dbpedia.org/resource/Pembrokeshire
-pele tower - http://dbpedia.org/resource/Peel_tower
-roundheads - http://dbpedia.org/resource/Roundhead
-william de ferrers - http://dbpedia.org/resource/William_de_Ferrers,_4th_Earl_of_Derby
-pencoed castle - http://dbpedia.org/resource/Pencoed_Castle
-moat - http://dbpedia.org/resource/Moat
-gatehouse - http://dbpedia.org/resource/Gatehouse
-bothwell castle - http://dbpedia.org/resource/Bothwell_Castle
-castell moel - http://dbpedia.org/resource/Castell_Moel
-manor - http://dbpedia.org/resource/Manor_house
-motte castle - http://dbpedia.org/resource/Motte-and-bailey_castle
-windsor castle - http://dbpedia.org/resource/Windsor_Castle
-civil war - http://dbpedia.org/resource/English_Civil_War
-angus - http://dbpedia.org/resource/Earl_of_Angus
-bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-masonry - http://dbpedia.org/resource/Stonemasonry
-lock - http://dbpedia.org/resource/Lock_and_key
-ss - http://dbpedia.org/resource/Short_story
-patrick stewart - http://dbpedia.org/resource/Patrick_Stewart
-lord hastings - http://dbpedia.org/resource/Baron_Hastings
-tower - http://dbpedia.org/resource/Keep
-river loughor - http://dbpedia.org/resource/River_Loughor
-water - http://dbpedia.org/resource/Water
+afflecks - http://dbpedia.org/resource/Afflecks
 brick - http://dbpedia.org/resource/Brick
 anglesey - http://dbpedia.org/resource/Anglesey
-edward iii - http://dbpedia.org/resource/Edward_III_of_England
-queen - http://dbpedia.org/resource/Queen_consort
-windsor - http://dbpedia.org/resource/Windsor_Castle
-sir roger fiennes - http://dbpedia.org/resource/Roger_Fiennes
-sussex - http://dbpedia.org/resource/Sussex
-dinefwr castle - http://dbpedia.org/resource/Dinefwr_Castle
-orkney - http://dbpedia.org/resource/Orkney
-bolton castle - http://dbpedia.org/resource/Bolton_Castle
-dunster castle - http://dbpedia.org/resource/Dunster_Castle
-fife - http://dbpedia.org/resource/Fife
-cardiff - http://dbpedia.org/resource/Cardiff
-rede - http://dbpedia.org/resource/Wiccan_Rede
-sj - http://dbpedia.org/resource/Society_of_Jesus
-eynsford - http://dbpedia.org/resource/Eynsford
-owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
-eynsford castle - http://dbpedia.org/resource/Eynsford_Castle
-monmouthshire - http://dbpedia.org/resource/Monmouthshire
-quadrilateral - http://dbpedia.org/resource/Quadrilateral
-rock - http://dbpedia.org/resource/Rock_music
-gate - http://dbpedia.org/resource/Gate
-mary - http://dbpedia.org/resource/Mary_I_of_England
 concentric castle - http://dbpedia.org/resource/Concentric_castle
-kent - http://dbpedia.org/resource/Kent
-wall tower - http://dbpedia.org/resource/Fortified_tower
-cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-barry castle - http://dbpedia.org/resource/Barry_Castle
-swansea - http://dbpedia.org/resource/Swansea
-family - http://dbpedia.org/resource/Family
-sir william bruce - http://dbpedia.org/resource/William_Bruce_(architect)
-carmarthenshire - http://dbpedia.org/resource/Carmarthenshire
+cardiff - http://dbpedia.org/resource/Cardiff
+liverpool - http://dbpedia.org/resource/Liverpool
 castle ground - http://dbpedia.org/resource/Castle_Ground
-aydon castle - http://dbpedia.org/resource/Aydon_Castle
-middleham castle - http://dbpedia.org/resource/Middleham_Castle
-beaumaris castle - http://dbpedia.org/resource/Beaumaris_Castle
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-glamorgan - http://dbpedia.org/resource/Glamorgan
-earlshall castle - http://dbpedia.org/resource/Earlshall_Castle
-affleck castle - http://dbpedia.org/resource/Affleck_Castle
-concentric - http://dbpedia.org/resource/Concentric_castle
-mansion - http://dbpedia.org/resource/English_country_house
-great tower - http://dbpedia.org/resource/Keep
-humphrey stafford - http://dbpedia.org/resource/Humphrey_Stafford,_1st_Duke_of_Buckingham
-weobley castle - http://dbpedia.org/resource/Weobley_Castle,_Gower
-shetland - http://dbpedia.org/resource/Shetland
-edward balliol - http://dbpedia.org/resource/Edward_Balliol
+herstmonceux - http://dbpedia.org/resource/Herstmonceux_Castle
 leicestershire - http://dbpedia.org/resource/Leicestershire
+ss - http://dbpedia.org/resource/Short_story
+sussex - http://dbpedia.org/resource/Sussex
+manor - http://dbpedia.org/resource/Manor_house
+sir roger fiennes - http://dbpedia.org/resource/Roger_Fiennes
+sj - http://dbpedia.org/resource/Society_of_Jesus
+pencoed castle - http://dbpedia.org/resource/Pencoed_Castle
+sully - http://dbpedia.org/resource/Sully_Historic_Site
+earthwork - http://dbpedia.org/resource/Fortification
+gatehouse - http://dbpedia.org/resource/Gatehouse
+mary - http://dbpedia.org/resource/Mary_I_of_England
+william de clinton - http://dbpedia.org/resource/William_de_Clinton,_1st_Earl_of_Huntingdon
+mansion - http://dbpedia.org/resource/English_country_house
 perth - http://dbpedia.org/resource/Perth
+masonry - http://dbpedia.org/resource/Stonemasonry
+pembrokeshire - http://dbpedia.org/resource/Pembrokeshire
+south lanarkshire - http://dbpedia.org/resource/South_Lanarkshire
+windsor - http://dbpedia.org/resource/Windsor_Castle
+cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+shetland - http://dbpedia.org/resource/Shetland
+pele towers - http://dbpedia.org/resource/Peel_tower
+kent - http://dbpedia.org/resource/Kent
+earlshall castle - http://dbpedia.org/resource/Earlshall_Castle
+dunster castle - http://dbpedia.org/resource/Dunster_Castle
+earl - http://dbpedia.org/resource/Earl
+stone buildings - http://dbpedia.org/resource/Stone_Buildings
+swansea - http://dbpedia.org/resource/Swansea
+maxstoke castle - http://dbpedia.org/resource/Maxstoke_Castle
+st - http://dbpedia.org/resource/SATB
+siege - http://dbpedia.org/resource/Siege
+kirby muxloe castle - http://dbpedia.org/resource/Kirby_Muxloe_Castle
+windsor castle - http://dbpedia.org/resource/Windsor_Castle
+tower house - http://dbpedia.org/resource/Tower_house
+quadrilateral - http://dbpedia.org/resource/Quadrilateral
+rectangle - http://dbpedia.org/resource/Rectangle
+courtyard - http://dbpedia.org/resource/Courtyard
+patrick stewart - http://dbpedia.org/resource/Patrick_Stewart
+affleck castle - http://dbpedia.org/resource/Affleck_Castle
+angus - http://dbpedia.org/resource/Earl_of_Angus
+solar - http://dbpedia.org/resource/Solar_eclipse
+leven - http://dbpedia.org/resource/Leven,_Fife
 kinross - http://dbpedia.org/resource/Kinross
-afflecks - http://dbpedia.org/resource/Afflecks
-somerset - http://dbpedia.org/resource/Somerset
+castell moel - http://dbpedia.org/resource/Castell_Moel
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
+shirburn - http://dbpedia.org/resource/Shirburn
+fife - http://dbpedia.org/resource/Fife
+william de ferrers - http://dbpedia.org/resource/William_de_Ferrers,_4th_Earl_of_Derby
+beaumaris castle - http://dbpedia.org/resource/Beaumaris_Castle
+aydon castle - http://dbpedia.org/resource/Aydon_Castle
+edward balliol - http://dbpedia.org/resource/Edward_Balliol
+monmouthshire - http://dbpedia.org/resource/Monmouthshire
+roundheads - http://dbpedia.org/resource/Roundhead
+curtain - http://dbpedia.org/resource/Curtain
+rede - http://dbpedia.org/resource/Wiccan_Rede
 quadrangular design - http://dbpedia.org/resource/Quadrangular_castle
+pele tower - http://dbpedia.org/resource/Peel_tower
+quadrangular plan - http://dbpedia.org/resource/Quadrangular_castle
+glamorgan - http://dbpedia.org/resource/Glamorgan
+curtain walls - http://dbpedia.org/resource/Curtain_wall_(fortification)
+enclosure - http://dbpedia.org/resource/Enclosure
+humphrey stafford - http://dbpedia.org/resource/Humphrey_Stafford,_1st_Duke_of_Buckingham
+edward iii - http://dbpedia.org/resource/Edward_III_of_England
+sir william bruce - http://dbpedia.org/resource/William_Bruce_(architect)
+lord hastings - http://dbpedia.org/resource/Baron_Hastings
+queen - http://dbpedia.org/resource/Queen_consort
+concentric - http://dbpedia.org/resource/Concentric_castle
+rock - http://dbpedia.org/resource/Rock_music
+compact - http://dbpedia.org/resource/Compact_car
+stone - http://dbpedia.org/resource/Stonemasonry
+civil war - http://dbpedia.org/resource/English_Civil_War
+richard iii - http://dbpedia.org/resource/Richard_III_of_England
+motte castle - http://dbpedia.org/resource/Motte-and-bailey_castle
+vaulted - http://dbpedia.org/resource/Barrel_vault
+eynsford castle - http://dbpedia.org/resource/Eynsford_Castle
+dinefwr castle - http://dbpedia.org/resource/Dinefwr_Castle
+lock - http://dbpedia.org/resource/Lock_and_key
+carmarthenshire - http://dbpedia.org/resource/Carmarthenshire
+warwickshire - http://dbpedia.org/resource/Warwickshire
+somerset - http://dbpedia.org/resource/Somerset
+northumberland - http://dbpedia.org/resource/Northumberland
+stone enclosure - http://dbpedia.org/resource/Nordic_megalith_architecture
+family - http://dbpedia.org/resource/Family
+picton castle - http://dbpedia.org/resource/Picton_Castle
+bothwell castle - http://dbpedia.org/resource/Bothwell_Castle
+great tower - http://dbpedia.org/resource/Keep
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+barry castle - http://dbpedia.org/resource/Barry_Castle
+cartington castle - http://dbpedia.org/resource/Cartington_Castle
+skenfrith castle - http://dbpedia.org/resource/Skenfrith_Castle
+angle - http://dbpedia.org/resource/Angle
+ditch - http://dbpedia.org/resource/Moat
+tq - http://dbpedia.org/resource/TQ_(singer)
+moat - http://dbpedia.org/resource/Moat
+owain glyndwr - http://dbpedia.org/resource/Owain_Glyndŵr
+gwynedd - http://dbpedia.org/resource/Gwynedd
+river loughor - http://dbpedia.org/resource/River_Loughor
+liverpool castle - http://dbpedia.org/resource/Liverpool_Castle
+weobley castle - http://dbpedia.org/resource/Weobley_Castle,_Gower
+bolton castle - http://dbpedia.org/resource/Bolton_Castle
+yorkshire - http://dbpedia.org/resource/Yorkshire
+river monnow - http://dbpedia.org/resource/River_Monnow
+scalloway castle - http://dbpedia.org/resource/Scalloway_Castle
+eynsford - http://dbpedia.org/resource/Eynsford
+middleham castle - http://dbpedia.org/resource/Middleham_Castle
+water - http://dbpedia.org/resource/Water_supply
+sir robert lorimer - http://dbpedia.org/resource/Robert_Lorimer
+gate - http://dbpedia.org/resource/Gate
+orkney - http://dbpedia.org/resource/Orkney
+tower - http://dbpedia.org/resource/Keep

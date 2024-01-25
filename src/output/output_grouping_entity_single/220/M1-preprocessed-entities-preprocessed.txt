@@ -1,1090 +1,1066 @@
-penrhyn atoll - http://dbpedia.org/resource/Penrhyn_atoll
-bechuanaland - http://dbpedia.org/resource/Bechuanaland_Protectorate
-surgana - http://dbpedia.org/resource/Surgana
-nauru - http://dbpedia.org/resource/Nauru
-hew - http://dbpedia.org/resource/United_States_Department_of_Health_and_Human_Services
-wave - http://dbpedia.org/resource/Wave
-liberal - http://dbpedia.org/resource/Liberalism
-surinam - http://dbpedia.org/resource/Suriname
-elice - http://dbpedia.org/resource/Elice
-emperor leopold - http://dbpedia.org/resource/Leopold_I,_Holy_Roman_Emperor
-palestine - http://dbpedia.org/resource/State_of_Palestine
-francophone - http://dbpedia.org/resource/French_language
-european union - http://dbpedia.org/resource/European_Union
-kangra - http://dbpedia.org/resource/Kangra_district
-ratlam - http://dbpedia.org/resource/Ratlam
-grubby - http://dbpedia.org/resource/Grubby
-east asians - http://dbpedia.org/resource/East_Asia
-james madison - http://dbpedia.org/resource/James_Madison
-die - http://dbpedia.org/resource/Death
-ali rajpur - http://dbpedia.org/resource/Alirajpur_State
-disorder - http://dbpedia.org/resource/Mental_disorder
-gunroom - http://dbpedia.org/resource/Gunroom
-revenue - http://dbpedia.org/resource/Tax
-botswana - http://dbpedia.org/resource/Botswana
-phulera - http://dbpedia.org/resource/Phulera
-vanguard - http://dbpedia.org/resource/Avant-garde
-american philosophical society - http://dbpedia.org/resource/American_Philosophical_Society
-americas - http://dbpedia.org/resource/New_World
-hegemons - http://dbpedia.org/resource/Hegemony
-anomaly - http://dbpedia.org/resource/Software_bug
-socotra island - http://dbpedia.org/resource/Socotra
-darwin - http://dbpedia.org/resource/Darwin,_Northern_Territory
-unlimited power - http://dbpedia.org/resource/Unlimited_Power
-kapurthala - http://dbpedia.org/resource/Kapurthala_State
-travancore - http://dbpedia.org/resource/Travancore
-unemployment - http://dbpedia.org/resource/Unemployment
 indian empire - http://dbpedia.org/resource/British_Raj
-jath - http://dbpedia.org/resource/Jat,_Sangli
-phoenix islands - http://dbpedia.org/resource/Phoenix_Islands
-maler kotla - http://dbpedia.org/resource/Malerkotla_State
-constellation - http://dbpedia.org/resource/Constellation
-recessional - http://dbpedia.org/resource/Recessional_hymn
-british guiana - http://dbpedia.org/resource/British_Guiana
-narsingarh - http://dbpedia.org/resource/Narsingarh,_Tripura
-karauli - http://dbpedia.org/resource/Karauli
-rural - http://dbpedia.org/resource/Rural_area
-rajgarh - http://dbpedia.org/resource/Rajgarh_district
-garha - http://dbpedia.org/resource/Garha
-south sandwich islands - http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
-taste - http://dbpedia.org/resource/Taste
-time zone - http://dbpedia.org/resource/Time_zone
-gambia - http://dbpedia.org/resource/The_Gambia
-flesh - http://dbpedia.org/resource/Fish_as_food
-makran - http://dbpedia.org/resource/Makran
-chitral - http://dbpedia.org/resource/Chitral
-south australia - http://dbpedia.org/resource/South_Australia
-stuart - http://dbpedia.org/resource/House_of_Stuart
-justification - http://dbpedia.org/resource/Defamation
-marxist leninist - http://dbpedia.org/resource/Marxism–Leninism
-sirohi - http://dbpedia.org/resource/Sirohi
-tristan da cunha - http://dbpedia.org/resource/Tristan_da_Cunha
-jury rig - http://dbpedia.org/resource/Jury_rigging
-bharatpur - http://dbpedia.org/resource/Bharatpur_State
-capitalist exploitation - http://dbpedia.org/resource/Exploitation_of_labour
-tonga - http://dbpedia.org/resource/Tanga_(carriage)
-ghazna - http://dbpedia.org/resource/Ghazni
-ethiopia - http://dbpedia.org/resource/Ethiopia
-bikaner - http://dbpedia.org/resource/Bikaner
-eugenics - http://dbpedia.org/resource/Eugenics
-varanasi - http://dbpedia.org/resource/Varanasi
-york - http://dbpedia.org/resource/York
-equality - http://dbpedia.org/resource/Egalitarianism
-tokelau - http://dbpedia.org/resource/Tokelau
-truth - http://dbpedia.org/resource/Truth
-vanod - http://dbpedia.org/resource/Vanod
-japanese empire - http://dbpedia.org/resource/Empire_of_Japan
-navy - http://dbpedia.org/resource/Royal_Navy
-czechoslovakia - http://dbpedia.org/resource/Czechoslovakia
-j.r.r. tolkein - http://dbpedia.org/resource/J._R._R._Tolkien
-south yemen - http://dbpedia.org/resource/South_Yemen
-guyana - http://dbpedia.org/resource/Guyana
-shock - http://dbpedia.org/resource/Electrical_injury
-bombay - http://dbpedia.org/resource/Bombay_Presidency
-french occupation - http://dbpedia.org/resource/Napoleonic_Wars
-hampshire - http://dbpedia.org/resource/Hampshire
-mehtar - http://dbpedia.org/resource/Chitral_(princely_state)
-gallipoli - http://dbpedia.org/resource/Gallipoli
-chou - http://dbpedia.org/resource/Chou_role
-jan morris - http://dbpedia.org/resource/Jan_Morris
-peace - http://dbpedia.org/resource/Peace
-upper burma - http://dbpedia.org/resource/Upper_Myanmar
-garrauli - http://dbpedia.org/resource/Garrauli_State
-iran - http://dbpedia.org/resource/Iran
-dewas - http://dbpedia.org/resource/Dewas
-lenin - http://dbpedia.org/resource/Vladimir_Lenin
-doom - http://dbpedia.org/resource/Doom_metal
-cargados carajos shoals - http://dbpedia.org/resource/St._Brandon
-ballard - http://dbpedia.org/resource/Ballard_Power_Systems
-crucible - http://dbpedia.org/resource/Crucible
-american education - http://dbpedia.org/resource/Education_in_the_United_States
-panama - http://dbpedia.org/resource/Panama
-dhar - http://dbpedia.org/resource/Dhar
-northwest territories - http://dbpedia.org/resource/Northwest_Territory
-wisely - http://dbpedia.org/resource/Wisely_Series
-trumpets - http://dbpedia.org/resource/Trumpet
-anachronistic - http://dbpedia.org/resource/Anachronism
-eritrea - http://dbpedia.org/resource/Eritrea
-indian nationalist - http://dbpedia.org/resource/Indian_independence_movement
-wei - http://dbpedia.org/resource/Cao_Wei
-commonwealth - http://dbpedia.org/resource/Republic
-vanuatu - http://dbpedia.org/resource/Vanuatu
-tyre - http://dbpedia.org/resource/Tire
-scots irish - http://dbpedia.org/resource/Scotch-Irish_Americans
-ireland - http://dbpedia.org/resource/Ireland
-europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
-pitcairn island - http://dbpedia.org/resource/Pitcairn_Islands
-bye - http://dbpedia.org/resource/Glossary_of_tennis_terms
-independent - http://dbpedia.org/resource/Independence
-altruism - http://dbpedia.org/resource/Altruism
-cameroon - http://dbpedia.org/resource/Cameroon
-bond - http://dbpedia.org/resource/Surety
-safety - http://dbpedia.org/resource/Safety
-faridkot - http://dbpedia.org/resource/Faridkot_State
-mesopotamia - http://dbpedia.org/resource/Mesopotamia
-russian revolution - http://dbpedia.org/resource/Russian_Revolution
-aristocracy - http://dbpedia.org/resource/Aristocracy
-portugal - http://dbpedia.org/resource/Portuguese_Empire
-danger islands - http://dbpedia.org/resource/Danger_Islands
-russian empire - http://dbpedia.org/resource/Russian_Empire
-politician - http://dbpedia.org/resource/Politics
-baoni - http://dbpedia.org/resource/Kadaura
-raigarh - http://dbpedia.org/resource/Raigarh
-sovereignty - http://dbpedia.org/resource/Sovereign_state
-random house - http://dbpedia.org/resource/Random_House
-solution - http://dbpedia.org/resource/Malta
-chatham islands - http://dbpedia.org/resource/Chatham_Islands
-leninist - http://dbpedia.org/resource/Leninism
-east africa - http://dbpedia.org/resource/Africa
-saharan - http://dbpedia.org/resource/Sahara
-tentpole - http://dbpedia.org/resource/Tent-pole_(entertainment)
-norfolk island - http://dbpedia.org/resource/Norfolk_Island
-finance - http://dbpedia.org/resource/Finance
-jigni - http://dbpedia.org/resource/Jigni_State
-greece - http://dbpedia.org/resource/Ancient_Greece
-umm al qawain - http://dbpedia.org/resource/Umm_Al_Quwain
-namibia - http://dbpedia.org/resource/Namibia
-heligoland - http://dbpedia.org/resource/Heligoland
-adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
-wisdom - http://dbpedia.org/resource/Wisdom
-sakti - http://dbpedia.org/resource/Shakti
-ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
-columbia - http://dbpedia.org/resource/Cuban_rumba
-market - http://dbpedia.org/resource/Free_market
-germany - http://dbpedia.org/resource/German_Empire
-angel - http://dbpedia.org/resource/Angel
-agency - http://dbpedia.org/resource/Institution
-vijaynagar - http://dbpedia.org/resource/Vijayanagara_Empire
-oeno island - http://dbpedia.org/resource/Oeno_Island
-queen elizabeth - http://dbpedia.org/resource/Elizabeth_II
-cosmoledo - http://dbpedia.org/resource/Cosmoledo
-fair play - http://dbpedia.org/resource/Sportsmanship
-demetrias - http://dbpedia.org/resource/Demetrias
-eric grove - http://dbpedia.org/resource/Eric_Grove
-holy roman emperors - http://dbpedia.org/resource/Holy_Roman_Emperor
-south shetland islands - http://dbpedia.org/resource/South_Shetland_Islands
-tone - http://dbpedia.org/resource/Timbre
-thesis - http://dbpedia.org/resource/The_Protocols_of_the_Elders_of_Zion
-tolkein - http://dbpedia.org/resource/J._R._R._Tolkien
-j.m. roberts - http://dbpedia.org/resource/John_Roberts_(historian)
-imitation - http://dbpedia.org/resource/Pastiche
-election - http://dbpedia.org/resource/Election
-brandenburg - http://dbpedia.org/resource/Brandenburg-Prussia
-individual liberty - http://dbpedia.org/resource/Liberty
-dominica - http://dbpedia.org/resource/Dominica
-west indies - http://dbpedia.org/resource/West_Indies
-function - http://dbpedia.org/resource/Role
-anarchy - http://dbpedia.org/resource/Anarchism
-hunza - http://dbpedia.org/resource/Hunza_Valley
-pathari - http://dbpedia.org/resource/Pathari
-algeria - http://dbpedia.org/resource/Algeria
-american revolution - http://dbpedia.org/resource/American_Revolution
-basutoland - http://dbpedia.org/resource/Basutoland
-proletarian - http://dbpedia.org/resource/Communism
-british virgin islands - http://dbpedia.org/resource/British_Virgin_Islands
-kushalgarh - http://dbpedia.org/resource/Kushalgarh
-gilgit agency - http://dbpedia.org/resource/Gilgit_Agency
-rock - http://dbpedia.org/resource/Rock_music
-language education - http://dbpedia.org/resource/Language_education
-nightingale island - http://dbpedia.org/resource/Nightingale_Island
-theory - http://dbpedia.org/resource/Theory
-iraq - http://dbpedia.org/resource/Iraq
-mare nostrum - http://dbpedia.org/resource/Mare_Nostrum
-bahamas - http://dbpedia.org/resource/The_Bahamas
-paris - http://dbpedia.org/resource/Paris
-athmallik - http://dbpedia.org/resource/Athmallik
-newfoundland - http://dbpedia.org/resource/Newfoundland_Colony
-radlett - http://dbpedia.org/resource/Radlett
-mediterranian - http://dbpedia.org/resource/Mediterranean_Sea
-beri - http://dbpedia.org/resource/Beri,_Jhajjar
-harper - http://dbpedia.org/resource/HarperCollins
-willingly - http://dbpedia.org/resource/Willingly
-thomas babington macaulay - http://dbpedia.org/resource/Thomas_Babington_Macaulay
-penguin - http://dbpedia.org/resource/Penguin
-bansda - http://dbpedia.org/resource/Vansda
-torawati - http://dbpedia.org/resource/Torawati
-inaccessible island - http://dbpedia.org/resource/Inaccessible_Island
-windward islands - http://dbpedia.org/resource/Windward_Islands
-bangladesh - http://dbpedia.org/resource/Bangladesh
-rally - http://dbpedia.org/resource/Protest
-switch - http://dbpedia.org/resource/Railroad_switch
-tongareva - http://dbpedia.org/resource/Penrhyn_atoll
-hinterland - http://dbpedia.org/resource/Hinterland
-feudal - http://dbpedia.org/resource/Feudalism
-system design - http://dbpedia.org/resource/Systems_design
-nationalize - http://dbpedia.org/resource/Nationalization
-straits settlements - http://dbpedia.org/resource/Straits_Settlements
-devgadh baria - http://dbpedia.org/resource/Devgadh_Baria
-opprobrium - http://dbpedia.org/resource/Opprobrium_(band)
-british coinage - http://dbpedia.org/resource/Coins_of_the_pound_sterling
-lunavada - http://dbpedia.org/resource/Lunavada
-historian - http://dbpedia.org/resource/Historian
-rings - http://dbpedia.org/resource/Sonic_the_Hedgehog
-jutland - http://dbpedia.org/resource/Duchy_of_Schleswig
-agalega - http://dbpedia.org/resource/Agaléga
-morgan - http://dbpedia.org/resource/Morgan_Grimes
-kurt wolff - http://dbpedia.org/resource/Kurt_Wolff_(publisher)
-kalahandi - http://dbpedia.org/resource/Kalahandi_district
-corinth - http://dbpedia.org/resource/Corinth
-pal lahara - http://dbpedia.org/resource/Pal_Lahara_State
-belize - http://dbpedia.org/resource/British_Honduras
-massachusetts - http://dbpedia.org/resource/Massachusetts_Bay_Colony
-niall ferguson - http://dbpedia.org/resource/Niall_Ferguson
-iq - http://dbpedia.org/resource/Intelligence_quotient
-mystify - http://dbpedia.org/resource/Mystify_(song)
-foreign investment - http://dbpedia.org/resource/Foreign_direct_investment
-chicago - http://dbpedia.org/resource/Chicago
-joseph chamberlain - http://dbpedia.org/resource/Joseph_Chamberlain
-cochin - http://dbpedia.org/resource/Kingdom_of_Cochin
-presbyterians - http://dbpedia.org/resource/Presbyterianism
-lord howe island - http://dbpedia.org/resource/Lord_Howe_Island
-trade balance - http://dbpedia.org/resource/Balance_of_trade
-thakore sahib - http://dbpedia.org/resource/Thakur_(title)
-bahawalpur - http://dbpedia.org/resource/Bahawalpur
-communist china - http://dbpedia.org/resource/China
-genius - http://dbpedia.org/resource/Genius
-modern romans - http://dbpedia.org/resource/The_Call_(band)
-responsible government - http://dbpedia.org/resource/Responsible_government
-penang - http://dbpedia.org/resource/Penang
-piraeus - http://dbpedia.org/resource/Piraeus
-proletariat - http://dbpedia.org/resource/Proletariat
-sap - http://dbpedia.org/resource/Latex
-st. martin press - http://dbpedia.org/resource/St._Martin's_Press
-radio - http://dbpedia.org/resource/Radio
-orange - http://dbpedia.org/resource/Orange_Revolution
-diamond mind - http://dbpedia.org/resource/Diamond_Mind
-antigua - http://dbpedia.org/resource/Antigua
-panama canal zone - http://dbpedia.org/resource/Panama_Canal
-south georgia - http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
-udaipur - http://dbpedia.org/resource/Udaipur
-bloomsbury press - http://dbpedia.org/resource/Bloomsbury_Publishing
-kawardha - http://dbpedia.org/resource/Kawardha
-marxist - http://dbpedia.org/resource/Marxism
-british crown - http://dbpedia.org/resource/British_Raj
-leninism - http://dbpedia.org/resource/Leninism
-lesotho - http://dbpedia.org/resource/Basutoland
-great power - http://dbpedia.org/resource/Great_power
-intellect - http://dbpedia.org/resource/Intelligence
-tories - http://dbpedia.org/resource/Tory
-peros banhos - http://dbpedia.org/resource/Peros_Banhos
-palanpur - http://dbpedia.org/resource/Palanpur
-north borneo - http://dbpedia.org/resource/North_Borneo
-op.cit - http://dbpedia.org/resource/Op._cit.
-paper - http://dbpedia.org/resource/Paper
-moghuls - http://dbpedia.org/resource/Mughal_Empire
-gold - http://dbpedia.org/resource/Gold_standard
-internationalist - http://dbpedia.org/resource/Neoliberalism
-somalia - http://dbpedia.org/resource/Somalia
-long 19th century - http://dbpedia.org/resource/Long_nineteenth_century
-fighter - http://dbpedia.org/resource/Warrior
-hegemony - http://dbpedia.org/resource/Hegemony
-admiral - http://dbpedia.org/resource/Admiral
-south africa - http://dbpedia.org/resource/South_Africa
-moral - http://dbpedia.org/resource/Morality
-st. vincent - http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines
-foreign trade - http://dbpedia.org/resource/Trade
-heaven - http://dbpedia.org/resource/Heaven
-nato - http://dbpedia.org/resource/NATO
-slavery - http://dbpedia.org/resource/Slavery
-democratic party - http://dbpedia.org/resource/History_of_the_United_States_Democratic_Party
-bastar - http://dbpedia.org/resource/Bastar_district
-dangs - http://dbpedia.org/resource/Dangsan-dong
-suket - http://dbpedia.org/resource/Suket_State
-harvest - http://dbpedia.org/resource/Hunting
-pax romana - http://dbpedia.org/resource/Pax_Romana
-aelius aristides - http://dbpedia.org/resource/Aelius_Aristides
-concentration - http://dbpedia.org/resource/Internment
-innovation - http://dbpedia.org/resource/Innovation
-diego alvarez - http://dbpedia.org/resource/Diego_Alvarez_(Chander_Pahar)
-gandhi - http://dbpedia.org/resource/Mahatma_Gandhi
-south asia - http://dbpedia.org/resource/South_Asia
-dune - http://dbpedia.org/resource/Dune
-awkward - http://dbpedia.org/resource/Awkward_(TV_series)
-european community - http://dbpedia.org/resource/European_Union
-hindu - http://dbpedia.org/resource/Hindus
-hong kong - http://dbpedia.org/resource/Hong_Kong
-europeanised - http://dbpedia.org/resource/Europeanisation
-surguja - http://dbpedia.org/resource/Surguja_district
-khan - http://dbpedia.org/resource/Caravanserai
-race - http://dbpedia.org/resource/Racing
-northern territory - http://dbpedia.org/resource/Northern_Territory
-bajana - http://dbpedia.org/resource/Bajana
-train - http://dbpedia.org/resource/Rail_transport
-indian army - http://dbpedia.org/resource/British_Indian_Army
-jawhar - http://dbpedia.org/resource/Jawhar
-american decline - http://dbpedia.org/resource/American_decline
-fear - http://dbpedia.org/resource/Fear
-montserrat - http://dbpedia.org/resource/Montserrat
-mauritius - http://dbpedia.org/resource/Mauritius
-barwani - http://dbpedia.org/resource/Barwani
-pratapgarh - http://dbpedia.org/resource/Pratapgarh_Kingdom
-mirpur - http://dbpedia.org/resource/Mirpur_District
-sitamau - http://dbpedia.org/resource/Sitamau
-frederick lugard - http://dbpedia.org/resource/Frederick_Lugard,_1st_Baron_Lugard
-koriya - http://dbpedia.org/resource/Korea_State
-anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
-fred anderson - http://dbpedia.org/resource/Fred_D._Anderson
-coral sea - http://dbpedia.org/resource/Coral_Sea
-northern rhodesia - http://dbpedia.org/resource/Zambia
-soviet - http://dbpedia.org/resource/Soviet_Union
-string - http://dbpedia.org/resource/String_instrument
-nabha - http://dbpedia.org/resource/Nabha
-daspalla - http://dbpedia.org/resource/Dashapalla
-bahama islands - http://dbpedia.org/resource/The_Bahamas
-éire - http://dbpedia.org/resource/Ireland
-federate - http://dbpedia.org/resource/Federation_of_Australia
-unitarians - http://dbpedia.org/resource/Unitarianism
-sphere - http://dbpedia.org/resource/Sphere_of_influence
-assembler - http://dbpedia.org/resource/Assembly_language
-torch - http://dbpedia.org/resource/Flashlight
-moral principle - http://dbpedia.org/resource/Morality
-judge - http://dbpedia.org/resource/Judge
-indore - http://dbpedia.org/resource/Indore
-ceylon - http://dbpedia.org/resource/Sri_Lanka
-english architecture - http://dbpedia.org/resource/Architecture_of_England
-barbados - http://dbpedia.org/resource/Barbados
-federal system - http://dbpedia.org/resource/Federation
-weihai - http://dbpedia.org/resource/Weihai
-continuous - http://dbpedia.org/resource/Probability_distribution
-dutch guiana - http://dbpedia.org/resource/Suriname
-free enterprise - http://dbpedia.org/resource/Capitalism
-freedom - http://dbpedia.org/resource/Liberty
-slow fade - http://dbpedia.org/resource/Slow_Fade
-engineering management - http://dbpedia.org/resource/Engineering_management
-constitution - http://dbpedia.org/resource/Constitution
-austria hungary - http://dbpedia.org/resource/Austria-Hungary
-ras al khaimah - http://dbpedia.org/resource/Emirate_of_Ras_Al_Khaimah
-british influence - http://dbpedia.org/resource/British_Influence
-civil war - http://dbpedia.org/resource/Civil_war
-grenada - http://dbpedia.org/resource/Grenada
-democracy - http://dbpedia.org/resource/Democracy
-las bela - http://dbpedia.org/resource/Lasbela_District
-thailand - http://dbpedia.org/resource/Thailand
-encyclopedia - http://dbpedia.org/resource/Wikipedia
-jodhpur - http://dbpedia.org/resource/Jodhpurs
-revolt - http://dbpedia.org/resource/Revolution
-instinct - http://dbpedia.org/resource/Instinct
-midway island - http://dbpedia.org/resource/Midway_Atoll
-banswara - http://dbpedia.org/resource/Banswara
-quakers - http://dbpedia.org/resource/Quakers
-radical - http://dbpedia.org/resource/Political_radicalism
-import - http://dbpedia.org/resource/International_trade
-anachronism - http://dbpedia.org/resource/Anachronism
-life science - http://dbpedia.org/resource/Biology
-bharat - http://dbpedia.org/resource/India
-marxists - http://dbpedia.org/resource/Marxism
-chhatarpur - http://dbpedia.org/resource/Chhatarpur
-rowan - http://dbpedia.org/resource/Rowan
-shag island - http://dbpedia.org/resource/Shag_Island_(South_Australia)
-faith - http://dbpedia.org/resource/Religion
-viceroy - http://dbpedia.org/resource/Governor-General_of_India
-economic development - http://dbpedia.org/resource/Economic_growth
-voltaire - http://dbpedia.org/resource/Voltaire
-liberty - http://dbpedia.org/resource/Liberty
-dhrangadhra - http://dbpedia.org/resource/Dhrangadhra
-anglophile - http://dbpedia.org/resource/Anglophile
-gondal - http://dbpedia.org/resource/Gondal_State
-judith - http://dbpedia.org/resource/Book_of_Judith
-mirza - http://dbpedia.org/resource/Mirza
-hell - http://dbpedia.org/resource/Hell
-rhodesia - http://dbpedia.org/resource/Rhodesia
-inventor - http://dbpedia.org/resource/Patent
-security - http://dbpedia.org/resource/Security
-north carolina - http://dbpedia.org/resource/North_Carolina
-hapsburgs - http://dbpedia.org/resource/House_of_Habsburg
-chhuikhadan - http://dbpedia.org/resource/Chhuikhadan
-habit - http://dbpedia.org/resource/Habit
-prime minister - http://dbpedia.org/resource/Prime_minister
-victorian - http://dbpedia.org/resource/Victorian_era
-jaora - http://dbpedia.org/resource/Jaora
-french mandate - http://dbpedia.org/resource/Mandate_for_Syria_and_the_Lebanon
-loharu - http://dbpedia.org/resource/Loharu
-ceylonese - http://dbpedia.org/resource/Sri_Lanka
-changbhakar - http://dbpedia.org/resource/Changbhakar
-ramgarh - http://dbpedia.org/resource/Ramgarh_Raj
-philip island - http://dbpedia.org/resource/Phillip_Island
-sierra leone - http://dbpedia.org/resource/Sierra_Leone
-kishangarh - http://dbpedia.org/resource/Kishangarh
-dateline - http://dbpedia.org/resource/International_Date_Line
-tipra - http://dbpedia.org/resource/Tripura
-nineveh - http://dbpedia.org/resource/Nineveh
-nandgaon - http://dbpedia.org/resource/Rajnandgaon
-human - http://dbpedia.org/resource/Human_nature
-nyasaland - http://dbpedia.org/resource/Nyasaland
-philippa levine - http://dbpedia.org/resource/Philippa_Levine
-capitalism - http://dbpedia.org/resource/Capitalism
-ideology - http://dbpedia.org/resource/Ideology
-de jure - http://dbpedia.org/resource/De_jure
-trade deficit - http://dbpedia.org/resource/Balance_of_trade
-queen victoria - http://dbpedia.org/resource/Queen_Victoria
-bilingualism - http://dbpedia.org/resource/Multilingualism
-investment - http://dbpedia.org/resource/Investment
-jhalawar - http://dbpedia.org/resource/Jhalawar
-washington island - http://dbpedia.org/resource/Teraina
-muhammadgarh - http://dbpedia.org/resource/Mohammadgarh_State
-duckworth - http://dbpedia.org/resource/Duckworth_Books
-proconsuls - http://dbpedia.org/resource/Proconsul
-jammu kashmir - http://dbpedia.org/resource/Jammu_and_Kashmir_cricket_team
-alipura - http://dbpedia.org/resource/Alipura_State
-st. helena island - http://dbpedia.org/resource/Saint_Helena
-indicative - http://dbpedia.org/resource/Realis_mood
-animate - http://dbpedia.org/resource/Animation
-aleutians - http://dbpedia.org/resource/Aleutian_Islands_campaign
-south wales - http://dbpedia.org/resource/South_Wales
-pax britannica - http://dbpedia.org/resource/Pax_Britannica
-anglo - http://dbpedia.org/resource/Anglo
-eugenic - http://dbpedia.org/resource/Eugenics
-barbary pirate - http://dbpedia.org/resource/Barbary_pirates
-circus - http://dbpedia.org/resource/Circus
-western samoa - http://dbpedia.org/resource/Samoa
-phoenix group - http://dbpedia.org/resource/Phoenix_Islands
-image plate - http://dbpedia.org/resource/Photostimulated_luminescence
-alwar - http://dbpedia.org/resource/Alwar
-porbandar - http://dbpedia.org/resource/Porbandar
-amb - http://dbpedia.org/resource/Amb_Temples
-light - http://dbpedia.org/resource/Light_infantry
-horror - http://dbpedia.org/resource/Horror_film
-royal observatory - http://dbpedia.org/resource/Paris_Observatory
-tonic - http://dbpedia.org/resource/Drug
-gesture - http://dbpedia.org/resource/Salute
-argentina - http://dbpedia.org/resource/Argentina
-plain - http://dbpedia.org/resource/John_Major
-zimbabwe - http://dbpedia.org/resource/Zimbabwe
-labuan - http://dbpedia.org/resource/Labuan
-knopf - http://dbpedia.org/resource/Random_House
-soldier - http://dbpedia.org/resource/British_Army
-edward vii - http://dbpedia.org/resource/Edward_VII
-christmas island - http://dbpedia.org/resource/Kiribati
-capital - http://dbpedia.org/resource/Capital_city
-chamberlain - http://dbpedia.org/resource/Lord_Chamberlain
-founding fathers - http://dbpedia.org/resource/Founding_Fathers_of_the_United_States
-kharan - http://dbpedia.org/resource/Kharan_District
-immutable - http://dbpedia.org/resource/Suspect_classification
-nawab - http://dbpedia.org/resource/Nawab
-lease - http://dbpedia.org/resource/Lease
-south african - http://dbpedia.org/resource/South_Africa
-orchha - http://dbpedia.org/resource/Orchha_State
-nicaragua - http://dbpedia.org/resource/Nicaragua
-virgin islands - http://dbpedia.org/resource/British_Virgin_Islands
-british empire - http://dbpedia.org/resource/British_Raj
-nayagarh - http://dbpedia.org/resource/Nayagarh
-datia - http://dbpedia.org/resource/Datia
-maharao - http://dbpedia.org/resource/Maharao
-british antarctic territory - http://dbpedia.org/resource/British_Antarctic_Territory
-american heritage publishing - http://dbpedia.org/resource/American_Heritage_(magazine)
-wogs - http://dbpedia.org/resource/Wog
-dominant - http://dbpedia.org/resource/Dominance_hierarchy
-burma - http://dbpedia.org/resource/Myanmar
-carrier - http://dbpedia.org/resource/Aircraft_carrier
-white race - http://dbpedia.org/resource/White_people
-ideal - http://dbpedia.org/resource/Theory_of_forms
-curtis - http://dbpedia.org/resource/Notitia_de_actoribus_regis
-emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
-chain - http://dbpedia.org/resource/Chain_store
-guam - http://dbpedia.org/resource/Guam
-mayurbhanj - http://dbpedia.org/resource/Mayurbhanj_district
-steering wheel - http://dbpedia.org/resource/Steering_wheel
-hellenistic - http://dbpedia.org/resource/Hellenistic_period
-chinese japanese - http://dbpedia.org/resource/Chinese_people_in_Japan
-capitalist - http://dbpedia.org/resource/Capitalism
-kalsia - http://dbpedia.org/resource/Kalsia
-niue - http://dbpedia.org/resource/Niue
-wankaner - http://dbpedia.org/resource/Wankaner
-ghana - http://dbpedia.org/resource/Ghana
-william beinart - http://dbpedia.org/resource/William_Beinart
-nazi germany - http://dbpedia.org/resource/Nazism
-color barrier - http://dbpedia.org/resource/Racial_segregation
-monolingual - http://dbpedia.org/resource/Tower_of_Babel
-suez - http://dbpedia.org/resource/Suez_Canal
-prime meridian - http://dbpedia.org/resource/Prime_meridian
-international dateline - http://dbpedia.org/resource/International_Date_Line
-embassy - http://dbpedia.org/resource/Diplomatic_mission
-lord mountbatten - http://dbpedia.org/resource/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma
-sawantvadi - http://dbpedia.org/resource/Sawantwadi_taluka
-jind - http://dbpedia.org/resource/Jind
-soviet union - http://dbpedia.org/resource/Soviet_Union
-furniture - http://dbpedia.org/resource/Furniture
-mandate - http://dbpedia.org/resource/League_of_Nations_mandate
-nawanagar - http://dbpedia.org/resource/Nawanagar_State
-hierarchy - http://dbpedia.org/resource/Hierarchy
-sikkim - http://dbpedia.org/resource/Sikkim
-buddhist - http://dbpedia.org/resource/Buddhism
-class envy - http://dbpedia.org/resource/Class_conflict
-gwalior - http://dbpedia.org/resource/Gwalior
-darbhanga - http://dbpedia.org/resource/Darbhanga
-tripura - http://dbpedia.org/resource/Tripura
-kevin kenny - http://dbpedia.org/resource/Kevin_Kenny
-athenian - http://dbpedia.org/resource/Athens
-british commonwealth - http://dbpedia.org/resource/British_Empire
-corrosive - http://dbpedia.org/resource/Corrosion
-sinhalese - http://dbpedia.org/resource/Sri_Lanka
-cocos keeling islands - http://dbpedia.org/resource/Cocos_(Keeling)_Islands
-admire - http://dbpedia.org/resource/Admire,_Kansas
-cook islands - http://dbpedia.org/resource/Cook_Islands
-keystone - http://dbpedia.org/resource/Arch
-zanzibar - http://dbpedia.org/resource/Zanzibar
-auckland islands - http://dbpedia.org/resource/Auckland_Islands
-anti americanism - http://dbpedia.org/resource/Anti-Americanism
-deccan - http://dbpedia.org/resource/Deccan_Plateau
-celts - http://dbpedia.org/resource/Celts
-caricature - http://dbpedia.org/resource/Caricature
-robin winks - http://dbpedia.org/resource/Robin_Winks
-symbol - http://dbpedia.org/resource/Symbol
-moon - http://dbpedia.org/resource/Moon
-eton - http://dbpedia.org/resource/Eton_College
-sangli - http://dbpedia.org/resource/Sangli
-parallel analysis - http://dbpedia.org/resource/Factor_analysis
-british future - http://dbpedia.org/resource/British_Future
-baroda residency - http://dbpedia.org/resource/Baroda_Residency
-bureaucrat - http://dbpedia.org/resource/Bureaucracy
-indian ocean - http://dbpedia.org/resource/Indian_Ocean
-sawai - http://dbpedia.org/resource/Sawai_(title)
-brian lapping - http://dbpedia.org/resource/Brian_Lapping
-colony - http://dbpedia.org/resource/Crown_colony
-khilchipur - http://dbpedia.org/resource/Khilchipur
-david - http://dbpedia.org/resource/David
-sumatra - http://dbpedia.org/resource/Sumatra
-german empire - http://dbpedia.org/resource/German_Empire
-maihar - http://dbpedia.org/resource/Maihar
-grenadines - http://dbpedia.org/resource/Grenadines
-autonomous - http://dbpedia.org/resource/Autonomy
-lanka - http://dbpedia.org/resource/Sri_Lanka
-somalis - http://dbpedia.org/resource/Somalia
-xenophobia - http://dbpedia.org/resource/Xenophobia
-alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
-british indian ocean territory - http://dbpedia.org/resource/British_Indian_Ocean_Territory
-jewish immigration - http://dbpedia.org/resource/Aliyah
-khaniyadhana - http://dbpedia.org/resource/Khaniyadhana
-darwinism - http://dbpedia.org/resource/Darwinism
-kamta - http://dbpedia.org/resource/Rangpuri_language
-thrall - http://dbpedia.org/resource/Thrall
-bahrain - http://dbpedia.org/resource/Bahrain
-anglophone - http://dbpedia.org/resource/English_language
-connecticut - http://dbpedia.org/resource/Connecticut_Colony
-union jacks - http://dbpedia.org/resource/Union_Jack
-kotah - http://dbpedia.org/resource/Kota_State
-eternal law - http://dbpedia.org/resource/Thomas_Aquinas
-jaisalmer - http://dbpedia.org/resource/Jaisalmer
-mediaeval - http://dbpedia.org/resource/Middle_Ages
-sovereign - http://dbpedia.org/resource/Sovereign_state
-time life books - http://dbpedia.org/resource/Time_Inc.
-federation - http://dbpedia.org/resource/Federation
-kurundwad - http://dbpedia.org/resource/Kurundwad
-maryland - http://dbpedia.org/resource/Province_of_Maryland
-british navy - http://dbpedia.org/resource/Royal_Navy
-ensigns - http://dbpedia.org/resource/Flag
-j.a. hobson - http://dbpedia.org/resource/John_A._Hobson
-persian gulf - http://dbpedia.org/resource/Persian_Gulf
-esc key - http://dbpedia.org/resource/Esc_key
-british garrison - http://dbpedia.org/resource/Garrison
-innovation investment - http://dbpedia.org/resource/Research_and_development
-moghul empire - http://dbpedia.org/resource/Mughal_Empire
-mahmud - http://dbpedia.org/resource/Mahmud_II
-mcgraw hill - http://dbpedia.org/resource/McGraw-Hill_Education
-potential superpower - http://dbpedia.org/resource/Potential_superpowers
-attica - http://dbpedia.org/resource/Attic_style
-independence - http://dbpedia.org/resource/Indian_independence_movement
-trade surplus - http://dbpedia.org/resource/Balance_of_trade
-airplane - http://dbpedia.org/resource/Airplane
-cyprus - http://dbpedia.org/resource/Cyprus
-cambay - http://dbpedia.org/resource/Cambay_State
-st. lucia - http://dbpedia.org/resource/Saint_Lucia
-encompass - http://dbpedia.org/resource/Encompass
-great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
-saraikela - http://dbpedia.org/resource/Saraikela
-rodrigues - http://dbpedia.org/resource/Rodrigues
-bencoolen - http://dbpedia.org/resource/Bengkulu
-nagod - http://dbpedia.org/resource/Nagod
-racism - http://dbpedia.org/resource/Racism
-gardner island - http://dbpedia.org/resource/Nikumaroro
-antipodes islands - http://dbpedia.org/resource/Antipodes_Islands
-gilbert islands - http://dbpedia.org/resource/Kiribati
-kenneth morgan - http://dbpedia.org/resource/Kenneth_O._Morgan
-sarila - http://dbpedia.org/resource/Sarila
-hegemonic power - http://dbpedia.org/resource/Hegemony
-samoa - http://dbpedia.org/resource/Samoa
-janjira - http://dbpedia.org/resource/Janjira_State
-tasmania - http://dbpedia.org/resource/Tasmania
-walvis bay - http://dbpedia.org/resource/Walvis_Bay
-bismark - http://dbpedia.org/resource/Otto_von_Bismarck
-local government - http://dbpedia.org/resource/Local_government
-emigrant - http://dbpedia.org/resource/Emigration
-dutch east indies - http://dbpedia.org/resource/Dutch_East_India_Company
-nova scotia - http://dbpedia.org/resource/Nova_Scotia
-vancouver - http://dbpedia.org/resource/Vancouver
-heart - http://dbpedia.org/resource/Cardiovascular_disease
-imperialism - http://dbpedia.org/resource/British_Empire
-headland - http://dbpedia.org/resource/Headlands_and_bays
-virtue - http://dbpedia.org/resource/Morality
-brunei protectorate - http://dbpedia.org/resource/Brunei
-sonpur - http://dbpedia.org/resource/Sonepur_State
-fiji - http://dbpedia.org/resource/Fiji_(software)
-completeness - http://dbpedia.org/resource/Real_number
-st. helena - http://dbpedia.org/resource/Napoleon
-khaniadhana - http://dbpedia.org/resource/Khaniadhana_State
-oman - http://dbpedia.org/resource/Oman
-khambhat - http://dbpedia.org/resource/Khambhat
-maharaja - http://dbpedia.org/resource/Maharaja
-human material - http://dbpedia.org/resource/Human_capital
-arakan - http://dbpedia.org/resource/Rakhine_State
-kiribati - http://dbpedia.org/resource/Kiribati
-classical - http://dbpedia.org/resource/Classical_antiquity
-macedon - http://dbpedia.org/resource/Ancient_Macedonians
-thakur - http://dbpedia.org/resource/Thakur_(title)
-turks - http://dbpedia.org/resource/Ottoman_Empire
-contradiction - http://dbpedia.org/resource/Contradiction
-soviet russian - http://dbpedia.org/resource/Soviet_Union
-piploda - http://dbpedia.org/resource/Piploda
-ducie island - http://dbpedia.org/resource/Ducie_Island
-colonial power - http://dbpedia.org/resource/British_Empire
-tanzania - http://dbpedia.org/resource/Tanzania
-chronicler - http://dbpedia.org/resource/Chronicle
-financier - http://dbpedia.org/resource/Investor
-rwanda - http://dbpedia.org/resource/Rwanda
-autonomy - http://dbpedia.org/resource/Autonomy
-bbc - http://dbpedia.org/resource/BBC
-pudukkottai - http://dbpedia.org/resource/Pudukkottai
-hull island - http://dbpedia.org/resource/Orona
-united arab emirates - http://dbpedia.org/resource/United_Arab_Emirates
-channel islands - http://dbpedia.org/resource/Channel_Islands
-heritage - http://dbpedia.org/resource/History
-norman - http://dbpedia.org/resource/Normans
-kutch - http://dbpedia.org/resource/Kutch_district
-charkhari - http://dbpedia.org/resource/Charkhari_State
-scotland - http://dbpedia.org/resource/Scotland
-condominium - http://dbpedia.org/resource/Anglo-Egyptian_Sudan
-mudhol - http://dbpedia.org/resource/Mudhol
-gaurihar - http://dbpedia.org/resource/Gaurihar_State
-egmont islands - http://dbpedia.org/resource/Egmont_Islands
-georgia - http://dbpedia.org/resource/Province_of_Georgia
-shahpura - http://dbpedia.org/resource/Shahpura_State
-live life - http://dbpedia.org/resource/Live_Life
-rewah - http://dbpedia.org/resource/Rewa_(princely_state)
-free trade - http://dbpedia.org/resource/Free_trade
-paradigmatic - http://dbpedia.org/resource/Paradigm
-seeley - http://dbpedia.org/resource/Seeley_Booth
-roman rule - http://dbpedia.org/resource/Ancient_Rome
-malden island - http://dbpedia.org/resource/Malden_Island
-oath - http://dbpedia.org/resource/Oath
-muscat - http://dbpedia.org/resource/Muscat_(grape)
-malawi - http://dbpedia.org/resource/Malawi
-babi - http://dbpedia.org/resource/Babi_dynasty
-delos - http://dbpedia.org/resource/Delos
-british north america - http://dbpedia.org/resource/Thirteen_Colonies
-plato - http://dbpedia.org/resource/Plato
-sparta - http://dbpedia.org/resource/Sparta
-animation - http://dbpedia.org/resource/Animation
-siba - http://dbpedia.org/resource/Siba_State
-revolution - http://dbpedia.org/resource/French_Revolution
-autocrat - http://dbpedia.org/resource/Autocracy
-privy council - http://dbpedia.org/resource/Privy_council
-jaso - http://dbpedia.org/resource/Japanese_Automotive_Standards_Organization
-andaman islands - http://dbpedia.org/resource/Andaman_Islands
-kenzie - http://dbpedia.org/resource/Kenzie_(songwriter)
-trustee - http://dbpedia.org/resource/Trustee
-arthur - http://dbpedia.org/resource/King_Arthur
-prejudice - http://dbpedia.org/resource/Racism
-prepare - http://dbpedia.org/resource/PREPARE
-british dominions - http://dbpedia.org/resource/Dominion
-royal navy - http://dbpedia.org/resource/Royal_Navy
-dadabhai naoroji - http://dbpedia.org/resource/Dadabhai_Naoroji
-business rule - http://dbpedia.org/resource/Business_rule
-automobile - http://dbpedia.org/resource/Car
-national anthem - http://dbpedia.org/resource/National_anthem
-bhopal - http://dbpedia.org/resource/Bhopal
-archipelago - http://dbpedia.org/resource/Archipelago
-battle royal - http://dbpedia.org/resource/Battle_royal
-nicholas canny - http://dbpedia.org/resource/Nicholas_Canny
-historiography - http://dbpedia.org/resource/Historiography
-antecedent - http://dbpedia.org/resource/Pre-existence
-pocket - http://dbpedia.org/resource/Billiard_table
-somali pirate - http://dbpedia.org/resource/Piracy_off_the_coast_of_Somalia
-mole - http://dbpedia.org/resource/Nevus
-radhanpur - http://dbpedia.org/resource/Radhanpur
-transjordan - http://dbpedia.org/resource/Jordan
-indian blood - http://dbpedia.org/resource/Indian_Blood_(play)
-tharad - http://dbpedia.org/resource/Tharad
-aus - http://dbpedia.org/resource/Australia
-abu dhabi - http://dbpedia.org/resource/Abu_Dhabi
-dartmouth - http://dbpedia.org/resource/Dartmouth_College
-steward - http://dbpedia.org/resource/Butler
-british somaliland - http://dbpedia.org/resource/British_Somaliland
-hindustan - http://dbpedia.org/resource/India
-malacca - http://dbpedia.org/resource/Straits_Settlements
-queen elizabeth ii - http://dbpedia.org/resource/Elizabeth_II
-maharana - http://dbpedia.org/resource/Maharaja
-malaya - http://dbpedia.org/resource/British_Malaya
-tuvalu - http://dbpedia.org/resource/Tuvalu
-british economy - http://dbpedia.org/resource/Economic_history_of_the_United_Kingdom
-ajaigarh - http://dbpedia.org/resource/Ajaigarh_State
-partition - http://dbpedia.org/resource/Partition_of_India
-dictator - http://dbpedia.org/resource/Dictatorship
-arch - http://dbpedia.org/resource/Arch
-patiala - http://dbpedia.org/resource/Patiala
-salt cay - http://dbpedia.org/resource/Blue_Lagoon_Island
-alchemy - http://dbpedia.org/resource/Alchemy
-ancient civilization - http://dbpedia.org/resource/Civilization
-myanmar - http://dbpedia.org/resource/Myanmar
-spring - http://dbpedia.org/resource/Spring_and_Autumn_period
-henderson island - http://dbpedia.org/resource/Henderson_Island_(Pitcairn_Islands)
-sydney island - http://dbpedia.org/resource/Manra_Island
-separatist movement - http://dbpedia.org/resource/Separatism
-jurisdiction - http://dbpedia.org/resource/Jurisdiction
-qatar - http://dbpedia.org/resource/India
-north west frontier - http://dbpedia.org/resource/North-West_Frontier_Province
-makrai - http://dbpedia.org/resource/Makrai
-coral sea islands territory - http://dbpedia.org/resource/Coral_Sea_Islands
-sven - http://dbpedia.org/resource/Sweyn_II_of_Denmark
-kuwait - http://dbpedia.org/resource/Kuwait
-mahé island - http://dbpedia.org/resource/Mahé,_Seychelles
-uganda - http://dbpedia.org/resource/Uganda
-mosquito coast - http://dbpedia.org/resource/Mosquito_Coast
-dalziel - http://dbpedia.org/resource/Dalziel_RFC
-city - http://dbpedia.org/resource/City
-dholpur - http://dbpedia.org/resource/Dholpur
-kalabagh - http://dbpedia.org/resource/Kalabagh
-oscar parkes - http://dbpedia.org/resource/Oscar_Parkes
-turkish invasion - http://dbpedia.org/resource/Turkish_invasion_of_Cyprus
-trinidad - http://dbpedia.org/resource/Trinidad
-british rule - http://dbpedia.org/resource/British_Raj
-nicobar islands - http://dbpedia.org/resource/Nicobar_Islands
-englishman - http://dbpedia.org/resource/British_people
-lawa - http://dbpedia.org/resource/Lawa_people
-rome - http://dbpedia.org/resource/Holy_See
-leeward islands - http://dbpedia.org/resource/Leeward_Islands
-northern ireland - http://dbpedia.org/resource/Northern_Ireland
-flag - http://dbpedia.org/resource/Flag
-thebes - http://dbpedia.org/resource/Phthiotic_Thebes
-citizenship - http://dbpedia.org/resource/Citizenship
-bilingual - http://dbpedia.org/resource/Multilingualism
-guantanamo bay - http://dbpedia.org/resource/Guantanamo_Bay_Naval_Base
-kothi - http://dbpedia.org/resource/Kothi_(gender)
-protectionism - http://dbpedia.org/resource/Protectionism
-ethnic discrimination - http://dbpedia.org/resource/Discrimination
-christopher bayly - http://dbpedia.org/resource/Christopher_Bayly
-salute - http://dbpedia.org/resource/Salute_state
-bhor - http://dbpedia.org/resource/Bhor_State
-falkland islands - http://dbpedia.org/resource/Falkland_Islands
-cooch behar - http://dbpedia.org/resource/Cooch_Behar
-dominion - http://dbpedia.org/resource/Dominion_of_India
-dhrol - http://dbpedia.org/resource/Dhrol
-campbell island - http://dbpedia.org/resource/Campbell_Island,_New_Zealand
-barbarism - http://dbpedia.org/resource/Barbarian
-austrian empire - http://dbpedia.org/resource/Habsburg_Monarchy
-trilogy - http://dbpedia.org/resource/Trilogy
-malta - http://dbpedia.org/resource/Malta
-islamic fascism - http://dbpedia.org/resource/Islamofascism
-prince edward island - http://dbpedia.org/resource/Prince_Edward_Island
-turk - http://dbpedia.org/resource/Ottoman_Empire
-normandy - http://dbpedia.org/resource/Normandy
-project power - http://dbpedia.org/resource/Power_projection
-queensland - http://dbpedia.org/resource/Queensland
-rampur - http://dbpedia.org/resource/Rampur_State
-folie à deux - http://dbpedia.org/resource/Folie_à_deux
-solomon islands - http://dbpedia.org/resource/Solomon_Islands
-socialism - http://dbpedia.org/resource/Socialism
-virginia - http://dbpedia.org/resource/Colony_of_Virginia
-starbuck island - http://dbpedia.org/resource/Starbuck_Island
-southern rhodesia - http://dbpedia.org/resource/Rhodesia
-lawrence james - http://dbpedia.org/resource/Lawrence_James
-mcdonald islands - http://dbpedia.org/resource/Heard_Island_and_McDonald_Islands
-manavadar - http://dbpedia.org/resource/Manavadar
-sarangarh - http://dbpedia.org/resource/Sarangarh
-jamaica - http://dbpedia.org/resource/Jamaica
-franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-britannia royal naval college - http://dbpedia.org/resource/Britannia_Royal_Naval_College
-st. martin - http://dbpedia.org/resource/Saint_Martin
-anglicize - http://dbpedia.org/resource/Anglicisation
-swiss bank account - http://dbpedia.org/resource/Banking_in_Switzerland
-bhavnagar - http://dbpedia.org/resource/Bhavnagar
-british india - http://dbpedia.org/resource/British_Raj
-khairpur - http://dbpedia.org/resource/Khairpur
-lag - http://dbpedia.org/resource/Lag
-country time - http://dbpedia.org/resource/Country_Time
-cardinal - http://dbpedia.org/resource/Cardinal_direction
-prussia - http://dbpedia.org/resource/Prussia
-basic books - http://dbpedia.org/resource/Basic_Books
-holy roman empire - http://dbpedia.org/resource/Holy_Roman_Empire
-rhode island - http://dbpedia.org/resource/Rhode_Island
-empress - http://dbpedia.org/resource/Tsar
-baraundha - http://dbpedia.org/resource/Baraundha
-union jack - http://dbpedia.org/resource/Union_Jack
-rana - http://dbpedia.org/resource/Pin_(professional_wrestling)
-transit instrument - http://dbpedia.org/resource/Transit_instrument
-imperial war museum - http://dbpedia.org/resource/Imperial_War_Museum
-tyranny - http://dbpedia.org/resource/Tyrant
-superpower - http://dbpedia.org/resource/Superpower
-protective tariff - http://dbpedia.org/resource/Tariff
-farquhar group - http://dbpedia.org/resource/Farquhar_Group
-enderbury - http://dbpedia.org/resource/Enderbury_Island
-south carolina - http://dbpedia.org/resource/South_Carolina
-adoption - http://dbpedia.org/resource/Adoption
-latin - http://dbpedia.org/resource/Latin
-yukon territory - http://dbpedia.org/resource/Yukon
-historical atlas - http://dbpedia.org/resource/Historical_atlas
-gentleman - http://dbpedia.org/resource/Gentry
-global power - http://dbpedia.org/resource/Great_power
-james brooke - http://dbpedia.org/resource/James_Brooke
-education - http://dbpedia.org/resource/Education
-signify - http://dbpedia.org/resource/Signify
-christianity - http://dbpedia.org/resource/Christianity
-industrial revolution - http://dbpedia.org/resource/Industrial_Revolution
-industrialist - http://dbpedia.org/resource/Industrial_Revolution
-afghan war - http://dbpedia.org/resource/Second_Anglo-Afghan_War
-sindh - http://dbpedia.org/resource/Sindh
-sudan - http://dbpedia.org/resource/Sudan
-patan - http://dbpedia.org/resource/Patan_district
-electronic - http://dbpedia.org/resource/Electronics
-monarchical - http://dbpedia.org/resource/Monarchy
-zambia - http://dbpedia.org/resource/Zambia
-social darwinism - http://dbpedia.org/resource/Social_Darwinism
-portrait - http://dbpedia.org/resource/Portrait
-eye - http://dbpedia.org/resource/Tropical_cyclone
-kharsawan - http://dbpedia.org/resource/Kharsawan
-ball - http://dbpedia.org/resource/Cricket_ball
-tehri garhwal - http://dbpedia.org/resource/Tehri_Garhwal_district
-hegemon - http://dbpedia.org/resource/Hegemony
-quebec - http://dbpedia.org/resource/Quebec_City
-john darwin - http://dbpedia.org/resource/John_Darwin_disappearance_case
-antarctic peninsula - http://dbpedia.org/resource/Antarctic_Peninsula
-tinker tailor soldier spy - http://dbpedia.org/resource/Tinker_Tailor_Soldier_Spy
-hyderabad nizam - http://dbpedia.org/resource/Nizam_of_Hyderabad
-queen - http://dbpedia.org/resource/Queen_regnant
-british army - http://dbpedia.org/resource/British_Army
-anglicized - http://dbpedia.org/resource/English_language
-bilaspur - http://dbpedia.org/resource/Kahlur
-taxpayer - http://dbpedia.org/resource/Taxpayer
-british honduras - http://dbpedia.org/resource/British_Honduras
-atlas - http://dbpedia.org/resource/Atlas
-communists - http://dbpedia.org/resource/Communism
-trust territory - http://dbpedia.org/resource/United_Nations_trust_territories
-private school - http://dbpedia.org/resource/Independent_school
-transvaal - http://dbpedia.org/resource/South_Africa
-love - http://dbpedia.org/resource/Love
-immigrant - http://dbpedia.org/resource/Immigration
-malaya federation - http://dbpedia.org/resource/Federation_of_Malaya
-mitford - http://dbpedia.org/resource/Mitford_family
-hitler - http://dbpedia.org/resource/Adolf_Hitler
-british protectorate - http://dbpedia.org/resource/British_protectorate
-oxford college - http://dbpedia.org/resource/University_of_Oxford
-farcical - http://dbpedia.org/resource/Farce
-gun - http://dbpedia.org/resource/Cannon
-pomp - http://dbpedia.org/resource/POMP
-artifact - http://dbpedia.org/resource/Magic_in_fiction
-coast - http://dbpedia.org/resource/Coast
-hume - http://dbpedia.org/resource/David_Hume
-madras presidency - http://dbpedia.org/resource/Madras_Presidency
-scramble - http://dbpedia.org/resource/Golf
-nevis - http://dbpedia.org/resource/Nevis
-nuclear - http://dbpedia.org/resource/Nuclear_weapon
-junagadh - http://dbpedia.org/resource/Junagadh
-parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
-law - http://dbpedia.org/resource/Common_law
-sovereign territory - http://dbpedia.org/resource/Sovereignty
-fragmentation - http://dbpedia.org/resource/Grenade
-english english - http://dbpedia.org/resource/English_language_in_England
-kalat - http://dbpedia.org/resource/Khanate_of_Kalat
-dhenkanal - http://dbpedia.org/resource/Dhenkanal_district
-jashpur - http://dbpedia.org/resource/Jashpur_district
-heard island - http://dbpedia.org/resource/Heard_Island_and_McDonald_Islands
-imperial general staff - http://dbpedia.org/resource/Chief_of_the_General_Staff_(United_Kingdom)
-longitude - http://dbpedia.org/resource/Longitude
-boer war - http://dbpedia.org/resource/Second_Boer_War
-claustrophobic - http://dbpedia.org/resource/Claustrophobia
-stalinist - http://dbpedia.org/resource/Stalinism
-samthar - http://dbpedia.org/resource/Samthar_State
-steel - http://dbpedia.org/resource/Steel
-guinea - http://dbpedia.org/resource/Guinea
-sandur - http://dbpedia.org/resource/Outwash_plain
-nazi - http://dbpedia.org/resource/Nazism
-great powers - http://dbpedia.org/resource/Great_power
-industrial - http://dbpedia.org/resource/Industrial_Revolution
-talcher - http://dbpedia.org/resource/Talcher
-anglicanism - http://dbpedia.org/resource/Church_of_England
-spirit - http://dbpedia.org/resource/Soul
-central australia - http://dbpedia.org/resource/Central_Australia
-chinese history - http://dbpedia.org/resource/History_of_China
-high authority - http://dbpedia.org/resource/High_Authority_of_the_European_Coal_and_Steel_Community
-german confederation - http://dbpedia.org/resource/German_Confederation
-defense - http://dbpedia.org/resource/Military
-assimilate - http://dbpedia.org/resource/Annexation
-pyramid - http://dbpedia.org/resource/Pyramid
-rajpipla - http://dbpedia.org/resource/Rajpipla
-margrave - http://dbpedia.org/resource/Margrave
-reservation - http://dbpedia.org/resource/Indian_reservation
-governor general - http://dbpedia.org/resource/Governor-General_of_India
-mewar - http://dbpedia.org/resource/Mewar
-circle - http://dbpedia.org/resource/Circle
-cayman islands - http://dbpedia.org/resource/Cayman_Islands
-john le carré - http://dbpedia.org/resource/John_le_Carré
-tinker - http://dbpedia.org/resource/Metalsmith
-macedonia - http://dbpedia.org/resource/North_Macedonia
-aundh - http://dbpedia.org/resource/Aundh_State
-single - http://dbpedia.org/resource/Phonograph_record
-monarchy - http://dbpedia.org/resource/Monarchy
-dependencies - http://dbpedia.org/resource/Guadeloupe
-fiction - http://dbpedia.org/resource/Fiction
-st. kitts - http://dbpedia.org/resource/Saint_Kitts
-liberal party - http://dbpedia.org/resource/Liberal_Party_of_Canada
-political freedom - http://dbpedia.org/resource/Political_freedom
-western australia - http://dbpedia.org/resource/Western_Australia
-companion series - http://dbpedia.org/resource/Spin-off_(media)
-veranda - http://dbpedia.org/resource/Veranda
-wallpaper - http://dbpedia.org/resource/Wallpaper
-pennsylvania - http://dbpedia.org/resource/Province_of_Pennsylvania
-jam sahib - http://dbpedia.org/resource/Jam_Sahib
-orphan - http://dbpedia.org/resource/Orphan
-british columbia - http://dbpedia.org/resource/British_Columbia
-regional power - http://dbpedia.org/resource/Regional_power
-bhutan - http://dbpedia.org/resource/Bhutan
-phoenix island - http://dbpedia.org/resource/Phoenix_Islands
-northern cyprus - http://dbpedia.org/resource/Northern_Cyprus
-toronto - http://dbpedia.org/resource/Toronto
-dreadnought - http://dbpedia.org/resource/Battleship
-britain - http://dbpedia.org/resource/British_Empire
-macauley island - http://dbpedia.org/resource/Macauley_Island
-balasinor - http://dbpedia.org/resource/Balasinor
-mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
-looter - http://dbpedia.org/resource/Looting
-particularism - http://dbpedia.org/resource/Political_particularism
-university college london - http://dbpedia.org/resource/University_College_London
-falklands - http://dbpedia.org/resource/Falkland_Islands
-west africa - http://dbpedia.org/resource/West_Africa
-shetland islands - http://dbpedia.org/resource/Shetland
-benares - http://dbpedia.org/resource/Varanasi
-edmund burke - http://dbpedia.org/resource/Edmund_Burke
-sinhalese buddhism - http://dbpedia.org/resource/Theravada
-sirmur - http://dbpedia.org/resource/Sirmur_State
-sri lankan conflict - http://dbpedia.org/resource/Sri_Lankan_Civil_War
-diego garcia - http://dbpedia.org/resource/Diego_Garcia
-gasoline - http://dbpedia.org/resource/Gasoline
-canton - http://dbpedia.org/resource/Glossary_of_vexillology
-nancy mitford - http://dbpedia.org/resource/Nancy_Mitford
-fanning island - http://dbpedia.org/resource/Tabuaeran
-economy - http://dbpedia.org/resource/Economy
-kolhapur - http://dbpedia.org/resource/Kolhapur
-hanover - http://dbpedia.org/resource/Hanover
-imperialist - http://dbpedia.org/resource/British_Empire
-middle temple - http://dbpedia.org/resource/Middle_Temple
-exploitation - http://dbpedia.org/resource/Exploitation_of_labour
-sarawak - http://dbpedia.org/resource/Sarawak
-connie sachs - http://dbpedia.org/resource/Connie_Sachs
-investor - http://dbpedia.org/resource/Investment
-gender - http://dbpedia.org/resource/Sexism
-greenwich - http://dbpedia.org/resource/Greenwich
-ontario - http://dbpedia.org/resource/Ontario
-poshina - http://dbpedia.org/resource/Poshina
-mutiny - http://dbpedia.org/resource/Indian_Rebellion_of_1857
-isolationist - http://dbpedia.org/resource/Isolationism
-indiana university press - http://dbpedia.org/resource/Indiana_University
-penderel - http://dbpedia.org/resource/Richard_Penderel
-gibraltar - http://dbpedia.org/resource/Gibraltar
-naval institute press - http://dbpedia.org/resource/United_States_Naval_Institute
-p.j. marshall - http://dbpedia.org/resource/P._J._Marshall
-south orkney islands - http://dbpedia.org/resource/South_Orkney_Islands
-mohandas gandhi - http://dbpedia.org/resource/Mahatma_Gandhi
-kurwai - http://dbpedia.org/resource/Kurwai
-roman empire - http://dbpedia.org/resource/Holy_Roman_Empire
-relief - http://dbpedia.org/resource/Welfare
-gwalior residency - http://dbpedia.org/resource/Gwalior_Residency
-deflation - http://dbpedia.org/resource/Deflation
-overproduction - http://dbpedia.org/resource/Overproduction
-bengkulu - http://dbpedia.org/resource/Bengkulu
-raja - http://dbpedia.org/resource/Maharaja
-patna - http://dbpedia.org/resource/Patna
-stark - http://dbpedia.org/resource/House_of_Night
-griffin - http://dbpedia.org/resource/Griffin
-roman - http://dbpedia.org/resource/Roman_Empire
-racist - http://dbpedia.org/resource/Racism
-sabah - http://dbpedia.org/resource/Sabah
-debtor - http://dbpedia.org/resource/Debtor
-mysore - http://dbpedia.org/resource/Mysore
-kermadec islands - http://dbpedia.org/resource/Kermadec_Islands
-bounty islands - http://dbpedia.org/resource/Bounty_Islands
-ascension island - http://dbpedia.org/resource/Ascension_Island
-idar - http://dbpedia.org/resource/Idar
-limited government - http://dbpedia.org/resource/Limited_government
-reflex - http://dbpedia.org/resource/Angle
-thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-merchant - http://dbpedia.org/resource/Merchant
-christ - http://dbpedia.org/resource/Jesus
-central india agency - http://dbpedia.org/resource/Central_India_Agency
-middle east - http://dbpedia.org/resource/Middle_East
-migration - http://dbpedia.org/resource/Human_migration
-modernization - http://dbpedia.org/resource/Modernization_theory
-japanese nationalist - http://dbpedia.org/resource/Japanese_nationalism
-savanur - http://dbpedia.org/resource/Savanur
-delaware - http://dbpedia.org/resource/Lenape
-west indies federation - http://dbpedia.org/resource/West_Indies_Federation
-swaziland - http://dbpedia.org/resource/Eswatini
-baudh - http://dbpedia.org/resource/Baudh_State
-greeks - http://dbpedia.org/resource/Ancient_Greece
-fundamentalism - http://dbpedia.org/resource/Fundamentalism
-morvi - http://dbpedia.org/resource/Morbi
-bijawar - http://dbpedia.org/resource/Bijawar_State
-ethnic conflict - http://dbpedia.org/resource/Ethnic_conflict
-athens - http://dbpedia.org/resource/Athens
-inflation - http://dbpedia.org/resource/Inflation
-southeast asia - http://dbpedia.org/resource/Southeast_Asia
-kochi - http://dbpedia.org/resource/Kochi
-moral responsibility - http://dbpedia.org/resource/Moral_responsibility
-india pakistan - http://dbpedia.org/resource/India_Pakistan
-niagara - http://dbpedia.org/resource/Niagara-on-the-Lake
-jaipur - http://dbpedia.org/resource/Jaipur
-federalism - http://dbpedia.org/resource/Federation
-baroda - http://dbpedia.org/resource/Vadodara
-baluchistan agency - http://dbpedia.org/resource/Baluchistan_Agency
-coin - http://dbpedia.org/resource/Coin
-shire - http://dbpedia.org/resource/Shire
-dungarpur - http://dbpedia.org/resource/Dungarpur
-bit - http://dbpedia.org/resource/Bit
-banaili - http://dbpedia.org/resource/Banaili
-chhota udaipur - http://dbpedia.org/resource/Chhota_Udaipur
-hebrides - http://dbpedia.org/resource/Hebrides
-parochial - http://dbpedia.org/resource/Presbyterian_polity
-thatcher - http://dbpedia.org/resource/Thatching
-maldives - http://dbpedia.org/resource/Maldives
-upper canada - http://dbpedia.org/resource/Upper_Canada
-prince edward islands - http://dbpedia.org/resource/Prince_Edward_Islands
-j.r. - http://dbpedia.org/resource/J._R._Ewing
-karl - http://dbpedia.org/resource/Karl_Marx
-indian government - http://dbpedia.org/resource/British_Raj
-marxian - http://dbpedia.org/resource/Marxism
-spy - http://dbpedia.org/resource/Espionage
-cuba - http://dbpedia.org/resource/Cuba
-aden - http://dbpedia.org/resource/Aden
-fossil - http://dbpedia.org/resource/Paleontology
-alienation - http://dbpedia.org/resource/Social_alienation
-california - http://dbpedia.org/resource/California
-khairagarh - http://dbpedia.org/resource/Khairagarh
-andrew porter - http://dbpedia.org/resource/Andrew_I._Porter
-entrepreneurship - http://dbpedia.org/resource/Entrepreneurship
-george vi - http://dbpedia.org/resource/George_VI
-sun - http://dbpedia.org/resource/Sun
-diagram - http://dbpedia.org/resource/Diagram
-professor - http://dbpedia.org/resource/Jurist
-manihiki atoll - http://dbpedia.org/resource/Manihiki
-interval - http://dbpedia.org/resource/Time
-meridian - http://dbpedia.org/resource/Meridian_arc
-ter - http://dbpedia.org/resource/Regional_rail
 republic - http://dbpedia.org/resource/Republic
-predator - http://dbpedia.org/resource/Predation
-denial - http://dbpedia.org/resource/Historical_revisionism
-free lunch - http://dbpedia.org/resource/Free_lunch
-british cameroon - http://dbpedia.org/resource/British_Cameroons
-minorca - http://dbpedia.org/resource/Menorca
-health - http://dbpedia.org/resource/Health_care
-john stuart mill - http://dbpedia.org/resource/John_Stuart_Mill
-tamils - http://dbpedia.org/resource/Tamils
-grim - http://dbpedia.org/resource/Church_grim
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-salomon islands - http://dbpedia.org/resource/Salomon_Islands
-ionian islands - http://dbpedia.org/resource/Ionian_Islands
-irish neutrality - http://dbpedia.org/resource/Irish_neutrality
-assault - http://dbpedia.org/resource/Amphibious_warfare
-prey - http://dbpedia.org/resource/Predation
-russia - http://dbpedia.org/resource/Russia
-political culture - http://dbpedia.org/resource/Political_culture
-rudyard kipling - http://dbpedia.org/resource/Rudyard_Kipling
-snub - http://dbpedia.org/resource/Conway_polyhedron_notation
+anglophile - http://dbpedia.org/resource/Anglophile
+foreign investment - http://dbpedia.org/resource/Foreign_direct_investment
+britannia royal naval college - http://dbpedia.org/resource/Britannia_Royal_Naval_College
+boer war - http://dbpedia.org/resource/Second_Boer_War
+farquhar group - http://dbpedia.org/resource/Farquhar_Group
+pax britannica - http://dbpedia.org/resource/Pax_Britannica
+kiribati - http://dbpedia.org/resource/Kiribati
+kalat - http://dbpedia.org/resource/Khanate_of_Kalat
+autonomous - http://dbpedia.org/resource/Autonomy
+george vi - http://dbpedia.org/resource/George_VI
+lenin - http://dbpedia.org/resource/Vladimir_Lenin
+iraq - http://dbpedia.org/resource/Iraq
+jaipur - http://dbpedia.org/resource/Jaipur
+hapsburgs - http://dbpedia.org/resource/House_of_Habsburg
+hegemon - http://dbpedia.org/resource/Hegemony
+jan morris - http://dbpedia.org/resource/Jan_Morris
+delos - http://dbpedia.org/resource/Delos
+chitral - http://dbpedia.org/resource/Chitral
+demetrias - http://dbpedia.org/resource/Demetrias
+j.r.r. tolkein - http://dbpedia.org/resource/J._R._R._Tolkien
+peros banhos - http://dbpedia.org/resource/Peros_Banhos
+responsible government - http://dbpedia.org/resource/Responsible_government
+moral principle - http://dbpedia.org/resource/Morality
+british guiana - http://dbpedia.org/resource/British_Guiana
+professor - http://dbpedia.org/resource/Jurist
+theory - http://dbpedia.org/resource/Theory
+kurundwad - http://dbpedia.org/resource/Kurundwad
+margrave - http://dbpedia.org/resource/Margrave
+field enterprises - http://dbpedia.org/resource/Field_Communications
+artifact - http://dbpedia.org/resource/Magic_in_fiction
+mirza - http://dbpedia.org/resource/Mirza
+autonomy - http://dbpedia.org/resource/Autonomy
+windward islands - http://dbpedia.org/resource/Windward_Islands
+edmund burke - http://dbpedia.org/resource/Edmund_Burke
+equality - http://dbpedia.org/resource/Egalitarianism
+fanning island - http://dbpedia.org/resource/Tabuaeran
+trinidad - http://dbpedia.org/resource/Trinidad
+judith - http://dbpedia.org/resource/Book_of_Judith
+fiction - http://dbpedia.org/resource/Fiction
+kotah - http://dbpedia.org/resource/Kota_State
+imitation - http://dbpedia.org/resource/Pastiche
+deceived - http://dbpedia.org/resource/Deceived
+south shetland islands - http://dbpedia.org/resource/South_Shetland_Islands
+british influence - http://dbpedia.org/resource/British_Influence
+angels - http://dbpedia.org/resource/People
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+lunavada - http://dbpedia.org/resource/Lunavada
+athmallik - http://dbpedia.org/resource/Athmallik
+trumpets - http://dbpedia.org/resource/Trumpet
+khaniyadhana - http://dbpedia.org/resource/Khaniyadhana
+capitalism - http://dbpedia.org/resource/Capitalism
+dhrangadhra - http://dbpedia.org/resource/Dhrangadhra
+nayagarh - http://dbpedia.org/resource/Nayagarh
+altruism - http://dbpedia.org/resource/Altruism
+saharan - http://dbpedia.org/resource/Sahara
+basutoland - http://dbpedia.org/resource/Basutoland
+austrian empire - http://dbpedia.org/resource/Habsburg_Monarchy
+animated gif - http://dbpedia.org/resource/GIF
+normandy - http://dbpedia.org/resource/Normandy
+securities - http://dbpedia.org/resource/Government_debt
+nancy mitford - http://dbpedia.org/resource/Nancy_Mitford
+suez - http://dbpedia.org/resource/Suez_Canal
+rally - http://dbpedia.org/resource/Protest
 sant - http://dbpedia.org/resource/Sant_Mat
+st. martin - http://dbpedia.org/resource/Saint_Martin
+german confederation - http://dbpedia.org/resource/German_Confederation
+p.j. marshall - http://dbpedia.org/resource/P._J._Marshall
+commonwealth - http://dbpedia.org/resource/Republic
+panama - http://dbpedia.org/resource/Panama
+deflation - http://dbpedia.org/resource/Deflation
+devgadh baria - http://dbpedia.org/resource/Devgadh_Baria
+yukon territory - http://dbpedia.org/resource/Yukon
+anarchy - http://dbpedia.org/resource/Anarchism
+chamberlain - http://dbpedia.org/resource/Lord_Chamberlain
+annexed - http://dbpedia.org/resource/Annexation
+radio - http://dbpedia.org/resource/Radio
+law - http://dbpedia.org/resource/Common_law
+opprobrium - http://dbpedia.org/resource/Opprobrium_(band)
+wisdom - http://dbpedia.org/resource/Wisdom
+bhopal - http://dbpedia.org/resource/Bhopal
+samoa - http://dbpedia.org/resource/Samoa
+rings - http://dbpedia.org/resource/Sonic_the_Hedgehog
+monarchical - http://dbpedia.org/resource/Monarchy
+eritrea - http://dbpedia.org/resource/Eritrea
+spirit - http://dbpedia.org/resource/Soul
+ali rajpur - http://dbpedia.org/resource/Alirajpur_State
+gunroom - http://dbpedia.org/resource/Gunroom
+cuba - http://dbpedia.org/resource/Cuba
+mehtar - http://dbpedia.org/resource/Chitral_(princely_state)
+unemployment - http://dbpedia.org/resource/Unemployment
+tinker - http://dbpedia.org/resource/Metalsmith
+khan - http://dbpedia.org/resource/Caravanserai
+st. lucia - http://dbpedia.org/resource/Saint_Lucia
+grenada - http://dbpedia.org/resource/Grenada
+listed - http://dbpedia.org/resource/Listed_building
+patiala - http://dbpedia.org/resource/Patiala
+west africa - http://dbpedia.org/resource/West_Africa
+aundh - http://dbpedia.org/resource/Aundh_State
+bhutan - http://dbpedia.org/resource/Bhutan
+free enterprise - http://dbpedia.org/resource/Capitalism
+qatar - http://dbpedia.org/resource/India
+gender - http://dbpedia.org/resource/Sexism
+reflex - http://dbpedia.org/resource/Angle
+indian government - http://dbpedia.org/resource/British_Raj
+eye - http://dbpedia.org/resource/Tropical_cyclone
+phoenix group - http://dbpedia.org/resource/Phoenix_Islands
+northern cyprus - http://dbpedia.org/resource/Northern_Cyprus
+gwalior residency - http://dbpedia.org/resource/Gwalior_Residency
+york - http://dbpedia.org/resource/York
+kalahandi - http://dbpedia.org/resource/Kalahandi_district
+nyasaland - http://dbpedia.org/resource/Nyasaland
+awkward - http://dbpedia.org/resource/Awkward_(TV_series)
+morgan - http://dbpedia.org/resource/Morgan_Grimes
+adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
+political culture - http://dbpedia.org/resource/Political_culture
+sakti - http://dbpedia.org/resource/Shakti
+bounty islands - http://dbpedia.org/resource/Bounty_Islands
+eton - http://dbpedia.org/resource/Eton_College
+indian ocean - http://dbpedia.org/resource/Indian_Ocean
+portugal - http://dbpedia.org/resource/Portuguese_Empire
+baroda - http://dbpedia.org/resource/Vadodara
+archipelago - http://dbpedia.org/resource/Archipelago
+iran - http://dbpedia.org/resource/Iran
+maler kotla - http://dbpedia.org/resource/Malerkotla_State
+redone - http://dbpedia.org/resource/RedOne
+nauru - http://dbpedia.org/resource/Nauru
+barbary pirates - http://dbpedia.org/resource/Barbary_pirates
+fundamentalism - http://dbpedia.org/resource/Fundamentalism
+chronicler - http://dbpedia.org/resource/Chronicle
+j.m. roberts - http://dbpedia.org/resource/John_Roberts_(historian)
+limited government - http://dbpedia.org/resource/Limited_government
+imperialism - http://dbpedia.org/resource/British_Empire
+colonies - http://dbpedia.org/resource/Crown_colony
+british dominions - http://dbpedia.org/resource/Dominion
+john le carré - http://dbpedia.org/resource/John_le_Carré
+baoni - http://dbpedia.org/resource/Kadaura
+malaya - http://dbpedia.org/resource/British_Malaya
+bbc - http://dbpedia.org/resource/BBC
+seeley - http://dbpedia.org/resource/Seeley_Booth
+rajgarh - http://dbpedia.org/resource/Rajgarh_district
+flag - http://dbpedia.org/resource/Flag
+manavadar - http://dbpedia.org/resource/Manavadar
+assault - http://dbpedia.org/resource/Amphibious_warfare
+ideology - http://dbpedia.org/resource/Ideology
+cook islands - http://dbpedia.org/resource/Cook_Islands
+panama canal zone - http://dbpedia.org/resource/Panama_Canal
+south orkney islands - http://dbpedia.org/resource/South_Orkney_Islands
+tyre - http://dbpedia.org/resource/Tire
+czechoslovakia - http://dbpedia.org/resource/Czechoslovakia
+khambhat - http://dbpedia.org/resource/Khambhat
+austria - http://dbpedia.org/resource/Austria
+dominica - http://dbpedia.org/resource/Dominica
+horror - http://dbpedia.org/resource/Horror_film
+henderson island - http://dbpedia.org/resource/Henderson_Island_(Pitcairn_Islands)
+xenophobia - http://dbpedia.org/resource/Xenophobia
+bijawar - http://dbpedia.org/resource/Bijawar_State
+wankaner - http://dbpedia.org/resource/Wankaner
+mediaeval - http://dbpedia.org/resource/Middle_Ages
+francophone - http://dbpedia.org/resource/French_language
+russia - http://dbpedia.org/resource/Russia
+ascension island - http://dbpedia.org/resource/Ascension_Island
+whites - http://dbpedia.org/resource/White_people
+suket - http://dbpedia.org/resource/Suket_State
+atlas - http://dbpedia.org/resource/Atlas
+particularism - http://dbpedia.org/resource/Political_particularism
+enumerated powers - http://dbpedia.org/resource/Enumerated_powers_(United_States)
+regional power - http://dbpedia.org/resource/Regional_power
+gondal - http://dbpedia.org/resource/Gondal_State
+taste - http://dbpedia.org/resource/Taste
+sinhalese - http://dbpedia.org/resource/Sri_Lanka
+surgana - http://dbpedia.org/resource/Surgana
+daspalla - http://dbpedia.org/resource/Dashapalla
+nicaragua - http://dbpedia.org/resource/Nicaragua
+sarila - http://dbpedia.org/resource/Sarila
+christopher bayly - http://dbpedia.org/resource/Christopher_Bayly
+nabha - http://dbpedia.org/resource/Nabha
+claustrophobic - http://dbpedia.org/resource/Claustrophobia
+crucible - http://dbpedia.org/resource/Crucible
+life science - http://dbpedia.org/resource/Biology
+innovation - http://dbpedia.org/resource/Innovation
+salomon islands - http://dbpedia.org/resource/Salomon_Islands
+heritage - http://dbpedia.org/resource/History
+umm al qawain - http://dbpedia.org/resource/Umm_Al_Quwain
+oscar parkes - http://dbpedia.org/resource/Oscar_Parkes
+defense - http://dbpedia.org/resource/Military
+bastar - http://dbpedia.org/resource/Bastar_district
+imperial war museum - http://dbpedia.org/resource/Imperial_War_Museum
+health - http://dbpedia.org/resource/Health_care
+judge - http://dbpedia.org/resource/Judge
+time zone - http://dbpedia.org/resource/Time_zone
+paper - http://dbpedia.org/resource/Paper
+moon - http://dbpedia.org/resource/Moon
+kurt wolff - http://dbpedia.org/resource/Kurt_Wolff_(publisher)
+alchemy - http://dbpedia.org/resource/Alchemy
+st. kitts - http://dbpedia.org/resource/Saint_Kitts
+southern rhodesia - http://dbpedia.org/resource/Rhodesia
+roman - http://dbpedia.org/resource/Roman_Empire
+british somaliland - http://dbpedia.org/resource/British_Somaliland
+pomp - http://dbpedia.org/resource/POMP
+aus - http://dbpedia.org/resource/Australia
+immutable - http://dbpedia.org/resource/Suspect_classification
+greece - http://dbpedia.org/resource/Ancient_Greece
+dateline - http://dbpedia.org/resource/International_Date_Line
+jamaica - http://dbpedia.org/resource/Jamaica
+separatist movements - http://dbpedia.org/resource/Separatism
+corinth - http://dbpedia.org/resource/Corinth
+string - http://dbpedia.org/resource/String_instrument
+somalis - http://dbpedia.org/resource/Somalia
+sabah - http://dbpedia.org/resource/Sabah
+trade surpluses - http://dbpedia.org/resource/Balance_of_trade
+northern ireland - http://dbpedia.org/resource/Northern_Ireland
+cocos keeling islands - http://dbpedia.org/resource/Cocos_(Keeling)_Islands
+prince edward island - http://dbpedia.org/resource/Prince_Edward_Island
+delaware - http://dbpedia.org/resource/Lenape
+tokelau - http://dbpedia.org/resource/Tokelau
+william beinart - http://dbpedia.org/resource/William_Beinart
+sawantvadi - http://dbpedia.org/resource/Sawantwadi_taluka
+trilogy - http://dbpedia.org/resource/Trilogy
+patan - http://dbpedia.org/resource/Patan_district
+hitler - http://dbpedia.org/resource/Adolf_Hitler
+elice - http://dbpedia.org/resource/Elice
+japanese nationalist - http://dbpedia.org/resource/Japanese_nationalism
+anti americanism - http://dbpedia.org/resource/Anti-Americanism
+privy council - http://dbpedia.org/resource/Privy_council
+slaughters - http://dbpedia.org/resource/Slaughters,_Kentucky
+living fossils - http://dbpedia.org/resource/Living_fossil
+ionian islands - http://dbpedia.org/resource/Ionian_Islands
+americas - http://dbpedia.org/resource/New_World
+belize - http://dbpedia.org/resource/British_Honduras
+kevin kenny - http://dbpedia.org/resource/Kevin_Kenny
+torawati - http://dbpedia.org/resource/Torawati
+economic development - http://dbpedia.org/resource/Economic_growth
+american revolution - http://dbpedia.org/resource/American_Revolution
+wogs - http://dbpedia.org/resource/Wog
+individual liberty - http://dbpedia.org/resource/Liberty
+solution - http://dbpedia.org/resource/Malta
+rodrigues - http://dbpedia.org/resource/Rodrigues
+revolt - http://dbpedia.org/resource/Revolution
+caricature - http://dbpedia.org/resource/Caricature
+malawi - http://dbpedia.org/resource/Malawi
+connie sachs - http://dbpedia.org/resource/Connie_Sachs
+peace - http://dbpedia.org/resource/Peace
+christianity - http://dbpedia.org/resource/Christianity
+pratapgarh - http://dbpedia.org/resource/Pratapgarh_Kingdom
+madras presidency - http://dbpedia.org/resource/Madras_Presidency
+prejudice - http://dbpedia.org/resource/Racism
+leninism - http://dbpedia.org/resource/Leninism
+rwanda - http://dbpedia.org/resource/Rwanda
+nandgaon - http://dbpedia.org/resource/Rajnandgaon
+industrial - http://dbpedia.org/resource/Industrial_Revolution
+jaora - http://dbpedia.org/resource/Jaora
+british antarctic territory - http://dbpedia.org/resource/British_Antarctic_Territory
+union jack - http://dbpedia.org/resource/Union_Jack
+jutland - http://dbpedia.org/resource/Duchy_of_Schleswig
+feudal - http://dbpedia.org/resource/Feudalism
+gallipoli - http://dbpedia.org/resource/Gallipoli
+sangli - http://dbpedia.org/resource/Sangli
+soviet - http://dbpedia.org/resource/Soviet_Union
+british empire - http://dbpedia.org/resource/British_Raj
+american heritage publishing - http://dbpedia.org/resource/American_Heritage_(magazine)
+superpower - http://dbpedia.org/resource/Superpower
+zanzibar - http://dbpedia.org/resource/Zanzibar
+british cameroon - http://dbpedia.org/resource/British_Cameroons
+looters - http://dbpedia.org/resource/Looting
+j.r. - http://dbpedia.org/resource/J._R._Ewing
+penang - http://dbpedia.org/resource/Penang
+cyprus - http://dbpedia.org/resource/Cyprus
+moral - http://dbpedia.org/resource/Morality
+trade deficits - http://dbpedia.org/resource/Balance_of_trade
+morvi - http://dbpedia.org/resource/Morbi
+tamils - http://dbpedia.org/resource/Tamils
+coast - http://dbpedia.org/resource/Coast
+sikkim - http://dbpedia.org/resource/Sikkim
+antipodes islands - http://dbpedia.org/resource/Antipodes_Islands
+iq - http://dbpedia.org/resource/Intelligence_quotient
+rampur - http://dbpedia.org/resource/Rampur_State
+radicals - http://dbpedia.org/resource/Left-wing_politics
+economy - http://dbpedia.org/resource/Economy
+free trade - http://dbpedia.org/resource/Free_trade
+function - http://dbpedia.org/resource/Role
+thakore sahib - http://dbpedia.org/resource/Thakur_(title)
+rewah - http://dbpedia.org/resource/Rewa_(princely_state)
+niue - http://dbpedia.org/resource/Niue
+historiography - http://dbpedia.org/resource/Historiography
+bharat - http://dbpedia.org/resource/India
+migration - http://dbpedia.org/resource/Human_migration
+immigrants - http://dbpedia.org/resource/Immigration
+garha - http://dbpedia.org/resource/Garha
+british commonwealth - http://dbpedia.org/resource/British_Empire
+cooch behar - http://dbpedia.org/resource/Cooch_Behar
+isolationist - http://dbpedia.org/resource/Isolationism
+campbell island - http://dbpedia.org/resource/Campbell_Island,_New_Zealand
+voltaire - http://dbpedia.org/resource/Voltaire
+domains - http://dbpedia.org/resource/Han_system
+ideal - http://dbpedia.org/resource/Theory_of_forms
+knopf - http://dbpedia.org/resource/Random_House
+andaman islands - http://dbpedia.org/resource/Andaman_Islands
+sun - http://dbpedia.org/resource/Sun
+somali pirates - http://dbpedia.org/resource/Piracy_off_the_coast_of_Somalia
+prime meridian - http://dbpedia.org/resource/Prime_meridian
+khilchipur - http://dbpedia.org/resource/Khilchipur
+emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
+education - http://dbpedia.org/resource/Education
+kermadec islands - http://dbpedia.org/resource/Kermadec_Islands
+tories - http://dbpedia.org/resource/Tory
+darbhanga - http://dbpedia.org/resource/Darbhanga
+turk - http://dbpedia.org/resource/Ottoman_Empire
+british colonies - http://dbpedia.org/resource/British_Empire
+arthur - http://dbpedia.org/resource/King_Arthur
+midway island - http://dbpedia.org/resource/Midway_Atoll
+muscat - http://dbpedia.org/resource/Muscat_(grape)
+kangra - http://dbpedia.org/resource/Kangra_district
+queen elizabeth ii - http://dbpedia.org/resource/Elizabeth_II
+vijaynagar - http://dbpedia.org/resource/Vijayanagara_Empire
+chhuikhadan - http://dbpedia.org/resource/Chhuikhadan
+diego garcia - http://dbpedia.org/resource/Diego_Garcia
+sphere - http://dbpedia.org/resource/Sphere_of_influence
+meridian - http://dbpedia.org/resource/Meridian_arc
+east africa - http://dbpedia.org/resource/Africa
+soviet union - http://dbpedia.org/resource/Soviet_Union
+nineveh - http://dbpedia.org/resource/Nineveh
+british protectorate - http://dbpedia.org/resource/British_protectorate
+hungary - http://dbpedia.org/resource/Hungary
+dalziel - http://dbpedia.org/resource/Dalziel_RFC
+central australia - http://dbpedia.org/resource/Central_Australia
+jaisalmer - http://dbpedia.org/resource/Jaisalmer
+junagadh - http://dbpedia.org/resource/Junagadh
+nicobar islands - http://dbpedia.org/resource/Nicobar_Islands
+cayman islands - http://dbpedia.org/resource/Cayman_Islands
+gesture - http://dbpedia.org/resource/Salute
+diego alvarez - http://dbpedia.org/resource/Diego_Alvarez_(Chander_Pahar)
+heart - http://dbpedia.org/resource/Cardiovascular_disease
+concentration - http://dbpedia.org/resource/Internment
+phulera - http://dbpedia.org/resource/Phulera
+human - http://dbpedia.org/resource/Human_nature
+bengkulu - http://dbpedia.org/resource/Bengkulu
+antarctic peninsula - http://dbpedia.org/resource/Antarctic_Peninsula
+thailand - http://dbpedia.org/resource/Thailand
+salt cay - http://dbpedia.org/resource/Blue_Lagoon_Island
+argentina - http://dbpedia.org/resource/Argentina
+colony - http://dbpedia.org/resource/Crown_colony
+racism - http://dbpedia.org/resource/Racism
+kharan - http://dbpedia.org/resource/Kharan_District
+inaccessible island - http://dbpedia.org/resource/Inaccessible_Island
+british india - http://dbpedia.org/resource/British_Raj
+carrier - http://dbpedia.org/resource/Aircraft_carrier
+toronto - http://dbpedia.org/resource/Toronto
+dhenkanal - http://dbpedia.org/resource/Dhenkanal_district
+raja - http://dbpedia.org/resource/Maharaja
+thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+parochial - http://dbpedia.org/resource/Presbyterian_polity
+danger islands - http://dbpedia.org/resource/Danger_Islands
+pitcairn island - http://dbpedia.org/resource/Pitcairn_Islands
+latin - http://dbpedia.org/resource/Latin
+hanover - http://dbpedia.org/resource/Hanover
+charkhari - http://dbpedia.org/resource/Charkhari_State
+st. helena - http://dbpedia.org/resource/Napoleon
+artifacts - http://dbpedia.org/resource/Magic_in_fiction
+german empire - http://dbpedia.org/resource/German_Empire
+lag - http://dbpedia.org/resource/Lag
+british economy - http://dbpedia.org/resource/Economic_history_of_the_United_Kingdom
+brian lapping - http://dbpedia.org/resource/Brian_Lapping
+founding fathers - http://dbpedia.org/resource/Founding_Fathers_of_the_United_States
+quakers - http://dbpedia.org/resource/Quakers
+palestine - http://dbpedia.org/resource/State_of_Palestine
+fear - http://dbpedia.org/resource/Fear
+jewish immigration - http://dbpedia.org/resource/Aliyah
+animation - http://dbpedia.org/resource/Animation
+sri lankan conflict - http://dbpedia.org/resource/Sri_Lankan_Civil_War
+western samoa - http://dbpedia.org/resource/Samoa
+bencoolen - http://dbpedia.org/resource/Bengkulu
+vanguard - http://dbpedia.org/resource/Avant-garde
+de jure - http://dbpedia.org/resource/De_jure
+tuvalu - http://dbpedia.org/resource/Tuvalu
+mohandas gandhi - http://dbpedia.org/resource/Mahatma_Gandhi
+thomas babington macaulay - http://dbpedia.org/resource/Thomas_Babington_Macaulay
+balasinor - http://dbpedia.org/resource/Balasinor
+transvaal - http://dbpedia.org/resource/South_Africa
+stark - http://dbpedia.org/resource/House_of_Night
+english architecture - http://dbpedia.org/resource/Architecture_of_England
+india pakistan - http://dbpedia.org/resource/India_Pakistan
+capitalist - http://dbpedia.org/resource/Capitalism
+khaniadhana - http://dbpedia.org/resource/Khaniadhana_State
+kapurthala - http://dbpedia.org/resource/Kapurthala_State
+soviet russian - http://dbpedia.org/resource/Soviet_Union
+federal system - http://dbpedia.org/resource/Federation
+british virgin islands - http://dbpedia.org/resource/British_Virgin_Islands
+swaziland - http://dbpedia.org/resource/Eswatini
+tongareva - http://dbpedia.org/resource/Penrhyn_atoll
+persian gulf - http://dbpedia.org/resource/Persian_Gulf
+corrosive - http://dbpedia.org/resource/Corrosion
+south sandwich islands - http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+slow fade - http://dbpedia.org/resource/Slow_Fade
+rome - http://dbpedia.org/resource/Holy_See
+hindu - http://dbpedia.org/resource/Hindus
+athens - http://dbpedia.org/resource/Athens
+canton - http://dbpedia.org/resource/Glossary_of_vexillology
+headland - http://dbpedia.org/resource/Headlands_and_bays
+historical atlas - http://dbpedia.org/resource/Historical_atlas
+mutiny - http://dbpedia.org/resource/Indian_Rebellion_of_1857
+liberty - http://dbpedia.org/resource/Liberty
+hume - http://dbpedia.org/resource/David_Hume
+porbandar - http://dbpedia.org/resource/Porbandar
+buddhist - http://dbpedia.org/resource/Buddhism
+ontario - http://dbpedia.org/resource/Ontario
+changbhakar - http://dbpedia.org/resource/Changbhakar
+moghul empire - http://dbpedia.org/resource/Mughal_Empire
+royal observatory - http://dbpedia.org/resource/Paris_Observatory
+hellenistic - http://dbpedia.org/resource/Hellenistic_period
+hull island - http://dbpedia.org/resource/Orona
+mare nostrum - http://dbpedia.org/resource/Mare_Nostrum
+sirohi - http://dbpedia.org/resource/Sirohi
+indore - http://dbpedia.org/resource/Indore
+duckworth - http://dbpedia.org/resource/Duckworth_Books
+natural rights - http://dbpedia.org/resource/Natural_law
+christmas island - http://dbpedia.org/resource/Kiribati
+ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
+holy roman emperors - http://dbpedia.org/resource/Holy_Roman_Emperor
+proletarians - http://dbpedia.org/resource/Proletariat
+condominium - http://dbpedia.org/resource/Anglo-Egyptian_Sudan
+fragmentation - http://dbpedia.org/resource/Grenade
+bhor - http://dbpedia.org/resource/Bhor_State
+channel islands - http://dbpedia.org/resource/Channel_Islands
+monolingual - http://dbpedia.org/resource/Tower_of_Babel
+truth - http://dbpedia.org/resource/Truth
+trustee - http://dbpedia.org/resource/Trustee
+bansda - http://dbpedia.org/resource/Vansda
+british garrison - http://dbpedia.org/resource/Garrison
+imperialist - http://dbpedia.org/resource/British_Empire
+socialism - http://dbpedia.org/resource/Socialism
+ratlam - http://dbpedia.org/resource/Ratlam
+virtue - http://dbpedia.org/resource/Morality
+finance - http://dbpedia.org/resource/Finance
+denial - http://dbpedia.org/resource/Historical_revisionism
+coral sea islands territory - http://dbpedia.org/resource/Coral_Sea_Islands
+veranda - http://dbpedia.org/resource/Veranda
+marxists - http://dbpedia.org/resource/Marxism
+freedom - http://dbpedia.org/resource/Liberty
+dreadnought - http://dbpedia.org/resource/Battleship
+tehri garhwal - http://dbpedia.org/resource/Tehri_Garhwal_district
+ethnic discrimination - http://dbpedia.org/resource/Discrimination
+transit instrument - http://dbpedia.org/resource/Transit_instrument
+spy - http://dbpedia.org/resource/Espionage
+federation - http://dbpedia.org/resource/Federation
+aleutians - http://dbpedia.org/resource/Aleutian_Islands_campaign
+irish neutrality - http://dbpedia.org/resource/Irish_neutrality
+circus - http://dbpedia.org/resource/Circus
+radhanpur - http://dbpedia.org/resource/Radhanpur
+sumatra - http://dbpedia.org/resource/Sumatra
+democratic party - http://dbpedia.org/resource/History_of_the_United_States_Democratic_Party
+rhode island - http://dbpedia.org/resource/Rhode_Island
+lanka - http://dbpedia.org/resource/Sri_Lanka
+leninist - http://dbpedia.org/resource/Leninism
+united arab emirates - http://dbpedia.org/resource/United_Arab_Emirates
+brunei protectorate - http://dbpedia.org/resource/Brunei
+faith - http://dbpedia.org/resource/Religion
+newfoundland - http://dbpedia.org/resource/Newfoundland_Colony
+zimbabwe - http://dbpedia.org/resource/Zimbabwe
+lease - http://dbpedia.org/resource/Lease
+northwest territories - http://dbpedia.org/resource/Northwest_Territory
+gaurihar - http://dbpedia.org/resource/Gaurihar_State
+banswara - http://dbpedia.org/resource/Banswara
+torch - http://dbpedia.org/resource/Flashlight
+jashpur - http://dbpedia.org/resource/Jashpur_district
+fair play - http://dbpedia.org/resource/Sportsmanship
+pax romana - http://dbpedia.org/resource/Pax_Romana
+christ - http://dbpedia.org/resource/Jesus
+farcical - http://dbpedia.org/resource/Farce
+raigarh - http://dbpedia.org/resource/Raigarh
+piraeus - http://dbpedia.org/resource/Piraeus
+capitalist exploitation - http://dbpedia.org/resource/Exploitation_of_labour
+maharaja - http://dbpedia.org/resource/Maharaja
+travancore - http://dbpedia.org/resource/Travancore
+nawab - http://dbpedia.org/resource/Nawab
+oeno island - http://dbpedia.org/resource/Oeno_Island
+ducie island - http://dbpedia.org/resource/Ducie_Island
+fred anderson - http://dbpedia.org/resource/Fred_D._Anderson
+mediterranian - http://dbpedia.org/resource/Mediterranean_Sea
+labuan - http://dbpedia.org/resource/Labuan
+sunday island - http://dbpedia.org/resource/The_Island_(Sri_Lanka)
+nawanagar - http://dbpedia.org/resource/Nawanagar_State
+southwest africa - http://dbpedia.org/resource/German_South_West_Africa
+south asia - http://dbpedia.org/resource/South_Asia
+alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
+jodhpur - http://dbpedia.org/resource/Jodhpurs
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_II
+anglo - http://dbpedia.org/resource/Anglo
+hampshire - http://dbpedia.org/resource/Hampshire
+sindh - http://dbpedia.org/resource/Sindh
+bismark - http://dbpedia.org/resource/Otto_von_Bismarck
+tripura - http://dbpedia.org/resource/Tripura
+sarawak - http://dbpedia.org/resource/Sarawak
+mahmud - http://dbpedia.org/resource/Mahmud_II
+athenian - http://dbpedia.org/resource/Athens
+karl - http://dbpedia.org/resource/Karl_Marx
+completeness - http://dbpedia.org/resource/Real_number
+signify - http://dbpedia.org/resource/Signify
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+bahama islands - http://dbpedia.org/resource/The_Bahamas
+tharad - http://dbpedia.org/resource/Tharad
+kushalgarh - http://dbpedia.org/resource/Kushalgarh
+citizenship - http://dbpedia.org/resource/Citizenship
+sierra leone - http://dbpedia.org/resource/Sierra_Leone
+narsingarh - http://dbpedia.org/resource/Narsingarh,_Tripura
+american decline - http://dbpedia.org/resource/American_decline
+election - http://dbpedia.org/resource/Election
+egmont islands - http://dbpedia.org/resource/Egmont_Islands
+niall ferguson - http://dbpedia.org/resource/Niall_Ferguson
+indian nationalist - http://dbpedia.org/resource/Indian_independence_movement
+ballard - http://dbpedia.org/resource/Ballard_Power_Systems
+chinese history - http://dbpedia.org/resource/History_of_China
+barbarism - http://dbpedia.org/resource/Barbarian
+debtor - http://dbpedia.org/resource/Debtor
+andrew porter - http://dbpedia.org/resource/Andrew_I._Porter
+great battles - http://dbpedia.org/resource/The_Great_Battles_(series)
+justification - http://dbpedia.org/resource/Defamation
+ceylonese - http://dbpedia.org/resource/Sri_Lanka
+imperial general staff - http://dbpedia.org/resource/Chief_of_the_General_Staff_(United_Kingdom)
+wallpaper - http://dbpedia.org/resource/Wallpaper
+curtis - http://dbpedia.org/resource/Notitia_de_actoribus_regis
+nazi - http://dbpedia.org/resource/Nazism
+kolhapur - http://dbpedia.org/resource/Kolhapur
+maharao - http://dbpedia.org/resource/Maharao
+british columbia - http://dbpedia.org/resource/British_Columbia
+somalia - http://dbpedia.org/resource/Somalia
+gilgit agency - http://dbpedia.org/resource/Gilgit_Agency
+joseph chamberlain - http://dbpedia.org/resource/Joseph_Chamberlain
+oath - http://dbpedia.org/resource/Oath
+jawhar - http://dbpedia.org/resource/Jawhar
+roman rule - http://dbpedia.org/resource/Ancient_Rome
+proletariat - http://dbpedia.org/resource/Proletariat
+siba - http://dbpedia.org/resource/Siba_State
+stalinist - http://dbpedia.org/resource/Stalinism
+burma - http://dbpedia.org/resource/Myanmar
+coin - http://dbpedia.org/resource/Coin
+sparta - http://dbpedia.org/resource/Sparta
+entrepreneurship - http://dbpedia.org/resource/Entrepreneurship
+grubby - http://dbpedia.org/resource/Grubby
+pirates - http://dbpedia.org/resource/Piracy
+communists - http://dbpedia.org/resource/Communism
+ghana - http://dbpedia.org/resource/Ghana
+constitution - http://dbpedia.org/resource/Constitution
+dhar - http://dbpedia.org/resource/Dhar
+brandenburg - http://dbpedia.org/resource/Brandenburg-Prussia
+kutch - http://dbpedia.org/resource/Kutch_district
+embassy - http://dbpedia.org/resource/Diplomatic_mission
+pathari - http://dbpedia.org/resource/Pathari
+minorca - http://dbpedia.org/resource/Menorca
+tyranny - http://dbpedia.org/resource/Tyrant
+ras al khaimah - http://dbpedia.org/resource/Emirate_of_Ras_Al_Khaimah
+arakan - http://dbpedia.org/resource/Rakhine_State
+gibraltar - http://dbpedia.org/resource/Gibraltar
+orange - http://dbpedia.org/resource/Orange_Revolution
+viceroy - http://dbpedia.org/resource/Governor-General_of_India
+amb - http://dbpedia.org/resource/Amb_Temples
+auckland islands - http://dbpedia.org/resource/Auckland_Islands
+celts - http://dbpedia.org/resource/Celts
+zambia - http://dbpedia.org/resource/Zambia
+gasoline - http://dbpedia.org/resource/Gasoline
+central india agency - http://dbpedia.org/resource/Central_India_Agency
+kenzie - http://dbpedia.org/resource/Kenzie_(songwriter)
+riding - http://dbpedia.org/resource/Electoral_district
+barbados - http://dbpedia.org/resource/Barbados
+walvis bay - http://dbpedia.org/resource/Walvis_Bay
+heard island - http://dbpedia.org/resource/Heard_Island_and_McDonald_Islands
+dominant - http://dbpedia.org/resource/Dominance_hierarchy
+moral responsibility - http://dbpedia.org/resource/Moral_responsibility
+victorian - http://dbpedia.org/resource/Victorian_era
+cargados carajos shoals - http://dbpedia.org/resource/St._Brandon
+bangladesh - http://dbpedia.org/resource/Bangladesh
+john darwin - http://dbpedia.org/resource/John_Darwin_disappearance_case
+antigua - http://dbpedia.org/resource/Antigua
+bahamas - http://dbpedia.org/resource/The_Bahamas
+encyclopedia - http://dbpedia.org/resource/Wikipedia
+saraikela - http://dbpedia.org/resource/Saraikela
+dewas - http://dbpedia.org/resource/Dewas
+nazi germany - http://dbpedia.org/resource/Nazism
+mysore - http://dbpedia.org/resource/Mysore
+ireland - http://dbpedia.org/resource/Ireland
+coral sea - http://dbpedia.org/resource/Coral_Sea
+manihiki atoll - http://dbpedia.org/resource/Manihiki
+garrauli - http://dbpedia.org/resource/Garrauli_State
+turks - http://dbpedia.org/resource/Ottoman_Empire
+macedonia - http://dbpedia.org/resource/North_Macedonia
+benares - http://dbpedia.org/resource/Varanasi
+bajana - http://dbpedia.org/resource/Bajana
+color barrier - http://dbpedia.org/resource/Racial_segregation
+internationalist - http://dbpedia.org/resource/Neoliberalism
+mewar - http://dbpedia.org/resource/Mewar
+malden island - http://dbpedia.org/resource/Malden_Island
+guinea - http://dbpedia.org/resource/Guinea
+darwinism - http://dbpedia.org/resource/Darwinism
+attica - http://dbpedia.org/resource/Attic_style
+jath - http://dbpedia.org/resource/Jat,_Sangli
+europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
+dominion - http://dbpedia.org/resource/Dominion_of_India
+british indian ocean territory - http://dbpedia.org/resource/British_Indian_Ocean_Territory
+steel - http://dbpedia.org/resource/Steel
+mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
+sudan - http://dbpedia.org/resource/Sudan
+turkish invasion - http://dbpedia.org/resource/Turkish_invasion_of_Cyprus
+montserrat - http://dbpedia.org/resource/Montserrat
+civilizing mission - http://dbpedia.org/resource/Civilizing_mission
+sitamau - http://dbpedia.org/resource/Sitamau
+sawai - http://dbpedia.org/resource/Sawai_(title)
+cosmoledo - http://dbpedia.org/resource/Cosmoledo
+poshina - http://dbpedia.org/resource/Poshina
+las bela - http://dbpedia.org/resource/Lasbela_District
+class envy - http://dbpedia.org/resource/Class_conflict
+gilbert islands - http://dbpedia.org/resource/Kiribati
+alipura - http://dbpedia.org/resource/Alipura_State
+bechuanaland - http://dbpedia.org/resource/Bechuanaland_Protectorate
+kenneth morgan - http://dbpedia.org/resource/Kenneth_O._Morgan
+j.a. hobson - http://dbpedia.org/resource/John_A._Hobson
+anachronistic - http://dbpedia.org/resource/Anachronism
+gardner island - http://dbpedia.org/resource/Nikumaroro
+cambay - http://dbpedia.org/resource/Cambay_State
+middle temple - http://dbpedia.org/resource/Middle_Temple
+market - http://dbpedia.org/resource/Free_market
+nicholas canny - http://dbpedia.org/resource/Nicholas_Canny
+california - http://dbpedia.org/resource/California
+penrhyn atoll - http://dbpedia.org/resource/Penrhyn_atoll
+mudhol - http://dbpedia.org/resource/Mudhol
+james madison - http://dbpedia.org/resource/James_Madison
+ramgarh - http://dbpedia.org/resource/Ramgarh_Raj
+eugenics - http://dbpedia.org/resource/Eugenics
+lesotho - http://dbpedia.org/resource/Basutoland
+fiji - http://dbpedia.org/resource/Fiji_(software)
+falklands - http://dbpedia.org/resource/Falkland_Islands
+norman - http://dbpedia.org/resource/Normans
+electronic - http://dbpedia.org/resource/Electronics
+guantanamo bay - http://dbpedia.org/resource/Guantanamo_Bay_Naval_Base
+pudukkottai - http://dbpedia.org/resource/Pudukkottai
+bilingual - http://dbpedia.org/resource/Multilingualism
+shire - http://dbpedia.org/resource/Shire
+british army - http://dbpedia.org/resource/British_Army
+penderel - http://dbpedia.org/resource/Richard_Penderel
+gentleman - http://dbpedia.org/resource/Gentry
+vanuatu - http://dbpedia.org/resource/Vanuatu
+chinese japanese - http://dbpedia.org/resource/Chinese_people_in_Japan
+upper canada - http://dbpedia.org/resource/Upper_Canada
+guyana - http://dbpedia.org/resource/Guyana
+massachusetts - http://dbpedia.org/resource/Massachusetts_Bay_Colony
+middle east - http://dbpedia.org/resource/Middle_East
+taxpayer - http://dbpedia.org/resource/Taxpayer
+datia - http://dbpedia.org/resource/Datia
+jind - http://dbpedia.org/resource/Jind
+lord howe island - http://dbpedia.org/resource/Lord_Howe_Island
+soldier - http://dbpedia.org/resource/British_Army
+kharsawan - http://dbpedia.org/resource/Kharsawan
+rural - http://dbpedia.org/resource/Rural_area
+tonga - http://dbpedia.org/resource/Tanga_(carriage)
+scramble - http://dbpedia.org/resource/Golf
+afghan war - http://dbpedia.org/resource/Second_Anglo-Afghan_War
+french occupation - http://dbpedia.org/resource/Napoleonic_Wars
+shetland islands - http://dbpedia.org/resource/Shetland
+west indies - http://dbpedia.org/resource/West_Indies
+north west frontier - http://dbpedia.org/resource/North-West_Frontier_Province
+naval institute press - http://dbpedia.org/resource/United_States_Naval_Institute
+patna - http://dbpedia.org/resource/Patna
+british coinage - http://dbpedia.org/resource/Coins_of_the_pound_sterling
+gambia - http://dbpedia.org/resource/The_Gambia
+dungarpur - http://dbpedia.org/resource/Dungarpur
+darwin - http://dbpedia.org/resource/Darwin,_Northern_Territory
+civil war - http://dbpedia.org/resource/Civil_war
+piploda - http://dbpedia.org/resource/Piploda
+proconsuls - http://dbpedia.org/resource/Proconsul
+seychelles - http://dbpedia.org/resource/Seychelles
+phoenix islands - http://dbpedia.org/resource/Phoenix_Islands
+mcdonald islands - http://dbpedia.org/resource/Heard_Island_and_McDonald_Islands
+dangs - http://dbpedia.org/resource/Dangsan-dong
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+muhammadgarh - http://dbpedia.org/resource/Mohammadgarh_State
+working class - http://dbpedia.org/resource/Working_class
+21 guns - http://dbpedia.org/resource/21_Guns_(song)
+sovereign territory - http://dbpedia.org/resource/Sovereignty
+baraundha - http://dbpedia.org/resource/Baraundha
+vancouver - http://dbpedia.org/resource/Vancouver
+language education - http://dbpedia.org/resource/Language_education
+harper - http://dbpedia.org/resource/HarperCollins
+indiana university press - http://dbpedia.org/resource/Indiana_University
+kothi - http://dbpedia.org/resource/Kothi_(gender)
+leeward islands - http://dbpedia.org/resource/Leeward_Islands
+paradigmatic - http://dbpedia.org/resource/Paradigm
+maharana - http://dbpedia.org/resource/Maharaja
+hebrides - http://dbpedia.org/resource/Hebrides
+leaves - http://dbpedia.org/resource/Brexit
+lawa - http://dbpedia.org/resource/Lawa_people
+britain - http://dbpedia.org/resource/British_Empire
+greeks - http://dbpedia.org/resource/Ancient_Greece
+dutch east indies - http://dbpedia.org/resource/Dutch_East_India_Company
+heaven - http://dbpedia.org/resource/Heaven
+hong kong - http://dbpedia.org/resource/Hong_Kong
+interval - http://dbpedia.org/resource/Time
+assimilate - http://dbpedia.org/resource/Annexation
+sovereignty - http://dbpedia.org/resource/Sovereign_state
+protective tariffs - http://dbpedia.org/resource/Protectionism
+mirpur - http://dbpedia.org/resource/Mirpur_District
+holy roman empire - http://dbpedia.org/resource/Holy_Roman_Empire
+light - http://dbpedia.org/resource/Light_infantry
+hunza - http://dbpedia.org/resource/Hunza_Valley
+faridkot - http://dbpedia.org/resource/Faridkot_State
+northern territory - http://dbpedia.org/resource/Northern_Territory
+rudyard kipling - http://dbpedia.org/resource/Rudyard_Kipling
+starbuck island - http://dbpedia.org/resource/Starbuck_Island
+northern rhodesia - http://dbpedia.org/resource/Zambia
+european community - http://dbpedia.org/resource/European_Union
+instinct - http://dbpedia.org/resource/Instinct
+babi - http://dbpedia.org/resource/Babi_dynasty
+pennsylvania - http://dbpedia.org/resource/Province_of_Pennsylvania
+british crown - http://dbpedia.org/resource/British_Raj
+unitarians - http://dbpedia.org/resource/Unitarianism
+philip island - http://dbpedia.org/resource/Phillip_Island
+gwalior - http://dbpedia.org/resource/Gwalior
+south carolina - http://dbpedia.org/resource/South_Carolina
+greenwich - http://dbpedia.org/resource/Greenwich
+south african - http://dbpedia.org/resource/South_Africa
+agency - http://dbpedia.org/resource/Institution
+baudh - http://dbpedia.org/resource/Baudh_State
+sirmur - http://dbpedia.org/resource/Sirmur_State
+racist - http://dbpedia.org/resource/Racism
+jhalawar - http://dbpedia.org/resource/Jhalawar
+dartmouth - http://dbpedia.org/resource/Dartmouth_College
+khairagarh - http://dbpedia.org/resource/Khairagarh
+western australia - http://dbpedia.org/resource/Western_Australia
+jam sahib - http://dbpedia.org/resource/Jam_Sahib
+rana - http://dbpedia.org/resource/Pin_(professional_wrestling)
+constellation - http://dbpedia.org/resource/Constellation
+pal lahara - http://dbpedia.org/resource/Pal_Lahara_State
+shag island - http://dbpedia.org/resource/Shag_Island_(South_Australia)
+mayurbhanj - http://dbpedia.org/resource/Mayurbhanj_district
+tanzania - http://dbpedia.org/resource/Tanzania
+hindustan - http://dbpedia.org/resource/India
+folie à deux - http://dbpedia.org/resource/Folie_à_deux
+ball - http://dbpedia.org/resource/Cricket_ball
+wm roger louis - http://dbpedia.org/resource/William_Roger_Louis
+tonic - http://dbpedia.org/resource/Drug
+jammu - http://dbpedia.org/resource/Jammu
+nightingale island - http://dbpedia.org/resource/Nightingale_Island
+penguin - http://dbpedia.org/resource/Penguin
+protectionism - http://dbpedia.org/resource/Protectionism
+sarangarh - http://dbpedia.org/resource/Sarangarh
+hegemonic power - http://dbpedia.org/resource/Hegemony
+autocrat - http://dbpedia.org/resource/Autocracy
+islamic fascism - http://dbpedia.org/resource/Islamofascism
+european union - http://dbpedia.org/resource/European_Union
+provinces - http://dbpedia.org/resource/Province
+tristan da cunha - http://dbpedia.org/resource/Tristan_da_Cunha
+queensland - http://dbpedia.org/resource/Queensland
+kurwai - http://dbpedia.org/resource/Kurwai
+bloomsbury press - http://dbpedia.org/resource/Bloomsbury_Publishing
+dholpur - http://dbpedia.org/resource/Dholpur
+chicago - http://dbpedia.org/resource/Chicago
+monarchies - http://dbpedia.org/resource/Monarchy
+japanese empire - http://dbpedia.org/resource/Empire_of_Japan
+beri - http://dbpedia.org/resource/Beri,_Jhajjar
+demonetized - http://dbpedia.org/resource/Legal_tender
+blood - http://dbpedia.org/resource/Blood
+parliament - http://dbpedia.org/resource/Parliament_of_the_United_Kingdom
+ethiopia - http://dbpedia.org/resource/Ethiopia
+portrait - http://dbpedia.org/resource/Portrait
+partition - http://dbpedia.org/resource/Partition_of_India
+plain - http://dbpedia.org/resource/John_Major
+chhota udaipur - http://dbpedia.org/resource/Chhota_Udaipur
+hierarchy - http://dbpedia.org/resource/Hierarchy
+kamta - http://dbpedia.org/resource/Rangpuri_language
+deccan - http://dbpedia.org/resource/Deccan_Plateau
+wished - http://dbpedia.org/resource/Wished_(film)
+great power - http://dbpedia.org/resource/Great_power
+moghuls - http://dbpedia.org/resource/Mughal_Empire
+tolkein - http://dbpedia.org/resource/J._R._R._Tolkien
+south yemen - http://dbpedia.org/resource/South_Yemen
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+kalabagh - http://dbpedia.org/resource/Kalabagh
+nagod - http://dbpedia.org/resource/Nagod
+superpowers - http://dbpedia.org/resource/Superpower
+khairpur - http://dbpedia.org/resource/Khairpur
+queen - http://dbpedia.org/resource/Queen_regnant
+bombay - http://dbpedia.org/resource/Bombay_Presidency
+marxian - http://dbpedia.org/resource/Marxism
+robin winks - http://dbpedia.org/resource/Robin_Winks
+plato - http://dbpedia.org/resource/Plato
+edward vii - http://dbpedia.org/resource/Edward_VII
+salute - http://dbpedia.org/resource/Salute_state
+columbia - http://dbpedia.org/resource/Cuban_rumba
+private school - http://dbpedia.org/resource/Independent_school
+hegemony - http://dbpedia.org/resource/Hegemony
+macauley island - http://dbpedia.org/resource/Macauley_Island
+federated - http://dbpedia.org/resource/Federation
+liberal party - http://dbpedia.org/resource/Liberal_Party_of_Canada
+koriya - http://dbpedia.org/resource/Korea_State
+malacca - http://dbpedia.org/resource/Straits_Settlements
+barwani - http://dbpedia.org/resource/Barwani
+algeria - http://dbpedia.org/resource/Algeria
+swiss bank account - http://dbpedia.org/resource/Banking_in_Switzerland
+mahé island - http://dbpedia.org/resource/Mahé,_Seychelles
+presbyterians - http://dbpedia.org/resource/Presbyterianism
+griffin - http://dbpedia.org/resource/Griffin
+eugenic - http://dbpedia.org/resource/Eugenics
+longitude - http://dbpedia.org/resource/Longitude
+baroda residency - http://dbpedia.org/resource/Baroda_Residency
+sven - http://dbpedia.org/resource/Sweyn_II_of_Denmark
+arch - http://dbpedia.org/resource/Arch
+time zones - http://dbpedia.org/resource/Time_zone
+marxist - http://dbpedia.org/resource/Marxism
+race - http://dbpedia.org/resource/Racing
+baluchistan agency - http://dbpedia.org/resource/Baluchistan_Agency
+udaipur - http://dbpedia.org/resource/Udaipur
+weihai - http://dbpedia.org/resource/Weihai
+mitford - http://dbpedia.org/resource/Mitford_family
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
+virgin islands - http://dbpedia.org/resource/British_Virgin_Islands
+mcgraw hill - http://dbpedia.org/resource/McGraw-Hill_Education
+social darwinism - http://dbpedia.org/resource/Social_Darwinism
+british rule - http://dbpedia.org/resource/British_Raj
+civil wars - http://dbpedia.org/resource/Civil_war
+phoenix island - http://dbpedia.org/resource/Phoenix_Islands
+mole - http://dbpedia.org/resource/Nevus
+wisely - http://dbpedia.org/resource/Wisely_Series
+maldives - http://dbpedia.org/resource/Maldives
+agalega - http://dbpedia.org/resource/Agaléga
+companion series - http://dbpedia.org/resource/Spin-off_(media)
+chhatarpur - http://dbpedia.org/resource/Chhatarpur
+wei - http://dbpedia.org/resource/Cao_Wei
+ceylon - http://dbpedia.org/resource/Sri_Lanka
+university college london - http://dbpedia.org/resource/University_College_London
+predators - http://dbpedia.org/resource/Predation
+great powers - http://dbpedia.org/resource/Great_power
+ajaigarh - http://dbpedia.org/resource/Ajaigarh_State
+washington island - http://dbpedia.org/resource/Teraina
+random house - http://dbpedia.org/resource/Random_House
+mesopotamia - http://dbpedia.org/resource/Mesopotamia
+south africa - http://dbpedia.org/resource/South_Africa
+historian - http://dbpedia.org/resource/Historian
+federalism - http://dbpedia.org/resource/Federation
+op.cit - http://dbpedia.org/resource/Op._cit.
+continuous - http://dbpedia.org/resource/Probability_distribution
+paris - http://dbpedia.org/resource/Paris
+bharatpur - http://dbpedia.org/resource/Bharatpur_State
+samthar - http://dbpedia.org/resource/Samthar_State
+mosquito coast - http://dbpedia.org/resource/Mosquito_Coast
+british navy - http://dbpedia.org/resource/Royal_Navy
+dependencies - http://dbpedia.org/resource/Guadeloupe
+classical - http://dbpedia.org/resource/Classical_antiquity
+esc key - http://dbpedia.org/resource/Esc_key
+inflation - http://dbpedia.org/resource/Inflation
+roman empire - http://dbpedia.org/resource/Holy_Roman_Empire
+gold - http://dbpedia.org/resource/Gold_standard
+greek colonies - http://dbpedia.org/resource/Magna_Graecia
+banaili - http://dbpedia.org/resource/Banaili
+revolution - http://dbpedia.org/resource/French_Revolution
+american philosophical society - http://dbpedia.org/resource/American_Philosophical_Society
+maihar - http://dbpedia.org/resource/Maihar
+union jacks - http://dbpedia.org/resource/Union_Jack
+north carolina - http://dbpedia.org/resource/North_Carolina
+anglicanism - http://dbpedia.org/resource/Church_of_England
+aristocracy - http://dbpedia.org/resource/Aristocracy
+safety - http://dbpedia.org/resource/Safety
+radlett - http://dbpedia.org/resource/Radlett
+furniture - http://dbpedia.org/resource/Furniture
+st. vincent - http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines
+maryland - http://dbpedia.org/resource/Province_of_Maryland
+nevis - http://dbpedia.org/resource/Nevis
+slavery - http://dbpedia.org/resource/Slavery
+macedon - http://dbpedia.org/resource/Ancient_Macedonians
+austria hungary - http://dbpedia.org/resource/Austria-Hungary
+sonpur - http://dbpedia.org/resource/Sonepur_State
+queen victoria - http://dbpedia.org/resource/Queen_Victoria
+modern romans - http://dbpedia.org/resource/The_Call_(band)
+sydney island - http://dbpedia.org/resource/Manra_Island
+philippa levine - http://dbpedia.org/resource/Philippa_Levine
+john stuart mill - http://dbpedia.org/resource/John_Stuart_Mill
+spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+genius - http://dbpedia.org/resource/Genius
+bilingualism - http://dbpedia.org/resource/Multilingualism
+niagara - http://dbpedia.org/resource/Niagara-on-the-Lake
+ghazna - http://dbpedia.org/resource/Ghazni
+st. helena island - http://dbpedia.org/resource/Saint_Helena
+aelius aristides - http://dbpedia.org/resource/Aelius_Aristides
+admiral - http://dbpedia.org/resource/Admiral
+aden - http://dbpedia.org/resource/Aden
+kawardha - http://dbpedia.org/resource/Kawardha
+english history - http://dbpedia.org/resource/History_of_England
+tipra - http://dbpedia.org/resource/Tripura
+marxist leninist - http://dbpedia.org/resource/Marxism–Leninism
+savanur - http://dbpedia.org/resource/Savanur
+malta - http://dbpedia.org/resource/Malta
+capital - http://dbpedia.org/resource/Capital_city
+thakur - http://dbpedia.org/resource/Thakur_(title)
+willingly - http://dbpedia.org/resource/Willingly
+bye - http://dbpedia.org/resource/Glossary_of_tennis_terms
+prime minister - http://dbpedia.org/resource/Prime_minister
+transjordan - http://dbpedia.org/resource/Jordan
+namibia - http://dbpedia.org/resource/Namibia
+south wales - http://dbpedia.org/resource/South_Wales
+south australia - http://dbpedia.org/resource/South_Australia
+englishman - http://dbpedia.org/resource/British_people
+investment - http://dbpedia.org/resource/Investment
+gandhi - http://dbpedia.org/resource/Mahatma_Gandhi
+colonial power - http://dbpedia.org/resource/British_Empire
+tinker tailor soldier spy - http://dbpedia.org/resource/Tinker_Tailor_Soldier_Spy
+west indies federation - http://dbpedia.org/resource/West_Indies_Federation
+kochi - http://dbpedia.org/resource/Kochi
+falkland islands - http://dbpedia.org/resource/Falkland_Islands
+thatcher - http://dbpedia.org/resource/Thatching
+british honduras - http://dbpedia.org/resource/British_Honduras
+eternal law - http://dbpedia.org/resource/Thomas_Aquinas
+diagram - http://dbpedia.org/resource/Diagram
+international dateline - http://dbpedia.org/resource/International_Date_Line
+indian army - http://dbpedia.org/resource/British_Indian_Army
+dhrol - http://dbpedia.org/resource/Dhrol
+local government - http://dbpedia.org/resource/Local_government
+russian revolution - http://dbpedia.org/resource/Russian_Revolution
+mandate - http://dbpedia.org/resource/League_of_Nations_mandate
+alwar - http://dbpedia.org/resource/Alwar
+bhavnagar - http://dbpedia.org/resource/Bhavnagar
+parallel analysis - http://dbpedia.org/resource/Factor_analysis
+talcher - http://dbpedia.org/resource/Talcher
+hell - http://dbpedia.org/resource/Hell
+american education - http://dbpedia.org/resource/Education_in_the_United_States
+emperor leopold - http://dbpedia.org/resource/Leopold_I,_Holy_Roman_Emperor
+anglophone - http://dbpedia.org/resource/English_language
+prussia - http://dbpedia.org/resource/Prussia
+dadabhai naoroji - http://dbpedia.org/resource/Dadabhai_Naoroji
+cameroon - http://dbpedia.org/resource/Cameroon
+sovereign - http://dbpedia.org/resource/Sovereign_state
+pyramid - http://dbpedia.org/resource/Pyramid
+indicative - http://dbpedia.org/resource/Realis_mood
+nationalized - http://dbpedia.org/resource/Nationalization
+eric grove - http://dbpedia.org/resource/Eric_Grove
+makrai - http://dbpedia.org/resource/Makrai
+north borneo - http://dbpedia.org/resource/North_Borneo
+dutch guiana - http://dbpedia.org/resource/Suriname
+harvest - http://dbpedia.org/resource/Hunting
+hyderabad nizam - http://dbpedia.org/resource/Nizam_of_Hyderabad
+ensigns - http://dbpedia.org/resource/Flag
+chatham islands - http://dbpedia.org/resource/Chatham_Islands
+governor general - http://dbpedia.org/resource/Governor-General_of_India
+southeast asia - http://dbpedia.org/resource/Southeast_Asia
+socialist economics - http://dbpedia.org/resource/Socialist_economics
+rowan - http://dbpedia.org/resource/Rowan
+straits settlements - http://dbpedia.org/resource/Straits_Settlements
+orchha - http://dbpedia.org/resource/Orchha_State
+tasmania - http://dbpedia.org/resource/Tasmania
+bit - http://dbpedia.org/resource/Bit
+russian empire - http://dbpedia.org/resource/Russian_Empire
+cochin - http://dbpedia.org/resource/Kingdom_of_Cochin
+pocket - http://dbpedia.org/resource/Billiard_table
+industrial revolution - http://dbpedia.org/resource/Industrial_Revolution
+uganda - http://dbpedia.org/resource/Uganda
+lawrence james - http://dbpedia.org/resource/Lawrence_James
+oxford college - http://dbpedia.org/resource/University_of_Oxford
+mauritius - http://dbpedia.org/resource/Mauritius
+independent - http://dbpedia.org/resource/Independence
+myanmar - http://dbpedia.org/resource/Myanmar
+thesis - http://dbpedia.org/resource/The_Protocols_of_the_Elders_of_Zion
+liberals - http://dbpedia.org/resource/Liberalism
+liberal - http://dbpedia.org/resource/Liberalism
+chain - http://dbpedia.org/resource/Chain_store
+anachronism - http://dbpedia.org/resource/Anachronism
+sandur - http://dbpedia.org/resource/Outwash_plain
+independence - http://dbpedia.org/resource/Indian_independence_movement
+sinhalese buddhism - http://dbpedia.org/resource/Theravada
+hew - http://dbpedia.org/resource/United_States_Department_of_Health_and_Human_Services
+foreign trade - http://dbpedia.org/resource/Trade
+time life books - http://dbpedia.org/resource/Time_Inc.
+french mandate - http://dbpedia.org/resource/Mandate_for_Syria_and_the_Lebanon
+doom - http://dbpedia.org/resource/Doom_metal
+recessional - http://dbpedia.org/resource/Recessional_hymn
+hegemons - http://dbpedia.org/resource/Hegemony
+national anthem - http://dbpedia.org/resource/National_anthem
+adoption - http://dbpedia.org/resource/Adoption
+scotland - http://dbpedia.org/resource/Scotland
+anglicized - http://dbpedia.org/resource/English_language
+jury rig - http://dbpedia.org/resource/Jury_rigging
+overproduction - http://dbpedia.org/resource/Overproduction
+nautical terms - http://dbpedia.org/resource/Glossary_of_nautical_terms
+jaso - http://dbpedia.org/resource/Japanese_Automotive_Standards_Organization
+jigni - http://dbpedia.org/resource/Jigni_State
+loharu - http://dbpedia.org/resource/Loharu
+anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
+rock - http://dbpedia.org/resource/Rock_music
+ancient civilization - http://dbpedia.org/resource/Civilization
+nato - http://dbpedia.org/resource/NATO
+assembler - http://dbpedia.org/resource/Assembly_language
+bahrain - http://dbpedia.org/resource/Bahrain
+éire - http://dbpedia.org/resource/Ireland
+abu dhabi - http://dbpedia.org/resource/Abu_Dhabi
+single - http://dbpedia.org/resource/Phonograph_record
+georgia - http://dbpedia.org/resource/Province_of_Georgia
+oman - http://dbpedia.org/resource/Oman
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+bikaner - http://dbpedia.org/resource/Bikaner
+kuwait - http://dbpedia.org/resource/Kuwait
+political freedom - http://dbpedia.org/resource/Political_freedom
+intellect - http://dbpedia.org/resource/Intelligence
+chou - http://dbpedia.org/resource/Chou_role
+communist china - http://dbpedia.org/resource/China
+liars - http://dbpedia.org/resource/Liars_(band)
+stuart - http://dbpedia.org/resource/House_of_Stuart
+upper burma - http://dbpedia.org/resource/Upper_Myanmar
+varanasi - http://dbpedia.org/resource/Varanasi
+enderbury - http://dbpedia.org/resource/Enderbury_Island
+europeanised - http://dbpedia.org/resource/Europeanisation
+reservations - http://dbpedia.org/resource/Indian_reservation
+bilaspur - http://dbpedia.org/resource/Kahlur
+shahpura - http://dbpedia.org/resource/Shahpura_State
+empress - http://dbpedia.org/resource/Tsar
+grim - http://dbpedia.org/resource/Church_grim
+lord mountbatten - http://dbpedia.org/resource/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma
+keystone - http://dbpedia.org/resource/Arch
+goods - http://dbpedia.org/resource/Goods
+exploitation - http://dbpedia.org/resource/Exploitation_of_labour
+dune - http://dbpedia.org/resource/Dune
+kalsia - http://dbpedia.org/resource/Kalsia
+nova scotia - http://dbpedia.org/resource/Nova_Scotia
+makran - http://dbpedia.org/resource/Makran
+kishangarh - http://dbpedia.org/resource/Kishangarh
+franklin roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+idar - http://dbpedia.org/resource/Idar
+surinam - http://dbpedia.org/resource/Suriname
+norfolk island - http://dbpedia.org/resource/Norfolk_Island
+david - http://dbpedia.org/resource/David
+surguja - http://dbpedia.org/resource/Surguja_district
+janjira - http://dbpedia.org/resource/Janjira_State
+rajpipla - http://dbpedia.org/resource/Rajpipla
+democracy - http://dbpedia.org/resource/Democracy
+alienation - http://dbpedia.org/resource/Social_alienation
+socotra island - http://dbpedia.org/resource/Socotra
+vanod - http://dbpedia.org/resource/Vanod
+crowns - http://dbpedia.org/resource/Austro-Hungarian_krone
+city - http://dbpedia.org/resource/City
+symbol - http://dbpedia.org/resource/Symbol
+heligoland - http://dbpedia.org/resource/Heligoland
+grenadines - http://dbpedia.org/resource/Grenadines
+royal navy - http://dbpedia.org/resource/Royal_Navy
+steering wheel - http://dbpedia.org/resource/Steering_wheel
+germany - http://dbpedia.org/resource/German_Empire
+frederick lugard - http://dbpedia.org/resource/Frederick_Lugard,_1st_Baron_Lugard
+rhodesia - http://dbpedia.org/resource/Rhodesia
+relief - http://dbpedia.org/resource/Welfare
+east asians - http://dbpedia.org/resource/East_Asia
+modernization - http://dbpedia.org/resource/Modernization_theory
+free lunch - http://dbpedia.org/resource/Free_lunch
+james brooke - http://dbpedia.org/resource/James_Brooke
+trade deficit - http://dbpedia.org/resource/Balance_of_trade
+palanpur - http://dbpedia.org/resource/Palanpur
+mystified - http://dbpedia.org/resource/Dear_Children
+merchant - http://dbpedia.org/resource/Merchant
+quebec - http://dbpedia.org/resource/Quebec_City
+karauli - http://dbpedia.org/resource/Karauli
+virginia - http://dbpedia.org/resource/Colony_of_Virginia
+trust territory - http://dbpedia.org/resource/United_Nations_trust_territories
+prince edward islands - http://dbpedia.org/resource/Prince_Edward_Islands
+malaya federation - http://dbpedia.org/resource/Federation_of_Malaya
+thrall - http://dbpedia.org/resource/Thrall
+global power - http://dbpedia.org/resource/Great_power
+cardinal - http://dbpedia.org/resource/Cardinal_direction
+bahawalpur - http://dbpedia.org/resource/Bahawalpur
+botswana - http://dbpedia.org/resource/Botswana
+guam - http://dbpedia.org/resource/Guam
+british north america - http://dbpedia.org/resource/Thirteen_Colonies
+south georgia - http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands
+basic books - http://dbpedia.org/resource/Basic_Books

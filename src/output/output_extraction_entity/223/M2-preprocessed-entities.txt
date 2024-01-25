@@ -34,10 +34,6 @@ emperor - http://dbpedia.org/resource/Byzantine_Empire
 justinian - http://dbpedia.org/resource/Justinian_I
 justinian - http://dbpedia.org/resource/Justinian_I
 law - http://dbpedia.org/resource/Roman_law
-roman law - http://dbpedia.org/resource/Corpus_Juris_Civilis
-law review - http://dbpedia.org/resource/Law_review
-law - http://dbpedia.org/resource/Roman_law
-law - http://dbpedia.org/resource/Roman_law
 single - http://dbpedia.org/resource/Single_person
 civil law - http://dbpedia.org/resource/Roman_law
 justinian code - http://dbpedia.org/resource/Corpus_Juris_Civilis
@@ -47,9 +43,8 @@ constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
 istanbul - http://dbpedia.org/resource/Istanbul
 justinian - http://dbpedia.org/resource/Justinian_I
 music drama - http://dbpedia.org/resource/Gesamtkunstwerk
-bridge - http://dbpedia.org/resource/Roman_bridge
-aqueduct - http://dbpedia.org/resource/Roman_aqueduct
-church - http://dbpedia.org/resource/Church_architecture
+public works - http://dbpedia.org/resource/Public_works
+aqueducts - http://dbpedia.org/resource/Roman_aqueduct
 hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
 church - http://dbpedia.org/resource/Church_architecture
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
@@ -82,13 +77,11 @@ byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 latin - http://dbpedia.org/resource/Latin
 heraclius - http://dbpedia.org/resource/Heraclius
 constantinople - http://dbpedia.org/resource/Fall_of_Constantinople
-plunder - http://dbpedia.org/resource/Looting
 crusaders - http://dbpedia.org/resource/Fourth_Crusade
 fourth crusade - http://dbpedia.org/resource/Fourth_Crusade
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 gold - http://dbpedia.org/resource/Gold
 emperor justinian - http://dbpedia.org/resource/Justinian_I
-die - http://dbpedia.org/resource/Death
 roman republic - http://dbpedia.org/resource/Ancient_Rome
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 roman rule - http://dbpedia.org/resource/Roman_Empire

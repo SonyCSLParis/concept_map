@@ -1,6 +1,6 @@
 stephen hill - http://dbpedia.org/resource/Stephen_Hill_(broadcaster)
 african americans - http://dbpedia.org/resource/African_Americans
-gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold_mining
 owen - http://dbpedia.org/resource/Richard_Owen
 rozier - http://dbpedia.org/resource/Mike_Rozier
 san joaquin - http://dbpedia.org/resource/San_Joaquin_Valley
@@ -13,10 +13,9 @@ set sail - http://dbpedia.org/resource/Set_Sail_(The_Movement_album)
 arkansas - http://dbpedia.org/resource/Arkansas
 rozier - http://dbpedia.org/resource/Mike_Rozier
 gold watch - http://dbpedia.org/resource/Norwegian_Football_Association_Gold_Watch
-dollar - http://dbpedia.org/resource/United_States_dollar
 cash - http://dbpedia.org/resource/Money
 slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
-gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold_mining
 rozier - http://dbpedia.org/resource/Mike_Rozier
 city - http://dbpedia.org/resource/City
 st. charles - http://dbpedia.org/resource/St._Charles_East_High_School
@@ -26,15 +25,13 @@ newspaper - http://dbpedia.org/resource/Newspaper
 rozier - http://dbpedia.org/resource/Mike_Rozier
 spencer hill - http://dbpedia.org/resource/Midpoint_Trade_Books
 fluke - http://dbpedia.org/resource/Whale
-gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold_mining
 spring - http://dbpedia.org/resource/Mineral_spring
 boys hill - http://dbpedia.org/resource/Holnest
 rozier - http://dbpedia.org/resource/Mike_Rozier
 extricate - http://dbpedia.org/resource/Extricate
-clutch - http://dbpedia.org/resource/Clutch
 court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
 california - http://dbpedia.org/resource/California
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
 fugitive slave - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
 rozier - http://dbpedia.org/resource/Mike_Rozier
 wood - http://dbpedia.org/resource/Lumber
@@ -43,11 +40,13 @@ california - http://dbpedia.org/resource/California
 free man - http://dbpedia.org/resource/Free_Man
 judge - http://dbpedia.org/resource/Judge
 rozier - http://dbpedia.org/resource/Mike_Rozier
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+white southerners - http://dbpedia.org/resource/White_Southerners
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
 california - http://dbpedia.org/resource/California
-early summer - http://dbpedia.org/resource/Early_Summer
-slave owner - http://dbpedia.org/resource/Slavery_in_the_United_States
+mines - http://dbpedia.org/resource/Mining
+summer - http://dbpedia.org/resource/Summer
 slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
 western u.s. - http://dbpedia.org/resource/Western_United_States
 texas - http://dbpedia.org/resource/Texas
 mississippi - http://dbpedia.org/resource/Mississippi
@@ -57,8 +56,8 @@ spencer hill - http://dbpedia.org/resource/Midpoint_Trade_Books
 wood - http://dbpedia.org/resource/Lumber
 columbia - http://dbpedia.org/resource/Cuban_rumba
 slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
-law - http://dbpedia.org/resource/Law_of_the_United_States
-gold - http://dbpedia.org/resource/Gold
+mines - http://dbpedia.org/resource/Mining
+gold - http://dbpedia.org/resource/Gold_mining
 washington - http://dbpedia.org/resource/George_Washington
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
 california - http://dbpedia.org/resource/California
@@ -70,16 +69,14 @@ statehood - http://dbpedia.org/resource/Admission_to_the_Union
 monterey - http://dbpedia.org/resource/Battle_of_Monterey
 california - http://dbpedia.org/resource/California
 slave - http://dbpedia.org/resource/Slavery_in_the_United_States
-miner - http://dbpedia.org/resource/Miner
-gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold_mining
 slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+mines - http://dbpedia.org/resource/Mining
 california - http://dbpedia.org/resource/California
 constitution - http://dbpedia.org/resource/Constitution_of_Indiana
 slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
 involuntary servitude - http://dbpedia.org/resource/Involuntary_servitude
-crime - http://dbpedia.org/resource/Crime
 dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
-north south - http://dbpedia.org/resource/North_South_MRT_line
 california - http://dbpedia.org/resource/California
 dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
 secede - http://dbpedia.org/resource/Secession_in_the_United_States
@@ -90,7 +87,7 @@ senator - http://dbpedia.org/resource/United_States_Senate
 pistol - http://dbpedia.org/resource/Handgun
 california - http://dbpedia.org/resource/California
 mexico - http://dbpedia.org/resource/First_Mexican_Republic
-utah territory - http://dbpedia.org/resource/Utah_Territory
+utah - http://dbpedia.org/resource/Utah_Territory
 slave - http://dbpedia.org/resource/Slavery_in_the_United_States
 slave trade - http://dbpedia.org/resource/Slavery_in_the_United_States
 columbia - http://dbpedia.org/resource/Cuban_rumba
@@ -102,15 +99,15 @@ monterey - http://dbpedia.org/resource/Battle_of_Monterey
 california - http://dbpedia.org/resource/California
 mining - http://dbpedia.org/resource/Gold_mining
 economy - http://dbpedia.org/resource/Economy
+civil rights - http://dbpedia.org/resource/Civil_and_political_rights
 california - http://dbpedia.org/resource/California
 african americans - http://dbpedia.org/resource/African_Americans
 native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
 court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
-rally - http://dbpedia.org/resource/Protest
 california - http://dbpedia.org/resource/California
 constitution - http://dbpedia.org/resource/Constitution_of_Indiana
 california - http://dbpedia.org/resource/California
 fugitive slave - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
 law - http://dbpedia.org/resource/Law_of_the_United_States
-slave owner - http://dbpedia.org/resource/Slavery_in_the_United_States
 slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States

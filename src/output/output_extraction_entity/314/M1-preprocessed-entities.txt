@@ -5,15 +5,12 @@ csi - http://dbpedia.org/resource/Forensic_science
 infection - http://dbpedia.org/resource/Infection
 forensic science - http://dbpedia.org/resource/Forensic_science
 crime - http://dbpedia.org/resource/Crime
-television - http://dbpedia.org/resource/Television
+television - http://dbpedia.org/resource/Television_show
 csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
 spin - http://dbpedia.org/resource/Spin_bowling
 perception - http://dbpedia.org/resource/Perception
-actor - http://dbpedia.org/resource/Actor
 csi - http://dbpedia.org/resource/Forensic_science
 false impression - http://dbpedia.org/resource/False_Impression
 forensic evidence - http://dbpedia.org/resource/Forensic_identification
-confession - http://dbpedia.org/resource/Confession
 circumstantial evidence - http://dbpedia.org/resource/Circumstantial_evidence
 forensic science - http://dbpedia.org/resource/Forensic_science
-crime - http://dbpedia.org/resource/Crime

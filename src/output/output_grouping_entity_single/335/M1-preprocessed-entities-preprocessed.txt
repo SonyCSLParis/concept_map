@@ -1,32 +1,32 @@
-documentary channel - http://dbpedia.org/resource/Documentary_channel
-witchcraft - http://dbpedia.org/resource/Witch-hunt
-jennet - http://dbpedia.org/resource/Jennet
-family - http://dbpedia.org/resource/Family
-alice gray - http://dbpedia.org/resource/Alice_Gray
-die - http://dbpedia.org/resource/Death
-english history - http://dbpedia.org/resource/History_of_England
+jane - http://dbpedia.org/resource/Jane_Fonda
 preston - http://dbpedia.org/resource/Preston_North_End_F.C.
-murder - http://dbpedia.org/resource/Murder
 court - http://dbpedia.org/resource/Court
-samlesbury - http://dbpedia.org/resource/Samlesbury
-pendle hill - http://dbpedia.org/resource/Pendle_Hill
-lancashire - http://dbpedia.org/resource/Lancashire
-family time - http://dbpedia.org/resource/Family_Time_(album)
 alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
-lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
-southerns - http://dbpedia.org/resource/Southerns_cricket_team
+english history - http://dbpedia.org/resource/History_of_England
+extortion - http://dbpedia.org/resource/Extortion
+pendle witches - http://dbpedia.org/resource/Pendle_witches
 anne - http://dbpedia.org/resource/Anne_of_Denmark
-thomas potts - http://dbpedia.org/resource/Thomas_Potts
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-assizes - http://dbpedia.org/resource/Assizes
-witches - http://dbpedia.org/resource/Witch-hunt
+countie - http://dbpedia.org/resource/Uyezd
+southerns - http://dbpedia.org/resource/Southerns_cricket_team
 documentary - http://dbpedia.org/resource/Documentary_film
+hanging - http://dbpedia.org/resource/Hanging
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+hanged - http://dbpedia.org/resource/Hanging
+lancashire - http://dbpedia.org/resource/Lancashire
+prison - http://dbpedia.org/resource/Prison
+jennet - http://dbpedia.org/resource/Jennet
 begging - http://dbpedia.org/resource/Begging
 pendle - http://dbpedia.org/resource/Pendle_witches
-witch trial - http://dbpedia.org/resource/Witch-hunt
-countie - http://dbpedia.org/resource/Powiat
+witch trials - http://dbpedia.org/resource/Witch-hunt
+pendle hill - http://dbpedia.org/resource/Pendle_Hill
+witchcraft - http://dbpedia.org/resource/Witch-hunt
+samlesbury witches - http://dbpedia.org/resource/Samlesbury_witches
+witches - http://dbpedia.org/resource/Witch-hunt
+katherine - http://dbpedia.org/resource/Samuel_More
+alice gray - http://dbpedia.org/resource/Alice_Gray
 lancaster assizes - http://dbpedia.org/resource/Lancaster_Castle
-extortion - http://dbpedia.org/resource/Extortion
-jane - http://dbpedia.org/resource/Jane_Fonda
+assizes - http://dbpedia.org/resource/Assizes
 york - http://dbpedia.org/resource/York
-prison - http://dbpedia.org/resource/Prison
+thomas potts - http://dbpedia.org/resource/Thomas_Potts
+documentary channel - http://dbpedia.org/resource/Documentary_channel
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England

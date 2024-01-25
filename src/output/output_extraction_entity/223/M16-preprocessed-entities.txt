@@ -21,7 +21,7 @@ church - http://dbpedia.org/resource/Church_architecture
 hagia sophia - http://dbpedia.org/resource/Hagia_Sophia
 byzantine art - http://dbpedia.org/resource/Byzantine_art
 dome - http://dbpedia.org/resource/Dome
-mosaic - http://dbpedia.org/resource/Mosaic
+mosaics - http://dbpedia.org/resource/Mosaic
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 economic power - http://dbpedia.org/resource/Economic_power
 mediterranean - http://dbpedia.org/resource/Mediterranean_Sea
@@ -35,7 +35,7 @@ justinian - http://dbpedia.org/resource/Justinian_I
 turks - http://dbpedia.org/resource/Seljuq_dynasty
 anatolia - http://dbpedia.org/resource/Anatolia
 turks - http://dbpedia.org/resource/Seljuq_dynasty
-turk - http://dbpedia.org/resource/Ottoman_Empire
+turks - http://dbpedia.org/resource/Seljuq_dynasty
 central asia - http://dbpedia.org/resource/Central_Asia
 b.c.e. - http://dbpedia.org/resource/Common_Era
 central asia - http://dbpedia.org/resource/Central_Asia
@@ -57,10 +57,8 @@ seljuk empire - http://dbpedia.org/resource/Seljuk_Empire
 turkish empire - http://dbpedia.org/resource/Ottoman_Empire
 anatolia - http://dbpedia.org/resource/Anatolia
 anatolian seljuk - http://dbpedia.org/resource/Sultanate_of_Rum
-mosque - http://dbpedia.org/resource/Mosque
-university hospital - http://dbpedia.org/resource/Teaching_hospital
-fortress - http://dbpedia.org/resource/Fortification
-tomb - http://dbpedia.org/resource/Tomb
+mosques - http://dbpedia.org/resource/Mosque
+universities - http://dbpedia.org/resource/Medieval_university
 caravanserais - http://dbpedia.org/resource/Caravanserai
 stone - http://dbpedia.org/resource/Masonry
 tile - http://dbpedia.org/resource/Iznik_pottery
@@ -77,9 +75,10 @@ seljuk empire - http://dbpedia.org/resource/Seljuk_Empire
 turkish - http://dbpedia.org/resource/Ottoman_Empire
 seljuk - http://dbpedia.org/resource/Sultanate_of_Rum
 mongolian - http://dbpedia.org/resource/Mongol_Empire
+beyliks - http://dbpedia.org/resource/Anatolian_beyliks
 turkish - http://dbpedia.org/resource/Ottoman_Empire
-tribe - http://dbpedia.org/resource/Turkic_tribal_confederations
 anatolia - http://dbpedia.org/resource/Anatolia
+beyliks - http://dbpedia.org/resource/Anatolian_beyliks
 ottoman - http://dbpedia.org/resource/Ottoman_(furniture)
 osmanli - http://dbpedia.org/resource/Ottoman_Turks
 ottoman beylik - http://dbpedia.org/resource/Rise_of_the_Ottoman_Empire

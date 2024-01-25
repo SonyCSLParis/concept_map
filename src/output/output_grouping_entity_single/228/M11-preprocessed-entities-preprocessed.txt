@@ -1,91 +1,85 @@
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-garrison - http://dbpedia.org/resource/Garrison
-borden milk - http://dbpedia.org/resource/Borden_(company)
-postal route - http://dbpedia.org/resource/Post_road
-san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
-army retreat - http://dbpedia.org/resource/Great_Retreat_(Serbian)
-texans - http://dbpedia.org/resource/Texas
-capital life - http://dbpedia.org/resource/Capital_Life
-newspaper - http://dbpedia.org/resource/Newspaper
-mexican army - http://dbpedia.org/resource/Mexican_Army
-log cabin - http://dbpedia.org/resource/Log_cabin
-bellville - http://dbpedia.org/resource/Bellville_railway_station
-gazette - http://dbpedia.org/resource/Gazette
-fresh water - http://dbpedia.org/resource/Fresh_water
-austin county - http://dbpedia.org/resource/Austin_County,_Texas
-log house - http://dbpedia.org/resource/Log_cabin
-immigrant - http://dbpedia.org/resource/Immigration
-settler - http://dbpedia.org/resource/Settler
-terrified - http://dbpedia.org/resource/Terrified_(album)
-volunteer - http://dbpedia.org/resource/Volunteer_fire_department
-westward - http://dbpedia.org/resource/Westward_Television
-town - http://dbpedia.org/resource/Town
-sprawl - http://dbpedia.org/resource/Urban_sprawl
-gen. - http://dbpedia.org/resource/Divisional_general
-bullinger - http://dbpedia.org/resource/Heinrich_Bullinger
-san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
-bluff - http://dbpedia.org/resource/Cliff
-hotel - http://dbpedia.org/resource/Hotel
-horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman
-josiah - http://dbpedia.org/resource/Josiah_Wedgwood
-municipality - http://dbpedia.org/resource/Municipalities_of_Mexico
-tavern - http://dbpedia.org/resource/Tavern
-washington - http://dbpedia.org/resource/George_Washington
-settlement - http://dbpedia.org/resource/Town
-estevan - http://dbpedia.org/resource/Estevan
-cotton plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
-houston - http://dbpedia.org/resource/Houston
-law - http://dbpedia.org/resource/Law
-annal - http://dbpedia.org/resource/Annals
-gail borden - http://dbpedia.org/resource/Gail_Borden
-william barrett travis - http://dbpedia.org/resource/William_B._Travis
-independent - http://dbpedia.org/resource/Independence
-postmaster - http://dbpedia.org/resource/Postmaster
-revolution - http://dbpedia.org/resource/French_Revolution
-ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
-san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
-handbook - http://dbpedia.org/resource/Handbook
-texians - http://dbpedia.org/resource/Texians
-austin - http://dbpedia.org/resource/Austin_Motor_Company
-john bricker - http://dbpedia.org/resource/John_W._Bricker
-republic - http://dbpedia.org/resource/French_First_Republic
-colorado river - http://dbpedia.org/resource/Colorado_River
-san antonio - http://dbpedia.org/resource/San_Antonio
-anglo - http://dbpedia.org/resource/Anglo
-spring - http://dbpedia.org/resource/Mineral_spring
-bottomland - http://dbpedia.org/resource/Upland_and_lowland
-election - http://dbpedia.org/resource/Election
-function - http://dbpedia.org/resource/Role
-bell - http://dbpedia.org/resource/Bell_tower
-provisional government - http://dbpedia.org/resource/Provisional_government
-independence - http://dbpedia.org/resource/Mexican_War_of_Independence
-land office - http://dbpedia.org/resource/General_Land_Office
-capital - http://dbpedia.org/resource/Capital_city
-lease - http://dbpedia.org/resource/Lease
-texian - http://dbpedia.org/resource/Texians
-urban - http://dbpedia.org/resource/City
-mexico - http://dbpedia.org/resource/First_Mexican_Republic
-general store - http://dbpedia.org/resource/General_store
-texas - http://dbpedia.org/resource/Texas
-manager - http://dbpedia.org/resource/Management
-lavaca river - http://dbpedia.org/resource/Lavaca_River
-family - http://dbpedia.org/resource/Family
-regular grid - http://dbpedia.org/resource/Regular_grid
-news - http://dbpedia.org/resource/Journalism
-county seat - http://dbpedia.org/resource/County_seat
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 gulf - http://dbpedia.org/resource/Gulf_Coast_of_the_United_States
-mexican texas - http://dbpedia.org/resource/Mexican_Texas
-miller - http://dbpedia.org/resource/Gristmill
-colony - http://dbpedia.org/resource/Colony
-newspaper publisher - http://dbpedia.org/resource/Publishing
-noah - http://dbpedia.org/resource/Noah's_Ark
-texas history - http://dbpedia.org/resource/History_of_Texas
+cotton - http://dbpedia.org/resource/Cotton
+borden milk - http://dbpedia.org/resource/Borden_(company)
+immigrants - http://dbpedia.org/resource/Immigration
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+postmaster - http://dbpedia.org/resource/Postmaster
+regular grid - http://dbpedia.org/resource/Regular_grid
 land agent - http://dbpedia.org/resource/Land_agent
-blacksmith - http://dbpedia.org/resource/Blacksmith
-ultimate victory - http://dbpedia.org/resource/Ultimate_Victory
-hispanic - http://dbpedia.org/resource/Hispanic
-brazos river - http://dbpedia.org/resource/Brazos_River
+governing body - http://dbpedia.org/resource/Local_government
+news - http://dbpedia.org/resource/Journalism
+washington - http://dbpedia.org/resource/George_Washington
+tavern - http://dbpedia.org/resource/Tavern
+log cabin - http://dbpedia.org/resource/Log_cabin
+texian - http://dbpedia.org/resource/Texians
+revolution - http://dbpedia.org/resource/French_Revolution
+bluff - http://dbpedia.org/resource/Cliff
+gail borden - http://dbpedia.org/resource/Gail_Borden
+colorado river - http://dbpedia.org/resource/Colorado_River
+plantations - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
 courthouse - http://dbpedia.org/resource/Courthouse
-texas revolution - http://dbpedia.org/resource/Texas_Revolution
+bellville - http://dbpedia.org/resource/Bellville_railway_station
+republic - http://dbpedia.org/resource/French_First_Republic
+urban - http://dbpedia.org/resource/City
+provisional government - http://dbpedia.org/resource/Provisional_government
+capital - http://dbpedia.org/resource/Capital_city
+austin - http://dbpedia.org/resource/Austin_Motor_Company
+colony - http://dbpedia.org/resource/Colony
+lavaca river - http://dbpedia.org/resource/Lavaca_River
+county seat - http://dbpedia.org/resource/County_seat
+william barrett travis - http://dbpedia.org/resource/William_B._Travis
+texans - http://dbpedia.org/resource/Texas
+ultimate victory - http://dbpedia.org/resource/Ultimate_Victory
+texas history - http://dbpedia.org/resource/History_of_Texas
+handbook - http://dbpedia.org/resource/Handbook
+gazette - http://dbpedia.org/resource/Gazette
+settlement - http://dbpedia.org/resource/Town
+annals - http://dbpedia.org/resource/Annals
+john bricker - http://dbpedia.org/resource/John_W._Bricker
+manager - http://dbpedia.org/resource/Management
+san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
+bell - http://dbpedia.org/resource/Bell_tower
+independent - http://dbpedia.org/resource/Independence
+brazos river - http://dbpedia.org/resource/Brazos_River
+spanish municipalities - http://dbpedia.org/resource/Municipalities_of_Spain
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+houston - http://dbpedia.org/resource/Houston
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+noah - http://dbpedia.org/resource/Noah's_Ark
+law - http://dbpedia.org/resource/Law
+sprawl - http://dbpedia.org/resource/Urban_sprawl
+westward - http://dbpedia.org/resource/Westward_Television
 runaway scrape - http://dbpedia.org/resource/Runaway_Scrape
+mexican texas - http://dbpedia.org/resource/Mexican_Texas
+volunteer - http://dbpedia.org/resource/Volunteer_fire_department
+estevan - http://dbpedia.org/resource/Estevan
+josiah - http://dbpedia.org/resource/Josiah_Wedgwood
+municipality - http://dbpedia.org/resource/Municipalities_of_Mexico
+terrified - http://dbpedia.org/resource/Terrified_(album)
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+fresh water - http://dbpedia.org/resource/Fresh_water
+hispanic - http://dbpedia.org/resource/Hispanic
+hotel - http://dbpedia.org/resource/Hotel
+printing - http://dbpedia.org/resource/Printing_press
+anglo - http://dbpedia.org/resource/Anglo
+bullinger - http://dbpedia.org/resource/Heinrich_Bullinger
+miller - http://dbpedia.org/resource/Gristmill
+garrison - http://dbpedia.org/resource/Garrison
+newspaper publisher - http://dbpedia.org/resource/Publishing
+texas - http://dbpedia.org/resource/Texas
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+transients - http://dbpedia.org/resource/Homelessness
+land office - http://dbpedia.org/resource/General_Land_Office
+town - http://dbpedia.org/resource/Town
+spring - http://dbpedia.org/resource/Mineral_spring
+blacksmith - http://dbpedia.org/resource/Blacksmith
+gen. - http://dbpedia.org/resource/Divisional_general
+texians - http://dbpedia.org/resource/Texians
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+election - http://dbpedia.org/resource/Election
+san antonio - http://dbpedia.org/resource/San_Antonio
+austin county - http://dbpedia.org/resource/Austin_County,_Texas
+texas revolution - http://dbpedia.org/resource/Texas_Revolution
+mexican army - http://dbpedia.org/resource/Mexican_Army
+horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman

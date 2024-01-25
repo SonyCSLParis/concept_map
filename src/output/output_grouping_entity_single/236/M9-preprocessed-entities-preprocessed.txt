@@ -1,48 +1,42 @@
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-liberal - http://dbpedia.org/resource/Liberalism
-brazil time - http://dbpedia.org/resource/Time_in_Brazil
-soldier - http://dbpedia.org/resource/Soldier
-são paulo - http://dbpedia.org/resource/Campeonato_Paulista
-monarchy - http://dbpedia.org/resource/Empire_of_Brazil
-humiliation - http://dbpedia.org/resource/Humiliation
-court - http://dbpedia.org/resource/Royal_court
-freemasons - http://dbpedia.org/resource/Freemasonry
-dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
-regent - http://dbpedia.org/resource/Prince_regent
-pedro - http://dbpedia.org/resource/Pedro_(card_game)
-newspaper - http://dbpedia.org/resource/Newspaper
-constitutionalist - http://dbpedia.org/resource/Constitutionalism
-cabinet - http://dbpedia.org/resource/Government_of_Austria
-defender - http://dbpedia.org/resource/Association_football
-rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
-prince pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
-dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
-portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-liberals - http://dbpedia.org/resource/Liberalism
-god - http://dbpedia.org/resource/God
-constituent assembly - http://dbpedia.org/resource/Constituent_assembly
-uprising - http://dbpedia.org/resource/Rebellion
-joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
-brazil - http://dbpedia.org/resource/Brazil
-constitutional emperor - http://dbpedia.org/resource/Constitutional_monarchy
-blue white - http://dbpedia.org/resource/Blauw-Wit_Amsterdam
-portuguese - http://dbpedia.org/resource/Portuguese_language
-military officer - http://dbpedia.org/resource/Burkina_Faso_Armed_Forces
-blood - http://dbpedia.org/resource/Blood_donation
-independent - http://dbpedia.org/resource/Independence
-brazilian independence - http://dbpedia.org/resource/Empire_of_Brazil
-leopoldina - http://dbpedia.org/resource/Maria_Leopoldina_of_Austria
-cortes - http://dbpedia.org/resource/Portuguese_Cortes
-freedom - http://dbpedia.org/resource/Political_freedom
-revolution - http://dbpedia.org/resource/French_Revolution
-straw - http://dbpedia.org/resource/Straw
-constitutional revolution - http://dbpedia.org/resource/Persian_Constitutional_Revolution
 governor - http://dbpedia.org/resource/Governor
-armband - http://dbpedia.org/resource/Armband
-joaquim gonçalves ledo - http://dbpedia.org/resource/Joaquim_Gonçalves_Ledo
-josé bonifácio - http://dbpedia.org/resource/José_Bonifácio_de_Andrada
+leopoldina - http://dbpedia.org/resource/Maria_Leopoldina_of_Austria
+constitution - http://dbpedia.org/resource/Constitution
+defender - http://dbpedia.org/resource/Association_football
+dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 independence - http://dbpedia.org/resource/Independence
 sovereign - http://dbpedia.org/resource/Monarch
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+independent - http://dbpedia.org/resource/Independence
+portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+liberals - http://dbpedia.org/resource/Liberalism
+liberal - http://dbpedia.org/resource/Liberalism
+constitutional emperor - http://dbpedia.org/resource/Constitutional_monarchy
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+joaquim gonçalves ledo - http://dbpedia.org/resource/Joaquim_Gonçalves_Ledo
+god - http://dbpedia.org/resource/God
+freemasons - http://dbpedia.org/resource/Freemasonry
+constitutionalist - http://dbpedia.org/resource/Constitutionalism
 finance - http://dbpedia.org/resource/Public_finance
-constitution - http://dbpedia.org/resource/Constitution
+freedom - http://dbpedia.org/resource/Political_freedom
+brazil - http://dbpedia.org/resource/Brazil
+constituent assembly - http://dbpedia.org/resource/Constituent_assembly
+blood - http://dbpedia.org/resource/Blood_donation
+straw - http://dbpedia.org/resource/Straw
+portuguese - http://dbpedia.org/resource/Portuguese_language
+revolution - http://dbpedia.org/resource/French_Revolution
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+humiliation - http://dbpedia.org/resource/Humiliation
+josé bonifácio - http://dbpedia.org/resource/José_Bonifácio_de_Andrada
+joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+cabinet - http://dbpedia.org/resource/Government_of_Austria
+cortes - http://dbpedia.org/resource/Portuguese_Cortes
+prince pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
+constitutional revolution - http://dbpedia.org/resource/Persian_Constitutional_Revolution
+brazilian independence - http://dbpedia.org/resource/Empire_of_Brazil
+uprising - http://dbpedia.org/resource/Rebellion
+loyalties - http://dbpedia.org/resource/Loyalties_(1933_film)
 algarves - http://dbpedia.org/resource/Kingdom_of_the_Algarve
+regent - http://dbpedia.org/resource/Prince_regent

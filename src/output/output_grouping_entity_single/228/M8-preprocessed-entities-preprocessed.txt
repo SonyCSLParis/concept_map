@@ -1,406 +1,381 @@
-eli - http://dbpedia.org/resource/List_of_Heroes_characters
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-infatuate - http://dbpedia.org/resource/Infatuation
-liberal - http://dbpedia.org/resource/Liberalism
-stationery - http://dbpedia.org/resource/Stationery
-rafael manchola - http://dbpedia.org/resource/Rafael_Manchola
-colonized land - http://dbpedia.org/resource/Terrestrial_animal
-actuate - http://dbpedia.org/resource/Actuate_Corporation
-revenue - http://dbpedia.org/resource/Tax
-custom house - http://dbpedia.org/resource/Custom_house
-wiley - http://dbpedia.org/resource/Wiley-Blackwell
-grievance - http://dbpedia.org/resource/Grievance
-nestor - http://dbpedia.org/resource/Nestor_the_Chronicler
-prohibition - http://dbpedia.org/resource/Prohibition
-silas - http://dbpedia.org/resource/Silas
-oppression - http://dbpedia.org/resource/Oppression
-archer - http://dbpedia.org/resource/Bow_and_arrow
-charlton - http://dbpedia.org/resource/Charlton_Athletic_F.C.
-awaken - http://dbpedia.org/resource/Going_for_the_One
-intercourse - http://dbpedia.org/resource/Sexual_intercourse
-truth - http://dbpedia.org/resource/Truth
-destine - http://dbpedia.org/resource/Destine
-horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman
-enclosure - http://dbpedia.org/resource/Enclosure
-retail - http://dbpedia.org/resource/Retail
-national revenue - http://dbpedia.org/resource/Minister_of_National_Revenue_(Canada)
-mortify - http://dbpedia.org/resource/Mortification_of_the_flesh
-farmer - http://dbpedia.org/resource/Farmer
-peace - http://dbpedia.org/resource/Peace
-climate - http://dbpedia.org/resource/Global_warming
-banking institution - http://dbpedia.org/resource/Financial_institution
-washington - http://dbpedia.org/resource/George_Washington
-sims - http://dbpedia.org/resource/Secondary_ion_mass_spectrometry
-john connell - http://dbpedia.org/resource/John_Connell
-agriculture - http://dbpedia.org/resource/Agriculture
-wheel - http://dbpedia.org/resource/Wheel
-houston - http://dbpedia.org/resource/Houston
-tile - http://dbpedia.org/resource/Tile
-independent - http://dbpedia.org/resource/Independence
-mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
-saul - http://dbpedia.org/resource/Paul_the_Apostle
-sail - http://dbpedia.org/resource/Sail
-clothing - http://dbpedia.org/resource/Inuit
-general santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
-matagorda - http://dbpedia.org/resource/Matagorda_Bay
-tragedy - http://dbpedia.org/resource/Tragedy
-bahia - http://dbpedia.org/resource/Bahia
-extirpation - http://dbpedia.org/resource/Local_extinction
-harrison - http://dbpedia.org/resource/William_Henry_Harrison
-erasmo seguin - http://dbpedia.org/resource/Erasmo_Seguín
-wisdom - http://dbpedia.org/resource/Wisdom
-columbia - http://dbpedia.org/resource/Cuban_rumba
-indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
-angel - http://dbpedia.org/resource/Angel
-andrew - http://dbpedia.org/resource/Telephone_exchange_names
-melancholy - http://dbpedia.org/resource/Major_depressive_disorder
-tobacco - http://dbpedia.org/resource/Tobacco
-joseph - http://dbpedia.org/resource/Joseph_Smith
-cotton - http://dbpedia.org/resource/Cotton
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-robert mills - http://dbpedia.org/resource/Wonderbound
-mantle - http://dbpedia.org/resource/Bird
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
-theory - http://dbpedia.org/resource/Theory
-demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
-confide - http://dbpedia.org/resource/Confide
-statehood - http://dbpedia.org/resource/Sovereign_state
-william hardin - http://dbpedia.org/resource/William_Hardin
-arid - http://dbpedia.org/resource/Desert
-parasite - http://dbpedia.org/resource/Parasitism
-treatise - http://dbpedia.org/resource/Discourse
-decree - http://dbpedia.org/resource/Papal_bull
-spurn - http://dbpedia.org/resource/Spurn
-augustine - http://dbpedia.org/resource/Augustine_of_Hippo
-thomas - http://dbpedia.org/resource/THOMAS
-utility - http://dbpedia.org/resource/Utility
-forego - http://dbpedia.org/resource/Forego
-san felipe - http://dbpedia.org/resource/Philip_the_Apostle
-miller - http://dbpedia.org/resource/Gristmill
-achilles - http://dbpedia.org/resource/Achilles
-chief magistrate - http://dbpedia.org/resource/Chief_magistrate
-charter - http://dbpedia.org/resource/Charter
-snow - http://dbpedia.org/resource/Snow
-joshua - http://dbpedia.org/resource/Joshua
-object - http://dbpedia.org/resource/Physical_object
-hollowware - http://dbpedia.org/resource/Holloware
-oppressor - http://dbpedia.org/resource/Oppressor
-viesca - http://dbpedia.org/resource/Viesca
-paper - http://dbpedia.org/resource/Paper
-governor - http://dbpedia.org/resource/Governor
-henry brown - http://dbpedia.org/resource/Henry_Billings_Brown
-land grant - http://dbpedia.org/resource/Land_grant
-heaven - http://dbpedia.org/resource/Heaven
-james kerr - http://dbpedia.org/resource/James_Kerr_(Texas)
-farming - http://dbpedia.org/resource/Farmer
-garrison - http://dbpedia.org/resource/Garrison
-rabb - http://dbpedia.org/resource/Rabb
-nullity - http://dbpedia.org/resource/Declaration_of_nullity
-republicans - http://dbpedia.org/resource/Republicanism
-nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
 heart - http://dbpedia.org/resource/Heart
-mexicans - http://dbpedia.org/resource/Mexico
-train - http://dbpedia.org/resource/Rail_transport
-fear - http://dbpedia.org/resource/Fear
-dewitt - http://dbpedia.org/resource/Bryce_DeWitt
-defenseless - http://dbpedia.org/resource/Defenseless
-iron - http://dbpedia.org/resource/Iron
-concession - http://dbpedia.org/resource/Contract
-james looney - http://dbpedia.org/resource/James_Looney
-sabine - http://dbpedia.org/resource/Sabines
-francis - http://dbpedia.org/resource/Pope_Francis
-de witt - http://dbpedia.org/resource/Johan_de_Witt
-anxiety - http://dbpedia.org/resource/Anxiety
-wyatt - http://dbpedia.org/resource/Wyatt_Earp
-settler - http://dbpedia.org/resource/Settler
-freedom - http://dbpedia.org/resource/Liberty
-town - http://dbpedia.org/resource/Town
-polar star - http://dbpedia.org/resource/Pole_star
-rope - http://dbpedia.org/resource/Rope
-duke - http://dbpedia.org/resource/Duke
-aborigine - http://dbpedia.org/resource/Aboriginal_Australians
-summer - http://dbpedia.org/resource/Summer
-life support - http://dbpedia.org/resource/Life_support
-bynum - http://dbpedia.org/resource/Andrew_Bynum
-ideal - http://dbpedia.org/resource/Thought_experiment
-colorado - http://dbpedia.org/resource/Colorado
-mexican government - http://dbpedia.org/resource/First_Mexican_Republic
-misrepresentation - http://dbpedia.org/resource/Misrepresentation
-gomez farias - http://dbpedia.org/resource/Gómez_Farías_Municipality,_Tamaulipas
-radical - http://dbpedia.org/resource/Political_radicalism
-virtue - http://dbpedia.org/resource/Virtue
-parker - http://dbpedia.org/resource/Charlie_Parker
-liberty - http://dbpedia.org/resource/Liberty
-gratuity - http://dbpedia.org/resource/Gratuity
-administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
-gail borden - http://dbpedia.org/resource/Gail_Borden
-garza - http://dbpedia.org/resource/Matt_Garza
-rational argument - http://dbpedia.org/resource/Reason
-habit - http://dbpedia.org/resource/Habit
-san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
-neches - http://dbpedia.org/resource/Neches_River
-ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
-oliver jones - http://dbpedia.org/resource/Oliver_Jones_(pianist)
-henry - http://dbpedia.org/resource/Henry_(unit)
-central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
-coahuila - http://dbpedia.org/resource/Coahuila
-rebellion - http://dbpedia.org/resource/American_Revolution
-alexander thompson - http://dbpedia.org/resource/Alexander_M._Thompson
-elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
-insurrection - http://dbpedia.org/resource/Rebellion
-bark - http://dbpedia.org/resource/Barque
-jonas - http://dbpedia.org/resource/Jonas_(TV_series)
-impunity - http://dbpedia.org/resource/Impunity
-animate - http://dbpedia.org/resource/Animation
-nov - http://dbpedia.org/resource/NOV_(gene)
-freeman - http://dbpedia.org/resource/Feudalism
-republican government - http://dbpedia.org/resource/Republicanism
-powder - http://dbpedia.org/resource/Gunpowder
-native mexicans - http://dbpedia.org/resource/Indigenous_peoples_of_Mexico
-claiborne - http://dbpedia.org/resource/William_C._C._Claiborne
-thompson - http://dbpedia.org/resource/Thompson_River
-douglass - http://dbpedia.org/resource/Frederick_Douglass
-peculiar situation - http://dbpedia.org/resource/Peculiar_Situation
-texian - http://dbpedia.org/resource/Texians
-william wharton - http://dbpedia.org/resource/William_H._Wharton
-sitio - http://dbpedia.org/resource/Sitio
-elijah - http://dbpedia.org/resource/Elijah
-william robinson - http://dbpedia.org/resource/Smokey_Robinson
-friendly - http://dbpedia.org/resource/Friendship
-prudence - http://dbpedia.org/resource/Wisdom
-hadley - http://dbpedia.org/resource/Hadley_Richardson
-saltillo - http://dbpedia.org/resource/Saltillo
-officer - http://dbpedia.org/resource/Police_officer
-mechanic arts - http://dbpedia.org/resource/Artes_Mechanicae
-francis johnson - http://dbpedia.org/resource/Francis_Johnson_(Brownist)
-mexia - http://dbpedia.org/resource/Mexia,_Texas
-furniture - http://dbpedia.org/resource/Furniture
-charles - http://dbpedia.org/resource/Charles_II_of_England
-frederick - http://dbpedia.org/resource/Frederick_the_Great
-concurrence - http://dbpedia.org/resource/Concurring_opinion
-sayre - http://dbpedia.org/resource/Sayre,_Pennsylvania
-federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-elisha - http://dbpedia.org/resource/Elisha
-maritime - http://dbpedia.org/resource/Admiralty_law
-david - http://dbpedia.org/resource/David
-deprecate - http://dbpedia.org/resource/Deprecation
-misguided - http://dbpedia.org/resource/Misguided
-whiting - http://dbpedia.org/resource/Chalk
-shawnees - http://dbpedia.org/resource/Shawnee
-settlement - http://dbpedia.org/resource/Israeli_settlement
-1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
-anglo american - http://dbpedia.org/resource/Anglo-America
-bastrop - http://dbpedia.org/resource/Bastrop_State_Park
-stable - http://dbpedia.org/resource/Stable
-sovereign - http://dbpedia.org/resource/Sovereign_state
-mortification - http://dbpedia.org/resource/Mortification_of_the_flesh
-jared - http://dbpedia.org/resource/Jared_Leto
-communication - http://dbpedia.org/resource/Communication
-bayou - http://dbpedia.org/resource/Bayou
-glad - http://dbpedia.org/resource/The_Glad_Products_Company
-article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
-capital - http://dbpedia.org/resource/Capital_punishment
-sister republic - http://dbpedia.org/resource/Sister_republic
-president - http://dbpedia.org/resource/President_of_the_United_States
-god - http://dbpedia.org/resource/God
-colonization - http://dbpedia.org/resource/Colonialism
-politico - http://dbpedia.org/resource/Politics
-gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
-john henry brown - http://dbpedia.org/resource/John_Henry_Brown
-emigrant - http://dbpedia.org/resource/Emigration
-vindicator - http://dbpedia.org/resource/Phlebiac_Brothers
-tenor - http://dbpedia.org/resource/Tenor
-kerr - http://dbpedia.org/resource/KERR
-carlos garcia - http://dbpedia.org/resource/Carlos_P._Garcia
-security - http://dbpedia.org/resource/National_security
-case government - http://dbpedia.org/resource/Case_government
-unshackled - http://dbpedia.org/resource/Unshackled!
-flood - http://dbpedia.org/resource/Flood
-bexar - http://dbpedia.org/resource/San_Antonio
-torture - http://dbpedia.org/resource/Torture
-george sutherland - http://dbpedia.org/resource/George_Sutherland
-anterior - http://dbpedia.org/resource/Anatomical_terms_of_location
-envision - http://dbpedia.org/resource/Buick_Envision
-luke - http://dbpedia.org/resource/Gospel_of_Luke
-desperate man - http://dbpedia.org/resource/Desperate_Man_(album)
-mercer - http://dbpedia.org/resource/Worshipful_Company_of_Mercers
-uplifted - http://dbpedia.org/resource/Tectonic_uplift
-welfare - http://dbpedia.org/resource/Welfare
-hensley - http://dbpedia.org/resource/Clay_Hensley
-knowledge foundation - http://dbpedia.org/resource/Knowledge_Fund
-santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
-austin austin - http://dbpedia.org/resource/Austin_Austin
-handbook - http://dbpedia.org/resource/Handbook
-calamity - http://dbpedia.org/resource/Disaster
-jack - http://dbpedia.org/resource/Jackfruit
-prepare - http://dbpedia.org/resource/PREPARE
-holland - http://dbpedia.org/resource/Holland
-privation - http://dbpedia.org/resource/Privation
-clay - http://dbpedia.org/resource/Clay
-neches river - http://dbpedia.org/resource/Neches_River
-george - http://dbpedia.org/resource/George_(band)
-primary school - http://dbpedia.org/resource/Primary_education
-credential - http://dbpedia.org/resource/Credential
-mexican republic - http://dbpedia.org/resource/First_Mexican_Republic
-garrett - http://dbpedia.org/resource/Garrett_AiResearch
-coalescence - http://dbpedia.org/resource/Coalescent_theory
-jacksonian - http://dbpedia.org/resource/Andrew_Jackson
-manufacturing - http://dbpedia.org/resource/Manufacturing
-rejoice - http://dbpedia.org/resource/Word_Records
-alcalde - http://dbpedia.org/resource/Alcalde
-import - http://dbpedia.org/resource/Import
-federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
-dictator - http://dbpedia.org/resource/Dictatorship
-ira - http://dbpedia.org/resource/Irish_Republican_Army
-william shaw - http://dbpedia.org/resource/William_Shaw_(Irish_politician)
-spring - http://dbpedia.org/resource/Spring_and_Autumn_period
-jurisdiction - http://dbpedia.org/resource/Jurisdiction
-memorial - http://dbpedia.org/resource/Memorial
-jesse grimes - http://dbpedia.org/resource/Jesse_Grimes
-independence - http://dbpedia.org/resource/Mexican_War_of_Independence
-city - http://dbpedia.org/resource/City
-goliad - http://dbpedia.org/resource/Goliad_massacre
-gaze - http://dbpedia.org/resource/Gaze
-edward burleson - http://dbpedia.org/resource/Edward_Burleson
-dependence - http://dbpedia.org/resource/Correlation_and_dependence
-san patricio - http://dbpedia.org/resource/Saint_Patrick
-paralyzed - http://dbpedia.org/resource/Paralysis
-soil - http://dbpedia.org/resource/Soil
-europeans - http://dbpedia.org/resource/White_people
-citizenship - http://dbpedia.org/resource/Citizenship
-trespass - http://dbpedia.org/resource/Trespass
-patriot - http://dbpedia.org/resource/Patriotism
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-endeavor - http://dbpedia.org/resource/HMS_Endeavour
-texas - http://dbpedia.org/resource/Texas
-aborigines - http://dbpedia.org/resource/Indigenous_peoples
-committee - http://dbpedia.org/resource/Committee
-family - http://dbpedia.org/resource/Family
-john austin - http://dbpedia.org/resource/J._L._Austin
-incline - http://dbpedia.org/resource/Slope
-propel - http://dbpedia.org/resource/Steroid_eluting_sinus_stent
-native mexican - http://dbpedia.org/resource/Indigenous_peoples_of_Mexico
-unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-defiance - http://dbpedia.org/resource/Defiance_(TV_series)
-texas history - http://dbpedia.org/resource/History_of_Texas
-ayuntamientos - http://dbpedia.org/resource/Cabildo_(council)
-conciliation - http://dbpedia.org/resource/Conciliation
-bruff - http://dbpedia.org/resource/Bruff
-benjamin holt - http://dbpedia.org/resource/Benjamin_Holt
-probability - http://dbpedia.org/resource/Probability
-col - http://dbpedia.org/resource/Mountain_pass
-nails - http://dbpedia.org/resource/Onychomycosis
-deception - http://dbpedia.org/resource/Deception
-tariff - http://dbpedia.org/resource/Tariff
-deliberation - http://dbpedia.org/resource/Deliberation
-bounty - http://dbpedia.org/resource/Land_grant
-coy - http://dbpedia.org/resource/NBA_Coach_of_the_Year_Award
-ira ingram - http://dbpedia.org/resource/Ira_Ingram
-federal congress - http://dbpedia.org/resource/Congress_of_the_Union
-education - http://dbpedia.org/resource/Education
-hardware - http://dbpedia.org/resource/Computer_hardware
-soldier - http://dbpedia.org/resource/Soldier
-ramon musquiz - http://dbpedia.org/resource/Ramón_Músquiz
-conscience - http://dbpedia.org/resource/Conscience
-mexican constitution - http://dbpedia.org/resource/Constitution_of_Mexico
-san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
-texans - http://dbpedia.org/resource/Texas
-harrisburg - http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Harrisburg
-thomas hastings - http://dbpedia.org/resource/Thomas_Hastings_(architect)
-romance - http://dbpedia.org/resource/Romanticism
-evil - http://dbpedia.org/resource/Evil
-stinnett - http://dbpedia.org/resource/Stinnett,_Texas
-goad - http://dbpedia.org/resource/Goad
-antonio lopez de santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
-cradle - http://dbpedia.org/resource/Earth
-bradley - http://dbpedia.org/resource/Omar_Bradley
-revolutionary - http://dbpedia.org/resource/American_Revolution
-dinsmore - http://dbpedia.org/resource/Dinsmore,_California
-presidential election - http://dbpedia.org/resource/2016_United_States_presidential_election
-mexico city - http://dbpedia.org/resource/Mexico_City
-george butler - http://dbpedia.org/resource/George_Ide_Butler
-immigrant - http://dbpedia.org/resource/Immigration
-military officer - http://dbpedia.org/resource/Burkina_Faso_Armed_Forces
-region - http://dbpedia.org/resource/Region
-singly - http://dbpedia.org/resource/Singly
-henry smith - http://dbpedia.org/resource/Henry_Smith_(Texas_governor)
-dictatorship - http://dbpedia.org/resource/Dictatorship
-naturalize - http://dbpedia.org/resource/Naturalization
-memorialist - http://dbpedia.org/resource/Memorialism
-archelaus - http://dbpedia.org/resource/Archelaus_I_of_Macedon
-colonist - http://dbpedia.org/resource/Colonialism
-liberal policy - http://dbpedia.org/resource/Liberal_Period_(Dutch_East_Indies)
-law - http://dbpedia.org/resource/Common_law
-goods - http://dbpedia.org/resource/Goods
-patriotism - http://dbpedia.org/resource/Patriotism
-contradiction - http://dbpedia.org/resource/Reductio_ad_absurdum
-sacred - http://dbpedia.org/resource/Glossary_of_ancient_Roman_religion
-steel - http://dbpedia.org/resource/Steel
-municipality - http://dbpedia.org/resource/Municipality
-san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
-sabine river - http://dbpedia.org/resource/Sabine_River_(Texas–Louisiana)
-attachment - http://dbpedia.org/resource/Attachment_theory
-spirit - http://dbpedia.org/resource/Soul
-defense - http://dbpedia.org/resource/Military
-powerless - http://dbpedia.org/resource/Powerless_(TV_series)
-dollar - http://dbpedia.org/resource/United_States_dollar
-tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
-militia - http://dbpedia.org/resource/Militia
-energy - http://dbpedia.org/resource/Energy
-language - http://dbpedia.org/resource/Latin
-robert wilson - http://dbpedia.org/resource/Robert_Thomas_Wilson
-jone - http://dbpedia.org/resource/Jone_(opera)
-jesse - http://dbpedia.org/resource/Jesse_Pinkman
-thorn - http://dbpedia.org/resource/Crataegus_monogyna
-mina - http://dbpedia.org/resource/Mina_(unit)
-emergency general meeting - http://dbpedia.org/resource/Extraordinary_general_meeting
-single - http://dbpedia.org/resource/Extended_play
-brazoria - http://dbpedia.org/resource/Brazoria_National_Wildlife_Refuge
-hereditary nobility - http://dbpedia.org/resource/Russian_nobility
-confederacy - http://dbpedia.org/resource/Federalism
-vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
-permanence - http://dbpedia.org/resource/Permanence_(album)
-colonel - http://dbpedia.org/resource/Colonel
-immigration - http://dbpedia.org/resource/Immigration
-tenant - http://dbpedia.org/resource/Leasehold_estate
-republican - http://dbpedia.org/resource/Republicanism
-san antonio - http://dbpedia.org/resource/San_Antonio
-petition - http://dbpedia.org/resource/Prayer
-assemble peaceably - http://dbpedia.org/resource/Freedom_of_assembly
-relief - http://dbpedia.org/resource/Welfare
-confederation - http://dbpedia.org/resource/Confederate_States_of_America
-harrison george - http://dbpedia.org/resource/Harrison_George
-john english - http://dbpedia.org/resource/John_English_(director)
-james morgan - http://dbpedia.org/resource/Juliette_Pochin
-magnitude - http://dbpedia.org/resource/Euclidean_vector
-learning - http://dbpedia.org/resource/Education
-racist - http://dbpedia.org/resource/Racism
-texas government - http://dbpedia.org/resource/Government_of_Texas
-mexico - http://dbpedia.org/resource/First_Mexican_Republic
-bingham - http://dbpedia.org/resource/Bingham_McCutchen
-republicanism - http://dbpedia.org/resource/Republicanism
-habitable - http://dbpedia.org/resource/Habitability
-joseph bell - http://dbpedia.org/resource/Joseph_Bell
-holt - http://dbpedia.org/resource/Woodland
-austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
-anglo americans - http://dbpedia.org/resource/Anglo-America
-inequality - http://dbpedia.org/resource/Economic_inequality
-lead shot - http://dbpedia.org/resource/Shot_(pellet)
-apr - http://dbpedia.org/resource/Annual_percentage_rate
-specie - http://dbpedia.org/resource/Money
-absalom - http://dbpedia.org/resource/Absalom
-draft - http://dbpedia.org/resource/Conscription
-opportune - http://dbpedia.org/resource/HMS_Opportune_(G80)
-charles baird - http://dbpedia.org/resource/Charles_A._Baird
-cherokee - http://dbpedia.org/resource/Cherokee
-san - http://dbpedia.org/resource/Japanese_honorifics
-alexander - http://dbpedia.org/resource/Alexander_the_Great
 republic - http://dbpedia.org/resource/Republic
-looney - http://dbpedia.org/resource/LoOney
-xenophobic - http://dbpedia.org/resource/Xenophobia
-burnham - http://dbpedia.org/resource/Frederick_Russell_Burnham
-woodbury - http://dbpedia.org/resource/Woodbury,_New_Jersey
+retailing - http://dbpedia.org/resource/Retail
+kerr - http://dbpedia.org/resource/KERR
+sterling - http://dbpedia.org/resource/Pound_sterling
+informs - http://dbpedia.org/resource/Institute_for_Operations_Research_and_the_Management_Sciences
+defiance - http://dbpedia.org/resource/Defiance_(TV_series)
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+theory - http://dbpedia.org/resource/Theory
+tenor - http://dbpedia.org/resource/Tenor
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+nov - http://dbpedia.org/resource/NOV_(gene)
+defenseless - http://dbpedia.org/resource/Defenseless
+communication - http://dbpedia.org/resource/Communication
+gail borden - http://dbpedia.org/resource/Gail_Borden
+1824 constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
+flood - http://dbpedia.org/resource/Flood
+bark - http://dbpedia.org/resource/Barque
+mina - http://dbpedia.org/resource/Mina_(unit)
+awaken - http://dbpedia.org/resource/Going_for_the_One
+archer - http://dbpedia.org/resource/Bow_and_arrow
+george butler - http://dbpedia.org/resource/George_Ide_Butler
+san patricio - http://dbpedia.org/resource/Saint_Patrick
+mexican constitution - http://dbpedia.org/resource/Constitution_of_Mexico
+edward burleson - http://dbpedia.org/resource/Edward_Burleson
+blasted - http://dbpedia.org/resource/Blasted
+colorado - http://dbpedia.org/resource/Colorado
+republicans - http://dbpedia.org/resource/Republicanism
+deliberation - http://dbpedia.org/resource/Deliberation
+law - http://dbpedia.org/resource/Common_law
+wisdom - http://dbpedia.org/resource/Wisdom
+mortification - http://dbpedia.org/resource/Mortification_of_the_flesh
+rope - http://dbpedia.org/resource/Rope
+hanging - http://dbpedia.org/resource/Capital_punishment
+spirit - http://dbpedia.org/resource/Soul
+assemble peaceably - http://dbpedia.org/resource/Freedom_of_assembly
+john austin - http://dbpedia.org/resource/J._L._Austin
+viesca - http://dbpedia.org/resource/Viesca
+memorial - http://dbpedia.org/resource/Memorial
+presented credentials - http://dbpedia.org/resource/Letter_of_credence
+deprecated - http://dbpedia.org/resource/Deprecation
+statehood - http://dbpedia.org/resource/Sovereign_state
+impunity - http://dbpedia.org/resource/Impunity
+rational - http://dbpedia.org/resource/Reason
+learning - http://dbpedia.org/resource/Education
+charles baird - http://dbpedia.org/resource/Charles_A._Baird
+uplifted - http://dbpedia.org/resource/Tectonic_uplift
+achilles - http://dbpedia.org/resource/Achilles
+snow - http://dbpedia.org/resource/Snow
+freeman - http://dbpedia.org/resource/Feudalism
+nestor - http://dbpedia.org/resource/Nestor_the_Chronicler
+coy - http://dbpedia.org/resource/NBA_Coach_of_the_Year_Award
+san jacinto river - http://dbpedia.org/resource/San_Jacinto_River_(Texas)
+iron - http://dbpedia.org/resource/Iron
+national revenue - http://dbpedia.org/resource/Minister_of_National_Revenue_(Canada)
+san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
+houston - http://dbpedia.org/resource/Houston
+sitio - http://dbpedia.org/resource/Sitio
+liberal policy - http://dbpedia.org/resource/Liberal_Period_(Dutch_East_Indies)
+shawnees - http://dbpedia.org/resource/Shawnee
+garza - http://dbpedia.org/resource/Matt_Garza
+habit - http://dbpedia.org/resource/Habit
+ayuntamientos - http://dbpedia.org/resource/Cabildo_(council)
+anglo american - http://dbpedia.org/resource/Anglo-America
+europeans - http://dbpedia.org/resource/White_people
+defense - http://dbpedia.org/resource/Military
+rejoice - http://dbpedia.org/resource/Word_Records
+paper - http://dbpedia.org/resource/Paper
+jesse grimes - http://dbpedia.org/resource/Jesse_Grimes
+confederation - http://dbpedia.org/resource/Confederate_States_of_America
+claiborne - http://dbpedia.org/resource/William_C._C._Claiborne
+glad - http://dbpedia.org/resource/The_Glad_Products_Company
+unshackled - http://dbpedia.org/resource/Unshackled!
+garrison - http://dbpedia.org/resource/Garrison
+thomas - http://dbpedia.org/resource/THOMAS
+bynum - http://dbpedia.org/resource/Andrew_Bynum
+immigration - http://dbpedia.org/resource/Immigration
+farming - http://dbpedia.org/resource/Farmer
+revolutionary - http://dbpedia.org/resource/American_Revolution
+region - http://dbpedia.org/resource/Region
+town - http://dbpedia.org/resource/Town
+thompson - http://dbpedia.org/resource/Thompson_River
+mexican republic - http://dbpedia.org/resource/First_Mexican_Republic
+joseph bell - http://dbpedia.org/resource/Joseph_Bell
+alcalde - http://dbpedia.org/resource/Alcalde
+committee - http://dbpedia.org/resource/Committee
+soldier - http://dbpedia.org/resource/Soldier
+mexico city - http://dbpedia.org/resource/Mexico_City
+peace - http://dbpedia.org/resource/Peace
+concurrence - http://dbpedia.org/resource/Concurring_opinion
+san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
+hollowware - http://dbpedia.org/resource/Holloware
+ira ingram - http://dbpedia.org/resource/Ira_Ingram
+mexicans - http://dbpedia.org/resource/Mexico
+harrison george - http://dbpedia.org/resource/Harrison_George
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+militia - http://dbpedia.org/resource/Militia
+wharton - http://dbpedia.org/resource/Wharton_School_of_the_University_of_Pennsylvania
+bexar - http://dbpedia.org/resource/San_Antonio
+ira - http://dbpedia.org/resource/Provisional_Irish_Republican_Army
+eli - http://dbpedia.org/resource/List_of_Heroes_characters
+virtue - http://dbpedia.org/resource/Virtue
+colonel - http://dbpedia.org/resource/Colonel
+rabb - http://dbpedia.org/resource/Rabb
+james morgan - http://dbpedia.org/resource/Juliette_Pochin
+cotton - http://dbpedia.org/resource/Cotton
+francis johnson - http://dbpedia.org/resource/Francis_Johnson_(Brownist)
+immigrants - http://dbpedia.org/resource/Immigration
+charter - http://dbpedia.org/resource/Charter
+prepare - http://dbpedia.org/resource/PREPARE
+bradley - http://dbpedia.org/resource/Omar_Bradley
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+summer - http://dbpedia.org/resource/Summer
+extirpation - http://dbpedia.org/resource/Local_extinction
+intruded - http://dbpedia.org/resource/Intrusive_rock
+anxiety - http://dbpedia.org/resource/Anxiety
+powder - http://dbpedia.org/resource/Gunpowder
+american colonists - http://dbpedia.org/resource/American_Revolution
+central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+prohibition - http://dbpedia.org/resource/Prohibition
+incline - http://dbpedia.org/resource/Slope
+nacogdoches - http://dbpedia.org/resource/Nacogdoches,_Texas
+education - http://dbpedia.org/resource/Education
+gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
+jacksonian - http://dbpedia.org/resource/Andrew_Jackson
+wyatt - http://dbpedia.org/resource/Wyatt_Earp
+demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
+silas - http://dbpedia.org/resource/Silas
+robert mills - http://dbpedia.org/resource/Robert_P._Mills
+peculiar situation - http://dbpedia.org/resource/Peculiar_Situation
+bounty - http://dbpedia.org/resource/Land_grant
+ramon musquiz - http://dbpedia.org/resource/Ramón_Músquiz
+stinnett - http://dbpedia.org/resource/Stinnett,_Texas
+attachment - http://dbpedia.org/resource/Attachment_theory
+intercourse - http://dbpedia.org/resource/Sexual_intercourse
+patriotism - http://dbpedia.org/resource/Patriotism
+antonio lopez de santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+sayre - http://dbpedia.org/resource/Sayre,_Pennsylvania
+fear - http://dbpedia.org/resource/Fear
+polar star - http://dbpedia.org/resource/Pole_star
+texans - http://dbpedia.org/resource/Texas
+bingham - http://dbpedia.org/resource/Bingham_McCutchen
+clothing - http://dbpedia.org/resource/Inuit
+john connell - http://dbpedia.org/resource/John_Connell
+arms - http://dbpedia.org/resource/Weapon
+liberty - http://dbpedia.org/resource/Liberty
+hereditary nobility - http://dbpedia.org/resource/Russian_nobility
+hardware - http://dbpedia.org/resource/Computer_hardware
+probability - http://dbpedia.org/resource/Probability
+naturalized - http://dbpedia.org/resource/Naturalization
+sims - http://dbpedia.org/resource/Secondary_ion_mass_spectrometry
+saul - http://dbpedia.org/resource/Paul_the_Apostle
+single - http://dbpedia.org/resource/Extended_play
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+suspicions - http://dbpedia.org/resource/Suspicions_(Eddie_Rabbitt_song)
+elijah - http://dbpedia.org/resource/Elijah
+truth - http://dbpedia.org/resource/Truth
+whiting - http://dbpedia.org/resource/Chalk
+oliver jones - http://dbpedia.org/resource/Oliver_Jones_(pianist)
+draft - http://dbpedia.org/resource/Conscription
+francis - http://dbpedia.org/resource/Pope_Francis
+freedom - http://dbpedia.org/resource/Liberty
+contradiction - http://dbpedia.org/resource/Reductio_ad_absurdum
+species - http://dbpedia.org/resource/Species
+bruff - http://dbpedia.org/resource/Bruff
+enclosure - http://dbpedia.org/resource/Enclosure
+rebellion - http://dbpedia.org/resource/American_Revolution
+indian affairs - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+smiles - http://dbpedia.org/resource/Simplified_molecular-input_line-entry_system
+holland - http://dbpedia.org/resource/Holland
+stationery - http://dbpedia.org/resource/Stationery
+tragedy - http://dbpedia.org/resource/Tragedy
+republican government - http://dbpedia.org/resource/Republicanism
+absalom - http://dbpedia.org/resource/Absalom
+capital - http://dbpedia.org/resource/Capital_punishment
+family - http://dbpedia.org/resource/Family
+bastrop - http://dbpedia.org/resource/Bastrop_State_Park
+neches river - http://dbpedia.org/resource/Neches_River
+miller - http://dbpedia.org/resource/Gristmill
+deception - http://dbpedia.org/resource/Deception
+henry brown - http://dbpedia.org/resource/Henry_Billings_Brown
+ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
+manufacturing - http://dbpedia.org/resource/Manufacturing
+utility - http://dbpedia.org/resource/Utility
+habitable - http://dbpedia.org/resource/Habitability
+andrew - http://dbpedia.org/resource/Telephone_exchange_names
+gaze - http://dbpedia.org/resource/Gaze
+carlos garcia - http://dbpedia.org/resource/Carlos_P._Garcia
+powerless - http://dbpedia.org/resource/Powerless_(TV_series)
+maritime - http://dbpedia.org/resource/Admiralty_law
+citizenship - http://dbpedia.org/resource/Citizenship
+federal congress - http://dbpedia.org/resource/Congress_of_the_Union
+indian emigrants - http://dbpedia.org/resource/Muhajir_people
+dictator - http://dbpedia.org/resource/Dictatorship
+san antonio - http://dbpedia.org/resource/San_Antonio
+matagorda - http://dbpedia.org/resource/Matagorda_Bay
+harrison - http://dbpedia.org/resource/William_Henry_Harrison
+misguided - http://dbpedia.org/resource/Misguided
+william wharton - http://dbpedia.org/resource/William_H._Wharton
+security - http://dbpedia.org/resource/National_security
+climate - http://dbpedia.org/resource/Global_warming
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+municipality - http://dbpedia.org/resource/Municipality
+gratuity - http://dbpedia.org/resource/Gratuity
+james wright - http://dbpedia.org/resource/Sounds_of_Blackness
+petition - http://dbpedia.org/resource/Prayer
+san felipe - http://dbpedia.org/resource/Philip_the_Apostle
+hopes - http://dbpedia.org/resource/USA_Gymnastics
+john henry brown - http://dbpedia.org/resource/John_Henry_Brown
+jared - http://dbpedia.org/resource/Jared_Leto
+austin - http://dbpedia.org/resource/Stone_Cold_Steve_Austin
+nails - http://dbpedia.org/resource/Onychomycosis
+mexican government - http://dbpedia.org/resource/First_Mexican_Republic
 yield - http://dbpedia.org/resource/Crop_yield
+arid - http://dbpedia.org/resource/Desert
+texas government - http://dbpedia.org/resource/Government_of_Texas
+calamity - http://dbpedia.org/resource/Disaster
+looney - http://dbpedia.org/resource/LoOney
+james kerr - http://dbpedia.org/resource/James_Kerr_(Texas)
+chief magistrate - http://dbpedia.org/resource/Chief_magistrate
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+parasites - http://dbpedia.org/resource/Parasitism
+holt - http://dbpedia.org/resource/Woodland
+robert wilson - http://dbpedia.org/resource/Robert_Thomas_Wilson
+presidential election - http://dbpedia.org/resource/2016_United_States_presidential_election
+san - http://dbpedia.org/resource/Japanese_honorifics
+washington - http://dbpedia.org/resource/George_Washington
+douglass - http://dbpedia.org/resource/Frederick_Douglass
+james looney - http://dbpedia.org/resource/James_Looney
+goad - http://dbpedia.org/resource/Goad
+santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+steel - http://dbpedia.org/resource/Steel
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+thomas hastings - http://dbpedia.org/resource/Thomas_Hastings_(architect)
+clay - http://dbpedia.org/resource/Clay
+sabine - http://dbpedia.org/resource/Sabines
+conciliation - http://dbpedia.org/resource/Conciliation
+indispensable - http://dbpedia.org/resource/Indispensable_(1791_ship)
+john english - http://dbpedia.org/resource/John_English_(director)
+william robinson - http://dbpedia.org/resource/Smokey_Robinson
+texas history - http://dbpedia.org/resource/History_of_Texas
+welfare - http://dbpedia.org/resource/Welfare
+patriot - http://dbpedia.org/resource/Patriotism
+luke - http://dbpedia.org/resource/Gospel_of_Luke
+angel - http://dbpedia.org/resource/Angel
+mexia - http://dbpedia.org/resource/Mexia,_Texas
+tariff - http://dbpedia.org/resource/Tariff
+gomez farias - http://dbpedia.org/resource/Gómez_Farías_Municipality,_Tamaulipas
+stable - http://dbpedia.org/resource/Stable
+colonization - http://dbpedia.org/resource/Colonialism
+anterior - http://dbpedia.org/resource/Anatomical_terms_of_location
+anglo americans - http://dbpedia.org/resource/Anglo-America
+jesse - http://dbpedia.org/resource/Jesse_Pinkman
+dinsmore - http://dbpedia.org/resource/Dinsmore,_California
+oppression - http://dbpedia.org/resource/Oppression
+thorn - http://dbpedia.org/resource/Crataegus_monogyna
+romance - http://dbpedia.org/resource/Romanticism
+public affairs - http://dbpedia.org/resource/Lobbying
+decree - http://dbpedia.org/resource/Papal_bull
+insurrection - http://dbpedia.org/resource/Rebellion
+roll call vote - http://dbpedia.org/resource/Voting_methods_in_deliberative_assemblies
+practical arguments - http://dbpedia.org/resource/Practical_arguments
+heaven - http://dbpedia.org/resource/Heaven
+archelaus - http://dbpedia.org/resource/Archelaus_I_of_Macedon
+soil - http://dbpedia.org/resource/Soil
+erasmo seguin - http://dbpedia.org/resource/Erasmo_Seguín
+endeavor - http://dbpedia.org/resource/HMS_Endeavour
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+racist - http://dbpedia.org/resource/Racism
+military officer - http://dbpedia.org/resource/Burkina_Faso_Armed_Forces
+frederick - http://dbpedia.org/resource/Frederick_the_Great
+inequality - http://dbpedia.org/resource/Economic_inequality
+singly - http://dbpedia.org/resource/Singly
+active measures - http://dbpedia.org/resource/Active_measures
+firesides - http://dbpedia.org/resource/Fireside_(LDS_Church)
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
+saltillo - http://dbpedia.org/resource/Saltillo
+garrett - http://dbpedia.org/resource/Garrett_AiResearch
+general santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
+animated - http://dbpedia.org/resource/Cartoon
+duke - http://dbpedia.org/resource/Duke
+charles - http://dbpedia.org/resource/Charles_II_of_England
+president - http://dbpedia.org/resource/President_of_the_United_States
+revenue - http://dbpedia.org/resource/Tax
+de witt - http://dbpedia.org/resource/Johan_de_Witt
+col - http://dbpedia.org/resource/Mountain_pass
+wished - http://dbpedia.org/resource/Wished_(film)
+texas - http://dbpedia.org/resource/Texas
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+magnitude - http://dbpedia.org/resource/Euclidean_vector
+native mexicans - http://dbpedia.org/resource/Indigenous_peoples_of_Mexico
+dependence - http://dbpedia.org/resource/Correlation_and_dependence
+elisha - http://dbpedia.org/resource/Elisha
+sacred - http://dbpedia.org/resource/Glossary_of_ancient_Roman_religion
+columbia - http://dbpedia.org/resource/Cuban_rumba
+rafael manchola - http://dbpedia.org/resource/Rafael_Manchola
+melancholy - http://dbpedia.org/resource/Major_depressive_disorder
+tariffs - http://dbpedia.org/resource/Tariff
+opportune - http://dbpedia.org/resource/HMS_Opportune_(G80)
+goliad - http://dbpedia.org/resource/Goliad_massacre
+tobacco - http://dbpedia.org/resource/Tobacco
+augustine - http://dbpedia.org/resource/Augustine_of_Hippo
+horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman
+burnham - http://dbpedia.org/resource/Frederick_Russell_Burnham
+acting president - http://dbpedia.org/resource/President_of_the_Republic_of_China
+william hardin - http://dbpedia.org/resource/William_Hardin
+henry smith - http://dbpedia.org/resource/Henry_Smith_(Texas_governor)
+permanence - http://dbpedia.org/resource/Permanence_(album)
+austin austin - http://dbpedia.org/resource/Austin_Austin
+mercer - http://dbpedia.org/resource/Worshipful_Company_of_Mercers
+woodbury - http://dbpedia.org/resource/Woodbury,_New_Jersey
+joshua - http://dbpedia.org/resource/Joshua
+vindicator - http://dbpedia.org/resource/Phlebiac_Brothers
+cradle - http://dbpedia.org/resource/Earth
+misled - http://dbpedia.org/resource/Misled_(Celine_Dion_song)
+bahia - http://dbpedia.org/resource/Bahia
+goods - http://dbpedia.org/resource/Personal_property
+texian - http://dbpedia.org/resource/Texians
+dewitt - http://dbpedia.org/resource/Bryce_DeWitt
+republican - http://dbpedia.org/resource/Republicanism
+friendly - http://dbpedia.org/resource/Friendship
+sabine rivers - http://dbpedia.org/resource/Sabine_River_(Texas–Louisiana)
+james bowie - http://dbpedia.org/resource/James_Bowie
+coahuila - http://dbpedia.org/resource/Coahuila
+paralyzed - http://dbpedia.org/resource/Paralysis
+prudence - http://dbpedia.org/resource/Wisdom
+conscience - http://dbpedia.org/resource/Conscience
+furniture - http://dbpedia.org/resource/Furniture
+parker - http://dbpedia.org/resource/Charlie_Parker
+municipalities - http://dbpedia.org/resource/Municipality
+radical - http://dbpedia.org/resource/Political_radicalism
 centralist - http://dbpedia.org/resource/Centralized_government
+misrepresentation - http://dbpedia.org/resource/Misrepresentation
+william shaw - http://dbpedia.org/resource/William_Shaw_(Irish_politician)
+neches - http://dbpedia.org/resource/Neches_River
+xenophobic - http://dbpedia.org/resource/Xenophobia
+confederacy - http://dbpedia.org/resource/Confederate_States_of_America
+wiley - http://dbpedia.org/resource/Wiley-Blackwell
+dictatorship - http://dbpedia.org/resource/Dictatorship
+handbook - http://dbpedia.org/resource/Handbook
+object - http://dbpedia.org/resource/Non-physical_entity
+brazoria - http://dbpedia.org/resource/Brazoria_National_Wildlife_Refuge
+sovereign - http://dbpedia.org/resource/Sovereign_state
+farmer - http://dbpedia.org/resource/Farmer
+harrisburg - http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Harrisburg
+alexander thompson - http://dbpedia.org/resource/Alexander_M._Thompson
+governor - http://dbpedia.org/resource/Governor
+george sutherland - http://dbpedia.org/resource/George_Sutherland
+apr - http://dbpedia.org/resource/Annual_percentage_rate
+federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+cherokee - http://dbpedia.org/resource/Cherokee
+privation - http://dbpedia.org/resource/Privation
+independent - http://dbpedia.org/resource/Independence
+mechanic arts - http://dbpedia.org/resource/Artes_Mechanicae
+benjamin holt - http://dbpedia.org/resource/Benjamin_Holt
+liberal - http://dbpedia.org/resource/Liberalism
+jack - http://dbpedia.org/resource/Jackfruit
+agriculture - http://dbpedia.org/resource/Agriculture
+native mexican - http://dbpedia.org/resource/Indigenous_peoples_of_Mexico
+charlton - http://dbpedia.org/resource/Charlton_Athletic_F.C.
+sister republic - http://dbpedia.org/resource/Sister_republic
+george - http://dbpedia.org/resource/George_(band)
+article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
+joseph - http://dbpedia.org/resource/Joseph_Smith
+tile - http://dbpedia.org/resource/Tile
+david - http://dbpedia.org/resource/David
+god - http://dbpedia.org/resource/God
+aborigines - http://dbpedia.org/resource/Indigenous_peoples
+city - http://dbpedia.org/resource/City
+hensley - http://dbpedia.org/resource/Clay_Hensley
+jonas - http://dbpedia.org/resource/Jonas_(TV_series)
+relief - http://dbpedia.org/resource/Welfare
+bayou - http://dbpedia.org/resource/Bayou
+hadley - http://dbpedia.org/resource/Hadley_Richardson
+coalescence - http://dbpedia.org/resource/Coalescent_theory
+mexico - http://dbpedia.org/resource/New_Spain
+republicanism - http://dbpedia.org/resource/Republicanism
+politico - http://dbpedia.org/resource/Politics
+henry - http://dbpedia.org/resource/Henry_(unit)
+settlement - http://dbpedia.org/resource/Israeli_settlement

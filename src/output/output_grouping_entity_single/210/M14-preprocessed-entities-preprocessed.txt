@@ -1,166 +1,161 @@
-illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
-308 bc - http://dbpedia.org/resource/308_BC
-mathematician - http://dbpedia.org/resource/Greek_mathematics
-harry turtledove - http://dbpedia.org/resource/Harry_Turtledove
-soldier - http://dbpedia.org/resource/Soldier
-bodyguard - http://dbpedia.org/resource/Somatophylakes
-bronze - http://dbpedia.org/resource/Bronze_Age
-die - http://dbpedia.org/resource/Death
-heracles - http://dbpedia.org/resource/Heracles
-tent - http://dbpedia.org/resource/Tent
-megara - http://dbpedia.org/resource/Megara
-4 bc - http://dbpedia.org/resource/4_BC
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-caria - http://dbpedia.org/resource/Caria
-alexander iv - http://dbpedia.org/resource/Alexander_IV_of_Macedon
-alexandria - http://dbpedia.org/resource/Alexandria
-macedonian - http://dbpedia.org/resource/Ancient_Macedonians
-lysimachus - http://dbpedia.org/resource/Lysimachus
 siwa oasis - http://dbpedia.org/resource/Siwa_Oasis
-nicomedia - http://dbpedia.org/resource/Nicomedia
-cyprus - http://dbpedia.org/resource/Cyprus
-regent - http://dbpedia.org/resource/Regent
-cyrene - http://dbpedia.org/resource/Cyrenaica
-southern syria - http://dbpedia.org/resource/Southern_Syria
-jo graham - http://dbpedia.org/resource/Jo_Graham
-egyptian culture - http://dbpedia.org/resource/Culture_of_Egypt
-ptolemy keraunos - http://dbpedia.org/resource/Ptolemy_Keraunos
-asia minor - http://dbpedia.org/resource/Anatolia
-bessus - http://dbpedia.org/resource/Bessus
-virgilio teixeira - http://dbpedia.org/resource/Virgilio_Teixeira_(actor)
-petty king - http://dbpedia.org/resource/Petty_kingdom
-ancient greek - http://dbpedia.org/resource/Ancient_Greek
-nobleman - http://dbpedia.org/resource/Nobility
-menelaus - http://dbpedia.org/resource/Morpho_menelaus
-siege - http://dbpedia.org/resource/Siege
-combatant - http://dbpedia.org/resource/Cavalry
-283 bc - http://dbpedia.org/resource/283_BC
-263 bc - http://dbpedia.org/resource/263_BC
-town - http://dbpedia.org/resource/Town
-demetrius poliorcetes - http://dbpedia.org/resource/Demetrius_I_of_Macedon
-stealing fire - http://dbpedia.org/resource/Stealing_Fire_(Bruce_Cockburn_album)
-ptolemaios - http://dbpedia.org/resource/Ptolemy_V_Epiphanes
-oracle - http://dbpedia.org/resource/Delphi
-myth - http://dbpedia.org/resource/Greek_mythology
-diadochi - http://dbpedia.org/resource/Diadochi
-road geometry - http://dbpedia.org/resource/Geometric_design_of_roads
-macedon - http://dbpedia.org/resource/Ancient_Macedonians
-cleomenes - http://dbpedia.org/resource/Cleomenes_of_Naucratis
-nile - http://dbpedia.org/resource/Nile
-court - http://dbpedia.org/resource/Royal_court
-pain - http://dbpedia.org/resource/Suffering
-a.b. - http://dbpedia.org/resource/Able_seaman
-soter - http://dbpedia.org/resource/Soter
-fugitive - http://dbpedia.org/resource/Fugitive
-peace - http://dbpedia.org/resource/Peace
-funeral games - http://dbpedia.org/resource/Funeral_games
-murder - http://dbpedia.org/resource/Murder
-lycia - http://dbpedia.org/resource/Lycia
-hellenistic kingdom - http://dbpedia.org/resource/Hellenistic_period
-philip iii arrhidaeus - http://dbpedia.org/resource/Philip_III_of_Macedon
-lift - http://dbpedia.org/resource/Elevator
-warfare - http://dbpedia.org/resource/War
-cyrenaica - http://dbpedia.org/resource/Cyrenaica
-babylonia - http://dbpedia.org/resource/Babylonia
-macedonia - http://dbpedia.org/resource/North_Macedonia
-float - http://dbpedia.org/resource/Buoyancy
-berenice - http://dbpedia.org/resource/Berenice_I_of_Egypt
-aornos - http://dbpedia.org/resource/Aornos
-memphis - http://dbpedia.org/resource/Memphis_Tigers_men's_basketball
-independent - http://dbpedia.org/resource/Independence
-partisan - http://dbpedia.org/resource/Yugoslav_Partisans
-rebellion - http://dbpedia.org/resource/Rebellion
-seleucid - http://dbpedia.org/resource/Diadochi
-romance - http://dbpedia.org/resource/Chivalric_romance
-philip ii - http://dbpedia.org/resource/Philip_II_of_Macedon
-iv - http://dbpedia.org/resource/Panzer_IV
 cassander - http://dbpedia.org/resource/Cassander
-euclid - http://dbpedia.org/resource/Euclid
-hellenic - http://dbpedia.org/resource/Hellenistic_period
-seleucus - http://dbpedia.org/resource/Seleucus_I_Nicator
-cave - http://dbpedia.org/resource/Cave
-greece - http://dbpedia.org/resource/Ancient_Greece
-seleucus nicator - http://dbpedia.org/resource/Seleucus_I_Nicator
-ptolemy ii philadelphus - http://dbpedia.org/resource/Ptolemy_II_Philadelphus
-ptolemaic dynasty - http://dbpedia.org/resource/Ptolemaic_dynasty
-elliot cowan - http://dbpedia.org/resource/Elliot_Cowan
-christian cameron - http://dbpedia.org/resource/Christian_Cameron
-greek culture - http://dbpedia.org/resource/Ancient_Greece
-eye - http://dbpedia.org/resource/Vecna
-invade egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
-propagandist - http://dbpedia.org/resource/Propaganda
-eurydice - http://dbpedia.org/resource/Eurydice_of_Egypt
-partition - http://dbpedia.org/resource/Partition_of_India
-compact - http://dbpedia.org/resource/Compact_car
-hetaera - http://dbpedia.org/resource/Hetaira
+megara - http://dbpedia.org/resource/Megara
+alexander iv - http://dbpedia.org/resource/Alexander_IV_of_Macedon
 arsinoe - http://dbpedia.org/resource/Arsinoe_II
-rely - http://dbpedia.org/resource/Rely_(brand)
-desertion - http://dbpedia.org/resource/Desertion
-ptolemy soter - http://dbpedia.org/resource/Ptolemy_I_Soter
-babylon - http://dbpedia.org/resource/Babylon
-bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
-satrap - http://dbpedia.org/resource/Satrap
-rivalry - http://dbpedia.org/resource/College_rivalry
-arrian - http://dbpedia.org/resource/Arrian
-skull - http://dbpedia.org/resource/Skull
-issus - http://dbpedia.org/resource/Battle_of_Issus
-temptation - http://dbpedia.org/resource/Temptation
-city - http://dbpedia.org/resource/City
-gaza - http://dbpedia.org/resource/Gaza_City
-mary renault - http://dbpedia.org/resource/Mary_Renault
-zeus - http://dbpedia.org/resource/Zeus
-judea - http://dbpedia.org/resource/Judea
-proclus - http://dbpedia.org/resource/Proclus
-sire - http://dbpedia.org/resource/Father
-demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
-frontier - http://dbpedia.org/resource/Frontier
-rhodians - http://dbpedia.org/resource/Rhodes
-macedonians - http://dbpedia.org/resource/Ancient_Macedonians
-infant - http://dbpedia.org/resource/Infante
-historical fantasy - http://dbpedia.org/resource/Historical_fantasy
-salamis - http://dbpedia.org/resource/Battle_of_Salamis
-ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
-sobriety - http://dbpedia.org/resource/Sobriety
-ptolemy ii - http://dbpedia.org/resource/Ptolemy_II_Philadelphus
-greeks - http://dbpedia.org/resource/Ancient_Greece
-hydaspes river - http://dbpedia.org/resource/Jhelum_River
-library - http://dbpedia.org/resource/Library
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-roxana - http://dbpedia.org/resource/Roxana
-consort - http://dbpedia.org/resource/Queen_consort
-syria - http://dbpedia.org/resource/Syria
-rhodes - http://dbpedia.org/resource/Rhodes
-sicyon - http://dbpedia.org/resource/Sicyon
-news - http://dbpedia.org/resource/Journalism
-coalition - http://dbpedia.org/resource/Coalition
-pausanias - http://dbpedia.org/resource/Pausanias_of_Orestis
-corinth - http://dbpedia.org/resource/Corinth
-resettlement - http://dbpedia.org/resource/Population_transfer
-coin - http://dbpedia.org/resource/Coin
-pharaoh - http://dbpedia.org/resource/Pharaoh
-revolt - http://dbpedia.org/resource/Rebellion
-antipater - http://dbpedia.org/resource/Antipater
-greek history - http://dbpedia.org/resource/Ancient_Greece
-mingle - http://dbpedia.org/resource/ThoughtWorks
-indian subcontinent - http://dbpedia.org/resource/Indian_subcontinent
-spy - http://dbpedia.org/resource/Espionage
-thaïs - http://dbpedia.org/resource/Thaïs_(opera)
-king alexander - http://dbpedia.org/resource/Alexander_III_of_Scotland
-perdiccas - http://dbpedia.org/resource/Perdiccas
-alexander - http://dbpedia.org/resource/Alexander_the_Great
-gryphon - http://dbpedia.org/resource/Griffin
-conciliation - http://dbpedia.org/resource/Conciliation
-protagonist - http://dbpedia.org/resource/Protagonist
-anthony hopkins - http://dbpedia.org/resource/Anthony_Hopkins
-antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
-noble - http://dbpedia.org/resource/Nobility
-earley - http://dbpedia.org/resource/Earley
-neglect - http://dbpedia.org/resource/Child_neglect
+elliot cowan - http://dbpedia.org/resource/Elliot_Cowan
 persian - http://dbpedia.org/resource/Persian_language
+lysimachus - http://dbpedia.org/resource/Lysimachus
+coalition - http://dbpedia.org/resource/Coalition
+stealing fire - http://dbpedia.org/resource/Stealing_Fire_(Bruce_Cockburn_album)
+judea - http://dbpedia.org/resource/Judea
+sicyon - http://dbpedia.org/resource/Sicyon
+demetrius poliorcetes - http://dbpedia.org/resource/Demetrius_I_of_Macedon
+thaïs - http://dbpedia.org/resource/Thaïs_(opera)
+mathematician - http://dbpedia.org/resource/Greek_mathematics
 oliver stone - http://dbpedia.org/resource/Oliver_Stone
-athenian - http://dbpedia.org/resource/Classical_Athens
+news - http://dbpedia.org/resource/Journalism
+revolt - http://dbpedia.org/resource/Rebellion
+macedonians - http://dbpedia.org/resource/Ancient_Macedonians
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+caria - http://dbpedia.org/resource/Caria
+christian cameron - http://dbpedia.org/resource/Christian_Cameron
+asia minor - http://dbpedia.org/resource/Anatolia
+ptolemaios - http://dbpedia.org/resource/Ptolemy_V_Epiphanes
+ptolemy keraunos - http://dbpedia.org/resource/Ptolemy_Keraunos
+iv - http://dbpedia.org/resource/Panzer_IV
+royal road - http://dbpedia.org/resource/Royal_Road
+demetrius - http://dbpedia.org/resource/Demetrius_I_of_Macedon
+macedonia - http://dbpedia.org/resource/North_Macedonia
+macedon - http://dbpedia.org/resource/Ancient_Macedonians
+salamis - http://dbpedia.org/resource/Battle_of_Salamis
+bronze - http://dbpedia.org/resource/Bronze_Age
+infant - http://dbpedia.org/resource/Infante
+gaza - http://dbpedia.org/resource/Gaza_City
+macedonian - http://dbpedia.org/resource/Ancient_Macedonians
+pausanias - http://dbpedia.org/resource/Pausanias_of_Orestis
+consort - http://dbpedia.org/resource/Queen_consort
+euclid - http://dbpedia.org/resource/Euclid
+roxana - http://dbpedia.org/resource/Roxana
+mary renault - http://dbpedia.org/resource/Mary_Renault
+rivalry - http://dbpedia.org/resource/College_rivalry
+greek history - http://dbpedia.org/resource/Ancient_Greece
 argead dynasty - http://dbpedia.org/resource/Argead_dynasty
-heaven - http://dbpedia.org/resource/Heaven
-winter - http://dbpedia.org/resource/Winter_solstice
+jo graham - http://dbpedia.org/resource/Jo_Graham
+soter - http://dbpedia.org/resource/Soter
+conciliation - http://dbpedia.org/resource/Conciliation
+desertion - http://dbpedia.org/resource/Desertion
+sire - http://dbpedia.org/resource/Father
+aornos - http://dbpedia.org/resource/Aornos
+indian subcontinent - http://dbpedia.org/resource/Indian_subcontinent
+hydaspes river - http://dbpedia.org/resource/Jhelum_River
+a.b. - http://dbpedia.org/resource/Able_seaman
+siege - http://dbpedia.org/resource/Siege
+ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
+skull - http://dbpedia.org/resource/Skull
+philip iii arrhidaeus - http://dbpedia.org/resource/Philip_III_of_Macedon
 lagus - http://dbpedia.org/resource/Lagus
-assimilate - http://dbpedia.org/resource/Culture
+funeral games - http://dbpedia.org/resource/Funeral_games
+propagandist - http://dbpedia.org/resource/Propaganda
+regent - http://dbpedia.org/resource/Regent
+alexandria - http://dbpedia.org/resource/Alexandria
+custom kings - http://dbpedia.org/resource/Custom_Kings
+sobriety - http://dbpedia.org/resource/Sobriety
+warfare - http://dbpedia.org/resource/War
+heracles - http://dbpedia.org/resource/Heracles
+babylonia - http://dbpedia.org/resource/Babylonia
+satraps - http://dbpedia.org/resource/Satrap
+babylon - http://dbpedia.org/resource/Babylon
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+historical fantasy - http://dbpedia.org/resource/Historical_fantasy
+invade egypt - http://dbpedia.org/resource/French_campaign_in_Egypt_and_Syria
+earley - http://dbpedia.org/resource/Earley
+gryphon - http://dbpedia.org/resource/Griffin
+athenian - http://dbpedia.org/resource/Classical_Athens
+issus - http://dbpedia.org/resource/Battle_of_Issus
+diadochi - http://dbpedia.org/resource/Diadochi
+308 bc - http://dbpedia.org/resource/308_BC
+lycia - http://dbpedia.org/resource/Lycia
+bosworth - http://dbpedia.org/resource/Battle_of_Bosworth_Field
+egyptian culture - http://dbpedia.org/resource/Culture_of_Egypt
+tent - http://dbpedia.org/resource/Tent
+hetaera - http://dbpedia.org/resource/Hetaira
+283 bc - http://dbpedia.org/resource/283_BC
+nicomedia - http://dbpedia.org/resource/Nicomedia
+hellenic - http://dbpedia.org/resource/Hellenistic_period
+illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
+proclus - http://dbpedia.org/resource/Proclus
+pains - http://dbpedia.org/resource/Pan-assay_interference_compounds
+greeks - http://dbpedia.org/resource/Ancient_Greece
+heaven - http://dbpedia.org/resource/Heaven
+independent - http://dbpedia.org/resource/Independence
+pharaoh - http://dbpedia.org/resource/Pharaoh
+rhodians - http://dbpedia.org/resource/Rhodes
+ancient greek - http://dbpedia.org/resource/Ancient_Greek
+library - http://dbpedia.org/resource/Library
+southern syria - http://dbpedia.org/resource/Southern_Syria
+nile - http://dbpedia.org/resource/Nile
+ptolemies - http://dbpedia.org/resource/Ptolemaic_Kingdom
+antigonus - http://dbpedia.org/resource/Antigonus_I_Monophthalmus
+seleucus - http://dbpedia.org/resource/Seleucus_I_Nicator
+rhodes - http://dbpedia.org/resource/Rhodes
+minor characters - http://dbpedia.org/resource/Minor_Characters
+eye - http://dbpedia.org/resource/Vecna
+harry turtledove - http://dbpedia.org/resource/Harry_Turtledove
+spying - http://dbpedia.org/resource/Espionage
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+bessus - http://dbpedia.org/resource/Bessus
+cave - http://dbpedia.org/resource/Cave
+ptolemy ii - http://dbpedia.org/resource/Ptolemy_II_Philadelphus
+cyrenaica - http://dbpedia.org/resource/Cyrenaica
+ptolemaic - http://dbpedia.org/resource/Ptolemy_I_Soter
+eurydice - http://dbpedia.org/resource/Eurydice_of_Egypt
+aims - http://dbpedia.org/resource/Association_of_International_Marathons_and_Distance_Races
+compact - http://dbpedia.org/resource/Compact_car
+hellenistic kingdom - http://dbpedia.org/resource/Hellenistic_period
+neglect - http://dbpedia.org/resource/Child_neglect
+king alexander - http://dbpedia.org/resource/Alexander_III_of_Scotland
+anthony hopkins - http://dbpedia.org/resource/Anthony_Hopkins
+court - http://dbpedia.org/resource/Royal_court
+ptolemy ii philadelphus - http://dbpedia.org/resource/Ptolemy_II_Philadelphus
+ambitions - http://dbpedia.org/resource/Ambitions_(song)
+zeus - http://dbpedia.org/resource/Zeus
+ptolemaic dynasty - http://dbpedia.org/resource/Ptolemaic_dynasty
+supporting character - http://dbpedia.org/resource/Supporting_character
+oracle - http://dbpedia.org/resource/Oracle
+cyrene - http://dbpedia.org/resource/Cyrenaica
+nobleman - http://dbpedia.org/resource/Nobility
+frontier - http://dbpedia.org/resource/Frontier
+philip ii - http://dbpedia.org/resource/Philip_II_of_Macedon
+berenice - http://dbpedia.org/resource/Berenice_I_of_Egypt
+greek culture - http://dbpedia.org/resource/Ancient_Greece
+perdiccas - http://dbpedia.org/resource/Perdiccas
+partition - http://dbpedia.org/resource/Partition_of_India
+greece - http://dbpedia.org/resource/Ancient_Greece
+memphis - http://dbpedia.org/resource/Memphis_Tigers_men's_basketball
+corinth - http://dbpedia.org/resource/Corinth
+virgilio teixeira - http://dbpedia.org/resource/Virgilio_Teixeira_(actor)
+protagonist - http://dbpedia.org/resource/Protagonist
+myth - http://dbpedia.org/resource/Greek_mythology
+fugitive - http://dbpedia.org/resource/Fugitive
+temptation - http://dbpedia.org/resource/Temptation
+263 bc - http://dbpedia.org/resource/263_BC
+antipater - http://dbpedia.org/resource/Antipater
+partisans - http://dbpedia.org/resource/Yugoslav_Partisans
+nicator - http://dbpedia.org/resource/Nicator
+peace - http://dbpedia.org/resource/Peace
+soldier - http://dbpedia.org/resource/Soldier
+winter - http://dbpedia.org/resource/Winter_solstice
+dynasties - http://dbpedia.org/resource/Dynasty
+4 bc - http://dbpedia.org/resource/4_BC
+cleomenes - http://dbpedia.org/resource/Cleomenes_of_Naucratis
+somatophylakes - http://dbpedia.org/resource/Somatophylakes
+resettlement - http://dbpedia.org/resource/Population_transfer
+arrian - http://dbpedia.org/resource/Arrian
+geometry - http://dbpedia.org/resource/Geometry
+menelaus - http://dbpedia.org/resource/Morpho_menelaus
+cyprus - http://dbpedia.org/resource/Cyprus
+seleucid - http://dbpedia.org/resource/Diadochi
+satrap - http://dbpedia.org/resource/Satrap
+romance - http://dbpedia.org/resource/Chivalric_romance
+syria - http://dbpedia.org/resource/Syria

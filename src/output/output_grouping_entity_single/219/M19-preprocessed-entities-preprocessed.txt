@@ -1,275 +1,266 @@
-july 2 - http://dbpedia.org/resource/July_2
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-workable - http://dbpedia.org/resource/Workable_FC
-allied power - http://dbpedia.org/resource/Allies_of_World_War_II
-bockscar - http://dbpedia.org/resource/Bockscar
-fuel - http://dbpedia.org/resource/Nuclear_fuel
-webster - http://dbpedia.org/resource/Martell_Webster
-explosion - http://dbpedia.org/resource/Nuclear_explosion
-dose - http://dbpedia.org/resource/Ionizing_radiation
-james franck - http://dbpedia.org/resource/James_Franck
-reactor - http://dbpedia.org/resource/Nuclear_reactor
-stone - http://dbpedia.org/resource/Masonry
-gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
-quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
-policy committee - http://dbpedia.org/resource/Committee
-operation crossroads - http://dbpedia.org/resource/Operation_Crossroads
-spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
-uranium 235 - http://dbpedia.org/resource/Uranium-235
-memorandum - http://dbpedia.org/resource/Memorandum
-klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
-chemist - http://dbpedia.org/resource/Chemist
-mass - http://dbpedia.org/resource/Mass
-pound - http://dbpedia.org/resource/Pound_sterling
-beta - http://dbpedia.org/resource/Beta_particle
-june 2 - http://dbpedia.org/resource/June_2
-isotope - http://dbpedia.org/resource/Isotope
-joseph stalin - http://dbpedia.org/resource/Joseph_Stalin
-president - http://dbpedia.org/resource/President_of_the_United_States
-dahlgren - http://dbpedia.org/resource/Naval_Surface_Warfare_Center_Dahlgren_Division
-atomic spy - http://dbpedia.org/resource/Atomic_spies
-stalin - http://dbpedia.org/resource/Joseph_Stalin
-los alamos - http://dbpedia.org/resource/Manhattan_Project
-gun - http://dbpedia.org/resource/Anti-aircraft_warfare
-509th composite group - http://dbpedia.org/resource/509th_Composite_Group
-british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
-enola gay - http://dbpedia.org/resource/Enola_Gay
-robert serber - http://dbpedia.org/resource/Robert_Serber
-newport news - http://dbpedia.org/resource/Newport_News_Shipbuilding
-conant - http://dbpedia.org/resource/James_B._Conant
-aqueous homogeneous reactor - http://dbpedia.org/resource/Aqueous_homogeneous_reactor
-organizational structure - http://dbpedia.org/resource/Organizational_structure
-paper - http://dbpedia.org/resource/Scientific_literature
-thomas farrell - http://dbpedia.org/resource/Thomas_Farrell_(general)
-louis slotin - http://dbpedia.org/resource/Louis_Slotin
-electromagnetic - http://dbpedia.org/resource/Calutron
-germany - http://dbpedia.org/resource/Nazi_Germany
-chicago pile-1 - http://dbpedia.org/resource/Chicago_Pile-1
-major general - http://dbpedia.org/resource/Major_general
-army corps - http://dbpedia.org/resource/Corps
-war production board - http://dbpedia.org/resource/War_Production_Board
-mahon - http://dbpedia.org/resource/Police_of_The_Wire
-plant - http://dbpedia.org/resource/Chemical_plant
-sir john anderson - http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley
-trinity nuclear test - http://dbpedia.org/resource/Trinity_(nuclear_test)
-atomic energy commission - http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
-nuclear - http://dbpedia.org/resource/Nuclear_weapon
-january 20 - http://dbpedia.org/resource/January_20
-fissionable material - http://dbpedia.org/resource/Nuclear_fission
-field marshal - http://dbpedia.org/resource/Generalfeldmarschall
-february 18 - http://dbpedia.org/resource/February_18
-technical report - http://dbpedia.org/resource/Technical_report
-breed - http://dbpedia.org/resource/Reproduction
-niels bohr - http://dbpedia.org/resource/Niels_Bohr
-summer - http://dbpedia.org/resource/Summer
-july 20 - http://dbpedia.org/resource/20_July_plot
-stafford - http://dbpedia.org/resource/Stafford
-bikini atoll - http://dbpedia.org/resource/Bikini_Atoll
-hemisphere - http://dbpedia.org/resource/Earth
-primer - http://dbpedia.org/resource/Detonator
-liquid thermal diffusion - http://dbpedia.org/resource/Thermophoresis
-detonator - http://dbpedia.org/resource/Detonator
-haigerloch - http://dbpedia.org/resource/Haigerloch
-criticality accident - http://dbpedia.org/resource/Criticality_accident
-heritage - http://dbpedia.org/resource/History
-bridgewire - http://dbpedia.org/resource/Bridgewire
-george kistiakowsky - http://dbpedia.org/resource/George_Kistiakowsky
-warren - http://dbpedia.org/resource/Burrow
-washington - http://dbpedia.org/resource/George_Washington
-thin man - http://dbpedia.org/resource/The_Thin_Man
-dollar - http://dbpedia.org/resource/United_States_dollar
-executive order - http://dbpedia.org/resource/Executive_order
-prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
-enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
-hanford site - http://dbpedia.org/resource/Hanford_Site
-sail - http://dbpedia.org/resource/Sailing
-feign - http://dbpedia.org/resource/Feign_(album)
-tungsten carbide - http://dbpedia.org/resource/Tungsten_carbide
-news - http://dbpedia.org/resource/News_media
-energy - http://dbpedia.org/resource/Energy
-lyman briggs - http://dbpedia.org/resource/Lyman_James_Briggs
-conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
-defense - http://dbpedia.org/resource/National_security
-laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
-manhattan project - http://dbpedia.org/resource/Manhattan_Project
-die - http://dbpedia.org/resource/Integrated_circuit
-scientist - http://dbpedia.org/resource/Scientist
-nazi germany - http://dbpedia.org/resource/World_War_II
-james chadwick - http://dbpedia.org/resource/James_Chadwick
-manhattan engineer district - http://dbpedia.org/resource/Manhattan_Project
-combined policy committee - http://dbpedia.org/resource/Quebec_Agreement
-kokura - http://dbpedia.org/resource/Kokura
-otto hahn - http://dbpedia.org/resource/Otto_Hahn
-soviet leader - http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union
-topical - http://dbpedia.org/resource/Topical_medication
 vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
-alexander sachs - http://dbpedia.org/resource/Alexander_Sachs
-ramsey - http://dbpedia.org/resource/Ramsey_Abbey
-rem - http://dbpedia.org/resource/Roentgen_equivalent_man
-maud committee - http://dbpedia.org/resource/MAUD_Committee
-transmute - http://dbpedia.org/resource/Nuclear_transmutation
-chronology - http://dbpedia.org/resource/Chronology
-electromagnetic separation - http://dbpedia.org/resource/Isotope_separation
-ha - http://dbpedia.org/resource/Century
-official version - http://dbpedia.org/resource/Official_Version
-hydrogen bomb - http://dbpedia.org/resource/Nuclear_weapon
-graphite - http://dbpedia.org/resource/Graphite
-pilot - http://dbpedia.org/resource/Aircraft_pilot
-metallurgical laboratory - http://dbpedia.org/resource/Metallurgical_Laboratory
-fat - http://dbpedia.org/resource/Lipid
-defector - http://dbpedia.org/resource/Defection
-einstein - http://dbpedia.org/resource/Albert_Einstein
-manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
-henry stimson - http://dbpedia.org/resource/Henry_L._Stimson
-brick - http://dbpedia.org/resource/Brick
-author - http://dbpedia.org/resource/Author
-uncertainty - http://dbpedia.org/resource/Entropy
-chicago - http://dbpedia.org/resource/University_of_Chicago
-compression - http://dbpedia.org/resource/Compressor
-sublette - http://dbpedia.org/resource/William_Sublette
-berkeley - http://dbpedia.org/resource/George_Berkeley
-roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-screwdriver - http://dbpedia.org/resource/Screwdriver
-ndrc - http://dbpedia.org/resource/National_Defense_Research_Committee
-invasion - http://dbpedia.org/resource/Operation_Torch
-glenn seaborg - http://dbpedia.org/resource/Glenn_T._Seaborg
-brigadier general - http://dbpedia.org/resource/General_officer
-eugene reybold - http://dbpedia.org/resource/Eugene_Reybold
-nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
-radiation - http://dbpedia.org/resource/Radioactive_decay
-leslie groves - http://dbpedia.org/resource/Leslie_Groves
-colonel - http://dbpedia.org/resource/Colonel
-igor - http://dbpedia.org/resource/Hurricane_Igor
-albert einstein - http://dbpedia.org/resource/Albert_Einstein
-team columbia - http://dbpedia.org/resource/HTC–Highroad
-grove - http://dbpedia.org/resource/Orchard
-thermal - http://dbpedia.org/resource/Heat
-franklin - http://dbpedia.org/resource/The_Franklin's_Tale
-underwater - http://dbpedia.org/resource/Underwater_diving
-compton - http://dbpedia.org/resource/Denis_Compton
-uranium-238 - http://dbpedia.org/resource/Uranium
-tennessee - http://dbpedia.org/resource/Tennessee
-hypothesis - http://dbpedia.org/resource/Hypothesis
-virginia - http://dbpedia.org/resource/Virginia
-kenneth nichols - http://dbpedia.org/resource/Kenneth_Nichols
-norris bradbury - http://dbpedia.org/resource/Norris_Bradbury
-law - http://dbpedia.org/resource/Scientific_law
-paul - http://dbpedia.org/resource/Paul_of_Greece
-russian spy ring - http://dbpedia.org/resource/Illegals_Program
-final draft - http://dbpedia.org/resource/Marathi_theatre
-churchill - http://dbpedia.org/resource/Winston_Churchill
+robert serber - http://dbpedia.org/resource/Robert_Serber
+president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
 nuclear test - http://dbpedia.org/resource/Nuclear_weapons_testing
-isotope separation - http://dbpedia.org/resource/Isotope_separation
-natural uranium - http://dbpedia.org/resource/Natural_uranium
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
-city - http://dbpedia.org/resource/City
-uss indianapolis - http://dbpedia.org/resource/USS_Indianapolis_(CA-35)
-drop test - http://dbpedia.org/resource/Drop_test
-neutron - http://dbpedia.org/resource/Neutron
-calutron - http://dbpedia.org/resource/Calutron
-uranium enrichment - http://dbpedia.org/resource/Gaseous_diffusion
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
-implosion - http://dbpedia.org/resource/Nuclear_weapon_design
-uranium hexafluoride - http://dbpedia.org/resource/Uranium_hexafluoride
-composite - http://dbpedia.org/resource/Composite_material
-british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
-cloud - http://dbpedia.org/resource/Cloud
-nagasaki - http://dbpedia.org/resource/Fat_Man
-smoke - http://dbpedia.org/resource/Smoke
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-physicist - http://dbpedia.org/resource/Nuclear_physics
-great britain - http://dbpedia.org/resource/United_Kingdom
-enriched uranium - http://dbpedia.org/resource/Enriched_uranium
-nuclear power - http://dbpedia.org/resource/Nuclear_reactor
-truman - http://dbpedia.org/resource/Harry_S._Truman
-plutonium - http://dbpedia.org/resource/Plutonium
 weather - http://dbpedia.org/resource/Meteorology
-rudolph peierls - http://dbpedia.org/resource/Rudolf_Peierls
-fission - http://dbpedia.org/resource/Nuclear_weapon
-franz simon - http://dbpedia.org/resource/Francis_Simon
-radioactive source - http://dbpedia.org/resource/Radioactive_source
-henry tizard - http://dbpedia.org/resource/Henry_Tizard
-rear admiral - http://dbpedia.org/resource/Rear_admiral
-tube alloys - http://dbpedia.org/resource/Tube_Alloys
-codename - http://dbpedia.org/resource/Code_name
-manhattan - http://dbpedia.org/resource/Manhattan
+virginia - http://dbpedia.org/resource/Virginia
+poland - http://dbpedia.org/resource/Poland
 ridge - http://dbpedia.org/resource/Ridge
-otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
-acid - http://dbpedia.org/resource/Acid
-2 john - http://dbpedia.org/resource/Second_Epistle_of_John
-sir john dill - http://dbpedia.org/resource/John_Dill
-manager - http://dbpedia.org/resource/Management
-economist - http://dbpedia.org/resource/Economist
-mexico - http://dbpedia.org/resource/Mexico
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
-arnold kramish - http://dbpedia.org/resource/Arnold_Kramish
-fission bomb - http://dbpedia.org/resource/Nuclear_weapon
-kyoto - http://dbpedia.org/resource/Kyoto_Protocol
-acre - http://dbpedia.org/resource/Acre
-operation oak - http://dbpedia.org/resource/Gran_Sasso_raid
-samuel goudsmit - http://dbpedia.org/resource/Samuel_Goudsmit
-[73 - http://dbpedia.org/resource/Debbie_Wasserman_Schultz
-edward teller - http://dbpedia.org/resource/Edward_Teller
-beryllium - http://dbpedia.org/resource/Beryllium
-maud report - http://dbpedia.org/resource/MAUD_Committee
-engineer - http://dbpedia.org/resource/Engineer
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
-gadget - http://dbpedia.org/resource/Gadget
+colonel - http://dbpedia.org/resource/Colonel
+hanford site - http://dbpedia.org/resource/Hanford_Site
+fat - http://dbpedia.org/resource/Lipid
+brick - http://dbpedia.org/resource/Brick
+liquid thermal diffusion - http://dbpedia.org/resource/Thermophoresis
+neutron - http://dbpedia.org/resource/Neutron
+implosion type - http://dbpedia.org/resource/Nuclear_weapon_design
+uranium 235 - http://dbpedia.org/resource/Uranium-235
+june 2 - http://dbpedia.org/resource/June_2
+cloud - http://dbpedia.org/resource/Cloud
+defector - http://dbpedia.org/resource/Defection
+uncertainty - http://dbpedia.org/resource/Entropy
+criticality accident - http://dbpedia.org/resource/Criticality_accident
+truman - http://dbpedia.org/resource/Harry_S._Truman
+warren - http://dbpedia.org/resource/Burrow
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+uranium hexafluoride - http://dbpedia.org/resource/Uranium_hexafluoride
+executive order - http://dbpedia.org/resource/Executive_order
+uranium enrichment - http://dbpedia.org/resource/Gaseous_diffusion
+columbia university - http://dbpedia.org/resource/Columbia_University
+july 2 - http://dbpedia.org/resource/July_2
+lawrence - http://dbpedia.org/resource/Saint_Lawrence
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+acid - http://dbpedia.org/resource/Acid
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+type design - http://dbpedia.org/resource/Type_certificate
+field marshal - http://dbpedia.org/resource/Field_marshal
+hemispheres - http://dbpedia.org/resource/Earth
+summer - http://dbpedia.org/resource/Summer
+stone - http://dbpedia.org/resource/Masonry
+urey - http://dbpedia.org/resource/Harold_Urey
+thin man - http://dbpedia.org/resource/The_Thin_Man
+arthur - http://dbpedia.org/resource/Chester_A._Arthur
+organizational structure - http://dbpedia.org/resource/Organizational_structure
+ton - http://dbpedia.org/resource/Tonne
+july 4 - http://dbpedia.org/resource/July_4
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+berkeley - http://dbpedia.org/resource/George_Berkeley
+washington - http://dbpedia.org/resource/George_Washington
+bridgewire - http://dbpedia.org/resource/Bridgewire
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+soviet leader - http://dbpedia.org/resource/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union
 encyclopedia - http://dbpedia.org/resource/Encyclopedia
 committee - http://dbpedia.org/resource/United_Kingdom_cabinet_committee
-los alamos laboratory - http://dbpedia.org/resource/Project_Y
-arthur - http://dbpedia.org/resource/Chester_A._Arthur
-lawrence - http://dbpedia.org/resource/Saint_Lawrence
-norman - http://dbpedia.org/resource/Normandy
-harold urey - http://dbpedia.org/resource/Harold_Urey
-philadelphia navy yard - http://dbpedia.org/resource/Philadelphia_Naval_Shipyard
-article - http://dbpedia.org/resource/Falklands_War
-alsos mission - http://dbpedia.org/resource/Alsos_Mission
-baker - http://dbpedia.org/resource/Bakery
-uranium-235 - http://dbpedia.org/resource/Uranium-235
-carl spaatz - http://dbpedia.org/resource/Carl_Spaatz
-uranium - http://dbpedia.org/resource/Uranium-235
+january 20 - http://dbpedia.org/resource/January_20
+allied powers - http://dbpedia.org/resource/Allies_of_World_War_II
+electromagnetic separation - http://dbpedia.org/resource/Isotope_separation
+nuclear reactor - http://dbpedia.org/resource/Nuclear_reactor
+[73 - http://dbpedia.org/resource/Debbie_Wasserman_Schultz
+policy committee - http://dbpedia.org/resource/Committee
+stafford - http://dbpedia.org/resource/Stafford
+calutrons - http://dbpedia.org/resource/Calutron
+brigadier general - http://dbpedia.org/resource/General_officer
+rudolph peierls - http://dbpedia.org/resource/Rudolf_Peierls
+dose - http://dbpedia.org/resource/Ionizing_radiation
+topical - http://dbpedia.org/resource/Topical_medication
+february 18 - http://dbpedia.org/resource/February_18
+tennessee - http://dbpedia.org/resource/Tennessee
+kenneth nichols - http://dbpedia.org/resource/Kenneth_Nichols
+fissionable - http://dbpedia.org/resource/Nuclear_fission
 leó szilárd - http://dbpedia.org/resource/Leo_Szilard
-california - http://dbpedia.org/resource/California
-emilio segrè - http://dbpedia.org/resource/Emilio_Segrè
-corrosive - http://dbpedia.org/resource/Corrosion
-tinian - http://dbpedia.org/resource/Tinian
-atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
-winston churchill - http://dbpedia.org/resource/Winston_Churchill
-nuclear explosion - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-july 10 - http://dbpedia.org/resource/July_10
-manhattan district - http://dbpedia.org/resource/Manhattan_Project
-ton - http://dbpedia.org/resource/Tonne
-potsdam declaration - http://dbpedia.org/resource/Potsdam_Declaration
-hysteria - http://dbpedia.org/resource/Year_2000_problem
-type design - http://dbpedia.org/resource/Type_certificate
-espionage - http://dbpedia.org/resource/Atomic_spies
-franck report - http://dbpedia.org/resource/Franck_Report
-hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-july 4 - http://dbpedia.org/resource/July_4
+radioactive source - http://dbpedia.org/resource/Radioactive_source
+detonators - http://dbpedia.org/resource/Detonator
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
 mark oliphant - http://dbpedia.org/resource/Mark_Oliphant
-atomic bombing - http://dbpedia.org/resource/Nuclear_weapon
-sir henry tizard - http://dbpedia.org/resource/Henry_Tizard
-group theoretical - http://dbpedia.org/resource/Group_theory
-alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
-president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-columbia university - http://dbpedia.org/resource/Columbia_University
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-implosion design - http://dbpedia.org/resource/Nuclear_weapon_design
-hanford - http://dbpedia.org/resource/Hanford_Site
-implosion type - http://dbpedia.org/resource/Nuclear_weapon_design
-thermal diffusion - http://dbpedia.org/resource/Enriched_uranium
-gas - http://dbpedia.org/resource/Gas
-urey - http://dbpedia.org/resource/Harold_Urey
-smyth report - http://dbpedia.org/resource/Smyth_Report
+final draft - http://dbpedia.org/resource/Marathi_theatre
+nazi germany - http://dbpedia.org/resource/World_War_II
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+news - http://dbpedia.org/resource/News_media
+transmuted - http://dbpedia.org/resource/Nuclear_transmutation
+emilio segrè - http://dbpedia.org/resource/Emilio_Segrè
 strasbourg - http://dbpedia.org/resource/Strasbourg
-oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
-nuclear fission - http://dbpedia.org/resource/Nuclear_fission
-experiment - http://dbpedia.org/resource/Experiment
-attack pearl harbor - http://dbpedia.org/resource/Attack_on_Pearl_Harbor
-dunning - http://dbpedia.org/resource/Dunning_(process)
-sample - http://dbpedia.org/resource/Adsorption
+aqueous homogeneous reactor - http://dbpedia.org/resource/Aqueous_homogeneous_reactor
+carl spaatz - http://dbpedia.org/resource/Carl_Spaatz
+manhattan engineering district - http://dbpedia.org/resource/Manhattan_Project
 shutdown - http://dbpedia.org/resource/Strike_action
+electromagnetic - http://dbpedia.org/resource/Calutron
+henry tizard - http://dbpedia.org/resource/Henry_Tizard
+uranium-238 - http://dbpedia.org/resource/Uranium
+oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
+gas - http://dbpedia.org/resource/Gas
+memorandum - http://dbpedia.org/resource/Memorandum
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+nuclear power - http://dbpedia.org/resource/Nuclear_reactor
+kokura - http://dbpedia.org/resource/Kokura
+franck report - http://dbpedia.org/resource/Franck_Report
+atomic weapons - http://dbpedia.org/resource/Nuclear_weapon
+mahon - http://dbpedia.org/resource/Police_of_The_Wire
+thomas farrell - http://dbpedia.org/resource/Thomas_Farrell_(general)
+irradiated - http://dbpedia.org/resource/Radiation
+manhattan district - http://dbpedia.org/resource/Manhattan_Project
+california - http://dbpedia.org/resource/California
+major general - http://dbpedia.org/resource/Major_general
+gun - http://dbpedia.org/resource/Anti-aircraft_warfare
+war production board - http://dbpedia.org/resource/War_Production_Board
+composite - http://dbpedia.org/resource/Composite_material
+laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+special group - http://dbpedia.org/resource/Oversight_of_United_States_covert_operations
+dahlgren - http://dbpedia.org/resource/Naval_Surface_Warfare_Center_Dahlgren_Division
+alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
+chicago - http://dbpedia.org/resource/University_of_Chicago
+haigerloch - http://dbpedia.org/resource/Haigerloch
+graphite - http://dbpedia.org/resource/Graphite
+radiation - http://dbpedia.org/resource/Radioactive_decay
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+plutonium - http://dbpedia.org/resource/Plutonium
+conant - http://dbpedia.org/resource/James_B._Conant
+philadelphia navy yard - http://dbpedia.org/resource/Philadelphia_Naval_Shipyard
+atomic bombings - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+manhattan engineer district - http://dbpedia.org/resource/Manhattan_Project
+alexander sachs - http://dbpedia.org/resource/Alexander_Sachs
+sir henry tizard - http://dbpedia.org/resource/Henry_Tizard
+defense - http://dbpedia.org/resource/National_security
+ramsey - http://dbpedia.org/resource/Ramsey_Abbey
+corrosive - http://dbpedia.org/resource/Corrosion
+nagasaki - http://dbpedia.org/resource/Fat_Man
+invasion - http://dbpedia.org/resource/Operation_Torch
+uranium - http://dbpedia.org/resource/Uranium-235
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+sample - http://dbpedia.org/resource/Adsorption
+sublette - http://dbpedia.org/resource/William_Sublette
+norman - http://dbpedia.org/resource/Normandy
+fission - http://dbpedia.org/resource/Nuclear_weapon
+manager - http://dbpedia.org/resource/Management
+chemically separated - http://dbpedia.org/resource/Separation_process
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+underwater - http://dbpedia.org/resource/Underwater_diving
+uss indianapolis - http://dbpedia.org/resource/USS_Indianapolis_(CA-35)
+atomic spy - http://dbpedia.org/resource/Atomic_spies
+chronology - http://dbpedia.org/resource/Chronology
+physicist - http://dbpedia.org/resource/Nuclear_physics
+atomic energy commission - http://dbpedia.org/resource/United_States_Atomic_Energy_Commission
+russian spy ring - http://dbpedia.org/resource/Illegals_Program
+bikini atoll - http://dbpedia.org/resource/Bikini_Atoll
+operation crossroads - http://dbpedia.org/resource/Operation_Crossroads
+509th composite group - http://dbpedia.org/resource/509th_Composite_Group
+hydrogen bomb - http://dbpedia.org/resource/Nuclear_weapon
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+webster - http://dbpedia.org/resource/Martell_Webster
+churchill - http://dbpedia.org/resource/Winston_Churchill
+army corps - http://dbpedia.org/resource/Corps
+norris bradbury - http://dbpedia.org/resource/Norris_Bradbury
+2 john - http://dbpedia.org/resource/Second_Epistle_of_John
+article - http://dbpedia.org/resource/Falklands_War
+espionage - http://dbpedia.org/resource/Atomic_spies
+spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
+edward teller - http://dbpedia.org/resource/Edward_Teller
+bockscar - http://dbpedia.org/resource/Bockscar
+enriched uranium - http://dbpedia.org/resource/Enriched_uranium
+maud report - http://dbpedia.org/resource/MAUD_Committee
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
+rear admiral - http://dbpedia.org/resource/Rear_admiral
+joseph stalin - http://dbpedia.org/resource/Joseph_Stalin
+tinian - http://dbpedia.org/resource/Tinian
+smoke - http://dbpedia.org/resource/Smoke
+implosion design - http://dbpedia.org/resource/Nuclear_weapon_design
 weapon - http://dbpedia.org/resource/Nuclear_weapon
-poland - http://dbpedia.org/resource/Poland
+economist - http://dbpedia.org/resource/Economist
+manhattan - http://dbpedia.org/resource/Manhattan
+maud committee - http://dbpedia.org/resource/MAUD_Committee
+hypothesis - http://dbpedia.org/resource/Hypothesis
+niels bohr - http://dbpedia.org/resource/Niels_Bohr
+germany - http://dbpedia.org/resource/Nazi_Germany
+compression - http://dbpedia.org/resource/Compressor
+energy - http://dbpedia.org/resource/Energy
+gaseous diffusion - http://dbpedia.org/resource/Gaseous_diffusion
+leslie groves - http://dbpedia.org/resource/Leslie_Groves
+pilot - http://dbpedia.org/resource/Aircraft_pilot
+sir john anderson - http://dbpedia.org/resource/John_Anderson,_1st_Viscount_Waverley
+gadget - http://dbpedia.org/resource/Gadget
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+pound - http://dbpedia.org/resource/Pound_sterling
+plant - http://dbpedia.org/resource/Chemical_plant
+technical report - http://dbpedia.org/resource/Technical_report
+british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+urge - http://dbpedia.org/resource/Urge_(digital_music_service)
+fission bomb - http://dbpedia.org/resource/Nuclear_weapon
+heritage - http://dbpedia.org/resource/History
+engineer - http://dbpedia.org/resource/Engineer
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+tungsten carbide - http://dbpedia.org/resource/Tungsten_carbide
+attack pearl harbor - http://dbpedia.org/resource/Attack_on_Pearl_Harbor
+hanford - http://dbpedia.org/resource/Hanford_Site
+henry stimson - http://dbpedia.org/resource/Henry_L._Stimson
+los alamos laboratory - http://dbpedia.org/resource/Project_Y
+atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
+law - http://dbpedia.org/resource/Scientific_law
+otto hahn - http://dbpedia.org/resource/Otto_Hahn
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+july 20 - http://dbpedia.org/resource/20_July_plot
+beryllium - http://dbpedia.org/resource/Beryllium
+president - http://dbpedia.org/resource/President_of_the_United_States
+alsos mission - http://dbpedia.org/resource/Alsos_Mission
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+chicago pile-1 - http://dbpedia.org/resource/Chicago_Pile-1
+samuel goudsmit - http://dbpedia.org/resource/Samuel_Goudsmit
+arnold kramish - http://dbpedia.org/resource/Arnold_Kramish
+james franck - http://dbpedia.org/resource/James_Franck
+einstein - http://dbpedia.org/resource/Albert_Einstein
+licensed - http://dbpedia.org/resource/License
+beta - http://dbpedia.org/resource/Beta_particle
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+stalin - http://dbpedia.org/resource/Joseph_Stalin
+igor - http://dbpedia.org/resource/Hurricane_Igor
+natural uranium - http://dbpedia.org/resource/Natural_uranium
+author - http://dbpedia.org/resource/Author
+neutrons - http://dbpedia.org/resource/Neutron
+combined policy committee - http://dbpedia.org/resource/Quebec_Agreement
+enola gay - http://dbpedia.org/resource/Enola_Gay
+drop test - http://dbpedia.org/resource/Drop_test
+top priority - http://dbpedia.org/resource/Top_Priority
+isotope separation - http://dbpedia.org/resource/Isotope_separation
+franz simon - http://dbpedia.org/resource/Francis_Simon
+smyth report - http://dbpedia.org/resource/Smyth_Report
+rems - http://dbpedia.org/resource/Acute_radiation_syndrome
+sir john dill - http://dbpedia.org/resource/John_Dill
+enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+codename - http://dbpedia.org/resource/Code_name
+glenn seaborg - http://dbpedia.org/resource/Glenn_T._Seaborg
+newport news - http://dbpedia.org/resource/Newport_News_Shipbuilding
+official version - http://dbpedia.org/resource/Official_Version
+eugene reybold - http://dbpedia.org/resource/Eugene_Reybold
+thermal - http://dbpedia.org/resource/Heat
+ndrc - http://dbpedia.org/resource/National_Defense_Research_Committee
+mexico - http://dbpedia.org/resource/Mexico
+metallurgical laboratory - http://dbpedia.org/resource/Metallurgical_Laboratory
+city - http://dbpedia.org/resource/City
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
+workable - http://dbpedia.org/resource/Workable_FC
+thermal diffusion - http://dbpedia.org/resource/Enriched_uranium
+trinity nuclear test - http://dbpedia.org/resource/Trinity_(nuclear_test)
+louis slotin - http://dbpedia.org/resource/Louis_Slotin
+george kistiakowsky - http://dbpedia.org/resource/George_Kistiakowsky
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+screwdriver - http://dbpedia.org/resource/Screwdriver
+nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+mass - http://dbpedia.org/resource/Mass
+conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
+lyman briggs - http://dbpedia.org/resource/Lyman_James_Briggs
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+dunning - http://dbpedia.org/resource/Dunning_(process)
+compton - http://dbpedia.org/resource/Denis_Compton
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+july 10 - http://dbpedia.org/resource/July_10
+isotope - http://dbpedia.org/resource/Isotope
+harold urey - http://dbpedia.org/resource/Harold_Urey
+paul - http://dbpedia.org/resource/Paul_of_Greece
+ha - http://dbpedia.org/resource/Century
+nuclear explosion - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+great britain - http://dbpedia.org/resource/United_Kingdom
+nuclear fission - http://dbpedia.org/resource/Nuclear_fission
+primer - http://dbpedia.org/resource/Detonator
+potsdam declaration - http://dbpedia.org/resource/Potsdam_Declaration
+kyoto - http://dbpedia.org/resource/Kyoto_Protocol

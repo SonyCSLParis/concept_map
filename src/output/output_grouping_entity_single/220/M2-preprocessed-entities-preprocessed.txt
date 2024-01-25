@@ -1,6 +1,5 @@
-law regulation - http://dbpedia.org/resource/Primary_and_secondary_legislation
-colony - http://dbpedia.org/resource/Colony
 indigenous - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
-british empire - http://dbpedia.org/resource/British_Empire
-impose - http://dbpedia.org/resource/Impose_(magazine)
+colonies - http://dbpedia.org/resource/Colonialism
 ppl - http://dbpedia.org/resource/PPL_Corporation
+oppressive laws - http://dbpedia.org/resource/Antisemitism_in_the_Russian_Empire
+british empire - http://dbpedia.org/resource/British_Empire

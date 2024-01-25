@@ -1,47 +1,43 @@
-fish - http://dbpedia.org/resource/Fish
-monument - http://dbpedia.org/resource/Funerary_art
-hieroglyphic - http://dbpedia.org/resource/Hieroglyph
-ancient civilization - http://dbpedia.org/resource/Ancient_Egypt
-slave - http://dbpedia.org/resource/Slavery_in_ancient_Rome
-nile - http://dbpedia.org/resource/Nile
-die - http://dbpedia.org/resource/Death
-ritual - http://dbpedia.org/resource/Ritual
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
-osiris - http://dbpedia.org/resource/Osiris
-papyrus - http://dbpedia.org/resource/Papyrus
-communication - http://dbpedia.org/resource/Communication
-fall river - http://dbpedia.org/resource/Fall_River_F.C.
-afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
-ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
-mummy - http://dbpedia.org/resource/Ancient_Egyptian_funerary_practices
-food - http://dbpedia.org/resource/Food
-ancient egyptian calendar - http://dbpedia.org/resource/Egyptian_calendar
-atlas - http://dbpedia.org/resource/Atlas
-egyptian writing - http://dbpedia.org/resource/Egyptian_hieroglyphs
-unrivaled - http://dbpedia.org/resource/Unrivaled
-ton - http://dbpedia.org/resource/Ton
-harness - http://dbpedia.org/resource/Horse_harness
-royal family - http://dbpedia.org/resource/Royal_family
-agriculture - http://dbpedia.org/resource/History_of_agriculture
-civilization - http://dbpedia.org/resource/Civilization
+learning - http://dbpedia.org/resource/Learning
 gaza - http://dbpedia.org/resource/Gaza_City
-calendar - http://dbpedia.org/resource/Maya_calendar
-ake - http://dbpedia.org/resource/Egba_Ake
-religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
-irrigation - http://dbpedia.org/resource/Irrigation
-paper - http://dbpedia.org/resource/Paper
-egyptian calendar - http://dbpedia.org/resource/Egyptian_calendar
-artifact - http://dbpedia.org/resource/Magic_in_fiction
-hapy - http://dbpedia.org/resource/Hapi_(Nile_god)
-great pyramids - http://dbpedia.org/resource/Giza_pyramid_complex
-sphinx - http://dbpedia.org/resource/Sphinx
-prepare - http://dbpedia.org/resource/PREPARE
-deity - http://dbpedia.org/resource/Ancient_Egyptian_deities
-reed - http://dbpedia.org/resource/Phragmites
-fertility - http://dbpedia.org/resource/Fertility
-egyptian - http://dbpedia.org/resource/Ancient_Egyptian_religion
-ancient egypt - http://dbpedia.org/resource/Ancient_Egyptian_religion
-nile river - http://dbpedia.org/resource/Nile
+slaves - http://dbpedia.org/resource/Slavery_in_ancient_Rome
 great society - http://dbpedia.org/resource/Great_Society
-sand - http://dbpedia.org/resource/Sand
+paper - http://dbpedia.org/resource/Paper
+hapy - http://dbpedia.org/resource/Hapi_(Nile_god)
+civilization - http://dbpedia.org/resource/Civilization
+irrigation - http://dbpedia.org/resource/Irrigation
+osiris - http://dbpedia.org/resource/Osiris
+river nile - http://dbpedia.org/resource/Nile
+deity - http://dbpedia.org/resource/Ancient_Egyptian_deities
+afterlife - http://dbpedia.org/resource/Ancient_Egyptian_religion
 water - http://dbpedia.org/resource/Water
+ancient egyptians - http://dbpedia.org/resource/Ancient_Egypt
+nile - http://dbpedia.org/resource/Nile
+artifacts - http://dbpedia.org/resource/Magic_in_fiction
+hieroglyphics - http://dbpedia.org/resource/Egyptian_hieroglyphs
+sand - http://dbpedia.org/resource/Sand
+aking - http://dbpedia.org/resource/AKING
+ancient egypt - http://dbpedia.org/resource/Ancient_Egyptian_religion
+unrivaled - http://dbpedia.org/resource/Unrivaled
+fish - http://dbpedia.org/resource/Fish
+nile river - http://dbpedia.org/resource/Nile
+egyptian calendar - http://dbpedia.org/resource/Egyptian_calendar
+papyrus - http://dbpedia.org/resource/Papyrus
+food - http://dbpedia.org/resource/Food
+communication - http://dbpedia.org/resource/Communication
+harness - http://dbpedia.org/resource/Horse_harness
+religion - http://dbpedia.org/resource/Ancient_Egyptian_religion
+ancient civilization - http://dbpedia.org/resource/Ancient_Egypt
+atlas - http://dbpedia.org/resource/Atlas
+sphinx - http://dbpedia.org/resource/Sphinx
+fertility - http://dbpedia.org/resource/Fertility
+calendar - http://dbpedia.org/resource/Maya_calendar
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+great pyramids - http://dbpedia.org/resource/Giza_pyramid_complex
+egyptian - http://dbpedia.org/resource/Ancient_Egyptian_religion
+deities - http://dbpedia.org/resource/Ancient_Egyptian_deities
+egyptian writing - http://dbpedia.org/resource/Egyptian_hieroglyphs
+ancient egyptian calendar - http://dbpedia.org/resource/Egyptian_calendar
+reeds - http://dbpedia.org/resource/Cyperus_papyrus
+royal family - http://dbpedia.org/resource/Royal_family
+mummies - http://dbpedia.org/resource/Mummy

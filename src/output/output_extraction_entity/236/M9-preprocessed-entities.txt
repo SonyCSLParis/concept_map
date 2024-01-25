@@ -12,7 +12,6 @@ brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 constitutional revolution - http://dbpedia.org/resource/Persian_Constitutional_Revolution
 liberal - http://dbpedia.org/resource/Liberalism
-constitutionalist - http://dbpedia.org/resource/Constitutionalism
 revolution - http://dbpedia.org/resource/French_Revolution
 constituent assembly - http://dbpedia.org/resource/Constituent_assembly
 constitution - http://dbpedia.org/resource/Constitution
@@ -25,8 +24,7 @@ regent - http://dbpedia.org/resource/Prince_regent
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 portuguese - http://dbpedia.org/resource/Portuguese_language
-military officer - http://dbpedia.org/resource/Burkina_Faso_Armed_Forces
-brazil time - http://dbpedia.org/resource/Time_in_Brazil
+brazil - http://dbpedia.org/resource/Brazil
 constitutionalist - http://dbpedia.org/resource/Constitutionalism
 portuguese - http://dbpedia.org/resource/Portuguese_language
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
@@ -39,7 +37,6 @@ pedro - http://dbpedia.org/resource/Pedro_(card_game)
 governor - http://dbpedia.org/resource/Governor
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-court - http://dbpedia.org/resource/Royal_court
 cortes - http://dbpedia.org/resource/Portuguese_Cortes
 uprising - http://dbpedia.org/resource/Rebellion
 liberals - http://dbpedia.org/resource/Liberalism
@@ -52,13 +49,12 @@ monarchy - http://dbpedia.org/resource/Empire_of_Brazil
 humiliation - http://dbpedia.org/resource/Humiliation
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 cortes - http://dbpedia.org/resource/Portuguese_Cortes
+loyalties - http://dbpedia.org/resource/Loyalties_(1933_film)
 brazil - http://dbpedia.org/resource/Brazil
 leopoldina - http://dbpedia.org/resource/Maria_Leopoldina_of_Austria
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-newspaper - http://dbpedia.org/resource/Newspaper
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-soldier - http://dbpedia.org/resource/Soldier
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
@@ -70,8 +66,6 @@ cabinet - http://dbpedia.org/resource/Government_of_Austria
 straw - http://dbpedia.org/resource/Straw
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-blue white - http://dbpedia.org/resource/Blauw-Wit_Amsterdam
-armband - http://dbpedia.org/resource/Armband
 independence - http://dbpedia.org/resource/Independence
 freedom - http://dbpedia.org/resource/Political_freedom
 brazil - http://dbpedia.org/resource/Brazil

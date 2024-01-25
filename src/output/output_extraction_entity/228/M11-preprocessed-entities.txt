@@ -15,7 +15,6 @@ austin - http://dbpedia.org/resource/Austin_Motor_Company
 capital - http://dbpedia.org/resource/Capital_city
 brazos river - http://dbpedia.org/resource/Brazos_River
 bluff - http://dbpedia.org/resource/Cliff
-bottomland - http://dbpedia.org/resource/Upland_and_lowland
 fresh water - http://dbpedia.org/resource/Fresh_water
 independent - http://dbpedia.org/resource/Independence
 town - http://dbpedia.org/resource/Town
@@ -23,20 +22,19 @@ regular grid - http://dbpedia.org/resource/Regular_grid
 settlement - http://dbpedia.org/resource/Town
 sprawl - http://dbpedia.org/resource/Urban_sprawl
 westward - http://dbpedia.org/resource/Westward_Television
-general store - http://dbpedia.org/resource/General_store
-tavern - http://dbpedia.org/resource/Tavern
 hotel - http://dbpedia.org/resource/Hotel
 blacksmith - http://dbpedia.org/resource/Blacksmith
-log cabin - http://dbpedia.org/resource/Log_cabin
 hispanic - http://dbpedia.org/resource/Hispanic
 town - http://dbpedia.org/resource/Town
 colony - http://dbpedia.org/resource/Colony
-immigrant - http://dbpedia.org/resource/Immigration
+immigrants - http://dbpedia.org/resource/Immigration
+transients - http://dbpedia.org/resource/Homelessness
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 bullinger - http://dbpedia.org/resource/Heinrich_Bullinger
 colony - http://dbpedia.org/resource/Colony
 ayuntamiento - http://dbpedia.org/resource/Ayuntamiento
-municipality - http://dbpedia.org/resource/Municipalities_of_Mexico
+governing body - http://dbpedia.org/resource/Local_government
+spanish municipalities - http://dbpedia.org/resource/Municipalities_of_Spain
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 land office - http://dbpedia.org/resource/General_Land_Office
 town - http://dbpedia.org/resource/Town
@@ -44,11 +42,9 @@ austin - http://dbpedia.org/resource/Austin_Motor_Company
 colony - http://dbpedia.org/resource/Colony
 postmaster - http://dbpedia.org/resource/Postmaster
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
-postal route - http://dbpedia.org/resource/Post_road
 town - http://dbpedia.org/resource/Town
 texas - http://dbpedia.org/resource/Texas
 texas revolution - http://dbpedia.org/resource/Texas_Revolution
-newspaper - http://dbpedia.org/resource/Newspaper
 texas - http://dbpedia.org/resource/Texas
 texas - http://dbpedia.org/resource/Texas
 gazette - http://dbpedia.org/resource/Gazette
@@ -65,16 +61,15 @@ bell - http://dbpedia.org/resource/Bell_tower
 miller - http://dbpedia.org/resource/Gristmill
 noah - http://dbpedia.org/resource/Noah's_Ark
 horatio chriesman - http://dbpedia.org/resource/Horatio_Chriesman
-cotton plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
-bottomland - http://dbpedia.org/resource/Upland_and_lowland
+cotton - http://dbpedia.org/resource/Cotton
+plantations - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
 town - http://dbpedia.org/resource/Town
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 texas revolution - http://dbpedia.org/resource/Texas_Revolution
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 san antonio - http://dbpedia.org/resource/San_Antonio
-settler - http://dbpedia.org/resource/Settler
 municipality - http://dbpedia.org/resource/Municipalities_of_Mexico
-capital life - http://dbpedia.org/resource/Capital_Life
+capital - http://dbpedia.org/resource/Capital_city
 colony - http://dbpedia.org/resource/Colony
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 texas revolution - http://dbpedia.org/resource/Texas_Revolution
@@ -85,7 +80,6 @@ provisional government - http://dbpedia.org/resource/Provisional_government
 washington - http://dbpedia.org/resource/George_Washington
 gen. - http://dbpedia.org/resource/Divisional_general
 houston - http://dbpedia.org/resource/Houston
-army retreat - http://dbpedia.org/resource/Great_Retreat_(Serbian)
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 garrison - http://dbpedia.org/resource/Garrison
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
@@ -96,7 +90,6 @@ runaway scrape - http://dbpedia.org/resource/Runaway_Scrape
 news - http://dbpedia.org/resource/Journalism
 texans - http://dbpedia.org/resource/Texas
 san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
-family - http://dbpedia.org/resource/Family
 republic - http://dbpedia.org/resource/French_First_Republic
 town - http://dbpedia.org/resource/Town
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
@@ -105,12 +98,10 @@ austin county - http://dbpedia.org/resource/Austin_County,_Texas
 courthouse - http://dbpedia.org/resource/Courthouse
 town - http://dbpedia.org/resource/Town
 settlement - http://dbpedia.org/resource/Town
-log house - http://dbpedia.org/resource/Log_cabin
 tavern - http://dbpedia.org/resource/Tavern
 election - http://dbpedia.org/resource/Election
 bellville - http://dbpedia.org/resource/Bellville_railway_station
 county seat - http://dbpedia.org/resource/County_seat
-function - http://dbpedia.org/resource/Role
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 town - http://dbpedia.org/resource/Town
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
@@ -125,7 +116,6 @@ ultimate victory - http://dbpedia.org/resource/Ultimate_Victory
 san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 log cabin - http://dbpedia.org/resource/Log_cabin
-lease - http://dbpedia.org/resource/Lease
 hotel - http://dbpedia.org/resource/Hotel
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 anglo - http://dbpedia.org/resource/Anglo
@@ -138,7 +128,7 @@ san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 san felipe - http://dbpedia.org/resource/Philip_the_Apostle
 john bricker - http://dbpedia.org/resource/John_W._Bricker
-annal - http://dbpedia.org/resource/Annals
+annals - http://dbpedia.org/resource/Annals
 texas history - http://dbpedia.org/resource/History_of_Texas
 texian - http://dbpedia.org/resource/Texians
 brazos river - http://dbpedia.org/resource/Brazos_River
@@ -152,6 +142,7 @@ austin - http://dbpedia.org/resource/Austin_Motor_Company
 newspaper publisher - http://dbpedia.org/resource/Publishing
 san felipe de austin - http://dbpedia.org/resource/San_Felipe_de_Austin_State_Historic_Site
 manager - http://dbpedia.org/resource/Management
+printing - http://dbpedia.org/resource/Printing_press
 provisional government - http://dbpedia.org/resource/Provisional_government
 texas - http://dbpedia.org/resource/Texas
 independence - http://dbpedia.org/resource/Mexican_War_of_Independence

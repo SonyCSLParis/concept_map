@@ -1,656 +1,610 @@
-heir apparent - http://dbpedia.org/resource/Heir_apparent
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-brazilian portuguese - http://dbpedia.org/resource/Portuguese_language
-liberal - http://dbpedia.org/resource/Liberalism
-national independence - http://dbpedia.org/resource/Self-determination
-minas - http://dbpedia.org/resource/Mina_(unit)
-chronic - http://dbpedia.org/resource/Alcoholism
-provisional government - http://dbpedia.org/resource/Russian_Provisional_Government
-philadelphia - http://dbpedia.org/resource/Philadelphia
-savant - http://dbpedia.org/resource/Expert
-legal system - http://dbpedia.org/resource/Law
-revenue - http://dbpedia.org/resource/Tax
-germany - http://dbpedia.org/resource/Weimar_Republic
-american philosophical society - http://dbpedia.org/resource/American_Philosophical_Society
-portuguese - http://dbpedia.org/resource/Portugal
-bombard - http://dbpedia.org/resource/Bombardment
-solidarity - http://dbpedia.org/resource/Solidarity
-american empire - http://dbpedia.org/resource/American_imperialism
-clock - http://dbpedia.org/resource/Clock
-ibid - http://dbpedia.org/resource/Dialectic_of_Enlightenment
-eurocentrism - http://dbpedia.org/resource/Eurocentrism
-calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
-free man - http://dbpedia.org/resource/Free_Man
-caxias - http://dbpedia.org/resource/Sociedade_Esportiva_e_Recreativa_Caxias_do_Sul
-constellation - http://dbpedia.org/resource/Constellation
-indigenous origin - http://dbpedia.org/resource/Indigenous_Australians
-paulista - http://dbpedia.org/resource/Campeonato_Paulista
-boston - http://dbpedia.org/resource/Boston
-george canning - http://dbpedia.org/resource/George_Canning
-silva - http://dbpedia.org/resource/SILVA_ribosomal_RNA_database
-jettison - http://dbpedia.org/resource/Jettison_(album)
-harper row - http://dbpedia.org/resource/Bluebird_(DC_Comics)
-literature - http://dbpedia.org/resource/Literature
-courageous - http://dbpedia.org/resource/Operation_Courageous
-intercourse - http://dbpedia.org/resource/Sexual_intercourse
-international treaty - http://dbpedia.org/resource/Treaty
-equality - http://dbpedia.org/resource/Egalitarianism
-truth - http://dbpedia.org/resource/Truth
-hemispheres - http://dbpedia.org/resource/Earth
-mobilization - http://dbpedia.org/resource/Mobilization
-sublimate - http://dbpedia.org/resource/Volcanic_sublimate
-modern history - http://dbpedia.org/resource/Historiography
-eastern europe - http://dbpedia.org/resource/Eastern_Europe
-british cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom
-pernambucan - http://dbpedia.org/resource/Pernambuco
-intendent - http://dbpedia.org/resource/Intendant_(government_official)
-monopoly - http://dbpedia.org/resource/Monopoly
-crime - http://dbpedia.org/resource/Crime
-peace - http://dbpedia.org/resource/Peace
-climate - http://dbpedia.org/resource/Global_warming
-lobbyist - http://dbpedia.org/resource/Lobbying
-scientific paper - http://dbpedia.org/resource/Scientific_literature
-liverpool - http://dbpedia.org/resource/Liverpool
-rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
-washington - http://dbpedia.org/resource/George_Washington
-urban - http://dbpedia.org/resource/Urbanization
-force play - http://dbpedia.org/resource/Force_play
-national identity - http://dbpedia.org/resource/Nationalism
-providence - http://dbpedia.org/resource/Divine_providence
-vulnerability - http://dbpedia.org/resource/Vulnerability
-agriculture - http://dbpedia.org/resource/Agriculture
-guilherme - http://dbpedia.org/resource/Guilherme_Schettine
-portuguese nation - http://dbpedia.org/resource/Portuguese_people
-social conflict - http://dbpedia.org/resource/Social_conflict
-independent - http://dbpedia.org/resource/Independence
-constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
-dutch empire - http://dbpedia.org/resource/Dutch_Empire
-broker - http://dbpedia.org/resource/Broker
-politician - http://dbpedia.org/resource/Politics
-fruition - http://dbpedia.org/resource/Fruition
-imperialism - http://dbpedia.org/resource/Imperialism
-natural scientist - http://dbpedia.org/resource/Natural_science
-sovereignty - http://dbpedia.org/resource/Sovereign_state
-royal family - http://dbpedia.org/resource/Monarchy_of_the_Netherlands
-bahia - http://dbpedia.org/resource/Bahia
-parry - http://dbpedia.org/resource/Parry_(fencing)
-minas conspiracy - http://dbpedia.org/resource/Inconfidência_Mineira
-strike - http://dbpedia.org/resource/Strike_action
-finance - http://dbpedia.org/resource/Finance
-stigma - http://dbpedia.org/resource/Mental_disorder
-south america - http://dbpedia.org/resource/South_America
-stanford university press - http://dbpedia.org/resource/Stanford_University_Press
-economic power - http://dbpedia.org/resource/Economic_power
-mota - http://dbpedia.org/resource/Motte-and-bailey_castle
-thicket - http://dbpedia.org/resource/Thicket
-market - http://dbpedia.org/resource/Free_market
-brother leader - http://dbpedia.org/resource/Brotherly_Leader_and_Guide_of_the_Revolution
-agency - http://dbpedia.org/resource/Institution
-impose - http://dbpedia.org/resource/Impose_(magazine)
-britannic - http://dbpedia.org/resource/HMHS_Britannic
-hemisphere - http://dbpedia.org/resource/Western_Hemisphere
-heritage - http://dbpedia.org/resource/Tradition
-philanthropic - http://dbpedia.org/resource/Philanthropy
-mestizo - http://dbpedia.org/resource/Mestizo
-enclave - http://dbpedia.org/resource/Enclave_and_exclave
-comparative advantage - http://dbpedia.org/resource/Comparative_advantage
-franklin - http://dbpedia.org/resource/The_Franklin's_Tale
-counterrevolutionary - http://dbpedia.org/resource/Counter-revolutionary
-revolution - http://dbpedia.org/resource/Revolution
-cotton - http://dbpedia.org/resource/Cotton
-metternich - http://dbpedia.org/resource/Klemens_von_Metternich
-regionalist - http://dbpedia.org/resource/Galicianism
-francis - http://dbpedia.org/resource/Francis_I_of_France
-gangrene - http://dbpedia.org/resource/Gangrene
-slave holder - http://dbpedia.org/resource/Slavery_in_the_United_States
-liberalization - http://dbpedia.org/resource/Free_market
-subjective - http://dbpedia.org/resource/Subjectivity
-sugar - http://dbpedia.org/resource/Sugarcane
-american revolution - http://dbpedia.org/resource/American_Revolution
-guerrilla warfare - http://dbpedia.org/resource/Guerrilla_warfare
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
-latin american - http://dbpedia.org/resource/Latin_America
-graduate student - http://dbpedia.org/resource/Postgraduate_education
-general junot - http://dbpedia.org/resource/Jean-Andoche_Junot
-geography - http://dbpedia.org/resource/Geography
-paris - http://dbpedia.org/resource/Paris
-jeffersonian - http://dbpedia.org/resource/Thomas_Jefferson
-great learning - http://dbpedia.org/resource/Great_Learning
-marriage - http://dbpedia.org/resource/Same-sex_marriage
-independence - http://dbpedia.org/resource/Independence
-uruguay - http://dbpedia.org/resource/Uruguay
-status quo - http://dbpedia.org/resource/Status_quo
-ipiranga river - http://dbpedia.org/resource/Ipiranga_Brook
-hinterland - http://dbpedia.org/resource/Hinterland
-library - http://dbpedia.org/resource/Library
-cannibalism - http://dbpedia.org/resource/Cannibalism
-portuguese history - http://dbpedia.org/resource/History_of_Portugal
-thomas - http://dbpedia.org/resource/THOMAS
-equator - http://dbpedia.org/resource/Equator
-eugene - http://dbpedia.org/resource/Eugene_Porter
-ephemeral - http://dbpedia.org/resource/Ephemerality
-york - http://dbpedia.org/resource/House_of_York
-shrift - http://dbpedia.org/resource/Shrift_(band)
-negotiation - http://dbpedia.org/resource/Negotiation
-religious toleration - http://dbpedia.org/resource/Toleration
-dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
-separatist - http://dbpedia.org/resource/Separatism
-factionalism - http://dbpedia.org/resource/Political_faction
-maxwell - http://dbpedia.org/resource/Maxwell_(unit)
-uprising - http://dbpedia.org/resource/Rebellion
-josé da silva lisboa - http://dbpedia.org/resource/José_da_Silva_Lisboa
-priest - http://dbpedia.org/resource/Clergy
-effeminacy - http://dbpedia.org/resource/Effeminacy
-marxist - http://dbpedia.org/resource/Marxism
-object - http://dbpedia.org/resource/Physical_object
-haiti - http://dbpedia.org/resource/Haitian_Revolution
-gunboat diplomacy - http://dbpedia.org/resource/Gunboat_diplomacy
-great power - http://dbpedia.org/resource/Great_power
-regression - http://dbpedia.org/resource/Regression_analysis
-haitian slave revolt - http://dbpedia.org/resource/Haitian_Revolution
-banda oriental - http://dbpedia.org/resource/Uruguay
-political emancipation - http://dbpedia.org/resource/Emancipation
-hegemony - http://dbpedia.org/resource/Hegemony
-admiral - http://dbpedia.org/resource/Admiral
-squatter - http://dbpedia.org/resource/Squatting
-slavery - http://dbpedia.org/resource/Slavery
-textile - http://dbpedia.org/resource/Textile_industry
-innovation - http://dbpedia.org/resource/Innovation
-viotti - http://dbpedia.org/resource/Giovanni_Battista_Viotti
-sir charles stuart - http://dbpedia.org/resource/Charles_Stuart_(British_Army_officer,_born_1753)
-compact - http://dbpedia.org/resource/Compact_space
-radical change - http://dbpedia.org/resource/Radical_Change
-emancipation - http://dbpedia.org/resource/Abolitionism
-stanford - http://dbpedia.org/resource/Stanford_University
-hopeless - http://dbpedia.org/resource/Hopeless_Records
-republicans - http://dbpedia.org/resource/Republicanism
-race - http://dbpedia.org/resource/Racing
-abolish slavery - http://dbpedia.org/resource/Abolitionism
-mercantilistic - http://dbpedia.org/resource/Mercantilism
-fear - http://dbpedia.org/resource/Fear
-memorandum - http://dbpedia.org/resource/Memorandum
-cumulative process - http://dbpedia.org/resource/Cumulative_process
-observation - http://dbpedia.org/resource/Observation
-informal empire - http://dbpedia.org/resource/Informal_empire
-roman catholic - http://dbpedia.org/resource/Catholic_Church
-interracial - http://dbpedia.org/resource/Miscegenation
-metal - http://dbpedia.org/resource/Metal
-sacred - http://dbpedia.org/resource/Sacred
-continuity - http://dbpedia.org/resource/Continuous_function
-chile - http://dbpedia.org/resource/Chile
-brazil - http://dbpedia.org/resource/Brazil
-rent - http://dbpedia.org/resource/Economic_rent
-concession - http://dbpedia.org/resource/Contract
-portuguese monarchy - http://dbpedia.org/resource/Kingdom_of_Portugal
-sphere - http://dbpedia.org/resource/Sphere_of_influence
-corruption - http://dbpedia.org/resource/Political_corruption
-conditionality - http://dbpedia.org/resource/Conditionality
-.22 - http://dbpedia.org/resource/.22_Long_Rifle
-judge - http://dbpedia.org/resource/Judge
-overseas possession - http://dbpedia.org/resource/Stato_da_Màr
-public administration - http://dbpedia.org/resource/Public_administration
-democratization - http://dbpedia.org/resource/Democracy
-settler - http://dbpedia.org/resource/Settler
-afro american - http://dbpedia.org/resource/African_Americans
-adam smith - http://dbpedia.org/resource/Adam_Smith
-british fleet - http://dbpedia.org/resource/Royal_Navy
-decolonization - http://dbpedia.org/resource/Decolonization
-freedom - http://dbpedia.org/resource/Liberty
-slave revolts - http://dbpedia.org/resource/Slave_rebellion
-light - http://dbpedia.org/resource/Light
-civilization - http://dbpedia.org/resource/Western_culture
-constitution - http://dbpedia.org/resource/Constitution
-british influence - http://dbpedia.org/resource/British_Influence
-civil war - http://dbpedia.org/resource/Civil_war
-duke - http://dbpedia.org/resource/Duke
-democracy - http://dbpedia.org/resource/Democracy
-brazil time - http://dbpedia.org/resource/Time_in_Brazil
-nelson - http://dbpedia.org/resource/Nelson_Muntz
-monarch - http://dbpedia.org/resource/Monarchy
-usurper - http://dbpedia.org/resource/Usurper
-revolt - http://dbpedia.org/resource/Revolution
-austrian army - http://dbpedia.org/resource/Austrian_Empire
-textile mill - http://dbpedia.org/resource/Textile
-feijó - http://dbpedia.org/resource/Feijó,_Acre
-temperament - http://dbpedia.org/resource/Temperament
-realist - http://dbpedia.org/resource/Literary_realism
-radical - http://dbpedia.org/resource/Political_radicalism
-import - http://dbpedia.org/resource/International_trade
-philosophical - http://dbpedia.org/resource/Philosophy
-dependency theory - http://dbpedia.org/resource/Dependency_theory
-american patriot - http://dbpedia.org/resource/Patriot_(American_Revolution)
-thomas sumter jr. - http://dbpedia.org/resource/Thomas_Sumter
-alden - http://dbpedia.org/resource/Alden,_New_York
-economic development - http://dbpedia.org/resource/Economic_growth
-power broker - http://dbpedia.org/resource/Power_broker_(politics)
-resistance - http://dbpedia.org/resource/Resistance_movement
-liberty - http://dbpedia.org/resource/Liberty
-administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
-law - http://dbpedia.org/resource/Law
-portuguese cortes - http://dbpedia.org/resource/Portuguese_Cortes
-acquiesce - http://dbpedia.org/resource/Acquiesce
-agrarian reform - http://dbpedia.org/resource/Land_reform
-revolutionary - http://dbpedia.org/resource/French_Revolution
-separatism - http://dbpedia.org/resource/Separatism
-heir presumptive - http://dbpedia.org/resource/Heir_presumptive
-nationalist - http://dbpedia.org/resource/Nationalism
-companhia das letras - http://dbpedia.org/resource/Companhia_das_Letras
-brazilians - http://dbpedia.org/resource/Brazil
-henry - http://dbpedia.org/resource/Henry_(unit)
-monarchic - http://dbpedia.org/resource/Monarchy
-central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
-rebellion - http://dbpedia.org/resource/American_Revolution
-blockade - http://dbpedia.org/resource/Blockade
-fine art school - http://dbpedia.org/resource/Hungarian_University_of_Fine_Arts
-human - http://dbpedia.org/resource/Human_nature
-asians - http://dbpedia.org/resource/Asian_people
-agricultural sector - http://dbpedia.org/resource/Agriculture
-capitalism - http://dbpedia.org/resource/Capitalism
-raw material - http://dbpedia.org/resource/Raw_material
-napoleonic war - http://dbpedia.org/resource/Napoleonic_Wars
-interdict - http://dbpedia.org/resource/Interdict
-harvard yard - http://dbpedia.org/resource/Harvard_Yard
-ipiranga - http://dbpedia.org/resource/Ipiranga_Brook
-renaissance - http://dbpedia.org/resource/Renaissance
-sumpter - http://dbpedia.org/resource/Tika_Sumpter
-anglo - http://dbpedia.org/resource/Anglo
-penguin books - http://dbpedia.org/resource/Penguin_Books
-sidney mintz - http://dbpedia.org/resource/Sidney_Mintz
-national bank - http://dbpedia.org/resource/Second_Bank_of_the_United_States
-current literature - http://dbpedia.org/resource/Current_Literature
-lancashire - http://dbpedia.org/resource/Lancashire
-french invasion - http://dbpedia.org/resource/Napoleonic_Wars
-monroe - http://dbpedia.org/resource/Greg_Monroe
-sovereign people - http://dbpedia.org/resource/Sovereign_People
-united provinces - http://dbpedia.org/resource/Dutch_Republic
-sweetness - http://dbpedia.org/resource/Sweetness_of_wine
-local authority - http://dbpedia.org/resource/Local_government
-chamberlain - http://dbpedia.org/resource/Lord_Chamberlain
-wine - http://dbpedia.org/resource/Wine
-firmin didot - http://dbpedia.org/resource/Firmin_Didot
-vintage books - http://dbpedia.org/resource/Random_House
-frontier - http://dbpedia.org/resource/Frontier
-napoleonic france - http://dbpedia.org/resource/Napoleon
-east china - http://dbpedia.org/resource/East_China_Sea
-critical region - http://dbpedia.org/resource/Statistical_hypothesis_testing
-transatlantic - http://dbpedia.org/resource/Atlantic_Ocean
-economic system - http://dbpedia.org/resource/Economy
-cardinal - http://dbpedia.org/resource/College_of_Cardinals
-slave revolt - http://dbpedia.org/resource/Haitian_Revolution
-historian - http://dbpedia.org/resource/History
-dominant - http://dbpedia.org/resource/Dominance_hierarchy
-consumer - http://dbpedia.org/resource/Consumerism
-dr. henry kissinger - http://dbpedia.org/resource/Henry_Kissinger
-miscegenation - http://dbpedia.org/resource/Miscegenation
-ethiopian - http://dbpedia.org/resource/Ethiopian_Empire
-liberalism - http://dbpedia.org/resource/Liberalism
-nanking - http://dbpedia.org/resource/Nanjing
-friendly - http://dbpedia.org/resource/Friendship
-peru - http://dbpedia.org/resource/Peru
-oporto - http://dbpedia.org/resource/Porto
-dear homeland - http://dbpedia.org/resource/Dear_Homeland
-cement - http://dbpedia.org/resource/Cement
-adams - http://dbpedia.org/resource/John_Adams
-emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
-ideal - http://dbpedia.org/resource/Theory_of_forms
-white race - http://dbpedia.org/resource/White_people
-maritime - http://dbpedia.org/resource/Freight_transport
-officer - http://dbpedia.org/resource/Police_officer
-coalition - http://dbpedia.org/resource/Coalition
-dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
-french british - http://dbpedia.org/resource/French_migration_to_the_United_Kingdom
-government intervention - http://dbpedia.org/resource/Economic_interventionism
-colony - http://dbpedia.org/resource/Colony
-centralism - http://dbpedia.org/resource/Centralisation
-republican revolution - http://dbpedia.org/resource/5_October_1910_revolution
-emperor dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
-hereditary - http://dbpedia.org/resource/Inheritance
-essay - http://dbpedia.org/resource/Essay
-charles - http://dbpedia.org/resource/Charles_II_of_England
-bear - http://dbpedia.org/resource/Bear
-admire - http://dbpedia.org/resource/Admire,_Kansas
-buenos aires - http://dbpedia.org/resource/Buenos_Aires
-immortality - http://dbpedia.org/resource/Immortality
-josé bonifácio de andrada - http://dbpedia.org/resource/José_Bonifácio_de_Andrada
-invasion - http://dbpedia.org/resource/Invasion
-oligarchy - http://dbpedia.org/resource/Oligarchy
-continental blockade - http://dbpedia.org/resource/Continental_System
-economic historian - http://dbpedia.org/resource/Economic_history
-doctrine - http://dbpedia.org/resource/Doctrine
-plotter - http://dbpedia.org/resource/Plotter
-holy alliance - http://dbpedia.org/resource/Holy_Alliance
-american system - http://dbpedia.org/resource/American_system_of_manufacturing
-david - http://dbpedia.org/resource/David
-monarchist - http://dbpedia.org/resource/Monarchy
-african slave trade - http://dbpedia.org/resource/Atlantic_slave_trade
-delinquency - http://dbpedia.org/resource/Juvenile_delinquency
-negroland - http://dbpedia.org/resource/Negroland
-flag - http://dbpedia.org/resource/Flag_of_the_United_States
-brute - http://dbpedia.org/resource/Ben_Webster
-slave - http://dbpedia.org/resource/Slavery
-political economic - http://dbpedia.org/resource/Political_economy
-marquês de pombal - http://dbpedia.org/resource/Marquis_of_Pombal_Square
-pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
-northeast brazil - http://dbpedia.org/resource/Brazil
-webster - http://dbpedia.org/resource/Martell_Webster
-admiral blake - http://dbpedia.org/resource/Robert_Blake_(admiral)
-rodney - http://dbpedia.org/resource/Rodney_Trotter
-cromwellian - http://dbpedia.org/resource/Oliver_Cromwell
-pace development - http://dbpedia.org/resource/Pace_Development
-realism - http://dbpedia.org/resource/Literary_realism
-open revolt - http://dbpedia.org/resource/Berber_Revolt
-burkian - http://dbpedia.org/resource/Edmund_Burke
-british navy - http://dbpedia.org/resource/Royal_Navy
-sovereign - http://dbpedia.org/resource/Sovereign_state
-nationality - http://dbpedia.org/resource/Sovereign_state
-spanish america - http://dbpedia.org/resource/Spanish_Empire
-brazilian history - http://dbpedia.org/resource/History_of_Brazil
-advantageous - http://dbpedia.org/resource/Advantageous
-abdicate - http://dbpedia.org/resource/Abdication
-headlong - http://dbpedia.org/resource/Headlong_(theatre_company)
-pressure - http://dbpedia.org/resource/Blood_pressure
-geopolitical - http://dbpedia.org/resource/Geopolitics
-americas - http://dbpedia.org/resource/Slavery_in_the_United_States
-president - http://dbpedia.org/resource/President_of_the_United_States
-great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
-pragmatic - http://dbpedia.org/resource/Pragmatism
-atlantic community - http://dbpedia.org/resource/Atlantic_Community
-entrepreneur - http://dbpedia.org/resource/Innovation
-outline - http://dbpedia.org/resource/Nutrition
-scandinavia - http://dbpedia.org/resource/Scandinavia
-president monroe - http://dbpedia.org/resource/James_Monroe
-sharecropper - http://dbpedia.org/resource/Sharecropping
-interventionism - http://dbpedia.org/resource/Economic_interventionism
-cancer - http://dbpedia.org/resource/Cancer
-hegemonic power - http://dbpedia.org/resource/Hegemony
-defy - http://dbpedia.org/resource/Motorola_Defy
-conservation - http://dbpedia.org/resource/Conservation_movement
-emigration - http://dbpedia.org/resource/Human_migration
-emigrant - http://dbpedia.org/resource/Emigration
-heart - http://dbpedia.org/resource/Cardiovascular_disease
-colonial dependency - http://dbpedia.org/resource/Colony
-indemnity - http://dbpedia.org/resource/Indemnity
-por - http://dbpedia.org/resource/2010_FIFA_World_Cup_knockout_stage
-rio - http://dbpedia.org/resource/Rio_(windowing_system)
-loan - http://dbpedia.org/resource/Usury
-narcotic - http://dbpedia.org/resource/Psychoactive_drug
-colonial latin america - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
-peripheral - http://dbpedia.org/resource/Periphery_countries
-sacrifice - http://dbpedia.org/resource/Sacrifice
-redundant - http://dbpedia.org/resource/Layoff
-inbreed - http://dbpedia.org/resource/Inbreeding
-critical period - http://dbpedia.org/resource/Critical_period
-land army - http://dbpedia.org/resource/French_Army
-republican alternative - http://dbpedia.org/resource/Republican_Alternative_Party_(Azerbaijan)
-cross purpose - http://dbpedia.org/resource/Cross_Purpose
-independence movement - http://dbpedia.org/resource/Separatism
-envision - http://dbpedia.org/resource/Buick_Envision
-josé mattoso - http://dbpedia.org/resource/José_Mattoso
-remarkable - http://dbpedia.org/resource/ReMarkable
-autonomy - http://dbpedia.org/resource/Autonomy
-constitutionalist - http://dbpedia.org/resource/Constitutionalism
-nimes - http://dbpedia.org/resource/Nîmes
-amuse - http://dbpedia.org/resource/Amusement
-abbé - http://dbpedia.org/resource/Abbot
-warfare - http://dbpedia.org/resource/War
-asian - http://dbpedia.org/resource/Asia
-connectedness - http://dbpedia.org/resource/Connected_space
-montpellier - http://dbpedia.org/resource/Montpellier
-free trade - http://dbpedia.org/resource/Free_trade
-pseudonym - http://dbpedia.org/resource/Pseudonym
-discontinuity - http://dbpedia.org/resource/Continuous_function
-lisboa - http://dbpedia.org/resource/Lisbon
-boxer - http://dbpedia.org/resource/Boxing
-relaxation - http://dbpedia.org/resource/Dielectric
-british government - http://dbpedia.org/resource/British_Empire
-sidney - http://dbpedia.org/resource/Philip_Sidney
-constitutional monarchy - http://dbpedia.org/resource/Constitutional_monarchy
-middle class - http://dbpedia.org/resource/Bourgeoisie
-maria cosway - http://dbpedia.org/resource/Maria_Cosway
-root - http://dbpedia.org/resource/Root
-amalgamation - http://dbpedia.org/resource/Miscegenation
-conspiracy - http://dbpedia.org/resource/Conspiracy_theory
-slave trading - http://dbpedia.org/resource/Slavery
-prepare - http://dbpedia.org/resource/PREPARE
-tagus - http://dbpedia.org/resource/Tagus_(title)
-philanderer - http://dbpedia.org/resource/Promiscuity
-slave rebellion - http://dbpedia.org/resource/Haitian_Revolution
-high time - http://dbpedia.org/resource/Pageant_Material
-woolen - http://dbpedia.org/resource/Woolen
-miriam - http://dbpedia.org/resource/Minimum_information_required_in_the_annotation_of_models
-europeanize - http://dbpedia.org/resource/Europeanisation
-henry wise - http://dbpedia.org/resource/Henry_A._Wise
-slave trade - http://dbpedia.org/resource/Slavery
-cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom
-perception - http://dbpedia.org/resource/Perception
-haitian - http://dbpedia.org/resource/Haitian_Revolution
-coalescence - http://dbpedia.org/resource/Coalescent_theory
-pernambuco - http://dbpedia.org/resource/Paubrasilia
-rejoice - http://dbpedia.org/resource/Word_Records
-social hierarchy - http://dbpedia.org/resource/Social_class
-ferdinand vii - http://dbpedia.org/resource/Ferdinand_VII_of_Spain
-anchor - http://dbpedia.org/resource/Anchor
-vantage - http://dbpedia.org/resource/Matsumoku
-henry kissinger - http://dbpedia.org/resource/Henry_Kissinger
-jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-prince metternich - http://dbpedia.org/resource/Klemens_von_Metternich
-ancient civilization - http://dbpedia.org/resource/Civilization
-walford - http://dbpedia.org/resource/Walford
-despotism - http://dbpedia.org/resource/Despotism
-slave labor - http://dbpedia.org/resource/Slavery
-partition - http://dbpedia.org/resource/Partitions_of_Poland
-queen maria - http://dbpedia.org/resource/Maria_I_of_Portugal
-city - http://dbpedia.org/resource/City
-piracy - http://dbpedia.org/resource/Piracy
-stephen haber - http://dbpedia.org/resource/Stephen_Haber
-ambiguity - http://dbpedia.org/resource/Ambiguity
-test case - http://dbpedia.org/resource/Test_case
-aspiration - http://dbpedia.org/resource/Lung
-parliament - http://dbpedia.org/resource/Parliament
-convocation - http://dbpedia.org/resource/Convocation
-unequal treaty - http://dbpedia.org/resource/Unequal_treaty
-cruiser - http://dbpedia.org/resource/Cruiser
-soil - http://dbpedia.org/resource/Soil
-patriarch - http://dbpedia.org/resource/Patriarchy
-unconscious - http://dbpedia.org/resource/Consciousness
-europeans - http://dbpedia.org/resource/White_people
-aspire - http://dbpedia.org/resource/Acer_Aspire
-confine - http://dbpedia.org/resource/Confine
-thrive - http://dbpedia.org/resource/Thrive_Music
-emília - http://dbpedia.org/resource/Emilia_(Sítio_do_Picapau_Amarelo)
-kenneth maxwell - http://dbpedia.org/resource/Kenneth_Maxwell
-protectionism - http://dbpedia.org/resource/Protectionism
-portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-patriot - http://dbpedia.org/resource/Patriotism
-artisan - http://dbpedia.org/resource/Artisan
-humanitarian - http://dbpedia.org/resource/Humanitarianism
-interference - http://dbpedia.org/resource/Wave_interference
-massachusetts - http://dbpedia.org/resource/Province_of_Massachusetts_Bay
-family - http://dbpedia.org/resource/Family
-buffer - http://dbpedia.org/resource/Buffer_state
-abolitionist - http://dbpedia.org/resource/Slavery
-law court - http://dbpedia.org/resource/Court
-baltimore - http://dbpedia.org/resource/Baltimore
-berkeley university - http://dbpedia.org/resource/University_of_California,_Berkeley
-dominion - http://dbpedia.org/resource/Dominion
-analogy - http://dbpedia.org/resource/Analogy
-inelastic supply - http://dbpedia.org/resource/Price_elasticity_of_supply
-naples - http://dbpedia.org/resource/Kingdom_of_Naples
-populist - http://dbpedia.org/resource/Populism
-independent republican - http://dbpedia.org/resource/Independent_Republican_(Ireland)
-protégée - http://dbpedia.org/resource/Mentorship
-underdevelopment - http://dbpedia.org/resource/Underdevelopment
-genovese - http://dbpedia.org/resource/Republic_of_Genoa
-french revolution - http://dbpedia.org/resource/French_Revolution
-monroe doctrine - http://dbpedia.org/resource/Monroe_Doctrine
-monticello - http://dbpedia.org/resource/Monticello
-interpenetration - http://dbpedia.org/resource/Buddhist_philosophy
-intellectual capital - http://dbpedia.org/resource/Intellectual_capital
-sally hemings - http://dbpedia.org/resource/Sally_Hemings
-misunderstand - http://dbpedia.org/resource/Misunderstood_(Savuto_Vakadewavosa_song)
-entrepôt - http://dbpedia.org/resource/Entrepôt
-evolution - http://dbpedia.org/resource/Evolution
-mestizos - http://dbpedia.org/resource/Mestizo
-tariff - http://dbpedia.org/resource/Tariff
-natural philosopher - http://dbpedia.org/resource/Natural_philosophy
-portuguese throne - http://dbpedia.org/resource/Portugal
-colonies - http://dbpedia.org/resource/Colonialism
-segregated - http://dbpedia.org/resource/Racial_segregation
-clear point - http://dbpedia.org/resource/Clear_Point
-gentleman - http://dbpedia.org/resource/Gentry
-john quincy adams - http://dbpedia.org/resource/John_Quincy_Adams
-soldier - http://dbpedia.org/resource/Soldier
-dysfunctional - http://dbpedia.org/resource/Dysfunctional_family
-industrial revolution - http://dbpedia.org/resource/Industrial_Revolution
-coffee - http://dbpedia.org/resource/Plantation
-neighbourhood - http://dbpedia.org/resource/Neighbourhood
-signify - http://dbpedia.org/resource/Signify
-coimbra - http://dbpedia.org/resource/Coimbra
-wretched - http://dbpedia.org/resource/Wretched_(metal_band)
-monarchical - http://dbpedia.org/resource/Monarchy
-estuary - http://dbpedia.org/resource/Estuary
-portugal - http://dbpedia.org/resource/Portugal
-haitian revolution - http://dbpedia.org/resource/Haitian_Revolution
-inoculate - http://dbpedia.org/resource/Inoculation
-municipal council - http://dbpedia.org/resource/Municipality
-evil - http://dbpedia.org/resource/Evil
-queen - http://dbpedia.org/resource/Queen_regnant
-contagion - http://dbpedia.org/resource/Infection
-motivation - http://dbpedia.org/resource/Motivation
-mexico - http://dbpedia.org/resource/New_Spain
-offspring - http://dbpedia.org/resource/Reproduction
-regent - http://dbpedia.org/resource/Regent
-economic history review - http://dbpedia.org/resource/The_Economic_History_Review
-dour - http://dbpedia.org/resource/River_Dour
-imperative - http://dbpedia.org/resource/Imperative_mood
-canning - http://dbpedia.org/resource/Canning
-immigrant - http://dbpedia.org/resource/Immigration
-social structure - http://dbpedia.org/resource/Social_structure
-region - http://dbpedia.org/resource/Region
-royal highness - http://dbpedia.org/resource/Royal_Highness
-james monroe - http://dbpedia.org/resource/James_Monroe
-gun - http://dbpedia.org/resource/Cannon
-coast - http://dbpedia.org/resource/Coast
-fold - http://dbpedia.org/resource/Protein_folding
-colonist - http://dbpedia.org/resource/Colonialism
-sir sidney smith - http://dbpedia.org/resource/Sidney_Smith_(Royal_Navy_officer)
-welfare - http://dbpedia.org/resource/Welfare_state
-manifesto - http://dbpedia.org/resource/Manifesto
-sea territory - http://dbpedia.org/resource/Exclusive_economic_zone_of_Japan
-fraternization - http://dbpedia.org/resource/Fraternization
-iberian tradition - http://dbpedia.org/resource/Heraldry
-são paulo - http://dbpedia.org/resource/Campeonato_Paulista
-myth - http://dbpedia.org/resource/Myth
-industrial capitalism - http://dbpedia.org/resource/Capitalism
-classic man - http://dbpedia.org/resource/Classic_Man
-court - http://dbpedia.org/resource/Royal_court
-portuguese colonization - http://dbpedia.org/resource/Brazil
-latin america - http://dbpedia.org/resource/Latin_America
-portuguese government - http://dbpedia.org/resource/Portugal
-emancipate - http://dbpedia.org/resource/Abolitionism_in_the_United_States
-landlord - http://dbpedia.org/resource/Leasehold_estate
-defense - http://dbpedia.org/resource/Military
-cortes - http://dbpedia.org/resource/Cortes_Generales
-dilemma - http://dbpedia.org/resource/Dilemma
-diarrhea - http://dbpedia.org/resource/Diarrhea
-territorial integrity - http://dbpedia.org/resource/Self-determination
-dimension - http://dbpedia.org/resource/Dimension
-lunacy - http://dbpedia.org/resource/Insanity
-ferocious - http://dbpedia.org/resource/Ferocious
-currency - http://dbpedia.org/resource/Pound_sterling
-organic law - http://dbpedia.org/resource/Organic_law
-china trade - http://dbpedia.org/resource/Old_China_Trade
-american independence - http://dbpedia.org/resource/American_Revolution
-documentary - http://dbpedia.org/resource/Documentary_film
-heyday - http://dbpedia.org/resource/Heyday_Records
-translation - http://dbpedia.org/resource/Translation
-feudalism - http://dbpedia.org/resource/Feudalism
-santo domingo - http://dbpedia.org/resource/Dominican_Republic
-britain - http://dbpedia.org/resource/British_Empire
-paraíba valley - http://dbpedia.org/resource/Paraíba_Valley
-slave ship - http://dbpedia.org/resource/History_of_slavery
-defender - http://dbpedia.org/resource/Defendant
-santos - http://dbpedia.org/resource/Santo_(art)
-bureaucracy - http://dbpedia.org/resource/Bureaucracy
-recall - http://dbpedia.org/resource/Recall_election
-social support - http://dbpedia.org/resource/Social_support
-mercantilist - http://dbpedia.org/resource/Mercantilism
-incestuous - http://dbpedia.org/resource/Incest
-economy - http://dbpedia.org/resource/Economy
-immigration - http://dbpedia.org/resource/Immigration
-rio grande - http://dbpedia.org/resource/Rio_Grande_do_Sul
-republican - http://dbpedia.org/resource/Republicanism
-extraterritorial - http://dbpedia.org/resource/Extraterritoriality
-continent - http://dbpedia.org/resource/Europe
-império - http://dbpedia.org/resource/Cult_of_the_Holy_Spirit
-american experience - http://dbpedia.org/resource/American_Experience
-intra - http://dbpedia.org/resource/Verbania
-indigenous - http://dbpedia.org/resource/Indigenous_peoples
-constraint - http://dbpedia.org/resource/Theory_of_constraints
-bourbon - http://dbpedia.org/resource/House_of_Bourbon
-national consciousness - http://dbpedia.org/resource/Nationalism
-credit institution - http://dbpedia.org/resource/Bank
-brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
-medicine - http://dbpedia.org/resource/Medicine
-expansionist - http://dbpedia.org/resource/Expansionism
-colombian - http://dbpedia.org/resource/Colombia
-u.s. foreign policy - http://dbpedia.org/resource/Foreign_policy_of_the_United_States
-april 25 - http://dbpedia.org/resource/April_25_SC
-ideologue - http://dbpedia.org/resource/Ideology
-stark - http://dbpedia.org/resource/House_of_Night
-brazilian independence - http://dbpedia.org/resource/Empire_of_Brazil
-metallurgist - http://dbpedia.org/resource/Metallurgy
-racist - http://dbpedia.org/resource/Racism
-antigo - http://dbpedia.org/resource/Antigo,_Wisconsin
-thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-merchant - http://dbpedia.org/resource/Merchant
-handmaiden - http://dbpedia.org/resource/Handmaiden
-tropical climate - http://dbpedia.org/resource/Tropical_climate
-tropic - http://dbpedia.org/resource/Tropics
-lisbon - http://dbpedia.org/resource/Lisbon
-republican movement - http://dbpedia.org/resource/Irish_republicanism
-population europe - http://dbpedia.org/resource/Population_Europe
-debt - http://dbpedia.org/resource/Debt
-republicanism - http://dbpedia.org/resource/Republicanism
-ironic - http://dbpedia.org/resource/Irony
-copenhagen - http://dbpedia.org/resource/Copenhagen
-2 john - http://dbpedia.org/resource/Second_Epistle_of_John
-gilberto freyre - http://dbpedia.org/resource/Gilberto_Freyre
-real sound - http://dbpedia.org/resource/Real_Sound:_Kaze_no_Regret
-madeira - http://dbpedia.org/resource/Madeira
-consul - http://dbpedia.org/resource/French_Consulate
-british foreign secretary - http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs
-monarchy - http://dbpedia.org/resource/Empire_of_Brazil
-oxford university - http://dbpedia.org/resource/University_of_Oxford
-rio de la plata - http://dbpedia.org/resource/Río_de_la_Plata
-navigation - http://dbpedia.org/resource/Navigation
-heterogeneous - http://dbpedia.org/resource/Homogeneity_and_heterogeneity
-piedmont - http://dbpedia.org/resource/Piedmont
-draft - http://dbpedia.org/resource/Conscription
-luso - http://dbpedia.org/resource/Portugal
-granary - http://dbpedia.org/resource/Granary
-recife - http://dbpedia.org/resource/Recife
-california - http://dbpedia.org/resource/California
-despotic - http://dbpedia.org/resource/Despotism
-substitute - http://dbpedia.org/resource/Substitutionary_atonement
-naturalist - http://dbpedia.org/resource/Nature
-madagascar - http://dbpedia.org/resource/French_Madagascar
-economic history - http://dbpedia.org/resource/Economic_history
-bragança - http://dbpedia.org/resource/House_of_Braganza
-constituent assembly - http://dbpedia.org/resource/Constituent_assembly
-preempt - http://dbpedia.org/resource/Preemptive_war
-meridian - http://dbpedia.org/resource/Meridian_arc
 republic - http://dbpedia.org/resource/Republic
-european african - http://dbpedia.org/resource/White_Africans_of_European_ancestry
-church - http://dbpedia.org/resource/Catholic_Church
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-north america - http://dbpedia.org/resource/North_America
-spanish american - http://dbpedia.org/resource/Hispanic_America
-sovereign nation - http://dbpedia.org/resource/Sovereign_state
-josé bonifácio - http://dbpedia.org/resource/José_Bonifácio_de_Andrada
-slave revolution - http://dbpedia.org/resource/Haitian_Revolution
+piracies - http://dbpedia.org/resource/Piracy
+metallurgist - http://dbpedia.org/resource/Metallurgy
+friendly - http://dbpedia.org/resource/Alliance
+china trade - http://dbpedia.org/resource/Old_China_Trade
+economic history - http://dbpedia.org/resource/Economic_history
+textile mills - http://dbpedia.org/resource/Textile_manufacturing
+interracial - http://dbpedia.org/resource/Miscegenation
+continent - http://dbpedia.org/resource/Europe
+interference - http://dbpedia.org/resource/Wave_interference
+baltimore - http://dbpedia.org/resource/Baltimore
+spanish american colonies - http://dbpedia.org/resource/Spanish_Empire
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+abdicated - http://dbpedia.org/resource/Abdication
+historian - http://dbpedia.org/resource/History
+heritage - http://dbpedia.org/resource/Tradition
+gun - http://dbpedia.org/resource/Cannon
+portuguese territories - http://dbpedia.org/resource/Portuguese_Empire
+fraternization - http://dbpedia.org/resource/Fraternization
+independent republican - http://dbpedia.org/resource/Independent_Republican_(Ireland)
+autonomy - http://dbpedia.org/resource/Autonomy
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+continuity - http://dbpedia.org/resource/Continuous_function
+brazil - http://dbpedia.org/resource/Brazil
+constituent assembly - http://dbpedia.org/resource/Constituent_assembly
+partition - http://dbpedia.org/resource/Partitions_of_Poland
+equality - http://dbpedia.org/resource/Egalitarianism
+roman catholic - http://dbpedia.org/resource/Catholic_Church
+hemisphere - http://dbpedia.org/resource/Western_Hemisphere
+legal system - http://dbpedia.org/resource/Law
+sidney - http://dbpedia.org/resource/Philip_Sidney
+british influence - http://dbpedia.org/resource/British_Influence
+ferdinand vii - http://dbpedia.org/resource/Ferdinand_VII_of_Spain
 homogeneous - http://dbpedia.org/resource/Homogeneity_and_heterogeneity
-religion - http://dbpedia.org/resource/Religion
+walford - http://dbpedia.org/resource/Walford
+stanford university press - http://dbpedia.org/resource/Stanford_University_Press
+lunacy - http://dbpedia.org/resource/Insanity
+provisional government - http://dbpedia.org/resource/Russian_Provisional_Government
+capitalism - http://dbpedia.org/resource/Capitalism
+ipiranga river - http://dbpedia.org/resource/Ipiranga_Brook
+narcotics - http://dbpedia.org/resource/Illegal_drug_trade
+enclaves - http://dbpedia.org/resource/Enclave_and_exclave
+monopolies - http://dbpedia.org/resource/Monopoly
+rodney - http://dbpedia.org/resource/Rodney_Trotter
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+riding - http://dbpedia.org/resource/Working_animal
+unconscious - http://dbpedia.org/resource/Consciousness
+vulnerability - http://dbpedia.org/resource/Vulnerability
+south america - http://dbpedia.org/resource/South_America
+chamberlain - http://dbpedia.org/resource/Lord_Chamberlain
+republicans - http://dbpedia.org/resource/Republicanism
+saturated - http://dbpedia.org/resource/Solubility
+silva - http://dbpedia.org/resource/SILVA_ribosomal_RNA_database
+monarchical - http://dbpedia.org/resource/Monarchy
+haitian - http://dbpedia.org/resource/Haitian_Revolution
+economic power - http://dbpedia.org/resource/Economic_power
+colony - http://dbpedia.org/resource/Colony
+sweetness - http://dbpedia.org/resource/Sweetness_of_wine
+lancashire - http://dbpedia.org/resource/Lancashire
+british foreign secretary - http://dbpedia.org/resource/Secretary_of_State_for_Foreign_and_Commonwealth_Affairs
+napoleonic france - http://dbpedia.org/resource/Napoleon
+por - http://dbpedia.org/resource/2010_FIFA_World_Cup_knockout_stage
+regent - http://dbpedia.org/resource/Regent
+chronic - http://dbpedia.org/resource/Alcoholism
+buffer - http://dbpedia.org/resource/Buffer_state
+import - http://dbpedia.org/resource/International_trade
+monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+abolish slavery - http://dbpedia.org/resource/Abolitionism
+mercantilist - http://dbpedia.org/resource/Mercantilism
+revolutionary - http://dbpedia.org/resource/French_Revolution
+brazilian history - http://dbpedia.org/resource/History_of_Brazil
+sumpter - http://dbpedia.org/resource/Tika_Sumpter
+brazilian independence - http://dbpedia.org/resource/Empire_of_Brazil
+substitute - http://dbpedia.org/resource/Substitutionary_atonement
+britannic - http://dbpedia.org/resource/HMHS_Britannic
+oporto - http://dbpedia.org/resource/Porto
+republican movement - http://dbpedia.org/resource/Irish_republicanism
+brazilians - http://dbpedia.org/resource/Brazil
+stephen haber - http://dbpedia.org/resource/Stephen_Haber
+monticello - http://dbpedia.org/resource/Monticello
+haiti - http://dbpedia.org/resource/Haitian_Revolution
+expansionist - http://dbpedia.org/resource/Expansionism
+savant - http://dbpedia.org/resource/Expert
+navigation - http://dbpedia.org/resource/Navigation
+rio - http://dbpedia.org/resource/Rio_(windowing_system)
+holy alliance - http://dbpedia.org/resource/Holy_Alliance
+north america - http://dbpedia.org/resource/North_America
+gilberto freyre - http://dbpedia.org/resource/Gilberto_Freyre
+despotic - http://dbpedia.org/resource/Despotism
+liberalization - http://dbpedia.org/resource/Free_market
+viotti - http://dbpedia.org/resource/Giovanni_Battista_Viotti
+slave revolt - http://dbpedia.org/resource/Haitian_Revolution
+adam smith - http://dbpedia.org/resource/Adam_Smith
+maritime - http://dbpedia.org/resource/Freight_transport
+contagion - http://dbpedia.org/resource/Infection
+harvard yard - http://dbpedia.org/resource/Harvard_Yard
+remarkable - http://dbpedia.org/resource/ReMarkable
+santo domingo - http://dbpedia.org/resource/Dominican_Republic
+ferocious - http://dbpedia.org/resource/Ferocious
+whites - http://dbpedia.org/resource/White_people
+politician - http://dbpedia.org/resource/Politics
+cross purposes - http://dbpedia.org/resource/Cross_Purposes
+bragança - http://dbpedia.org/resource/House_of_Braganza
+democratization - http://dbpedia.org/resource/Democracy
+mota - http://dbpedia.org/resource/Motte-and-bailey_castle
+cumulative process - http://dbpedia.org/resource/Cumulative_process
+europeans - http://dbpedia.org/resource/White_people
+defense - http://dbpedia.org/resource/Military
+land army - http://dbpedia.org/resource/French_Army
+rejoice - http://dbpedia.org/resource/Word_Records
+judge - http://dbpedia.org/resource/Judge
+gangrene - http://dbpedia.org/resource/Gangrene
+montpellier - http://dbpedia.org/resource/Montpellier
+banda oriental - http://dbpedia.org/resource/Uruguay
+forgetting - http://dbpedia.org/resource/Forgetting
+dr. henry kissinger - http://dbpedia.org/resource/Henry_Kissinger
+thomas - http://dbpedia.org/resource/THOMAS
+penguin books - http://dbpedia.org/resource/Penguin_Books
+portuguese history - http://dbpedia.org/resource/History_of_Portugal
+immigration - http://dbpedia.org/resource/Immigration
+brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
+documentary - http://dbpedia.org/resource/Documentary_film
+squatters - http://dbpedia.org/resource/Squatting
+civilization - http://dbpedia.org/resource/Western_culture
+sidney mintz - http://dbpedia.org/resource/Sidney_Mintz
+economic development - http://dbpedia.org/resource/Economic_growth
+american revolution - http://dbpedia.org/resource/American_Revolution
+revolt - http://dbpedia.org/resource/Revolution
+invasion - http://dbpedia.org/resource/Invasion
+soldier - http://dbpedia.org/resource/Soldier
+heir presumptive - http://dbpedia.org/resource/Heir_presumptive
+peace - http://dbpedia.org/resource/Peace
+comparative advantage - http://dbpedia.org/resource/Comparative_advantage
+object - http://dbpedia.org/resource/Physical_object
+dour - http://dbpedia.org/resource/River_Dour
+british islands - http://dbpedia.org/resource/British_and_Irish_Lions
+haitian revolution - http://dbpedia.org/resource/Haitian_Revolution
+outline - http://dbpedia.org/resource/Nutrition
+.22 - http://dbpedia.org/resource/.22_Long_Rifle
+connectedness - http://dbpedia.org/resource/Connected_space
+peru - http://dbpedia.org/resource/Peru
+dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+segregated - http://dbpedia.org/resource/Racial_segregation
+sir charles stuart - http://dbpedia.org/resource/Charles_Stuart_(British_Army_officer,_born_1753)
+george canning - http://dbpedia.org/resource/George_Canning
+indemnities - http://dbpedia.org/resource/Indemnity
+portuguese cortes - http://dbpedia.org/resource/Portuguese_Cortes
+graduate student - http://dbpedia.org/resource/Postgraduate_education
+sublimate - http://dbpedia.org/resource/Volcanic_sublimate
+national consciousness - http://dbpedia.org/resource/Nationalism
+perception - http://dbpedia.org/resource/Perception
+estuary - http://dbpedia.org/resource/Estuary
+economy - http://dbpedia.org/resource/Economy
+evolution - http://dbpedia.org/resource/Evolution
+cotton - http://dbpedia.org/resource/Cotton
+free trade - http://dbpedia.org/resource/Free_trade
+independence - http://dbpedia.org/resource/Independence
+medicine - http://dbpedia.org/resource/Medicine
+immigrants - http://dbpedia.org/resource/Immigration
+hemispheres - http://dbpedia.org/resource/Earth
+slave - http://dbpedia.org/resource/Slavery
+john quincy adams - http://dbpedia.org/resource/John_Quincy_Adams
+ethiopian - http://dbpedia.org/resource/Ethiopian_Empire
+josé da silva lisboa - http://dbpedia.org/resource/José_da_Silva_Lisboa
+francis - http://dbpedia.org/resource/Francis_I_of_France
+central government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+ideal - http://dbpedia.org/resource/Theory_of_forms
+anchor - http://dbpedia.org/resource/Anchor
+atlantic community - http://dbpedia.org/resource/Atlantic_Community
+emília - http://dbpedia.org/resource/Emilia_(Sítio_do_Picapau_Amarelo)
+boxer - http://dbpedia.org/resource/Boxing
+courageous - http://dbpedia.org/resource/Operation_Courageous
+corruption - http://dbpedia.org/resource/Political_corruption
+emperor - http://dbpedia.org/resource/Holy_Roman_Emperor
+consumer - http://dbpedia.org/resource/Consumerism
+cardinal - http://dbpedia.org/resource/College_of_Cardinals
+bombarded copenhagen - http://dbpedia.org/resource/Battle_of_Copenhagen_(1807)
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+sacred - http://dbpedia.org/resource/Sacred
+uprising - http://dbpedia.org/resource/Rebellion
+sphere - http://dbpedia.org/resource/Sphere_of_influence
+heir apparent - http://dbpedia.org/resource/Heir_apparent
+president monroe - http://dbpedia.org/resource/James_Monroe
+meridian - http://dbpedia.org/resource/Meridian_arc
+mestizos - http://dbpedia.org/resource/Mestizo
+miscegenation - http://dbpedia.org/resource/Miscegenation
+root - http://dbpedia.org/resource/Root
+prince metternich - http://dbpedia.org/resource/Klemens_von_Metternich
+ibid - http://dbpedia.org/resource/Dialectic_of_Enlightenment
+american patriot - http://dbpedia.org/resource/Patriot_(American_Revolution)
+iberian tradition - http://dbpedia.org/resource/Heraldry
+defy - http://dbpedia.org/resource/Motorola_Defy
+slave labor - http://dbpedia.org/resource/Slavery
+feijó - http://dbpedia.org/resource/Feijó,_Acre
+test case - http://dbpedia.org/resource/Test_case
+latin america - http://dbpedia.org/resource/Latin_America
+abbé - http://dbpedia.org/resource/Abbot
+minas - http://dbpedia.org/resource/Mina_(unit)
+underdevelopment - http://dbpedia.org/resource/Underdevelopment
+heart - http://dbpedia.org/resource/Cardiovascular_disease
+transatlantic - http://dbpedia.org/resource/Atlantic_Ocean
+human - http://dbpedia.org/resource/Human_nature
+pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+monarch - http://dbpedia.org/resource/Monarchy
+equator - http://dbpedia.org/resource/Equator
+colombian - http://dbpedia.org/resource/Colombia
+henry wise - http://dbpedia.org/resource/Henry_A._Wise
+textile - http://dbpedia.org/resource/Textile_industry
+thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+philanderer - http://dbpedia.org/resource/Promiscuity
+geography - http://dbpedia.org/resource/Geography
+public administration - http://dbpedia.org/resource/Public_administration
+intercourse - http://dbpedia.org/resource/Sexual_intercourse
+municipal councils - http://dbpedia.org/resource/Municipalities_of_Belgium
+fear - http://dbpedia.org/resource/Fear
+nimes - http://dbpedia.org/resource/Nîmes
+monarchist - http://dbpedia.org/resource/Monarchy
+social support - http://dbpedia.org/resource/Social_support
+tropics - http://dbpedia.org/resource/Tropics
+madagascar - http://dbpedia.org/resource/French_Madagascar
+stark - http://dbpedia.org/resource/House_of_Night
+josé mattoso - http://dbpedia.org/resource/José_Mattoso
+philanthropic - http://dbpedia.org/resource/Philanthropy
+spanish america - http://dbpedia.org/resource/Spanish_Empire
+warfare - http://dbpedia.org/resource/War
+jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+asians - http://dbpedia.org/resource/Asian_people
+april 25 - http://dbpedia.org/resource/April_25_SC
+antigo - http://dbpedia.org/resource/Antigo,_Wisconsin
+parliament - http://dbpedia.org/resource/Parliament_of_England
+interpenetration - http://dbpedia.org/resource/Buddhist_philosophy
+liberty - http://dbpedia.org/resource/Liberty
+amalgamation - http://dbpedia.org/resource/Miscegenation
+coffee - http://dbpedia.org/resource/Plantation
+radical change - http://dbpedia.org/resource/Radical_Change
+impose - http://dbpedia.org/resource/Impose_(magazine)
+conservation - http://dbpedia.org/resource/Conservation_movement
+alden - http://dbpedia.org/resource/Alden,_New_York
+truth - http://dbpedia.org/resource/Truth
+heterogeneous - http://dbpedia.org/resource/Homogeneity_and_heterogeneity
+maria cosway - http://dbpedia.org/resource/Maria_Cosway
+webster - http://dbpedia.org/resource/Martell_Webster
+finance - http://dbpedia.org/resource/Finance
+imperialism - http://dbpedia.org/resource/Imperialism
+dilemma - http://dbpedia.org/resource/Dilemma
+bureaucracy - http://dbpedia.org/resource/Bureaucracy
+convocation - http://dbpedia.org/resource/Convocation
+asian - http://dbpedia.org/resource/Asia
+uruguay - http://dbpedia.org/resource/Uruguay
+draft - http://dbpedia.org/resource/Conscription
+freedom - http://dbpedia.org/resource/Liberty
+economic history review - http://dbpedia.org/resource/The_Economic_History_Review
+separatism - http://dbpedia.org/resource/Separatism
+manifesto - http://dbpedia.org/resource/Manifesto
+settler - http://dbpedia.org/resource/Settler
+nelson - http://dbpedia.org/resource/Nelson_Muntz
+tropical climate - http://dbpedia.org/resource/Tropical_climate
+rebellion - http://dbpedia.org/resource/American_Revolution
+power politics - http://dbpedia.org/resource/Power_politics
+mercantilistic - http://dbpedia.org/resource/Mercantilism
+intendent - http://dbpedia.org/resource/Intendant_(government_official)
+british cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom
+stanford - http://dbpedia.org/resource/Stanford_University
+urban - http://dbpedia.org/resource/Urbanization
+crime - http://dbpedia.org/resource/Crime
+court - http://dbpedia.org/resource/Royal_court
+ambitions - http://dbpedia.org/resource/Ambitions_(song)
+headlong - http://dbpedia.org/resource/Headlong_(theatre_company)
+fine arts - http://dbpedia.org/resource/Fine_art
+madeira - http://dbpedia.org/resource/Madeira
+cromwellian - http://dbpedia.org/resource/Oliver_Cromwell
+companhia das letras - http://dbpedia.org/resource/Companhia_das_Letras
+queen maria - http://dbpedia.org/resource/Maria_I_of_Portugal
+indigenous origin - http://dbpedia.org/resource/Indigenous_Australians
+family - http://dbpedia.org/resource/Family
+frontier - http://dbpedia.org/resource/Frontier
+discontinuities - http://dbpedia.org/resource/Classification_of_discontinuities
+anglo - http://dbpedia.org/resource/Anglo
+dear homeland - http://dbpedia.org/resource/Dear_Homeland
+american empire - http://dbpedia.org/resource/American_imperialism
+populist - http://dbpedia.org/resource/Populism
+real sound - http://dbpedia.org/resource/Real_Sound:_Kaze_no_Regret
+eastern europe - http://dbpedia.org/resource/Eastern_Europe
+providence - http://dbpedia.org/resource/Divine_providence
+luso - http://dbpedia.org/resource/Portugal
+intellectual capital - http://dbpedia.org/resource/Intellectual_capital
+delinquency - http://dbpedia.org/resource/Juvenile_delinquency
+analogy - http://dbpedia.org/resource/Analogy
+american system - http://dbpedia.org/resource/American_system_of_manufacturing
+clock - http://dbpedia.org/resource/Clock
+territorial integrity - http://dbpedia.org/resource/Self-determination
+pernambucan - http://dbpedia.org/resource/Pernambuco
+nationalist - http://dbpedia.org/resource/Nationalism
+slave trade - http://dbpedia.org/resource/Slavery
+fold - http://dbpedia.org/resource/Protein_folding
+sally hemings - http://dbpedia.org/resource/Sally_Hemings
+pragmatic - http://dbpedia.org/resource/Pragmatism
+germany - http://dbpedia.org/resource/Weimar_Republic
+inoculate - http://dbpedia.org/resource/Inoculation
+buenos aires - http://dbpedia.org/resource/Buenos_Aires
+counterrevolutionary - http://dbpedia.org/resource/Counter-revolutionary
+thomas sumter jr. - http://dbpedia.org/resource/Thomas_Sumter
+current literature - http://dbpedia.org/resource/Current_Literature
+interventionism - http://dbpedia.org/resource/Economic_interventionism
+welfare - http://dbpedia.org/resource/Welfare_state
+portuguese government - http://dbpedia.org/resource/Portugal
+inbred - http://dbpedia.org/resource/Inbreeding
+climate - http://dbpedia.org/resource/Global_warming
+critical period - http://dbpedia.org/resource/Critical_period
+rent - http://dbpedia.org/resource/Economic_rent
+granary - http://dbpedia.org/resource/Granary
+british government - http://dbpedia.org/resource/British_Empire
+african slaves - http://dbpedia.org/resource/Slavery
+national bank - http://dbpedia.org/resource/Second_Bank_of_the_United_States
+paulista - http://dbpedia.org/resource/Campeonato_Paulista
+rio grande - http://dbpedia.org/resource/Rio_Grande_do_Sul
+haitian slave revolt - http://dbpedia.org/resource/Haitian_Revolution
+slave revolts - http://dbpedia.org/resource/Slave_rebellion
+philadelphia - http://dbpedia.org/resource/Philadelphia
+mines - http://dbpedia.org/resource/Mining
+sir sidney smith - http://dbpedia.org/resource/Sidney_Smith_(Royal_Navy_officer)
+brute - http://dbpedia.org/resource/Ben_Webster
+afro american - http://dbpedia.org/resource/African_Americans
+constitution - http://dbpedia.org/resource/Constitution
+feudalism - http://dbpedia.org/resource/Feudalism
+factionalism - http://dbpedia.org/resource/Political_faction
+natural philosopher - http://dbpedia.org/resource/Natural_philosophy
+ironic - http://dbpedia.org/resource/Irony
+shrift - http://dbpedia.org/resource/Shrift_(band)
+nationality - http://dbpedia.org/resource/Sovereign_state
+redundant - http://dbpedia.org/resource/Layoff
+hegemonic - http://dbpedia.org/resource/Hegemony
+liverpool - http://dbpedia.org/resource/Liverpool
+cabinet - http://dbpedia.org/resource/Cabinet_of_the_United_Kingdom
+realists - http://dbpedia.org/resource/Literary_realism
+massachusetts - http://dbpedia.org/resource/Province_of_Massachusetts_Bay
+white race - http://dbpedia.org/resource/White_people
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+portuguese monarchy - http://dbpedia.org/resource/Kingdom_of_Portugal
+americas - http://dbpedia.org/resource/Slavery_in_the_United_States
+washington - http://dbpedia.org/resource/George_Washington
+dominant - http://dbpedia.org/resource/Dominance_hierarchy
+peripheral - http://dbpedia.org/resource/Periphery_countries
+temperament - http://dbpedia.org/resource/Temperament
+dependency theory - http://dbpedia.org/resource/Dependency_theory
+evil - http://dbpedia.org/resource/Evil
 acute - http://dbpedia.org/resource/Acute_stress_reaction
+defender - http://dbpedia.org/resource/Defendant
+latin american - http://dbpedia.org/resource/Latin_America
+decolonization - http://dbpedia.org/resource/Decolonization
+renaissance - http://dbpedia.org/resource/Renaissance
+municipal council - http://dbpedia.org/resource/Municipality
+burkian - http://dbpedia.org/resource/Edmund_Burke
+political emancipation - http://dbpedia.org/resource/Emancipation
+admiral blake - http://dbpedia.org/resource/Robert_Blake_(admiral)
+napoleonic wars - http://dbpedia.org/resource/Napoleonic_Wars
+entrepreneur - http://dbpedia.org/resource/Innovation
+nanking - http://dbpedia.org/resource/Nanjing
+abolitionist - http://dbpedia.org/resource/Slavery
+government intervention - http://dbpedia.org/resource/Economic_interventionism
+offspring - http://dbpedia.org/resource/Reproduction
+observation - http://dbpedia.org/resource/Observation
+dominion - http://dbpedia.org/resource/Dominion
+miriam - http://dbpedia.org/resource/Minimum_information_required_in_the_annotation_of_models
+tagus - http://dbpedia.org/resource/Tagus_(title)
+french british - http://dbpedia.org/resource/French_migration_to_the_United_Kingdom
+ephemeral - http://dbpedia.org/resource/Ephemerality
+market - http://dbpedia.org/resource/Free_market
+santos - http://dbpedia.org/resource/Santo_(art)
+california - http://dbpedia.org/resource/California
+diarrhea - http://dbpedia.org/resource/Diarrhea
+african slave trade - http://dbpedia.org/resource/Atlantic_slave_trade
+fruition - http://dbpedia.org/resource/Fruition
+slave revolution - http://dbpedia.org/resource/Haitian_Revolution
+middle east - http://dbpedia.org/resource/Middle_East
+pernambuco - http://dbpedia.org/resource/Paubrasilia
+informal empire - http://dbpedia.org/resource/Informal_empire
+naples - http://dbpedia.org/resource/Kingdom_of_Naples
+classic man - http://dbpedia.org/resource/Classic_Man
+british fleet - http://dbpedia.org/resource/Royal_Navy
+tariff - http://dbpedia.org/resource/Tariff
+constitutional monarchy - http://dbpedia.org/resource/Constitutional_monarchy
+marquês de pombal - http://dbpedia.org/resource/Marquis_of_Pombal_Square
+slave rebellions - http://dbpedia.org/resource/Slave_rebellion
+civil war - http://dbpedia.org/resource/Civil_war
+great britain - http://dbpedia.org/resource/United_Kingdom_of_Great_Britain_and_Ireland
+oligarchy - http://dbpedia.org/resource/Oligarchy
+neighbourhood - http://dbpedia.org/resource/Neighbourhood
+european african - http://dbpedia.org/resource/White_Africans_of_European_ancestry
+handmaiden - http://dbpedia.org/resource/Handmaiden
+hopeless - http://dbpedia.org/resource/Hopeless_Records
+mobilization - http://dbpedia.org/resource/Mobilization
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+despotism - http://dbpedia.org/resource/Despotism
+britain - http://dbpedia.org/resource/British_Empire
+philosophical - http://dbpedia.org/resource/Philosophy
+thicket - http://dbpedia.org/resource/Thicket
+sovereignty - http://dbpedia.org/resource/Sovereign_state
+2 john - http://dbpedia.org/resource/Second_Epistle_of_John
+admire - http://dbpedia.org/resource/Admire,_Kansas
+library - http://dbpedia.org/resource/Library
+emperor dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
+resistance - http://dbpedia.org/resource/Resistance_movement
+colonial latin america - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+soil - http://dbpedia.org/resource/Soil
+critical region - http://dbpedia.org/resource/Statistical_hypothesis_testing
+bourbon - http://dbpedia.org/resource/House_of_Bourbon
+usurper - http://dbpedia.org/resource/Usurper
+runs - http://dbpedia.org/resource/Glossary_of_music_terminology
+law - http://dbpedia.org/resource/Law
+open revolt - http://dbpedia.org/resource/Berber_Revolt
+doctrine - http://dbpedia.org/resource/Doctrine
+racist - http://dbpedia.org/resource/Racism
+império - http://dbpedia.org/resource/Cult_of_the_Holy_Spirit
+agrarian reform - http://dbpedia.org/resource/Land_reform
+humanitarian - http://dbpedia.org/resource/Humanitarianism
+marriage - http://dbpedia.org/resource/Same-sex_marriage
+slaves - http://dbpedia.org/resource/Slavery
+constellation - http://dbpedia.org/resource/Constellation
+eurocentrism - http://dbpedia.org/resource/Eurocentrism
+wine - http://dbpedia.org/resource/Wine
+colonial dependency - http://dbpedia.org/resource/Colony
+stigma - http://dbpedia.org/resource/Mental_disorder
+royal family - http://dbpedia.org/resource/Monarchy_of_the_Netherlands
+slave trading - http://dbpedia.org/resource/Slavery
+ambiguity - http://dbpedia.org/resource/Ambiguity
+organic law - http://dbpedia.org/resource/Organic_law
+guilherme - http://dbpedia.org/resource/Guilherme_Schettine
+vested - http://dbpedia.org/resource/Vestment
+indigenous populations - http://dbpedia.org/resource/Indigenous_peoples
+presiding officer - http://dbpedia.org/resource/Chief_justice
+chile - http://dbpedia.org/resource/Chile
+united provinces - http://dbpedia.org/resource/Dutch_Republic
+protectionism - http://dbpedia.org/resource/Protectionism
+portuguese nation - http://dbpedia.org/resource/Portuguese_people
+dysfunctional - http://dbpedia.org/resource/Dysfunctional_family
+middle class - http://dbpedia.org/resource/Bourgeoisie
+cancer - http://dbpedia.org/resource/Cancer
+sharecroppers - http://dbpedia.org/resource/Sharecropping
+royal highness - http://dbpedia.org/resource/Royal_Highness
+duke - http://dbpedia.org/resource/Duke
+hereditary - http://dbpedia.org/resource/Inheritance
+president - http://dbpedia.org/resource/President_of_the_United_States
+french revolution - http://dbpedia.org/resource/French_Revolution
+tariffs - http://dbpedia.org/resource/Protectionism
+charles - http://dbpedia.org/resource/Charles_II_of_England
+solidarity - http://dbpedia.org/resource/Solidarity
+rio de la plata - http://dbpedia.org/resource/Río_de_la_Plata
+unequal treaties - http://dbpedia.org/resource/Unequal_treaty
+wished - http://dbpedia.org/resource/Wished_(film)
+religion - http://dbpedia.org/resource/Religion
+emancipation - http://dbpedia.org/resource/Abolitionism
+queen - http://dbpedia.org/resource/Queen_regnant
+woolen - http://dbpedia.org/resource/Woolen
+york - http://dbpedia.org/resource/House_of_York
+regionalist - http://dbpedia.org/resource/Galicianism
+republican alternative - http://dbpedia.org/resource/Republican_Alternative_Party_(Azerbaijan)
+economic system - http://dbpedia.org/resource/Economy
+hegemony - http://dbpedia.org/resource/Hegemony
+priest - http://dbpedia.org/resource/Clergy
+national independence - http://dbpedia.org/resource/Self-determination
+advantageous - http://dbpedia.org/resource/Advantageous
+hinterland - http://dbpedia.org/resource/Hinterland
+marxist - http://dbpedia.org/resource/Marxism
+u.s. foreign policy - http://dbpedia.org/resource/Foreign_policy_of_the_United_States
+translation - http://dbpedia.org/resource/Translation
+indemnity - http://dbpedia.org/resource/Indemnity
+cortes - http://dbpedia.org/resource/Cortes_Generales
+local authority - http://dbpedia.org/resource/Public_housing
+race - http://dbpedia.org/resource/Racing
+james monroe - http://dbpedia.org/resource/James_Monroe
+naturalist - http://dbpedia.org/resource/Nature
+boston - http://dbpedia.org/resource/Boston
+extraterritorial rights - http://dbpedia.org/resource/Extraterritoriality
+vintage books - http://dbpedia.org/resource/Random_House
+international treaties - http://dbpedia.org/resource/Treaty
+consuls - http://dbpedia.org/resource/French_Consulate
+negotiation - http://dbpedia.org/resource/Negotiation
+coalition - http://dbpedia.org/resource/Coalition
+continental blockade - http://dbpedia.org/resource/Continental_System
+international treaty - http://dbpedia.org/resource/Treaty
+paris - http://dbpedia.org/resource/Paris
+currency - http://dbpedia.org/resource/Pound_sterling
+british navy - http://dbpedia.org/resource/Royal_Navy
+berkeley university - http://dbpedia.org/resource/University_of_California,_Berkeley
+canning - http://dbpedia.org/resource/Canning
+slave ship - http://dbpedia.org/resource/History_of_slavery
+bahia - http://dbpedia.org/resource/Bahia
+subjective - http://dbpedia.org/resource/Subjectivity
+myth - http://dbpedia.org/resource/Myth
+harper row - http://dbpedia.org/resource/Bluebird_(DC_Comics)
+patriarch - http://dbpedia.org/resource/Patriarchy
+social structure - http://dbpedia.org/resource/Social_structure
+american philosophical society - http://dbpedia.org/resource/American_Philosophical_Society
+republican - http://dbpedia.org/resource/Republicanism
+french invasion - http://dbpedia.org/resource/Napoleonic_Wars
+inelastic supply - http://dbpedia.org/resource/Price_elasticity_of_supply
+religious toleration - http://dbpedia.org/resource/Toleration
+incestuous - http://dbpedia.org/resource/Incest
+slavery - http://dbpedia.org/resource/Slavery
+geopolitical - http://dbpedia.org/resource/Geopolitics
+wretched - http://dbpedia.org/resource/Wretched_(metal_band)
+heyday - http://dbpedia.org/resource/Heyday_Records
+conspiracy - http://dbpedia.org/resource/Conspiracy_theory
+radical - http://dbpedia.org/resource/Political_radicalism
+ipiranga - http://dbpedia.org/resource/Ipiranga_Brook
+church - http://dbpedia.org/resource/Catholic_Church
+admiral - http://dbpedia.org/resource/Admiral
+portuguese throne - http://dbpedia.org/resource/Portugal
+memorandum - http://dbpedia.org/resource/Memorandum
+metternich - http://dbpedia.org/resource/Klemens_von_Metternich
+shoals - http://dbpedia.org/resource/Shoal
+natural scientist - http://dbpedia.org/resource/Natural_history
+guerrilla warfare - http://dbpedia.org/resource/Guerrilla_warfare
+piedmont - http://dbpedia.org/resource/Piedmont
+american experience - http://dbpedia.org/resource/American_Experience
+protégée - http://dbpedia.org/resource/Mentorship
+firmin didot - http://dbpedia.org/resource/Firmin_Didot
+intra - http://dbpedia.org/resource/Verbania
+european powers - http://dbpedia.org/resource/Great_power
+lisboa - http://dbpedia.org/resource/Lisbon
+immortality - http://dbpedia.org/resource/Immortality
+liberalism - http://dbpedia.org/resource/Liberalism
+northeast brazil - http://dbpedia.org/resource/Brazil
+adams - http://dbpedia.org/resource/John_Adams
+maxwell - http://dbpedia.org/resource/Maxwell_(unit)
+treaties - http://dbpedia.org/resource/Treaty
+sugar - http://dbpedia.org/resource/Sugarcane
+josé bonifácio de andrada - http://dbpedia.org/resource/José_Bonifácio_de_Andrada
+great learning - http://dbpedia.org/resource/Great_Learning
+revolution - http://dbpedia.org/resource/Revolution
+sovereign - http://dbpedia.org/resource/Sovereign_state
+vantage - http://dbpedia.org/resource/Matsumoku
+industrial capitalism - http://dbpedia.org/resource/Capitalism
+light - http://dbpedia.org/resource/Light
+monroe - http://dbpedia.org/resource/Greg_Monroe
+dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
+recife - http://dbpedia.org/resource/Recife
+industrial revolution - http://dbpedia.org/resource/Industrial_Revolution
+scandinavia - http://dbpedia.org/resource/Scandinavia
+compact - http://dbpedia.org/resource/Compact_space
+independent - http://dbpedia.org/resource/Independence
+effeminacy - http://dbpedia.org/resource/Effeminacy
 social order - http://dbpedia.org/resource/Social_class
+colonies - http://dbpedia.org/resource/Colonialism
+austrian army - http://dbpedia.org/resource/Austrian_Empire
+liberal - http://dbpedia.org/resource/Liberalism
+spanish colonies - http://dbpedia.org/resource/Spanish_Empire
+modern history - http://dbpedia.org/resource/Historiography
+european empires - http://dbpedia.org/resource/History_of_colonialism
+negroland - http://dbpedia.org/resource/Negroland
+agriculture - http://dbpedia.org/resource/Agriculture
+social hierarchy - http://dbpedia.org/resource/Social_class
+portuguese - http://dbpedia.org/resource/Portugal
+gunboat diplomacy - http://dbpedia.org/resource/Gunboat_diplomacy
+parry - http://dbpedia.org/resource/Parry_(fencing)
+constitutionalist - http://dbpedia.org/resource/Constitutionalism
+calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
+coast - http://dbpedia.org/resource/East_Coast_of_the_United_States
+caxias - http://dbpedia.org/resource/Sociedade_Esportiva_e_Recreativa_Caxias_do_Sul
+minas conspiracy - http://dbpedia.org/resource/Inconfidência_Mineira
+josé bonifácio - http://dbpedia.org/resource/José_Bonifácio_de_Andrada
+flag - http://dbpedia.org/resource/Flag_of_the_United_States
+oxford university - http://dbpedia.org/resource/University_of_Oxford
+monarchic - http://dbpedia.org/resource/Monarchy
+declared independence - http://dbpedia.org/resource/United_States_Declaration_of_Independence
+raw material - http://dbpedia.org/resource/Raw_material
+agricultural sector - http://dbpedia.org/resource/Agriculture
+involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+lobbyists - http://dbpedia.org/resource/Lobbying
+centralism - http://dbpedia.org/resource/Centralisation
+landlord - http://dbpedia.org/resource/Leasehold_estate
+entrepôt - http://dbpedia.org/resource/Entrepôt
+american independence - http://dbpedia.org/resource/American_Revolution
+kenneth maxwell - http://dbpedia.org/resource/Kenneth_Maxwell
+pseudonym - http://dbpedia.org/resource/Pseudonym
+jeffersonian - http://dbpedia.org/resource/Thomas_Jefferson
+genovese - http://dbpedia.org/resource/Republic_of_Genoa
+conditionalities - http://dbpedia.org/resource/Conditionality
+sacrifice - http://dbpedia.org/resource/Sacrifice
+property rights - http://dbpedia.org/resource/Private_property
+regression - http://dbpedia.org/resource/Regression_analysis
+david - http://dbpedia.org/resource/David
+democracy - http://dbpedia.org/resource/Democracy
+lisbon - http://dbpedia.org/resource/Lisbon
+crowns - http://dbpedia.org/resource/Austro-Hungarian_krone
+city - http://dbpedia.org/resource/City
+henry kissinger - http://dbpedia.org/resource/Henry_Kissinger
+realism - http://dbpedia.org/resource/Literary_realism
+coimbra - http://dbpedia.org/resource/Coimbra
+portuguese colonization - http://dbpedia.org/resource/Brazil
+eugene - http://dbpedia.org/resource/Eugene_Porter
+sovereigns - http://dbpedia.org/resource/Sovereignty
+national identity - http://dbpedia.org/resource/Nationalism
+emancipated - http://dbpedia.org/resource/Abolitionism
+separatist - http://dbpedia.org/resource/Separatism
+emigration - http://dbpedia.org/resource/Emigration
+high time - http://dbpedia.org/resource/Pageant_Material
+status quo - http://dbpedia.org/resource/Status_quo
+economic historians - http://dbpedia.org/resource/Economic_history
+coalescence - http://dbpedia.org/resource/Coalescent_theory
+mexico - http://dbpedia.org/resource/New_Spain
+literature - http://dbpedia.org/resource/Literature
+constitutionalism - http://dbpedia.org/resource/Constitutional_monarchy
+republicanism - http://dbpedia.org/resource/Republicanism
+monroe doctrine - http://dbpedia.org/resource/Monroe_Doctrine
+henry - http://dbpedia.org/resource/Henry_(unit)
+paraíba valley - http://dbpedia.org/resource/Paraíba_Valley
+general junot - http://dbpedia.org/resource/Jean-Andoche_Junot
+portugal - http://dbpedia.org/resource/Portugal

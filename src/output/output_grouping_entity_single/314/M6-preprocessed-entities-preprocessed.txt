@@ -1,51 +1,44 @@
-defendant - http://dbpedia.org/resource/Defendant
-csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
-crime scene investigator - http://dbpedia.org/resource/Forensic_science
-technology - http://dbpedia.org/resource/Technology
-michigan - http://dbpedia.org/resource/University_of_Michigan
-television drama - http://dbpedia.org/resource/Television_show
-ann arbor michigan - http://dbpedia.org/resource/Ann_Arbor,_Michigan
-scientific evidence - http://dbpedia.org/resource/Science
-empirical - http://dbpedia.org/resource/Empirical_research
-summer - http://dbpedia.org/resource/Summer
-education - http://dbpedia.org/resource/Education
-infection - http://dbpedia.org/resource/Infection
-news nation - http://dbpedia.org/resource/News_Nation
-police prosecutor - http://dbpedia.org/resource/Police_prosecutor
-crime - http://dbpedia.org/resource/Crime
-acquit - http://dbpedia.org/resource/Acquittal
-convict - http://dbpedia.org/resource/Conviction
-bear - http://dbpedia.org/resource/Market_trend
-law review - http://dbpedia.org/resource/Law_review
 murder - http://dbpedia.org/resource/Murder
-gregg - http://dbpedia.org/resource/Gregg_v._Georgia
-forensic science - http://dbpedia.org/resource/Forensic_science
-constraint - http://dbpedia.org/resource/Constraint_programming
 prosecutor - http://dbpedia.org/resource/Prosecutor
-yale law review - http://dbpedia.org/resource/Yale_Law_Journal
-news - http://dbpedia.org/resource/News_media
-criminal justice system - http://dbpedia.org/resource/Criminal_justice
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-young kim - http://dbpedia.org/resource/Young_Kim
-producer - http://dbpedia.org/resource/Television_producer
-outline - http://dbpedia.org/resource/Nutrition
-bullet - http://dbpedia.org/resource/Bullet
-respondent - http://dbpedia.org/resource/Defendant
-solver - http://dbpedia.org/resource/Solver
-forensic scientist - http://dbpedia.org/resource/Forensic_science
-geometry - http://dbpedia.org/resource/Geometry
-television - http://dbpedia.org/resource/Television
-pin - http://dbpedia.org/resource/Pin
-consumer - http://dbpedia.org/resource/Consumer
+police - http://dbpedia.org/resource/Police
+forensic scientists - http://dbpedia.org/resource/Forensic_science
+juries - http://dbpedia.org/resource/Jury
+infection - http://dbpedia.org/resource/Infection
+convict - http://dbpedia.org/resource/Conviction
+barak - http://dbpedia.org/resource/Ehud_Barak
+defendant - http://dbpedia.org/resource/Defendant
+law review - http://dbpedia.org/resource/Law_review
+television dramas - http://dbpedia.org/resource/Korean_drama
+juror - http://dbpedia.org/resource/Jury
+shelton - http://dbpedia.org/resource/Connecticut
+jurors - http://dbpedia.org/resource/Jury
 csi - http://dbpedia.org/resource/Forensic_science
+acquit - http://dbpedia.org/resource/Acquittal
+young kim - http://dbpedia.org/resource/Young_Kim
+criminal justice system - http://dbpedia.org/resource/Criminal_justice
+summer - http://dbpedia.org/resource/Summer
+television - http://dbpedia.org/resource/Television
 jury - http://dbpedia.org/resource/Jury
+forensic science - http://dbpedia.org/resource/Forensic_science
+crime scene - http://dbpedia.org/resource/Crime_scene
 tom tyler - http://dbpedia.org/resource/Tom_Tyler
 law enforcement - http://dbpedia.org/resource/Law_enforcement
-forensic evidence - http://dbpedia.org/resource/Forensic_identification
-hirschhorn - http://dbpedia.org/resource/Hirschhorn
-juror - http://dbpedia.org/resource/Jury
-needle - http://dbpedia.org/resource/Hypodermic_needle
 usa today - http://dbpedia.org/resource/USA_Today
+ann arbor michigan - http://dbpedia.org/resource/Ann_Arbor,_Michigan
+hirschhorn - http://dbpedia.org/resource/Hirschhorn
+csi crime scene investigation - http://dbpedia.org/resource/CSI:_Crime_Scene_Investigation
+education - http://dbpedia.org/resource/Education
+outline - http://dbpedia.org/resource/Nutrition
 firearm - http://dbpedia.org/resource/Firearm
-shelton - http://dbpedia.org/resource/Connecticut
-barak - http://dbpedia.org/resource/Ehud_Barak
+consumer - http://dbpedia.org/resource/Consumer
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+technology - http://dbpedia.org/resource/Technology
+crime - http://dbpedia.org/resource/Crime
+universities - http://dbpedia.org/resource/University
+geometry - http://dbpedia.org/resource/Geometry
+empirical - http://dbpedia.org/resource/Empirical_research
+gregg - http://dbpedia.org/resource/Gregg_v._Georgia
+michigan - http://dbpedia.org/resource/University_of_Michigan
+news - http://dbpedia.org/resource/News_media
+yale law review - http://dbpedia.org/resource/Yale_Law_Journal

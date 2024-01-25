@@ -1,85 +1,82 @@
-middle ages - http://dbpedia.org/resource/Middle_Ages
-political economic - http://dbpedia.org/resource/Political_economy
-anthropology - http://dbpedia.org/resource/Cultural_anthropology
-email - http://dbpedia.org/resource/Email
-roman road - http://dbpedia.org/resource/Roman_roads
-church house - http://dbpedia.org/resource/Church_House_Publishing
-vernacular - http://dbpedia.org/resource/Vernacular
-matthew johnson - http://dbpedia.org/resource/Matthew_Johnson_(rugby_union)
-queen - http://dbpedia.org/resource/Queen_regnant
-harbour - http://dbpedia.org/resource/Harbor
-observation - http://dbpedia.org/resource/Observation
-article - http://dbpedia.org/resource/History_of_the_race_and_intelligence_controversy
-love - http://dbpedia.org/resource/Love
-professor - http://dbpedia.org/resource/Academy
-social structure - http://dbpedia.org/resource/Social_structure
-rural - http://dbpedia.org/resource/Rural_area
-bodiam - http://dbpedia.org/resource/Bodiam
-loyola university - http://dbpedia.org/resource/Loyola_University_Chicago
-topographical - http://dbpedia.org/resource/Landscape
 coast - http://dbpedia.org/resource/Coast
-jousting - http://dbpedia.org/resource/Jousting
-crenellate - http://dbpedia.org/resource/Battlement
-honorific - http://dbpedia.org/resource/Honorific
-fishpond - http://dbpedia.org/resource/Fish_pond
-northwestern university - http://dbpedia.org/resource/Northwestern_University
-enclosure - http://dbpedia.org/resource/Enclosure
-medieval - http://dbpedia.org/resource/Middle_Ages
-defence - http://dbpedia.org/resource/Military
-ceramic - http://dbpedia.org/resource/Pottery
-fortification - http://dbpedia.org/resource/Castle
-military theorist - http://dbpedia.org/resource/Military_theory
-iron - http://dbpedia.org/resource/Ferrous_metallurgy
-dissection - http://dbpedia.org/resource/Dissection
+great hall - http://dbpedia.org/resource/Great_hall
+violence - http://dbpedia.org/resource/Violence
+function - http://dbpedia.org/resource/Role
+political economic - http://dbpedia.org/resource/Political_economy
+harbour - http://dbpedia.org/resource/Harbor
+roman road - http://dbpedia.org/resource/Roman_roads
 peasant - http://dbpedia.org/resource/Peasant
 landscape - http://dbpedia.org/resource/Landscape
-moat - http://dbpedia.org/resource/Moat
-archaeological theory - http://dbpedia.org/resource/Archaeological_theory
-bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-gloss - http://dbpedia.org/resource/Interlinear_gloss
-great hall - http://dbpedia.org/resource/Great_hall
-water - http://dbpedia.org/resource/Water
-human - http://dbpedia.org/resource/Human_nature
-architecture - http://dbpedia.org/resource/Architecture
-early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
-millpond - http://dbpedia.org/resource/Mill_pond
-bump - http://dbpedia.org/resource/Bump_mapping
-water feature - http://dbpedia.org/resource/Water_feature
-a.d. - http://dbpedia.org/resource/Anno_Domini
-control flow - http://dbpedia.org/resource/Control_flow
-geophysical survey - http://dbpedia.org/resource/Geophysics
-hydraulic - http://dbpedia.org/resource/Hydraulics
-winchelsea - http://dbpedia.org/resource/Winchelsea
-social status - http://dbpedia.org/resource/Social_class
-function - http://dbpedia.org/resource/Role
-violence - http://dbpedia.org/resource/Violence
-temptation - http://dbpedia.org/resource/Temptation
-prehistoric - http://dbpedia.org/resource/Prehistory
-listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
-britain - http://dbpedia.org/resource/Roman_Britain
-gate - http://dbpedia.org/resource/Gate
-social organization - http://dbpedia.org/resource/Institution
-classic case - http://dbpedia.org/resource/Classic_Case
-southampton - http://dbpedia.org/resource/Southampton
-early modern - http://dbpedia.org/resource/Early_modern_period
-charles coulson - http://dbpedia.org/resource/Charles_Coulson
-feudal - http://dbpedia.org/resource/Feudalism
-lordship - http://dbpedia.org/resource/Feudalism
-orleans - http://dbpedia.org/resource/New_Orleans
-roman period - http://dbpedia.org/resource/Roman_Britain
-capitalist - http://dbpedia.org/resource/Capitalism
-ritual - http://dbpedia.org/resource/Ritual
-archaeologist - http://dbpedia.org/resource/Archaeology
-national trust - http://dbpedia.org/resource/National_trust
 intersection - http://dbpedia.org/resource/Intersectionality
+goods - http://dbpedia.org/resource/Conspicuous_consumption
+gloss - http://dbpedia.org/resource/Interlinear_gloss
 landscape archaeology - http://dbpedia.org/resource/Landscape_archaeology
+social structure - http://dbpedia.org/resource/Social_structure
+email - http://dbpedia.org/resource/Email
+church - http://dbpedia.org/resource/Christian_Church
+vernacular houses - http://dbpedia.org/resource/Vernacular_architecture
+charles coulson - http://dbpedia.org/resource/Charles_Coulson
+social status - http://dbpedia.org/resource/Social_class
+listen - http://dbpedia.org/resource/Listen_(Beyoncé_song)
+archaeological theory - http://dbpedia.org/resource/Archaeological_theory
+human - http://dbpedia.org/resource/Human_nature
+observation - http://dbpedia.org/resource/Observation
+early middle ages - http://dbpedia.org/resource/Early_Middle_Ages
+fishponds - http://dbpedia.org/resource/Fish_pond
+matthew johnson - http://dbpedia.org/resource/Matthew_Johnson_(rugby_union)
+bodiam - http://dbpedia.org/resource/Bodiam
+loyola university - http://dbpedia.org/resource/Loyola_University_Chicago
+dissection - http://dbpedia.org/resource/Dissection
+capitalist - http://dbpedia.org/resource/Capitalism
+rural - http://dbpedia.org/resource/Rural_area
 infinite regression - http://dbpedia.org/resource/Infinite_regress
-field system - http://dbpedia.org/resource/Field_system
-rye - http://dbpedia.org/resource/Rye
-sterile - http://dbpedia.org/resource/Fertility
-trackway - http://dbpedia.org/resource/Historic_roads_and_trails
-priest - http://dbpedia.org/resource/Clergy
-causeway - http://dbpedia.org/resource/Causeway
-hump - http://dbpedia.org/resource/Camel
-entail - http://dbpedia.org/resource/Logical_consequence
+orleans - http://dbpedia.org/resource/New_Orleans
+designed landscape - http://dbpedia.org/resource/Designed_landscape
+northwestern university - http://dbpedia.org/resource/Northwestern_University
+topographical - http://dbpedia.org/resource/Landscape
+honorific - http://dbpedia.org/resource/Honorific
+social organization - http://dbpedia.org/resource/Institution
+early modern - http://dbpedia.org/resource/Early_modern_period
+preoccupied - http://dbpedia.org/resource/International_Code_of_Zoological_Nomenclature
+bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
 leat - http://dbpedia.org/resource/Leat
+ritual - http://dbpedia.org/resource/Ritual
+winchelsea - http://dbpedia.org/resource/Winchelsea
+designed landscapes - http://dbpedia.org/resource/Landscape_architecture
+southampton - http://dbpedia.org/resource/Southampton
+architecture - http://dbpedia.org/resource/Architecture
+sterile - http://dbpedia.org/resource/Fertility
+iron - http://dbpedia.org/resource/Ferrous_metallurgy
+enclosure - http://dbpedia.org/resource/Enclosure
+anthropology - http://dbpedia.org/resource/Cultural_anthropology
+classic case - http://dbpedia.org/resource/Classic_Case
+jousting - http://dbpedia.org/resource/Jousting
+military theorists - http://dbpedia.org/resource/Military_theory
+trackway - http://dbpedia.org/resource/Historic_roads_and_trails
+archaeologist - http://dbpedia.org/resource/Archaeology
+love - http://dbpedia.org/resource/Love
+causeways - http://dbpedia.org/resource/Causeway
+medieval - http://dbpedia.org/resource/Middle_Ages
+roman - http://dbpedia.org/resource/Roman_Empire
+geophysical survey - http://dbpedia.org/resource/Geophysics
+prehistoric - http://dbpedia.org/resource/Prehistory
+ceramic - http://dbpedia.org/resource/Pottery
+a.d. - http://dbpedia.org/resource/Anno_Domini
+professor - http://dbpedia.org/resource/Academy
+fortification - http://dbpedia.org/resource/Castle
+water - http://dbpedia.org/resource/Water
+field system - http://dbpedia.org/resource/Field_system
+hydraulics - http://dbpedia.org/resource/Hydraulics
+queen - http://dbpedia.org/resource/Queen_regnant
+temptation - http://dbpedia.org/resource/Temptation
+middle ages - http://dbpedia.org/resource/Middle_Ages
+britain - http://dbpedia.org/resource/Roman_Britain
+rye - http://dbpedia.org/resource/Rye
+national trust - http://dbpedia.org/resource/National_trust
+priest - http://dbpedia.org/resource/Clergy
+feudal - http://dbpedia.org/resource/Feudalism
+millpond - http://dbpedia.org/resource/Mill_pond
+lordship - http://dbpedia.org/resource/Feudalism
+defence - http://dbpedia.org/resource/Military
+gate - http://dbpedia.org/resource/Gate
+crenellate - http://dbpedia.org/resource/Battlement

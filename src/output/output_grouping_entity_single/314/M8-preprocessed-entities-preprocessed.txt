@@ -1,52 +1,48 @@
-michigan - http://dbpedia.org/resource/University_of_Michigan
-technology - http://dbpedia.org/resource/Technology
-hair - http://dbpedia.org/resource/Hair
-learning - http://dbpedia.org/resource/Learning
-television drama - http://dbpedia.org/resource/Television_show
-perception - http://dbpedia.org/resource/Perception
-criminal trial - http://dbpedia.org/resource/Criminal_procedure
-myth - http://dbpedia.org/resource/Myth
-criminal case - http://dbpedia.org/resource/Criminal_law
-hair analysis - http://dbpedia.org/resource/Hair_analysis
-bite mark analysis - http://dbpedia.org/resource/Forensic_dentistry
-convict - http://dbpedia.org/resource/Conviction
-microscopic - http://dbpedia.org/resource/Microscope
+fbi - http://dbpedia.org/resource/Federal_Bureau_of_Investigation
 police - http://dbpedia.org/resource/Police
-public television - http://dbpedia.org/resource/PBS
-madrid train bombing - http://dbpedia.org/resource/2004_Madrid_train_bombings
-forensic science - http://dbpedia.org/resource/Forensic_science
+dna - http://dbpedia.org/resource/DNA
+washtenaw county - http://dbpedia.org/resource/Washtenaw_County,_Michigan
+perception - http://dbpedia.org/resource/Perception
 court - http://dbpedia.org/resource/Court
+convict - http://dbpedia.org/resource/Conviction
+dna analysis - http://dbpedia.org/resource/DNA_profiling
+scientific evidence - http://dbpedia.org/resource/Scientific_evidence
+culture - http://dbpedia.org/resource/Culture
+juror - http://dbpedia.org/resource/Jury
+shelton - http://dbpedia.org/resource/Connecticut
+crime drama - http://dbpedia.org/resource/Police_procedural
+jurors - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+microscopic - http://dbpedia.org/resource/Microscope
+television - http://dbpedia.org/resource/Television
+forensic science - http://dbpedia.org/resource/Forensic_science
+scapegoat - http://dbpedia.org/resource/Scapegoat
+bite mark analysis - http://dbpedia.org/resource/Forensic_dentistry
+madrid train bombing - http://dbpedia.org/resource/2004_Madrid_train_bombings
+theory - http://dbpedia.org/resource/Theory
+fingerprint - http://dbpedia.org/resource/DNA_profiling
+subjective - http://dbpedia.org/resource/Subjectivity
+hollywood - http://dbpedia.org/resource/Hollywood
+myth - http://dbpedia.org/resource/Myth
+microscope - http://dbpedia.org/resource/Microscope
+validity - http://dbpedia.org/resource/Internal_validity
+hair - http://dbpedia.org/resource/Hair
+crime dramas - http://dbpedia.org/resource/Police_procedural
+high tech high - http://dbpedia.org/resource/High_Tech_High_charter_schools
+forensic evidence - http://dbpedia.org/resource/Forensic_identification
+brandon mayfield - http://dbpedia.org/resource/Brandon_Mayfield
+hair analysis - http://dbpedia.org/resource/Hair_analysis
+nas - http://dbpedia.org/resource/Nas
+small steps - http://dbpedia.org/resource/Small_Steps_(novel)
+technology - http://dbpedia.org/resource/Technology
+high tech - http://dbpedia.org/resource/High_tech
 forensic - http://dbpedia.org/resource/Forensic_identification
+drama - http://dbpedia.org/resource/Drama
+fiber - http://dbpedia.org/resource/Fiber
+high expectations - http://dbpedia.org/resource/High_Expectations
+criminal case - http://dbpedia.org/resource/Criminal_law
+bloodstain pattern analysis - http://dbpedia.org/resource/Bloodstain_pattern_analysis
+warp - http://dbpedia.org/resource/Faster-than-light
+michigan - http://dbpedia.org/resource/University_of_Michigan
 chief judge - http://dbpedia.org/resource/Chief_judge
 law - http://dbpedia.org/resource/Scientific_law
-brandon mayfield - http://dbpedia.org/resource/Brandon_Mayfield
-drama - http://dbpedia.org/resource/Drama
-subjective - http://dbpedia.org/resource/Subjectivity
-high tech high - http://dbpedia.org/resource/High_Tech_High_charter_schools
-microscope - http://dbpedia.org/resource/Microscope
-television watch - http://dbpedia.org/resource/Television_Watch
-warp - http://dbpedia.org/resource/Faster-than-light
-television - http://dbpedia.org/resource/Television
-dna analysis - http://dbpedia.org/resource/DNA_profiling
-theory - http://dbpedia.org/resource/Theory
-bloodstain pattern analysis - http://dbpedia.org/resource/Bloodstain_pattern_analysis
-washtenaw county - http://dbpedia.org/resource/Washtenaw_County,_Michigan
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
-csi - http://dbpedia.org/resource/Forensic_science
-dna - http://dbpedia.org/resource/DNA
-high tech - http://dbpedia.org/resource/High_tech
-habit - http://dbpedia.org/resource/Habit
-fbi - http://dbpedia.org/resource/Federal_Bureau_of_Investigation
-nas - http://dbpedia.org/resource/Nas
-hollywood - http://dbpedia.org/resource/Hollywood
-scientific evidence - http://dbpedia.org/resource/Scientific_evidence
-validity - http://dbpedia.org/resource/Internal_validity
-crime drama - http://dbpedia.org/resource/Police_procedural
-scapegoat - http://dbpedia.org/resource/Scapegoat
-bone - http://dbpedia.org/resource/Bone
-juror - http://dbpedia.org/resource/Jury
-fiber - http://dbpedia.org/resource/Fiber
-fingerprint - http://dbpedia.org/resource/DNA_profiling
-forensic evidence - http://dbpedia.org/resource/Forensic_identification
-culture - http://dbpedia.org/resource/Culture
-shelton - http://dbpedia.org/resource/Connecticut

@@ -1,7 +1,7 @@
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 tottenham cemetery - http://dbpedia.org/resource/Tottenham_Cemetery
 harringey - http://dbpedia.org/resource/London_Borough_of_Haringey
-litter bin - http://dbpedia.org/resource/Waste_container
+litter - http://dbpedia.org/resource/Litter
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
 royal mail - http://dbpedia.org/resource/Royal_Mail

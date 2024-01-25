@@ -1,51 +1,45 @@
-human animal - http://dbpedia.org/resource/Human_Animal
-monastery - http://dbpedia.org/resource/Monastery
-headphone - http://dbpedia.org/resource/Headphones
-library - http://dbpedia.org/resource/Library
-insular illumination - http://dbpedia.org/resource/Insular_illumination
-scriptorium - http://dbpedia.org/resource/Scriptorium
-monk - http://dbpedia.org/resource/Monk
-st - http://dbpedia.org/resource/SATB
-trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
-bible - http://dbpedia.org/resource/Bible
-bookcase - http://dbpedia.org/resource/Bookcase
-vellum - http://dbpedia.org/resource/Vellum
-guide number - http://dbpedia.org/resource/Guide_number
-colum cille - http://dbpedia.org/resource/Columba
-import - http://dbpedia.org/resource/Import
-gospel book - http://dbpedia.org/resource/Gospel_Book
-long room - http://dbpedia.org/resource/Long_Room
-folio - http://dbpedia.org/resource/Bookbinding
-scotland - http://dbpedia.org/resource/Scotland
-calf - http://dbpedia.org/resource/Calfskin
-bram - http://dbpedia.org/resource/Bram_Ronnes
-ireland - http://dbpedia.org/resource/Republic_of_Ireland
-gospels - http://dbpedia.org/resource/Gospel
-vulgate - http://dbpedia.org/resource/Vulgate
-vetus latina - http://dbpedia.org/resource/Vetus_Latina
-thompson - http://dbpedia.org/resource/Thompson_River
-celtic - http://dbpedia.org/resource/Celts
 iron - http://dbpedia.org/resource/Wrought_iron
-dracula - http://dbpedia.org/resource/Dracula
-celtic knot - http://dbpedia.org/resource/Celtic_knot
-iona - http://dbpedia.org/resource/Iona_Abbey
-meath - http://dbpedia.org/resource/County_Meath
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-digital - http://dbpedia.org/resource/Digital_media
-cheddar - http://dbpedia.org/resource/Cheddar_cheese
-audio - http://dbpedia.org/resource/Sound_recording_and_reproduction
-pigment - http://dbpedia.org/resource/Pigment
-mythological beast - http://dbpedia.org/resource/Legendary_creature
 coast - http://dbpedia.org/resource/Coast
-boggle - http://dbpedia.org/resource/Boggle
-land plant - http://dbpedia.org/resource/Embryophyte
-gothic - http://dbpedia.org/resource/Gothic_art
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-christian symbolism - http://dbpedia.org/resource/Christian_symbolism
-illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-national treasure - http://dbpedia.org/resource/National_treasure
-gall ink - http://dbpedia.org/resource/Iron_gall_ink
-fairytale - http://dbpedia.org/resource/Fairy_tale
-mp3 player - http://dbpedia.org/resource/MP3_player
-surreal - http://dbpedia.org/resource/Surrealism
+insular illumination - http://dbpedia.org/resource/Insular_illumination
+monastery - http://dbpedia.org/resource/Monastery
+vellum - http://dbpedia.org/resource/Vellum
+calf - http://dbpedia.org/resource/Calfskin
+vetus latina - http://dbpedia.org/resource/Vetus_Latina
+scriptorium - http://dbpedia.org/resource/Scriptorium
+ireland - http://dbpedia.org/resource/Republic_of_Ireland
+libraries - http://dbpedia.org/resource/Library
+long room - http://dbpedia.org/resource/Long_Room
+bible - http://dbpedia.org/resource/Bible
+audio - http://dbpedia.org/resource/Sound_recording_and_reproduction
+library - http://dbpedia.org/resource/Library
 latin - http://dbpedia.org/resource/Latin
+colum cille - http://dbpedia.org/resource/Columba
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospels - http://dbpedia.org/resource/Gospel
+st - http://dbpedia.org/resource/SATB
+pigments - http://dbpedia.org/resource/Pigment
+plant - http://dbpedia.org/resource/Factory
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+thompson - http://dbpedia.org/resource/Thompson_River
+trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
+celtic knots - http://dbpedia.org/resource/Celtic_knot
+headphones - http://dbpedia.org/resource/Headphones
+meath - http://dbpedia.org/resource/County_Meath
+fairytale - http://dbpedia.org/resource/Fairy_tale
+vulgate - http://dbpedia.org/resource/Vulgate
+celtic - http://dbpedia.org/resource/Celts
+scotland - http://dbpedia.org/resource/Scotland
+dracula - http://dbpedia.org/resource/Dracula
+gothic - http://dbpedia.org/resource/Gothic_art
+gall ink - http://dbpedia.org/resource/Iron_gall_ink
+digital - http://dbpedia.org/resource/Digital_media
+surreal - http://dbpedia.org/resource/Surrealism
+christian symbolism - http://dbpedia.org/resource/Christian_symbolism
+mp3 player - http://dbpedia.org/resource/MP3_player
+mythological - http://dbpedia.org/resource/Myth
+national treasure - http://dbpedia.org/resource/National_treasure
+folios - http://dbpedia.org/resource/Bookbinding
+cheddar - http://dbpedia.org/resource/Cheddar_cheese
+bram - http://dbpedia.org/resource/Bram_Ronnes
+illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+iona - http://dbpedia.org/resource/Iona_Abbey

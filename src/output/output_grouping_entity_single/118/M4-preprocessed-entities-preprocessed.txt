@@ -1,60 +1,54 @@
-water - http://dbpedia.org/resource/Water_supply
-skipton - http://dbpedia.org/resource/Skipton
-romans - http://dbpedia.org/resource/Romans_(musician)
-garrison - http://dbpedia.org/resource/Garrison
-titus - http://dbpedia.org/resource/Titus
-english heritage - http://dbpedia.org/resource/English_Heritage
-vault - http://dbpedia.org/resource/Bank_vault
-roman fort - http://dbpedia.org/resource/Castra
-lake - http://dbpedia.org/resource/Lake
-vipont - http://dbpedia.org/resource/Vieuxpont
-battlement - http://dbpedia.org/resource/Battlement
-lady anne - http://dbpedia.org/resource/Anne_Neville
-broughton - http://dbpedia.org/resource/Thomas_Robert_Shannon_Broughton
-brough - http://dbpedia.org/resource/Brough_Castle
-clifford family - http://dbpedia.org/resource/Baron_de_Clifford
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-brougham hall - http://dbpedia.org/resource/Brougham_Hall
-david - http://dbpedia.org/resource/David_I_of_Scotland
-edward - http://dbpedia.org/resource/Edward_I_of_England
-remarkable - http://dbpedia.org/resource/ReMarkable
-vieuxpont - http://dbpedia.org/resource/Vieuxpont
-a66 - http://dbpedia.org/resource/A66_road
-moor lane - http://dbpedia.org/resource/Moor_Lane
-penrith - http://dbpedia.org/resource/Penrith_railway_station
-north england - http://dbpedia.org/resource/Northern_England
-curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-pendragon - http://dbpedia.org/resource/Pendragon
-courtyard - http://dbpedia.org/resource/Courtyard
-medieval - http://dbpedia.org/resource/England_in_the_Middle_Ages
-ross - http://dbpedia.org/resource/Ross-shire
-robert clifford - http://dbpedia.org/resource/Bob_Clifford
-map - http://dbpedia.org/resource/Map
-tombstone - http://dbpedia.org/resource/Headstone
-lawn - http://dbpedia.org/resource/Lawn
-memorial - http://dbpedia.org/resource/Memorial
-parapet - http://dbpedia.org/resource/Parapet
-king john - http://dbpedia.org/resource/John_Balliol
-small bridge - http://dbpedia.org/resource/Small_Bridge
+timber - http://dbpedia.org/resource/Timber_framing
 brocavum - http://dbpedia.org/resource/Brocavum
-fort - http://dbpedia.org/resource/Castra
-baron - http://dbpedia.org/resource/English_feudal_barony
-gatehouse - http://dbpedia.org/resource/Gatehouse
+medieval - http://dbpedia.org/resource/England_in_the_Middle_Ages
+tombstone - http://dbpedia.org/resource/Headstone
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+battlements - http://dbpedia.org/resource/Battlement
+stone - http://dbpedia.org/resource/Sandstone
+roman - http://dbpedia.org/resource/Roman_Empire
+pendragon - http://dbpedia.org/resource/Pendragon
+brough - http://dbpedia.org/resource/Brough_Castle
+cumbria - http://dbpedia.org/resource/Cumbria
+david - http://dbpedia.org/resource/David_I_of_Scotland
+brougham hall - http://dbpedia.org/resource/Brougham_Hall
 pallisade - http://dbpedia.org/resource/Palisade
-countess pillar - http://dbpedia.org/resource/Countess_Pillar
+roman fort - http://dbpedia.org/resource/Castra
+curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
+skipton - http://dbpedia.org/resource/Skipton
+garrison - http://dbpedia.org/resource/Garrison
+clifford family - http://dbpedia.org/resource/Baron_de_Clifford
+english heritage - http://dbpedia.org/resource/English_Heritage
+lady anne - http://dbpedia.org/resource/Anne_Neville
+eamont - http://dbpedia.org/resource/River_Eamont
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+map - http://dbpedia.org/resource/Map
+romans - http://dbpedia.org/resource/Romans_(musician)
+vaulting - http://dbpedia.org/resource/Equestrian_vaulting
+tower - http://dbpedia.org/resource/Keep
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
+broughton - http://dbpedia.org/resource/Thomas_Robert_Shannon_Broughton
 britain - http://dbpedia.org/resource/Roman_Britain
 manor - http://dbpedia.org/resource/Manor_house
-timber - http://dbpedia.org/resource/Timber_framing
-eamont - http://dbpedia.org/resource/River_Eamont
-heritage - http://dbpedia.org/resource/Cultural_heritage
-roman - http://dbpedia.org/resource/Roman_Empire
-river eamont - http://dbpedia.org/resource/River_Eamont
-brougham - http://dbpedia.org/resource/Brougham_(carriage)
-sack - http://dbpedia.org/resource/Looting
-roger clifford - http://dbpedia.org/resource/Roger_Clifford,_2nd_Baron_Clifford
-spirit - http://dbpedia.org/resource/Ghost
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-cumbria - http://dbpedia.org/resource/Cumbria
-road castle - http://dbpedia.org/resource/Road_Castle
+countess pillar - http://dbpedia.org/resource/Countess_Pillar
+memorial - http://dbpedia.org/resource/Memorial
 appleby - http://dbpedia.org/resource/Appleby_Castle
-tower - http://dbpedia.org/resource/Keep
+titus - http://dbpedia.org/resource/Titus
+a66 - http://dbpedia.org/resource/A66_road
+king john - http://dbpedia.org/resource/John_Balliol
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+gatehouse - http://dbpedia.org/resource/Gatehouse
+remarkable - http://dbpedia.org/resource/ReMarkable
+moor lane - http://dbpedia.org/resource/Moor_Lane
+heritage - http://dbpedia.org/resource/Cultural_heritage
+ross - http://dbpedia.org/resource/Ross-shire
+small bridge - http://dbpedia.org/resource/Small_Bridge
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+courtyard - http://dbpedia.org/resource/Courtyard
+river eamont - http://dbpedia.org/resource/River_Eamont
+parapet - http://dbpedia.org/resource/Parapet
+castle towers - http://dbpedia.org/resource/Castle_Towers
+lake - http://dbpedia.org/resource/Lake
+fort - http://dbpedia.org/resource/Castra
+vipont - http://dbpedia.org/resource/Vieuxpont

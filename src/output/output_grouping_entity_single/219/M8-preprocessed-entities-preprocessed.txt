@@ -1,146 +1,130 @@
-nazi era - http://dbpedia.org/resource/Nazism
-arnold sommerfeld - http://dbpedia.org/resource/Arnold_Sommerfeld
-lev landau - http://dbpedia.org/resource/Lev_Landau
-royal society - http://dbpedia.org/resource/Royal_Society
-manchester - http://dbpedia.org/resource/University_of_Manchester
-royal medal - http://dbpedia.org/resource/Royal_Medal
-puzzle - http://dbpedia.org/resource/Puzzle
-max planck medal - http://dbpedia.org/resource/Max_Planck_Medal
-inclination - http://dbpedia.org/resource/Orbital_inclination
-die - http://dbpedia.org/resource/Death
-britain - http://dbpedia.org/resource/United_Kingdom
-rockefeller fellowship - http://dbpedia.org/resource/Rockefeller_Foundation
-dirac - http://dbpedia.org/resource/Paul_Dirac
-theoretical physicist - http://dbpedia.org/resource/Theoretical_physics
-germany - http://dbpedia.org/resource/Weimar_Republic
-roman - http://dbpedia.org/resource/Chivalric_romance
-spring - http://dbpedia.org/resource/Hooke's_law
-matteucci medal - http://dbpedia.org/resource/Matteucci_Medal
-memorandum - http://dbpedia.org/resource/Memorandum
-glad - http://dbpedia.org/resource/The_Glad_Products_Company
-klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
-doctorate - http://dbpedia.org/resource/Doctor_of_Philosophy
-matriculate - http://dbpedia.org/resource/Matriculation
-metal - http://dbpedia.org/resource/Metal
-copley medal - http://dbpedia.org/resource/Copley_Medal
-leningrad - http://dbpedia.org/resource/Saint_Petersburg
-los alamos - http://dbpedia.org/resource/Manhattan_Project
-leipzig - http://dbpedia.org/resource/Leipzig_University
-british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
-oakenholt - http://dbpedia.org/resource/Oakenholt
-auxiliary - http://dbpedia.org/resource/International_auxiliary_language
-language - http://dbpedia.org/resource/Philosophy_of_language
-sabine - http://dbpedia.org/resource/Sabines
-paper - http://dbpedia.org/resource/Scientific_literature
-bird - http://dbpedia.org/resource/Bird
-bedside - http://dbpedia.org/resource/Bedside
-codename - http://dbpedia.org/resource/Pseudonym
-birmingham university - http://dbpedia.org/resource/University_of_Birmingham
-quantum mechanic - http://dbpedia.org/resource/Quantum_mechanics
-lift - http://dbpedia.org/resource/Buoyancy
-york - http://dbpedia.org/resource/York
-1943 quebec conference - http://dbpedia.org/resource/First_Quebec_Conference
-persuasion - http://dbpedia.org/resource/Persuasion
-ralph fowler - http://dbpedia.org/resource/Ralph_H._Fowler
-summer - http://dbpedia.org/resource/Summer
-physicist - http://dbpedia.org/resource/Theoretical_physics
-article - http://dbpedia.org/resource/Bratislava
-undergraduate - http://dbpedia.org/resource/Harvard_College
-pressure - http://dbpedia.org/resource/Pressure
-remarkable - http://dbpedia.org/resource/ReMarkable
-zürich - http://dbpedia.org/resource/University_of_Zurich
-scientific paper - http://dbpedia.org/resource/Scientific_literature
-feature selection - http://dbpedia.org/resource/Feature_selection
-heisenberg - http://dbpedia.org/resource/Werner_Heisenberg
-enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
-early work - http://dbpedia.org/resource/Early_Work
-slim - http://dbpedia.org/resource/Smart_Lander_for_Investigating_Moon
-hans bethe - http://dbpedia.org/resource/Hans_Bethe
-joanna - http://dbpedia.org/resource/Joanna_I_of_Naples
-perl - http://dbpedia.org/resource/Perl
 rome - http://dbpedia.org/resource/Rome
-berlin - http://dbpedia.org/resource/Humboldt_University_of_Berlin
-enemy alien - http://dbpedia.org/resource/Enemy_alien
-manhattan project - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
-lee - http://dbpedia.org/resource/Windward_and_leeward
-eugenia - http://dbpedia.org/resource/Eugenia_Gertsyk
-james chadwick - http://dbpedia.org/resource/James_Chadwick
-fuchs - http://dbpedia.org/resource/Klaus_Fuchs
-translation - http://dbpedia.org/resource/Translation
-german citizenship - http://dbpedia.org/resource/German_nationality_law
-oberschöneweide - http://dbpedia.org/resource/Oberschöneweide
-maud committee - http://dbpedia.org/resource/MAUD_Committee
-solution - http://dbpedia.org/resource/Malta
-elizabeth - http://dbpedia.org/resource/Elizabeth_II
-visa - http://dbpedia.org/resource/Travel_visa
-eidgenössische technische hochschule zürich - http://dbpedia.org/resource/ETH_Zurich
-knighthood - http://dbpedia.org/resource/Knight_Bachelor
-mathematic - http://dbpedia.org/resource/Mathematics
-migrate - http://dbpedia.org/resource/Emigration
-professor - http://dbpedia.org/resource/Professor
-british empire - http://dbpedia.org/resource/British_Empire
-quantum - http://dbpedia.org/resource/Quantum_mechanics
-catherine - http://dbpedia.org/resource/Catherine_the_Great
-berlin university - http://dbpedia.org/resource/Humboldt_University_of_Berlin
-nazi party - http://dbpedia.org/resource/Nazi_Party
-student teacher - http://dbpedia.org/resource/Student_teacher
-physics - http://dbpedia.org/resource/Theoretical_physics
-scientific literature - http://dbpedia.org/resource/Scientific_literature
-werner heisenberg - http://dbpedia.org/resource/Werner_Heisenberg
-washington - http://dbpedia.org/resource/University_of_Washington
-hodgkin disease - http://dbpedia.org/resource/Hodgkin's_lymphoma
-security clearance - http://dbpedia.org/resource/Security_clearance
-birmingham - http://dbpedia.org/resource/University_of_Birmingham
-election - http://dbpedia.org/resource/Election
-harwell - http://dbpedia.org/resource/Atomic_Energy_Research_Establishment
-electron theory - http://dbpedia.org/resource/Electron
-mother tongue - http://dbpedia.org/resource/First_language
-thermal conductivity - http://dbpedia.org/resource/Thermal_conductivity
-bear - http://dbpedia.org/resource/Teddy_bear
-mathematician - http://dbpedia.org/resource/Mathematician
-intuition - http://dbpedia.org/resource/Intuition
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
-subcommittee - http://dbpedia.org/resource/Committee
-theory - http://dbpedia.org/resource/Theory
-graduate student - http://dbpedia.org/resource/Postgraduate_education
-paul - http://dbpedia.org/resource/Paul_the_Apostle
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-genealogy - http://dbpedia.org/resource/Genealogy
-enrico fermi award - http://dbpedia.org/resource/Enrico_Fermi_Award
-wolfgang pauli - http://dbpedia.org/resource/Wolfgang_Pauli
-jewish religion - http://dbpedia.org/resource/Judaism
-mathematical physicist - http://dbpedia.org/resource/Mathematical_physics
-wykeham - http://dbpedia.org/resource/William_of_Wykeham
-hamburg - http://dbpedia.org/resource/University_of_Hamburg
-otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
-approximation - http://dbpedia.org/resource/Approximation_theory
-family - http://dbpedia.org/resource/Family
+oakenholt - http://dbpedia.org/resource/Oakenholt
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
-committee - http://dbpedia.org/resource/Committee
-autobiography - http://dbpedia.org/resource/Autobiography
-munich university - http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
-left wing - http://dbpedia.org/resource/Left-wing_politics
-soviet union - http://dbpedia.org/resource/Soviet_Union
-relativity - http://dbpedia.org/resource/Theory_of_relativity
-mathematical - http://dbpedia.org/resource/Mathematical_physics
-uranium-235 - http://dbpedia.org/resource/Uranium-235
-ventura - http://dbpedia.org/resource/Jesse_Ventura
-didactic - http://dbpedia.org/resource/Didacticism
-rudolf ernst - http://dbpedia.org/resource/Rudolf_Ernst
-spy - http://dbpedia.org/resource/Espionage
-atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
-doctoral dissertation - http://dbpedia.org/resource/Thesis
-philosophy - http://dbpedia.org/resource/Philosophy
-acquainted - http://dbpedia.org/resource/Acquainted
-german russian - http://dbpedia.org/resource/Germans_from_Russia
-sommerfeld - http://dbpedia.org/resource/Arnold_Sommerfeld
-intellect - http://dbpedia.org/resource/Intelligence
-leipzig university - http://dbpedia.org/resource/Leipzig_University
-odessa - http://dbpedia.org/resource/Odessa
-cambridge - http://dbpedia.org/resource/University_of_Cambridge
-munich - http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
-british citizenship - http://dbpedia.org/resource/British_nationality_law
+ralph fowler - http://dbpedia.org/resource/Ralph_H._Fowler
+hans bethe - http://dbpedia.org/resource/Hans_Bethe
+early work - http://dbpedia.org/resource/Early_Work
+heisenberg - http://dbpedia.org/resource/Werner_Heisenberg
+enemy aliens - http://dbpedia.org/resource/Enemy_alien
+royal society - http://dbpedia.org/resource/Royal_Society
+subcommittee - http://dbpedia.org/resource/Committee
+zürich - http://dbpedia.org/resource/University_of_Zurich
+nazi party - http://dbpedia.org/resource/Nazi_Party
+max planck medal - http://dbpedia.org/resource/Max_Planck_Medal
+thermal conductivity - http://dbpedia.org/resource/Thermal_conductivity
+summer - http://dbpedia.org/resource/Summer
 fellowship - http://dbpedia.org/resource/Fellow
+theory - http://dbpedia.org/resource/Theory
+arnold sommerfeld - http://dbpedia.org/resource/Arnold_Sommerfeld
+philosophy - http://dbpedia.org/resource/Philosophy
+physicist - http://dbpedia.org/resource/Theoretical_physics
+hamburg - http://dbpedia.org/resource/University_of_Hamburg
+german citizenship - http://dbpedia.org/resource/German_nationality_law
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+quantum - http://dbpedia.org/resource/Quantum_mechanics
+wolfgang pauli - http://dbpedia.org/resource/Wolfgang_Pauli
+doctoral dissertation - http://dbpedia.org/resource/Thesis
+berlin university - http://dbpedia.org/resource/Humboldt_University_of_Berlin
+language - http://dbpedia.org/resource/Philosophy_of_language
+codename - http://dbpedia.org/resource/Pseudonym
+jewish religion - http://dbpedia.org/resource/Judaism
+soviet union - http://dbpedia.org/resource/Soviet_Union
+autobiography - http://dbpedia.org/resource/Autobiography
+security clearance - http://dbpedia.org/resource/Security_clearance
+joanna - http://dbpedia.org/resource/Joanna_I_of_Naples
+roman - http://dbpedia.org/resource/Chivalric_romance
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+memorandum - http://dbpedia.org/resource/Memorandum
+mathematical physicists - http://dbpedia.org/resource/Mathematical_physics
+slim - http://dbpedia.org/resource/Smart_Lander_for_Investigating_Moon
+nuclear weapons - http://dbpedia.org/resource/German_nuclear_weapons_program
+sabine - http://dbpedia.org/resource/Sabines
+intuition - http://dbpedia.org/resource/Intuition
+nazi era - http://dbpedia.org/resource/Nazism
+cambridge - http://dbpedia.org/resource/University_of_Cambridge
+oberschöneweide - http://dbpedia.org/resource/Oberschöneweide
+rudolf ernst - http://dbpedia.org/resource/Rudolf_Ernst
+borne - http://dbpedia.org/resource/Matt_Osborne
+fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+wykeham - http://dbpedia.org/resource/William_of_Wykeham
+disease - http://dbpedia.org/resource/Disease
+relativity - http://dbpedia.org/resource/Theory_of_relativity
+quebec conference - http://dbpedia.org/resource/First_Quebec_Conference
+elizabeth - http://dbpedia.org/resource/Elizabeth_II
+didactic - http://dbpedia.org/resource/Didacticism
+york - http://dbpedia.org/resource/York
+dirac - http://dbpedia.org/resource/Paul_Dirac
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+british empire - http://dbpedia.org/resource/British_Empire
+physics - http://dbpedia.org/resource/Theoretical_physics
+acquainted - http://dbpedia.org/resource/Acquainted
+catherine - http://dbpedia.org/resource/Catherine_the_Great
+mother tongue - http://dbpedia.org/resource/First_language
+uranium-235 - http://dbpedia.org/resource/Uranium-235
+copley medal - http://dbpedia.org/resource/Copley_Medal
+bird - http://dbpedia.org/resource/Bird
+article - http://dbpedia.org/resource/Bratislava
+visa - http://dbpedia.org/resource/Travel_visa
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+pressure - http://dbpedia.org/resource/Pressure
+manchester - http://dbpedia.org/resource/University_of_Manchester
+electron theory - http://dbpedia.org/resource/Electron
+werner heisenberg - http://dbpedia.org/resource/Werner_Heisenberg
+lev landau - http://dbpedia.org/resource/Lev_Landau
+ventura - http://dbpedia.org/resource/Jesse_Ventura
+auxiliary - http://dbpedia.org/resource/International_auxiliary_language
+theoretical physicists - http://dbpedia.org/resource/Theoretical_physics
+spy - http://dbpedia.org/resource/Espionage
+quantum mechanics - http://dbpedia.org/resource/Quantum_mechanics
+maud committee - http://dbpedia.org/resource/MAUD_Committee
+paper - http://dbpedia.org/resource/Scientific_literature
+doctorate - http://dbpedia.org/resource/Doctor_of_Philosophy
+remarkable - http://dbpedia.org/resource/ReMarkable
+left wing - http://dbpedia.org/resource/Left-wing_politics
+bedside - http://dbpedia.org/resource/Bedside
+genealogy - http://dbpedia.org/resource/Genealogy
+scientific literature - http://dbpedia.org/resource/Scientific_literature
+berlin - http://dbpedia.org/resource/Humboldt_University_of_Berlin
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
+rockefeller fellowship - http://dbpedia.org/resource/Rockefeller_Foundation
+intellect - http://dbpedia.org/resource/Intelligence
+enrico fermi award - http://dbpedia.org/resource/Enrico_Fermi_Award
+atomic bomb project - http://dbpedia.org/resource/Manhattan_Project
+sommerfeld - http://dbpedia.org/resource/Arnold_Sommerfeld
+leningrad - http://dbpedia.org/resource/Saint_Petersburg
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+family - http://dbpedia.org/resource/Family
+mathematician - http://dbpedia.org/resource/Mathematician
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+knighthood - http://dbpedia.org/resource/Knight_Bachelor
+glad - http://dbpedia.org/resource/The_Glad_Products_Company
+mathematical - http://dbpedia.org/resource/Mathematical_physics
+birmingham university - http://dbpedia.org/resource/University_of_Birmingham
+british citizenship - http://dbpedia.org/resource/British_nationality_law
+lee - http://dbpedia.org/resource/Windward_and_leeward
+enrico fermi - http://dbpedia.org/resource/Enrico_Fermi
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+harwell - http://dbpedia.org/resource/Atomic_Energy_Research_Establishment
+royal medal - http://dbpedia.org/resource/Royal_Medal
+munich - http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
+leipzig - http://dbpedia.org/resource/Leipzig_University
+washington - http://dbpedia.org/resource/University_of_Washington
+munich university - http://dbpedia.org/resource/Ludwig_Maximilian_University_of_Munich
+matriculated - http://dbpedia.org/resource/Matriculation
+matteucci medal - http://dbpedia.org/resource/Matteucci_Medal
+eidgenössische technische hochschule - http://dbpedia.org/resource/ETH_Zurich
+committee - http://dbpedia.org/resource/Committee
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+germany - http://dbpedia.org/resource/Weimar_Republic
+professor - http://dbpedia.org/resource/Professor
+election - http://dbpedia.org/resource/Election
+britain - http://dbpedia.org/resource/United_Kingdom
+eugenia - http://dbpedia.org/resource/Eugenia_Gertsyk
+persuasion - http://dbpedia.org/resource/Persuasion
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+odessa - http://dbpedia.org/resource/Odessa
+spring - http://dbpedia.org/resource/Hooke's_law
+universities - http://dbpedia.org/resource/University
+leipzig university - http://dbpedia.org/resource/Leipzig_University
+mathematics - http://dbpedia.org/resource/Mathematics

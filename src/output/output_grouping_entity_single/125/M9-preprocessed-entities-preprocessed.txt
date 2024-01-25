@@ -1,39 +1,37 @@
-springfield - http://dbpedia.org/resource/Springfield,_Massachusetts
-hotel - http://dbpedia.org/resource/Hotel
-zip code - http://dbpedia.org/resource/ZIP_Code
-latitude - http://dbpedia.org/resource/Latitude
-lake - http://dbpedia.org/resource/Lake
-wardensville - http://dbpedia.org/resource/Wardensville,_West_Virginia
-enon - http://dbpedia.org/resource/Enon_(band)
-west virginia - http://dbpedia.org/resource/West_Virginia
-nw - http://dbpedia.org/resource/Points_of_the_compass
-springs - http://dbpedia.org/resource/Mineral_spring
-capon chapel - http://dbpedia.org/resource/Capon_Chapel
-shawnee - http://dbpedia.org/resource/Shawnee
-spring - http://dbpedia.org/resource/Mineral_spring
-populated places - http://dbpedia.org/resource/Human_settlement
-hooks mills - http://dbpedia.org/resource/Hooks_Mills,_West_Virginia
-va - http://dbpedia.org/resource/Virginia
-map - http://dbpedia.org/resource/Map
-wnw - http://dbpedia.org/resource/Points_of_the_compass
-rock - http://dbpedia.org/resource/Rock_music
-ene - http://dbpedia.org/resource/Points_of_the_compass
-church - http://dbpedia.org/resource/Catholic_Church
-paw paw - http://dbpedia.org/resource/Papaya
-middletown - http://dbpedia.org/resource/Middletown,_Connecticut
 cold stream - http://dbpedia.org/resource/Cold_Stream,_West_Virginia
-high view - http://dbpedia.org/resource/High_View,_West_Virginia
-ssw - http://dbpedia.org/resource/Points_of_the_compass
-nne - http://dbpedia.org/resource/Points_of_the_compass
 romney - http://dbpedia.org/resource/New_Romney
-link 1 - http://dbpedia.org/resource/Link_1
-lehew - http://dbpedia.org/resource/Lehew,_West_Virginia
 hampshire county - http://dbpedia.org/resource/Hampshire
-loom - http://dbpedia.org/resource/Loom
-winchester - http://dbpedia.org/resource/Winchester
-stephens city - http://dbpedia.org/resource/Stephens_City,_Virginia
-bridge - http://dbpedia.org/resource/Bridge
-va 7 - http://dbpedia.org/resource/Virginia_State_Route_7
+va - http://dbpedia.org/resource/Virginia
+middletown - http://dbpedia.org/resource/Middletown,_Connecticut
 wv - http://dbpedia.org/resource/Wv_(software)
-knolls - http://dbpedia.org/resource/Hillock
+church - http://dbpedia.org/resource/Catholic_Church
+stephens city - http://dbpedia.org/resource/Stephens_City,_Virginia
+wardensville - http://dbpedia.org/resource/Wardensville,_West_Virginia
+wnw - http://dbpedia.org/resource/Points_of_the_compass
+nw - http://dbpedia.org/resource/Points_of_the_compass
+capon chapel - http://dbpedia.org/resource/Capon_Chapel
+high view - http://dbpedia.org/resource/High_View,_West_Virginia
+map - http://dbpedia.org/resource/Map
+shawnee - http://dbpedia.org/resource/Shawnee
+enon - http://dbpedia.org/resource/Enon_(band)
+latitude - http://dbpedia.org/resource/Latitude
+bridge - http://dbpedia.org/resource/Bridge
+populated places - http://dbpedia.org/resource/Human_settlement
+loom - http://dbpedia.org/resource/Loom
+ssw - http://dbpedia.org/resource/Points_of_the_compass
+hooks mills - http://dbpedia.org/resource/Hooks_Mills,_West_Virginia
+paw paw - http://dbpedia.org/resource/Papaya
 sse - http://dbpedia.org/resource/Points_of_the_compass
+zip code - http://dbpedia.org/resource/ZIP_Code
+bubbling spring - http://dbpedia.org/resource/Bubbling_Spring,_West_Virginia
+springfield - http://dbpedia.org/resource/Springfield,_Massachusetts
+knolls - http://dbpedia.org/resource/Hillock
+rock - http://dbpedia.org/resource/Rock_music
+lake - http://dbpedia.org/resource/Lake
+lehew - http://dbpedia.org/resource/Lehew,_West_Virginia
+springs - http://dbpedia.org/resource/Mineral_spring
+va 7 - http://dbpedia.org/resource/Virginia_State_Route_7
+ene - http://dbpedia.org/resource/Points_of_the_compass
+winchester - http://dbpedia.org/resource/Winchester
+nne - http://dbpedia.org/resource/Points_of_the_compass
+west virginia - http://dbpedia.org/resource/West_Virginia

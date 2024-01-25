@@ -2,7 +2,6 @@ macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
 macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
-noble - http://dbpedia.org/resource/Nobility
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
 learning objective - http://dbpedia.org/resource/Educational_aims_and_objectives
 hegemony - http://dbpedia.org/resource/Hegemony
@@ -13,14 +12,13 @@ macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
 macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
+medieval - http://dbpedia.org/resource/Middle_Ages
 culture - http://dbpedia.org/resource/Culture
 crete - http://dbpedia.org/resource/Emirate_of_Crete
 cyprus - http://dbpedia.org/resource/Cyprus
 syria - http://dbpedia.org/resource/Syria
 macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
-noble - http://dbpedia.org/resource/Nobility
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
-emperor - http://dbpedia.org/resource/Michael_III
 renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
 macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
 literature - http://dbpedia.org/resource/Latin_literature
@@ -32,6 +30,7 @@ icon - http://dbpedia.org/resource/Icon
 emperor - http://dbpedia.org/resource/Michael_III
 macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+medieval - http://dbpedia.org/resource/Middle_Ages
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 emperor - http://dbpedia.org/resource/Michael_III
 ia - http://dbpedia.org/resource/Ia_(cuneiform)
@@ -44,7 +43,6 @@ renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
 macedonian renaissance - http://dbpedia.org/resource/Macedonian_Renaissance
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 macedonians - http://dbpedia.org/resource/Ancient_Macedonians
-usher - http://dbpedia.org/resource/Rashidun_Caliphate
 literature - http://dbpedia.org/resource/Latin_literature
 classical - http://dbpedia.org/resource/Classical_antiquity
 greco - http://dbpedia.org/resource/Ancient_Greece
@@ -58,9 +56,8 @@ philosophical - http://dbpedia.org/resource/Early_Islamic_philosophy
 ancient greeks - http://dbpedia.org/resource/Ancient_Greece
 naturalistic - http://dbpedia.org/resource/International_auxiliary_language
 ancient greek - http://dbpedia.org/resource/Ancient_Greek
-art mix - http://dbpedia.org/resource/Art_Mix
+roman art - http://dbpedia.org/resource/Roman_art
 byzantine painting - http://dbpedia.org/resource/Byzantine_art
-painter - http://dbpedia.org/resource/Painting
 italian renaissance - http://dbpedia.org/resource/Italian_Renaissance
 macedonian dynasty - http://dbpedia.org/resource/Macedonian_dynasty
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
@@ -81,14 +78,8 @@ christianization - http://dbpedia.org/resource/Christianization
 slavs - http://dbpedia.org/resource/Slavs
 glagolitic alphabet - http://dbpedia.org/resource/Glagolitic_script
 cyrillic script - http://dbpedia.org/resource/Cyrillic_script
-noble - http://dbpedia.org/resource/Nobility
 theme system - http://dbpedia.org/resource/Theme_(Byzantine_district)
-governor - http://dbpedia.org/resource/Roman_governor
-force theme - http://dbpedia.org/resource/Music_of_Star_Wars
 independent - http://dbpedia.org/resource/Independence
-emperor - http://dbpedia.org/resource/Michael_III
-emperor - http://dbpedia.org/resource/Michael_III
-farmer - http://dbpedia.org/resource/Farmer
 map - http://dbpedia.org/resource/Map
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 basil ii - http://dbpedia.org/resource/Basil_II

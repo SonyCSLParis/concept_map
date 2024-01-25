@@ -1,21 +1,12 @@
-middle ages - http://dbpedia.org/resource/Middle_Ages
-castle moat - http://dbpedia.org/resource/Moat
-bailey - http://dbpedia.org/resource/Inner_bailey
-family - http://dbpedia.org/resource/Family
-lake - http://dbpedia.org/resource/Lake
-medieval - http://dbpedia.org/resource/Middle_Ages
-village - http://dbpedia.org/resource/Village
-cannon - http://dbpedia.org/resource/Cannon
-a.d. - http://dbpedia.org/resource/Anno_Domini
-stone - http://dbpedia.org/resource/Masonry
-defender - http://dbpedia.org/resource/Association_football
-food - http://dbpedia.org/resource/Food
-castle bailey - http://dbpedia.org/resource/Bailey_(castle)
 iron - http://dbpedia.org/resource/Wrought_iron
-chamber - http://dbpedia.org/resource/Room
-nobleman - http://dbpedia.org/resource/Nobility
-archer - http://dbpedia.org/resource/Bow_and_arrow
-wood - http://dbpedia.org/resource/Wood
-lord king - http://dbpedia.org/resource/Earl_of_Lovelace
+a.d. - http://dbpedia.org/resource/Anno_Domini
 draw bridge - http://dbpedia.org/resource/Drawbridge
-arrow - http://dbpedia.org/resource/Arrow
+bailey - http://dbpedia.org/resource/Inner_bailey
+medieval - http://dbpedia.org/resource/Middle_Ages
+noblemen - http://dbpedia.org/resource/Nobility
+stone - http://dbpedia.org/resource/Masonry
+food - http://dbpedia.org/resource/Food
+moat - http://dbpedia.org/resource/Moat
+archers - http://dbpedia.org/resource/Longbow
+middle ages - http://dbpedia.org/resource/Middle_Ages
+wood - http://dbpedia.org/resource/Wood

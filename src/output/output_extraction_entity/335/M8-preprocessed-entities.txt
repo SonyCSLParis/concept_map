@@ -5,4 +5,4 @@ halloween - http://dbpedia.org/resource/Halloween
 haunted - http://dbpedia.org/resource/Haunted_house
 region - http://dbpedia.org/resource/Regions_of_France
 pendle hill - http://dbpedia.org/resource/Pendle_Hill
-pay attention - http://dbpedia.org/resource/Pay_Attention
+witches - http://dbpedia.org/resource/Witchcraft

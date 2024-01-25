@@ -20,8 +20,7 @@ mexico city - http://dbpedia.org/resource/Mexico_City
 slide - http://dbpedia.org/resource/Slide_guitar
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 coahuila - http://dbpedia.org/resource/Coahuila
-set 3 - http://dbpedia.org/resource/SET_3
-term limit - http://dbpedia.org/resource/Term_limit
+term limits - http://dbpedia.org/resource/Term_limit
 immigration - http://dbpedia.org/resource/Immigration
 slide - http://dbpedia.org/resource/Slide_guitar
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
@@ -45,20 +44,17 @@ pres - http://dbpedia.org/resource/Pôle_de_recherche_et_d'enseignement_supérie
 resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 tariff - http://dbpedia.org/resource/Tariff
 immigration - http://dbpedia.org/resource/Immigration
-primary school - http://dbpedia.org/resource/Primary_school
 texas - http://dbpedia.org/resource/Texas
-resolution - http://dbpedia.org/resource/United_Nations_General_Assembly_resolution
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 slide - http://dbpedia.org/resource/Slide_guitar
 independent - http://dbpedia.org/resource/Independence
 statehood - http://dbpedia.org/resource/U.S._state
 texas - http://dbpedia.org/resource/Texas
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 lift - http://dbpedia.org/resource/Elevator
 immigration - http://dbpedia.org/resource/Immigration
 texas - http://dbpedia.org/resource/Texas
 austin - http://dbpedia.org/resource/Austin_College
-petition - http://dbpedia.org/resource/Petition
 mexican government - http://dbpedia.org/resource/First_Mexican_Republic
 slide - http://dbpedia.org/resource/Slide_guitar
 slide - http://dbpedia.org/resource/Slide_guitar
@@ -83,9 +79,9 @@ texians - http://dbpedia.org/resource/Texians
 die - http://dbpedia.org/resource/Death
 susanna dickinson - http://dbpedia.org/resource/Susanna_Dickinson
 angelina - http://dbpedia.org/resource/Angelina_River
-travis - http://dbpedia.org/resource/Travis_Manawa
+travis - http://dbpedia.org/resource/Travis_McElroy
 ltc - http://dbpedia.org/resource/Lieutenant_colonel
-travis - http://dbpedia.org/resource/Travis_Manawa
+travis - http://dbpedia.org/resource/Travis_McElroy
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 slide - http://dbpedia.org/resource/Slide_guitar
 goliad - http://dbpedia.org/resource/Goliad_massacre
@@ -96,21 +92,23 @@ santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 slide - http://dbpedia.org/resource/Slide_guitar
 san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+18 minutes - http://dbpedia.org/resource/18_Minutes
 houston - http://dbpedia.org/resource/Houston
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 texas - http://dbpedia.org/resource/Texas
-win independence - http://dbpedia.org/resource/Republic_of_Texas
+independence - http://dbpedia.org/resource/Mexican_War_of_Independence
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 slide - http://dbpedia.org/resource/Slide_guitar
+treaties - http://dbpedia.org/resource/Treaty
 velasco - http://dbpedia.org/resource/Spanish_cruiser_Velasco
-treaty 1 - http://dbpedia.org/resource/Treaty_1
+treaties - http://dbpedia.org/resource/Treaty
 republic - http://dbpedia.org/resource/French_First_Republic
 texas - http://dbpedia.org/resource/Texas
 rio grande - http://dbpedia.org/resource/Rio_Grande
 secret santa - http://dbpedia.org/resource/Secret_Santa
 anna - http://dbpedia.org/resource/Indian_anna
 republic - http://dbpedia.org/resource/French_First_Republic
+treaties - http://dbpedia.org/resource/Treaty
 slide - http://dbpedia.org/resource/Slide_guitar
 republic - http://dbpedia.org/resource/French_First_Republic
 texas - http://dbpedia.org/resource/Texas
-bear - http://dbpedia.org/resource/Bear

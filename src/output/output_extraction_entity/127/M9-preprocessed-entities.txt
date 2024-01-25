@@ -1,69 +1,53 @@
-hill fort - http://dbpedia.org/resource/Hillfort
+hill forts - http://dbpedia.org/resource/Hillfort
 renaissance - http://dbpedia.org/resource/Renaissance_architecture
-country house - http://dbpedia.org/resource/English_country_house
-battlement - http://dbpedia.org/resource/Battlement
-drawbridge - http://dbpedia.org/resource/Drawbridge
-arrow slit - http://dbpedia.org/resource/Arrowslit
-fortification - http://dbpedia.org/resource/Castle
+country houses - http://dbpedia.org/resource/English_country_house
+battlements - http://dbpedia.org/resource/Battlement
+drawbridges - http://dbpedia.org/resource/Drawbridge
+arrow slits - http://dbpedia.org/resource/Arrowslit
 anglo saxon - http://dbpedia.org/resource/Anglo-Saxons
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+walled cities - http://dbpedia.org/resource/Defensive_wall
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 antioch - http://dbpedia.org/resource/Antioch
 middle east - http://dbpedia.org/resource/Middle_East
-communal defence - http://dbpedia.org/resource/Mobbing_(animal_behavior)
-lord monarch - http://dbpedia.org/resource/Lord_Monarch
-historian - http://dbpedia.org/resource/History
+feudal - http://dbpedia.org/resource/Feudalism
+monarch - http://dbpedia.org/resource/Monarch
+debating - http://dbpedia.org/resource/Debate
 monarch - http://dbpedia.org/resource/Monarch
 nobleman - http://dbpedia.org/resource/Nobility
-fortress - http://dbpedia.org/resource/Castle
-town - http://dbpedia.org/resource/German_town_law
-defence - http://dbpedia.org/resource/Military
 defence - http://dbpedia.org/resource/Military
 nobleman - http://dbpedia.org/resource/Nobility
+military orders - http://dbpedia.org/resource/Military_order_(religious_society)
 latin - http://dbpedia.org/resource/Latin
 castellum - http://dbpedia.org/resource/Castra
 diminutive - http://dbpedia.org/resource/Diminutive
 castrum - http://dbpedia.org/resource/Castle
 castello - http://dbpedia.org/resource/Municipalities_of_San_Marino
-language - http://dbpedia.org/resource/Latin
 castellum - http://dbpedia.org/resource/Castra
 norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
 root - http://dbpedia.org/resource/Semitic_root
 country house - http://dbpedia.org/resource/English_country_house
 heart - http://dbpedia.org/resource/Heart_(symbol)
-fortification - http://dbpedia.org/resource/Castle
 chateau - http://dbpedia.org/resource/Château
 fort - http://dbpedia.org/resource/Fortification
 iron - http://dbpedia.org/resource/Wrought_iron
-fortification - http://dbpedia.org/resource/Castle
 maiden castle - http://dbpedia.org/resource/Maiden_Castle,_Dorset
 dorset - http://dbpedia.org/resource/Dorset
 timber - http://dbpedia.org/resource/Timber_framing
-defence - http://dbpedia.org/resource/Military
 stone - http://dbpedia.org/resource/Masonry
-defence - http://dbpedia.org/resource/Military
-tower - http://dbpedia.org/resource/Keep
-arrow slit - http://dbpedia.org/resource/Arrowslit
-rely - http://dbpedia.org/resource/Rely_(brand)
+arrow slits - http://dbpedia.org/resource/Arrowslit
 military administrative - http://dbpedia.org/resource/Military_administration
 crusade - http://dbpedia.org/resource/Crusades
 frankish - http://dbpedia.org/resource/Franks
-settlement - http://dbpedia.org/resource/Town
-fort - http://dbpedia.org/resource/Fortification
 defence - http://dbpedia.org/resource/Military
 proliferation - http://dbpedia.org/resource/Nuclear_proliferation
-tower - http://dbpedia.org/resource/Keep
 flanking fire - http://dbpedia.org/resource/Enfilade_and_defilade
 norman - http://dbpedia.org/resource/Normans
 rebellion - http://dbpedia.org/resource/Rebellion
 prison - http://dbpedia.org/resource/Prison
-aesthetic - http://dbpedia.org/resource/Aesthetics
-fashion - http://dbpedia.org/resource/Fashion
-fortified wall - http://dbpedia.org/resource/Defensive_wall
+aesthetics - http://dbpedia.org/resource/Aesthetics
 middle ages - http://dbpedia.org/resource/Middle_Ages
-cannon - http://dbpedia.org/resource/Cannon
 violence - http://dbpedia.org/resource/Violence
-country house - http://dbpedia.org/resource/English_country_house
+country houses - http://dbpedia.org/resource/English_country_house
 middle east - http://dbpedia.org/resource/Middle_East
 middle ages - http://dbpedia.org/resource/Middle_Ages
 latin - http://dbpedia.org/resource/Latin
@@ -72,19 +56,18 @@ innovation - http://dbpedia.org/resource/Innovation
 carolingian empire - http://dbpedia.org/resource/Carolingian_Empire
 medieval warfare - http://dbpedia.org/resource/Medieval_warfare
 crusades - http://dbpedia.org/resource/Crusades
-siege castle - http://dbpedia.org/resource/Counter-castle
 castle architecture - http://dbpedia.org/resource/Castle
 siege - http://dbpedia.org/resource/Siege
 technology - http://dbpedia.org/resource/Renaissance_technology
 administration - http://dbpedia.org/resource/Public_administration
-symbol - http://dbpedia.org/resource/Symbol
-urban castle - http://dbpedia.org/resource/Urban_castle
+urban - http://dbpedia.org/resource/Urban_area
 rural - http://dbpedia.org/resource/Rural_area
 integral - http://dbpedia.org/resource/Integral
-pond - http://dbpedia.org/resource/Pond
 crenellate - http://dbpedia.org/resource/Battlement
+deliberately damaged - http://dbpedia.org/resource/Slighting
 monarch - http://dbpedia.org/resource/Monarch
-holy land crusades - http://dbpedia.org/resource/Crusades
+holy land - http://dbpedia.org/resource/Holy_Land
+crusades - http://dbpedia.org/resource/Crusades
 crenellate - http://dbpedia.org/resource/Battlement
 monarch - http://dbpedia.org/resource/Monarch
 prince bishop - http://dbpedia.org/resource/Prince-bishop
@@ -103,7 +86,6 @@ switzerland - http://dbpedia.org/resource/Switzerland
 monarch - http://dbpedia.org/resource/Monarch
 denmark - http://dbpedia.org/resource/Denmark
 norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
-rely - http://dbpedia.org/resource/Rely_(brand)
 concentric - http://dbpedia.org/resource/Concentric_castle
 defence - http://dbpedia.org/resource/Military
 defence - http://dbpedia.org/resource/Military
@@ -111,13 +93,9 @@ function - http://dbpedia.org/resource/Role
 defence - http://dbpedia.org/resource/Military
 castle technology - http://dbpedia.org/resource/Castle_Technology
 crusades - http://dbpedia.org/resource/Crusades
-defence - http://dbpedia.org/resource/Military
-roman fort - http://dbpedia.org/resource/Castra
+roman forts - http://dbpedia.org/resource/Castra
 castle architecture - http://dbpedia.org/resource/Castle
-symbol - http://dbpedia.org/resource/Symbol
-moat - http://dbpedia.org/resource/Moat
-machicolation - http://dbpedia.org/resource/Machicolation
-wind - http://dbpedia.org/resource/Windmill
+machicolations - http://dbpedia.org/resource/Machicolation
 landscape - http://dbpedia.org/resource/Landscape
 gunpowder - http://dbpedia.org/resource/Early_modern_warfare
 castle building - http://dbpedia.org/resource/Castle_Building
@@ -125,9 +103,8 @@ artillery - http://dbpedia.org/resource/Artillery
 stone - http://dbpedia.org/resource/Masonry
 cannon - http://dbpedia.org/resource/Cannon
 artillery - http://dbpedia.org/resource/Artillery
-fort - http://dbpedia.org/resource/Fortification
 administration - http://dbpedia.org/resource/Public_administration
-country house - http://dbpedia.org/resource/English_country_house
-mock castle - http://dbpedia.org/resource/Castle
+country houses - http://dbpedia.org/resource/English_country_house
+mock castles - http://dbpedia.org/resource/Castle
 romantic revival - http://dbpedia.org/resource/Romantic_Revival
 gothic architecture - http://dbpedia.org/resource/Gothic_architecture

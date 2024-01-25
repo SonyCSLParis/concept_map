@@ -1,12 +1,12 @@
-local history - http://dbpedia.org/resource/Local_history
-haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
-bank holiday - http://dbpedia.org/resource/Bank_holiday
-manor house - http://dbpedia.org/resource/Manor_house
-summer - http://dbpedia.org/resource/Summer
-art exhibition - http://dbpedia.org/resource/Art_exhibition
-good friday - http://dbpedia.org/resource/Good_Friday
-borough - http://dbpedia.org/resource/Borough
-acre - http://dbpedia.org/resource/Acre
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
-map - http://dbpedia.org/resource/Map
+manor house - http://dbpedia.org/resource/Manor_house
 castle museum - http://dbpedia.org/resource/York_Castle_Museum
+map - http://dbpedia.org/resource/Map
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+borough - http://dbpedia.org/resource/Borough
+listed - http://dbpedia.org/resource/Listed_building
+local history - http://dbpedia.org/resource/Local_history
+summer - http://dbpedia.org/resource/Summer
+bank holidays - http://dbpedia.org/resource/Bank_holiday
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+good friday - http://dbpedia.org/resource/Good_Friday

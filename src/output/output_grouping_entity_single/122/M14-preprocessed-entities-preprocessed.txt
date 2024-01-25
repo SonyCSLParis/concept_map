@@ -1,114 +1,105 @@
-fabric - http://dbpedia.org/resource/Textile
-illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
-gentleman - http://dbpedia.org/resource/Gentry
-ede - http://dbpedia.org/resource/Rade_people
-hugh hare - http://dbpedia.org/resource/Hugh_Hare
-die - http://dbpedia.org/resource/Death
-lord mayor - http://dbpedia.org/resource/Lord_Mayor_of_London
-marriage - http://dbpedia.org/resource/Marriage_in_Islam
-coleraine - http://dbpedia.org/resource/Coleraine
-charles dickens - http://dbpedia.org/resource/Charles_Dickens
-georgian - http://dbpedia.org/resource/Georgian_language
-bruce castle school - http://dbpedia.org/resource/Bruce_Castle_School
-parish register - http://dbpedia.org/resource/Parish_register
-local history - http://dbpedia.org/resource/Local_history
-parapet - http://dbpedia.org/resource/Parapet
-henrietta - http://dbpedia.org/resource/Henrietta_of_England
-early medieval - http://dbpedia.org/resource/Early_Middle_Ages
-bird - http://dbpedia.org/resource/Bird
-east wing - http://dbpedia.org/resource/East_Wing
-penny post - http://dbpedia.org/resource/Penny_Post
-lucy - http://dbpedia.org/resource/Lucy_Beale
-robert bruce king - http://dbpedia.org/resource/Robert_Bruce_King
-dentist - http://dbpedia.org/resource/Dentist
-penny black - http://dbpedia.org/resource/Penny_Black
-borough - http://dbpedia.org/resource/Borough
-lordship - http://dbpedia.org/resource/Lord_of_the_manor
-digital computer - http://dbpedia.org/resource/Computer
-hunting - http://dbpedia.org/resource/Hunting_and_shooting_in_the_United_Kingdom
-william compton - http://dbpedia.org/resource/William_Compton_(courtier)
-court - http://dbpedia.org/resource/Royal_court
-wilmot - http://dbpedia.org/resource/Chester_Wilmot
-james townsend - http://dbpedia.org/resource/James_Townsend_(British_politician)
-1516 henry - http://dbpedia.org/resource/1516_Henry
-gable - http://dbpedia.org/resource/Gable
-radical - http://dbpedia.org/resource/Political_radicalism
-refugee - http://dbpedia.org/resource/Refugee
-de bruce - http://dbpedia.org/resource/Debruce,_New_York
-church parish - http://dbpedia.org/resource/Parish
-ornament - http://dbpedia.org/resource/Decorative_arts
-mouth - http://dbpedia.org/resource/Mouth
-advertiser - http://dbpedia.org/resource/Advertising
-plague - http://dbpedia.org/resource/Great_Plague_of_London
-porch - http://dbpedia.org/resource/Porch
-post office - http://dbpedia.org/resource/Post_office
-clay - http://dbpedia.org/resource/Pottery
-parish church - http://dbpedia.org/resource/Church_of_England
-lock - http://dbpedia.org/resource/Lock_and_key
-mystery - http://dbpedia.org/resource/Mystery_play
-victorian - http://dbpedia.org/resource/Victorian_era
-arthur - http://dbpedia.org/resource/King_Arthur
-john eardley wilmot - http://dbpedia.org/resource/John_Eardley_Wilmot
-tower - http://dbpedia.org/resource/Keep
-henry - http://dbpedia.org/resource/Henry_(unit)
-duchess - http://dbpedia.org/resource/Duke
-brick - http://dbpedia.org/resource/Brick
-queen - http://dbpedia.org/resource/Queen_consort
-projection - http://dbpedia.org/resource/Movie_projector
-petition - http://dbpedia.org/resource/Petition
-sarah - http://dbpedia.org/resource/SAR-Lupe
-postage stamp - http://dbpedia.org/resource/Postage_stamp
-coat - http://dbpedia.org/resource/Fur_clothing
-tottenham urban district council - http://dbpedia.org/resource/Municipal_Borough_of_Tottenham
-clock - http://dbpedia.org/resource/Turret_clock
-corporal punishment - http://dbpedia.org/resource/Corporal_punishment
-scotland - http://dbpedia.org/resource/Parliament_of_Scotland
-auction - http://dbpedia.org/resource/Auction
-lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
-compton - http://dbpedia.org/resource/Denis_Compton
-mew - http://dbpedia.org/resource/Mews_(falconry)
-bruce castle - http://dbpedia.org/resource/Bruce_Castle
-turkey - http://dbpedia.org/resource/Domestic_turkey
-courtyard house - http://dbpedia.org/resource/Courtyard_house
-wing - http://dbpedia.org/resource/Wing
-antiquity - http://dbpedia.org/resource/Antique
-tottenham - http://dbpedia.org/resource/Tottenham
-queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-turret - http://dbpedia.org/resource/Turret
-medieval period - http://dbpedia.org/resource/England_in_the_Middle_Ages
-independence - http://dbpedia.org/resource/Partition_of_India
-constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
-laughter - http://dbpedia.org/resource/Laughter
-historian - http://dbpedia.org/resource/Historian
-parliament - http://dbpedia.org/resource/Parliament_of_England
-edmonton - http://dbpedia.org/resource/Edmonton
-family - http://dbpedia.org/resource/Family
-hit boy - http://dbpedia.org/resource/Hit-Boy
-groom - http://dbpedia.org/resource/Bridegroom
-park building - http://dbpedia.org/resource/Somerville_College,_Oxford
-tudor - http://dbpedia.org/resource/Tudor_period
-headmaster - http://dbpedia.org/resource/Head_teacher
-haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
-clock tower - http://dbpedia.org/resource/Clock_tower
-chamber - http://dbpedia.org/resource/Debate_chamber
-english crown - http://dbpedia.org/resource/Kingdom_of_England
-boarding school - http://dbpedia.org/resource/Boarding_school
-charles - http://dbpedia.org/resource/Charles_II_of_England
-hallow - http://dbpedia.org/resource/Hallow
-babbage - http://dbpedia.org/resource/Charles_Babbage
-rowland hill - http://dbpedia.org/resource/Rowland_Hill
-park house school - http://dbpedia.org/resource/Park_House_School
-margaret - http://dbpedia.org/resource/Margaret_Tudor
-joshua - http://dbpedia.org/resource/Joshua
-falconry - http://dbpedia.org/resource/Falconry
-mould - http://dbpedia.org/resource/Mold
-henry hare - http://dbpedia.org/resource/Henry_Hare
-french revolution - http://dbpedia.org/resource/French_Revolution
-manor house - http://dbpedia.org/resource/Manor_house
-henry grow - http://dbpedia.org/resource/Henry_Grow
-sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
-bone - http://dbpedia.org/resource/Bone
-somerset - http://dbpedia.org/resource/Somerset
-balcony - http://dbpedia.org/resource/Balcony
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+wilmot - http://dbpedia.org/resource/Chester_Wilmot
+antiquity - http://dbpedia.org/resource/Antique
+brick - http://dbpedia.org/resource/Brick
+ornament - http://dbpedia.org/resource/Jewellery
+chamber - http://dbpedia.org/resource/Debate_chamber
+medieval period - http://dbpedia.org/resource/England_in_the_Middle_Ages
+babbage - http://dbpedia.org/resource/Charles_Babbage
+joshua - http://dbpedia.org/resource/Joshua
+historian - http://dbpedia.org/resource/Historian
+henry grew - http://dbpedia.org/resource/Henry_Grew
+court - http://dbpedia.org/resource/Courtyard
+mouth - http://dbpedia.org/resource/Mouth
+james townsend - http://dbpedia.org/resource/James_Townsend_(British_politician)
+victorian - http://dbpedia.org/resource/Victorian_era
+lucy - http://dbpedia.org/resource/Lucy_Beale
+coat - http://dbpedia.org/resource/Fur_clothing
+arthur - http://dbpedia.org/resource/King_Arthur
+balcony - http://dbpedia.org/resource/Balcony
+parapet - http://dbpedia.org/resource/Parapet
+listed building - http://dbpedia.org/resource/Listed_building
+parish church - http://dbpedia.org/resource/Church_of_England
+bone - http://dbpedia.org/resource/Bone
+fabric - http://dbpedia.org/resource/Textile
+tottenham - http://dbpedia.org/resource/Tottenham
+radical - http://dbpedia.org/resource/Political_radicalism
+corporal punishment - http://dbpedia.org/resource/Corporal_punishment
+constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
+parish registers - http://dbpedia.org/resource/Parish_register
+moulded - http://dbpedia.org/resource/Molding_(decorative)
+duchess - http://dbpedia.org/resource/Duke
+manor house - http://dbpedia.org/resource/Manor_house
+falconry - http://dbpedia.org/resource/Falconry
+turret - http://dbpedia.org/resource/Turret
+mystery - http://dbpedia.org/resource/Mystery_play
+lord mayor - http://dbpedia.org/resource/Lord_Mayor_of_London
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
+tudor - http://dbpedia.org/resource/Tudor_architecture
+lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
+choking - http://dbpedia.org/resource/Choking
+postage stamp - http://dbpedia.org/resource/Postage_stamp
+early medieval - http://dbpedia.org/resource/Early_Middle_Ages
+edmonton - http://dbpedia.org/resource/Edmonton
+parliament - http://dbpedia.org/resource/Parliament_of_England
+coleraine - http://dbpedia.org/resource/Coleraine
+mews - http://dbpedia.org/resource/Mews
+public park - http://dbpedia.org/resource/Urban_park
+english crown - http://dbpedia.org/resource/Kingdom_of_England
+independence - http://dbpedia.org/resource/Partition_of_India
+illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
+1516 henry - http://dbpedia.org/resource/1516_Henry
+hugh hare - http://dbpedia.org/resource/Hugh_Hare
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+ede - http://dbpedia.org/resource/Rade_people
+boarding school - http://dbpedia.org/resource/Boarding_school
+charles dickens - http://dbpedia.org/resource/Charles_Dickens
+hallow - http://dbpedia.org/resource/Hallow
+dentist - http://dbpedia.org/resource/Dentist
+grade 1 listed building - http://dbpedia.org/resource/Listed_building
+john eardley wilmot - http://dbpedia.org/resource/John_Eardley_Wilmot
+groom - http://dbpedia.org/resource/Bridegroom
+clock - http://dbpedia.org/resource/Turret_clock
+lordship - http://dbpedia.org/resource/Lord_of_the_manor
+queen - http://dbpedia.org/resource/Queen_consort
+margaret - http://dbpedia.org/resource/Margaret_Tudor
+turkey - http://dbpedia.org/resource/Domestic_turkey
+headmaster - http://dbpedia.org/resource/Head_teacher
+william compton - http://dbpedia.org/resource/William_Compton_(courtier)
+penny post - http://dbpedia.org/resource/Penny_Post
+somerset - http://dbpedia.org/resource/Somerset
+georgian - http://dbpedia.org/resource/Georgian_language
+tottenham urban district council - http://dbpedia.org/resource/Municipal_Borough_of_Tottenham
+family - http://dbpedia.org/resource/Family
+clay - http://dbpedia.org/resource/Pottery
+bruce castle school - http://dbpedia.org/resource/Bruce_Castle_School
+church - http://dbpedia.org/resource/Church_architecture
+french revolution - http://dbpedia.org/resource/French_Revolution
+sarah - http://dbpedia.org/resource/SAR-Lupe
+advertiser - http://dbpedia.org/resource/Advertising
+charles - http://dbpedia.org/resource/Charles_II_of_England
+borough - http://dbpedia.org/resource/Borough
+laughter - http://dbpedia.org/resource/Laughter
+penny black - http://dbpedia.org/resource/Penny_Black
+hunting - http://dbpedia.org/resource/Hunting_and_shooting_in_the_United_Kingdom
+courtyard house - http://dbpedia.org/resource/Courtyard_house
+sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
+east wing - http://dbpedia.org/resource/East_Wing
+rowland hill - http://dbpedia.org/resource/Rowland_Hill
+de bruce - http://dbpedia.org/resource/Debruce,_New_York
+porch - http://dbpedia.org/resource/Porch
+refugees - http://dbpedia.org/resource/Refugee
+clock tower - http://dbpedia.org/resource/Clock_tower
+henry hare - http://dbpedia.org/resource/Henry_Hare
+queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+plague - http://dbpedia.org/resource/Great_Plague_of_London
+compton - http://dbpedia.org/resource/Denis_Compton
+henry - http://dbpedia.org/resource/Henry_(unit)
+digital computer - http://dbpedia.org/resource/Computer
+arms - http://dbpedia.org/resource/Coat_of_arms
+local history - http://dbpedia.org/resource/Local_history
+post office - http://dbpedia.org/resource/Post_office
+henrietta - http://dbpedia.org/resource/Henrietta_of_England
+wing - http://dbpedia.org/resource/Wing
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
+tower - http://dbpedia.org/resource/Keep

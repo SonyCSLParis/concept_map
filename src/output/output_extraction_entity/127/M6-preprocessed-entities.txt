@@ -6,40 +6,31 @@ nobility - http://dbpedia.org/resource/Nobility
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 innovation - http://dbpedia.org/resource/Innovation
-family - http://dbpedia.org/resource/Family
 ordinate - http://dbpedia.org/resource/Abscissa_and_ordinate
-castle town - http://dbpedia.org/resource/Castle_town
-village - http://dbpedia.org/resource/Village
 safety - http://dbpedia.org/resource/Safety
 medieval - http://dbpedia.org/resource/Middle_Ages
 anglo norman - http://dbpedia.org/resource/Anglo-Normans
-main castle - http://dbpedia.org/resource/Inner_bailey
 medieval period - http://dbpedia.org/resource/Middle_Ages
-king noble - http://dbpedia.org/resource/Reynard_the_Fox
-urban castle - http://dbpedia.org/resource/Urban_castle
+urban - http://dbpedia.org/resource/Urban_warfare
 peace - http://dbpedia.org/resource/Peace
 medieval - http://dbpedia.org/resource/Middle_Ages
-defence - http://dbpedia.org/resource/Military
 aesthetic - http://dbpedia.org/resource/Aesthetics
 medieval period - http://dbpedia.org/resource/Middle_Ages
 normans - http://dbpedia.org/resource/Normans
 design history - http://dbpedia.org/resource/Design_history
 medieval - http://dbpedia.org/resource/Middle_Ages
-early medieval - http://dbpedia.org/resource/Early_Middle_Ages
+medieval - http://dbpedia.org/resource/Middle_Ages
 medieval period - http://dbpedia.org/resource/Middle_Ages
-medieval period - http://dbpedia.org/resource/Middle_Ages
+progressed - http://dbpedia.org/resource/Progressed_(EP)
 design history - http://dbpedia.org/resource/Design_history
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
-spirit - http://dbpedia.org/resource/Spirit
 medieval - http://dbpedia.org/resource/Middle_Ages
-mountain pass - http://dbpedia.org/resource/Mountain_pass
 concentric - http://dbpedia.org/resource/Concentric_castle
-concentric castle - http://dbpedia.org/resource/Concentric_castle
-defence - http://dbpedia.org/resource/Military
+concentric - http://dbpedia.org/resource/Concentric_castle
 concentric castle - http://dbpedia.org/resource/Concentric_castle
 late medieval - http://dbpedia.org/resource/Middle_Ages
 concentric - http://dbpedia.org/resource/Concentric_castle
@@ -58,13 +49,10 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 castle moat - http://dbpedia.org/resource/Moat
 castle moat - http://dbpedia.org/resource/Moat
 endeavour - http://dbpedia.org/resource/HMS_Endeavour
-moat - http://dbpedia.org/resource/Moat
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 castle moat - http://dbpedia.org/resource/Moat
 medieval - http://dbpedia.org/resource/Middle_Ages
-defence - http://dbpedia.org/resource/Military
-defence - http://dbpedia.org/resource/Military
 medieval - http://dbpedia.org/resource/Middle_Ages
 region - http://dbpedia.org/resource/Region
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -79,7 +67,7 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-concentric castle - http://dbpedia.org/resource/Concentric_castle
+concentric - http://dbpedia.org/resource/Concentric_castle
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -93,7 +81,8 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 fortification - http://dbpedia.org/resource/Castle
-archer - http://dbpedia.org/resource/Bow_and_arrow
+knights - http://dbpedia.org/resource/Knight
+archers - http://dbpedia.org/resource/Bow_and_arrow
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -102,10 +91,9 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 siege - http://dbpedia.org/resource/Siege
 mouse - http://dbpedia.org/resource/Computer_mouse
-defence - http://dbpedia.org/resource/Military
 trebuchets - http://dbpedia.org/resource/Trebuchet
-catapult - http://dbpedia.org/resource/Catapult
-siege weapon - http://dbpedia.org/resource/Siege_engine
+catapults - http://dbpedia.org/resource/Catapult
+siege - http://dbpedia.org/resource/Siege
 medieval - http://dbpedia.org/resource/Middle_Ages
 siege - http://dbpedia.org/resource/Siege
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -122,21 +110,18 @@ medieval english - http://dbpedia.org/resource/Middle_English
 medieval - http://dbpedia.org/resource/Middle_Ages
 norman - http://dbpedia.org/resource/Normans
 network - http://dbpedia.org/resource/Computer_network
-norman castle - http://dbpedia.org/resource/Normans
-spring - http://dbpedia.org/resource/Spring_and_Autumn_period
+norman - http://dbpedia.org/resource/Normans
 britain - http://dbpedia.org/resource/Roman_Britain
 norman conquest - http://dbpedia.org/resource/Norman_conquest_of_England
 medieval - http://dbpedia.org/resource/Middle_Ages
 norman - http://dbpedia.org/resource/Normans
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-mound - http://dbpedia.org/resource/Tumulus
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
-mason - http://dbpedia.org/resource/Masonry
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+masons - http://dbpedia.org/resource/Masonry
 gundulf - http://dbpedia.org/resource/Gundulf_of_Rochester
 robert de belleme - http://dbpedia.org/resource/Robert_of_Bellême,_3rd_Earl_of_Shrewsbury
 henry - http://dbpedia.org/resource/Henry_(unit)
@@ -144,15 +129,10 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 nobility - http://dbpedia.org/resource/Nobility
-family - http://dbpedia.org/resource/Family
 medieval - http://dbpedia.org/resource/Middle_Ages
-early medieval - http://dbpedia.org/resource/Early_Middle_Ages
-city - http://dbpedia.org/resource/City
+medieval - http://dbpedia.org/resource/Middle_Ages
 medieval period - http://dbpedia.org/resource/Middle_Ages
-invasion - http://dbpedia.org/resource/Invasion
-invasion - http://dbpedia.org/resource/Invasion
 castle building - http://dbpedia.org/resource/Castle_Building
-defence - http://dbpedia.org/resource/Military
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 tower - http://dbpedia.org/resource/Keep
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
@@ -162,37 +142,30 @@ romanesque style - http://dbpedia.org/resource/Romanesque_architecture
 defense - http://dbpedia.org/resource/Military
 wood - http://dbpedia.org/resource/Wood
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
-ring work - http://dbpedia.org/resource/Ringwork
-work design - http://dbpedia.org/resource/Job_design
+ring - http://dbpedia.org/resource/Ring_of_bells
+ring - http://dbpedia.org/resource/Ring_of_bells
 rampart - http://dbpedia.org/resource/Defensive_wall
 medieval - http://dbpedia.org/resource/Middle_Ages
 siege - http://dbpedia.org/resource/Siege
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
-siege weapon - http://dbpedia.org/resource/Siege_engine
+siege - http://dbpedia.org/resource/Siege
 medieval - http://dbpedia.org/resource/Middle_Ages
 defense - http://dbpedia.org/resource/Military
-400 meter - http://dbpedia.org/resource/400_metres
-weapon - http://dbpedia.org/resource/Weapon
+400 meters - http://dbpedia.org/resource/400_metres
 artillery - http://dbpedia.org/resource/Artillery
 peace - http://dbpedia.org/resource/Peace
+watchmen - http://dbpedia.org/resource/Watchmen
 gate - http://dbpedia.org/resource/Gate
-soldier - http://dbpedia.org/resource/Soldier
 strain - http://dbpedia.org/resource/Cannabis_strains
 siege - http://dbpedia.org/resource/Siege
 medieval - http://dbpedia.org/resource/Middle_Ages
-noble - http://dbpedia.org/resource/Nobility
-fortification - http://dbpedia.org/resource/Castle
 fertile crescent - http://dbpedia.org/resource/Fertile_Crescent
-settlement - http://dbpedia.org/resource/Town
-large wall - http://dbpedia.org/resource/Lasiommata_maera
-northern europe - http://dbpedia.org/resource/Northern_Europe
 bronze age - http://dbpedia.org/resource/Bronze_Age
-hill fort - http://dbpedia.org/resource/Hillfort
-pop - http://dbpedia.org/resource/Pop_music
+hill forts - http://dbpedia.org/resource/Hillfort
+popping - http://dbpedia.org/resource/Popping
 architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
 region - http://dbpedia.org/resource/Region
-military unit - http://dbpedia.org/resource/Military_organization
 nobility - http://dbpedia.org/resource/Nobility
 early medieval - http://dbpedia.org/resource/Early_Middle_Ages
 portchester castle - http://dbpedia.org/resource/Portchester_Castle
@@ -200,22 +173,15 @@ early medieval - http://dbpedia.org/resource/Early_Middle_Ages
 portchester castle - http://dbpedia.org/resource/Portchester_Castle
 early medieval - http://dbpedia.org/resource/Early_Middle_Ages
 defence - http://dbpedia.org/resource/Military
-tribe - http://dbpedia.org/resource/Tribe
-defence - http://dbpedia.org/resource/Military
-fortification - http://dbpedia.org/resource/Castle
-noble family - http://dbpedia.org/resource/Nobility
-function - http://dbpedia.org/resource/Role
-garrison - http://dbpedia.org/resource/Garrison
+noble - http://dbpedia.org/resource/Nobility
 siege - http://dbpedia.org/resource/Siege
 medieval - http://dbpedia.org/resource/Middle_Ages
 siege - http://dbpedia.org/resource/Siege
-siege castle - http://dbpedia.org/resource/Counter-castle
-castle guard - http://dbpedia.org/resource/Castle-guard
+siege - http://dbpedia.org/resource/Siege
 morale - http://dbpedia.org/resource/Morale
 food - http://dbpedia.org/resource/Food
 relief - http://dbpedia.org/resource/Relief
-defender - http://dbpedia.org/resource/Defendant
-siege week - http://dbpedia.org/resource/Siege_Week
+siege - http://dbpedia.org/resource/Siege
 siege - http://dbpedia.org/resource/Siege
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -225,7 +191,6 @@ windsor castle - http://dbpedia.org/resource/Windsor_Castle
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 warfare - http://dbpedia.org/resource/Medieval_warfare
 medieval - http://dbpedia.org/resource/Middle_Ages
 warwick castle - http://dbpedia.org/resource/Warwick_Castle
@@ -233,7 +198,6 @@ warwickshire - http://dbpedia.org/resource/Warwickshire
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
 tower - http://dbpedia.org/resource/Keep
-london class - http://dbpedia.org/resource/London-class_ship_of_the_line
 medieval - http://dbpedia.org/resource/Middle_Ages
 river thames - http://dbpedia.org/resource/River_Thames
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -250,7 +214,7 @@ bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 mound - http://dbpedia.org/resource/Tumulus
 ditch - http://dbpedia.org/resource/Moat
 bayeux tapestry - http://dbpedia.org/resource/Bayeux_Tapestry
-european castle - http://dbpedia.org/resource/Castle
+european castles - http://dbpedia.org/resource/Castle
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 tower - http://dbpedia.org/resource/Keep
 mound - http://dbpedia.org/resource/Tumulus
@@ -260,37 +224,28 @@ harlech castle - http://dbpedia.org/resource/Harlech_Castle
 medieval - http://dbpedia.org/resource/Middle_Ages
 harlech castle - http://dbpedia.org/resource/Harlech_Castle
 medieval - http://dbpedia.org/resource/Middle_Ages
-arrow slit - http://dbpedia.org/resource/Arrowslit
-arrow slit - http://dbpedia.org/resource/Arrowslit
-archer - http://dbpedia.org/resource/Bow_and_arrow
-arrow - http://dbpedia.org/resource/Bow_and_arrow
+arrow slits - http://dbpedia.org/resource/Arrowslit
+arrow slits - http://dbpedia.org/resource/Arrowslit
+archers - http://dbpedia.org/resource/Bow_and_arrow
 safety - http://dbpedia.org/resource/Safety
-arrow slit - http://dbpedia.org/resource/Arrowslit
-archer - http://dbpedia.org/resource/Bow_and_arrow
-battlement - http://dbpedia.org/resource/Battlement
-soldier - http://dbpedia.org/resource/Soldier
+arrow slits - http://dbpedia.org/resource/Arrowslit
+archers - http://dbpedia.org/resource/Bow_and_arrow
+battlements - http://dbpedia.org/resource/Battlement
 defence - http://dbpedia.org/resource/Military
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
 curtain wall - http://dbpedia.org/resource/Curtain_wall_(fortification)
-soldier - http://dbpedia.org/resource/Soldier
-weapon - http://dbpedia.org/resource/Weapon
 safe room - http://dbpedia.org/resource/Safe_room
-soldier - http://dbpedia.org/resource/Soldier
 royalty - http://dbpedia.org/resource/Royal_family
 tower - http://dbpedia.org/resource/Keep
 medieval - http://dbpedia.org/resource/Middle_Ages
-soldier - http://dbpedia.org/resource/Soldier
 castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
 gate - http://dbpedia.org/resource/Gate
 gate - http://dbpedia.org/resource/Gate
-defence - http://dbpedia.org/resource/Military
 castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
 castle moat - http://dbpedia.org/resource/Moat
 ditch - http://dbpedia.org/resource/Moat
 water - http://dbpedia.org/resource/Water
-soldier - http://dbpedia.org/resource/Soldier
 drawbridge - http://dbpedia.org/resource/Drawbridge
-weapon - http://dbpedia.org/resource/Weapon
 medieval - http://dbpedia.org/resource/Middle_Ages
 carcassonne - http://dbpedia.org/resource/Carcassonne
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -304,28 +259,24 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 leeds castle - http://dbpedia.org/resource/Leeds_Castle
 edward - http://dbpedia.org/resource/Edward_I_of_England
 medieval - http://dbpedia.org/resource/Middle_Ages
-early medieval - http://dbpedia.org/resource/Early_Middle_Ages
 medieval period - http://dbpedia.org/resource/Middle_Ages
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 windsor castle - http://dbpedia.org/resource/Windsor_Castle
 queen elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 queen - http://dbpedia.org/resource/Queen_consort
 medieval - http://dbpedia.org/resource/Middle_Ages
+conquered england - http://dbpedia.org/resource/Norman_conquest_of_England
 tower - http://dbpedia.org/resource/Keep
 white tower - http://dbpedia.org/resource/Tower_of_London
-traitor - http://dbpedia.org/resource/Treason
 torture - http://dbpedia.org/resource/Torture
 prison - http://dbpedia.org/resource/Prison
 medieval - http://dbpedia.org/resource/Middle_Ages
-great country house - http://dbpedia.org/resource/English_country_house
+country houses - http://dbpedia.org/resource/English_country_house
 stone - http://dbpedia.org/resource/Masonry
 wood - http://dbpedia.org/resource/Wood
-tourist attraction - http://dbpedia.org/resource/Tourist_attraction
 medieval - http://dbpedia.org/resource/Middle_Ages
-tower - http://dbpedia.org/resource/Keep
 memory - http://dbpedia.org/resource/Memory
-dark age - http://dbpedia.org/resource/Early_Middle_Ages
 urban - http://dbpedia.org/resource/Urban_warfare
 rural - http://dbpedia.org/resource/Rural_area
 scarred - http://dbpedia.org/resource/Scarred_(TV_series)
-siege engine - http://dbpedia.org/resource/Siege_engine
+siege engines - http://dbpedia.org/resource/Siege_engine

@@ -1,112 +1,100 @@
-defendant - http://dbpedia.org/resource/Defendant
-lawyer - http://dbpedia.org/resource/Law_of_the_United_States
-criminal trial - http://dbpedia.org/resource/Criminal_procedure
-tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
-attorney - http://dbpedia.org/resource/Criminal_defense_lawyer
-charles sturt university - http://dbpedia.org/resource/Charles_Sturt_University
-policing - http://dbpedia.org/resource/Police
-fear - http://dbpedia.org/resource/Fear
-forensic science - http://dbpedia.org/resource/Forensic_science
-acquittal - http://dbpedia.org/resource/Acquittal
-prosecutor - http://dbpedia.org/resource/Prosecutor
-defence counsel - http://dbpedia.org/resource/Defense_(legal)
-findlay - http://dbpedia.org/resource/University_of_Findlay
-motivation - http://dbpedia.org/resource/Motivation
-simulation - http://dbpedia.org/resource/Simulation
-guilt - http://dbpedia.org/resource/Culpability
-crime scene - http://dbpedia.org/resource/Crime_scene
-federation - http://dbpedia.org/resource/Federalism
-law 9 - http://dbpedia.org/resource/Ball_in_and_out_of_play
-mock trial - http://dbpedia.org/resource/Mock_trial
-hca - http://dbpedia.org/resource/High_Court_of_Australia
-professor - http://dbpedia.org/resource/Academy
-judge - http://dbpedia.org/resource/Judge
-international journal - http://dbpedia.org/resource/Canadian_International_Council
-expert evidence - http://dbpedia.org/resource/Expert_witness
-threshold - http://dbpedia.org/resource/Action_potential
-homicide - http://dbpedia.org/resource/Homicide
-social construction - http://dbpedia.org/resource/Social_constructionism
-jane - http://dbpedia.org/resource/Jane_Fonda
-dna profiling - http://dbpedia.org/resource/DNA_profiling
-blind - http://dbpedia.org/resource/Blinded_experiment
-truth - http://dbpedia.org/resource/Truth
-hair - http://dbpedia.org/resource/Hair
-graduate school - http://dbpedia.org/resource/Postgraduate_education
-engender - http://dbpedia.org/resource/Engender
-recount - http://dbpedia.org/resource/Election_recount
-fantasy - http://dbpedia.org/resource/Fantasy
-change face - http://dbpedia.org/resource/Bian_lian
-crime - http://dbpedia.org/resource/Crime
-vdm - http://dbpedia.org/resource/Virtual_DOS_machine
-police - http://dbpedia.org/resource/Police
-forensic - http://dbpedia.org/resource/Forensic_science
-canberra - http://dbpedia.org/resource/Canberra
-murder - http://dbpedia.org/resource/Murder
-qualitative method - http://dbpedia.org/resource/Qualitative_research
-criminal justice system - http://dbpedia.org/resource/Criminal_justice
-datum - http://dbpedia.org/resource/Data
-yale law journal - http://dbpedia.org/resource/Yale_Law_Journal
-realism - http://dbpedia.org/resource/Philosophical_realism
-television program - http://dbpedia.org/resource/Television
-culpability - http://dbpedia.org/resource/Culpability
-law - http://dbpedia.org/resource/Law
-forensic scientist - http://dbpedia.org/resource/Forensic_science
-fiction - http://dbpedia.org/resource/Fiction
-robber - http://dbpedia.org/resource/Robbery
-thesis - http://dbpedia.org/resource/Thesis
-entertainment technology - http://dbpedia.org/resource/Entertainment_technology
-csi - http://dbpedia.org/resource/Forensic_science
-intellectual property - http://dbpedia.org/resource/Intellectual_property
-high court - http://dbpedia.org/resource/High_Court_of_Australia
-forensic sciences - http://dbpedia.org/resource/Forensic_science
-jurimetrics - http://dbpedia.org/resource/Jurimetrics
-popular fiction - http://dbpedia.org/resource/Genre_fiction
-barak - http://dbpedia.org/resource/Kyrgyzstan
-perception - http://dbpedia.org/resource/Perception
-criminal case - http://dbpedia.org/resource/Criminal_law
-convergent - http://dbpedia.org/resource/Convergent_evolution
-dna evidence - http://dbpedia.org/resource/DNA_profiling
-alr - http://dbpedia.org/resource/Agricultural_Land_Reserve
-dichotomous - http://dbpedia.org/resource/Dichotomy
-train - http://dbpedia.org/resource/Train
-south wales - http://dbpedia.org/resource/South_Wales
-wollongong - http://dbpedia.org/resource/University_of_Wollongong
-scientist - http://dbpedia.org/resource/Science
-hillier - http://dbpedia.org/resource/Harold_Hillier
-court - http://dbpedia.org/resource/Court
-sample - http://dbpedia.org/resource/Sample_size_determination
-streamlined - http://dbpedia.org/resource/Aerodynamics
-hanson - http://dbpedia.org/resource/Tommy_Hanson
-criminology - http://dbpedia.org/resource/Criminology
-laboratory - http://dbpedia.org/resource/Laboratory
-defence - http://dbpedia.org/resource/Affirmative_defense
-myth - http://dbpedia.org/resource/Urban_legend
 fordham - http://dbpedia.org/resource/Fordham_University
-dna - http://dbpedia.org/resource/DNA
-qualification - http://dbpedia.org/resource/Professional_certification
-eds - http://dbpedia.org/resource/Energy-dispersive_X-ray_spectroscopy
-tyler - http://dbpedia.org/resource/John_Tyler
-juror - http://dbpedia.org/resource/Jury
-forensic evidence - http://dbpedia.org/resource/Forensic_science
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-criminal justice policy review - http://dbpedia.org/resource/Criminal_Justice_Policy_Review
-potent - http://dbpedia.org/resource/Efficacy
 scientific evidence - http://dbpedia.org/resource/Scientific_method
-law review - http://dbpedia.org/resource/Law_review
-entertainment law - http://dbpedia.org/resource/Entertainment_law
-eyewitness - http://dbpedia.org/resource/Witness
-australian - http://dbpedia.org/resource/Government_of_Australia
-misplaced - http://dbpedia.org/resource/Misplaced_(album)
-empirical - http://dbpedia.org/resource/Empirical_evidence
+vdm - http://dbpedia.org/resource/Virtual_DOS_machine
+qualitative methods - http://dbpedia.org/resource/Qualitative_research
+defence counsel - http://dbpedia.org/resource/Defense_(legal)
+fifths - http://dbpedia.org/resource/Perfect_fifth
+defence - http://dbpedia.org/resource/National_security
+sample - http://dbpedia.org/resource/Sample_size_determination
+jurors - http://dbpedia.org/resource/Jury
+criminal justice system - http://dbpedia.org/resource/Criminal_justice
 television - http://dbpedia.org/resource/Television
-psychology - http://dbpedia.org/resource/Psychology
-vanderbilt - http://dbpedia.org/resource/Vanderbilt_University
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 jury - http://dbpedia.org/resource/Jury
-variable - http://dbpedia.org/resource/Dependent_and_independent_variables
-criminal justice - http://dbpedia.org/resource/Criminal_justice
-validity - http://dbpedia.org/resource/Internal_validity
-jury trial - http://dbpedia.org/resource/Jury_trial
-white coat - http://dbpedia.org/resource/White_coat
+hanson - http://dbpedia.org/resource/Tommy_Hanson
+barak - http://dbpedia.org/resource/Kyrgyzstan
+guilt - http://dbpedia.org/resource/Culpability
+high court - http://dbpedia.org/resource/High_Court_of_Australia
+fiction - http://dbpedia.org/resource/Fiction
+realism - http://dbpedia.org/resource/Philosophical_realism
+samples - http://dbpedia.org/resource/Moon_rock
+culpability - http://dbpedia.org/resource/Culpability
+dna profiling - http://dbpedia.org/resource/DNA_profiling
+eds - http://dbpedia.org/resource/Energy-dispersive_X-ray_spectroscopy
+yale law journal - http://dbpedia.org/resource/Yale_Law_Journal
+australian studies - http://dbpedia.org/resource/Australian_studies
+misplaced - http://dbpedia.org/resource/Misplaced_(album)
+policing - http://dbpedia.org/resource/Police
+murder - http://dbpedia.org/resource/Murder
+hillier - http://dbpedia.org/resource/Harold_Hillier
+jane - http://dbpedia.org/resource/Jane_Fonda
+myth - http://dbpedia.org/resource/Urban_legend
+streamlined - http://dbpedia.org/resource/Aerodynamics
+technology law - http://dbpedia.org/resource/IT_law
+court - http://dbpedia.org/resource/Court
+motivation - http://dbpedia.org/resource/Motivation
+dna evidence - http://dbpedia.org/resource/DNA_profiling
+tait - http://dbpedia.org/resource/Archibald_Campbell_Tait
+simulation - http://dbpedia.org/resource/Simulation
 shelton - http://dbpedia.org/resource/Connecticut
-deliberation - http://dbpedia.org/resource/Deliberation
+expert evidence - http://dbpedia.org/resource/Expert_witness
+south wales - http://dbpedia.org/resource/South_Wales
+charles sturt university - http://dbpedia.org/resource/Charles_Sturt_University
+fear - http://dbpedia.org/resource/Fear
+findlay - http://dbpedia.org/resource/University_of_Findlay
+alr - http://dbpedia.org/resource/Agricultural_Land_Reserve
+criminal justice policy review - http://dbpedia.org/resource/Criminal_Justice_Policy_Review
+hair - http://dbpedia.org/resource/Hair
+forensic evidence - http://dbpedia.org/resource/Forensic_science
+laboratory - http://dbpedia.org/resource/Laboratory
+entertainment law - http://dbpedia.org/resource/Entertainment_law
+empirical data - http://dbpedia.org/resource/Empirical_evidence
+forensic sciences - http://dbpedia.org/resource/Forensic_science
+forensic scientists - http://dbpedia.org/resource/Forensic_science
+wollongong - http://dbpedia.org/resource/University_of_Wollongong
+qualification - http://dbpedia.org/resource/Professional_certification
+australian - http://dbpedia.org/resource/Government_of_Australia
+blinded - http://dbpedia.org/resource/Blinded_experiment
+convergent - http://dbpedia.org/resource/Convergent_evolution
+truth - http://dbpedia.org/resource/Truth
+law review - http://dbpedia.org/resource/Law_review
+criminal justice - http://dbpedia.org/resource/Criminal_justice
+social construction - http://dbpedia.org/resource/Social_constructionism
+tyler - http://dbpedia.org/resource/John_Tyler
+criminology - http://dbpedia.org/resource/Criminology
+forensic science - http://dbpedia.org/resource/Forensic_science
+forensic - http://dbpedia.org/resource/Forensic_science
+variable - http://dbpedia.org/resource/Dependent_and_independent_variables
+law - http://dbpedia.org/resource/Law
+validity - http://dbpedia.org/resource/Internal_validity
+potent - http://dbpedia.org/resource/Efficacy
+popular fiction - http://dbpedia.org/resource/Genre_fiction
+crime - http://dbpedia.org/resource/Crime
+thesis - http://dbpedia.org/resource/Thesis
+dichotomous - http://dbpedia.org/resource/Dichotomy
+hca - http://dbpedia.org/resource/High_Court_of_Australia
+vanderbilt - http://dbpedia.org/resource/Vanderbilt_University
+canberra - http://dbpedia.org/resource/Canberra
+white coat - http://dbpedia.org/resource/White_coat
+mock trial - http://dbpedia.org/resource/Mock_trial
+police - http://dbpedia.org/resource/Police
+juries - http://dbpedia.org/resource/Jury
+dna - http://dbpedia.org/resource/DNA
+fantasy - http://dbpedia.org/resource/Fantasy
+judge - http://dbpedia.org/resource/Judge
+jurimetrics - http://dbpedia.org/resource/Jurimetrics
+psychology - http://dbpedia.org/resource/Psychology
+defendant - http://dbpedia.org/resource/Defendant
+professor - http://dbpedia.org/resource/Academy
+juror - http://dbpedia.org/resource/Jury
+csi - http://dbpedia.org/resource/Forensic_science
+homicide - http://dbpedia.org/resource/Homicide
+federation - http://dbpedia.org/resource/Federalism
+crime scene - http://dbpedia.org/resource/Crime_scene
+intellectual property - http://dbpedia.org/resource/Intellectual_property
+germany - http://dbpedia.org/resource/Weimar_Republic
+international journal - http://dbpedia.org/resource/Canadian_International_Council
+evidence based policy - http://dbpedia.org/resource/Evidence-based_policy
+threshold - http://dbpedia.org/resource/Action_potential
+eyewitness - http://dbpedia.org/resource/Witness
+jury trials - http://dbpedia.org/resource/Jury_trial
+graduate school - http://dbpedia.org/resource/Postgraduate_education

@@ -1,63 +1,61 @@
-greeks - http://dbpedia.org/resource/Ancient_Greece
-governor - http://dbpedia.org/resource/Roman_governor
-administration - http://dbpedia.org/resource/Public_administration
-romans - http://dbpedia.org/resource/Romans_(musician)
-poll tax - http://dbpedia.org/resource/Poll_tax
-sect - http://dbpedia.org/resource/Sect
-legion - http://dbpedia.org/resource/Roman_legion
-egyptians - http://dbpedia.org/resource/Ptolemaic_Kingdom
-main source - http://dbpedia.org/resource/Main_Source
-christianity - http://dbpedia.org/resource/Christianity
-public service - http://dbpedia.org/resource/Public_service
-revolt - http://dbpedia.org/resource/Revolution
-roman province - http://dbpedia.org/resource/Roman_province
-cash - http://dbpedia.org/resource/Money
-capital - http://dbpedia.org/resource/Financial_capital
-coin - http://dbpedia.org/resource/Roman_currency
-coptic christian - http://dbpedia.org/resource/Copts
-30 bc - http://dbpedia.org/resource/30_BC
 augustus - http://dbpedia.org/resource/Augustus
-revenue - http://dbpedia.org/resource/Tax
-officer - http://dbpedia.org/resource/Civil_Services_of_India
-peace - http://dbpedia.org/resource/Peace
-economy - http://dbpedia.org/resource/Economy
-alexandria - http://dbpedia.org/resource/Alexandria
-greek mythology - http://dbpedia.org/resource/Greek_mythology
-monasticism - http://dbpedia.org/resource/Christian_monasticism
 cleopatra - http://dbpedia.org/resource/Cleopatra
-queen - http://dbpedia.org/resource/Queen_regnant
-revolution - http://dbpedia.org/resource/Revolution
+revenue - http://dbpedia.org/resource/Tax
+elders - http://dbpedia.org/resource/Old_age
+gnosticism - http://dbpedia.org/resource/Gnosticism
+administration - http://dbpedia.org/resource/Public_administration
+governor - http://dbpedia.org/resource/Roman_governor
+social hierarchy - http://dbpedia.org/resource/Social_class_in_ancient_Rome
 hierarchy - http://dbpedia.org/resource/Hierarchy
-rome - http://dbpedia.org/resource/Roman_Empire
+greeks - http://dbpedia.org/resource/Ancient_Greece
+arianism - http://dbpedia.org/resource/Arianism
+independent - http://dbpedia.org/resource/Independence
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-tax - http://dbpedia.org/resource/Roman_Empire
-food - http://dbpedia.org/resource/Food
-metropolite - http://dbpedia.org/resource/Metropolitan_bishop
-ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
-cohort - http://dbpedia.org/resource/Demography
-town council - http://dbpedia.org/resource/Town_council
-metropolis - http://dbpedia.org/resource/Colonies_in_antiquity
+manichaeism - http://dbpedia.org/resource/Manichaeism
+byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+ancient greek - http://dbpedia.org/resource/Ancient_Greek
+public service - http://dbpedia.org/resource/Public_service
+cash - http://dbpedia.org/resource/Money
+coptic christian - http://dbpedia.org/resource/Copts
+greek mythology - http://dbpedia.org/resource/Greek_mythology
+romans - http://dbpedia.org/resource/Romans_(musician)
+roman citizenship - http://dbpedia.org/resource/Roman_citizenship
+queen - http://dbpedia.org/resource/Queen_regnant
+roman law - http://dbpedia.org/resource/Roman_law
+gaius cornelius gallus - http://dbpedia.org/resource/Cornelius_Gallus
+provinces - http://dbpedia.org/resource/Roman_province
+rome - http://dbpedia.org/resource/Roman_Empire
+monasticism - http://dbpedia.org/resource/Christian_monasticism
+mark anthony - http://dbpedia.org/resource/Mark_Antony
+peace - http://dbpedia.org/resource/Peace
 language - http://dbpedia.org/resource/Latin
-tenant - http://dbpedia.org/resource/Land_tenure
+christianity - http://dbpedia.org/resource/Christianity
+aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
+capital - http://dbpedia.org/resource/Financial_capital
+alexandria - http://dbpedia.org/resource/Alexandria
+roman empire - http://dbpedia.org/resource/Roman_Empire
 taxation - http://dbpedia.org/resource/Tax
 partition - http://dbpedia.org/resource/Partitions_of_Poland
-security - http://dbpedia.org/resource/Security
-independent - http://dbpedia.org/resource/Independence
-ancient greek - http://dbpedia.org/resource/Ancient_Greek
-lose control - http://dbpedia.org/resource/Lose_Control_(Missy_Elliott_song)
-byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-transport - http://dbpedia.org/resource/Transport
-arianism - http://dbpedia.org/resource/Arianism
-manichaeism - http://dbpedia.org/resource/Manichaeism
+dynasties - http://dbpedia.org/resource/Dynasty
+main source - http://dbpedia.org/resource/Main_Source
+goods - http://dbpedia.org/resource/Personal_property
+tax - http://dbpedia.org/resource/Roman_Empire
+food - http://dbpedia.org/resource/Food
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
-mark anthony - http://dbpedia.org/resource/Mark_Antony
-roman law - http://dbpedia.org/resource/Roman_law
 citizenship - http://dbpedia.org/resource/Roman_citizenship
-roman citizenship - http://dbpedia.org/resource/Roman_citizenship
-roman empire - http://dbpedia.org/resource/Roman_Empire
-aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
-social hierarchy - http://dbpedia.org/resource/Social_class_in_ancient_Rome
-gnosticism - http://dbpedia.org/resource/Gnosticism
-village - http://dbpedia.org/resource/Villages_of_Brunei
-gaius cornelius gallus - http://dbpedia.org/resource/Cornelius_Gallus
+sect - http://dbpedia.org/resource/Sect
+business matters - http://dbpedia.org/resource/Business_Matters
+egyptians - http://dbpedia.org/resource/Ptolemaic_Kingdom
+roman province - http://dbpedia.org/resource/Roman_province
+legions - http://dbpedia.org/resource/Roman_legion
+metropolite - http://dbpedia.org/resource/Metropolitan_bishop
+revolution - http://dbpedia.org/resource/Revolution
+town council - http://dbpedia.org/resource/Town_council
+officer - http://dbpedia.org/resource/Civil_Services_of_India
+poll tax - http://dbpedia.org/resource/Poll_tax
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
+town councils - http://dbpedia.org/resource/Town_council
+security - http://dbpedia.org/resource/Security
+30 bc - http://dbpedia.org/resource/30_BC
+cohorts - http://dbpedia.org/resource/Demography

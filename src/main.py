@@ -23,38 +23,30 @@ def log_start(name: str, input_: str, output_: str, inter_: str = ""):
         logger.info(LOGGER_INFO["inter"].format(name, inter_))
     logger.info(LOGGER_INFO["output"].format(name, output_))
 
+from extract_relations_fine_tuned import *
+from evaluation_test_set import compute_metrics, compute_metrics_falke, aggregate_txt_files
+
 if __name__ == '__main__':
+
     # PREPROCESS
-    # PRE_PROCESSOR = PreProcessor()
-    # NAME = "Preprocessing"
-    # log_start(name=NAME, input_=WIKI_TRAIN, output_=OUTPUT_PREPROCESSING)
-    # PRE_PROCESSOR.main_folder(input_folder=WIKI_TRAIN, output_folder=OUTPUT_PREPROCESSING)
-    # logger.success(LOGGER_INFO["done"].format(NAME))
+    # parent_folder_path = WIKI_TRAIN
+    # output_folder_path = OUTPUT_PREPROCESSING
+    # preprocess_folder(parent_folder_path,output_folder_path)
 
     # EXTRACT ENTITY
-    # ENTITY_EXTRACTOR = EntityExtractor()
-    # NAME = "Entity Extraction"
-    # log_start(name=NAME, input_=OUTPUT_PREPROCESSING, output_=OUTPUT_EXTRACTION_ENTITY)
-    # ENTITY_EXTRACTOR.main_folder(
-    #     input_folder=OUTPUT_PREPROCESSING, output_folder=OUTPUT_EXTRACTION_ENTITY)
-    # logger.success(LOGGER_INFO["done"].format(NAME))
+    # parent_folder_path = OUTPUT_PREPROCESSING
+    # output_folder_path = OUTPUT_EXTRACTION_ENTITY
+    # extract_dbpedia_spotlight_entities(parent_folder_path, output_folder_path)
 
     #GROUP ENTITY
-    # ENTITY_GROUPED = EntityGrouper()
-    # NAME = "Entity Grouping"
-    # log_start(name=NAME, input_=OUTPUT_EXTRACTION_ENTITY,
-    #           output_=OUTPUT_GROUPING_ENTITY_SINGLE_FILES, inter_=OUTPUT_GROUPING_ENTITY_SUBFOLDERS)
-    # ENTITY_GROUPED.main_folder(
-    #     input_folder=OUTPUT_EXTRACTION_ENTITY,
-    #     inter_folder=OUTPUT_GROUPING_ENTITY_SUBFOLDERS,
-    #     output_folder=OUTPUT_GROUPING_ENTITY_SINGLE_FILES)
+    # parent_folder_path = OUTPUT_EXTRACTION_ENTITY
+    # output_folder_path = OUTPUT_GROUPING_ENTITY_SINGLE_FILES
+    # set_entities(parent_folder_path, output_folder_path)
+    # new_output_folder_path = OUTPUT_GROUPING_ENTITY_SUBFOLDERS
+    # get_unique_entities_from_files_in_subfolders(output_folder_path, new_output_folder_path)
 
     #CREATE GRAPH
-    # GRAPH_BUILDER = GraphBuilder()
-    # NAME = "Graph building"
-    # log_start(name=NAME, input_=OUTPUT_PREPROCESSING, output_=HTML_CONCEPTS)
-    # GRAPH_BUILDER.main_folder(input_folder=OUTPUT_GROUPING_ENTITY_SUBFOLDERS,
-    #                           output_folder=HTML_CONCEPTS)
-    # logger.success(LOGGER_INFO["done"].format(NAME))
+    parent_folder_path = OUTPUT_GROUPING_ENTITY_SUBFOLDERS
+    output_folder_path = HTML_CONCEPTS
+    create_graph(parent_folder_path, output_folder_path)
 
-    # EXTRACT RELATIONS

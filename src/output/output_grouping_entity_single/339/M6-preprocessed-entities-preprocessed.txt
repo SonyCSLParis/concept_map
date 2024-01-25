@@ -1,71 +1,65 @@
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-sedition - http://dbpedia.org/resource/Sedition
-jeffersonian republicans - http://dbpedia.org/resource/Democratic-Republican_Party
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-secede - http://dbpedia.org/resource/Secession_in_the_United_States
-alien - http://dbpedia.org/resource/Extraterrestrial_life
-sinister - http://dbpedia.org/resource/Dexter_and_sinister
-insurrection - http://dbpedia.org/resource/Rebellion
-newspaper - http://dbpedia.org/resource/News_media
-constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
-u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-james madison - http://dbpedia.org/resource/James_Madison
-hampshire - http://dbpedia.org/resource/Hampshire
-republicans - http://dbpedia.org/resource/Republicanism
-ammon - http://dbpedia.org/resource/Ammon
-resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
-kentucky - http://dbpedia.org/resource/Kentucky
-foreshadowing - http://dbpedia.org/resource/Foreshadowing
-compact theory - http://dbpedia.org/resource/Compact_theory
-unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-tumult - http://dbpedia.org/resource/Tumult_Records
-koch - http://dbpedia.org/resource/Koch_(boat)
-virginia general assembly - http://dbpedia.org/resource/Virginia_General_Assembly
-legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
-american revolution - http://dbpedia.org/resource/Founding_Fathers_of_the_United_States
-aggression - http://dbpedia.org/resource/War_of_aggression
-nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
-jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-federalism - http://dbpedia.org/resource/Federalism
-madison - http://dbpedia.org/resource/Madison_(cycling)
-american civil war - http://dbpedia.org/resource/American_Civil_War
-nullification - http://dbpedia.org/resource/Nullification_Crisis
-federal crime - http://dbpedia.org/resource/Federal_crime_in_the_United_States
-warrant - http://dbpedia.org/resource/Arrest_warrant
-calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
-president - http://dbpedia.org/resource/President_of_the_United_States
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-resistance - http://dbpedia.org/resource/Resistance_movement
-continuity - http://dbpedia.org/resource/Continuous_function
-hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
-landmark - http://dbpedia.org/resource/Lists_of_landmark_court_decisions
-conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
-interposition - http://dbpedia.org/resource/Interposition
-defense - http://dbpedia.org/resource/National_security
-federalist party - http://dbpedia.org/resource/Federalist_Party
-enemy alien - http://dbpedia.org/resource/Enemy_alien
-compound - http://dbpedia.org/resource/Chemical_compound
-republic - http://dbpedia.org/resource/Republic
-alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
-1800 election - http://dbpedia.org/resource/1800_United_States_presidential_election
-south carolina - http://dbpedia.org/resource/South_Carolina
-mary - http://dbpedia.org/resource/Mary_I_of_England
-theory - http://dbpedia.org/resource/Theory
-tariff - http://dbpedia.org/resource/Tariff_in_United_States_history
-party party - http://dbpedia.org/resource/Party_Party_(film)
-subversion - http://dbpedia.org/resource/Subversion
-virginia - http://dbpedia.org/resource/Virginia_General_Assembly
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-confide - http://dbpedia.org/resource/Confide
-virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-southern secession - http://dbpedia.org/resource/Secession_in_the_United_States
-constantine - http://dbpedia.org/resource/Grand_Duke_Konstantin_Pavlovich_of_Russia
-thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-primary sources - http://dbpedia.org/resource/Primary_source
-evin - http://dbpedia.org/resource/Evin_Prison
-kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-quasi war - http://dbpedia.org/resource/Quasi-War
-law - http://dbpedia.org/resource/Common_law
 federalist - http://dbpedia.org/resource/Federalist
+primary sources - http://dbpedia.org/resource/Primary_source
+republic - http://dbpedia.org/resource/Republic
+kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+kentucky - http://dbpedia.org/resource/Kentucky
+subversion - http://dbpedia.org/resource/Subversion
+quasi war - http://dbpedia.org/resource/Quasi-War
+legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
+hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
+american revolution - http://dbpedia.org/resource/Founding_Fathers_of_the_United_States
+president - http://dbpedia.org/resource/President_of_the_United_States
+sedition - http://dbpedia.org/resource/Sedition
+secede - http://dbpedia.org/resource/Secession_in_the_United_States
+sinister - http://dbpedia.org/resource/Dexter_and_sinister
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+enemy aliens - http://dbpedia.org/resource/Enemy_alien
+hampshire - http://dbpedia.org/resource/Hampshire
+compound - http://dbpedia.org/resource/Chemical_compound
+1800 election - http://dbpedia.org/resource/1800_United_States_presidential_election
+evin - http://dbpedia.org/resource/Evin_Prison
+compact theory - http://dbpedia.org/resource/Compact_theory
+constitutionality - http://dbpedia.org/resource/Constitution_of_the_United_States
+thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
+republicans - http://dbpedia.org/resource/Republicanism
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+koch - http://dbpedia.org/resource/Koch_(boat)
+james madison - http://dbpedia.org/resource/James_Madison
+resistance - http://dbpedia.org/resource/Resistance_movement
+theory - http://dbpedia.org/resource/Theory
+nullify federal laws - http://dbpedia.org/resource/Nullification_(U.S._Constitution)
+south carolina - http://dbpedia.org/resource/South_Carolina
+federalism - http://dbpedia.org/resource/Federalism
+tangled - http://dbpedia.org/resource/Tangled
+ammon - http://dbpedia.org/resource/Ammon
+alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
+author - http://dbpedia.org/resource/Arthur_Schopenhauer
+nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
+american civil war - http://dbpedia.org/resource/American_Civil_War
+continuity - http://dbpedia.org/resource/Continuous_function
+constantine - http://dbpedia.org/resource/Grand_Duke_Konstantin_Pavlovich_of_Russia
+virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+madison - http://dbpedia.org/resource/Madison_(cycling)
+u.s. government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+calhoun - http://dbpedia.org/resource/Calhoun,_Georgia
+mary - http://dbpedia.org/resource/Mary_I_of_England
+nullification - http://dbpedia.org/resource/Nullification_Crisis
+conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+landmark - http://dbpedia.org/resource/Lists_of_landmark_court_decisions
+aggression - http://dbpedia.org/resource/War_of_aggression
+southern secession - http://dbpedia.org/resource/Secession_in_the_United_States
+jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+jeffersonian republicans - http://dbpedia.org/resource/Democratic-Republican_Party
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+tariff - http://dbpedia.org/resource/Tariff_in_United_States_history
+defense - http://dbpedia.org/resource/National_security
+federal crime - http://dbpedia.org/resource/Federal_crime_in_the_United_States
+federalist party - http://dbpedia.org/resource/Federalist_Party
+virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+interposition - http://dbpedia.org/resource/Interposition
 civil war - http://dbpedia.org/resource/Civil_war
+virginia general assembly - http://dbpedia.org/resource/Virginia_General_Assembly

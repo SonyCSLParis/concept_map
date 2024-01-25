@@ -8,9 +8,8 @@ suzerainty - http://dbpedia.org/resource/British_Empire
 sovereign - http://dbpedia.org/resource/Sovereignty
 autonomous - http://dbpedia.org/resource/Autonomous_administrative_division
 sovereign - http://dbpedia.org/resource/Sovereignty
-colony - http://dbpedia.org/resource/Colony
+colonies - http://dbpedia.org/resource/French_colonial_empire
 immigration - http://dbpedia.org/resource/Immigration
-settler - http://dbpedia.org/resource/Settler
 suzerainty - http://dbpedia.org/resource/British_Empire
 independence - http://dbpedia.org/resource/Independence
 amical - http://dbpedia.org/resource/Amicale_F.C.
@@ -23,27 +22,24 @@ ethno - http://dbpedia.org/resource/Ethnic_group
 involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 sacrifice - http://dbpedia.org/resource/Human_sacrifice
 amical - http://dbpedia.org/resource/Amicale_F.C.
-great power - http://dbpedia.org/resource/Great_power
+great powers - http://dbpedia.org/resource/Great_power
 qing dynasty - http://dbpedia.org/resource/Qing_dynasty
 amical - http://dbpedia.org/resource/Amicale_F.C.
 amical - http://dbpedia.org/resource/Amicale_F.C.
-microstate - http://dbpedia.org/resource/Microstate
-microstate - http://dbpedia.org/resource/Microstate
+microstates - http://dbpedia.org/resource/Microstate
+microstates - http://dbpedia.org/resource/Microstate
 sovereign - http://dbpedia.org/resource/Sovereignty
 sovereignty - http://dbpedia.org/resource/Sovereignty
-power exchange - http://dbpedia.org/resource/Electricity_market
 benign - http://dbpedia.org/resource/Cancer
-political economic - http://dbpedia.org/resource/Political_economy
 demographic - http://dbpedia.org/resource/Demography
-microstate - http://dbpedia.org/resource/Microstate
+microstates - http://dbpedia.org/resource/Microstate
 liechtenstein - http://dbpedia.org/resource/Liechtenstein
 san marino - http://dbpedia.org/resource/San_Marino
 monaco - http://dbpedia.org/resource/Monaco
 niue - http://dbpedia.org/resource/Niue
 cook islands - http://dbpedia.org/resource/Cook_Islands
 palau - http://dbpedia.org/resource/Palau
-protection international - http://dbpedia.org/resource/Protection_International
-law - http://dbpedia.org/resource/Law
+international law - http://dbpedia.org/resource/International_law
 de facto - http://dbpedia.org/resource/De_facto
 colony - http://dbpedia.org/resource/Colony
 indirect rule - http://dbpedia.org/resource/Indirect_rule
@@ -51,25 +47,23 @@ indirect rule - http://dbpedia.org/resource/Indirect_rule
 de facto - http://dbpedia.org/resource/De_facto
 independent - http://dbpedia.org/resource/Independence
 foreign policy - http://dbpedia.org/resource/Foreign_policy
-armed force - http://dbpedia.org/resource/Military
+armed forces - http://dbpedia.org/resource/Military
 logic - http://dbpedia.org/resource/Logic
 berlin agreement - http://dbpedia.org/resource/Congress_of_Berlin
-colonial power - http://dbpedia.org/resource/British_Empire
+colonial powers - http://dbpedia.org/resource/Colonialism
 black africa - http://dbpedia.org/resource/Sub-Saharan_Africa
 region - http://dbpedia.org/resource/Region
 colony - http://dbpedia.org/resource/Colony
 amalgamation - http://dbpedia.org/resource/Miscegenation
 de facto - http://dbpedia.org/resource/De_facto
 logic - http://dbpedia.org/resource/Logic
-rely - http://dbpedia.org/resource/Rely_(brand)
+protecting power - http://dbpedia.org/resource/Protecting_power
 defence - http://dbpedia.org/resource/Military
 annexation - http://dbpedia.org/resource/Annexation
-power control - http://dbpedia.org/resource/Power_control
 united nations trust territories - http://dbpedia.org/resource/United_Nations_trust_territories
 administration - http://dbpedia.org/resource/Public_administration
 international community - http://dbpedia.org/resource/United_Nations
 bilateral agreement - http://dbpedia.org/resource/Bilateralism
-mandate - http://dbpedia.org/resource/League_of_Nations_mandate
 de facto - http://dbpedia.org/resource/De_facto
 belgian - http://dbpedia.org/resource/Belgium
 ruanda - http://dbpedia.org/resource/Rwanda
@@ -93,50 +87,46 @@ rwanda - http://dbpedia.org/resource/Rwanda
 burundi - http://dbpedia.org/resource/Burundi
 belgian colonial empire - http://dbpedia.org/resource/Belgian_colonial_empire
 british protectorates - http://dbpedia.org/resource/Protectorate
+annexed - http://dbpedia.org/resource/Annexation
 ultimate power - http://dbpedia.org/resource/Ultimate_Power
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
 britannic - http://dbpedia.org/resource/HMHS_Britannic
-foreign affair - http://dbpedia.org/resource/Foreign_Affair_(Tina_Turner_album)
 jurisdiction - http://dbpedia.org/resource/Jurisdiction
-colony - http://dbpedia.org/resource/Colony
+british colonies - http://dbpedia.org/resource/British_Empire
 colonial office - http://dbpedia.org/resource/Colonial_Office
-zanzibar protectorate - http://dbpedia.org/resource/Sultanate_of_Zanzibar
+zanzibar - http://dbpedia.org/resource/Zanzibar
 colony - http://dbpedia.org/resource/Colony
 britain - http://dbpedia.org/resource/British_Empire
 prime minister salisbury - http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_3rd_Marquess_of_Salisbury
-race - http://dbpedia.org/resource/Racing
 dominion - http://dbpedia.org/resource/Dominion
 west african - http://dbpedia.org/resource/Africa
 king george iii - http://dbpedia.org/resource/George_III_of_the_United_Kingdom
 royal proclamation - http://dbpedia.org/resource/Proclamation
 negotiation - http://dbpedia.org/resource/Negotiation
+treaties - http://dbpedia.org/resource/Treaty
 aboriginal - http://dbpedia.org/resource/Indigenous_peoples
 north america - http://dbpedia.org/resource/North_America
 american interior - http://dbpedia.org/resource/American_Interior
 indian reserve - http://dbpedia.org/resource/Indian_reserve
 king george - http://dbpedia.org/resource/George_V
-reserve - http://dbpedia.org/resource/Reserve_fleet
-tribe - http://dbpedia.org/resource/Tribe
-hunting ground - http://dbpedia.org/resource/Hunting_Ground_(comics)
-sovereign territory - http://dbpedia.org/resource/Sovereignty
+hunting - http://dbpedia.org/resource/Hunting
+sovereign - http://dbpedia.org/resource/Sovereignty
 dominion - http://dbpedia.org/resource/Dominion
 region - http://dbpedia.org/resource/Region
-tribe - http://dbpedia.org/resource/Tribe
-protectorate treaty - http://dbpedia.org/resource/Japan–Korea_Treaty_of_1905
 colony - http://dbpedia.org/resource/Colony
 dominion - http://dbpedia.org/resource/Dominion
-hudson bay - http://dbpedia.org/resource/Hudson_Bay
 land tenure - http://dbpedia.org/resource/Papua_New_Guinea
-prairie province - http://dbpedia.org/resource/Canadian_Prairies
+prairie provinces - http://dbpedia.org/resource/Canadian_Prairies
 northern ontario - http://dbpedia.org/resource/Northern_Ontario
-outline - http://dbpedia.org/resource/Nutrition
+numbered treaties - http://dbpedia.org/resource/Numbered_Treaties
 royal proclamation - http://dbpedia.org/resource/Proclamation
 royal proclamation - http://dbpedia.org/resource/Proclamation
 aboriginal - http://dbpedia.org/resource/Indigenous_peoples
+land rights - http://dbpedia.org/resource/Aboriginal_title
 cephalonia - http://dbpedia.org/resource/Cephalonia
 cephalonia - http://dbpedia.org/resource/Cephalonia
 ionian islands - http://dbpedia.org/resource/Ionian_Islands
-napoleonic war - http://dbpedia.org/resource/Napoleonic_Wars
+napoleonic wars - http://dbpedia.org/resource/Napoleonic_Wars
 paris - http://dbpedia.org/resource/Paris
 independent - http://dbpedia.org/resource/Independence
 ionian islands - http://dbpedia.org/resource/Ionian_Islands
@@ -144,7 +134,7 @@ malta - http://dbpedia.org/resource/Malta
 british protectorate - http://dbpedia.org/resource/Protectorate
 capitulation - http://dbpedia.org/resource/Capitulations_of_the_Ottoman_Empire
 paris - http://dbpedia.org/resource/Paris
-british protectorate - http://dbpedia.org/resource/Protectorate
+british protectorates - http://dbpedia.org/resource/Protectorate
 pacific ocean - http://dbpedia.org/resource/Oceania
 gilberts - http://dbpedia.org/resource/Kiribati
 kiribati - http://dbpedia.org/resource/Kiribati
@@ -182,15 +172,14 @@ indirect rule - http://dbpedia.org/resource/Indirect_rule
 oligarchy - http://dbpedia.org/resource/Oligarchy
 network - http://dbpedia.org/resource/Social_network
 civil service - http://dbpedia.org/resource/Civil_service
-british protectorate - http://dbpedia.org/resource/Protectorate
+british protectorates - http://dbpedia.org/resource/Protectorate
 high commissioner - http://dbpedia.org/resource/High_commissioner
 governor - http://dbpedia.org/resource/Governor
 british law - http://dbpedia.org/resource/Law_of_the_United_Kingdom
 britain - http://dbpedia.org/resource/British_Empire
 defence - http://dbpedia.org/resource/Military
-british protectorate - http://dbpedia.org/resource/Protectorate
-mandate - http://dbpedia.org/resource/League_of_Nations_mandate
-trust territory - http://dbpedia.org/resource/United_Nations_trust_territories
+british protectorates - http://dbpedia.org/resource/Protectorate
+trust territories - http://dbpedia.org/resource/United_Nations_trust_territories
 protected persons - http://dbpedia.org/resource/Protected_persons
 nationality - http://dbpedia.org/resource/Sovereign_state
 independence - http://dbpedia.org/resource/Independence
@@ -200,6 +189,7 @@ independence - http://dbpedia.org/resource/Independence
 brunei - http://dbpedia.org/resource/Brunei
 independence - http://dbpedia.org/resource/Independence
 americas - http://dbpedia.org/resource/Americas
+barbados - http://dbpedia.org/resource/Barbados
 colony - http://dbpedia.org/resource/Colony
 william courteen - http://dbpedia.org/resource/William_Courten
 james hay - http://dbpedia.org/resource/James_Hay_Partnership
@@ -217,7 +207,7 @@ persian gulf - http://dbpedia.org/resource/Persian_Gulf
 bahrain - http://dbpedia.org/resource/Bahrain
 kuwait - http://dbpedia.org/resource/Kuwait
 qatar - http://dbpedia.org/resource/Qatar
-emirate - http://dbpedia.org/resource/Emirate
+emirates - http://dbpedia.org/resource/Emirate
 uae - http://dbpedia.org/resource/United_Arab_Emirates
 oman - http://dbpedia.org/resource/Oman
 south east asia - http://dbpedia.org/resource/Southeast_Asia
@@ -239,7 +229,7 @@ kedah - http://dbpedia.org/resource/Kedah
 kelantan - http://dbpedia.org/resource/Kelantan
 perlis - http://dbpedia.org/resource/Perlis
 terengganu - http://dbpedia.org/resource/Terengganu
-maldive - http://dbpedia.org/resource/Maldives
+maldives - http://dbpedia.org/resource/Maldives
 sikkim - http://dbpedia.org/resource/Sikkim
 sarawak - http://dbpedia.org/resource/Sarawak
 british empire - http://dbpedia.org/resource/British_Empire
@@ -283,16 +273,14 @@ lifan yuan - http://dbpedia.org/resource/Lifan_Yuan
 aruba - http://dbpedia.org/resource/Aruba
 curaçao - http://dbpedia.org/resource/Curaçao
 sint maarten - http://dbpedia.org/resource/Sint_Maarten
-constituent country - http://dbpedia.org/resource/Kingdom_of_the_Netherlands
+constituent countries - http://dbpedia.org/resource/Kingdom_of_the_Netherlands
 netherlands antilles - http://dbpedia.org/resource/Netherlands_Antilles
-sultanate - http://dbpedia.org/resource/Sultan
 dutch east indies - http://dbpedia.org/resource/Dutch_East_Indies
 saar - http://dbpedia.org/resource/Saar_Protectorate
 amical - http://dbpedia.org/resource/Amicale_F.C.
 germany - http://dbpedia.org/resource/German_Empire
 referendum - http://dbpedia.org/resource/Referendum
 mandate - http://dbpedia.org/resource/League_of_Nations_mandate
-french protectorate - http://dbpedia.org/resource/Protectorate
 arcot - http://dbpedia.org/resource/Arcot_State
 carnatic - http://dbpedia.org/resource/Carnatic_music
 french protectorate - http://dbpedia.org/resource/Protectorate
@@ -304,9 +292,11 @@ annam - http://dbpedia.org/resource/Vietnam
 tonkin - http://dbpedia.org/resource/Tonkin
 laos - http://dbpedia.org/resource/French_Protectorate_of_Laos
 madagascar - http://dbpedia.org/resource/Madagascar
+comoros - http://dbpedia.org/resource/Comoros
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 french protectorate - http://dbpedia.org/resource/Protectorate
 anjouan - http://dbpedia.org/resource/Anjouan
+annexed - http://dbpedia.org/resource/Annexation
 djibouti - http://dbpedia.org/resource/Djibouti
 obock - http://dbpedia.org/resource/Djibouti
 tadjoura - http://dbpedia.org/resource/Tadjoura
@@ -345,10 +335,9 @@ colony - http://dbpedia.org/resource/Colony
 tunisia - http://dbpedia.org/resource/Tunisia
 french protectorate - http://dbpedia.org/resource/Protectorate
 saharan - http://dbpedia.org/resource/Sahara
-french colonial - http://dbpedia.org/resource/French_colonial_empire
+french colonial forces - http://dbpedia.org/resource/Troupes_coloniales
 french west africa - http://dbpedia.org/resource/French_West_Africa
 direct rule - http://dbpedia.org/resource/British_Raj
-recreation - http://dbpedia.org/resource/Cycling
 authority figure - http://dbpedia.org/resource/Authority
 cercles - http://dbpedia.org/resource/Cercles_of_Mali
 benin - http://dbpedia.org/resource/Benin
@@ -378,7 +367,7 @@ ivory coast - http://dbpedia.org/resource/Ivory_Coast
 guinea - http://dbpedia.org/resource/Guinea
 french protectorate - http://dbpedia.org/resource/Protectorate
 region - http://dbpedia.org/resource/Region
-sud - http://dbpedia.org/resource/Ninlil
+riviéres du sud - http://dbpedia.org/resource/Guinea
 sultanate - http://dbpedia.org/resource/Sultan
 damagaram - http://dbpedia.org/resource/Sultanate_of_Damagaram
 zinder - http://dbpedia.org/resource/Zinder
@@ -387,9 +376,11 @@ damagaram - http://dbpedia.org/resource/Sultanate_of_Damagaram
 sultan - http://dbpedia.org/resource/Sultan
 senegal - http://dbpedia.org/resource/Senegal
 french protectorate - http://dbpedia.org/resource/Protectorate
+treaties - http://dbpedia.org/resource/Treaty
 oceania - http://dbpedia.org/resource/Oceania
-french polynesia - http://dbpedia.org/resource/French_Polynesia
+polynesia - http://dbpedia.org/resource/French_Polynesia
 society islands - http://dbpedia.org/resource/Society_Islands
+annexed - http://dbpedia.org/resource/Annexation
 annexed - http://dbpedia.org/resource/Annexation
 rahi - http://dbpedia.org/resource/Rahi_(film)
 french protectorate - http://dbpedia.org/resource/Protectorate
@@ -406,19 +397,21 @@ uvea - http://dbpedia.org/resource/Uvea
 captain - http://dbpedia.org/resource/Sea_captain
 french protectorate - http://dbpedia.org/resource/Protectorate
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+annexed - http://dbpedia.org/resource/Annexation
 sigave - http://dbpedia.org/resource/Sigave
 alo - http://dbpedia.org/resource/Alo_Creevey
 alofi - http://dbpedia.org/resource/Alofi
 french protectorate - http://dbpedia.org/resource/Protectorate
+annexed - http://dbpedia.org/resource/Annexation
 german empire - http://dbpedia.org/resource/German_Empire
 schutzgebiet - http://dbpedia.org/resource/Protectorate
-colony - http://dbpedia.org/resource/Colony
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+colonies - http://dbpedia.org/resource/French_colonial_empire
 indirect rule - http://dbpedia.org/resource/Indirect_rule
 guinea - http://dbpedia.org/resource/Guinea
 marshall islands - http://dbpedia.org/resource/Marshall_Islands
 nauru - http://dbpedia.org/resource/Nauru
-solomon island - http://dbpedia.org/resource/Solomon_Islands
+northern solomon islands - http://dbpedia.org/resource/North_Solomon_Islands
+solomon islands - http://dbpedia.org/resource/Solomon_Islands
 samoa - http://dbpedia.org/resource/Samoa
 western samoa - http://dbpedia.org/resource/Samoa
 sultanate - http://dbpedia.org/resource/Sultan
@@ -433,7 +426,7 @@ sultan - http://dbpedia.org/resource/Sultan
 nazi germany - http://dbpedia.org/resource/Nazi_Germany
 bohemia - http://dbpedia.org/resource/Bohemia
 moravia - http://dbpedia.org/resource/Moravia
-region - http://dbpedia.org/resource/Region
+czech regions - http://dbpedia.org/resource/Regions_of_the_Czech_Republic
 czechoslovakia - http://dbpedia.org/resource/Czechoslovakia
 albania - http://dbpedia.org/resource/Albania
 independent - http://dbpedia.org/resource/Independence
@@ -448,7 +441,6 @@ ethiopia - http://dbpedia.org/resource/Ethiopia
 ethiopian - http://dbpedia.org/resource/Ethiopia
 amharic language - http://dbpedia.org/resource/Amharic
 emperor - http://dbpedia.org/resource/Byzantine_Empire
-foreign affair - http://dbpedia.org/resource/Foreign_Affair_(Tina_Turner_album)
 light - http://dbpedia.org/resource/Light_infantry
 emperor menelik ii - http://dbpedia.org/resource/Menelik_II
 menelik ii - http://dbpedia.org/resource/Menelik_II
@@ -482,7 +474,6 @@ sovereignty - http://dbpedia.org/resource/Sovereignty
 cabinda - http://dbpedia.org/resource/Cabinda_Province
 cabinda - http://dbpedia.org/resource/Cabinda_Province
 portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
-governor - http://dbpedia.org/resource/Governor
 cabinda - http://dbpedia.org/resource/Cabinda_Province
 gaza empire - http://dbpedia.org/resource/Gaza_Empire
 angoche sultanate - http://dbpedia.org/resource/Angoche_Sultanate
@@ -500,13 +491,12 @@ spanish protectorate - http://dbpedia.org/resource/Spanish_protectorate_in_Moroc
 french protectorate - http://dbpedia.org/resource/Protectorate
 spanish morocco - http://dbpedia.org/resource/Spanish_protectorate_in_Morocco
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-zone 7 - http://dbpedia.org/resource/A_roads_in_Zone_7_of_the_Great_Britain_numbering_scheme
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 cape juby - http://dbpedia.org/resource/Cape_Juby
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 liberia - http://dbpedia.org/resource/Liberia
 cuba - http://dbpedia.org/resource/Cuba
-panama canal zone - http://dbpedia.org/resource/Panama_Canal_Zone
+panama canal zone - http://dbpedia.org/resource/Panama_Canal
 honduras - http://dbpedia.org/resource/Honduras
 nicaragua - http://dbpedia.org/resource/Nicaragua
 dominican republic - http://dbpedia.org/resource/Dominican_Republic
@@ -514,16 +504,14 @@ sultanate - http://dbpedia.org/resource/Sultan
 sulu - http://dbpedia.org/resource/Sulu_(skirt)
 philippine commonwealth - http://dbpedia.org/resource/Commonwealth_of_the_Philippines
 hawaii islands - http://dbpedia.org/resource/Hawaiian_Islands
-foreign affair - http://dbpedia.org/resource/Foreign_Affair_(Tina_Turner_album)
 compact - http://dbpedia.org/resource/Compact_car
 marshall islands - http://dbpedia.org/resource/Marshall_Islands
 federated - http://dbpedia.org/resource/Federation
 micronesia - http://dbpedia.org/resource/Micronesia
 palau - http://dbpedia.org/resource/Palau
 independence - http://dbpedia.org/resource/Independence
-agency - http://dbpedia.org/resource/Institution
 environmental protection agency - http://dbpedia.org/resource/United_States_Environmental_Protection_Agency
-insular area - http://dbpedia.org/resource/Insular_area
+insular areas - http://dbpedia.org/resource/Insular_area
 guam - http://dbpedia.org/resource/Guam
 commonwealth - http://dbpedia.org/resource/Republic
 mariana islands - http://dbpedia.org/resource/Northern_Mariana_Islands
@@ -541,14 +529,15 @@ colony - http://dbpedia.org/resource/Colony
 independence - http://dbpedia.org/resource/Independence
 liberia - http://dbpedia.org/resource/Liberia
 african americans - http://dbpedia.org/resource/African_Americans
-slave - http://dbpedia.org/resource/History_of_slavery
-settler - http://dbpedia.org/resource/Settler
+slaves - http://dbpedia.org/resource/History_of_slavery
+caribbean islands - http://dbpedia.org/resource/Caribbean
 american colonization society - http://dbpedia.org/resource/American_Colonization_Society
 agency - http://dbpedia.org/resource/Institution
 administration - http://dbpedia.org/resource/Public_administration
 insular affairs - http://dbpedia.org/resource/United_States_House_Committee_on_Natural_Resources
 oia - http://dbpedia.org/resource/Oia,_Greece
 insular area - http://dbpedia.org/resource/Insular_area
+west papua - http://dbpedia.org/resource/Western_New_Guinea
 guinea - http://dbpedia.org/resource/Guinea
 west irian - http://dbpedia.org/resource/Western_New_Guinea
 united nations temporary executive authority - http://dbpedia.org/resource/United_Nations_Temporary_Executive_Authority
@@ -578,7 +567,7 @@ muslim - http://dbpedia.org/resource/Islam
 ionian islands - http://dbpedia.org/resource/Ionian_Islands
 septinsular republic - http://dbpedia.org/resource/Septinsular_Republic
 provveditore - http://dbpedia.org/resource/Provveditore
-ionian island - http://dbpedia.org/resource/Ionian_Islands
+ionian islands - http://dbpedia.org/resource/Ionian_Islands
 corfu - http://dbpedia.org/resource/Corfu
 cephalonia - http://dbpedia.org/resource/Cephalonia
 santa maura - http://dbpedia.org/resource/Lefkada
@@ -587,25 +576,27 @@ cerigo - http://dbpedia.org/resource/Kythira
 paxos - http://dbpedia.org/resource/Paxi
 de facto - http://dbpedia.org/resource/De_facto
 amical protectorate - http://dbpedia.org/resource/Protectorate
-bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+bosnia - http://dbpedia.org/resource/Bosnia_and_Herzegovina
 ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
+annexed - http://dbpedia.org/resource/Annexation
 austria hungary - http://dbpedia.org/resource/Austria-Hungary
 bosnian crisis - http://dbpedia.org/resource/Bosnian_Crisis
 dayton agreement - http://dbpedia.org/resource/Dayton_Agreement
-bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+bosnia - http://dbpedia.org/resource/Bosnia_and_Herzegovina
 de facto - http://dbpedia.org/resource/De_facto
-bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+bosnia - http://dbpedia.org/resource/Bosnia_and_Herzegovina
 peace implementation council - http://dbpedia.org/resource/Peace_Implementation_Council
 high representative - http://dbpedia.org/resource/High_commissioner
-bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+bosnia - http://dbpedia.org/resource/Bosnia_and_Herzegovina
 european union - http://dbpedia.org/resource/European_Union
 police mission - http://dbpedia.org/resource/European_Union_Police_Mission_in_Bosnia_and_Herzegovina
-bosnia herzegovina - http://dbpedia.org/resource/Bosnia_and_Herzegovina
+bosnia - http://dbpedia.org/resource/Bosnia_and_Herzegovina
 eufor - http://dbpedia.org/resource/European_Union_Military_Operation_in_Chad_and_the_Central_African_Republic
 althea - http://dbpedia.org/resource/Cyclone_Althea
+british protected person - http://dbpedia.org/resource/British_protected_person
 chinese protectorate - http://dbpedia.org/resource/Chinese_Protectorate
 puerto rico - http://dbpedia.org/resource/Puerto_Rico
-microstate - http://dbpedia.org/resource/Microstate
+microstates - http://dbpedia.org/resource/Microstate
 micro - http://dbpedia.org/resource/Microeconomics
 statehood - http://dbpedia.org/resource/Sovereign_state
 paper - http://dbpedia.org/resource/Academic_publishing

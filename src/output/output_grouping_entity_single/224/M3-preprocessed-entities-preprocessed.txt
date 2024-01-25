@@ -1,55 +1,47 @@
-migration - http://dbpedia.org/resource/Human_migration
-coloma - http://dbpedia.org/resource/Coloma_High_School
-american river - http://dbpedia.org/resource/American_River
 rusha - http://dbpedia.org/resource/SS_Race_and_Settlement_Main_Office
-49er - http://dbpedia.org/resource/California_Gold_Rush
-nfl - http://dbpedia.org/resource/National_Football_League
-sacramento - http://dbpedia.org/resource/Sacramento_River
-infrastructure - http://dbpedia.org/resource/Infrastructure
-ivan - http://dbpedia.org/resource/Ivan_the_Terrible
-prospector - http://dbpedia.org/resource/Prospecting
-crime - http://dbpedia.org/resource/Crime
-boom - http://dbpedia.org/resource/Boomtown
-ammon - http://dbpedia.org/resource/Ammon
 police - http://dbpedia.org/resource/Police
-wave - http://dbpedia.org/resource/Wind_wave
-immigration - http://dbpedia.org/resource/Immigration
-california - http://dbpedia.org/resource/History_of_California
-newspaper - http://dbpedia.org/resource/Newspaper
-gold nugget - http://dbpedia.org/resource/Gold_nugget
-wage - http://dbpedia.org/resource/Wage
-sidewalk - http://dbpedia.org/resource/Sidewalk
-ghost town - http://dbpedia.org/resource/Ghost_town
-crop - http://dbpedia.org/resource/Agriculture
-strain - http://dbpedia.org/resource/Cannabis_strains
-john sutter - http://dbpedia.org/resource/John_Sutter
-coast - http://dbpedia.org/resource/West_Coast_of_the_United_States
-plank - http://dbpedia.org/resource/Lumber
-panama - http://dbpedia.org/resource/Panama
-san francisco 49er - http://dbpedia.org/resource/San_Francisco_49ers
-california gold country - http://dbpedia.org/resource/Gold_Country
-vigilante - http://dbpedia.org/resource/Vigilantism
-newspaper publisher - http://dbpedia.org/resource/Publishing
-mass - http://dbpedia.org/resource/Mass
-york herald - http://dbpedia.org/resource/York_Herald
-agriculturist - http://dbpedia.org/resource/Agriculture
-mass hysteria - http://dbpedia.org/resource/Mass_psychogenic_illness
-northern california - http://dbpedia.org/resource/Northern_California
+fair wage - http://dbpedia.org/resource/Living_wage
+sacramento - http://dbpedia.org/resource/Sacramento_River
+san francisco 49ers - http://dbpedia.org/resource/San_Francisco_49ers
 president - http://dbpedia.org/resource/President_of_the_United_States
-shopkeeper - http://dbpedia.org/resource/Shopkeeper
-cigar box - http://dbpedia.org/resource/Cigar_box
-gold - http://dbpedia.org/resource/Gold
+sidewalk - http://dbpedia.org/resource/Sidewalk
+panama - http://dbpedia.org/resource/Panama
+migrations - http://dbpedia.org/resource/Human_migration
+northern california - http://dbpedia.org/resource/Northern_California
 handbill - http://dbpedia.org/resource/Wanted_poster
+california - http://dbpedia.org/resource/History_of_California
+coast - http://dbpedia.org/resource/West_Coast_of_the_United_States
+cigar - http://dbpedia.org/resource/Cigar
+american river - http://dbpedia.org/resource/American_River
+newspaper publisher - http://dbpedia.org/resource/Publishing
+san francisco - http://dbpedia.org/resource/History_of_San_Francisco
+coloma - http://dbpedia.org/resource/Coloma_High_School
+mass hysteria - http://dbpedia.org/resource/Mass_psychogenic_illness
+prospectors - http://dbpedia.org/resource/Prospecting
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+49ers - http://dbpedia.org/resource/San_Francisco_49ers
+immigration - http://dbpedia.org/resource/Immigration
+squatters - http://dbpedia.org/resource/Squatting
 city - http://dbpedia.org/resource/City
+newspaper - http://dbpedia.org/resource/Newspaper
+chinese immigrants - http://dbpedia.org/resource/History_of_Chinese_Americans
+boom - http://dbpedia.org/resource/Boomtown
 samuel brannan - http://dbpedia.org/resource/Samuel_Brannan
+ammon - http://dbpedia.org/resource/Ammon
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
-immigrant - http://dbpedia.org/resource/Immigration
-american history - http://dbpedia.org/resource/History_of_the_United_States
-utopian ideal - http://dbpedia.org/resource/Utopia
-squatter - http://dbpedia.org/resource/Squatting
 sutter - http://dbpedia.org/resource/John_Sutter
 merchant - http://dbpedia.org/resource/Merchant
-boom town - http://dbpedia.org/resource/Boomtown
-san francisco - http://dbpedia.org/resource/History_of_San_Francisco
-fair wage - http://dbpedia.org/resource/Living_wage
-miner - http://dbpedia.org/resource/Miner
+gold - http://dbpedia.org/resource/Gold
+wave - http://dbpedia.org/resource/Wind_wave
+american history - http://dbpedia.org/resource/History_of_the_United_States
+ghost town - http://dbpedia.org/resource/Ghost_town
+shopkeeper - http://dbpedia.org/resource/Shopkeeper
+nfl - http://dbpedia.org/resource/National_Football_League
+crime - http://dbpedia.org/resource/Crime
+agriculturist - http://dbpedia.org/resource/Agriculture
+gold nugget - http://dbpedia.org/resource/Gold_nugget
+york herald - http://dbpedia.org/resource/York_Herald
+vigilantes - http://dbpedia.org/resource/Vigilantism
+john sutter - http://dbpedia.org/resource/John_Sutter
+utopian ideal - http://dbpedia.org/resource/Utopia
+ivan - http://dbpedia.org/resource/Ivan_the_Terrible

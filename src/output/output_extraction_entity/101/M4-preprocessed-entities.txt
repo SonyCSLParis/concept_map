@@ -2,7 +2,7 @@ manhattan - http://dbpedia.org/resource/Manhattan
 york - http://dbpedia.org/resource/York
 city - http://dbpedia.org/resource/City
 bear - http://dbpedia.org/resource/Bear
-september 11 attack - http://dbpedia.org/resource/September_11_attacks
+september 11 attacks - http://dbpedia.org/resource/September_11_attacks
 larry silverstein - http://dbpedia.org/resource/Larry_Silverstein
 ground lease - http://dbpedia.org/resource/Lease
 port authority - http://dbpedia.org/resource/Port_authority
@@ -11,43 +11,36 @@ masonry - http://dbpedia.org/resource/Masonry
 trapezoidal - http://dbpedia.org/resource/Trapezoid
 consolidated edison - http://dbpedia.org/resource/Consolidated_Edison
 power substation - http://dbpedia.org/resource/Electrical_substation
-impose - http://dbpedia.org/resource/Impose_(magazine)
 structural design - http://dbpedia.org/resource/Structural_engineering
-constraint - http://dbpedia.org/resource/Theory_of_constraints
 silverstein - http://dbpedia.org/resource/Silverstein_Properties
-tenant - http://dbpedia.org/resource/Leasehold_estate
 salomon brothers - http://dbpedia.org/resource/Salomon_Brothers
-lease - http://dbpedia.org/resource/Lease
-tenant - http://dbpedia.org/resource/Leasehold_estate
+lease - http://dbpedia.org/resource/Leasehold_estate
 september 11 2001 - http://dbpedia.org/resource/September_11_attacks
 north tower - http://dbpedia.org/resource/One_World_Trade_Center
 fire suppression system - http://dbpedia.org/resource/Fire_suppression_system
 water pressure - http://dbpedia.org/resource/Pressure
-building collapse - http://dbpedia.org/resource/Structural_integrity_and_failure
 fema - http://dbpedia.org/resource/Federal_Emergency_Management_Agency
 nist - http://dbpedia.org/resource/National_Institute_of_Standards_and_Technology
 column - http://dbpedia.org/resource/Column
-buckle - http://dbpedia.org/resource/Buckling
-trigger - http://dbpedia.org/resource/Event-driven_programming
 structural failure - http://dbpedia.org/resource/Structural_integrity_and_failure
 penthouse - http://dbpedia.org/resource/Penthouse_apartment
-fire steel - http://dbpedia.org/resource/Fire_striker
+steel - http://dbpedia.org/resource/Steel
 skyscraper - http://dbpedia.org/resource/Skyscraper
 york - http://dbpedia.org/resource/York
 greenwich street - http://dbpedia.org/resource/Greenwich_Street
 beca - http://dbpedia.org/resource/Beca_(garment)
 battery park - http://dbpedia.org/resource/Battery_Park_City
+bounded - http://dbpedia.org/resource/Bounded_set
 greenwich - http://dbpedia.org/resource/Greenwich
-washington - http://dbpedia.org/resource/University_of_Washington
+washington - http://dbpedia.org/resource/George_Washington
 barclay - http://dbpedia.org/resource/Barclays
 small park - http://dbpedia.org/resource/Fort_Heath
 greenwich street - http://dbpedia.org/resource/Greenwich_Street
 space - http://dbpedia.org/resource/Outer_space
 safety - http://dbpedia.org/resource/Safety
-concrete - http://dbpedia.org/resource/Reinforced_concrete
+reinforced concrete - http://dbpedia.org/resource/Reinforced_concrete
 fireproofing - http://dbpedia.org/resource/Fireproofing
-steel - http://dbpedia.org/resource/Structural_steel
-column - http://dbpedia.org/resource/Column
+steel - http://dbpedia.org/resource/Steel
 green design - http://dbpedia.org/resource/Sustainable_design
 office building - http://dbpedia.org/resource/Office
 york - http://dbpedia.org/resource/York
@@ -55,7 +48,7 @@ city - http://dbpedia.org/resource/City
 energy - http://dbpedia.org/resource/Energy
 environmental design - http://dbpedia.org/resource/Environmental_design
 leed certification - http://dbpedia.org/resource/Leadership_in_Energy_and_Environmental_Design
-win gold - http://dbpedia.org/resource/Gold_(Australian_TV_channel)
+gold - http://dbpedia.org/resource/Gold
 pilot program - http://dbpedia.org/resource/Pilot_experiment
 energy - http://dbpedia.org/resource/Energy
 environmental design - http://dbpedia.org/resource/Environmental_design

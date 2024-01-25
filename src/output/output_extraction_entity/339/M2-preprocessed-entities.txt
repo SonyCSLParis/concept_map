@@ -5,7 +5,6 @@ virginia james - http://dbpedia.org/resource/Virginia_James
 madison - http://dbpedia.org/resource/Madison_(cycling)
 james madison - http://dbpedia.org/resource/James_Madison
 nelly conway madison - http://dbpedia.org/resource/James_Madison
-mount pleasant house - http://dbpedia.org/resource/Mount_Pleasant_House_(Los_Angeles,_California)
 montpelier - http://dbpedia.org/resource/Montpelier,_Vermont
 plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
@@ -24,11 +23,13 @@ education - http://dbpedia.org/resource/Education
 princeton - http://dbpedia.org/resource/Princeton_University
 winter - http://dbpedia.org/resource/Winter
 hebrew - http://dbpedia.org/resource/Hebrew_language
+ethics - http://dbpedia.org/resource/Ethics
 madison - http://dbpedia.org/resource/Madison_(cycling)
+health - http://dbpedia.org/resource/Public_health
 montpelier - http://dbpedia.org/resource/Montpelier,_Vermont
 law - http://dbpedia.org/resource/Law
 great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
-colony - http://dbpedia.org/resource/Colony_of_Virginia
+colonies - http://dbpedia.org/resource/Thirteen_Colonies
 madison - http://dbpedia.org/resource/Madison_(cycling)
 autobiographical sketch - http://dbpedia.org/resource/Autobiographical_sketch_(Haydn)
 madison - http://dbpedia.org/resource/Madison_(cycling)
@@ -40,6 +41,7 @@ virginia convention - http://dbpedia.org/resource/Virginia_Ratifying_Convention
 madison - http://dbpedia.org/resource/Madison_(cycling)
 militia - http://dbpedia.org/resource/Militia
 unsettled - http://dbpedia.org/resource/Unsettled
+health - http://dbpedia.org/resource/Public_health
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 election - http://dbpedia.org/resource/Election
@@ -57,7 +59,6 @@ virginia plan - http://dbpedia.org/resource/Virginia_Plan
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-essay - http://dbpedia.org/resource/Essay
 federalist - http://dbpedia.org/resource/Federalist
 madison - http://dbpedia.org/resource/Madison_(cycling)
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
@@ -78,7 +79,7 @@ defense - http://dbpedia.org/resource/Military
 virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
 electoral college - http://dbpedia.org/resource/United_States_Electoral_College
 election - http://dbpedia.org/resource/Election
-1800 election - http://dbpedia.org/resource/1800_United_States_presidential_election
+election - http://dbpedia.org/resource/Election
 electoral college - http://dbpedia.org/resource/United_States_Electoral_College
 thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 aaron burr - http://dbpedia.org/resource/Aaron_Burr
@@ -86,7 +87,6 @@ jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 madison - http://dbpedia.org/resource/Madison_(cycling)
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 madison - http://dbpedia.org/resource/Madison_(cycling)
-foreign affair - http://dbpedia.org/resource/Foreign_Affair_(Tina_Turner_album)
 madison - http://dbpedia.org/resource/Madison_(cycling)
 young nation - http://dbpedia.org/resource/Young_Nation
 barbary wars - http://dbpedia.org/resource/Barbary_Wars
@@ -95,12 +95,11 @@ louisiana purchase - http://dbpedia.org/resource/Louisiana_Purchase
 jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 madison - http://dbpedia.org/resource/Madison_(cycling)
 president - http://dbpedia.org/resource/President_of_the_United_States
-stem - http://dbpedia.org/resource/Stem_cell
 great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 madison - http://dbpedia.org/resource/Madison_(cycling)
 great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 madison - http://dbpedia.org/resource/Madison_(cycling)
-fault - http://dbpedia.org/resource/Glossary_of_tennis_terms
+fault - http://dbpedia.org/resource/South_African_law_of_delict
 spirit - http://dbpedia.org/resource/Soul
 madison - http://dbpedia.org/resource/Madison_(cycling)
 montpelier - http://dbpedia.org/resource/Montpelier,_Vermont
@@ -108,11 +107,10 @@ madison - http://dbpedia.org/resource/Madison_(cycling)
 virginia convention - http://dbpedia.org/resource/Virginia_Ratifying_Convention
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
-paper - http://dbpedia.org/resource/Academic_publishing
 1787 constitutional convention - http://dbpedia.org/resource/Constitutional_Convention_(United_States)
+journeyed - http://dbpedia.org/resource/JourneyEd
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 james madison - http://dbpedia.org/resource/James_Madison
-die - http://dbpedia.org/resource/Death
 montpelier - http://dbpedia.org/resource/Montpelier,_Vermont
 eulogy - http://dbpedia.org/resource/Eulogy
 governor - http://dbpedia.org/resource/Governor

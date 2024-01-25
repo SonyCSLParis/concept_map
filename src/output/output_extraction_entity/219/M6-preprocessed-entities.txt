@@ -5,7 +5,6 @@ nuclear science - http://dbpedia.org/resource/Nuclear_physics
 nuclear fission - http://dbpedia.org/resource/Nuclear_fission
 perfect combination - http://dbpedia.org/resource/Perfect_Combination
 technology - http://dbpedia.org/resource/Nuclear_technology
-scientist - http://dbpedia.org/resource/Scientist
 planet - http://dbpedia.org/resource/Earth
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
@@ -13,10 +12,11 @@ president - http://dbpedia.org/resource/President_of_the_United_States
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-nuclear chain reaction - http://dbpedia.org/resource/Nuclear_chain_reaction
+nuclear - http://dbpedia.org/resource/Nuclear_weapon
+chain - http://dbpedia.org/resource/Polymer
 mass - http://dbpedia.org/resource/Mass
 uranium - http://dbpedia.org/resource/Uranium-235
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 germany - http://dbpedia.org/resource/Nazi_Germany
 nuclear bomb - http://dbpedia.org/resource/Nuclear_weapon
 rock - http://dbpedia.org/resource/Rock_music
@@ -26,19 +26,19 @@ manhattan project - http://dbpedia.org/resource/Manhattan_Project
 security clearance - http://dbpedia.org/resource/Security_clearance
 u.s. army - http://dbpedia.org/resource/United_States_Army
 intelligence - http://dbpedia.org/resource/Espionage
-scientist - http://dbpedia.org/resource/Scientist
+top secret - http://dbpedia.org/resource/Classified_information
 ridge - http://dbpedia.org/resource/Ridge
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
+top secret - http://dbpedia.org/resource/Classified_information
 germany - http://dbpedia.org/resource/Nazi_Germany
 nuclear technology - http://dbpedia.org/resource/Nuclear_technology
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 safety - http://dbpedia.org/resource/Nuclear_safety_and_security
 safety - http://dbpedia.org/resource/Nuclear_safety_and_security
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-radiation detector - http://dbpedia.org/resource/Particle_detector
-radiation lab - http://dbpedia.org/resource/MIT_Radiation_Laboratory
+radiation - http://dbpedia.org/resource/Radioactive_decay
+radiation - http://dbpedia.org/resource/Radioactive_decay
 nose - http://dbpedia.org/resource/Warhead
-swab - http://dbpedia.org/resource/Cotton_swab
 inhalation - http://dbpedia.org/resource/Inhalation
 plutonium - http://dbpedia.org/resource/Plutonium
 dust - http://dbpedia.org/resource/Dust
@@ -54,41 +54,33 @@ city - http://dbpedia.org/resource/City
 japanese army - http://dbpedia.org/resource/Imperial_Japanese_Army
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 radioactive - http://dbpedia.org/resource/Radioactive_contamination
-radiation - http://dbpedia.org/resource/Radioactive_decay
 fat - http://dbpedia.org/resource/Obesity
 fat - http://dbpedia.org/resource/Obesity
 fat - http://dbpedia.org/resource/Obesity
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 plutonium - http://dbpedia.org/resource/Plutonium
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-detonate - http://dbpedia.org/resource/Detonation
 nagasaki - http://dbpedia.org/resource/Fat_Man
 city - http://dbpedia.org/resource/City
 industrial - http://dbpedia.org/resource/Industry
 industrial - http://dbpedia.org/resource/Industry
-datum - http://dbpedia.org/resource/Data
-die - http://dbpedia.org/resource/Death
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 plant - http://dbpedia.org/resource/Chemical_plant
-plant - http://dbpedia.org/resource/Chemical_plant
-fissionable material - http://dbpedia.org/resource/Nuclear_fission
-weapon - http://dbpedia.org/resource/Nuclear_weapon
+fissionable - http://dbpedia.org/resource/Nuclear_fission
 security - http://dbpedia.org/resource/Security
 lie detector test - http://dbpedia.org/resource/Polygraph
 intelligence corps - http://dbpedia.org/resource/Israeli_Intelligence_Corps
 security - http://dbpedia.org/resource/Security
 lie detection - http://dbpedia.org/resource/Lie_detection
-screening test - http://dbpedia.org/resource/Presumptive_and_confirmatory_tests
+screening - http://dbpedia.org/resource/High-throughput_screening
 ridge - http://dbpedia.org/resource/Ridge
-coffin - http://dbpedia.org/resource/Coffin
-mole - http://dbpedia.org/resource/Melanocytic_nevus
+moles - http://dbpedia.org/resource/Melanocytic_nevus
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 article - http://dbpedia.org/resource/Falklands_War
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+atoms - http://dbpedia.org/resource/Atom
 magazine - http://dbpedia.org/resource/Magazine
-pen - http://dbpedia.org/resource/Pen
-mole - http://dbpedia.org/resource/Melanocytic_nevus
+moles - http://dbpedia.org/resource/Melanocytic_nevus
 prison - http://dbpedia.org/resource/Prison
 substitute - http://dbpedia.org/resource/Substitute_good
 substitute - http://dbpedia.org/resource/Substitute_good
@@ -99,11 +91,11 @@ otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
 john cockroft - http://dbpedia.org/resource/John_Cockcroft
 britain - http://dbpedia.org/resource/United_Kingdom
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 britain - http://dbpedia.org/resource/United_Kingdom
 memorandum - http://dbpedia.org/resource/Memorandum
 britain - http://dbpedia.org/resource/United_Kingdom
-early britain - http://dbpedia.org/resource/History_of_the_British_Isles
+britain - http://dbpedia.org/resource/United_Kingdom
 britain - http://dbpedia.org/resource/United_Kingdom
 british government - http://dbpedia.org/resource/Government_of_the_United_Kingdom
 nuclear - http://dbpedia.org/resource/Nuclear_weapon
@@ -119,18 +111,16 @@ committee - http://dbpedia.org/resource/Committee
 einstein - http://dbpedia.org/resource/Albert_Einstein
 president - http://dbpedia.org/resource/President_of_the_United_States
 einstein - http://dbpedia.org/resource/Albert_Einstein
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 hanford - http://dbpedia.org/resource/Hanford_Site
 reactor - http://dbpedia.org/resource/Nuclear_reactor
-city - http://dbpedia.org/resource/City
 ridge - http://dbpedia.org/resource/Ridge
 tennessee - http://dbpedia.org/resource/Tennessee
 hanford - http://dbpedia.org/resource/Hanford_Site
 washington - http://dbpedia.org/resource/George_Washington
 alamogordo - http://dbpedia.org/resource/Alamogordo,_New_Mexico
 mexico - http://dbpedia.org/resource/Mexico
-bomb - http://dbpedia.org/resource/Nuclear_weapon
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 nagasaki - http://dbpedia.org/resource/Fat_Man
 encyclopedia.com - http://dbpedia.org/resource/Encyclopedia.com
@@ -139,7 +129,6 @@ thin man - http://dbpedia.org/resource/The_Thin_Man
 plutonium - http://dbpedia.org/resource/Plutonium
 gun - http://dbpedia.org/resource/Firearm
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-casing - http://dbpedia.org/resource/Cabinetry
 thin man - http://dbpedia.org/resource/The_Thin_Man
 plutonium - http://dbpedia.org/resource/Plutonium
 gun - http://dbpedia.org/resource/Firearm
@@ -158,18 +147,13 @@ fat - http://dbpedia.org/resource/Obesity
 nuclear science - http://dbpedia.org/resource/Nuclear_physics
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 plutonium - http://dbpedia.org/resource/Plutonium
-tickle - http://dbpedia.org/resource/Tickling
 louis slotin - http://dbpedia.org/resource/Louis_Slotin
 los alamos - http://dbpedia.org/resource/Project_Y
-tickle - http://dbpedia.org/resource/Tickling
 experiment - http://dbpedia.org/resource/Experiment
 los alamos - http://dbpedia.org/resource/Project_Y
-scientist - http://dbpedia.org/resource/Scientist
 harry daghlian - http://dbpedia.org/resource/Harry_Daghlian
 louis slotin - http://dbpedia.org/resource/Louis_Slotin
-die - http://dbpedia.org/resource/Death
 acute radiation poisoning - http://dbpedia.org/resource/Acute_radiation_syndrome
-die - http://dbpedia.org/resource/Death
 atomic test - http://dbpedia.org/resource/Nuclear_weapons_testing
 trinity site - http://dbpedia.org/resource/McDonald_Ranch_House
 obelisk - http://dbpedia.org/resource/Obelisk
@@ -180,7 +164,6 @@ code - http://dbpedia.org/resource/Source_code
 trinity - http://dbpedia.org/resource/Trinity
 scientist - http://dbpedia.org/resource/Scientist
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
 poetry - http://dbpedia.org/resource/Poetry
 john donne - http://dbpedia.org/resource/John_Donne
 jornada del muerto - http://dbpedia.org/resource/Jornada_del_Muerto

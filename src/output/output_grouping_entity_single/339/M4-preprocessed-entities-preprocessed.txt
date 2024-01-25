@@ -1,217 +1,204 @@
-seditious libel - http://dbpedia.org/resource/Seditious_libel
-john adams - http://dbpedia.org/resource/John_Adams
-misguided - http://dbpedia.org/resource/Misguided
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-deportation - http://dbpedia.org/resource/Deportation
-alien - http://dbpedia.org/resource/Extraterrestrial_life
+federalist - http://dbpedia.org/resource/Federalist
 philadelphia - http://dbpedia.org/resource/Philadelphia
-ron - http://dbpedia.org/resource/Ron_Swanson
+hypocrite - http://dbpedia.org/resource/Hypocrisy
+virginia - http://dbpedia.org/resource/Virginia
+ethnic germans - http://dbpedia.org/resource/Germans
+muslim - http://dbpedia.org/resource/Muslims
+bleeding - http://dbpedia.org/resource/Bloodletting
+democratic republican party - http://dbpedia.org/resource/Democratic-Republican_Party
+30 days - http://dbpedia.org/resource/30_Days_(TV_series)
+enemy aliens - http://dbpedia.org/resource/Enemy_alien
+truman - http://dbpedia.org/resource/Harry_S._Truman
+indicted - http://dbpedia.org/resource/Indictment
+immigrants - http://dbpedia.org/resource/Immigration
+pacific coast - http://dbpedia.org/resource/West_Coast_of_the_United_States
 ellis island - http://dbpedia.org/resource/Ellis_Island
-monarchical - http://dbpedia.org/resource/Monarchy
-james madison - http://dbpedia.org/resource/James_Madison
-die - http://dbpedia.org/resource/Death
-coercion - http://dbpedia.org/resource/Coercion
-wild bill - http://dbpedia.org/resource/Wild_Bill_Hickok
-convict - http://dbpedia.org/resource/Conviction
-liberty pole - http://dbpedia.org/resource/Liberty_pole
-benjamin franklin bache - http://dbpedia.org/resource/Benjamin_Franklin_Bache
-aurora - http://dbpedia.org/resource/Aurora
-land tax - http://dbpedia.org/resource/Land_value_tax
-benjamin - http://dbpedia.org/resource/Styrax_benzoin
-madison - http://dbpedia.org/resource/Madison_(cycling)
-pressure - http://dbpedia.org/resource/Blood_pressure
-public safety - http://dbpedia.org/resource/Committee_of_Public_Safety
-democratic republican - http://dbpedia.org/resource/Democratic_republic
+[44 - http://dbpedia.org/resource/Soviet–Afghan_War
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
+benjamin fairbanks - http://dbpedia.org/resource/Benjamin_Fairbanks
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
+attorney general - http://dbpedia.org/resource/United_States_Attorney_General
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+massachusetts - http://dbpedia.org/resource/Province_of_Massachusetts_Bay
+historian - http://dbpedia.org/resource/Historian
+civil war - http://dbpedia.org/resource/American_Civil_War
+writ - http://dbpedia.org/resource/Writ
+administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+threshold - http://dbpedia.org/resource/Election_threshold
+donald trump - http://dbpedia.org/resource/Donald_Trump
 americas - http://dbpedia.org/resource/Slavery_in_the_United_States
-naturalization - http://dbpedia.org/resource/Citizenship_of_the_United_States
-printer - http://dbpedia.org/resource/Printing_press
-president - http://dbpedia.org/resource/President_of_the_United_States
-fruit - http://dbpedia.org/resource/Forbidden_fruit
-federalists - http://dbpedia.org/resource/Federalist_Party
-andover - http://dbpedia.org/resource/Phillips_Academy
-democratic republicans - http://dbpedia.org/resource/Democratic-Republican_Party
-newark - http://dbpedia.org/resource/Newark_Liberty_International_Airport
-statute - http://dbpedia.org/resource/Statute
-interposition - http://dbpedia.org/resource/Interposition
-pearl harbor - http://dbpedia.org/resource/Pearl_Harbor
-presidential election - http://dbpedia.org/resource/2016_United_States_presidential_election
+incumbent - http://dbpedia.org/resource/Incumbent
+barack obama - http://dbpedia.org/resource/Presidency_of_Barack_Obama
+presidential proclamation - http://dbpedia.org/resource/Antiquities_Act
+goods - http://dbpedia.org/resource/Personal_property
+revolution - http://dbpedia.org/resource/French_Revolution
+tories - http://dbpedia.org/resource/Tory
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+anthony haswell - http://dbpedia.org/resource/Anthony_Haswell_(printer)
+hemisphere - http://dbpedia.org/resource/Western_Hemisphere
+habeas corpus - http://dbpedia.org/resource/Habeas_corpus
+latin american - http://dbpedia.org/resource/Latin_America
+aristocracy - http://dbpedia.org/resource/Aristocracy
+ins - http://dbpedia.org/resource/Immigration_and_Naturalization_Service
+aurora - http://dbpedia.org/resource/Aurora
+lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+north dakota - http://dbpedia.org/resource/North_Dakota
+internee - http://dbpedia.org/resource/Internment
 japanese ancestry - http://dbpedia.org/resource/Japanese_Americans
-50 u.s.c. - http://dbpedia.org/resource/Title_50_of_the_United_States_Code
-mexico city - http://dbpedia.org/resource/Mexico_City
-immigrant - http://dbpedia.org/resource/Immigration
-secession - http://dbpedia.org/resource/Secession_in_the_United_States
-samuel chase - http://dbpedia.org/resource/Samuel_Chase
-judge - http://dbpedia.org/resource/Judge
-germany - http://dbpedia.org/resource/Nazi_Germany
-peaceful protest - http://dbpedia.org/resource/Nonviolent_resistance
-pomp - http://dbpedia.org/resource/POMP
-justification - http://dbpedia.org/resource/Defamation
-naturalize - http://dbpedia.org/resource/Naturalization
-presidential - http://dbpedia.org/resource/President_of_the_United_States
-general order - http://dbpedia.org/resource/General_order
-security - http://dbpedia.org/resource/National_security
-marbury - http://dbpedia.org/resource/Marbury_v._Madison
-deport - http://dbpedia.org/resource/Deportation
+naturalization - http://dbpedia.org/resource/Citizenship_of_the_United_States
+john adams - http://dbpedia.org/resource/John_Adams
+freedom - http://dbpedia.org/resource/Freedom_of_the_press
+coercion - http://dbpedia.org/resource/Coercion
+dumas malone - http://dbpedia.org/resource/Dumas_Malone
+lyon - http://dbpedia.org/resource/Lyon
+malignant - http://dbpedia.org/resource/Cancer
+seeking refuge - http://dbpedia.org/resource/Seeking_Refuge
+relief - http://dbpedia.org/resource/Legal_remedy
 great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
-law - http://dbpedia.org/resource/Common_law
-albert gallatin - http://dbpedia.org/resource/Albert_Gallatin
-truth - http://dbpedia.org/resource/Truth
+latin america - http://dbpedia.org/resource/Latin_America
+radical - http://dbpedia.org/resource/Political_radicalism
+benjamin franklin bache - http://dbpedia.org/resource/Benjamin_Franklin_Bache
+james garfield - http://dbpedia.org/resource/James_A._Garfield
+tax - http://dbpedia.org/resource/Income_tax
 secede - http://dbpedia.org/resource/Secession_in_the_United_States
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+recodified - http://dbpedia.org/resource/Codification_(law)
+james thomson callender - http://dbpedia.org/resource/James_T._Callender
+newark - http://dbpedia.org/resource/Newark_Liberty_International_Airport
+general authority - http://dbpedia.org/resource/General_authority
+usc - http://dbpedia.org/resource/University_of_Southern_California
+enemy territory - http://dbpedia.org/resource/Enemy_Territory_(film)
+safety - http://dbpedia.org/resource/Occupational_safety_and_health
+1800 election - http://dbpedia.org/resource/1800_United_States_presidential_election
+south america - http://dbpedia.org/resource/South_America
+anarchy - http://dbpedia.org/resource/Anarchism
+codified - http://dbpedia.org/resource/Code_of_law
+samuel chase - http://dbpedia.org/resource/Samuel_Chase
+isis - http://dbpedia.org/resource/Isis
+immigrant - http://dbpedia.org/resource/Immigration
+thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+law - http://dbpedia.org/resource/Common_law
+james madison - http://dbpedia.org/resource/James_Madison
+[45 - http://dbpedia.org/resource/Soviet–Afghan_War
+50 u.s.c. - http://dbpedia.org/resource/Title_50_of_the_United_States_Code
+monarchical - http://dbpedia.org/resource/Monarchy
+american citizenship - http://dbpedia.org/resource/Citizenship_of_the_United_States
+amendment - http://dbpedia.org/resource/Law
+internment - http://dbpedia.org/resource/Internment_of_Japanese_Americans
+benjamin - http://dbpedia.org/resource/Styrax_benzoin
+haswell - http://dbpedia.org/resource/Russell_Haswell
+pearl harbor - http://dbpedia.org/resource/Pearl_Harbor
+detainment - http://dbpedia.org/resource/Detention_(imprisonment)
+trump - http://dbpedia.org/resource/Glossary_of_contract_bridge_terms
+blood - http://dbpedia.org/resource/Blood_donation
+treason - http://dbpedia.org/resource/Treason
+welfare - http://dbpedia.org/resource/Welfare
+deport - http://dbpedia.org/resource/Deportation
+adams - http://dbpedia.org/resource/John_Adams
+nullification - http://dbpedia.org/resource/Nullification_Crisis
+reagan administration - http://dbpedia.org/resource/Ronald_Reagan
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+prison - http://dbpedia.org/resource/Imprisonment
+defense - http://dbpedia.org/resource/National_security
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+congressman - http://dbpedia.org/resource/United_States_Congress
+forcibly relocated - http://dbpedia.org/resource/Indian_removal
+albert gallatin - http://dbpedia.org/resource/Albert_Gallatin
+interposition - http://dbpedia.org/resource/Interposition
+liberty pole - http://dbpedia.org/resource/Liberty_pole
+deportation - http://dbpedia.org/resource/Deportation
+garry wills - http://dbpedia.org/resource/Garry_Wills
+democratic republican - http://dbpedia.org/resource/Democratic_republic
+scourge - http://dbpedia.org/resource/Scourge
+kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+presidential elections - http://dbpedia.org/resource/United_States_presidential_election
+vermont - http://dbpedia.org/resource/Vermont
+sedition - http://dbpedia.org/resource/Sedition
+vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
+[39 - http://dbpedia.org/resource/Swami_Vivekananda
+republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
+nepotism - http://dbpedia.org/resource/Nepotism
+jeffersonian - http://dbpedia.org/resource/Democratic-Republican_Party
+truth - http://dbpedia.org/resource/Truth
+newspaper - http://dbpedia.org/resource/News_media
+japanese americans - http://dbpedia.org/resource/Internment_of_Japanese_Americans
+richmond examiner - http://dbpedia.org/resource/Richmond_Examiner
+george washington - http://dbpedia.org/resource/George_Washington
 william paterson - http://dbpedia.org/resource/William_Paterson_University
+repatriation - http://dbpedia.org/resource/Repatriation
+dedham - http://dbpedia.org/resource/Dedham_station
+public safety - http://dbpedia.org/resource/Committee_of_Public_Safety
+bail - http://dbpedia.org/resource/Bail
+magazine - http://dbpedia.org/resource/Magazine
+virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+essay - http://dbpedia.org/resource/Essay
+doctrine - http://dbpedia.org/resource/Doctrine
+adoption - http://dbpedia.org/resource/Adoption
+rebellion - http://dbpedia.org/resource/American_Revolution
+land tax - http://dbpedia.org/resource/Land_value_tax
+germany - http://dbpedia.org/resource/Nazi_Germany
+internment camp - http://dbpedia.org/resource/Internment_of_Japanese_Americans
 pedant - http://dbpedia.org/resource/Pedant
 supreme court - http://dbpedia.org/resource/Supreme_court
-newspaper - http://dbpedia.org/resource/News_media
-usc - http://dbpedia.org/resource/University_of_Southern_California
-germ - http://dbpedia.org/resource/Germ_theory_of_disease
-latin america - http://dbpedia.org/resource/Latin_America
-peace - http://dbpedia.org/resource/Peace
-[39 - http://dbpedia.org/resource/Swami_Vivekananda
-aliens - http://dbpedia.org/resource/Extraterrestrial_life
-legislature - http://dbpedia.org/resource/Kentucky_General_Assembly
-radical - http://dbpedia.org/resource/Political_radicalism
-general authority - http://dbpedia.org/resource/General_authority
-enemy territory - http://dbpedia.org/resource/Enemy_Territory_(film)
-tax - http://dbpedia.org/resource/Income_tax
-writ - http://dbpedia.org/resource/Writ
-rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
-narrative - http://dbpedia.org/resource/Narrative
-franklin delano roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-incumbent - http://dbpedia.org/resource/Incumbent
-james thomson callender - http://dbpedia.org/resource/James_T._Callender
-dumas malone - http://dbpedia.org/resource/Dumas_Malone
-welfare - http://dbpedia.org/resource/Welfare
-scourge - http://dbpedia.org/resource/Scourge
-anthony haswell - http://dbpedia.org/resource/Anthony_Haswell_(printer)
-pentagon - http://dbpedia.org/resource/Pentagon
-administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
-defense - http://dbpedia.org/resource/National_security
-[45 - http://dbpedia.org/resource/Soviet–Afghan_War
-enemy alien - http://dbpedia.org/resource/Enemy_alien
-richmond examiner - http://dbpedia.org/resource/Richmond_Examiner
-democratic republican party - http://dbpedia.org/resource/Democratic-Republican_Party
-luther - http://dbpedia.org/resource/Martin_Luther
-japanese americans - http://dbpedia.org/resource/Internment_of_Japanese_Americans
-pardon - http://dbpedia.org/resource/Pardon
-repatriation - http://dbpedia.org/resource/Repatriation
-safety - http://dbpedia.org/resource/Safety
-aristocracy - http://dbpedia.org/resource/Aristocracy
-revolution - http://dbpedia.org/resource/French_Revolution
-habeas corpus - http://dbpedia.org/resource/Habeas_corpus
-patrick henry - http://dbpedia.org/resource/Patrick_Henry
-trump - http://dbpedia.org/resource/Glossary_of_contract_bridge_terms
-amendment - http://dbpedia.org/resource/Law
-avarice - http://dbpedia.org/resource/Greed
-prepare - http://dbpedia.org/resource/PREPARE
-alien bills - http://dbpedia.org/resource/Alien_and_Sedition_Acts
-virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-yellow fever - http://dbpedia.org/resource/Yellow_fever
-court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
-malignant - http://dbpedia.org/resource/Cancer
-impeach - http://dbpedia.org/resource/Impeachment
-kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-relief - http://dbpedia.org/resource/Legal_remedy
-federalist - http://dbpedia.org/resource/Federalist
-rebellion - http://dbpedia.org/resource/American_Revolution
-single - http://dbpedia.org/resource/Extended_play
-american citizenship - http://dbpedia.org/resource/Citizenship_of_the_United_States
-prison - http://dbpedia.org/resource/Imprisonment
-pacific coast - http://dbpedia.org/resource/West_Coast_of_the_United_States
-south america - http://dbpedia.org/resource/South_America
-author - http://dbpedia.org/resource/Author
-indict - http://dbpedia.org/resource/Indictment
-petition - http://dbpedia.org/resource/Petition
-muslim - http://dbpedia.org/resource/Muslims
-roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-vice president - http://dbpedia.org/resource/Vice_President_of_the_United_States
-magazine - http://dbpedia.org/resource/Magazine
-james garfield - http://dbpedia.org/resource/James_A._Garfield
-impose - http://dbpedia.org/resource/Impose_(magazine)
-north south - http://dbpedia.org/resource/North_South_MRT_line
-internee - http://dbpedia.org/resource/Internment
-hemisphere - http://dbpedia.org/resource/Western_Hemisphere
-vermont - http://dbpedia.org/resource/Vermont
-federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-immigration - http://dbpedia.org/resource/Immigration
-[44 - http://dbpedia.org/resource/Soviet–Afghan_War
-reagan administration - http://dbpedia.org/resource/Ronald_Reagan
-civil war - http://dbpedia.org/resource/American_Civil_War
-jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+presidential - http://dbpedia.org/resource/President_of_the_United_States
+impeached - http://dbpedia.org/resource/Impeachment
 terrorist - http://dbpedia.org/resource/Terrorism
-virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-virginia - http://dbpedia.org/resource/Virginia
-election - http://dbpedia.org/resource/Election
-lyon - http://dbpedia.org/resource/Lyon
-intern - http://dbpedia.org/resource/Internment_of_Japanese_Americans
-jurisdiction - http://dbpedia.org/resource/Jurisdiction
-anarchy - http://dbpedia.org/resource/Anarchism
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-garry wills - http://dbpedia.org/resource/Garry_Wills
-alien enemy - http://dbpedia.org/resource/Enemy_alien
-book people - http://dbpedia.org/resource/Book_People
-matthew lyon - http://dbpedia.org/resource/Matthew_Lyon
-federalist party - http://dbpedia.org/resource/Federalist_Party
-haswell - http://dbpedia.org/resource/Russell_Haswell
-bail - http://dbpedia.org/resource/Bail
-latin american - http://dbpedia.org/resource/Latin_America
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
-1800 election - http://dbpedia.org/resource/1800_United_States_presidential_election
-blood - http://dbpedia.org/resource/Blood_donation
-detainment - http://dbpedia.org/resource/Detention_(imprisonment)
-[46 - http://dbpedia.org/resource/Soviet–Afghan_War
-subtitle - http://dbpedia.org/resource/Subtitle
-north dakota - http://dbpedia.org/resource/North_Dakota
-truman - http://dbpedia.org/resource/Harry_S._Truman
-executive order 9066 - http://dbpedia.org/resource/Executive_Order_9066
-thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-religion - http://dbpedia.org/resource/Freedom_of_religion
-disunion - http://dbpedia.org/resource/Secession_in_the_United_States
-sedition - http://dbpedia.org/resource/Sedition
-adams - http://dbpedia.org/resource/John_Adams
-whiskey - http://dbpedia.org/resource/Whiskey_Rebellion
-historian - http://dbpedia.org/resource/Historian
-congressman - http://dbpedia.org/resource/United_States_Congress
-presidential proclamation - http://dbpedia.org/resource/Antiquities_Act
-massachusetts - http://dbpedia.org/resource/Province_of_Massachusetts_Bay
-spur - http://dbpedia.org/resource/Branch_line
-york - http://dbpedia.org/resource/House_of_York
-kentucky - http://dbpedia.org/resource/Kentucky
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
-unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
-hypocrite - http://dbpedia.org/resource/Hypocrisy
-senator - http://dbpedia.org/resource/United_States_Senate
-ethnic germans - http://dbpedia.org/resource/Germans
-attorney general - http://dbpedia.org/resource/United_States_Attorney_General
-ins - http://dbpedia.org/resource/Immigration_and_Naturalization_Service
-peace treaty - http://dbpedia.org/resource/Treaty_of_Versailles
-nepotism - http://dbpedia.org/resource/Nepotism
-essay - http://dbpedia.org/resource/Essay
-blind - http://dbpedia.org/resource/Visual_impairment
-benjamin fairbanks - http://dbpedia.org/resource/Benjamin_Fairbanks
-nullification - http://dbpedia.org/resource/Nullification_Crisis
-warrant - http://dbpedia.org/resource/Arrest_warrant
-jeffersonian - http://dbpedia.org/resource/Democratic-Republican_Party
-barack obama - http://dbpedia.org/resource/Presidency_of_Barack_Obama
-threshold - http://dbpedia.org/resource/Election_threshold
-republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
-[32 - http://dbpedia.org/resource/Attempted_assassination_of_Ronald_Reagan
-republic - http://dbpedia.org/resource/Republic
-internment camp - http://dbpedia.org/resource/Internment_of_Japanese_Americans
-french revolution - http://dbpedia.org/resource/French_Revolution
-oppressor - http://dbpedia.org/resource/Oppressor
-george washington - http://dbpedia.org/resource/George_Washington
-doctrine - http://dbpedia.org/resource/Doctrine
-tories - http://dbpedia.org/resource/Tory
-treason - http://dbpedia.org/resource/Treason
-internment - http://dbpedia.org/resource/Internment_of_Japanese_Americans
-dedham - http://dbpedia.org/resource/Dedham_station
-donald trump - http://dbpedia.org/resource/Donald_Trump
-civil disobedience - http://dbpedia.org/resource/Civil_disobedience
-isis - http://dbpedia.org/resource/Isis
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-freedom - http://dbpedia.org/resource/Freedom_of_the_press
-baldwin - http://dbpedia.org/resource/Stanley_Baldwin
-doj - http://dbpedia.org/resource/United_States_Department_of_Justice
-david - http://dbpedia.org/resource/David
 judicial review - http://dbpedia.org/resource/Judicial_review
-adoption - http://dbpedia.org/resource/Adoption
-lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+disunion - http://dbpedia.org/resource/Secession_in_the_United_States
+[46 - http://dbpedia.org/resource/Soviet–Afghan_War
+secession - http://dbpedia.org/resource/Secession_in_the_United_States
+endangered - http://dbpedia.org/resource/Endangered_Species_Act_of_1973
+alien bills - http://dbpedia.org/resource/Alien_and_Sedition_Acts
+peace treaty - http://dbpedia.org/resource/Treaty_of_Versailles
+pressure - http://dbpedia.org/resource/Blood_pressure
+naturalized - http://dbpedia.org/resource/Citizenship_of_the_United_States
+religion - http://dbpedia.org/resource/Freedom_of_religion
+kentucky - http://dbpedia.org/resource/Kentucky
+pentagon - http://dbpedia.org/resource/Pentagon
+judge - http://dbpedia.org/resource/Judge
+president - http://dbpedia.org/resource/President_of_the_United_States
+french revolution - http://dbpedia.org/resource/French_Revolution
+pomp - http://dbpedia.org/resource/POMP
+seditious libel - http://dbpedia.org/resource/Seditious_libel
+[32 - http://dbpedia.org/resource/Attempted_assassination_of_Ronald_Reagan
+germ - http://dbpedia.org/resource/Germ_theory_of_disease
+luther - http://dbpedia.org/resource/Martin_Luther
+baldwin - http://dbpedia.org/resource/Stanley_Baldwin
+patrick henry - http://dbpedia.org/resource/Patrick_Henry
+marbury - http://dbpedia.org/resource/Marbury_v._Madison
+avarice - http://dbpedia.org/resource/Greed
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+david - http://dbpedia.org/resource/David
+court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+immigration - http://dbpedia.org/resource/Immigration
+franklin delano roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+ron - http://dbpedia.org/resource/Ron_Swanson
+senator - http://dbpedia.org/resource/United_States_Senate
+federalists - http://dbpedia.org/resource/Federalist_Party
+andover - http://dbpedia.org/resource/Phillips_Academy
+york - http://dbpedia.org/resource/House_of_York
+blind - http://dbpedia.org/resource/Visual_impairment
+yellow fever - http://dbpedia.org/resource/Yellow_fever
+interned - http://dbpedia.org/resource/Internment_of_Japanese_Americans
+peace - http://dbpedia.org/resource/Peace
+mexico city - http://dbpedia.org/resource/Mexico_City
+democratic republicans - http://dbpedia.org/resource/Democratic-Republican_Party
+making false statements - http://dbpedia.org/resource/Making_false_statements
+executive order 9066 - http://dbpedia.org/resource/Executive_Order_9066
+oppressor - http://dbpedia.org/resource/Oppressor
+madison - http://dbpedia.org/resource/Madison_(cycling)
+unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
+misguided - http://dbpedia.org/resource/Misguided
+doj - http://dbpedia.org/resource/United_States_Department_of_Justice
+whiskey - http://dbpedia.org/resource/Whiskey_Rebellion
+wild bill - http://dbpedia.org/resource/Wild_Bill_Hickok
+justification - http://dbpedia.org/resource/Defamation
+security - http://dbpedia.org/resource/National_security
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+narrative - http://dbpedia.org/resource/Narrative
+federalist party - http://dbpedia.org/resource/Federalist_Party
+printer - http://dbpedia.org/resource/Printing_press
+civil disobedience - http://dbpedia.org/resource/Civil_disobedience
+matthew lyon - http://dbpedia.org/resource/Matthew_Lyon

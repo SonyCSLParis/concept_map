@@ -1,21 +1,19 @@
-architecture - http://dbpedia.org/resource/Architecture
-photography - http://dbpedia.org/resource/Photography
-celtic art - http://dbpedia.org/resource/Celtic_art
-north dublin - http://dbpedia.org/resource/Fingal
-artifact - http://dbpedia.org/resource/Cultural_artifact
-scotland - http://dbpedia.org/resource/Scotland
-calligraphy - http://dbpedia.org/resource/Calligraphy
-western calligraphy - http://dbpedia.org/resource/Calligraphy
-notebook - http://dbpedia.org/resource/Notebook
-ireland - http://dbpedia.org/resource/Republic_of_Ireland
-gospels - http://dbpedia.org/resource/Gospel
-decorative art - http://dbpedia.org/resource/Decorative_arts
-medieval europe - http://dbpedia.org/resource/Middle_Ages
-homage - http://dbpedia.org/resource/Commendation_ceremony
-thames - http://dbpedia.org/resource/River_Thames
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-spirituality - http://dbpedia.org/resource/Spirituality
 illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-national treasure - http://dbpedia.org/resource/National_treasure
+thames - http://dbpedia.org/resource/River_Thames
+ireland - http://dbpedia.org/resource/Republic_of_Ireland
+medieval europe - http://dbpedia.org/resource/Middle_Ages
 fashion - http://dbpedia.org/resource/Fashion
 latin - http://dbpedia.org/resource/Latin
+homage - http://dbpedia.org/resource/Commendation_ceremony
+kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospels - http://dbpedia.org/resource/Gospel
+architecture - http://dbpedia.org/resource/Architecture
+calligraphy - http://dbpedia.org/resource/Calligraphy
+scotland - http://dbpedia.org/resource/Scotland
+artifacts - http://dbpedia.org/resource/Cultural_artifact
+photography - http://dbpedia.org/resource/Photography
+western calligraphy - http://dbpedia.org/resource/Calligraphy
+celtic art - http://dbpedia.org/resource/Celtic_art
+national treasure - http://dbpedia.org/resource/National_treasure
+decorative arts - http://dbpedia.org/resource/Decorative_arts
+spirituality - http://dbpedia.org/resource/Spirituality

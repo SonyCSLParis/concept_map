@@ -2,7 +2,6 @@ illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 columba - http://dbpedia.org/resource/Columba
 illustrated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 celtic - http://dbpedia.org/resource/Celtic_languages
-monk - http://dbpedia.org/resource/Monk
 insular art - http://dbpedia.org/resource/Insular_art
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
@@ -16,10 +15,9 @@ st columcille - http://dbpedia.org/resource/Columba
 palaeographic - http://dbpedia.org/resource/Palaeography
 columba - http://dbpedia.org/resource/Columba
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-traction - http://dbpedia.org/resource/Traction_control_system
+traction - http://dbpedia.org/resource/Tram
 saint - http://dbpedia.org/resource/Saint
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-theory - http://dbpedia.org/resource/Theory
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 iona - http://dbpedia.org/resource/Iona
 kells - http://dbpedia.org/resource/Abbey_of_Kells
@@ -28,7 +26,6 @@ kells - http://dbpedia.org/resource/Abbey_of_Kells
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 scriptorium - http://dbpedia.org/resource/Scriptorium
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-north england - http://dbpedia.org/resource/Northern_England
 lindisfarne - http://dbpedia.org/resource/Lindisfarne
 iona - http://dbpedia.org/resource/Iona
 kells - http://dbpedia.org/resource/Abbey_of_Kells
@@ -40,35 +37,34 @@ kells - http://dbpedia.org/resource/Abbey_of_Kells
 theory - http://dbpedia.org/resource/Theory
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 columban - http://dbpedia.org/resource/Columba
-monk - http://dbpedia.org/resource/Monk
 iona - http://dbpedia.org/resource/Iona
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-scripture - http://dbpedia.org/resource/Bible
+gospels - http://dbpedia.org/resource/Gospel
+christian scriptures - http://dbpedia.org/resource/Bible
 purple - http://dbpedia.org/resource/Purple
 ink - http://dbpedia.org/resource/Ink
 insular majuscule - http://dbpedia.org/resource/Insular_script
-concordance - http://dbpedia.org/resource/Bible_concordance
-folio - http://dbpedia.org/resource/Bookbinding
-folio - http://dbpedia.org/resource/Bookbinding
+concordances - http://dbpedia.org/resource/Bible_concordance
+folios - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 ussher - http://dbpedia.org/resource/James_Ussher
-folio - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 extant - http://dbpedia.org/resource/Extant_literature
-folio - http://dbpedia.org/resource/Bookbinding
-folio - http://dbpedia.org/resource/Bookbinding
-folio - http://dbpedia.org/resource/Bookbinding
-folio - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
+quires - http://dbpedia.org/resource/Units_of_paper_quantity
+folios - http://dbpedia.org/resource/Bookbinding
+bifolios - http://dbpedia.org/resource/Book_folding
+folios - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 single - http://dbpedia.org/resource/Phonograph_record
 single - http://dbpedia.org/resource/Phonograph_record
-folio - http://dbpedia.org/resource/Bookbinding
-fold - http://dbpedia.org/resource/Protein_folding
+folios - http://dbpedia.org/resource/Bookbinding
 vellum - http://dbpedia.org/resource/Vellum
-folio - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 leather - http://dbpedia.org/resource/Bookbinding
 translucent - http://dbpedia.org/resource/Transparency_and_translucency
-dimension - http://dbpedia.org/resource/Dimension
 250 mm - http://dbpedia.org/resource/Ferrari_250
-folio - http://dbpedia.org/resource/Bookbinding
-crop - http://dbpedia.org/resource/Agriculture
+folios - http://dbpedia.org/resource/Bookbinding
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 scriptorium - http://dbpedia.org/resource/Scriptorium
 outline - http://dbpedia.org/resource/Nutrition
@@ -77,15 +73,19 @@ luke - http://dbpedia.org/resource/Luke_the_Evangelist
 john 17 - http://dbpedia.org/resource/John_17
 extant - http://dbpedia.org/resource/Extant_literature
 hebrew - http://dbpedia.org/resource/Hebrew_language
-canon table - http://dbpedia.org/resource/Eusebian_Canons
+gospels - http://dbpedia.org/resource/Gospel
+gospels - http://dbpedia.org/resource/Gospel
+eusebian canon tables - http://dbpedia.org/resource/Eusebian_Canons
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
 kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospels - http://dbpedia.org/resource/Gospel
 vulgate - http://dbpedia.org/resource/Vulgate
 vulgate - http://dbpedia.org/resource/Vulgate
 vulgate - http://dbpedia.org/resource/Vulgate
 latin - http://dbpedia.org/resource/Latin
-translation - http://dbpedia.org/resource/Wycliffe's_Bible
 jerome - http://dbpedia.org/resource/Jerome
-scribe - http://dbpedia.org/resource/Insular_script
+gospels - http://dbpedia.org/resource/Gospel
+scribes - http://dbpedia.org/resource/Scribe
 memory - http://dbpedia.org/resource/Memory
 folio - http://dbpedia.org/resource/Bookbinding
 insular majuscule - http://dbpedia.org/resource/Insular_script
@@ -97,20 +97,19 @@ manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 insular majuscule - http://dbpedia.org/resource/Insular_script
 minuscule - http://dbpedia.org/resource/Insular_script
 françoise henry - http://dbpedia.org/resource/Françoise_Henry
-scribe - http://dbpedia.org/resource/Insular_script
+scribes - http://dbpedia.org/resource/Scribe
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-folio - http://dbpedia.org/resource/Bookbinding
-folio - http://dbpedia.org/resource/Bookbinding
-folio - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 gall ink - http://dbpedia.org/resource/Iron_gall_ink
-folio - http://dbpedia.org/resource/Bookbinding
-folio - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
+folios - http://dbpedia.org/resource/Bookbinding
 minuscule - http://dbpedia.org/resource/Insular_script
 purple - http://dbpedia.org/resource/Purple
 ink - http://dbpedia.org/resource/Ink
 variable - http://dbpedia.org/resource/Dependent_and_independent_variables
-majority text - http://dbpedia.org/resource/Byzantine_text-type
 minuscule - http://dbpedia.org/resource/Insular_script
 gall ink - http://dbpedia.org/resource/Iron_gall_ink
 palette - http://dbpedia.org/resource/Color_theory
@@ -120,24 +119,23 @@ durrow - http://dbpedia.org/resource/Durrow_Abbey
 gold - http://dbpedia.org/resource/Gold
 silver leaf - http://dbpedia.org/resource/Metal_leaf
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-pigment - http://dbpedia.org/resource/Pigment
-import - http://dbpedia.org/resource/Import
+pigments - http://dbpedia.org/resource/Pigment
 illumination - http://dbpedia.org/resource/Illuminated_manuscript
 gospel book - http://dbpedia.org/resource/Gospel_Book
-illumination - http://dbpedia.org/resource/Illuminated_manuscript
+illuminations - http://dbpedia.org/resource/Illuminated_manuscript
 evangelist - http://dbpedia.org/resource/Four_Evangelists
-portrait - http://dbpedia.org/resource/Portrait
 evangelist - http://dbpedia.org/resource/Four_Evangelists
-symbol - http://dbpedia.org/resource/Symbol
 carpet - http://dbpedia.org/resource/Carpet
 virgin - http://dbpedia.org/resource/Virgin_birth_of_Jesus
-christ - http://dbpedia.org/resource/Jesus
-arrest jesus - http://dbpedia.org/resource/Arrest_of_Jesus
+christ enthroned - http://dbpedia.org/resource/Christ_in_Majesty
+miniatures - http://dbpedia.org/resource/Persian_miniature
 temptation - http://dbpedia.org/resource/Temptation_of_Christ
 christ - http://dbpedia.org/resource/Jesus
-canon table - http://dbpedia.org/resource/Eusebian_Canons
+gospels - http://dbpedia.org/resource/Gospel
+canon tables - http://dbpedia.org/resource/Eusebian_Canons
 extant - http://dbpedia.org/resource/Extant_literature
-folio manuscript - http://dbpedia.org/resource/Percy_Folio
+folios - http://dbpedia.org/resource/Bookbinding
+manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 glossary - http://dbpedia.org/resource/Glossary
 hebrew - http://dbpedia.org/resource/Hebrew_language
 column - http://dbpedia.org/resource/Column
@@ -146,8 +144,8 @@ recto - http://dbpedia.org/resource/Recto_and_verso
 column - http://dbpedia.org/resource/Column
 folio - http://dbpedia.org/resource/Bookbinding
 evangelist - http://dbpedia.org/resource/Four_Evangelists
-symbol - http://dbpedia.org/resource/Symbol
+abraded - http://dbpedia.org/resource/Abrasion_(mechanical)
 evangelist - http://dbpedia.org/resource/Four_Evangelists
-symbol - http://dbpedia.org/resource/Symbol
+runs - http://dbpedia.org/resource/Glossary_of_music_terminology
 doctrine - http://dbpedia.org/resource/Christian_theology
 gospels - http://dbpedia.org/resource/Gospel

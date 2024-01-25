@@ -1,57 +1,53 @@
-high road - http://dbpedia.org/resource/Take_the_High_Road
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-n17 - http://dbpedia.org/resource/N_postcode_area
-education - http://dbpedia.org/resource/Education
-sandford - http://dbpedia.org/resource/Sandford-on-Thames
-match day - http://dbpedia.org/resource/Match_Day_(video_game)
-rail - http://dbpedia.org/resource/Handrail
-acre - http://dbpedia.org/resource/Acre
-wedding - http://dbpedia.org/resource/Wedding
-stair lift - http://dbpedia.org/resource/Stairlift
-email - http://dbpedia.org/resource/Email
-bruce grove - http://dbpedia.org/resource/Bruce_Grove_railway_station
-announcer - http://dbpedia.org/resource/Disc_jockey
-tel - http://dbpedia.org/resource/.tel
-newspaper - http://dbpedia.org/resource/Newspaper
-haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
-street parking - http://dbpedia.org/resource/Parking
-kiosk - http://dbpedia.org/resource/Kiosk
-automatic - http://dbpedia.org/resource/Automaton
-bus - http://dbpedia.org/resource/Bus
-tottenham hotspur fc - http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
-toilet - http://dbpedia.org/resource/Public_toilet
-customer service - http://dbpedia.org/resource/Customer_service
-loan - http://dbpedia.org/resource/Loan
-accreditation - http://dbpedia.org/resource/Accreditation
-bequest - http://dbpedia.org/resource/Bequest
-car park - http://dbpedia.org/resource/Parking_lot
-map - http://dbpedia.org/resource/Map
-bruce grove station - http://dbpedia.org/resource/Bruce_Grove_railway_station
+escalators - http://dbpedia.org/resource/Escalator
 piccadilly - http://dbpedia.org/resource/Piccadilly_line
-journey planner - http://dbpedia.org/resource/Journey_planner
-local history - http://dbpedia.org/resource/Local_history
+tfl - http://dbpedia.org/resource/Transport_for_London
+bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+bruce grove - http://dbpedia.org/resource/Bruce_Grove_railway_station
+wood green station - http://dbpedia.org/resource/Wood_Green_tube_station
 castle museum - http://dbpedia.org/resource/Norwich_Castle
+toilet - http://dbpedia.org/resource/Public_toilet
+tottenham hotspur fc - http://dbpedia.org/resource/Tottenham_Hotspur_F.C.
+east arm - http://dbpedia.org/resource/East_Arm
+bus - http://dbpedia.org/resource/Bus
+charter - http://dbpedia.org/resource/Charter
+rail - http://dbpedia.org/resource/Handrail
+high road - http://dbpedia.org/resource/Take_the_High_Road
+automatic - http://dbpedia.org/resource/Automaton
+street parking - http://dbpedia.org/resource/Parking
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+map - http://dbpedia.org/resource/Map
+library - http://dbpedia.org/resource/Library
+haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+large print - http://dbpedia.org/resource/Large-print
+bruce grove station - http://dbpedia.org/resource/Bruce_Grove_railway_station
+announcer - http://dbpedia.org/resource/Disc_jockey
+space - http://dbpedia.org/resource/Outer_space
+accreditation - http://dbpedia.org/resource/Accreditation
+bruce castle park - http://dbpedia.org/resource/Bruce_Castle
+church - http://dbpedia.org/resource/Church_service
+journey planner - http://dbpedia.org/resource/Journey_planner
+london liverpool street - http://dbpedia.org/resource/Liverpool_Street_station
+newspaper - http://dbpedia.org/resource/Newspaper
+customer service - http://dbpedia.org/resource/Customer_service
+tower - http://dbpedia.org/resource/Tower
 heritage - http://dbpedia.org/resource/Heritage_railway
 station - http://dbpedia.org/resource/Metro_station
-charter - http://dbpedia.org/resource/Charter
-church - http://dbpedia.org/resource/Church_service
-escalator - http://dbpedia.org/resource/Escalator
-train - http://dbpedia.org/resource/Train_station
-object - http://dbpedia.org/resource/Object-oriented_programming
-tfl - http://dbpedia.org/resource/Transport_for_London
-bruce castle park - http://dbpedia.org/resource/Bruce_Castle
-tower - http://dbpedia.org/resource/Tower
-wood green station - http://dbpedia.org/resource/Wood_Green_tube_station
-east arm - http://dbpedia.org/resource/East_Arm
-london liverpool street - http://dbpedia.org/resource/Liverpool_Street_station
-bicycle - http://dbpedia.org/resource/Police_bicycle
-lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
-ona - http://dbpedia.org/resource/Original_net_animation
-roundway - http://dbpedia.org/resource/Roundway
-underground station - http://dbpedia.org/resource/Metro_station
-large print - http://dbpedia.org/resource/Large-print
-bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
-archive service - http://dbpedia.org/resource/Archive
+tudor - http://dbpedia.org/resource/Tudor_architecture
+education - http://dbpedia.org/resource/Education
+kiosk - http://dbpedia.org/resource/Kiosk
+sandford - http://dbpedia.org/resource/Sandford-on-Thames
+car park - http://dbpedia.org/resource/Parking_lot
+n17 - http://dbpedia.org/resource/N_postcode_area
+tel - http://dbpedia.org/resource/.tel
+email - http://dbpedia.org/resource/Email
 wheelchair - http://dbpedia.org/resource/Wheelchair
-space - http://dbpedia.org/resource/Outer_space
-library - http://dbpedia.org/resource/Library
+lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
+train - http://dbpedia.org/resource/Train_station
+listed building - http://dbpedia.org/resource/Listed_building
+local history - http://dbpedia.org/resource/Local_history
+archive service - http://dbpedia.org/resource/Archive
+roundway - http://dbpedia.org/resource/Roundway
+wedding - http://dbpedia.org/resource/Wedding
+ona - http://dbpedia.org/resource/Original_net_animation
+stair lift - http://dbpedia.org/resource/Stairlift
+stairs - http://dbpedia.org/resource/Stairs

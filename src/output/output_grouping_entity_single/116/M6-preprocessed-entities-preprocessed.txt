@@ -1,271 +1,256 @@
-deer - http://dbpedia.org/resource/Deer
-florentine - http://dbpedia.org/resource/Florence
-pardon - http://dbpedia.org/resource/Royal_prerogative_of_mercy
-tapestry - http://dbpedia.org/resource/Tapestry
-impost - http://dbpedia.org/resource/Tax
-king charles ii - http://dbpedia.org/resource/Charles_II_of_England
-warden - http://dbpedia.org/resource/Churchwarden
-great perfection - http://dbpedia.org/resource/Dzogchen
-xxvii - http://dbpedia.org/resource/Super_Bowl_XXVII
-mask - http://dbpedia.org/resource/Mask
-dover castle - http://dbpedia.org/resource/Dover_Castle
-plain - http://dbpedia.org/resource/Plain
-die - http://dbpedia.org/resource/Death
-avon - http://dbpedia.org/resource/Avon_Barksdale
-veryfine - http://dbpedia.org/resource/Veryfine
-bramshill park - http://dbpedia.org/resource/Bramshill_House
-holland house - http://dbpedia.org/resource/Holland_House
-town - http://dbpedia.org/resource/Market_town
-balustrade - http://dbpedia.org/resource/Baluster
-archi - http://dbpedia.org/resource/Archi_language
-portrait - http://dbpedia.org/resource/Portrait
-ont - http://dbpedia.org/resource/Ontario
-vitruvius britannicus - http://dbpedia.org/resource/Colen_Campbell
-derbyshire - http://dbpedia.org/resource/Derbyshire
-whetstone - http://dbpedia.org/resource/Sharpening_stone
-recreation - http://dbpedia.org/resource/Recreation
-good cheer - http://dbpedia.org/resource/Good_Cheer
-project wing - http://dbpedia.org/resource/X_(company)
-corinthian - http://dbpedia.org/resource/Corinthian_order
-canterbury - http://dbpedia.org/resource/Canterbury_Cathedral
-elevation - http://dbpedia.org/resource/Architectural_drawing
-xxxii - http://dbpedia.org/resource/Super_Bowl_XXXII
-cinque ports - http://dbpedia.org/resource/Cinque_Ports
-pendant - http://dbpedia.org/resource/Pendant
-angle - http://dbpedia.org/resource/Angle
-pediment - http://dbpedia.org/resource/Pediment
-capital - http://dbpedia.org/resource/Capital_punishment
-entablature - http://dbpedia.org/resource/Entablature
-xxxv - http://dbpedia.org/resource/Super_Bowl_XXXV
-beautiful view - http://dbpedia.org/resource/Beautiful_View
-pilaster - http://dbpedia.org/resource/Pilaster
-chaste - http://dbpedia.org/resource/Chastity
-eversley - http://dbpedia.org/resource/Eversley
-earl - http://dbpedia.org/resource/Earl
-parapet - http://dbpedia.org/resource/Parapet
-bate - http://dbpedia.org/resource/FC_BATE_Borisov
-xxxix - http://dbpedia.org/resource/Super_Bowl_XXXIX
-ance - http://dbpedia.org/resource/Ance,_Pyrénées-Atlantiques
-space - http://dbpedia.org/resource/Space
-marquess - http://dbpedia.org/resource/Marquess
-rural - http://dbpedia.org/resource/Rural_area
-elizabethan era - http://dbpedia.org/resource/Elizabethan_era
-sametime - http://dbpedia.org/resource/HCL_Sametime
-nobleman - http://dbpedia.org/resource/Nobility
-anecdote - http://dbpedia.org/resource/Anecdote
-xxxiv - http://dbpedia.org/resource/Super_Bowl_XXXIV
-ment - http://dbpedia.org/resource/M.E.N.T._B.C.
-swan - http://dbpedia.org/resource/Swan
-collar - http://dbpedia.org/resource/Livery_collar
-torrent - http://dbpedia.org/resource/Stream
-parallelogram - http://dbpedia.org/resource/Parallelogram
-armorial - http://dbpedia.org/resource/Coat_of_arms
-light - http://dbpedia.org/resource/Light
-engrave - http://dbpedia.org/resource/Engraving
-projection - http://dbpedia.org/resource/Mercator_projection
-duke - http://dbpedia.org/resource/Duke
-lordship - http://dbpedia.org/resource/Lord_of_the_manor
-ball - http://dbpedia.org/resource/Ball
-puritanical - http://dbpedia.org/resource/Puritans
-dado - http://dbpedia.org/resource/Dado_rail
-frieze - http://dbpedia.org/resource/Frieze
-inseparable - http://dbpedia.org/resource/Inseparable_(song)
-lessen - http://dbpedia.org/resource/Łasin
-drawing room - http://dbpedia.org/resource/Drawing_room
-san gallo - http://dbpedia.org/resource/St._Gallen
-sun - http://dbpedia.org/resource/Sunlight
-sculpture - http://dbpedia.org/resource/Gothic_art
-wath - http://dbpedia.org/resource/Wath_upon_Dearne
-long gallery - http://dbpedia.org/resource/Long_gallery
-xxxiii - http://dbpedia.org/resource/Super_Bowl_XXXIII
-hampshire - http://dbpedia.org/resource/Hampshire
-ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
-kensington - http://dbpedia.org/resource/Kensington
-remarkable - http://dbpedia.org/resource/ReMarkable
-pillar - http://dbpedia.org/resource/Column
-amplitude - http://dbpedia.org/resource/Sound
-flute - http://dbpedia.org/resource/Flute
-gable - http://dbpedia.org/resource/Gable
-archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
-doric - http://dbpedia.org/resource/Doric_order
-har - http://dbpedia.org/resource/Penn_FC
-stone - http://dbpedia.org/resource/Sandstone
-xxxvi - http://dbpedia.org/resource/Super_Bowl_XXXVI
-nicholas stone - http://dbpedia.org/resource/Nicholas_Stone
-armorial bearing - http://dbpedia.org/resource/Achievement_(heraldry)
-brick - http://dbpedia.org/resource/Brickwork
-corinthian order - http://dbpedia.org/resource/Corinthian_order
-oriel - http://dbpedia.org/resource/Oriel_window
-e34 - http://dbpedia.org/resource/International_E-road_network
-ornament - http://dbpedia.org/resource/Decorative_arts
-somersetshire - http://dbpedia.org/resource/Somerset
-dimension - http://dbpedia.org/resource/Dimension
-parish - http://dbpedia.org/resource/Parish
-lozenge - http://dbpedia.org/resource/Lozenge
-elizabethan period - http://dbpedia.org/resource/Elizabethan_era
-landscape - http://dbpedia.org/resource/Landscape
-ancient furniture - http://dbpedia.org/resource/Ancient_furniture
-porch - http://dbpedia.org/resource/Porch
-crest - http://dbpedia.org/resource/Coat_of_arms
-river lea - http://dbpedia.org/resource/River_Lea
-dif - http://dbpedia.org/resource/National_System_for_Integral_Family_Development
-charles ii - http://dbpedia.org/resource/Charles_II_of_England
-weather - http://dbpedia.org/resource/Weathering
-halnaker - http://dbpedia.org/resource/Halnaker
-emblazon - http://dbpedia.org/resource/Blazon
-montacute house - http://dbpedia.org/resource/Montacute_House
-terrace - http://dbpedia.org/resource/Terrace_garden
-object - http://dbpedia.org/resource/Astronomical_object
-george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
-wisdom - http://dbpedia.org/resource/Solomon
-great hall - http://dbpedia.org/resource/Great_hall
-fertility - http://dbpedia.org/resource/Fertility
-stockton - http://dbpedia.org/resource/Stockton-on-Tees
-arrow - http://dbpedia.org/resource/Arrow
-ionic - http://dbpedia.org/resource/Ionic_order
-hue - http://dbpedia.org/resource/Hue
-moulding - http://dbpedia.org/resource/Crown_molding
-hatfield house - http://dbpedia.org/resource/Hatfield_House
-hardwick - http://dbpedia.org/resource/Hardwick_Hall
-bay window - http://dbpedia.org/resource/Bay_window
-pierce - http://dbpedia.org/resource/Franklin_Pierce
-diana - http://dbpedia.org/resource/Diana_(album)
-water - http://dbpedia.org/resource/Water
-pomegranate - http://dbpedia.org/resource/Pomegranate
-corinthian style - http://dbpedia.org/resource/Corinthian_order
-melancholy - http://dbpedia.org/resource/Melancholia
-andrew henley - http://dbpedia.org/resource/Sir_Andrew_Henley,_1st_Baronet
-chimney - http://dbpedia.org/resource/Chimney
-minerva - http://dbpedia.org/resource/Minerva
-prelate - http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church
-sussex - http://dbpedia.org/resource/Sussex
-richmond - http://dbpedia.org/resource/Richmond_Football_Club
-andiron - http://dbpedia.org/resource/Andiron
-orna - http://dbpedia.org/resource/Dupatta
-oriel window - http://dbpedia.org/resource/Oriel_window
-foliage - http://dbpedia.org/resource/Leaf
-column - http://dbpedia.org/resource/Column
-john hardwick - http://dbpedia.org/resource/John_Hardwick_(director)
-arch - http://dbpedia.org/resource/Arch
-architect - http://dbpedia.org/resource/Gothic_Revival_architecture
-grape - http://dbpedia.org/resource/Grape
-rib - http://dbpedia.org/resource/Rib_vault
-yarmouth - http://dbpedia.org/resource/Great_Yarmouth
-bramshill - http://dbpedia.org/resource/Bramshill
-xxxvii - http://dbpedia.org/resource/Super_Bowl_XXXVII
-architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
-pedestal - http://dbpedia.org/resource/Pedestal
-taine - http://dbpedia.org/resource/Hippolyte_Taine
-cornice - http://dbpedia.org/resource/Cornice
-health - http://dbpedia.org/resource/Health
-stain - http://dbpedia.org/resource/Wood_stain
-francis - http://dbpedia.org/resource/Francis_I_of_France
-devonshire - http://dbpedia.org/resource/Devon
-specie - http://dbpedia.org/resource/Coin
-plaster - http://dbpedia.org/resource/Stucco
-tower - http://dbpedia.org/resource/Bell_tower
-robert bailey - http://dbpedia.org/resource/Robert_Bailey_(American_football)
-square bay - http://dbpedia.org/resource/Square_Bay
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-grace - http://dbpedia.org/resource/Charites
-hartford bridge - http://dbpedia.org/resource/RAF_Blackbushe
-panelling - http://dbpedia.org/resource/Panelling
-marble - http://dbpedia.org/resource/Marble
-salisbury - http://dbpedia.org/resource/Salisbury_Cathedral
-wing - http://dbpedia.org/resource/Wing
-florence - http://dbpedia.org/resource/Florence
-court - http://dbpedia.org/resource/Courtyard
-elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
-arabesque - http://dbpedia.org/resource/Arabesque
-classical - http://dbpedia.org/resource/Classical_architecture
-shrewsbury - http://dbpedia.org/resource/Shrewsbury
-deanery - http://dbpedia.org/resource/Deanery
-crossbow - http://dbpedia.org/resource/Crossbow
-stain glass - http://dbpedia.org/resource/Stained_glass
-rain - http://dbpedia.org/resource/Rain
-singular - http://dbpedia.org/resource/Grammatical_number
-laro - http://dbpedia.org/resource/Laro_language
-brams - http://dbpedia.org/resource/Steven_Brams
-extant - http://dbpedia.org/resource/Existence
-xxix - http://dbpedia.org/resource/Super_Bowl_XXIX
-sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
-st. alban - http://dbpedia.org/resource/Saint_Alban
-taste - http://dbpedia.org/resource/Wine_tasting
-xxxviii - http://dbpedia.org/resource/Super_Bowl_XXXVIII
-john smithson - http://dbpedia.org/resource/John_Smithson
-turret - http://dbpedia.org/resource/Turret
-coronet - http://dbpedia.org/resource/Coronet
-edward lord - http://dbpedia.org/resource/Edward_Lord
-uniform - http://dbpedia.org/resource/Uniform
-miscarry - http://dbpedia.org/resource/Miscarriage
-sin - http://dbpedia.org/resource/Sin
-beauty - http://dbpedia.org/resource/Aesthetics
-hatfield - http://dbpedia.org/resource/Hatfield_House
-ridge - http://dbpedia.org/resource/Ridge
-library - http://dbpedia.org/resource/Library
-forthe - http://dbpedia.org/resource/River_Forth
-facade - http://dbpedia.org/resource/Facade
-nadder - http://dbpedia.org/resource/River_Nadder
-hospitality - http://dbpedia.org/resource/Hospitality
-xl - http://dbpedia.org/resource/Super_Bowl_XL
-fish - http://dbpedia.org/resource/Fish
-john thorp - http://dbpedia.org/resource/John_Thorp
-family - http://dbpedia.org/resource/Family
-hindon - http://dbpedia.org/resource/Hindon_River
-sake - http://dbpedia.org/resource/Sake
-deep valley - http://dbpedia.org/resource/Deep_Valley
-charles - http://dbpedia.org/resource/Charles_I_of_England
-dth - http://dbpedia.org/resource/Satellite_television
-sion - http://dbpedia.org/resource/Zion
-gilded - http://dbpedia.org/resource/Gilding
-york - http://dbpedia.org/resource/House_of_York
-gil - http://dbpedia.org/resource/Recurring_elements_in_the_Final_Fantasy_series
-king james - http://dbpedia.org/resource/James_VI_and_I
-strap - http://dbpedia.org/resource/Strap
-phs - http://dbpedia.org/resource/United_States_Public_Health_Service
-harringworth - http://dbpedia.org/resource/Harringworth
-pinnacle - http://dbpedia.org/resource/Pinnacle
-xxviii - http://dbpedia.org/resource/Roman_numerals
-henry frederick - http://dbpedia.org/resource/Henry_Frederick,_Prince_of_Wales
-gentry - http://dbpedia.org/resource/Gentry
-intersection - http://dbpedia.org/resource/Intersectionality
-heptameron - http://dbpedia.org/resource/Heptaméron
-compas - http://dbpedia.org/resource/Compas
-apollo - http://dbpedia.org/resource/Apollo
-bramshill house - http://dbpedia.org/resource/Bramshill_House
-hertfordshire - http://dbpedia.org/resource/Hertfordshire
-mullion window - http://dbpedia.org/resource/Mullion
-surrey - http://dbpedia.org/resource/Surrey
-grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
-bear - http://dbpedia.org/resource/Bear
-xxxi - http://dbpedia.org/resource/Super_Bowl_XXXI
-sixteen foot - http://dbpedia.org/resource/Eight-foot_pitch
-amiable - http://dbpedia.org/resource/Amiable
-mansion - http://dbpedia.org/resource/English_country_house
-elizabethan style - http://dbpedia.org/resource/Elizabethan_architecture
-palmer - http://dbpedia.org/resource/Palmer_(pilgrim)
-armorial achievement - http://dbpedia.org/resource/Coat_of_arms
-fruit - http://dbpedia.org/resource/Fruit
-dog - http://dbpedia.org/resource/Dog
-fig - http://dbpedia.org/resource/Ficus
-arcade - http://dbpedia.org/resource/Pedestrian_zone
-chamber - http://dbpedia.org/resource/Room
-wiltshire - http://dbpedia.org/resource/Wiltshire
-splendid - http://dbpedia.org/resource/Splendid_Geyser
-ionic order - http://dbpedia.org/resource/Ionic_order
-wick - http://dbpedia.org/resource/Capillary_action
-wood - http://dbpedia.org/resource/Wood_carving
-noble - http://dbpedia.org/resource/Nobility
-spandril - http://dbpedia.org/resource/Spandrel
-architrave - http://dbpedia.org/resource/Architrave
-lord zouch - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
-lightness - http://dbpedia.org/resource/Lightness
-lead pipe - http://dbpedia.org/resource/Pipe_(fluid_conveyance)
-adorn - http://dbpedia.org/resource/Adorn_(song)
-wild boar - http://dbpedia.org/resource/Wild_boar
-biggs - http://dbpedia.org/resource/List_of_Star_Wars_characters
-berkshire - http://dbpedia.org/resource/Berkshire
-baluster - http://dbpedia.org/resource/Baluster
 unifor - http://dbpedia.org/resource/Unifor
-lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+mask - http://dbpedia.org/resource/Mask
+minerva - http://dbpedia.org/resource/Minerva
+great hall - http://dbpedia.org/resource/Great_hall
+ridge - http://dbpedia.org/resource/Ridge
+bramshill park - http://dbpedia.org/resource/Bramshill_House
+sion - http://dbpedia.org/resource/Zion
+arcade - http://dbpedia.org/resource/Pedestrian_zone
+xxxiv - http://dbpedia.org/resource/Super_Bowl_XXXIV
+devonshire - http://dbpedia.org/resource/Devon
+florentine - http://dbpedia.org/resource/Florence
+elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
+edward lord - http://dbpedia.org/resource/Edward_Lord
+south front - http://dbpedia.org/resource/Southern_Front_(Soviet_Union)
+richmond - http://dbpedia.org/resource/Richmond_Football_Club
+ionic order - http://dbpedia.org/resource/Ionic_order
+arrow - http://dbpedia.org/resource/Arrow
+projection - http://dbpedia.org/resource/Mercator_projection
+francis - http://dbpedia.org/resource/Francis_of_Assisi
+withdrawing room - http://dbpedia.org/resource/Drawing_room
+diana - http://dbpedia.org/resource/Diana_(album)
+hatfield - http://dbpedia.org/resource/Hatfield_House
+corinthian style - http://dbpedia.org/resource/Corinthian_order
+mouldings - http://dbpedia.org/resource/Molding_(decorative)
+avon - http://dbpedia.org/resource/Avon_Barksdale
+drawing room - http://dbpedia.org/resource/Drawing_room
+halnaker - http://dbpedia.org/resource/Halnaker
+canterbury - http://dbpedia.org/resource/Canterbury
+doric - http://dbpedia.org/resource/Doric_order
+landscape - http://dbpedia.org/resource/Landscape
+e34 - http://dbpedia.org/resource/International_E-road_network
+robert bailey - http://dbpedia.org/resource/Robert_Bailey_(American_football)
+tils - http://dbpedia.org/resource/Tumor-infiltrating_lymphocytes
+archi - http://dbpedia.org/resource/Archi_language
+sussex - http://dbpedia.org/resource/Sussex
+grace - http://dbpedia.org/resource/Charites
+sir john cope - http://dbpedia.org/resource/John_Cope_(British_Army_officer)
+ment - http://dbpedia.org/resource/M.E.N.T._B.C.
+court - http://dbpedia.org/resource/Courtyard
+entablature - http://dbpedia.org/resource/Entablature
+strap - http://dbpedia.org/resource/Strap
+brick - http://dbpedia.org/resource/Brickwork
+grandeur - http://dbpedia.org/resource/70_mm_Grandeur_film
+lozenge - http://dbpedia.org/resource/Lozenge
+wood - http://dbpedia.org/resource/Wood_carving
+ornament - http://dbpedia.org/resource/Decorative_arts
+puritanical - http://dbpedia.org/resource/Puritans
+dover castle - http://dbpedia.org/resource/Dover_Castle
+architrave - http://dbpedia.org/resource/Architrave
+anecdote - http://dbpedia.org/resource/Anecdote
+mansion - http://dbpedia.org/resource/English_country_house
+balustrades - http://dbpedia.org/resource/Baluster
+compas - http://dbpedia.org/resource/Compas
+spandrils - http://dbpedia.org/resource/Spandrel
+dado - http://dbpedia.org/resource/Dado_rail
+emblazon - http://dbpedia.org/resource/Blazon
+parapet - http://dbpedia.org/resource/Parapet
+veryfine - http://dbpedia.org/resource/Veryfine
 terminal - http://dbpedia.org/resource/Train_station
+lincoln - http://dbpedia.org/resource/Abraham_Lincoln
+montacute house - http://dbpedia.org/resource/Montacute_House
+whetstone - http://dbpedia.org/resource/Sharpening_stone
+nicholas stone - http://dbpedia.org/resource/Nicholas_Stone
+har - http://dbpedia.org/resource/Penn_FC
+bay window - http://dbpedia.org/resource/Bay_window
+xl - http://dbpedia.org/resource/Super_Bowl_XL
+torrent - http://dbpedia.org/resource/Stream
+uniform - http://dbpedia.org/resource/Uniform
+river lea - http://dbpedia.org/resource/River_Lea
+great perfection - http://dbpedia.org/resource/Dzogchen
+sake - http://dbpedia.org/resource/Sake
+beauty - http://dbpedia.org/resource/Aesthetics
+ionic - http://dbpedia.org/resource/Ionic_order
+apollo - http://dbpedia.org/resource/Apollo
+pediment - http://dbpedia.org/resource/Pediment
+hospitality - http://dbpedia.org/resource/Hospitality
+oriel - http://dbpedia.org/resource/Oriel_window
+charles ii - http://dbpedia.org/resource/Charles_II_of_England
+hardwick - http://dbpedia.org/resource/Hardwick_Hall
+piers - http://dbpedia.org/resource/Deep_foundation
+earl - http://dbpedia.org/resource/Earl
+lord zouch - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
+ont - http://dbpedia.org/resource/Ontario
+bays - http://dbpedia.org/resource/Bay_window
+southern front - http://dbpedia.org/resource/Burma_campaign
+plaster - http://dbpedia.org/resource/Stucco
+harringworth - http://dbpedia.org/resource/Harringworth
+amiable - http://dbpedia.org/resource/Amiable
+corinthian - http://dbpedia.org/resource/Corinthian_order
+crossbow - http://dbpedia.org/resource/Crossbow
+fruit - http://dbpedia.org/resource/Fruit
+john hardwick - http://dbpedia.org/resource/John_Hardwick_(director)
+gil - http://dbpedia.org/resource/Recurring_elements_in_the_Final_Fantasy_series
+ance - http://dbpedia.org/resource/Ance,_Pyrénées-Atlantiques
+yarmouth - http://dbpedia.org/resource/Great_Yarmouth
+corinthian order - http://dbpedia.org/resource/Corinthian_order
+health - http://dbpedia.org/resource/Health
+long gallery - http://dbpedia.org/resource/Long_gallery
+parallelogram - http://dbpedia.org/resource/Parallelogram
+chimney - http://dbpedia.org/resource/Chimney
+xxxv - http://dbpedia.org/resource/Super_Bowl_XXXV
+xxxvi - http://dbpedia.org/resource/Super_Bowl_XXXVI
+sametime - http://dbpedia.org/resource/HCL_Sametime
+parish - http://dbpedia.org/resource/Parish
+laro - http://dbpedia.org/resource/Laro_language
+column - http://dbpedia.org/resource/Column
+surrey - http://dbpedia.org/resource/Surrey
+pardon - http://dbpedia.org/resource/Royal_prerogative_of_mercy
+xxxix - http://dbpedia.org/resource/Super_Bowl_XXXIX
+ancient furniture - http://dbpedia.org/resource/Ancient_furniture
+pomegranate - http://dbpedia.org/resource/Pomegranate
+tapestry - http://dbpedia.org/resource/Tapestry
+forthe - http://dbpedia.org/resource/River_Forth
+oriel window - http://dbpedia.org/resource/Oriel_window
+grape - http://dbpedia.org/resource/Grape
+rural - http://dbpedia.org/resource/Rural_area
+bate - http://dbpedia.org/resource/FC_BATE_Borisov
+xxxviii - http://dbpedia.org/resource/Super_Bowl_XXXVIII
+stockton - http://dbpedia.org/resource/Stockton-on-Tees
+pedestal - http://dbpedia.org/resource/Pedestal
+object - http://dbpedia.org/resource/Astronomical_object
+bramshill - http://dbpedia.org/resource/Bramshill
+cinque ports - http://dbpedia.org/resource/Cinque_Ports
+hertfordshire - http://dbpedia.org/resource/Hertfordshire
+elizabethan era - http://dbpedia.org/resource/Elizabethan_era
+ball - http://dbpedia.org/resource/Ball
+architect - http://dbpedia.org/resource/Gothic_Revival_architecture
+crest - http://dbpedia.org/resource/Coat_of_arms
+balusters - http://dbpedia.org/resource/Baluster
+good cheer - http://dbpedia.org/resource/Good_Cheer
+biggs - http://dbpedia.org/resource/List_of_Star_Wars_characters
+light - http://dbpedia.org/resource/Light
+elizabethan period - http://dbpedia.org/resource/Elizabethan_era
+xxxii - http://dbpedia.org/resource/Super_Bowl_XXXII
+marble - http://dbpedia.org/resource/Marble
+wick - http://dbpedia.org/resource/Capillary_action
+stone - http://dbpedia.org/resource/Sandstone
+dif - http://dbpedia.org/resource/National_System_for_Integral_Family_Development
+wiltshire - http://dbpedia.org/resource/Wiltshire
+capitals - http://dbpedia.org/resource/Capital_city
+hatfield house - http://dbpedia.org/resource/Hatfield_House
+gable - http://dbpedia.org/resource/Gable
+vitruvius britannicus - http://dbpedia.org/resource/Colen_Campbell
+sin - http://dbpedia.org/resource/Sin
+extant - http://dbpedia.org/resource/Neontology
+marquess - http://dbpedia.org/resource/Marquess
+sun - http://dbpedia.org/resource/Sunlight
+recreation - http://dbpedia.org/resource/Recreation
+beautiful view - http://dbpedia.org/resource/Beautiful_View
+gilded - http://dbpedia.org/resource/Gilding
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+henry frederick - http://dbpedia.org/resource/Henry_Frederick,_Prince_of_Wales
+library - http://dbpedia.org/resource/Library
+elevation - http://dbpedia.org/resource/Architectural_drawing
+heptameron - http://dbpedia.org/resource/Heptaméron
+xxxvii - http://dbpedia.org/resource/Super_Bowl_XXXVII
+wild boar - http://dbpedia.org/resource/Wild_boar
+deanery - http://dbpedia.org/resource/Deanery
+balustrade - http://dbpedia.org/resource/Baluster
+engrailed - http://dbpedia.org/resource/Engrailed_(moth)
+xxxi - http://dbpedia.org/resource/Super_Bowl_XXXI
+phs - http://dbpedia.org/resource/United_States_Public_Health_Service
+splendid - http://dbpedia.org/resource/Splendid_Geyser
+salisbury - http://dbpedia.org/resource/Salisbury_Cathedral
+coronet - http://dbpedia.org/resource/Coronet
+armorial achievement - http://dbpedia.org/resource/Coat_of_arms
+ofa - http://dbpedia.org/resource/Orthopedic_Foundation_for_Animals
+george abbot - http://dbpedia.org/resource/George_Abbot_(bishop)
+prelate - http://dbpedia.org/resource/Priesthood_in_the_Catholic_Church
+bay windows - http://dbpedia.org/resource/Bay_window
+town - http://dbpedia.org/resource/Market_town
+species - http://dbpedia.org/resource/Species
+fluted - http://dbpedia.org/resource/Classical_order
+amplitude - http://dbpedia.org/resource/Sound
+quartered - http://dbpedia.org/resource/Dismemberment
+gentry - http://dbpedia.org/resource/Gentry
+elizabethan style - http://dbpedia.org/resource/Elizabethan_architecture
+architecture - http://dbpedia.org/resource/Ancient_Roman_architecture
+friezes - http://dbpedia.org/resource/Frieze
+lessen - http://dbpedia.org/resource/Łasin
+archbishop - http://dbpedia.org/resource/Archbishop_of_Canterbury
+charles - http://dbpedia.org/resource/Charles_I_of_England
+terrace - http://dbpedia.org/resource/Terraced_house
+lordship - http://dbpedia.org/resource/Lord_of_the_manor
+remarkable - http://dbpedia.org/resource/ReMarkable
+noble - http://dbpedia.org/resource/Nobility
+derbyshire - http://dbpedia.org/resource/Derbyshire
+deep valley - http://dbpedia.org/resource/Deep_Valley
+hartford bridge - http://dbpedia.org/resource/RAF_Blackbushe
+andrew henley - http://dbpedia.org/resource/Sir_Andrew_Henley,_1st_Baronet
+frieze - http://dbpedia.org/resource/Frieze
+fertility - http://dbpedia.org/resource/Fertility
+wisdom - http://dbpedia.org/resource/Solomon
+somersetshire - http://dbpedia.org/resource/Somerset
+pilasters - http://dbpedia.org/resource/Pilaster
+mullions - http://dbpedia.org/resource/Mullion
+chaste - http://dbpedia.org/resource/Chastity
+imposts - http://dbpedia.org/resource/Tax
+facade - http://dbpedia.org/resource/Facade
+miscarried - http://dbpedia.org/resource/Miscarriage
+holland house - http://dbpedia.org/resource/Holland_House
+nadder - http://dbpedia.org/resource/River_Nadder
+warden - http://dbpedia.org/resource/Churchwarden
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+st. alban - http://dbpedia.org/resource/Saint_Alban
+tower - http://dbpedia.org/resource/Bell_tower
+family - http://dbpedia.org/resource/Family
+taste - http://dbpedia.org/resource/Wine_tasting
+armorial bearings - http://dbpedia.org/resource/Coat_of_arms
+duke - http://dbpedia.org/resource/Duke
+nobleman - http://dbpedia.org/resource/Nobility
+hampshire - http://dbpedia.org/resource/Hampshire
+dimension - http://dbpedia.org/resource/Dimension
+mullioned - http://dbpedia.org/resource/Mullion
+king charles ii - http://dbpedia.org/resource/Charles_II_of_England
+armorial - http://dbpedia.org/resource/Coat_of_arms
+king james - http://dbpedia.org/resource/James_VI_and_I
+john thorp - http://dbpedia.org/resource/John_Thorp
+san gallo - http://dbpedia.org/resource/St._Gallen
+fig - http://dbpedia.org/resource/Ficus
+foliage - http://dbpedia.org/resource/Leaf
+weather - http://dbpedia.org/resource/Weathering
+kensington - http://dbpedia.org/resource/Kensington
+deer - http://dbpedia.org/resource/Deer
+berkshire - http://dbpedia.org/resource/Berkshire
+xxviii - http://dbpedia.org/resource/Roman_numerals
+turrets - http://dbpedia.org/resource/Turret
+porch - http://dbpedia.org/resource/Porch
+classical - http://dbpedia.org/resource/Classical_architecture
+inseparable - http://dbpedia.org/resource/Inseparable_(song)
+singular - http://dbpedia.org/resource/Grammatical_number
+shrewsbury - http://dbpedia.org/resource/Shrewsbury
+melancholy - http://dbpedia.org/resource/Melancholia
+xxxiii - http://dbpedia.org/resource/Super_Bowl_XXXIII
+hindon - http://dbpedia.org/resource/Hindon_River
+xxix - http://dbpedia.org/resource/Super_Bowl_XXIX
+brams - http://dbpedia.org/resource/Steven_Brams
+arabesque - http://dbpedia.org/resource/Arabesque
+eversley - http://dbpedia.org/resource/Eversley
+rain - http://dbpedia.org/resource/Rain
+stained glass - http://dbpedia.org/resource/Stained_glass
+plain - http://dbpedia.org/resource/Plain
+orna - http://dbpedia.org/resource/Dupatta
+palmer - http://dbpedia.org/resource/Palmer_(pilgrim)
+hue - http://dbpedia.org/resource/Hue
+arch - http://dbpedia.org/resource/Arch
+dth - http://dbpedia.org/resource/Satellite_television
+arms - http://dbpedia.org/resource/Coat_of_arms
+panelling - http://dbpedia.org/resource/Panelling
+wath - http://dbpedia.org/resource/Wath_upon_Dearne
+xxvii - http://dbpedia.org/resource/Super_Bowl_XXVII
+chamber - http://dbpedia.org/resource/Room
+cornice - http://dbpedia.org/resource/Cornice
+john smithson - http://dbpedia.org/resource/John_Smithson
+florence - http://dbpedia.org/resource/Florence
+lightness - http://dbpedia.org/resource/Lightness

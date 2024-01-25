@@ -1,103 +1,87 @@
-interrupt - http://dbpedia.org/resource/Interrupt
-sanctuary - http://dbpedia.org/resource/Right_of_asylum
-expression - http://dbpedia.org/resource/Freedom_of_speech
-alien - http://dbpedia.org/resource/Extraterrestrial_life
-heresy - http://dbpedia.org/resource/Heresy
-james madison - http://dbpedia.org/resource/James_Madison
-legislator - http://dbpedia.org/resource/Legislature
-libel - http://dbpedia.org/resource/Defamation
-object - http://dbpedia.org/resource/Non-physical_entity
-caution - http://dbpedia.org/resource/Police_caution
-nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
-madison - http://dbpedia.org/resource/Madison_(cycling)
-invasion - http://dbpedia.org/resource/2003_invasion_of_Iraq
-good people - http://dbpedia.org/resource/Fairy
-throw weight - http://dbpedia.org/resource/Ballistic_missile
-lawsuit - http://dbpedia.org/resource/Lawsuit
-interposition - http://dbpedia.org/resource/Interposition
-plural number - http://dbpedia.org/resource/Grammatical_number
-paper - http://dbpedia.org/resource/Scientific_literature
-judge - http://dbpedia.org/resource/Judge
-migration - http://dbpedia.org/resource/Illegal_immigration
-anxiety - http://dbpedia.org/resource/Anxiety
-neglect - http://dbpedia.org/resource/Negligence
-legislature - http://dbpedia.org/resource/Legislature
-freedom - http://dbpedia.org/resource/Liberty
-security - http://dbpedia.org/resource/National_security
-law - http://dbpedia.org/resource/Common_law
-light - http://dbpedia.org/resource/Light
-sentence word - http://dbpedia.org/resource/Sentence_word
-prefix - http://dbpedia.org/resource/Prefix
-freedom press - http://dbpedia.org/resource/Freedom_Press
-lessen - http://dbpedia.org/resource/Łasin
-thomas woods - http://dbpedia.org/resource/Thomas_Woods
-crime - http://dbpedia.org/resource/Crime
-health care - http://dbpedia.org/resource/Health_care
-obamacare - http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
-prohibition - http://dbpedia.org/resource/Prohibition_of_drugs
-spirit - http://dbpedia.org/resource/Soul
-compact - http://dbpedia.org/resource/Compact_theory
-supreme law - http://dbpedia.org/resource/Constitution_of_Singapore
-news - http://dbpedia.org/resource/News_media
-commonwealth - http://dbpedia.org/resource/Republic
-resistance - http://dbpedia.org/resource/Resistance_movement
-liberty - http://dbpedia.org/resource/Liberty
-hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
-conservative - http://dbpedia.org/resource/Conservatism_in_the_United_States
-single - http://dbpedia.org/resource/Phonograph_record
-defense - http://dbpedia.org/resource/National_security
-pervert - http://dbpedia.org/resource/Perversion
-alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
-safety - http://dbpedia.org/resource/Safety
-conspiracy - http://dbpedia.org/resource/Conspiracy_theory
-consent - http://dbpedia.org/resource/Consent
-amendment - http://dbpedia.org/resource/Law
-virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
-embark - http://dbpedia.org/resource/Embark_(transit_authority)
-nicholas trist - http://dbpedia.org/resource/Nicholas_Trist
-confederacy - http://dbpedia.org/resource/Federalism
-a.d. - http://dbpedia.org/resource/Anno_Domini
-common sense - http://dbpedia.org/resource/Common_sense
-nebraska - http://dbpedia.org/resource/Nebraska
-migrate - http://dbpedia.org/resource/Human_migration
-jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-reserve - http://dbpedia.org/resource/Bank_reserves
-virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
-federalist - http://dbpedia.org/resource/Federalism
-jurisdiction - http://dbpedia.org/resource/Jurisdiction
-levity - http://dbpedia.org/resource/Levity_(film)
-bad idea - http://dbpedia.org/resource/Bad_Idea
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-nullification - http://dbpedia.org/resource/Jury
-chaotic - http://dbpedia.org/resource/Chaos_theory
-malfeasance - http://dbpedia.org/resource/Malfeasance_in_office
 federal law - http://dbpedia.org/resource/Law_of_the_United_States
-theory - http://dbpedia.org/resource/Theory
-party party - http://dbpedia.org/resource/Party_Party_(film)
-paul - http://dbpedia.org/resource/Paul_the_Apostle
-people power - http://dbpedia.org/resource/People_Power_Revolution
-thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
-religion - http://dbpedia.org/resource/Freedom_of_religion
-arid - http://dbpedia.org/resource/Desert
-fallacy - http://dbpedia.org/resource/Fallacy
-sedition - http://dbpedia.org/resource/Sedition
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-secession - http://dbpedia.org/resource/Secession
-kentucky - http://dbpedia.org/resource/Kentucky
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
-tome - http://dbpedia.org/resource/Pope_Leo_I
-trumpet - http://dbpedia.org/resource/Trumpet
-unconstitutional - http://dbpedia.org/resource/Constitutionality
-interference - http://dbpedia.org/resource/Interference_theory
-concurrence - http://dbpedia.org/resource/Concurring_opinion
 republic - http://dbpedia.org/resource/Republic
+sanctuary - http://dbpedia.org/resource/Right_of_asylum
+interference - http://dbpedia.org/resource/Interference_theory
+arid - http://dbpedia.org/resource/Desert
+aliens - http://dbpedia.org/resource/Extraterrestrial_life
 andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
-doctrine - http://dbpedia.org/resource/Doctrine
+anxiety - http://dbpedia.org/resource/Anxiety
+theory - http://dbpedia.org/resource/Theory
+article vi - http://dbpedia.org/resource/Article_Six_of_the_United_States_Constitution
+secession - http://dbpedia.org/resource/Secession
+supreme law - http://dbpedia.org/resource/Supremacy_Clause
+fallacy - http://dbpedia.org/resource/Fallacy
+virginia resolution - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+nicholas trist - http://dbpedia.org/resource/Nicholas_Trist
+thomas woods - http://dbpedia.org/resource/Thomas_Woods
+safety - http://dbpedia.org/resource/Safety
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
+news - http://dbpedia.org/resource/News_media
+conspiracy - http://dbpedia.org/resource/Conspiracy_theory
 defamation - http://dbpedia.org/resource/Defamation
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-human - http://dbpedia.org/resource/Human_rights
+conservatives - http://dbpedia.org/resource/Conservatism_in_the_United_States
+nebraska - http://dbpedia.org/resource/Nebraska
+commonwealth - http://dbpedia.org/resource/Republic
+chaotic - http://dbpedia.org/resource/Chaos_theory
+thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+law - http://dbpedia.org/resource/Common_law
+james madison - http://dbpedia.org/resource/James_Madison
+migration - http://dbpedia.org/resource/Illegal_immigration
+spirit - http://dbpedia.org/resource/Soul
+alexander hamilton - http://dbpedia.org/resource/Alexander_Hamilton
+prohibition - http://dbpedia.org/resource/Prohibition_of_drugs
+malfeasance - http://dbpedia.org/resource/Malfeasance_in_office
+treaties - http://dbpedia.org/resource/Treaty
+expression - http://dbpedia.org/resource/Freedom_of_speech
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
+jefferson - http://dbpedia.org/resource/Thomas_Jefferson
+defense - http://dbpedia.org/resource/National_security
+alien - http://dbpedia.org/resource/Extraterrestrial_life
+interposition - http://dbpedia.org/resource/Interposition
 experiment - http://dbpedia.org/resource/Experiment
+legislature - http://dbpedia.org/resource/Legislature
+nullification crisis - http://dbpedia.org/resource/Nullification_Crisis
+liberty - http://dbpedia.org/resource/Liberty
+bad idea - http://dbpedia.org/resource/Bad_Idea
+kentucky resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+obamacare - http://dbpedia.org/resource/Patient_Protection_and_Affordable_Care_Act
+plural number - http://dbpedia.org/resource/Grammatical_number
+hamilton - http://dbpedia.org/resource/Hamilton_Academical_F.C.
+sedition - http://dbpedia.org/resource/Sedition
+caution - http://dbpedia.org/resource/Right_to_silence_in_England_and_Wales
+interrupt - http://dbpedia.org/resource/Interrupt
+neglect - http://dbpedia.org/resource/Negligence
+levity - http://dbpedia.org/resource/Levity_(film)
+compact - http://dbpedia.org/resource/Compact_theory
+common sense - http://dbpedia.org/resource/Common_sense
+federalist - http://dbpedia.org/resource/Federalism
+resistance - http://dbpedia.org/resource/Resistance_movement
+freedom - http://dbpedia.org/resource/Liberty
+consent - http://dbpedia.org/resource/Consent
+virginia resolutions - http://dbpedia.org/resource/Kentucky_and_Virginia_Resolutions
+doctrine - http://dbpedia.org/resource/Doctrine
+human - http://dbpedia.org/resource/Human_rights
+tome - http://dbpedia.org/resource/Pope_Leo_I
+single - http://dbpedia.org/resource/Phonograph_record
+health care - http://dbpedia.org/resource/Health_care
+religion - http://dbpedia.org/resource/Freedom_of_religion
+flies - http://dbpedia.org/resource/Flight
+kentucky - http://dbpedia.org/resource/Kentucky
+confederacy - http://dbpedia.org/resource/Federalism
+a.d. - http://dbpedia.org/resource/Anno_Domini
+good people - http://dbpedia.org/resource/Fairy
+unconstitutional - http://dbpedia.org/resource/Constitutionality
+jurisdiction - http://dbpedia.org/resource/Jurisdiction
+light - http://dbpedia.org/resource/Speed_of_light
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+concurrence - http://dbpedia.org/resource/Concurring_opinion
+draft - http://dbpedia.org/resource/Conscription_in_the_United_States
+madison - http://dbpedia.org/resource/Madison_(cycling)
+confounding - http://dbpedia.org/resource/Confounding
 pursuance - http://dbpedia.org/resource/Pursuance
-article vi - http://dbpedia.org/resource/Article_Six_of_the_United_States_Constitution
+heresy - http://dbpedia.org/resource/Heresy
+security - http://dbpedia.org/resource/National_security
+resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+nullification - http://dbpedia.org/resource/Jury
+disaffected - http://dbpedia.org/resource/Disaffected

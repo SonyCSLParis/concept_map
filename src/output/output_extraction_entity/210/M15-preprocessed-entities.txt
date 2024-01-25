@@ -4,7 +4,7 @@ roman province - http://dbpedia.org/resource/Roman_province
 aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom
 30 bc - http://dbpedia.org/resource/30_BC
 ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
-lose control - http://dbpedia.org/resource/Lose_Control_(Missy_Elliott_song)
+dynasties - http://dbpedia.org/resource/Dynasty
 egyptian - http://dbpedia.org/resource/Ancient_Egypt
 roman province - http://dbpedia.org/resource/Roman_province
 augustus - http://dbpedia.org/resource/Augustus
@@ -29,16 +29,19 @@ governor - http://dbpedia.org/resource/Roman_governor
 hierarchy - http://dbpedia.org/resource/Hierarchy
 administration - http://dbpedia.org/resource/Public_administration
 security - http://dbpedia.org/resource/Security
-legion - http://dbpedia.org/resource/Roman_legion
-cohort - http://dbpedia.org/resource/Demography
+legions - http://dbpedia.org/resource/Roman_legion
+cohorts - http://dbpedia.org/resource/Demography
 peace - http://dbpedia.org/resource/Peace
 roman law - http://dbpedia.org/resource/Roman_law
+business matters - http://dbpedia.org/resource/Business_Matters
 romans - http://dbpedia.org/resource/Romans_(musician)
 revenue - http://dbpedia.org/resource/Tax
 administration - http://dbpedia.org/resource/Public_administration
-town council - http://dbpedia.org/resource/Town_council
-town council - http://dbpedia.org/resource/Town_council
+provinces - http://dbpedia.org/resource/Roman_province
+town councils - http://dbpedia.org/resource/Town_council
+town councils - http://dbpedia.org/resource/Town_council
 greeks - http://dbpedia.org/resource/Ancient_Greece
+elders - http://dbpedia.org/resource/Old_age
 independent - http://dbpedia.org/resource/Independence
 town council - http://dbpedia.org/resource/Town_council
 romans - http://dbpedia.org/resource/Romans_(musician)
@@ -47,34 +50,28 @@ cash - http://dbpedia.org/resource/Money
 cash - http://dbpedia.org/resource/Money
 public service - http://dbpedia.org/resource/Public_service
 officer - http://dbpedia.org/resource/Civil_Services_of_India
-tenant - http://dbpedia.org/resource/Land_tenure
 poll tax - http://dbpedia.org/resource/Poll_tax
 romans - http://dbpedia.org/resource/Romans_(musician)
-metropolis - http://dbpedia.org/resource/Colonies_in_antiquity
 tax - http://dbpedia.org/resource/Roman_Empire
 egyptians - http://dbpedia.org/resource/Ptolemaic_Kingdom
 social hierarchy - http://dbpedia.org/resource/Social_class_in_ancient_Rome
 romans - http://dbpedia.org/resource/Romans_(musician)
 romans - http://dbpedia.org/resource/Romans_(musician)
 metropolite - http://dbpedia.org/resource/Metropolitan_bishop
-village - http://dbpedia.org/resource/Villages_of_Brunei
 citizenship - http://dbpedia.org/resource/Roman_citizenship
-legion - http://dbpedia.org/resource/Roman_legion
+legions - http://dbpedia.org/resource/Roman_legion
 alexandria - http://dbpedia.org/resource/Alexandria
 roman citizenship - http://dbpedia.org/resource/Roman_citizenship
 food - http://dbpedia.org/resource/Food
 romans - http://dbpedia.org/resource/Romans_(musician)
 food - http://dbpedia.org/resource/Food
-transport - http://dbpedia.org/resource/Transport
 rome - http://dbpedia.org/resource/Roman_Empire
 roman province - http://dbpedia.org/resource/Roman_province
-coin - http://dbpedia.org/resource/Roman_currency
+goods - http://dbpedia.org/resource/Personal_property
 egyptians - http://dbpedia.org/resource/Ptolemaic_Kingdom
-revolt - http://dbpedia.org/resource/Revolution
 taxation - http://dbpedia.org/resource/Tax
 revenue - http://dbpedia.org/resource/Tax
 revolution - http://dbpedia.org/resource/Revolution
-economy - http://dbpedia.org/resource/Economy
 roman province - http://dbpedia.org/resource/Roman_province
 ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
 aegyptus - http://dbpedia.org/resource/Ptolemaic_Kingdom

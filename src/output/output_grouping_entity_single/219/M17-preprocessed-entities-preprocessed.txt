@@ -1,110 +1,106 @@
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-workable - http://dbpedia.org/resource/Workable_FC
-explosion - http://dbpedia.org/resource/Nuclear_explosion
-britain - http://dbpedia.org/resource/United_Kingdom
-race - http://dbpedia.org/resource/Racing
-reactor - http://dbpedia.org/resource/Nuclear_reactor
-discoverer - http://dbpedia.org/resource/List_of_minor_planet_discoverers
-quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
-nazis - http://dbpedia.org/resource/Nazism
-spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
-klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
-lise meitner - http://dbpedia.org/resource/Lise_Meitner
-isotope - http://dbpedia.org/resource/Isotope
-fissile - http://dbpedia.org/resource/Nuclear_fission
-eleanor - http://dbpedia.org/resource/Eleanor_Roosevelt
-los alamos - http://dbpedia.org/resource/Manhattan_Project
-housewife - http://dbpedia.org/resource/Housewife
-versed - http://dbpedia.org/resource/Midazolam
-moral dilemma - http://dbpedia.org/resource/Ethical_dilemma
-germany - http://dbpedia.org/resource/Nazi_Germany
-polygraph test - http://dbpedia.org/resource/Polygraph
-stymie - http://dbpedia.org/resource/Stymie
-william hogarth - http://dbpedia.org/resource/William_Hogarth
-plutonium-240 - http://dbpedia.org/resource/Plutonium-240
-glen - http://dbpedia.org/resource/Ravine
-emilio segre - http://dbpedia.org/resource/Emilio_Segrè
-nazi - http://dbpedia.org/resource/Nazism
 plutonium-239 - http://dbpedia.org/resource/Plutonium
-murder - http://dbpedia.org/resource/Murder
-doom - http://dbpedia.org/resource/Doom_metal
-sigmund freud - http://dbpedia.org/resource/Sigmund_Freud
-anthology - http://dbpedia.org/resource/Anthology_series
-refugee - http://dbpedia.org/resource/Refugee
-reservation - http://dbpedia.org/resource/Indian_reservation
-thin man - http://dbpedia.org/resource/The_Thin_Man
-prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
-online store - http://dbpedia.org/resource/Online_shopping
-hans bethe - http://dbpedia.org/resource/Hans_Bethe
-laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
-lilli hornig - http://dbpedia.org/resource/Lilli_Hornig
-manhattan project - http://dbpedia.org/resource/Manhattan_Project
-bureaucratic inertia - http://dbpedia.org/resource/Bureaucratic_inertia
-scientist - http://dbpedia.org/resource/Scientist
-james chadwick - http://dbpedia.org/resource/James_Chadwick
-charlie peace - http://dbpedia.org/resource/Charles_Peace
-chemistry - http://dbpedia.org/resource/Nobel_Prize_in_Chemistry
-hydrodynamic - http://dbpedia.org/resource/Fluid_dynamics
-holocaust - http://dbpedia.org/resource/The_Holocaust
-disaster - http://dbpedia.org/resource/Chernobyl_disaster
-frank winter - http://dbpedia.org/resource/Frank_Winter
-recall - http://dbpedia.org/resource/Recall_election
-adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
-minsk - http://dbpedia.org/resource/Minsk
-implosion method - http://dbpedia.org/resource/Nuclear_weapon_design
-anti semitism - http://dbpedia.org/resource/Antisemitism
-train - http://dbpedia.org/resource/Train
-albert einstein - http://dbpedia.org/resource/Albert_Einstein
-tone - http://dbpedia.org/resource/Timbre
-boss - http://dbpedia.org/resource/Crime_boss
-predetonate - http://dbpedia.org/resource/Nuclear_chain_reaction
-health - http://dbpedia.org/resource/Health
-rebecca - http://dbpedia.org/resource/Rebecca
-soviets - http://dbpedia.org/resource/Soviet_Union
-nuclear physicist - http://dbpedia.org/resource/Nuclear_physics
-news - http://dbpedia.org/resource/CBS_News
-polygraph - http://dbpedia.org/resource/Polygraph
-bear - http://dbpedia.org/resource/Teddy_bear
-neutron - http://dbpedia.org/resource/Neutron
-implosion - http://dbpedia.org/resource/Nuclear_weapon_design
-british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
 metallurgist - http://dbpedia.org/resource/Metallurgy
-botanist - http://dbpedia.org/resource/Botany
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-paul - http://dbpedia.org/resource/Paul_the_Apostle
-plutonium - http://dbpedia.org/resource/Plutonium
-christ - http://dbpedia.org/resource/Jesus
-tube alloys - http://dbpedia.org/resource/Tube_Alloys
-manhattan - http://dbpedia.org/resource/Manhattan
-ridge - http://dbpedia.org/resource/Ridge
-otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
-library - http://dbpedia.org/resource/Library
-explosive - http://dbpedia.org/resource/Explosive
-abby - http://dbpedia.org/resource/Abby_Lockhart
-cyril smith - http://dbpedia.org/resource/Cyril_Stanley_Smith
-rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
-family - http://dbpedia.org/resource/Family
-mexico - http://dbpedia.org/resource/Mexico
-maud report - http://dbpedia.org/resource/MAUD_Committee
-genius - http://dbpedia.org/resource/Genius
-persecution - http://dbpedia.org/resource/Persecution
-uranium - http://dbpedia.org/resource/Uranium-235
-quartz fiber - http://dbpedia.org/resource/Quartz_fiber
-california - http://dbpedia.org/resource/California
-joseph rotblat - http://dbpedia.org/resource/Joseph_Rotblat
-gun - http://dbpedia.org/resource/Artillery
-winston churchill - http://dbpedia.org/resource/Winston_Churchill
-crosley - http://dbpedia.org/resource/Crosley
-physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
-bomb - http://dbpedia.org/resource/Nuclear_weapon
+versed - http://dbpedia.org/resource/Midazolam
 president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-babbitt - http://dbpedia.org/resource/Babbitt_(alloy)
-pu-239 - http://dbpedia.org/resource/Plutonium
-experimental physicist - http://dbpedia.org/resource/Experimental_physics
-nobel prize - http://dbpedia.org/resource/Nobel_Prize
-sleep - http://dbpedia.org/resource/Sleep
-sample - http://dbpedia.org/resource/Adsorption
-work time - http://dbpedia.org/resource/Work_Time
-telephone operator - http://dbpedia.org/resource/Switchboard_operator
-winter - http://dbpedia.org/resource/Winter_solstice
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+ridge - http://dbpedia.org/resource/Ridge
 poland - http://dbpedia.org/resource/Poland
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
+eleanor - http://dbpedia.org/resource/Eleanor_Roosevelt
+hans bethe - http://dbpedia.org/resource/Hans_Bethe
+neutron - http://dbpedia.org/resource/Neutron
+hydrodynamics - http://dbpedia.org/resource/Fluid_dynamics
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+prime minister - http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+thin man - http://dbpedia.org/resource/The_Thin_Man
+train - http://dbpedia.org/resource/Train
+persecution - http://dbpedia.org/resource/Persecution
+pu-239 - http://dbpedia.org/resource/Plutonium
+boss - http://dbpedia.org/resource/Crime_boss
+quartz fiber - http://dbpedia.org/resource/Quartz_fiber
+reactor - http://dbpedia.org/resource/Nuclear_reactor
+winter - http://dbpedia.org/resource/Winter
+nobel prize - http://dbpedia.org/resource/Nobel_Prize
+william hogarth - http://dbpedia.org/resource/William_Hogarth
+gun - http://dbpedia.org/resource/Artillery
+samples - http://dbpedia.org/resource/Moon_rock
+hunting - http://dbpedia.org/resource/Hunting
+plutonium-240 - http://dbpedia.org/resource/Plutonium-240
+news - http://dbpedia.org/resource/CBS_News
+implosion method - http://dbpedia.org/resource/Nuclear_weapon_design
+telephone operator - http://dbpedia.org/resource/Switchboard_operator
+millennia - http://dbpedia.org/resource/Millennium
+california - http://dbpedia.org/resource/California
+chemistry - http://dbpedia.org/resource/Nobel_Prize_in_Chemistry
+polygraph - http://dbpedia.org/resource/Polygraph
+joseph rotblat - http://dbpedia.org/resource/Joseph_Rotblat
+laboratory - http://dbpedia.org/resource/Lawrence_Berkeley_National_Laboratory
+health - http://dbpedia.org/resource/Health
+implosion - http://dbpedia.org/resource/Nuclear_weapon_design
+plutonium - http://dbpedia.org/resource/Plutonium
+holocaust - http://dbpedia.org/resource/The_Holocaust
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+adolf hitler - http://dbpedia.org/resource/Adolf_Hitler
+soviets - http://dbpedia.org/resource/Soviet_Union
+disaster - http://dbpedia.org/resource/Chernobyl_disaster
+uranium - http://dbpedia.org/resource/Uranium-235
+moral dilemma - http://dbpedia.org/resource/Ethical_dilemma
+stay tuned - http://dbpedia.org/resource/Stay_Tuned_(film)
+physicist - http://dbpedia.org/resource/Nuclear_physics
+discoverer - http://dbpedia.org/resource/List_of_minor_planet_discoverers
+anthology - http://dbpedia.org/resource/Anthology_series
+glen - http://dbpedia.org/resource/Ravine
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+bureaucratic inertia - http://dbpedia.org/resource/Bureaucratic_inertia
+leaves - http://dbpedia.org/resource/Brexit
+experimental physicists - http://dbpedia.org/resource/Experimental_physics
+peace - http://dbpedia.org/resource/Nobel_Peace_Prize
+library - http://dbpedia.org/resource/Library
+minsk - http://dbpedia.org/resource/Minsk
+spontaneous fission - http://dbpedia.org/resource/Spontaneous_fission
+maud report - http://dbpedia.org/resource/MAUD_Committee
+online store - http://dbpedia.org/resource/Online_shopping
+manhattan - http://dbpedia.org/resource/Manhattan
+polygraph test - http://dbpedia.org/resource/Polygraph
+anti semitism - http://dbpedia.org/resource/Antisemitism
+frank winter - http://dbpedia.org/resource/Frank_Winter
+germany - http://dbpedia.org/resource/Nazi_Germany
+crosley - http://dbpedia.org/resource/Crosley
+tone - http://dbpedia.org/resource/Timbre
+emilio segre - http://dbpedia.org/resource/Emilio_Segrè
+lise meitner - http://dbpedia.org/resource/Lise_Meitner
+botanist - http://dbpedia.org/resource/Botany
+nazis - http://dbpedia.org/resource/Nazism
+atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+british mission - http://dbpedia.org/resource/British_contribution_to_the_Manhattan_Project
+christ - http://dbpedia.org/resource/Jesus
+quebec agreement - http://dbpedia.org/resource/Quebec_Agreement
+cyril smith - http://dbpedia.org/resource/Cyril_Stanley_Smith
+galvanized - http://dbpedia.org/resource/Galvanization
+klaus fuchs - http://dbpedia.org/resource/Klaus_Fuchs
+reservations - http://dbpedia.org/resource/Indian_reservation
+los alamos - http://dbpedia.org/resource/Manhattan_Project
+winston churchill - http://dbpedia.org/resource/Winston_Churchill
+abby - http://dbpedia.org/resource/Abby_Lockhart
+babbitt - http://dbpedia.org/resource/Babbitt_(alloy)
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+rebecca - http://dbpedia.org/resource/Rebecca_Robinson_(Neighbours)
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+mexico - http://dbpedia.org/resource/Mexico
+predetonate - http://dbpedia.org/resource/Nuclear_chain_reaction
+refugees - http://dbpedia.org/resource/Refugee
+workable - http://dbpedia.org/resource/Workable_FC
+paul - http://dbpedia.org/resource/Paul_the_Apostle
+lilli hornig - http://dbpedia.org/resource/Lilli_Hornig
+britain - http://dbpedia.org/resource/United_Kingdom
+sigmund freud - http://dbpedia.org/resource/Sigmund_Freud
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+explosives - http://dbpedia.org/resource/Explosive
+james chadwick - http://dbpedia.org/resource/James_Chadwick
+fissile - http://dbpedia.org/resource/Nuclear_fission
+isotope - http://dbpedia.org/resource/Isotope
+nuclear physicist - http://dbpedia.org/resource/Nuclear_physics
+nazi - http://dbpedia.org/resource/Nazism
+nazi atrocities - http://dbpedia.org/resource/The_Holocaust
+race - http://dbpedia.org/resource/Racing

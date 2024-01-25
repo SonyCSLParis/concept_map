@@ -1,61 +1,55 @@
-apple - http://dbpedia.org/resource/Apple
-cash - http://dbpedia.org/resource/Cash
-thicket - http://dbpedia.org/resource/Thicket
-english civil war - http://dbpedia.org/resource/English_Civil_War
-edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
-cricket bat - http://dbpedia.org/resource/Cricket_bat
-fortress - http://dbpedia.org/resource/Castle
-hutterite - http://dbpedia.org/resource/Hutterites
-sussex - http://dbpedia.org/resource/Sussex
-village - http://dbpedia.org/resource/Village
-spiral staircase - http://dbpedia.org/resource/Stairs
-email - http://dbpedia.org/resource/Email
-roman road - http://dbpedia.org/resource/Roman_roads
-orchard village - http://dbpedia.org/resource/Orchard_Village
-people party - http://dbpedia.org/resource/PEOPLE_Party
-national trust - http://dbpedia.org/resource/National_trust
-grove - http://dbpedia.org/resource/Orchard
-british army - http://dbpedia.org/resource/British_Army
-salix - http://dbpedia.org/resource/Willow
-east sussex - http://dbpedia.org/resource/East_Sussex
-stone - http://dbpedia.org/resource/Sandstone
-reservation - http://dbpedia.org/resource/Indian_reservation
-paratrooper - http://dbpedia.org/resource/Paratrooper
-moate - http://dbpedia.org/resource/Moate
-rail - http://dbpedia.org/resource/Rail_transport
-pillbox - http://dbpedia.org/resource/Bunker
-willow tree - http://dbpedia.org/resource/Willow
-robertsbridge - http://dbpedia.org/resource/Robertsbridge
 roundtrip - http://dbpedia.org/resource/Roundtrip_(film)
-kent county - http://dbpedia.org/resource/Kent_County_Cricket_Club
-station - http://dbpedia.org/resource/Train_station
-calendar - http://dbpedia.org/resource/Calendar
-pub lunch - http://dbpedia.org/resource/Pub
-sleepy - http://dbpedia.org/resource/Sleepy_(novel)
-size 3 - http://dbpedia.org/resource/Rubik's_Cube
-train - http://dbpedia.org/resource/Train_station
-inn - http://dbpedia.org/resource/Pub
-anabaptist - http://dbpedia.org/resource/Anabaptism
-river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
-london charing cross - http://dbpedia.org/resource/Charing_Cross_railway_station
-shrubbery - http://dbpedia.org/resource/Shrubbery
-charing cross station - http://dbpedia.org/resource/Charing_Cross_railway_station
-rural - http://dbpedia.org/resource/Rural_area
-bodiam - http://dbpedia.org/resource/Bodiam
-plunder - http://dbpedia.org/resource/Looting
-salehurst - http://dbpedia.org/resource/Salehurst
+reservations - http://dbpedia.org/resource/Indian_reservation
+edward dalyngrigge - http://dbpedia.org/resource/Edward_Dalyngrigge
 bodiam castle - http://dbpedia.org/resource/Bodiam_Castle
-pub - http://dbpedia.org/resource/Pub
-size 4 - http://dbpedia.org/resource/Rubik's_Revenge
-high street - http://dbpedia.org/resource/High_Street
-hamlet - http://dbpedia.org/resource/Unincorporated_area
-turret - http://dbpedia.org/resource/Turret
-country lane - http://dbpedia.org/resource/Country_lane
-david - http://dbpedia.org/resource/David
-relic - http://dbpedia.org/resource/Relic
-thrive - http://dbpedia.org/resource/Thrive_Music
+stone - http://dbpedia.org/resource/Sandstone
+apple - http://dbpedia.org/resource/Apple
+fortress - http://dbpedia.org/resource/Castle
+dynamiting - http://dbpedia.org/resource/Dynamite
+thicket - http://dbpedia.org/resource/Thicket
 rother - http://dbpedia.org/resource/Rother_District
-tuberculosis - http://dbpedia.org/resource/Tuberculosis
+roman road - http://dbpedia.org/resource/Roman_roads
+spiral staircase - http://dbpedia.org/resource/Stairs
+bodiam - http://dbpedia.org/resource/Bodiam
+relics - http://dbpedia.org/resource/Relic
+station - http://dbpedia.org/resource/Train_station
 strike - http://dbpedia.org/resource/Strike_action
-sanatorium - http://dbpedia.org/resource/Sanatorium
 latin - http://dbpedia.org/resource/Latin
+size 3 - http://dbpedia.org/resource/Rubik's_Cube
+david - http://dbpedia.org/resource/David
+tuberculosis - http://dbpedia.org/resource/Tuberculosis
+sussex - http://dbpedia.org/resource/Sussex
+salix - http://dbpedia.org/resource/Willow
+hamlet - http://dbpedia.org/resource/Unincorporated_area
+british army - http://dbpedia.org/resource/British_Army
+turrets - http://dbpedia.org/resource/Turret
+shrubbery - http://dbpedia.org/resource/Shrubbery
+cash - http://dbpedia.org/resource/Cash
+cricket bat - http://dbpedia.org/resource/Cricket_bat
+national trust - http://dbpedia.org/resource/National_trust
+rail - http://dbpedia.org/resource/Rail_transport
+london charing cross - http://dbpedia.org/resource/Charing_Cross_railway_station
+sleepy - http://dbpedia.org/resource/Sleepy_(novel)
+inn - http://dbpedia.org/resource/Pub
+grove - http://dbpedia.org/resource/Orchard
+hop fields - http://dbpedia.org/resource/Hops
+willow trees - http://dbpedia.org/resource/Willow
+kent county - http://dbpedia.org/resource/Kent_County_Cricket_Club
+village - http://dbpedia.org/resource/Village
+email - http://dbpedia.org/resource/Email
+river rother - http://dbpedia.org/resource/River_Rother,_East_Sussex
+rural - http://dbpedia.org/resource/Rural_area
+pub - http://dbpedia.org/resource/Pub
+english civil war - http://dbpedia.org/resource/English_Civil_War
+calendar - http://dbpedia.org/resource/Calendar
+train - http://dbpedia.org/resource/Train_station
+high street - http://dbpedia.org/resource/High_Street
+sanatorium - http://dbpedia.org/resource/Sanatorium
+size 4 - http://dbpedia.org/resource/Rubik's_Revenge
+salehurst - http://dbpedia.org/resource/Salehurst
+robertsbridge - http://dbpedia.org/resource/Robertsbridge
+anabaptist - http://dbpedia.org/resource/Anabaptism
+pub lunch - http://dbpedia.org/resource/Pub
+hutterite - http://dbpedia.org/resource/Hutterites
+east sussex - http://dbpedia.org/resource/East_Sussex
+charing cross station - http://dbpedia.org/resource/Charing_Cross_railway_station

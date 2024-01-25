@@ -12,7 +12,9 @@ rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
 dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
 city - http://dbpedia.org/resource/City
+printing press - http://dbpedia.org/resource/Printing_press
 opera - http://dbpedia.org/resource/Opera
+military academies - http://dbpedia.org/resource/Military_academy
 napoleon - http://dbpedia.org/resource/Napoleon
 exile - http://dbpedia.org/resource/Exile
 court - http://dbpedia.org/resource/Royal_court
@@ -24,43 +26,39 @@ brazil - http://dbpedia.org/resource/Brazil
 monarchy - http://dbpedia.org/resource/Empire_of_Brazil
 de facto - http://dbpedia.org/resource/De_facto
 prince pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
-regent - http://dbpedia.org/resource/Prince_regent
+regent - http://dbpedia.org/resource/Regent
 brazil - http://dbpedia.org/resource/Brazil
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 independence - http://dbpedia.org/resource/Independence
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 lisbon - http://dbpedia.org/resource/Lisbon
-portuguese - http://dbpedia.org/resource/Portuguese_language
-corte - http://dbpedia.org/resource/Corte,_Haute-Corse
+portuguese cortes - http://dbpedia.org/resource/Portuguese_Cortes
 parliament - http://dbpedia.org/resource/Parliament_of_England
 brazil - http://dbpedia.org/resource/Brazil
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-regent - http://dbpedia.org/resource/Prince_regent
+regent - http://dbpedia.org/resource/Regent
 parliament - http://dbpedia.org/resource/Parliament_of_England
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 public opinion - http://dbpedia.org/resource/Public_opinion
-bureaucrat - http://dbpedia.org/resource/Bureaucracy
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 brazil - http://dbpedia.org/resource/Brazil
-widen - http://dbpedia.org/resource/Widen
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 decree - http://dbpedia.org/resource/Decree
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 independência ou morte - http://dbpedia.org/resource/Independence_or_Death_(painting)
 independence - http://dbpedia.org/resource/Independence
 brazil - http://dbpedia.org/resource/Brazil
+clearing - http://dbpedia.org/resource/Deforestation
 portuguese - http://dbpedia.org/resource/Portuguese_language
-loyalist - http://dbpedia.org/resource/Loyalism
+loyalists - http://dbpedia.org/resource/Loyalism
 belchior - http://dbpedia.org/resource/Belchior_(singer)
 prince pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 independence - http://dbpedia.org/resource/Independence
 cortes - http://dbpedia.org/resource/Portuguese_Cortes
 carlota - http://dbpedia.org/resource/Carlota_Joaquina_of_Spain
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-horse - http://dbpedia.org/resource/Horse
-middle road - http://dbpedia.org/resource/The_Middle_Road
 belchior - http://dbpedia.org/resource/Belchior_(singer)
 côrtes - http://dbpedia.org/resource/Lula_Côrtes
 adolescent - http://dbpedia.org/resource/Adolescence
@@ -78,7 +76,6 @@ independence - http://dbpedia.org/resource/Independence
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 market - http://dbpedia.org/resource/Free_market
-soldier - http://dbpedia.org/resource/Soldier
 independent - http://dbpedia.org/resource/Independence
 brazil - http://dbpedia.org/resource/Brazil
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
@@ -91,19 +88,17 @@ belchior - http://dbpedia.org/resource/Belchior_(singer)
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 independence - http://dbpedia.org/resource/Independence
-emperor - http://dbpedia.org/resource/Roman_emperor
+emperor - http://dbpedia.org/resource/Emperor
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 curtain - http://dbpedia.org/resource/Iron_Curtain
-symbol - http://dbpedia.org/resource/Symbol
 independence - http://dbpedia.org/resource/Independence
-regent - http://dbpedia.org/resource/Prince_regent
+regent - http://dbpedia.org/resource/Regent
 center stage - http://dbpedia.org/resource/Center_Stage_(2000_film)
 reiterate - http://dbpedia.org/resource/Reiterate
 brazil - http://dbpedia.org/resource/Brazil
-civilization - http://dbpedia.org/resource/Civilization
-roman emperor - http://dbpedia.org/resource/Roman_emperor
+roman emperors - http://dbpedia.org/resource/Roman_emperor
 blood - http://dbpedia.org/resource/Blood
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 lisbon - http://dbpedia.org/resource/Lisbon
@@ -113,10 +108,10 @@ mandate - http://dbpedia.org/resource/Mandate_of_Heaven
 brazil - http://dbpedia.org/resource/Brazil
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 constitution - http://dbpedia.org/resource/Constitution
-bandeirante - http://dbpedia.org/resource/Bandeirantes
+bandeirantes - http://dbpedia.org/resource/Bandeirantes
 soldier - http://dbpedia.org/resource/Soldier
 cannon - http://dbpedia.org/resource/Cannon
-indigenous people - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
+indigenous peoples - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
 oft - http://dbpedia.org/resource/Office_of_Fair_Trading
 brazilian history - http://dbpedia.org/resource/History_of_Brazil
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
@@ -127,23 +122,21 @@ national monument - http://dbpedia.org/resource/Monument
 portuguese - http://dbpedia.org/resource/Portuguese_language
 coffee - http://dbpedia.org/resource/Plantation
 sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
-crop - http://dbpedia.org/resource/Agriculture
 painting - http://dbpedia.org/resource/Painting
 sao paulo - http://dbpedia.org/resource/São_Paulo
 minas gerais - http://dbpedia.org/resource/Minas_Gerais
-consecrate - http://dbpedia.org/resource/Consecration
-angel - http://dbpedia.org/resource/Angel
+consecrated - http://dbpedia.org/resource/Bishop
+angels - http://dbpedia.org/resource/Angel
 cherubim - http://dbpedia.org/resource/Cherub
 orb - http://dbpedia.org/resource/Globus_cruciger
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 orb - http://dbpedia.org/resource/Globus_cruciger
-resemble - http://dbpedia.org/resource/SoltyRei
 coat - http://dbpedia.org/resource/Fur_clothing
+arms - http://dbpedia.org/resource/Coat_of_arms
 national flag - http://dbpedia.org/resource/Flag_of_the_United_States
-portrait - http://dbpedia.org/resource/Portrait
-emperor - http://dbpedia.org/resource/Roman_emperor
+emperor - http://dbpedia.org/resource/Emperor
 king joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
-emperor - http://dbpedia.org/resource/Roman_emperor
+emperor - http://dbpedia.org/resource/Emperor
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
 long view - http://dbpedia.org/resource/Long_View,_North_Carolina
@@ -165,36 +158,33 @@ pressure - http://dbpedia.org/resource/Pressure
 portuguese monarchy - http://dbpedia.org/resource/Kingdom_of_Portugal
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-die - http://dbpedia.org/resource/Death
 pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 claimant - http://dbpedia.org/resource/Pretender
 pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 triumvirate - http://dbpedia.org/resource/Triumvirate
-regent - http://dbpedia.org/resource/Prince_regent
-emperor - http://dbpedia.org/resource/Roman_emperor
+regents - http://dbpedia.org/resource/Regent
+emperor - http://dbpedia.org/resource/Emperor
 acclamation - http://dbpedia.org/resource/Acclamation
-wave - http://dbpedia.org/resource/Wave
 balcony - http://dbpedia.org/resource/Balcony
-emperor - http://dbpedia.org/resource/Roman_emperor
-liberal conservative - http://dbpedia.org/resource/Liberal_conservatism
-regent - http://dbpedia.org/resource/Prince_regent
+emperor - http://dbpedia.org/resource/Emperor
+liberals - http://dbpedia.org/resource/Liberalism
+conservatives - http://dbpedia.org/resource/Conservatism
+regents - http://dbpedia.org/resource/Regent
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 balcony - http://dbpedia.org/resource/Balcony
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
 capital city - http://dbpedia.org/resource/Forbidden_City
-soldier - http://dbpedia.org/resource/Soldier
-national color - http://dbpedia.org/resource/Flag_of_the_United_States
-green gold - http://dbpedia.org/resource/Electrum
+national colors - http://dbpedia.org/resource/Flag_of_the_United_States
+gold - http://dbpedia.org/resource/Gold
 status quo - http://dbpedia.org/resource/Status_quo
 ward - http://dbpedia.org/resource/Wards_and_electoral_divisions_of_the_United_Kingdom
 tumult - http://dbpedia.org/resource/Tumult_Records
-revolt - http://dbpedia.org/resource/Revolution
 brazil - http://dbpedia.org/resource/Brazil
 pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 barman - http://dbpedia.org/resource/Bartender
 emperor pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
 brazil - http://dbpedia.org/resource/Brazil
-emperor - http://dbpedia.org/resource/Roman_emperor
+emperor - http://dbpedia.org/resource/Emperor
 bradford - http://dbpedia.org/resource/Bradford
 documentary - http://dbpedia.org/resource/Documentary_film
 brazil - http://dbpedia.org/resource/Brazil

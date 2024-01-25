@@ -1,18 +1,13 @@
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+stone - http://dbpedia.org/resource/Stonemasonry
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+gcse - http://dbpedia.org/resource/General_Certificate_of_Secondary_Education
+family - http://dbpedia.org/resource/Family
+norman - http://dbpedia.org/resource/Norman_conquest_of_England
+lomas - http://dbpedia.org/resource/Lomas
+sunny - http://dbpedia.org/resource/Nissan_Sunny
 vieuxpont - http://dbpedia.org/resource/Vieuxpont
 ms - http://dbpedia.org/resource/Millisecond
-lomas - http://dbpedia.org/resource/Lomas
-edward - http://dbpedia.org/resource/Edward_I_of_England
-robert clifford - http://dbpedia.org/resource/Bob_Clifford
-sunny - http://dbpedia.org/resource/Nissan_Sunny
-brougham castle - http://dbpedia.org/resource/Brougham_Castle
-historian - http://dbpedia.org/resource/Historian
-timber - http://dbpedia.org/resource/Lumber
-penrith - http://dbpedia.org/resource/Penrith_Panthers
-family - http://dbpedia.org/resource/Family
-scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
 cumbria - http://dbpedia.org/resource/Cumbria
-stone - http://dbpedia.org/resource/Stonemasonry
-remainder term - http://dbpedia.org/resource/Series_(mathematics)
-day dawn - http://dbpedia.org/resource/Day_Dawn,_Western_Australia
-norman - http://dbpedia.org/resource/Norman_conquest_of_England
-gcse - http://dbpedia.org/resource/General_Certificate_of_Secondary_Education
+scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+timber - http://dbpedia.org/resource/Lumber

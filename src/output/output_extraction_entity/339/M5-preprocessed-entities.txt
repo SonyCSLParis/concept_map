@@ -5,25 +5,23 @@ committee - http://dbpedia.org/resource/Committee
 resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 commonwealth - http://dbpedia.org/resource/Republic
 spirit - http://dbpedia.org/resource/Soul
 committee - http://dbpedia.org/resource/Committee
 diminution - http://dbpedia.org/resource/Diminution
 committee - http://dbpedia.org/resource/Committee
 eye - http://dbpedia.org/resource/Human_eye
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 candor - http://dbpedia.org/resource/Candor_Chasma
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 aggression - http://dbpedia.org/resource/Aggression
-warrant - http://dbpedia.org/resource/Theory_of_justification
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 aggression - http://dbpedia.org/resource/Aggression
-warrant - http://dbpedia.org/resource/Theory_of_justification
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 attachment - http://dbpedia.org/resource/Attachment_theory
@@ -37,23 +35,18 @@ compact - http://dbpedia.org/resource/Compact_theory
 compact - http://dbpedia.org/resource/Compact_theory
 compact - http://dbpedia.org/resource/Compact_theory
 evil - http://dbpedia.org/resource/Good_and_evil
-liberty - http://dbpedia.org/resource/Liberty
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 committee - http://dbpedia.org/resource/Committee
 eye - http://dbpedia.org/resource/Human_eye
-inference - http://dbpedia.org/resource/Inference
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
-federal power - http://dbpedia.org/resource/Federalism
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
-federal power - http://dbpedia.org/resource/Federalism
-constitution committee - http://dbpedia.org/resource/Constitution_of_the_Irish_Free_State
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+committee - http://dbpedia.org/resource/Committee
 doctrine - http://dbpedia.org/resource/Doctrine
-open source - http://dbpedia.org/resource/Free_software
-federal power - http://dbpedia.org/resource/Federalism
 unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
 doctrine - http://dbpedia.org/resource/Doctrine
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
@@ -63,41 +56,34 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 amendment - http://dbpedia.org/resource/Law
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-reserve - http://dbpedia.org/resource/Bank_reserves
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 committee - http://dbpedia.org/resource/Committee
-political society - http://dbpedia.org/resource/Political_movement
-political society - http://dbpedia.org/resource/Political_movement
 sovereign - http://dbpedia.org/resource/Sovereignty
+wished - http://dbpedia.org/resource/Wished_(film)
 language - http://dbpedia.org/resource/Language
 signification - http://dbpedia.org/resource/Sign_(semiotics)
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-compact power - http://dbpedia.org/resource/LG_Chem
+compact - http://dbpedia.org/resource/Compact_theory
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 plain - http://dbpedia.org/resource/John_Major
 compact - http://dbpedia.org/resource/Compact_theory
-clause - http://dbpedia.org/resource/Clause
 compact - http://dbpedia.org/resource/Compact_theory
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 compact - http://dbpedia.org/resource/Compact_theory
 compact - http://dbpedia.org/resource/Compact_theory
 evil - http://dbpedia.org/resource/Good_and_evil
-liberty - http://dbpedia.org/resource/Liberty
 committee - http://dbpedia.org/resource/Committee
 plain - http://dbpedia.org/resource/John_Major
 common sense - http://dbpedia.org/resource/Common_sense
-compact - http://dbpedia.org/resource/Compact_theory
 resort - http://dbpedia.org/resource/Resort
-party party - http://dbpedia.org/resource/Party_Party_(film)
-judge - http://dbpedia.org/resource/Judge
 resort - http://dbpedia.org/resource/Resort
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereign - http://dbpedia.org/resource/Sovereignty
+adds - http://dbpedia.org/resource/Applied_Digital_Data_Systems
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 compact - http://dbpedia.org/resource/Compact_theory
 sovereign - http://dbpedia.org/resource/Sovereignty
@@ -111,7 +97,6 @@ compact - http://dbpedia.org/resource/Compact_theory
 constitutional union - http://dbpedia.org/resource/Constitutional_Union_Party_(United_States)
 interposition - http://dbpedia.org/resource/Interposition
 sovereign - http://dbpedia.org/resource/Sovereignty
-vital principle - http://dbpedia.org/resource/Vitalism
 political system - http://dbpedia.org/resource/Political_system
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 object - http://dbpedia.org/resource/Physical_object
@@ -127,39 +112,33 @@ resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 object - http://dbpedia.org/resource/Physical_object
 interposition - http://dbpedia.org/resource/Interposition
 evil - http://dbpedia.org/resource/Good_and_evil
-liberty - http://dbpedia.org/resource/Liberty
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 inconceivable - http://dbpedia.org/resource/Inconceivable_(TV_series)
 object - http://dbpedia.org/resource/Physical_object
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-dangerous power - http://dbpedia.org/resource/Dangerous_Power
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 evil - http://dbpedia.org/resource/Good_and_evil
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 safety - http://dbpedia.org/resource/Safety
 relief - http://dbpedia.org/resource/Legal_remedy
 subversion - http://dbpedia.org/resource/Subversion
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 plain - http://dbpedia.org/resource/John_Major
 denial - http://dbpedia.org/resource/Denial
 independence - http://dbpedia.org/resource/Independence
-object - http://dbpedia.org/resource/Physical_object
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 resort - http://dbpedia.org/resource/Resort
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judiciary - http://dbpedia.org/resource/Judicial_system_of_Singapore
 sovereign - http://dbpedia.org/resource/Sovereignty
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judiciary - http://dbpedia.org/resource/Judicial_system_of_Singapore
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
-dangerous power - http://dbpedia.org/resource/Dangerous_Power
-dangerous power - http://dbpedia.org/resource/Dangerous_Power
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-party constitution - http://dbpedia.org/resource/Constitution_of_the_Communist_Party_of_China
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 judge - http://dbpedia.org/resource/Judge
 compact - http://dbpedia.org/resource/Compact_theory
 judiciary - http://dbpedia.org/resource/Judicial_system_of_Singapore
@@ -168,6 +147,7 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 resort - http://dbpedia.org/resource/Resort
 resort - http://dbpedia.org/resource/Resort
 compact - http://dbpedia.org/resource/Compact_theory
+trusts - http://dbpedia.org/resource/English_trust_law
 hypothesis - http://dbpedia.org/resource/Hypothesis
 judicial power - http://dbpedia.org/resource/Judiciary
 concurrence - http://dbpedia.org/resource/Concurring_opinion
@@ -175,30 +155,21 @@ constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 truth - http://dbpedia.org/resource/Truth
 resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
 temperate - http://dbpedia.org/resource/Temperance_movement
-enjoin - http://dbpedia.org/resource/Injunction
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 degeneracy - http://dbpedia.org/resource/Degeneration_theory
-republic - http://dbpedia.org/resource/Republic
-doctrine - http://dbpedia.org/resource/Doctrine
-epoch - http://dbpedia.org/resource/Age_of_the_universe
+epoch - http://dbpedia.org/resource/Epoch
 revolution - http://dbpedia.org/resource/Revolution
-republican constitution - http://dbpedia.org/resource/Constitution_of_India
+republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
 declaratory - http://dbpedia.org/resource/Injunction
 vigilant - http://dbpedia.org/resource/Vickers_Vigilant
 discharge - http://dbpedia.org/resource/Military_discharge
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 sovereignty - http://dbpedia.org/resource/Sovereignty
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-truth - http://dbpedia.org/resource/Truth
-observation - http://dbpedia.org/resource/Observation
-resolution - http://dbpedia.org/resource/Glossary_of_policy_debate_terms
+resolutions - http://dbpedia.org/resource/United_Nations_Security_Council
 liberty - http://dbpedia.org/resource/Liberty
-symptom - http://dbpedia.org/resource/Symptom
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 chicago - http://dbpedia.org/resource/Chicago
 adoption - http://dbpedia.org/resource/Adoption
 federal constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 philadelphia - http://dbpedia.org/resource/Philadelphia
-york - http://dbpedia.org/resource/House_of_York
+york - http://dbpedia.org/resource/York
 franklin - http://dbpedia.org/resource/The_Franklin's_Tale

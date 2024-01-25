@@ -1,7 +1,7 @@
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 castle park - http://dbpedia.org/resource/Colchester_Castle
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
-manor - http://dbpedia.org/resource/Manor_house
+manors - http://dbpedia.org/resource/Manor_house
 tottenham - http://dbpedia.org/resource/Tottenham
 mansion - http://dbpedia.org/resource/Mansion
 royal family - http://dbpedia.org/resource/Royal_family
@@ -10,16 +10,12 @@ manor - http://dbpedia.org/resource/Manor_house
 manor house - http://dbpedia.org/resource/Manor_house
 tower - http://dbpedia.org/resource/Keep
 grove - http://dbpedia.org/resource/Orchard
-tree - http://dbpedia.org/resource/Tree
 public park - http://dbpedia.org/resource/Park
-pioneer school - http://dbpedia.org/resource/Pioneer_School
-house park - http://dbpedia.org/resource/House_Park
 tottenham - http://dbpedia.org/resource/Tottenham
 udc - http://dbpedia.org/resource/United_Daughters_of_the_Confederacy
 tottenham - http://dbpedia.org/resource/Tottenham
 public park - http://dbpedia.org/resource/Park
-tree - http://dbpedia.org/resource/Tree
-bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
+bruce castle - http://dbpedia.org/resource/Bruce_Castle
 local history - http://dbpedia.org/resource/Local_history
 lordship - http://dbpedia.org/resource/Manorialism
 church - http://dbpedia.org/resource/Catholic_Church
@@ -28,7 +24,7 @@ tottenham - http://dbpedia.org/resource/Tottenham
 postcode - http://dbpedia.org/resource/Postcodes_in_the_United_Kingdom
 n17 - http://dbpedia.org/resource/N_postcode_area
 public park - http://dbpedia.org/resource/Park
-listed structure - http://dbpedia.org/resource/Listed_building
+listed structures - http://dbpedia.org/resource/Listed_building
 lbi - http://dbpedia.org/resource/LBi
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 brick - http://dbpedia.org/resource/Brick
@@ -42,10 +38,11 @@ sun - http://dbpedia.org/resource/Solar_deity
 mon - http://dbpedia.org/resource/Nation_state
 football - http://dbpedia.org/resource/Association_football
 tennis - http://dbpedia.org/resource/Tennis
+bowls - http://dbpedia.org/resource/Bowls
 basketball - http://dbpedia.org/resource/Basketball
 playground - http://dbpedia.org/resource/Playground
-paddle - http://dbpedia.org/resource/Canoe
-café museum - http://dbpedia.org/resource/Café_Museum
+paddling pool - http://dbpedia.org/resource/Swimming_pool
+café - http://dbpedia.org/resource/Coffeehouse
 tottenham - http://dbpedia.org/resource/Tottenham
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 carnival - http://dbpedia.org/resource/Fair
@@ -69,21 +66,19 @@ white hart lane - http://dbpedia.org/resource/White_Hart_Lane_railway_station
 tottenham cemetery - http://dbpedia.org/resource/Tottenham_Cemetery
 church - http://dbpedia.org/resource/Catholic_Church
 church - http://dbpedia.org/resource/Catholic_Church
-skirt - http://dbpedia.org/resource/Skirt
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 mansion - http://dbpedia.org/resource/Mansion
 bruces - http://dbpedia.org/resource/Clan_Bruce
-manor - http://dbpedia.org/resource/Manor_house
+manors - http://dbpedia.org/resource/Manor_house
 ancient parish - http://dbpedia.org/resource/Parish
 tottenham - http://dbpedia.org/resource/Tottenham
 royal family - http://dbpedia.org/resource/Royal_family
 brus - http://dbpedia.org/resource/Clan_Bruce
 manor - http://dbpedia.org/resource/Manor_house
 robert bruce - http://dbpedia.org/resource/Robert_the_Bruce
-land claim - http://dbpedia.org/resource/Donation_Land_Claim_Act
 scottish throne - http://dbpedia.org/resource/Kingdom_of_Scotland
-grange - http://dbpedia.org/resource/Monastic_grange
-fishpond - http://dbpedia.org/resource/Fish_pond
+granges - http://dbpedia.org/resource/Monastic_grange
+fishponds - http://dbpedia.org/resource/Fish_pond
 sir william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 manor - http://dbpedia.org/resource/Manor_house
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
@@ -94,14 +89,9 @@ henry - http://dbpedia.org/resource/Henry_(unit)
 lord compton - http://dbpedia.org/resource/William_Compton,_1st_Earl_of_Northampton
 manor - http://dbpedia.org/resource/Manor_house
 woodland - http://dbpedia.org/resource/Woodland
-acre - http://dbpedia.org/resource/Acre
-acre - http://dbpedia.org/resource/Acre
-civil servant - http://dbpedia.org/resource/Civil_service
-family - http://dbpedia.org/resource/Family
+civil servants - http://dbpedia.org/resource/Civil_service
 plague - http://dbpedia.org/resource/Black_Death
-ride london - http://dbpedia.org/resource/RideLondon
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
-lease - http://dbpedia.org/resource/Leasehold_estate
 sir thomas peniston - http://dbpedia.org/resource/Sir_Thomas_Penyston,_1st_Baronet
 manor - http://dbpedia.org/resource/Manor_house
 hugh hare - http://dbpedia.org/resource/Hugh_Hare
@@ -109,15 +99,15 @@ norfolk - http://dbpedia.org/resource/Norfolk
 family - http://dbpedia.org/resource/Family
 royal favourite - http://dbpedia.org/resource/Favourite
 irish peerage - http://dbpedia.org/resource/Peerage_of_Ireland
+charles - http://dbpedia.org/resource/Charles_II_of_England
 lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
-language - http://dbpedia.org/resource/Latin
 classical - http://dbpedia.org/resource/Classical_architecture
-family - http://dbpedia.org/resource/Family
+family fortunes - http://dbpedia.org/resource/Family_Fortunes
 civil war - http://dbpedia.org/resource/English_Civil_War
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
-die - http://dbpedia.org/resource/Death
 totteridge - http://dbpedia.org/resource/Totteridge
+choking - http://dbpedia.org/resource/Choking
 turkey - http://dbpedia.org/resource/Domestic_turkey
 bone - http://dbpedia.org/resource/Bone
 thomas - http://dbpedia.org/resource/THOMAS
@@ -125,41 +115,31 @@ clay - http://dbpedia.org/resource/London_Clay
 manor house - http://dbpedia.org/resource/Manor_house
 tower - http://dbpedia.org/resource/Keep
 grove - http://dbpedia.org/resource/Orchard
-tree stand - http://dbpedia.org/resource/Tree_stand
 brick - http://dbpedia.org/resource/Brick
 elizabethan - http://dbpedia.org/resource/Elizabeth_I_of_England
 henry - http://dbpedia.org/resource/Henry_(unit)
 lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 coat - http://dbpedia.org/resource/Fur_clothing
-family - http://dbpedia.org/resource/Family
-marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
-outlive - http://dbpedia.org/resource/Outlive_(album)
+arms - http://dbpedia.org/resource/Coat_of_arms
+family fortunes - http://dbpedia.org/resource/Family_Fortunes
 constantia - http://dbpedia.org/resource/Flavia_Julia_Constantia
 lucy - http://dbpedia.org/resource/Lucy_Mack_Smith
 family - http://dbpedia.org/resource/Family
-die young - http://dbpedia.org/resource/Die_Young_(Black_Sabbath_song)
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 sarah - http://dbpedia.org/resource/SAR-Lupe
 duchess - http://dbpedia.org/resource/Duke
 somerset - http://dbpedia.org/resource/Somerset
-marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
-die - http://dbpedia.org/resource/Death
 westminster abbey - http://dbpedia.org/resource/Westminster_Abbey
 lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
 parish - http://dbpedia.org/resource/Parish
 tottenham - http://dbpedia.org/resource/Tottenham
 forecourt - http://dbpedia.org/resource/Forecourt
-south house - http://dbpedia.org/resource/The_Artist's_Cottage_project
 grass - http://dbpedia.org/resource/Pasture
-plat - http://dbpedia.org/resource/Plat
-urn - http://dbpedia.org/resource/Urn
-garden east - http://dbpedia.org/resource/Garden_East
 fountain - http://dbpedia.org/resource/Fountain
 court - http://dbpedia.org/resource/Courtyard
 lord coleraine - http://dbpedia.org/resource/Baron_Coleraine
 henry - http://dbpedia.org/resource/Henry_(unit)
-time travel - http://dbpedia.org/resource/Time_travel
 offspring - http://dbpedia.org/resource/Foal
 henrietta - http://dbpedia.org/resource/Henrietta_of_England
 illegitimate - http://dbpedia.org/resource/Nomen_illegitimum
@@ -171,13 +151,12 @@ lord mayor - http://dbpedia.org/resource/Lord_Mayor_of_London
 inventory - http://dbpedia.org/resource/Inventory
 orange - http://dbpedia.org/resource/Orange_Revolution
 tree - http://dbpedia.org/resource/Tree
+tubs - http://dbpedia.org/resource/Quarry_tub
 forecourt - http://dbpedia.org/resource/Forecourt
-pleasure ground - http://dbpedia.org/resource/Pleasure_ground
-fishpond - http://dbpedia.org/resource/Fish_pond
-shrubbery - http://dbpedia.org/resource/Shrubbery
+fishponds - http://dbpedia.org/resource/Fish_pond
 kitchen garden - http://dbpedia.org/resource/Kitchen_garden
 mount - http://dbpedia.org/resource/Mountain
-plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
+plantations - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
 belt - http://dbpedia.org/resource/Asteroid_belt
 plantation - http://dbpedia.org/resource/Plantation_complexes_in_the_Southern_United_States
 bruce grove - http://dbpedia.org/resource/Bruce_Grove_railway_station
@@ -189,21 +168,21 @@ bruce castle - http://dbpedia.org/resource/Bruce_Castle
 john eardley wilmot - http://dbpedia.org/resource/John_Eardley_Wilmot
 lawyer - http://dbpedia.org/resource/Barrister
 tiverton - http://dbpedia.org/resource/Tiverton_Rugby_Club
-refugee - http://dbpedia.org/resource/Refugee
+refugees - http://dbpedia.org/resource/Refugee
 independence - http://dbpedia.org/resource/Mexican_War_of_Independence
 william wilberforce - http://dbpedia.org/resource/William_Wilberforce
 edmond - http://dbpedia.org/resource/Edmond_James_de_Rothschild
 burke - http://dbpedia.org/resource/Edmund_Burke
 wilmot - http://dbpedia.org/resource/Chester_Wilmot
 committee - http://dbpedia.org/resource/Committee
-refugee - http://dbpedia.org/resource/Refugee
+refugees - http://dbpedia.org/resource/Refugee
 french revolution - http://dbpedia.org/resource/French_Revolution
 timber - http://dbpedia.org/resource/Timber_framing
 tree - http://dbpedia.org/resource/Tree
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 merchant - http://dbpedia.org/resource/Merchant
 ede - http://dbpedia.org/resource/Rade_people
-wing house - http://dbpedia.org/resource/Wing_House_Museum
+wing - http://dbpedia.org/resource/Wing
 birmingham - http://dbpedia.org/resource/Birmingham
 curriculum - http://dbpedia.org/resource/Curriculum
 corporal punishment - http://dbpedia.org/resource/Corporal_punishment
@@ -214,27 +193,22 @@ babbage - http://dbpedia.org/resource/Charles_Babbage
 inventor - http://dbpedia.org/resource/Inventor
 computer - http://dbpedia.org/resource/Computer
 rowland hill - http://dbpedia.org/resource/Rowland_Hill
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+knighted - http://dbpedia.org/resource/Knight
 postal system - http://dbpedia.org/resource/Mail
 uniform - http://dbpedia.org/resource/School_uniform
-die - http://dbpedia.org/resource/Death
 westminster abbey - http://dbpedia.org/resource/Westminster_Abbey
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
 os map - http://dbpedia.org/resource/Ordnance_Survey
-shrubbery - http://dbpedia.org/resource/Shrubbery
 serpentine - http://dbpedia.org/resource/Serpentine_shape
 flower garden - http://dbpedia.org/resource/Flower_garden
-shrubbery - http://dbpedia.org/resource/Shrubbery
 kitchen garden - http://dbpedia.org/resource/Kitchen_garden
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
-house park - http://dbpedia.org/resource/House_Park
 tottenham - http://dbpedia.org/resource/Tottenham
 udc - http://dbpedia.org/resource/United_Daughters_of_the_Confederacy
 tottenham local board - http://dbpedia.org/resource/Municipal_Borough_of_Tottenham
 tottenham - http://dbpedia.org/resource/Tottenham
 public park - http://dbpedia.org/resource/Park
 os map - http://dbpedia.org/resource/Ordnance_Survey
-artefact - http://dbpedia.org/resource/Cultural_artifact
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 postal history - http://dbpedia.org/resource/Postal_history
 sir rowland hill - http://dbpedia.org/resource/Rowland_Hill
@@ -245,33 +219,26 @@ iron - http://dbpedia.org/resource/Wrought_iron
 kitchen garden - http://dbpedia.org/resource/Kitchen_garden
 fishpond - http://dbpedia.org/resource/Fish_pond
 cement - http://dbpedia.org/resource/Plaster
-paddle - http://dbpedia.org/resource/Canoe
+paddling pool - http://dbpedia.org/resource/Swimming_pool
 playground - http://dbpedia.org/resource/Playground
 pond - http://dbpedia.org/resource/Pond
 depression - http://dbpedia.org/resource/Great_Depression
 belt - http://dbpedia.org/resource/Asteroid_belt
-tree - http://dbpedia.org/resource/Tree
-shrub - http://dbpedia.org/resource/Shrub
 flower garden - http://dbpedia.org/resource/Flower_garden
-south house - http://dbpedia.org/resource/The_Artist's_Cottage_project
 kitchen garden - http://dbpedia.org/resource/Kitchen_garden
-landscape - http://dbpedia.org/resource/Landscaping
 flower - http://dbpedia.org/resource/Flower
 kitchen garden - http://dbpedia.org/resource/Kitchen_garden
 bowling - http://dbpedia.org/resource/Bowls
-tennis court - http://dbpedia.org/resource/Real_tennis
-asphalt - http://dbpedia.org/resource/Asphalt_concrete
+putting green - http://dbpedia.org/resource/Golf_course
+tennis - http://dbpedia.org/resource/Tennis
 pitch - http://dbpedia.org/resource/Football_pitch
 bowling - http://dbpedia.org/resource/Bowls
 pavilion - http://dbpedia.org/resource/Pavilion
 kitchen garden - http://dbpedia.org/resource/Kitchen_garden
 brick - http://dbpedia.org/resource/Brick
 criss - http://dbpedia.org/resource/Criss_Oliva
-asphalt - http://dbpedia.org/resource/Asphalt_concrete
-north park - http://dbpedia.org/resource/Newcastle_Great_Park
-london plane tree - http://dbpedia.org/resource/Platanus_×_acerifolia
-tree - http://dbpedia.org/resource/Tree
-lime - http://dbpedia.org/resource/Tilia
+london plane - http://dbpedia.org/resource/Platanus_×_acerifolia
+limes - http://dbpedia.org/resource/Tilia
 horse chestnut - http://dbpedia.org/resource/Aesculus
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 green flag award - http://dbpedia.org/resource/Green_Flag_Award
@@ -281,8 +248,8 @@ pegram - http://dbpedia.org/resource/Erric_Pegram
 manor house - http://dbpedia.org/resource/Manor_house
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 grid - http://dbpedia.org/resource/Grid_plan
-hectare - http://dbpedia.org/resource/Hectare
 heritage - http://dbpedia.org/resource/Historic_site
+registered common - http://dbpedia.org/resource/Common_land
 village - http://dbpedia.org/resource/Village
 greenon - http://dbpedia.org/resource/Greenon_High_School_(Springfield,_Ohio)
 local authority - http://dbpedia.org/resource/Public_housing
@@ -296,3 +263,4 @@ conservation area - http://dbpedia.org/resource/Protected_area
 boro - http://dbpedia.org/resource/Rice
 belt - http://dbpedia.org/resource/Asteroid_belt
 open land - http://dbpedia.org/resource/Open_Land
+archaeological - http://dbpedia.org/resource/Archaeological_site

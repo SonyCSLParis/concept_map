@@ -7,4 +7,4 @@ september 11 2001 - http://dbpedia.org/resource/September_11_attacks
 pbs - http://dbpedia.org/resource/PBS
 documentary - http://dbpedia.org/resource/Documentary_film
 silverstein - http://dbpedia.org/resource/Silverstein_Properties
-firefighter - http://dbpedia.org/resource/Firefighter
+firefighters - http://dbpedia.org/resource/New_York_City_Fire_Department

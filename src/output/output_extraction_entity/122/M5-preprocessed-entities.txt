@@ -1,9 +1,7 @@
-hotel - http://dbpedia.org/resource/Hotel
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
 skiddle - http://dbpedia.org/resource/Skiddle
-hotel - http://dbpedia.org/resource/Hotel
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
@@ -21,8 +19,8 @@ west green - http://dbpedia.org/resource/West_Green_House
 n15 - http://dbpedia.org/resource/N_postcode_area
 hotel - http://dbpedia.org/resource/Hotel
 north london - http://dbpedia.org/resource/North_London
-underground station - http://dbpedia.org/resource/Metro_station
-hotel - http://dbpedia.org/resource/Hotel
+sisters underground - http://dbpedia.org/resource/Sisters_Underground
+station - http://dbpedia.org/resource/Train_station
 pricing - http://dbpedia.org/resource/Pricing
 crompton - http://dbpedia.org/resource/Shaw_and_Crompton
 court - http://dbpedia.org/resource/Courtyard
@@ -31,8 +29,8 @@ court - http://dbpedia.org/resource/Courtyard
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n22 - http://dbpedia.org/resource/N_postcode_area
-serviced apartment - http://dbpedia.org/resource/Serviced_apartment
 high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+fitted kitchen - http://dbpedia.org/resource/Kitchen
 hotel - http://dbpedia.org/resource/Hotel
 hotel - http://dbpedia.org/resource/Hotel
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
@@ -62,8 +60,8 @@ harringay - http://dbpedia.org/resource/Harringay
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n13 - http://dbpedia.org/resource/N_postcode_area
-serviced apartment - http://dbpedia.org/resource/Serviced_apartment
 high standard - http://dbpedia.org/resource/High_Standard_Manufacturing_Company
+fitted kitchen - http://dbpedia.org/resource/Kitchen
 beaconsfield - http://dbpedia.org/resource/Beaconsfield
 hotel - http://dbpedia.org/resource/Hotel
 beaconsfield - http://dbpedia.org/resource/Beaconsfield
@@ -89,31 +87,26 @@ mountview - http://dbpedia.org/resource/Mountview_Academy_of_Theatre_Arts
 guesthouse - http://dbpedia.org/resource/Guest_house
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
-mount - http://dbpedia.org/resource/Telescope_mount
+mount - http://dbpedia.org/resource/Weapon_mount
 breakfast - http://dbpedia.org/resource/Breakfast
 north london - http://dbpedia.org/resource/North_London
-hotel - http://dbpedia.org/resource/Hotel
 grid - http://dbpedia.org/resource/Grid_plan
 hotel - http://dbpedia.org/resource/Hotel
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
-london hotel - http://dbpedia.org/resource/London_Hotel,_Albany
 hotel - http://dbpedia.org/resource/Hotel
+flies - http://dbpedia.org/resource/Fly_fishing
 hotel - http://dbpedia.org/resource/Hotel
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
-hotel - http://dbpedia.org/resource/Hotel
-restaurant - http://dbpedia.org/resource/Restaurant
-railway station - http://dbpedia.org/resource/Train_station
 hotel - http://dbpedia.org/resource/Hotel
 real time - http://dbpedia.org/resource/Real-time_computing
 email - http://dbpedia.org/resource/Email
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
-hotel - http://dbpedia.org/resource/Hotel
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
@@ -123,18 +116,13 @@ lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
 hotel - http://dbpedia.org/resource/Hotel
 taxi - http://dbpedia.org/resource/Taxicab
-walk rate - http://dbpedia.org/resource/Bases_on_balls_per_nine_innings_pitched
 skiddle - http://dbpedia.org/resource/Skiddle
-budget hotel - http://dbpedia.org/resource/Hotel
-service apartment - http://dbpedia.org/resource/Serviced_apartment
-luxury hotel - http://dbpedia.org/resource/Hotel
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
-restaurant - http://dbpedia.org/resource/Restaurant
 bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
@@ -142,16 +130,8 @@ bruce castle park - http://dbpedia.org/resource/Bruce_Castle
 lordship lane - http://dbpedia.org/resource/Lordship_Lane_railway_station
 n17 - http://dbpedia.org/resource/N_postcode_area
 london hotel - http://dbpedia.org/resource/London_Hotel,_Albany
-london hotel - http://dbpedia.org/resource/London_Hotel,_Albany
-hotel - http://dbpedia.org/resource/Hotel
-luxury hotel - http://dbpedia.org/resource/Hotel
 breakfast - http://dbpedia.org/resource/Breakfast
-hotel - http://dbpedia.org/resource/Hotel
-hotel - http://dbpedia.org/resource/Hotel
-hotel - http://dbpedia.org/resource/Hotel
 wifi - http://dbpedia.org/resource/Wi-Fi
-hotel - http://dbpedia.org/resource/Hotel
-hotel - http://dbpedia.org/resource/Hotel
 o2 arena - http://dbpedia.org/resource/The_O2_Arena
 fabric - http://dbpedia.org/resource/Textile
 wembley arena - http://dbpedia.org/resource/Wembley_Arena
@@ -162,4 +142,3 @@ cafe - http://dbpedia.org/resource/Coffeehouse
 cargo - http://dbpedia.org/resource/Cargo
 moon - http://dbpedia.org/resource/Moon
 putney - http://dbpedia.org/resource/Putney
-hotel - http://dbpedia.org/resource/Hotel

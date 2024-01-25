@@ -8,4 +8,3 @@ herbal - http://dbpedia.org/resource/Herbal_medicine
 alternative medicine - http://dbpedia.org/resource/Alternative_medicine
 gcse - http://dbpedia.org/resource/General_Certificate_of_Secondary_Education
 crime - http://dbpedia.org/resource/Crime
-crime - http://dbpedia.org/resource/Crime

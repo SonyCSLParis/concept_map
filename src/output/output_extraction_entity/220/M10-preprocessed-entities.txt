@@ -2,12 +2,12 @@ british empire - http://dbpedia.org/resource/British_Empire
 british empire - http://dbpedia.org/resource/British_Empire
 britain - http://dbpedia.org/resource/British_Empire
 global power - http://dbpedia.org/resource/Great_power
-colony - http://dbpedia.org/resource/Crown_colony
-colony - http://dbpedia.org/resource/Crown_colony
-colony - http://dbpedia.org/resource/Crown_colony
+colonies - http://dbpedia.org/resource/Crown_colony
+colonies - http://dbpedia.org/resource/Crown_colony
+colonies - http://dbpedia.org/resource/Crown_colony
 north america - http://dbpedia.org/resource/North_America
 netherlands - http://dbpedia.org/resource/Dutch_Republic
-colony - http://dbpedia.org/resource/Crown_colony
+thirteen american colonies - http://dbpedia.org/resource/Thirteen_Colonies
 british rule - http://dbpedia.org/resource/British_Empire
 britain - http://dbpedia.org/resource/British_Empire
 sun - http://dbpedia.org/resource/Sun
@@ -16,36 +16,35 @@ john wilson - http://dbpedia.org/resource/John_J._B._Wilson
 britain - http://dbpedia.org/resource/British_Empire
 global policeman - http://dbpedia.org/resource/Global_policeman
 pax britannica - http://dbpedia.org/resource/Pax_Britannica
-colony - http://dbpedia.org/resource/Crown_colony
+colonies - http://dbpedia.org/resource/Crown_colony
 dominant - http://dbpedia.org/resource/Dominant-party_system
 britain - http://dbpedia.org/resource/British_Empire
-economy - http://dbpedia.org/resource/Economy
 argentina - http://dbpedia.org/resource/Argentina
 siam - http://dbpedia.org/resource/Thailand
 queen victoria - http://dbpedia.org/resource/Queen_Victoria
 british empire - http://dbpedia.org/resource/British_Empire
+goods - http://dbpedia.org/resource/Freight_transport
 britain - http://dbpedia.org/resource/British_Empire
 great exhibition - http://dbpedia.org/resource/Great_Exhibition
 britain - http://dbpedia.org/resource/British_Empire
 naval supremacy - http://dbpedia.org/resource/Command_of_the_sea
-legacy debt - http://dbpedia.org/resource/Legacy_debt
 britain - http://dbpedia.org/resource/British_Empire
 russia - http://dbpedia.org/resource/Russia
 superpower - http://dbpedia.org/resource/Superpower
 british empire - http://dbpedia.org/resource/British_Empire
 britain - http://dbpedia.org/resource/British_Empire
+developing nations - http://dbpedia.org/resource/Developing_country
 democracy - http://dbpedia.org/resource/Democracy
-colony - http://dbpedia.org/resource/Crown_colony
+goods - http://dbpedia.org/resource/Freight_transport
+colonies - http://dbpedia.org/resource/Crown_colony
 britain - http://dbpedia.org/resource/British_Empire
-profiteer - http://dbpedia.org/resource/War_profiteering
 british empire - http://dbpedia.org/resource/British_Empire
 british empire - http://dbpedia.org/resource/British_Empire
 victorian times - http://dbpedia.org/resource/Victorian_era
 british empire - http://dbpedia.org/resource/British_Empire
-colony - http://dbpedia.org/resource/Crown_colony
-bear - http://dbpedia.org/resource/Bear
-case control - http://dbpedia.org/resource/Case–control_study
-statistic - http://dbpedia.org/resource/Statistics
+colonies - http://dbpedia.org/resource/Crown_colony
+borne - http://dbpedia.org/resource/Matt_Osborne
+statistics - http://dbpedia.org/resource/Statistics
 british empire - http://dbpedia.org/resource/British_Empire
 victorian times - http://dbpedia.org/resource/Victorian_era
 botswana - http://dbpedia.org/resource/Botswana

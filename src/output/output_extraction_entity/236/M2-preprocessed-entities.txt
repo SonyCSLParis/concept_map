@@ -1,24 +1,19 @@
 napoleonic wars - http://dbpedia.org/resource/Napoleonic_Wars
 brazilian independence - http://dbpedia.org/resource/Empire_of_Brazil
 dale - http://dbpedia.org/resource/Valley
-monarch - http://dbpedia.org/resource/Monarchy
-wage war - http://dbpedia.org/resource/Wage_War
 revolutionary - http://dbpedia.org/resource/French_Revolution
 napoleonic france - http://dbpedia.org/resource/Napoleon
-royal family - http://dbpedia.org/resource/Royal_family
+royal families - http://dbpedia.org/resource/Royal_family
 hapsburgs - http://dbpedia.org/resource/House_of_Habsburg
 hohenzollerns - http://dbpedia.org/resource/House_of_Hohenzollern
 humiliation - http://dbpedia.org/resource/Sexual_abuse
 napoleon - http://dbpedia.org/resource/Napoleon
-capital - http://dbpedia.org/resource/Capital_punishment
-century royal - http://dbpedia.org/resource/Toyota_Century
-family - http://dbpedia.org/resource/Family
+capitals - http://dbpedia.org/resource/Capital_city
+royal families - http://dbpedia.org/resource/Royal_family
 capital - http://dbpedia.org/resource/Capital_punishment
 napoleon - http://dbpedia.org/resource/Napoleon
 french emperor - http://dbpedia.org/resource/First_French_Empire
 britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
-wage war - http://dbpedia.org/resource/Wage_War
-vie - http://dbpedia.org/resource/Vie_(river)
 paris - http://dbpedia.org/resource/Paris
 britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 overseas territory - http://dbpedia.org/resource/Portuguese_Empire
@@ -34,7 +29,7 @@ wage - http://dbpedia.org/resource/Wage_labour
 economic war - http://dbpedia.org/resource/Economic_warfare
 continental system - http://dbpedia.org/resource/Continental_System
 continental system - http://dbpedia.org/resource/Continental_System
-continent - http://dbpedia.org/resource/Continental_Portugal
+goods - http://dbpedia.org/resource/Goods
 napoleon - http://dbpedia.org/resource/Napoleon
 continental blockade - http://dbpedia.org/resource/Continental_System
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
@@ -53,6 +48,7 @@ etruria - http://dbpedia.org/resource/Etruria
 tuscany - http://dbpedia.org/resource/Grand_Duchy_of_Tuscany
 ultimatum - http://dbpedia.org/resource/Ultimatum
 portuguese - http://dbpedia.org/resource/Portugal
+goods - http://dbpedia.org/resource/Goods
 lisbon - http://dbpedia.org/resource/Lisbon
 braganzas - http://dbpedia.org/resource/House_of_Braganza
 french invasion - http://dbpedia.org/resource/Peninsular_War
@@ -63,7 +59,6 @@ brazil - http://dbpedia.org/resource/Brazil
 regent - http://dbpedia.org/resource/Prince_regent
 dom joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-consent - http://dbpedia.org/resource/Consent_of_the_governed
 royal family - http://dbpedia.org/resource/Royal_family
 brazil - http://dbpedia.org/resource/Brazil
 monarchy - http://dbpedia.org/resource/Empire_of_Brazil
@@ -71,7 +66,7 @@ portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 viby - http://dbpedia.org/resource/Viby_J
 portuguese empire - http://dbpedia.org/resource/Portuguese_Empire
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-colony - http://dbpedia.org/resource/Colony
+colonies - http://dbpedia.org/resource/Spanish_Empire
 brazil - http://dbpedia.org/resource/Brazil
 formidable - http://dbpedia.org/resource/French_ship_Formidable
 iberian kingdom - http://dbpedia.org/resource/Kingdom_of_Iberia
@@ -81,7 +76,6 @@ portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 coalition - http://dbpedia.org/resource/Coalition
 revolutionary france - http://dbpedia.org/resource/French_Revolution
-pressure - http://dbpedia.org/resource/Blood_pressure
 portuguese - http://dbpedia.org/resource/Portugal
 britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 portuguese - http://dbpedia.org/resource/Portugal
@@ -90,9 +84,10 @@ consul - http://dbpedia.org/resource/French_Consulate
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 manuel de godoy - http://dbpedia.org/resource/Manuel_Godoy
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-border town - http://dbpedia.org/resource/Border_town
+border towns - http://dbpedia.org/resource/Border_Towns
 oranges - http://dbpedia.org/resource/Jaffa_orange
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
+goods - http://dbpedia.org/resource/Goods
 peace - http://dbpedia.org/resource/Peace
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 portuguese kingdom - http://dbpedia.org/resource/Kingdom_of_Portugal
@@ -100,6 +95,7 @@ french revolution - http://dbpedia.org/resource/French_Revolution
 queen maria - http://dbpedia.org/resource/Maria_I_of_Portugal
 king louis xvi - http://dbpedia.org/resource/Louis_XVI_of_France
 marie antoinette - http://dbpedia.org/resource/Marie_Antoinette
+terrified - http://dbpedia.org/resource/Terrified_(album)
 queen maria - http://dbpedia.org/resource/Maria_I_of_Portugal
 mentally ill - http://dbpedia.org/resource/Insanity
 queen - http://dbpedia.org/resource/Queen_consort
@@ -107,10 +103,8 @@ brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 regent - http://dbpedia.org/resource/Prince_regent
 family - http://dbpedia.org/resource/Family
-die - http://dbpedia.org/resource/Death
 regent - http://dbpedia.org/resource/Prince_regent
 good natured - http://dbpedia.org/resource/Good_Natured
-diplomat - http://dbpedia.org/resource/Diplomacy
 overweight - http://dbpedia.org/resource/Obesity
 avid - http://dbpedia.org/resource/Avid_Technology
 hunter - http://dbpedia.org/resource/Hunting
@@ -118,21 +112,18 @@ diminutive - http://dbpedia.org/resource/Diminutive
 princess carlota joaquina - http://dbpedia.org/resource/Carlota_Joaquina_of_Spain
 love - http://dbpedia.org/resource/Love
 dom miguel - http://dbpedia.org/resource/Miguel_I_of_Portugal
+tempered - http://dbpedia.org/resource/Chocolate
 carlota joaquina - http://dbpedia.org/resource/Carlota_Joaquina_of_Spain
 brazil - http://dbpedia.org/resource/Brazil
 hunting - http://dbpedia.org/resource/Hunting
 monastery - http://dbpedia.org/resource/Monastery
 mafra - http://dbpedia.org/resource/Palace_of_Mafra
 lisbon - http://dbpedia.org/resource/Lisbon
-monk - http://dbpedia.org/resource/Monk
 church music - http://dbpedia.org/resource/Religious_music
-destine - http://dbpedia.org/resource/Destine
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-trouble time - http://dbpedia.org/resource/Trouble_Time
 french revolution - http://dbpedia.org/resource/French_Revolution
 queen maria - http://dbpedia.org/resource/Maria_I_of_Portugal
 napoleonic france - http://dbpedia.org/resource/Napoleon
-pressure - http://dbpedia.org/resource/Blood_pressure
 neutrality - http://dbpedia.org/resource/Neutral_country
 napoleonic wars - http://dbpedia.org/resource/Napoleonic_Wars
 napoleon - http://dbpedia.org/resource/Napoleon
@@ -143,12 +134,13 @@ portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 napoleon - http://dbpedia.org/resource/Napoleon
 san ildefonso - http://dbpedia.org/resource/First_Treaty_of_San_Ildefonso
-partition - http://dbpedia.org/resource/Partitions_of_Poland
+partitioned - http://dbpedia.org/resource/Partitions_of_Poland
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 french army - http://dbpedia.org/resource/French_Army
 ultimatum - http://dbpedia.org/resource/Ultimatum
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 portuguese - http://dbpedia.org/resource/Portugal
+goods - http://dbpedia.org/resource/Goods
 french invasion - http://dbpedia.org/resource/Peninsular_War
 royal family - http://dbpedia.org/resource/Royal_family
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
@@ -163,7 +155,7 @@ braganzas - http://dbpedia.org/resource/House_of_Braganza
 portuguese - http://dbpedia.org/resource/Portugal
 royal family - http://dbpedia.org/resource/Royal_family
 brazil - http://dbpedia.org/resource/Brazil
-royal family - http://dbpedia.org/resource/Royal_family
+royal families - http://dbpedia.org/resource/Royal_family
 germany - http://dbpedia.org/resource/German_Empire
 napoleon - http://dbpedia.org/resource/Napoleon
 portuguese - http://dbpedia.org/resource/Portugal
@@ -186,8 +178,6 @@ junot - http://dbpedia.org/resource/Jean-Andoche_Junot
 humiliation - http://dbpedia.org/resource/Sexual_abuse
 napoleon - http://dbpedia.org/resource/Napoleon
 napoleon - http://dbpedia.org/resource/Napoleon
-monarch - http://dbpedia.org/resource/Monarchy
-defy - http://dbpedia.org/resource/Motorola_Defy
 royal family - http://dbpedia.org/resource/Royal_family
 french army - http://dbpedia.org/resource/French_Army
 lisbon - http://dbpedia.org/resource/Lisbon
@@ -200,7 +190,6 @@ portuguese - http://dbpedia.org/resource/Portugal
 ferocious - http://dbpedia.org/resource/Ferocious
 britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
-french invasion - http://dbpedia.org/resource/Peninsular_War
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 portuguese parliament - http://dbpedia.org/resource/Assembly_of_the_Republic_(Portugal)
 royal family - http://dbpedia.org/resource/Royal_family
@@ -209,12 +198,11 @@ colonial brazil - http://dbpedia.org/resource/Colonial_Brazil
 brazil - http://dbpedia.org/resource/Brazil
 portuguese - http://dbpedia.org/resource/Portugal
 portuguese - http://dbpedia.org/resource/Portugal
-colony - http://dbpedia.org/resource/Colony
+colonies - http://dbpedia.org/resource/Spanish_Empire
 portuguese - http://dbpedia.org/resource/Portugal
 brazilwood - http://dbpedia.org/resource/Paubrasilia
 brazil - http://dbpedia.org/resource/Brazil
 portuguese - http://dbpedia.org/resource/Portugal
-settler - http://dbpedia.org/resource/Settler
 europeans - http://dbpedia.org/resource/Ethnic_groups_in_Europe
 brazilwood - http://dbpedia.org/resource/Paubrasilia
 region - http://dbpedia.org/resource/Region
@@ -222,16 +210,14 @@ brazil - http://dbpedia.org/resource/Brazil
 portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 martim afonso de sousa - http://dbpedia.org/resource/Martim_Afonso_de_Sousa
-settlement - http://dbpedia.org/resource/Israeli_settlement
 são vicente - http://dbpedia.org/resource/São_Vicente,_Cape_Verde
 piratininga - http://dbpedia.org/resource/Piratininga
 são paulo - http://dbpedia.org/resource/Campeonato_Paulista
-settlement - http://dbpedia.org/resource/Israeli_settlement
 portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
 hereditary - http://dbpedia.org/resource/Dynasty
-captaincy - http://dbpedia.org/resource/Captaincy
+captaincies - http://dbpedia.org/resource/Captaincy
 colony - http://dbpedia.org/resource/Colony
-captaincy - http://dbpedia.org/resource/Captaincy
+captaincies - http://dbpedia.org/resource/Captaincy
 são vicente - http://dbpedia.org/resource/São_Vicente,_Cape_Verde
 pernambuco - http://dbpedia.org/resource/Paubrasilia
 sugar cane - http://dbpedia.org/resource/Sugarcane
@@ -248,7 +234,7 @@ viceroyalty - http://dbpedia.org/resource/New_Spain
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 brazil - http://dbpedia.org/resource/Brazil
-natural resource - http://dbpedia.org/resource/Natural_resource
+natural resources - http://dbpedia.org/resource/Natural_resource
 gold - http://dbpedia.org/resource/Gold
 gold - http://dbpedia.org/resource/Gold
 minas gerais - http://dbpedia.org/resource/Minas_Gerais
@@ -275,8 +261,7 @@ british north america - http://dbpedia.org/resource/Thirteen_Colonies
 french revolution - http://dbpedia.org/resource/French_Revolution
 american revolution - http://dbpedia.org/resource/American_Revolution
 british empire - http://dbpedia.org/resource/British_Empire
-revolution france - http://dbpedia.org/resource/French_Revolution
-monarch - http://dbpedia.org/resource/Monarchy
+revolution - http://dbpedia.org/resource/French_Revolution
 ancién regime - http://dbpedia.org/resource/Ancien_Régime
 coalition - http://dbpedia.org/resource/Coalition
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
@@ -296,9 +281,9 @@ gold - http://dbpedia.org/resource/Gold
 minas gerais - http://dbpedia.org/resource/Minas_Gerais
 region - http://dbpedia.org/resource/Region
 mineiros - http://dbpedia.org/resource/Mineiros
-plague - http://dbpedia.org/resource/Black_Death
 gold mining - http://dbpedia.org/resource/Gold_mining
-mineiro - http://dbpedia.org/resource/Mineiro
+mineiros - http://dbpedia.org/resource/Mineiros
+diamonds - http://dbpedia.org/resource/Diamond
 region - http://dbpedia.org/resource/Region
 administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
 intendente - http://dbpedia.org/resource/Intendant_(government_official)
@@ -306,25 +291,20 @@ mining - http://dbpedia.org/resource/Mining
 region - http://dbpedia.org/resource/Region
 administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
 mineiros - http://dbpedia.org/resource/Mineiros
-ideal - http://dbpedia.org/resource/Theory_of_forms
 enlightenment - http://dbpedia.org/resource/Age_of_Enlightenment
 american revolution - http://dbpedia.org/resource/American_Revolution
 revolt - http://dbpedia.org/resource/Rebellion
 portuguese administration - http://dbpedia.org/resource/Portuguese_Empire
 maia - http://dbpedia.org/resource/Maia_Jeffries
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 revolutionary - http://dbpedia.org/resource/French_Revolution
 thomas jefferson - http://dbpedia.org/resource/Thomas_Jefferson
 paris - http://dbpedia.org/resource/Paris
 maia - http://dbpedia.org/resource/Maia_Jeffries
-die - http://dbpedia.org/resource/Death
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 conspiracy - http://dbpedia.org/resource/Conspiracy_theory
 portuguese rule - http://dbpedia.org/resource/Portugal
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
-philosopher - http://dbpedia.org/resource/Philosopher
 american revolution - http://dbpedia.org/resource/American_Revolution
 revolt - http://dbpedia.org/resource/Rebellion
 brazilian republic - http://dbpedia.org/resource/First_Brazilian_Republic
@@ -335,33 +315,29 @@ tiradentes - http://dbpedia.org/resource/Tiradentes
 tooth - http://dbpedia.org/resource/Tooth
 dentistry - http://dbpedia.org/resource/Medicine
 tiradentes - http://dbpedia.org/resource/Tiradentes
-bear - http://dbpedia.org/resource/Bear
 constitution - http://dbpedia.org/resource/Constitution
 minas gerais - http://dbpedia.org/resource/Minas_Gerais
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
 conspiracy - http://dbpedia.org/resource/Conspiracy_theory
 administration - http://dbpedia.org/resource/Presidency_of_George_W._Bush
-alert - http://dbpedia.org/resource/Tropical_cyclone_warnings_and_watches
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 tiradentes - http://dbpedia.org/resource/Tiradentes
-drag - http://dbpedia.org/resource/Cross-dressing
-convict - http://dbpedia.org/resource/Convict
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
 portuguese - http://dbpedia.org/resource/Portugal
 restless - http://dbpedia.org/resource/Restless_Records
 brazilians - http://dbpedia.org/resource/Brazil
 conspiracy - http://dbpedia.org/resource/Conspiracy_theory
 tiradentes - http://dbpedia.org/resource/Tiradentes
+hanging - http://dbpedia.org/resource/Hanging
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 tiradentes - http://dbpedia.org/resource/Tiradentes
+gallows - http://dbpedia.org/resource/Gallows
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
+quartered - http://dbpedia.org/resource/Dismemberment
 brazil - http://dbpedia.org/resource/Brazil
 stern - http://dbpedia.org/resource/Stern
 portuguese - http://dbpedia.org/resource/Portugal
 revolt - http://dbpedia.org/resource/Rebellion
 tiradentes - http://dbpedia.org/resource/Tiradentes
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
-future movement - http://dbpedia.org/resource/Future_Movement
 symbol - http://dbpedia.org/resource/Symbol
 brazilian independence - http://dbpedia.org/resource/Empire_of_Brazil
 revolt - http://dbpedia.org/resource/Rebellion
@@ -369,15 +345,12 @@ salvador da bahia - http://dbpedia.org/resource/Salvador,_Bahia
 inconfidência mineira - http://dbpedia.org/resource/Colonial_Brazil
 bahia - http://dbpedia.org/resource/Bahia
 revolt - http://dbpedia.org/resource/Rebellion
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-slave - http://dbpedia.org/resource/History_of_slavery
+slaves - http://dbpedia.org/resource/History_of_slavery
 revolt - http://dbpedia.org/resource/Rebellion
 mass movement - http://dbpedia.org/resource/Mass_movement
-revolt - http://dbpedia.org/resource/Rebellion
 brazilians - http://dbpedia.org/resource/Brazil
 mineiros - http://dbpedia.org/resource/Mineiros
 british north america - http://dbpedia.org/resource/Thirteen_Colonies
-outgrow - http://dbpedia.org/resource/Outgrow
 revolutionary - http://dbpedia.org/resource/French_Revolution
 royal family - http://dbpedia.org/resource/Royal_family
 braganzas - http://dbpedia.org/resource/House_of_Braganza
@@ -401,17 +374,12 @@ colony - http://dbpedia.org/resource/Colony
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
 capital - http://dbpedia.org/resource/Capital_punishment
 brazil - http://dbpedia.org/resource/Brazil
-military art - http://dbpedia.org/resource/Military_art
-bank charter - http://dbpedia.org/resource/State_bank
 opera - http://dbpedia.org/resource/Opera
 printing press - http://dbpedia.org/resource/Printing_press
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-newspaper - http://dbpedia.org/resource/News_media
 royal family - http://dbpedia.org/resource/Royal_family
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
-paper - http://dbpedia.org/resource/Paper
 news - http://dbpedia.org/resource/News_media
-periodical - http://dbpedia.org/resource/Magazine
 patriota - http://dbpedia.org/resource/Patriota
 manuel ferreira - http://dbpedia.org/resource/Manuel_Ferreira_(writer)
 guimarães - http://dbpedia.org/resource/Guimarães
@@ -437,10 +405,9 @@ don pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 south america - http://dbpedia.org/resource/South_America
 carlota joaquina - http://dbpedia.org/resource/Carlota_Joaquina_of_Spain
 brazil - http://dbpedia.org/resource/Brazil
-family - http://dbpedia.org/resource/Family
+family quarrels - http://dbpedia.org/resource/Family_Quarrels
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-stem - http://dbpedia.org/resource/Stem_cell
 royal family - http://dbpedia.org/resource/Royal_family
 constitutional monarchy - http://dbpedia.org/resource/Kingdom_of_France
 brazil - http://dbpedia.org/resource/Brazil
@@ -451,10 +418,9 @@ clergy - http://dbpedia.org/resource/Clergy
 uprising - http://dbpedia.org/resource/Rebellion
 revolt - http://dbpedia.org/resource/Rebellion
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-liberal - http://dbpedia.org/resource/Liberalism
+liberals - http://dbpedia.org/resource/Liberalism
 brazil - http://dbpedia.org/resource/Brazil
 portuguese - http://dbpedia.org/resource/Portugal
-neglect - http://dbpedia.org/resource/Urban_decay
 regent - http://dbpedia.org/resource/Prince_regent
 brazil - http://dbpedia.org/resource/Brazil
 portuguese - http://dbpedia.org/resource/Portugal
@@ -463,6 +429,7 @@ rio - http://dbpedia.org/resource/Rio_(windowing_system)
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
 capital - http://dbpedia.org/resource/Capital_punishment
 portuguese - http://dbpedia.org/resource/Portugal
+forsaken - http://dbpedia.org/resource/Races_and_factions_of_Warcraft
 brazil - http://dbpedia.org/resource/Brazil
 election - http://dbpedia.org/resource/Royal_elections_in_Poland
 brazilians - http://dbpedia.org/resource/Brazil
@@ -472,12 +439,13 @@ colony - http://dbpedia.org/resource/Colony
 portuguese kingdom - http://dbpedia.org/resource/Kingdom_of_Portugal
 portuguese - http://dbpedia.org/resource/Portugal
 bear - http://dbpedia.org/resource/Bear
-portuguese cortes - http://dbpedia.org/resource/Portuguese_Cortes
+portuguese - http://dbpedia.org/resource/Portugal
+cortes - http://dbpedia.org/resource/Portuguese_Cortes
 royal family - http://dbpedia.org/resource/Royal_family
 napoleonic wars - http://dbpedia.org/resource/Napoleonic_Wars
 portuguese - http://dbpedia.org/resource/Portugal
 portuguese - http://dbpedia.org/resource/Portugal
-liberal - http://dbpedia.org/resource/Liberalism
+liberals - http://dbpedia.org/resource/Liberalism
 constitutional monarchy - http://dbpedia.org/resource/Kingdom_of_France
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 brazil - http://dbpedia.org/resource/Brazil
@@ -486,9 +454,7 @@ portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 liberal - http://dbpedia.org/resource/Liberalism
 revolution - http://dbpedia.org/resource/French_Revolution
 city - http://dbpedia.org/resource/City
-revolutionary - http://dbpedia.org/resource/French_Revolution
 brazil - http://dbpedia.org/resource/Brazil
-constitutional reform - http://dbpedia.org/resource/Constitution_of_Norway
 national convention - http://dbpedia.org/resource/National_Convention
 radical - http://dbpedia.org/resource/Political_radicalism
 constitution - http://dbpedia.org/resource/Constitution
@@ -508,7 +474,6 @@ emperor - http://dbpedia.org/resource/Emperor
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 crown prince - http://dbpedia.org/resource/Gustav_III_of_Sweden
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-sibling - http://dbpedia.org/resource/Sibling
 brazil - http://dbpedia.org/resource/Brazil
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 dom pedro ii - http://dbpedia.org/resource/Pedro_II_of_Brazil
@@ -518,15 +483,13 @@ royal family - http://dbpedia.org/resource/Royal_family
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 ballerina - http://dbpedia.org/resource/Ballet
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
-coffeehouse - http://dbpedia.org/resource/Coffeehouse
+coffeehouses - http://dbpedia.org/resource/Coffeehouse
 court - http://dbpedia.org/resource/Royal_court
-unfold - http://dbpedia.org/resource/Almah_(band)
 marriage - http://dbpedia.org/resource/Same-sex_marriage
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-fear - http://dbpedia.org/resource/Fear
 news - http://dbpedia.org/resource/News_media
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-royal family - http://dbpedia.org/resource/Royal_family
+royal families - http://dbpedia.org/resource/Royal_family
 hapsburgs - http://dbpedia.org/resource/House_of_Habsburg
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 ballerina - http://dbpedia.org/resource/Ballet
@@ -535,11 +498,12 @@ proxy - http://dbpedia.org/resource/Proxy_marriage
 leopoldina - http://dbpedia.org/resource/Maria_Leopoldina_of_Austria
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 romantic - http://dbpedia.org/resource/Romanticism
-escapade - http://dbpedia.org/resource/HMS_Escapade
+escapades - http://dbpedia.org/resource/Escapades_(Hungry_Kids_of_Hungary_album)
+acquainted - http://dbpedia.org/resource/Acquainted
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 brazil - http://dbpedia.org/resource/Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-liberal - http://dbpedia.org/resource/Liberalism
+liberals - http://dbpedia.org/resource/Liberalism
 cortes - http://dbpedia.org/resource/Portuguese_Cortes
 cortes - http://dbpedia.org/resource/Portuguese_Cortes
 brazil - http://dbpedia.org/resource/Brazil
@@ -555,7 +519,6 @@ portuguese government - http://dbpedia.org/resource/Portugal
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 crown prince - http://dbpedia.org/resource/Gustav_III_of_Sweden
-defy - http://dbpedia.org/resource/Motorola_Defy
 legion - http://dbpedia.org/resource/Roman_legion
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 crown prince - http://dbpedia.org/resource/Gustav_III_of_Sweden
@@ -563,26 +526,21 @@ lisbon - http://dbpedia.org/resource/Lisbon
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-prepare - http://dbpedia.org/resource/PREPARE
 portuguese - http://dbpedia.org/resource/Portugal
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
+wished - http://dbpedia.org/resource/Wished_(film)
 tense - http://dbpedia.org/resource/Grammatical_tense
-fortification - http://dbpedia.org/resource/Fortification
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 brazil - http://dbpedia.org/resource/Brazil
-cannon - http://dbpedia.org/resource/Cannon
-bear - http://dbpedia.org/resource/Bear
 portuguese - http://dbpedia.org/resource/Portugal
-fortification - http://dbpedia.org/resource/Fortification
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 legion - http://dbpedia.org/resource/Roman_legion
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 legion - http://dbpedia.org/resource/Roman_legion
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
-fear - http://dbpedia.org/resource/Fear
 crown prince - http://dbpedia.org/resource/Gustav_III_of_Sweden
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 legion - http://dbpedia.org/resource/Roman_legion
@@ -593,7 +551,6 @@ professor - http://dbpedia.org/resource/Teacher
 poet - http://dbpedia.org/resource/Poet
 silva - http://dbpedia.org/resource/SILVA_ribosomal_RNA_database
 grand master - http://dbpedia.org/resource/Grand_Master_of_the_Teutonic_Order
-rally - http://dbpedia.org/resource/Protest
 freemasons - http://dbpedia.org/resource/Freemasonry
 independence - http://dbpedia.org/resource/Mexican_War_of_Independence
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
@@ -611,22 +568,20 @@ uniform - http://dbpedia.org/resource/Uniform
 sword - http://dbpedia.org/resource/Sword
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 ipiranga - http://dbpedia.org/resource/Ipiranga_Brook
-blood flow - http://dbpedia.org/resource/Circulatory_system
-vein - http://dbpedia.org/resource/Intravenous_therapy
+blood - http://dbpedia.org/resource/Blood
+veins - http://dbpedia.org/resource/Stratum
 god - http://dbpedia.org/resource/God
 brazil - http://dbpedia.org/resource/Brazil
 pedro - http://dbpedia.org/resource/Pedro_(card_game)
 emperor - http://dbpedia.org/resource/Emperor
 rio - http://dbpedia.org/resource/Rio_(windowing_system)
 national constitution - http://dbpedia.org/resource/Constitution
-solidify - http://dbpedia.org/resource/Solidify_(Grip_Inc._album)
 constitutional monarchy - http://dbpedia.org/resource/Kingdom_of_France
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 brazil - http://dbpedia.org/resource/Brazil
-sovereignty - http://dbpedia.org/resource/Sovereignty
 brazil - http://dbpedia.org/resource/Brazil
 colony - http://dbpedia.org/resource/Colony
 lisbon - http://dbpedia.org/resource/Lisbon
@@ -663,7 +618,7 @@ duke university press - http://dbpedia.org/resource/Duke_University
 portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
 york - http://dbpedia.org/resource/House_of_York
 columbia university press - http://dbpedia.org/resource/Columbia_University_Press
-tropical - http://dbpedia.org/resource/Tropics
+tropical - http://dbpedia.org/resource/Tropical_cyclone
 versailles - http://dbpedia.org/resource/Palace_of_Versailles
 monarchy - http://dbpedia.org/resource/Empire_of_Brazil
 rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
@@ -713,12 +668,12 @@ macaulay - http://dbpedia.org/resource/Thomas_Babington_Macaulay
 dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
 durham - http://dbpedia.org/resource/Durham_Cathedral
 duke university press - http://dbpedia.org/resource/Duke_University
-tropical - http://dbpedia.org/resource/Tropics
+tropical - http://dbpedia.org/resource/Tropical_cyclone
 versailles - http://dbpedia.org/resource/Palace_of_Versailles
 york - http://dbpedia.org/resource/House_of_York
 routledge - http://dbpedia.org/resource/Routledge
 pgs - http://dbpedia.org/resource/FIS_Alpine_Ski_World_Cup
-tropical - http://dbpedia.org/resource/Tropics
+tropical - http://dbpedia.org/resource/Tropical_cyclone
 versailles - http://dbpedia.org/resource/Palace_of_Versailles
 york - http://dbpedia.org/resource/House_of_York
 routledge - http://dbpedia.org/resource/Routledge

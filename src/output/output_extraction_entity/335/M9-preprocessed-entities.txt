@@ -1,8 +1,7 @@
-pendle - http://dbpedia.org/resource/Pendle_witches
+pendle witches - http://dbpedia.org/resource/Pendle_witches
 murder - http://dbpedia.org/resource/Murder
-pendle - http://dbpedia.org/resource/Pendle_witches
+pendle witches - http://dbpedia.org/resource/Pendle_witches
 lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
-change face - http://dbpedia.org/resource/Bian_lian
 nhs - http://dbpedia.org/resource/National_Health_Service
 nuclear - http://dbpedia.org/resource/Nuclear_power
 murder - http://dbpedia.org/resource/Murder

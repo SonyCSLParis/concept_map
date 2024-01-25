@@ -1,6 +1,6 @@
-stone - http://dbpedia.org/resource/Masonry
-buddhist temple - http://dbpedia.org/resource/Buddhist_temple
-yogyakarta - http://dbpedia.org/resource/Yogyakarta
 borobudur - http://dbpedia.org/resource/Borobudur
-central java - http://dbpedia.org/resource/Central_Java
+yogyakarta - http://dbpedia.org/resource/Yogyakarta
+buddhist temple - http://dbpedia.org/resource/Buddhist_temple
 unesco - http://dbpedia.org/resource/World_Heritage_Site
+central java - http://dbpedia.org/resource/Central_Java
+stone - http://dbpedia.org/resource/Masonry

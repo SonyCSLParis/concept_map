@@ -5,7 +5,7 @@ import os
 
 import spacy
 
-nlp = spacy.load("en_core_web_lg")
+nlp = spacy.load("en_core_web_sm")
 API_KEY_GPT = ""
 RND_SEED = 42
 
@@ -33,13 +33,26 @@ CMAP_TRAIN_DIR = os.path.join(CMAP_DIR + '/train')
 
 # OUTPUTS
 OUTPUT_DIR = os.path.join(SRC_DIR + '/output')
+OUTPUT_EVALUATION = os.path.join(OUTPUT_DIR + '/evaluation')
 OUTPUT_PREPROCESSING = os.path.join(OUTPUT_DIR + '/output_preprocessing')
+OUTPUT_PREPROCESSING_TEST = os.path.join(OUTPUT_DIR + '/output_preprocessing_test')
+
 OUTPUT_EXTRACTION_ENTITY = os.path.join(OUTPUT_DIR + '/output_extraction_entity')
+OUTPUT_EXTRACTION_ENTITY_TEST = os.path.join(OUTPUT_DIR + '/output_extraction_entity_test')
+
 OUTPUT_GROUPING_ENTITY_SINGLE_FILES = os.path.join(OUTPUT_DIR + '/output_grouping_entity_single')
+OUTPUT_GROUPING_ENTITY_SINGLE_FILES_TEST = os.path.join(OUTPUT_DIR + '/output_grouping_entity_single_test')
+
+OUTPUT_TRIPLETS_FINE_TUNE = os.path.join(OUTPUT_DIR + '/triplets')
+OUTPUT_TRIPLETS_FINE_TUNE_TEST = os.path.join(OUTPUT_DIR + '/triplets_test')
+
 OUTPUT_GROUPING_ENTITY_SUBFOLDERS = os.path.join(OUTPUT_DIR + '/output_grouping_entity_subfolders')
+OUTPUT_TRIPLETS_PREPORCESSED = os.path.join(OUTPUT_DIR + '/triplets_preprocessed')
+OUTPUT_TRIPLETS_PREPORCESSED_TEST = os.path.join(OUTPUT_DIR + '/triplets_preprocessed_test')
+
 HTML_CONCEPTS = os.path.join(OUTPUT_DIR + '/html_images')
 
-list_dir = [DATA_DIR,HTML_CONCEPTS, OUTPUT_DIR, OUTPUT_EXTRACTION_ENTITY, OUTPUT_PREPROCESSING,OUTPUT_GROUPING_ENTITY_SINGLE_FILES,OUTPUT_GROUPING_ENTITY_SUBFOLDERS]
+list_dir = [OUTPUT_PREPROCESSING_TEST,OUTPUT_EXTRACTION_ENTITY_TEST,OUTPUT_TRIPLETS_PREPORCESSED_TEST,OUTPUT_TRIPLETS_FINE_TUNE_TEST,OUTPUT_GROUPING_ENTITY_SINGLE_FILES_TEST,DATA_DIR,HTML_CONCEPTS, OUTPUT_TRIPLETS_PREPORCESSED, OUTPUT_TRIPLETS_FINE_TUNE, OUTPUT_DIR, OUTPUT_EXTRACTION_ENTITY, OUTPUT_PREPROCESSING,OUTPUT_GROUPING_ENTITY_SINGLE_FILES,OUTPUT_GROUPING_ENTITY_SUBFOLDERS]
 for x in list_dir:
     if not os.path.exists(x):
         os.makedirs(x)

@@ -1,41 +1,32 @@
 civilization - http://dbpedia.org/resource/Civilization
-civilization - http://dbpedia.org/resource/Civilization
-culture - http://dbpedia.org/resource/Culture
-monument - http://dbpedia.org/resource/Monument
-memoir - http://dbpedia.org/resource/Memoir
+millennia - http://dbpedia.org/resource/Millennium
 cultural diversity - http://dbpedia.org/resource/Cultural_diversity
 human - http://dbpedia.org/resource/Human
 mediterranean sea - http://dbpedia.org/resource/Mediterranean_sea_(oceanography)
 red sea - http://dbpedia.org/resource/Red_Sea
-eastern river - http://dbpedia.org/resource/Eastern_River
-nile - http://dbpedia.org/resource/Nile
+river nile - http://dbpedia.org/resource/Nile
 cradle - http://dbpedia.org/resource/Cradle_of_civilization
 civilization - http://dbpedia.org/resource/Civilization
-beach resort - http://dbpedia.org/resource/Seaside_resort
-city - http://dbpedia.org/resource/City
+beaches resorts - http://dbpedia.org/resource/Beaches_Resorts
 capital - http://dbpedia.org/resource/Capital_city
-big city - http://dbpedia.org/resource/Lenny_White
+city - http://dbpedia.org/resource/City
 cairo - http://dbpedia.org/resource/Cairo_(graphics)
-family - http://dbpedia.org/resource/Family
 egyptian culture - http://dbpedia.org/resource/Culture_of_Egypt
 multicultural - http://dbpedia.org/resource/Multiculturalism
 city - http://dbpedia.org/resource/City
 nile - http://dbpedia.org/resource/Nile
 pharaonic - http://dbpedia.org/resource/Pharaoh
 coptic - http://dbpedia.org/resource/Coptic_Orthodox_Church_of_Alexandria
-monument - http://dbpedia.org/resource/Monument
 ottoman empire - http://dbpedia.org/resource/Ottoman_Empire
 downtown - http://dbpedia.org/resource/Downtown
 zamalek - http://dbpedia.org/resource/Zamalek
+districts - http://dbpedia.org/resource/District
 architecture - http://dbpedia.org/resource/Ancient_Egyptian_architecture
 downtown cairo - http://dbpedia.org/resource/Downtown_Cairo
 paris - http://dbpedia.org/resource/Paris
 nile - http://dbpedia.org/resource/Nile
 cairo - http://dbpedia.org/resource/Cairo_(graphics)
 city - http://dbpedia.org/resource/City
-sleep - http://dbpedia.org/resource/Sleep
-restaurant - http://dbpedia.org/resource/Restaurant
-cafe - http://dbpedia.org/resource/Coffeehouse
 food - http://dbpedia.org/resource/Food
 randomness - http://dbpedia.org/resource/Randomness
 city - http://dbpedia.org/resource/City
@@ -43,10 +34,7 @@ cairo - http://dbpedia.org/resource/Cairo_(graphics)
 daytrip - http://dbpedia.org/resource/Daytrip
 fayoum - http://dbpedia.org/resource/Faiyum
 oasis - http://dbpedia.org/resource/Oasis
-lake - http://dbpedia.org/resource/Lake
-waterfall - http://dbpedia.org/resource/Waterfall
 heart - http://dbpedia.org/resource/Heart
-crave - http://dbpedia.org/resource/Crave_Entertainment
 beauty - http://dbpedia.org/resource/Aesthetics
 cairo - http://dbpedia.org/resource/Cairo_(graphics)
 aswan - http://dbpedia.org/resource/Aswan

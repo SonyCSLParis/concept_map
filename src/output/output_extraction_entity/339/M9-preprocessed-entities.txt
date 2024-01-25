@@ -13,24 +13,20 @@ sedition - http://dbpedia.org/resource/Sedition
 unconstitutional - http://dbpedia.org/resource/Constitution_of_the_United_States
 toe - http://dbpedia.org/resource/Toe
 leonard levy - http://dbpedia.org/resource/Leonard_Levy
-amendment - http://dbpedia.org/resource/Constitutional_amendment
+amendment - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
 freedom - http://dbpedia.org/resource/Freedom_of_the_press
 federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 madison - http://dbpedia.org/resource/Madison_(cycling)
 sedition - http://dbpedia.org/resource/Sedition
 law - http://dbpedia.org/resource/Common_law
-prior restraint - http://dbpedia.org/resource/Prior_restraint
 freedom - http://dbpedia.org/resource/Freedom_of_the_press
 virginia - http://dbpedia.org/resource/Virginia_General_Assembly
 madison - http://dbpedia.org/resource/Madison_(cycling)
-law - http://dbpedia.org/resource/Common_law
-law - http://dbpedia.org/resource/Common_law
 madison - http://dbpedia.org/resource/Madison_(cycling)
 sedition - http://dbpedia.org/resource/Sedition
 law - http://dbpedia.org/resource/Common_law
 madison - http://dbpedia.org/resource/Madison_(cycling)
-freedom press - http://dbpedia.org/resource/Freedom_Press
-american british - http://dbpedia.org/resource/Americans_in_the_United_Kingdom
+freedom - http://dbpedia.org/resource/Freedom_of_the_press
 free speech - http://dbpedia.org/resource/Freedom_of_speech
 sedition - http://dbpedia.org/resource/Sedition
 law - http://dbpedia.org/resource/Common_law
@@ -43,32 +39,27 @@ british government - http://dbpedia.org/resource/Parliament_of_the_United_Kingdo
 american constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 federalists - http://dbpedia.org/resource/Federalist_Party
+individual rights - http://dbpedia.org/resource/Natural_rights_and_legal_rights
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 ploy - http://dbpedia.org/resource/Ploy
 james madison - http://dbpedia.org/resource/James_Madison
-amendment - http://dbpedia.org/resource/Constitutional_amendment
 james madison - http://dbpedia.org/resource/James_Madison
-amendment - http://dbpedia.org/resource/Constitutional_amendment
+amendment - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
 constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
 law - http://dbpedia.org/resource/Common_law
 religion - http://dbpedia.org/resource/Freedom_of_religion
 freedom - http://dbpedia.org/resource/Freedom_of_the_press
 petition - http://dbpedia.org/resource/Petition
-grievance - http://dbpedia.org/resource/Grievance
 draft - http://dbpedia.org/resource/Conscription_in_the_United_States
-draft - http://dbpedia.org/resource/Conscription_in_the_United_States
-freedom - http://dbpedia.org/resource/Freedom_of_the_press
 expression - http://dbpedia.org/resource/Freedom_of_speech
 draft - http://dbpedia.org/resource/Conscription_in_the_United_States
-amendment - http://dbpedia.org/resource/Constitutional_amendment
 law - http://dbpedia.org/resource/Common_law
 religion - http://dbpedia.org/resource/Freedom_of_religion
 conscience - http://dbpedia.org/resource/Freedom_of_religion
 freedom - http://dbpedia.org/resource/Freedom_of_the_press
 common good - http://dbpedia.org/resource/Common_good
-grievance - http://dbpedia.org/resource/Grievance
 language - http://dbpedia.org/resource/Language
-amendment - http://dbpedia.org/resource/Constitutional_amendment
+amendment - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
 u.s. congress - http://dbpedia.org/resource/United_States_Congress
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition
@@ -77,6 +68,5 @@ britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 president - http://dbpedia.org/resource/President_of_the_United_States
 john adams - http://dbpedia.org/resource/John_Adams
 adams - http://dbpedia.org/resource/John_Adams
-outline - http://dbpedia.org/resource/Nutrition
 alien - http://dbpedia.org/resource/Extraterrestrial_life
 sedition - http://dbpedia.org/resource/Sedition

@@ -2,16 +2,12 @@ texas - http://dbpedia.org/resource/Texas
 houston - http://dbpedia.org/resource/Houston
 interstate 45 - http://dbpedia.org/resource/Interstate_45
 huntsville - http://dbpedia.org/resource/Huntsville_Stars
-tower - http://dbpedia.org/resource/Tower
 texas - http://dbpedia.org/resource/Texas
 houston - http://dbpedia.org/resource/Houston
-bear - http://dbpedia.org/resource/Bear
 rockbridge county - http://dbpedia.org/resource/Rockbridge_County,_Virginia
 tennessee - http://dbpedia.org/resource/Tennessee
 houston - http://dbpedia.org/resource/Houston
 tennessee - http://dbpedia.org/resource/Tennessee
-age 13 - http://dbpedia.org/resource/Age_13
-die - http://dbpedia.org/resource/Death
 family - http://dbpedia.org/resource/Family
 family - http://dbpedia.org/resource/Family
 houston - http://dbpedia.org/resource/Houston
@@ -40,7 +36,7 @@ nashville - http://dbpedia.org/resource/Battle_of_Nashville
 private law - http://dbpedia.org/resource/Private_bill
 houston - http://dbpedia.org/resource/Houston
 andrew jackson - http://dbpedia.org/resource/Andrew_Jackson
-elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+president - http://dbpedia.org/resource/President_of_the_United_States
 tennessee - http://dbpedia.org/resource/Tennessee
 grief - http://dbpedia.org/resource/Grief
 marriage - http://dbpedia.org/resource/Same-sex_marriage
@@ -52,9 +48,9 @@ cherokee - http://dbpedia.org/resource/Cherokee
 tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
 oklahoma - http://dbpedia.org/resource/Oklahoma_Territory
 cherokee - http://dbpedia.org/resource/Cherokee
+indian affairs - http://dbpedia.org/resource/Bureau_of_Indian_Affairs
 peace - http://dbpedia.org/resource/Peace
-indian tribe - http://dbpedia.org/resource/Native_Americans_in_the_United_States
-thrash - http://dbpedia.org/resource/Thrash_metal
+indian tribes - http://dbpedia.org/resource/Native_Americans_in_the_United_States
 ohio - http://dbpedia.org/resource/Ohio
 stanberry - http://dbpedia.org/resource/Stanberry,_Missouri
 cane - http://dbpedia.org/resource/Walking_stick
@@ -64,7 +60,6 @@ assault - http://dbpedia.org/resource/Assault
 cherokee - http://dbpedia.org/resource/Cherokee
 family - http://dbpedia.org/resource/Family
 mexican texas - http://dbpedia.org/resource/Mexican_Texas
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 anglo - http://dbpedia.org/resource/Anglo
 texan - http://dbpedia.org/resource/Republic_of_Texas
 mexican texas - http://dbpedia.org/resource/Mexican_Texas
@@ -86,11 +81,8 @@ town - http://dbpedia.org/resource/Administrative_divisions_of_Wisconsin
 gonzales - http://dbpedia.org/resource/Battle_of_Gonzales
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 houston - http://dbpedia.org/resource/Houston
-fear - http://dbpedia.org/resource/Fear
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
-die - http://dbpedia.org/resource/Death
 houston - http://dbpedia.org/resource/Houston
-train - http://dbpedia.org/resource/Rail_transport
 train - http://dbpedia.org/resource/Rail_transport
 volunteer army - http://dbpedia.org/resource/Volunteer_Army
 san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
@@ -102,7 +94,7 @@ san jacinto - http://dbpedia.org/resource/Battle_of_San_Jacinto
 painting - http://dbpedia.org/resource/Painting
 arthur - http://dbpedia.org/resource/Chester_A._Arthur
 houston - http://dbpedia.org/resource/Houston
-elect president - http://dbpedia.org/resource/2019_President_of_the_Chamber_of_Deputies_of_Brazil_election
+president - http://dbpedia.org/resource/President_of_the_United_States
 republic - http://dbpedia.org/resource/French_First_Republic
 texas - http://dbpedia.org/resource/Texas
 austin - http://dbpedia.org/resource/Austin_College
@@ -111,7 +103,8 @@ president - http://dbpedia.org/resource/President_of_the_United_States
 houston - http://dbpedia.org/resource/Houston
 santa anna - http://dbpedia.org/resource/Antonio_López_de_Santa_Anna
 washington - http://dbpedia.org/resource/George_Washington
-texas annexation - http://dbpedia.org/resource/Texas_annexation
+texas - http://dbpedia.org/resource/Texas
+annexation - http://dbpedia.org/resource/Texas_annexation
 constitution - http://dbpedia.org/resource/Constitution_of_Indiana
 houston - http://dbpedia.org/resource/Houston
 president - http://dbpedia.org/resource/President_of_the_United_States
@@ -125,7 +118,7 @@ republic - http://dbpedia.org/resource/French_First_Republic
 texas - http://dbpedia.org/resource/Texas
 texas - http://dbpedia.org/resource/Texas
 houston - http://dbpedia.org/resource/Houston
-u.s. senator - http://dbpedia.org/resource/United_States_Senate
+u.s. senators - http://dbpedia.org/resource/United_States_Senate
 houston - http://dbpedia.org/resource/Houston
 governor - http://dbpedia.org/resource/Governor
 texas - http://dbpedia.org/resource/Texas
@@ -137,4 +130,3 @@ oath - http://dbpedia.org/resource/Oath
 family - http://dbpedia.org/resource/Family
 huntsville - http://dbpedia.org/resource/Huntsville_Stars
 texas - http://dbpedia.org/resource/Texas
-die - http://dbpedia.org/resource/Death

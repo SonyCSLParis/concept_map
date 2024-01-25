@@ -5,13 +5,11 @@ family history - http://dbpedia.org/resource/Genealogy
 local history - http://dbpedia.org/resource/Local_history
 borough - http://dbpedia.org/resource/Borough
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
-map - http://dbpedia.org/resource/Map
 census - http://dbpedia.org/resource/Census_in_the_United_Kingdom
-newspaper - http://dbpedia.org/resource/Newspaper
 splendid - http://dbpedia.org/resource/Le_Splendid
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
+grade 1 listed - http://dbpedia.org/resource/Listed_building
 manor house - http://dbpedia.org/resource/Manor_house
-acre - http://dbpedia.org/resource/Acre
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 court - http://dbpedia.org/resource/Royal_court
 william compton - http://dbpedia.org/resource/William_Compton_(courtier)
@@ -30,7 +28,6 @@ victorian period - http://dbpedia.org/resource/Victorian_era
 british postal system - http://dbpedia.org/resource/Royal_Mail
 penny post - http://dbpedia.org/resource/Penny_Post
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
-open museum - http://dbpedia.org/resource/Open_Museum
 borough - http://dbpedia.org/resource/Borough
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 local history - http://dbpedia.org/resource/Local_history
@@ -46,6 +43,7 @@ haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 local history - http://dbpedia.org/resource/Local_history
 forum - http://dbpedia.org/resource/Internet_forum
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
+districts - http://dbpedia.org/resource/Districts_of_England
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 local history - http://dbpedia.org/resource/Local_history
 forum - http://dbpedia.org/resource/Internet_forum
@@ -53,11 +51,11 @@ p.o - http://dbpedia.org/resource/P.O
 n17 - http://dbpedia.org/resource/N_postcode_area
 local history - http://dbpedia.org/resource/Local_history
 forum - http://dbpedia.org/resource/Internet_forum
-function - http://dbpedia.org/resource/Subroutine
 tottenham - http://dbpedia.org/resource/London_Borough_of_Haringey
 civic society - http://dbpedia.org/resource/Civil_society
 tottenham - http://dbpedia.org/resource/London_Borough_of_Haringey
 civic society - http://dbpedia.org/resource/Civil_society
+aims - http://dbpedia.org/resource/African_Institute_for_Mathematical_Sciences
 geography - http://dbpedia.org/resource/Geography
 architecture - http://dbpedia.org/resource/Architecture
 tottenham - http://dbpedia.org/resource/London_Borough_of_Haringey

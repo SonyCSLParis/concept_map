@@ -10,12 +10,13 @@ gold - http://dbpedia.org/resource/Gold
 american river - http://dbpedia.org/resource/American_River
 gold - http://dbpedia.org/resource/Gold
 gold - http://dbpedia.org/resource/Gold
+gold - http://dbpedia.org/resource/Gold
 california - http://dbpedia.org/resource/History_of_California
 news - http://dbpedia.org/resource/News
 gold - http://dbpedia.org/resource/Gold
 california - http://dbpedia.org/resource/History_of_California
-sail ship - http://dbpedia.org/resource/Sailing_ship
-wagon - http://dbpedia.org/resource/Conestoga_wagon
+forty niners - http://dbpedia.org/resource/California_Gold_Rush
+sailing - http://dbpedia.org/resource/Sailing_ship
 continent - http://dbpedia.org/resource/Continent
 mexico - http://dbpedia.org/resource/Mexico
 peru - http://dbpedia.org/resource/Peru
@@ -29,4 +30,3 @@ california - http://dbpedia.org/resource/History_of_California
 gold - http://dbpedia.org/resource/Gold
 native americans - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
 gold - http://dbpedia.org/resource/Gold
-environmental problem - http://dbpedia.org/resource/Environmentalism

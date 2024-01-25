@@ -1,10 +1,8 @@
-conspiracy theory - http://dbpedia.org/resource/Conspiracy_theory
-rosie o'donnell - http://dbpedia.org/resource/Rosie_O'Donnell
-professor - http://dbpedia.org/resource/Professor
 9/11 - http://dbpedia.org/resource/September_11_attacks
-city - http://dbpedia.org/resource/City
-architect - http://dbpedia.org/resource/Architect
+conspiracy theories - http://dbpedia.org/resource/Conspiracy_theory
 charlie sheen - http://dbpedia.org/resource/Charlie_Sheen
+rosie o'donnell - http://dbpedia.org/resource/Rosie_O'Donnell
 physics - http://dbpedia.org/resource/Physics
+mainstream media - http://dbpedia.org/resource/Mainstream_media
 york - http://dbpedia.org/resource/York
-engineer - http://dbpedia.org/resource/Engineer
+city - http://dbpedia.org/resource/City

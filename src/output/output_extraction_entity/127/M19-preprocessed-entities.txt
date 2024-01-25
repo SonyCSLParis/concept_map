@@ -8,7 +8,6 @@ gatehouse - http://dbpedia.org/resource/Gatehouse
 civil war - http://dbpedia.org/resource/English_Civil_War
 alton towers - http://dbpedia.org/resource/Alton_Towers
 mock castle - http://dbpedia.org/resource/Castle
-7 mile - http://dbpedia.org/resource/7_Mile_(group)
 uttoxeter - http://dbpedia.org/resource/Uttoxeter
 castle hill - http://dbpedia.org/resource/Electoral_district_of_Castle_Hill
 alton - http://dbpedia.org/resource/Alton_railway_station

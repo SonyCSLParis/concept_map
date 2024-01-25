@@ -7,9 +7,7 @@ hampshire county - http://dbpedia.org/resource/Hampshire
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
 wv - http://dbpedia.org/resource/Wv_(software)
 zip code - http://dbpedia.org/resource/ZIP_Code
-link 1 - http://dbpedia.org/resource/Link_1
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
-hotel - http://dbpedia.org/resource/Hotel
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
@@ -48,7 +46,7 @@ middletown - http://dbpedia.org/resource/Middletown,_Connecticut
 va - http://dbpedia.org/resource/Virginia
 sse - http://dbpedia.org/resource/Points_of_the_compass
 populated places - http://dbpedia.org/resource/Human_settlement
-spring - http://dbpedia.org/resource/Mineral_spring
+bubbling spring - http://dbpedia.org/resource/Bubbling_Spring,_West_Virginia
 wv - http://dbpedia.org/resource/Wv_(software)
 hooks mills - http://dbpedia.org/resource/Hooks_Mills,_West_Virginia
 wv - http://dbpedia.org/resource/Wv_(software)

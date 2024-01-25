@@ -6,8 +6,6 @@ constitution - http://dbpedia.org/resource/Constitution
 constitution - http://dbpedia.org/resource/Constitution
 constitución - http://dbpedia.org/resource/Constitución_railway_station
 estados unidos mexicanos - http://dbpedia.org/resource/Mexico
-judicial branch - http://dbpedia.org/resource/Judiciary
-resemble - http://dbpedia.org/resource/SoltyRei
 spanish constitution - http://dbpedia.org/resource/Constitution_of_Spain
 catholicism - http://dbpedia.org/resource/Catholic_Church
 religion - http://dbpedia.org/resource/Freedom_of_religion
@@ -16,11 +14,10 @@ mexican constitution - http://dbpedia.org/resource/Constitution_of_Mexico
 ratification - http://dbpedia.org/resource/Article_Five_of_the_United_States_Constitution
 austin - http://dbpedia.org/resource/Austin_Motor_Company
 anglo - http://dbpedia.org/resource/Anglo
-framer - http://dbpedia.org/resource/Framer
 erasmo seguín - http://dbpedia.org/resource/Erasmo_Seguín
 texas - http://dbpedia.org/resource/Texas
 texas representative - http://dbpedia.org/resource/Texas_House_of_Representatives
-farmer - http://dbpedia.org/resource/Farmer
+austin - http://dbpedia.org/resource/Austin_Motor_Company
 colony - http://dbpedia.org/resource/Crown_colony
 corn - http://dbpedia.org/resource/Maize
 mexican constitution - http://dbpedia.org/resource/Constitution_of_Mexico
@@ -38,6 +35,7 @@ legislature - http://dbpedia.org/resource/Legislature
 unicameral - http://dbpedia.org/resource/Unicameralism
 popular vote - http://dbpedia.org/resource/Direct_election
 texas - http://dbpedia.org/resource/Texas
+districts - http://dbpedia.org/resource/Electoral_district
 bexar - http://dbpedia.org/resource/San_Antonio
 legislature - http://dbpedia.org/resource/Legislature
 federal constitution - http://dbpedia.org/resource/1824_Constitution_of_Mexico
@@ -53,9 +51,10 @@ texans - http://dbpedia.org/resource/Texas
 private property - http://dbpedia.org/resource/Property
 community property - http://dbpedia.org/resource/Community_property
 homestead exemption - http://dbpedia.org/resource/Homestead_exemption
-bankruptcy - http://dbpedia.org/resource/Insolvency
+bankruptcy - http://dbpedia.org/resource/Bankruptcy
 castilian - http://dbpedia.org/resource/Spanish_language
 law - http://dbpedia.org/resource/Law
+married couples - http://dbpedia.org/resource/Same-sex_marriage_in_New_York
 separate property - http://dbpedia.org/resource/Community_property
 marriage - http://dbpedia.org/resource/Same-sex_marriage
 community property - http://dbpedia.org/resource/Community_property
@@ -63,12 +62,10 @@ frontier - http://dbpedia.org/resource/Frontier
 texas - http://dbpedia.org/resource/Texas
 family - http://dbpedia.org/resource/Family
 homestead - http://dbpedia.org/resource/Homestead_exemption
-bankruptcy - http://dbpedia.org/resource/Insolvency
+bankruptcy - http://dbpedia.org/resource/Bankruptcy
 frontier - http://dbpedia.org/resource/Frontier
-family - http://dbpedia.org/resource/Family
 texas - http://dbpedia.org/resource/Texas
 anglo - http://dbpedia.org/resource/Anglo
-settler - http://dbpedia.org/resource/Settler
 debt - http://dbpedia.org/resource/Debt
 tennessee - http://dbpedia.org/resource/Tennessee
 austin - http://dbpedia.org/resource/Austin_Motor_Company
@@ -76,10 +73,7 @@ legislature - http://dbpedia.org/resource/Legislature
 coahuila - http://dbpedia.org/resource/Coahuila
 moratorium - http://dbpedia.org/resource/Comprehensive_Nuclear-Test-Ban_Treaty
 anglo - http://dbpedia.org/resource/Anglo
-colonist - http://dbpedia.org/resource/Settler
 debt - http://dbpedia.org/resource/Debt
-creditor - http://dbpedia.org/resource/Creditor
-creditor - http://dbpedia.org/resource/Creditor
 legislature - http://dbpedia.org/resource/Legislature
 decree - http://dbpedia.org/resource/Decree
 creditor - http://dbpedia.org/resource/Creditor
@@ -89,7 +83,6 @@ decree - http://dbpedia.org/resource/Decree
 statute - http://dbpedia.org/resource/Statute
 independent - http://dbpedia.org/resource/Independence
 texas constitution - http://dbpedia.org/resource/Constitution_of_Texas
-constitution - http://dbpedia.org/resource/Constitution
 decree - http://dbpedia.org/resource/Decree
 populist - http://dbpedia.org/resource/Populism
 anglos - http://dbpedia.org/resource/Anglo
@@ -98,9 +91,8 @@ constitution - http://dbpedia.org/resource/Constitution
 coahuila - http://dbpedia.org/resource/Coahuila
 legislature - http://dbpedia.org/resource/Legislature
 education - http://dbpedia.org/resource/Right_to_education
-constitutional convention - http://dbpedia.org/resource/Constitution_of_Indiana
+constitutional conventions - http://dbpedia.org/resource/Constitutional_convention_(political_custom)
 texas - http://dbpedia.org/resource/Texas
-legislature - http://dbpedia.org/resource/Legislature
 anglo - http://dbpedia.org/resource/Anglo
 constitution - http://dbpedia.org/resource/Constitution
 texas - http://dbpedia.org/resource/Texas

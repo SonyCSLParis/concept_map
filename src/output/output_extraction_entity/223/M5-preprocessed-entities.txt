@@ -9,18 +9,15 @@ rome - http://dbpedia.org/resource/Roman_Empire
 visigoths - http://dbpedia.org/resource/Visigoths
 alaric - http://dbpedia.org/resource/Alaric_I
 rome - http://dbpedia.org/resource/Roman_Empire
-sack - http://dbpedia.org/resource/Looting
 capital - http://dbpedia.org/resource/Capital_city
 roman empire - http://dbpedia.org/resource/Western_Roman_Empire
 visigoths - http://dbpedia.org/resource/Visigoths
-loot - http://dbpedia.org/resource/Looting
 city - http://dbpedia.org/resource/City
-millennium city - http://dbpedia.org/resource/Millennium_City,_Hong_Kong
+city - http://dbpedia.org/resource/City
 rome - http://dbpedia.org/resource/Roman_Empire
 romans - http://dbpedia.org/resource/Romans_(musician)
 city - http://dbpedia.org/resource/City
 rome - http://dbpedia.org/resource/Roman_Empire
-sack - http://dbpedia.org/resource/Looting
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 christianity - http://dbpedia.org/resource/Christianity
 roman empire - http://dbpedia.org/resource/Western_Roman_Empire
@@ -31,7 +28,7 @@ monotheistic - http://dbpedia.org/resource/Monotheism
 traditional roman religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
 roman religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
 polytheistic - http://dbpedia.org/resource/Polytheism
-god - http://dbpedia.org/resource/Deity
+gods - http://dbpedia.org/resource/Polytheism
 romans - http://dbpedia.org/resource/Romans_(musician)
 medallion - http://dbpedia.org/resource/Medal
 attila - http://dbpedia.org/resource/Attila
@@ -50,7 +47,8 @@ roman - http://dbpedia.org/resource/Roman_Empire
 romans - http://dbpedia.org/resource/Romans_(musician)
 emperor - http://dbpedia.org/resource/Roman_emperor
 god - http://dbpedia.org/resource/Deity
-god emperor - http://dbpedia.org/resource/Leto_II_Atreides
+god - http://dbpedia.org/resource/Deity
+emperor - http://dbpedia.org/resource/Roman_emperor
 emperor - http://dbpedia.org/resource/Roman_emperor
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 roman empire - http://dbpedia.org/resource/Western_Roman_Empire
@@ -74,11 +72,9 @@ constantine - http://dbpedia.org/resource/Constantine_the_Great
 empress theodora - http://dbpedia.org/resource/Theodora_(6th_century)
 late antiquity - http://dbpedia.org/resource/Late_antiquity
 emperor justinian - http://dbpedia.org/resource/Justinian_I
-solidify - http://dbpedia.org/resource/Solidify_(Grip_Inc._album)
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
-frontier - http://dbpedia.org/resource/Frontier
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 city - http://dbpedia.org/resource/City
 religion - http://dbpedia.org/resource/Religion_in_ancient_Rome
@@ -89,44 +85,38 @@ roman catholic - http://dbpedia.org/resource/Catholic_Church
 eastern empire - http://dbpedia.org/resource/Byzantine_Empire
 eastern orthodox - http://dbpedia.org/resource/Eastern_Orthodox_Church
 christian church - http://dbpedia.org/resource/Christianity
-thrive - http://dbpedia.org/resource/Thrive_Music
-western roman empire - http://dbpedia.org/resource/Western_Roman_Empire
+roman empire - http://dbpedia.org/resource/Western_Roman_Empire
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
 rome - http://dbpedia.org/resource/Roman_Empire
-food price - http://dbpedia.org/resource/Food_prices
+food prices - http://dbpedia.org/resource/Food_prices
 trade deficit - http://dbpedia.org/resource/Balance_of_trade
-luxury good - http://dbpedia.org/resource/Luxury_goods
-coin silver - http://dbpedia.org/resource/Fineness
+luxury goods - http://dbpedia.org/resource/Luxury_goods
+silver - http://dbpedia.org/resource/Silver
 inflation - http://dbpedia.org/resource/Inflation
 piracy - http://dbpedia.org/resource/Piracy
-germanic tribe - http://dbpedia.org/resource/Germanic_peoples
-amateur - http://dbpedia.org/resource/Amateur
+germanic tribes - http://dbpedia.org/resource/Germanic_peoples
 rome - http://dbpedia.org/resource/Roman_Empire
-army general - http://dbpedia.org/resource/Pakistan_Army
 corruption - http://dbpedia.org/resource/Political_corruption
 mercenary - http://dbpedia.org/resource/Mercenary
 rome - http://dbpedia.org/resource/Roman_Empire
-soldier - http://dbpedia.org/resource/Soldier
-roman army - http://dbpedia.org/resource/Roman_army
+roman - http://dbpedia.org/resource/Roman_Empire
 rome - http://dbpedia.org/resource/Roman_Empire
-sack rome - http://dbpedia.org/resource/Sack_of_Rome_(1527)
+sack - http://dbpedia.org/resource/Looting
+rome - http://dbpedia.org/resource/Roman_Empire
 goth - http://dbpedia.org/resource/Goths
 wave - http://dbpedia.org/resource/Wind_wave
 wave - http://dbpedia.org/resource/Wind_wave
 barbarian - http://dbpedia.org/resource/Barbarian
-tribe - http://dbpedia.org/resource/Tribe
 roman empire - http://dbpedia.org/resource/Western_Roman_Empire
 visigoths - http://dbpedia.org/resource/Visigoths
 saxons - http://dbpedia.org/resource/Saxons
 franks - http://dbpedia.org/resource/Franks
 ostrogoths - http://dbpedia.org/resource/Ostrogoths
 lombards - http://dbpedia.org/resource/Lombards
-ravage - http://dbpedia.org/resource/Ravage_2099
 saxons - http://dbpedia.org/resource/Saxons
 british isles - http://dbpedia.org/resource/British_Isles
 franks - http://dbpedia.org/resource/Franks
 romulus - http://dbpedia.org/resource/Romulus
-roman emperor - http://dbpedia.org/resource/Roman_emperor
 odoacer - http://dbpedia.org/resource/Odoacer
 barbarian - http://dbpedia.org/resource/Barbarian
 rome - http://dbpedia.org/resource/Roman_Empire

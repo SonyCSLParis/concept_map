@@ -2,7 +2,6 @@ la zouche - http://dbpedia.org/resource/Baron_Zouche
 baron zouche - http://dbpedia.org/resource/Baron_Zouche
 la zouche - http://dbpedia.org/resource/Baron_Zouche
 baron - http://dbpedia.org/resource/Baron
-die - http://dbpedia.org/resource/Death
 eleanor - http://dbpedia.org/resource/Eleanor_of_Castile
 sarah - http://dbpedia.org/resource/SAR-Lupe
 harrington - http://dbpedia.org/resource/John_Peabody_Harrington
@@ -51,17 +50,16 @@ harrington - http://dbpedia.org/resource/John_Peabody_Harrington
 francis hastings - http://dbpedia.org/resource/Francis_Hastings_of_Madras
 lord hastings - http://dbpedia.org/resource/Baron_Hastings
 george kingsmill - http://dbpedia.org/resource/George_Kingsmill
-child marriage - http://dbpedia.org/resource/Child_marriage
-etch - http://dbpedia.org/resource/Etching
+marriage - http://dbpedia.org/resource/Marriage_in_the_Catholic_Church
+etching - http://dbpedia.org/resource/Engraving
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
-matriculate - http://dbpedia.org/resource/Matriculation
+matriculated - http://dbpedia.org/resource/Matriculation
 trinity college cambridge - http://dbpedia.org/resource/Trinity_College,_Cambridge
 m.a. - http://dbpedia.org/resource/Master_of_Arts
 inn - http://dbpedia.org/resource/Inns_of_Court
 mary - http://dbpedia.org/resource/Mary_I_of_England
 queen - http://dbpedia.org/resource/Queen_consort
 fotheringhay - http://dbpedia.org/resource/Fotheringhay_Castle
-independence - http://dbpedia.org/resource/Independence
 dissent - http://dbpedia.org/resource/English_Dissenters
 ambassador - http://dbpedia.org/resource/Ambassador
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
@@ -81,7 +79,7 @@ dean - http://dbpedia.org/resource/Dean_of_York
 herbalist - http://dbpedia.org/resource/Herbal_medicine
 john gerard - http://dbpedia.org/resource/John_Gerard
 hackney - http://dbpedia.org/resource/Hackney_carriage
-seed - http://dbpedia.org/resource/Seed
+seeds - http://dbpedia.org/resource/Seed
 hackney - http://dbpedia.org/resource/Hackney_carriage
 sir julius caesar - http://dbpedia.org/resource/Julius_Caesar_(judge)
 manor - http://dbpedia.org/resource/Manor
@@ -109,11 +107,8 @@ police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshi
 deathlord - http://dbpedia.org/resource/Deathlord
 manor - http://dbpedia.org/resource/Manor
 bramshill house - http://dbpedia.org/resource/Bramshill_House
-die - http://dbpedia.org/resource/Death
-bury parish church - http://dbpedia.org/resource/Church_of_St_Mary_the_Virgin,_Bury
+parish church - http://dbpedia.org/resource/Church_of_England
 hackney - http://dbpedia.org/resource/Hackney_carriage
-verse - http://dbpedia.org/resource/Poetry
-pen - http://dbpedia.org/resource/Quill
 ben jonson - http://dbpedia.org/resource/Ben_Jonson
 die - http://dbpedia.org/resource/Death
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
@@ -127,7 +122,6 @@ sir thomas leighton - http://dbpedia.org/resource/Thomas_Leighton_(governor)
 governor - http://dbpedia.org/resource/Governor
 guernsey - http://dbpedia.org/resource/Guernsey
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-die - http://dbpedia.org/resource/Death
 sir william tate - http://dbpedia.org/resource/William_Tate_(MP)
 tate - http://dbpedia.org/resource/Tate
 abeyance - http://dbpedia.org/resource/Abeyance
@@ -147,25 +141,22 @@ petition - http://dbpedia.org/resource/Lawsuit
 sir james ley - http://dbpedia.org/resource/James_Ley,_1st_Earl_of_Marlborough
 lord chief justice - http://dbpedia.org/resource/Lord_Chief_Justice_of_England_and_Wales
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
 parliamentarian - http://dbpedia.org/resource/Parliament_of_England
 shropshire - http://dbpedia.org/resource/High_Sheriff_of_Shropshire
 katherine - http://dbpedia.org/resource/Samuel_More
 adultery - http://dbpedia.org/resource/Adultery
 court - http://dbpedia.org/resource/Royal_court
+indentured servants - http://dbpedia.org/resource/Indentured_servitude
 colony - http://dbpedia.org/resource/Colony_of_Virginia
 virginia - http://dbpedia.org/resource/Colony_of_Virginia
 mayflower - http://dbpedia.org/resource/Epigaea_repens
 lord zouche - http://dbpedia.org/resource/Edward_la_Zouche,_11th_Baron_Zouche
 virginia company - http://dbpedia.org/resource/Virginia_Company
-winter - http://dbpedia.org/resource/Winter
-weather ship - http://dbpedia.org/resource/Weather_ship
+winter - http://dbpedia.org/resource/Winter_solstice
+weather - http://dbpedia.org/resource/Meteorology
 virginia - http://dbpedia.org/resource/Colony_of_Virginia
-anchor - http://dbpedia.org/resource/Anchor
-north cape - http://dbpedia.org/resource/Nordkapp
 cape cod harbor - http://dbpedia.org/resource/Cape_Cod
-die - http://dbpedia.org/resource/Death
-winter - http://dbpedia.org/resource/Winter
+winter - http://dbpedia.org/resource/Winter_solstice
 scotland - http://dbpedia.org/resource/Kingdom_of_Scotland
 april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
 ambassador - http://dbpedia.org/resource/Ambassador
@@ -174,9 +165,10 @@ governor - http://dbpedia.org/resource/Governor
 guernsey - http://dbpedia.org/resource/Guernsey
 president - http://dbpedia.org/resource/President_of_the_United_States
 privy counsellor - http://dbpedia.org/resource/Privy_council
-compound - http://dbpedia.org/resource/Leaf
-knighthood - http://dbpedia.org/resource/Knight
-jesuit - http://dbpedia.org/resource/Society_of_Jesus
+compounding - http://dbpedia.org/resource/Compound_interest
+knighthoods - http://dbpedia.org/resource/Knight
+jesuits - http://dbpedia.org/resource/Society_of_Jesus
+pirates - http://dbpedia.org/resource/Barbary_pirates
 councillor - http://dbpedia.org/resource/Privy_council
 virginia company - http://dbpedia.org/resource/Virginia_Company
 councillor - http://dbpedia.org/resource/Privy_council

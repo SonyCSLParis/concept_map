@@ -1,69 +1,64 @@
-portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
-portuguese rule - http://dbpedia.org/resource/Portuguese_Empire
-colin - http://dbpedia.org/resource/Large_intestine
-nobility - http://dbpedia.org/resource/Nobility
-outlaw - http://dbpedia.org/resource/Outlaw
-wave - http://dbpedia.org/resource/Wave
-education - http://dbpedia.org/resource/Education
-monarch - http://dbpedia.org/resource/Monarchy_of_Spain
-são paulo - http://dbpedia.org/resource/Campeonato_Paulista
-indigenous people - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
-thrilled - http://dbpedia.org/resource/Thrilled_(Punchline_album)
-monarchy - http://dbpedia.org/resource/Empire_of_Brazil
 bit - http://dbpedia.org/resource/Horse_tack
-court - http://dbpedia.org/resource/Royal_court
-die - http://dbpedia.org/resource/Death
-independence movement - http://dbpedia.org/resource/Separatism
-slave trade - http://dbpedia.org/resource/History_of_slavery
-slave labor - http://dbpedia.org/resource/Slavery_in_Brazil
-pau brasil - http://dbpedia.org/resource/Paubrasilia
-ipiranga - http://dbpedia.org/resource/Ipiranga_Brook
-dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
-remarkable - http://dbpedia.org/resource/ReMarkable
+hierarchies - http://dbpedia.org/resource/Social_stratification
 latin america - http://dbpedia.org/resource/Latin_America
-pressure - http://dbpedia.org/resource/Pressure
-pedro - http://dbpedia.org/resource/Pedro_(card_game)
-regent - http://dbpedia.org/resource/Prince_regent
-divergence - http://dbpedia.org/resource/Speciation
-dye - http://dbpedia.org/resource/Dye
-colony - http://dbpedia.org/resource/Colony
-iberian peninsula - http://dbpedia.org/resource/Peninsular_War
-brazilian independence - http://dbpedia.org/resource/Independence_of_Brazil
-rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
-tree - http://dbpedia.org/resource/Tree
-rely - http://dbpedia.org/resource/Rely_(brand)
-warfare - http://dbpedia.org/resource/War
-backwater - http://dbpedia.org/resource/Kerala_backwaters
-portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
-brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
-diarrhea - http://dbpedia.org/resource/Diarrhea
-resistance - http://dbpedia.org/resource/Resistance_movement
-gold - http://dbpedia.org/resource/Gold
-napoleon - http://dbpedia.org/resource/Napoleon
-sugar - http://dbpedia.org/resource/Sugarcane
-scatological - http://dbpedia.org/resource/Scatology
-joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
-portuguese empire - http://dbpedia.org/resource/Portuguese_Empire
-brazil - http://dbpedia.org/resource/Brazil
-printing - http://dbpedia.org/resource/Printing
 colonial period - http://dbpedia.org/resource/Colonial_Brazil
-uprising - http://dbpedia.org/resource/Rebellion
-spanish america - http://dbpedia.org/resource/Hispanic_America
-mining - http://dbpedia.org/resource/Mining
+ipiranga - http://dbpedia.org/resource/Ipiranga_Brook
+dye - http://dbpedia.org/resource/Dye
+slave labor - http://dbpedia.org/resource/Slavery_in_Brazil
+dom pedro - http://dbpedia.org/resource/Pedro_I_of_Brazil
+divergence - http://dbpedia.org/resource/Speciation
+portuguese crown - http://dbpedia.org/resource/Portuguese_Empire
+tree - http://dbpedia.org/resource/Tree
+napoleon - http://dbpedia.org/resource/Napoleon
 trunk - http://dbpedia.org/resource/Elephant
-hierarchy - http://dbpedia.org/resource/Social_stratification
-invasion - http://dbpedia.org/resource/Invasion
-portuguese - http://dbpedia.org/resource/Portuguese_language
-latin american - http://dbpedia.org/resource/Latin_America
-minas gerais - http://dbpedia.org/resource/Minas_Gerais
-politician - http://dbpedia.org/resource/Politics
-spanish american - http://dbpedia.org/resource/Hispanic_America
-switch - http://dbpedia.org/resource/Switch
-human - http://dbpedia.org/resource/Human_rights
+monarch - http://dbpedia.org/resource/Monarchy_of_Spain
+indigenous people - http://dbpedia.org/resource/Indigenous_peoples_in_Brazil
 independence - http://dbpedia.org/resource/Independence
-merchant - http://dbpedia.org/resource/Merchant
-mount brazil - http://dbpedia.org/resource/Mount_Brazil
-boom - http://dbpedia.org/resource/Business_cycle
-decree - http://dbpedia.org/resource/Decree
+printing press - http://dbpedia.org/resource/Printing_press
+colonies - http://dbpedia.org/resource/Spanish_Empire
+são paulo - http://dbpedia.org/resource/Campeonato_Paulista
+brazilian independence - http://dbpedia.org/resource/Independence_of_Brazil
+pressure - http://dbpedia.org/resource/Pressure
+colin - http://dbpedia.org/resource/Large_intestine
+proclaiming independence - http://dbpedia.org/resource/Proclamation_of_Indonesian_Independence
+portugal - http://dbpedia.org/resource/Kingdom_of_Portugal
+thrilled - http://dbpedia.org/resource/Thrilled_(Punchline_album)
+declares independence - http://dbpedia.org/resource/2008_Kosovo_declaration_of_independence
+diarrhea - http://dbpedia.org/resource/Diarrhea
+pedro - http://dbpedia.org/resource/Pedro_(card_game)
+brazilian empire - http://dbpedia.org/resource/Empire_of_Brazil
+resistance - http://dbpedia.org/resource/Resistance_movement
+iberian peninsula - http://dbpedia.org/resource/Peninsular_War
+outlaw - http://dbpedia.org/resource/Outlaw
+nobility - http://dbpedia.org/resource/Nobility
+declared independence - http://dbpedia.org/resource/Proclamation_of_Indonesian_Independence
+colony - http://dbpedia.org/resource/Colony
+spanish america - http://dbpedia.org/resource/Hispanic_America
+minas gerais - http://dbpedia.org/resource/Minas_Gerais
+invasion - http://dbpedia.org/resource/Invasion
+portuguese empire - http://dbpedia.org/resource/Portuguese_Empire
+printing - http://dbpedia.org/resource/Printing
+spanish american - http://dbpedia.org/resource/Hispanic_America
+pau brasil - http://dbpedia.org/resource/Paubrasilia
+brazil - http://dbpedia.org/resource/Brazil
+education - http://dbpedia.org/resource/Education
+remarkable - http://dbpedia.org/resource/ReMarkable
+portuguese - http://dbpedia.org/resource/Portuguese_language
+rio de janeiro - http://dbpedia.org/resource/Rio_de_Janeiro
+gold - http://dbpedia.org/resource/Gold
+backwater - http://dbpedia.org/resource/Kerala_backwaters
+monarchy - http://dbpedia.org/resource/Empire_of_Brazil
+slave trade - http://dbpedia.org/resource/History_of_slavery
+joão vi - http://dbpedia.org/resource/John_VI_of_Portugal
+human - http://dbpedia.org/resource/Human_rights
+latin american - http://dbpedia.org/resource/Latin_America
+regent - http://dbpedia.org/resource/Prince_regent
+warfare - http://dbpedia.org/resource/War
+mining - http://dbpedia.org/resource/Mining
+diamonds - http://dbpedia.org/resource/Diamond
+scatological - http://dbpedia.org/resource/Scatology
+court - http://dbpedia.org/resource/Royal_court
+wave - http://dbpedia.org/resource/Wave
 americas - http://dbpedia.org/resource/Spanish_colonization_of_the_Americas
+portuguese rule - http://dbpedia.org/resource/Portuguese_Empire
 spice - http://dbpedia.org/resource/Spice_trade

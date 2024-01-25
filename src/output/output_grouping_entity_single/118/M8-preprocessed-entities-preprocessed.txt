@@ -1,50 +1,45 @@
-lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
-ideal - http://dbpedia.org/resource/Theory_of_forms
-flickr - http://dbpedia.org/resource/Flickr
-alistair - http://dbpedia.org/resource/Alistair_Smythe
-lowther - http://dbpedia.org/resource/River_Lowther
 market town - http://dbpedia.org/resource/Market_town
-decay - http://dbpedia.org/resource/Urban_decay
-turner - http://dbpedia.org/resource/Woodturning
-english heritage - http://dbpedia.org/resource/English_Heritage
-roman fort - http://dbpedia.org/resource/Castra
 family - http://dbpedia.org/resource/Family
+lowther - http://dbpedia.org/resource/River_Lowther
+shell - http://dbpedia.org/resource/Seashell
+guide book - http://dbpedia.org/resource/Guide_book
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+northern england - http://dbpedia.org/resource/Northern_England
+gate - http://dbpedia.org/resource/City_gate
+anglo - http://dbpedia.org/resource/Anglo
+appleby castle - http://dbpedia.org/resource/Appleby_Castle
+earl - http://dbpedia.org/resource/Earl
+roman fort - http://dbpedia.org/resource/Castra
+brough castle - http://dbpedia.org/resource/Brough_Castle
+james 1 - http://dbpedia.org/resource/James_1
+clifford family - http://dbpedia.org/resource/Baron_de_Clifford
+norman - http://dbpedia.org/resource/Norman_conquest_of_England
+english heritage - http://dbpedia.org/resource/English_Heritage
+eamont - http://dbpedia.org/resource/River_Eamont
+flickr - http://dbpedia.org/resource/Flickr
+family day - http://dbpedia.org/resource/Family_Day
+skipton castle - http://dbpedia.org/resource/Skipton_Castle
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+picnic - http://dbpedia.org/resource/Picnic
 robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
+penrith - http://dbpedia.org/resource/City_of_Penrith
+region - http://dbpedia.org/resource/Region
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+ideal - http://dbpedia.org/resource/Theory_of_forms
+turner - http://dbpedia.org/resource/Woodturning
+appleby - http://dbpedia.org/resource/Appleby_Castle
+enclosure - http://dbpedia.org/resource/Enclosure
+alistair - http://dbpedia.org/resource/Alistair_Smythe
+prelude - http://dbpedia.org/resource/Prologue
 painting - http://dbpedia.org/resource/Painting
+outline - http://dbpedia.org/resource/Nutrition
+yorkshire - http://dbpedia.org/resource/Yorkshire
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+decay - http://dbpedia.org/resource/Urban_decay
 stone - http://dbpedia.org/resource/Stonemasonry
 lake - http://dbpedia.org/resource/Lake
-clifford family - http://dbpedia.org/resource/Baron_de_Clifford
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-guide book - http://dbpedia.org/resource/Guide_book
-defence - http://dbpedia.org/resource/Military
-picnic - http://dbpedia.org/resource/Picnic
-penrith - http://dbpedia.org/resource/City_of_Penrith
-thanet - http://dbpedia.org/resource/Isle_of_Thanet
-anglo - http://dbpedia.org/resource/Anglo
-scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
-brough castle - http://dbpedia.org/resource/Brough_Castle
-northern england - http://dbpedia.org/resource/Northern_England
-robert clifford - http://dbpedia.org/resource/Bob_Clifford
-tombstone - http://dbpedia.org/resource/Headstone
-skipton castle - http://dbpedia.org/resource/Skipton_Castle
-outline - http://dbpedia.org/resource/Nutrition
-james 1 - http://dbpedia.org/resource/James_1
-yorkshire - http://dbpedia.org/resource/Yorkshire
-earl - http://dbpedia.org/resource/Earl
-prelude - http://dbpedia.org/resource/Prologue
-region - http://dbpedia.org/resource/Region
-norman - http://dbpedia.org/resource/Norman_conquest_of_England
-brougham - http://dbpedia.org/resource/Brougham_(carriage)
 bradbury - http://dbpedia.org/resource/Ray_Bradbury
-river eamont - http://dbpedia.org/resource/River_Eamont
-sack - http://dbpedia.org/resource/Looting
-brougham castle - http://dbpedia.org/resource/Brougham_Castle
-set family - http://dbpedia.org/resource/Hypergraph
-appleby castle - http://dbpedia.org/resource/Appleby_Castle
-gate - http://dbpedia.org/resource/City_gate
-stone enclosure - http://dbpedia.org/resource/Nordic_megalith_architecture
-appleby - http://dbpedia.org/resource/Appleby_Castle
 william wordsworth - http://dbpedia.org/resource/William_Wordsworth
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
-shell - http://dbpedia.org/resource/Seashell
+scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
 poem - http://dbpedia.org/resource/Poetry

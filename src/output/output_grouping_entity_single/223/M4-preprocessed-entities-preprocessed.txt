@@ -1,53 +1,48 @@
-flickr - http://dbpedia.org/resource/Flickr
-marmara - http://dbpedia.org/resource/Sea_of_Marmara
-n.s. - http://dbpedia.org/resource/Old_Style_and_New_Style_dates
-fortification - http://dbpedia.org/resource/Fortification
-theodosian wall - http://dbpedia.org/resource/Walls_of_Constantinople
-nova roma - http://dbpedia.org/resource/New_Rome
-praetorian prefect - http://dbpedia.org/resource/Praetorian_prefecture_of_the_East
-christianity - http://dbpedia.org/resource/Christianity
-classical - http://dbpedia.org/resource/Classical_antiquity
-forum - http://dbpedia.org/resource/Roman_Forum
-roman forum - http://dbpedia.org/resource/Roman_Forum
-a.d. - http://dbpedia.org/resource/Anno_Domini
-megara - http://dbpedia.org/resource/Megara
 heart - http://dbpedia.org/resource/Heart
-theodosius ii - http://dbpedia.org/resource/Theodosius_II
-emperor - http://dbpedia.org/resource/Roman_emperor
-pontus euxinus - http://dbpedia.org/resource/Black_Sea
-bosphorus - http://dbpedia.org/resource/Bosporus
-north city - http://dbpedia.org/resource/San_Diego_Continuing_Education
-encyclopedia - http://dbpedia.org/resource/Encyclopedia
-anthemius - http://dbpedia.org/resource/Anthemius
-byzantion - http://dbpedia.org/resource/Byzantium
-defense - http://dbpedia.org/resource/Military
-eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
-rome - http://dbpedia.org/resource/Roman_Empire
-constantinople - http://dbpedia.org/resource/Constantinople
-map - http://dbpedia.org/resource/Map
-geographic coordinate - http://dbpedia.org/resource/Geographic_coordinate_system
-arcadius - http://dbpedia.org/resource/Arcadius
-promontory - http://dbpedia.org/resource/Promontory
-istanbul - http://dbpedia.org/resource/Istanbul
-defensive wall - http://dbpedia.org/resource/Defensive_wall
-golden horn - http://dbpedia.org/resource/Golden_Horn
-byzantium - http://dbpedia.org/resource/Byzantium
-marcia - http://dbpedia.org/resource/Paullus_Fabius_Maximus
-leo - http://dbpedia.org/resource/Leo_Phokas_the_Younger
+megara - http://dbpedia.org/resource/Megara
+roman forum - http://dbpedia.org/resource/Roman_Forum
 gill - http://dbpedia.org/resource/Gill
+byzantium - http://dbpedia.org/resource/Byzantium
+theodosian walls - http://dbpedia.org/resource/Walls_of_Constantinople
 capital city - http://dbpedia.org/resource/Capital_city
-city - http://dbpedia.org/resource/City
-b.c. - http://dbpedia.org/resource/Figured_bass
+bosphorus - http://dbpedia.org/resource/Bosporus
+a.d. - http://dbpedia.org/resource/Anno_Domini
+istanbul - http://dbpedia.org/resource/Istanbul
 capital - http://dbpedia.org/resource/Capital_city
-propontis - http://dbpedia.org/resource/Sea_of_Marmara
-gate - http://dbpedia.org/resource/Gate
-theodosius - http://dbpedia.org/resource/Theodosius_I
-c.c. - http://dbpedia.org/resource/Country_club
-bosporus strait - http://dbpedia.org/resource/Bosporus
-triumphal arch - http://dbpedia.org/resource/Triumphal_arch
-roman empire - http://dbpedia.org/resource/Roman_Empire
-byzas - http://dbpedia.org/resource/Byzas
-westward - http://dbpedia.org/resource/Westward_Television
-constantine - http://dbpedia.org/resource/Constantine_the_Great
-glossary - http://dbpedia.org/resource/Glossary
+geographic coordinates - http://dbpedia.org/resource/Geographic_coordinate_system
+marcia - http://dbpedia.org/resource/Paullus_Fabius_Maximus
+flickr - http://dbpedia.org/resource/Flickr
+arcadius - http://dbpedia.org/resource/Arcadius
 water - http://dbpedia.org/resource/Water
+theodosius ii - http://dbpedia.org/resource/Theodosius_II
+eastern roman empire - http://dbpedia.org/resource/Byzantine_Empire
+leo - http://dbpedia.org/resource/Leo_Phokas_the_Younger
+city - http://dbpedia.org/resource/City
+rome - http://dbpedia.org/resource/Roman_Empire
+b.c. - http://dbpedia.org/resource/Figured_bass
+golden horn - http://dbpedia.org/resource/Golden_Horn
+defensive wall - http://dbpedia.org/resource/Defensive_wall
+classical - http://dbpedia.org/resource/Classical_antiquity
+praetorian prefect - http://dbpedia.org/resource/Praetorian_prefecture_of_the_East
+bosporus - http://dbpedia.org/resource/Bosporus
+glossary - http://dbpedia.org/resource/Glossary
+nova roma - http://dbpedia.org/resource/New_Rome
+christianity - http://dbpedia.org/resource/Christianity
+roman empire - http://dbpedia.org/resource/Roman_Empire
+theodosius - http://dbpedia.org/resource/Theodosius_I
+anthemius - http://dbpedia.org/resource/Anthemius
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+westward - http://dbpedia.org/resource/Westward_Television
+pontus euxinus - http://dbpedia.org/resource/Black_Sea
+emperor - http://dbpedia.org/resource/Roman_emperor
+constantine - http://dbpedia.org/resource/Constantine_the_Great
+byzantion - http://dbpedia.org/resource/Byzantium
+propontis - http://dbpedia.org/resource/Sea_of_Marmara
+constantinople - http://dbpedia.org/resource/Constantinople
+marmara - http://dbpedia.org/resource/Sea_of_Marmara
+c.c. - http://dbpedia.org/resource/Country_club
+triumphal arch - http://dbpedia.org/resource/Triumphal_arch
+byzas - http://dbpedia.org/resource/Byzas
+promontory - http://dbpedia.org/resource/Promontory
+n.s. - http://dbpedia.org/resource/Old_Style_and_New_Style_dates
+gate - http://dbpedia.org/resource/Gate

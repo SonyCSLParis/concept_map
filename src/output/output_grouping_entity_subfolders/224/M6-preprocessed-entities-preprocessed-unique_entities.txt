@@ -1,903 +1,823 @@
-american river - http://dbpedia.org/resource/American_River
-
-mormon island - http://dbpedia.org/resource/Mormon_Island,_California
-
-involuntary servitude - http://dbpedia.org/resource/Involuntary_servitude
-
-spencer hill - http://dbpedia.org/resource/Midpoint_Trade_Books
-
-winter - http://dbpedia.org/resource/Winter
-
-mining town - http://dbpedia.org/resource/Mining
-
-attorney - http://dbpedia.org/resource/Lawyer
-
-turkey - http://dbpedia.org/resource/Turkey
-
-die - http://dbpedia.org/resource/Death
-
-legal system - http://dbpedia.org/resource/Law
-
-strike - http://dbpedia.org/resource/Strike_action
-dominant - http://dbpedia.org/resource/Dominance_and_submission
-
-california legislature - http://dbpedia.org/resource/California_State_Legislature
-
-south yuba river - http://dbpedia.org/resource/South_Yuba_River
-
-suffrage - http://dbpedia.org/resource/Suffrage
-
-wage - http://dbpedia.org/resource/Wage
+heart - http://dbpedia.org/resource/Heart
 
 comanche - http://dbpedia.org/resource/Comanche
 
-strain - http://dbpedia.org/resource/Cannabis_strains
+chinatown - http://dbpedia.org/resource/Chinatown
 
-frederick douglass - http://dbpedia.org/resource/Frederick_Douglass
+sandwich - http://dbpedia.org/resource/Sandwich
 
-mass - http://dbpedia.org/resource/Mass
+boys hill - http://dbpedia.org/resource/Holnest
 
-free man - http://dbpedia.org/resource/Free_Man
+subsistence - http://dbpedia.org/resource/Subsistence_agriculture
 
-mining camp - http://dbpedia.org/resource/Mining
+migrations - http://dbpedia.org/resource/Human_migration
 
-american racism - http://dbpedia.org/resource/Racism_in_the_United_States
+john bigler - http://dbpedia.org/resource/John_Bigler
 
-rich bar - http://dbpedia.org/resource/Rich_Bar,_British_Columbia
+mountain biking - http://dbpedia.org/resource/Mountain_biking
 
-gold mining - http://dbpedia.org/resource/Gold_mining
+cigar - http://dbpedia.org/resource/Cigar
 
-hogan - http://dbpedia.org/resource/Hogan
+federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
 
-untold - http://dbpedia.org/resource/Untold_(musician)
+wineries - http://dbpedia.org/resource/Winery
 
-york - http://dbpedia.org/resource/York
+civil rights - http://dbpedia.org/resource/Civil_and_political_rights
 
-chinese immigration - http://dbpedia.org/resource/History_of_Chinese_Americans
+turkey - http://dbpedia.org/resource/Turkey
 
-equality - http://dbpedia.org/resource/Egalitarianism
+fugitive - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
 
-oakland - http://dbpedia.org/resource/History_of_the_Oakland_Raiders
+fluke - http://dbpedia.org/resource/Whale
 
-engender - http://dbpedia.org/resource/Engender
-
-crime - http://dbpedia.org/resource/Crime
-
-james polk - http://dbpedia.org/resource/James_K._Polk
-
-newness - http://dbpedia.org/resource/Newness
-
-panama - http://dbpedia.org/resource/Panama
-
-switzerland - http://dbpedia.org/resource/Switzerland
-
-washington - http://dbpedia.org/resource/George_Washington
-
-tree - http://dbpedia.org/resource/Tree
-
-language - http://dbpedia.org/resource/Language
-
-agriculture - http://dbpedia.org/resource/Agriculture
-
-ireland - http://dbpedia.org/resource/Ireland
-
-guadalupe - http://dbpedia.org/resource/Our_Lady_of_Guadalupe
-
-weather - http://dbpedia.org/resource/Weathering
-
-amendment - http://dbpedia.org/resource/Law
-
-court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
-
-strike - http://dbpedia.org/resource/Strike_action
-
-south america - http://dbpedia.org/resource/South_America
-
-william burgess - http://dbpedia.org/resource/William_Burgess_(painter)
-
-california indians - http://dbpedia.org/resource/Indigenous_peoples_of_California
-
-jessica - http://dbpedia.org/resource/Jessica_Buchanan
-
-gold miner - http://dbpedia.org/resource/Gold_mining
-
-berkeley - http://dbpedia.org/resource/George_Berkeley
-
-peralta - http://dbpedia.org/resource/Battle_of_Peralta
-
-columbia - http://dbpedia.org/resource/Cuban_rumba
-
-sesquicentennial - http://dbpedia.org/resource/Anniversary
-
-james wilson - http://dbpedia.org/resource/James_Wilson_(justice)
-
-california - http://dbpedia.org/resource/California
-millertown - http://dbpedia.org/resource/Millertown,_Newfoundland_and_Labrador
-
-demographic - http://dbpedia.org/resource/Demography
-
-yuba - http://dbpedia.org/resource/Tofu_skin
-
-people nation - http://dbpedia.org/resource/People_Nation
-
-sawmill - http://dbpedia.org/resource/Sawmill
-
-melones - http://dbpedia.org/resource/Melones,_California
-
-folsom - http://dbpedia.org/resource/Folsom_tradition
-
-francis - http://dbpedia.org/resource/Francis_I_of_France
-
-marina - http://dbpedia.org/resource/Marina
-
-missouri - http://dbpedia.org/resource/Missouri
-
-cigar box - http://dbpedia.org/resource/Cigar_box
-
-greaser - http://dbpedia.org/resource/Greaser_(subculture)
-
-law - http://dbpedia.org/resource/Law_of_the_United_States
-
-rock - http://dbpedia.org/resource/Rock_music
-
-latin american - http://dbpedia.org/resource/Latin_America
-
-mississippi - http://dbpedia.org/resource/Mississippi
-
-evelyn raymond - http://dbpedia.org/resource/Evelyn_Raymond
-
-american history - http://dbpedia.org/resource/History_of_the_United_States
-
-dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
-
-continent - http://dbpedia.org/resource/Africa
-
-rally - http://dbpedia.org/resource/Protest
-
-station - http://dbpedia.org/resource/Radio_broadcasting
-norton company - http://dbpedia.org/resource/Norton_Abrasives
-
-frontier - http://dbpedia.org/resource/American_frontier
-
-culture - http://dbpedia.org/resource/Culture
-
-library - http://dbpedia.org/resource/Library
-
-downieville - http://dbpedia.org/resource/Downieville,_California
-
-stephen hill - http://dbpedia.org/resource/Stephen_Hill_(broadcaster)
-
-mexico - http://dbpedia.org/resource/Mexico
+native american tribes - http://dbpedia.org/resource/Native_Americans_in_the_United_States
 
 boom - http://dbpedia.org/resource/Boomtown
 
-gold nugget - http://dbpedia.org/resource/Gold_nugget
+wood - http://dbpedia.org/resource/Lumber
+
+equality - http://dbpedia.org/resource/Egalitarianism
+
+communication - http://dbpedia.org/resource/Communication
+
+digits - http://dbpedia.org/resource/Toe
+
+legal system - http://dbpedia.org/resource/Law
+
+mining - http://dbpedia.org/resource/Mining
+
+discrimination - http://dbpedia.org/resource/Discrimination
+
+slave trade - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+secede - http://dbpedia.org/resource/Secession_in_the_United_States
+
+panama - http://dbpedia.org/resource/Panama
+
+south america - http://dbpedia.org/resource/South_America
+
+marshall james - http://dbpedia.org/resource/Marshall_James
+
+grass valley - http://dbpedia.org/resource/Grass_valley
+
+sailing - http://dbpedia.org/resource/Sailing_ship
+
+western slope - http://dbpedia.org/resource/Colorado_Western_Slope
+
+colony - http://dbpedia.org/resource/Colony
+
+american racism - http://dbpedia.org/resource/Racism_in_the_United_States
+
+african american - http://dbpedia.org/resource/African_Americans
+
+continent - http://dbpedia.org/resource/Africa
+
+mexican american war - http://dbpedia.org/resource/Mexican–American_War
+
+multitudes - http://dbpedia.org/resource/Multitudes
+
+san diego - http://dbpedia.org/resource/San_Diego
+
+california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+
+listed - http://dbpedia.org/resource/Listed_building
+
+mokelumne - http://dbpedia.org/resource/Mokelumne_River
+
+sesquicentennial - http://dbpedia.org/resource/Anniversary
+
+gertrude franklin horn - http://dbpedia.org/resource/Gertrude_Atherton
+
+runoff - http://dbpedia.org/resource/Surface_runoff
+
+fifties - http://dbpedia.org/resource/Glossary_of_cricket_terms
+
+york - http://dbpedia.org/resource/York
+
+miwok - http://dbpedia.org/resource/Miwok
+
+american history - http://dbpedia.org/resource/History_of_the_United_States
+flocking - http://dbpedia.org/resource/Flocking_(behavior)
+
+utopian ideal - http://dbpedia.org/resource/Utopia
+
+missouri - http://dbpedia.org/resource/Missouri
+
+african americans - http://dbpedia.org/resource/African_Americans
+
+ivan - http://dbpedia.org/resource/Ivan_the_Terrible
+north america - http://dbpedia.org/resource/North_America
+
+native californians - http://dbpedia.org/resource/Indigenous_peoples_of_California
+
+native american history - http://dbpedia.org/resource/Native_Americans_in_the_United_States
+
+strike - http://dbpedia.org/resource/Strike_action
+
+wide range - http://dbpedia.org/resource/Fender_Wide_Range
+
+cash - http://dbpedia.org/resource/Money
+
+lumber mill - http://dbpedia.org/resource/Sutter's_Mill
+
+gold mining - http://dbpedia.org/resource/Gold_mining
+
+mother lode - http://dbpedia.org/resource/Mother_lode
+dominant - http://dbpedia.org/resource/Dominance_and_submission
+
+mexico - http://dbpedia.org/resource/First_Mexican_Republic
+
+stephen hill - http://dbpedia.org/resource/Stephen_Hill_(broadcaster)
+
+news - http://dbpedia.org/resource/News
+
+bedrock mortars - http://dbpedia.org/resource/Mortar_and_pestle
+
+mormon island - http://dbpedia.org/resource/Mormon_Island,_California
+
+owen - http://dbpedia.org/resource/Richard_Owen
+
+germany - http://dbpedia.org/resource/Nazi_Germany
+
+food - http://dbpedia.org/resource/Food
+
+artifacts - http://dbpedia.org/resource/Cultural_artifact
+
+nfl - http://dbpedia.org/resource/National_Football_League
+
+california legislature - http://dbpedia.org/resource/California_State_Legislature
+
+trent - http://dbpedia.org/resource/River_Trent
+
+vigilantes - http://dbpedia.org/resource/Vigilantism
+
+set sail - http://dbpedia.org/resource/Set_Sail_(The_Movement_album)
+
+evelyn raymond - http://dbpedia.org/resource/Evelyn_Raymond
+
+belgium - http://dbpedia.org/resource/Belgium
+
+american river - http://dbpedia.org/resource/American_River
+
+europeans - http://dbpedia.org/resource/White_people
+
+covered bridge - http://dbpedia.org/resource/Covered_bridge
+
+prospecting - http://dbpedia.org/resource/Prospecting
+
+judge - http://dbpedia.org/resource/Judge
+
+gold - http://dbpedia.org/resource/Gold_mining
+
+american president - http://dbpedia.org/resource/President_of_the_United_States
+
+constitution - http://dbpedia.org/resource/Constitution_of_Indiana
+
+white americans - http://dbpedia.org/resource/White_Americans
+
+glad - http://dbpedia.org/resource/The_Glad_Products_Company
+
+gold - http://dbpedia.org/resource/Gold
+heat waves - http://dbpedia.org/resource/Heat_wave
+
+coloma - http://dbpedia.org/resource/Coloma_High_School
+
+germany - http://dbpedia.org/resource/Germany
+
+peruvians - http://dbpedia.org/resource/Peruvians
+
+ravine - http://dbpedia.org/resource/Ravine
+
+norton company - http://dbpedia.org/resource/Norton_Abrasives
+
+immigration - http://dbpedia.org/resource/Immigration
+
+squatters - http://dbpedia.org/resource/Squatting
+
+region - http://dbpedia.org/resource/Region
+
+sunny days - http://dbpedia.org/resource/Dou_Wei
+
+swift - http://dbpedia.org/resource/Swift
+
+digitized - http://dbpedia.org/resource/Digitization
+
+prejudice - http://dbpedia.org/resource/Racism
+
+don juan - http://dbpedia.org/resource/Don_Juan
+
+oregon - http://dbpedia.org/resource/Oregon_Trail
+
+chinese immigration - http://dbpedia.org/resource/History_of_Chinese_Americans
+
+auburn - http://dbpedia.org/resource/Auburn_hair
+
+ghost town - http://dbpedia.org/resource/Ghost_town
+
+militia - http://dbpedia.org/resource/Militia
+
+peru - http://dbpedia.org/resource/Peru
+
+metal - http://dbpedia.org/resource/Metal
+
+soot - http://dbpedia.org/resource/Soot
+wheelchair accessible - http://dbpedia.org/resource/Accessibility
+
+enslaved - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+mexican war - http://dbpedia.org/resource/Mexican–American_War
+
+ranger station - http://dbpedia.org/resource/Park_ranger
+
+igr - http://dbpedia.org/resource/International_Gay_Rugby
+
+wildest dreams - http://dbpedia.org/resource/Wildest_Dreams_(Tina_Turner_album)
+
+hawaii - http://dbpedia.org/resource/Hawaiian_Islands
+
+coast - http://dbpedia.org/resource/Coast
+
+san francisco 49ers - http://dbpedia.org/resource/San_Francisco_49ers
+
+gold prospectors - http://dbpedia.org/resource/Gold_prospecting
+
+precious metal - http://dbpedia.org/resource/Precious_metal
+
+violence - http://dbpedia.org/resource/Violence
+
+economy - http://dbpedia.org/resource/Economy
+
+coast - http://dbpedia.org/resource/West_Coast_of_the_United_States
+
+immigrants - http://dbpedia.org/resource/Immigration
+
+thump - http://dbpedia.org/resource/Vice_Media
+
+patwin - http://dbpedia.org/resource/Patwin
+
+summer - http://dbpedia.org/resource/Summer
+
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+
+peralta - http://dbpedia.org/resource/Battle_of_Peralta
+
+francis - http://dbpedia.org/resource/Francis_I_of_France
+
+newness - http://dbpedia.org/resource/Newness
+
+weber - http://dbpedia.org/resource/Weber_(unit)
+
+berkeley - http://dbpedia.org/resource/George_Berkeley
+
+folsom - http://dbpedia.org/resource/Folsom_tradition
+
+legislature - http://dbpedia.org/resource/California_State_Legislature
+
+intrusion - http://dbpedia.org/resource/Intrusive_rock
+
+law - http://dbpedia.org/resource/Law_of_the_United_States
+
+news - http://dbpedia.org/resource/News_media
+
+latin america - http://dbpedia.org/resource/Latin_America
+
+harry love - http://dbpedia.org/resource/Harry_Love_(lawman)
+
+ohv - http://dbpedia.org/resource/Overhead_valve_engine
+
+marinas - http://dbpedia.org/resource/Marina
+
+court - http://dbpedia.org/resource/Court
+
+climate - http://dbpedia.org/resource/Alpine_climate
+
+harvard university - http://dbpedia.org/resource/Harvard_University
+
+chaotic - http://dbpedia.org/resource/Chaos_theory
+
+california gold country - http://dbpedia.org/resource/Gold_Country
+
+mississippi - http://dbpedia.org/resource/Mississippi
+
+slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+mifflin wistar gibbs - http://dbpedia.org/resource/Mifflin_Wistar_Gibbs
+
+amendment - http://dbpedia.org/resource/Law
+
+chinese immigrants - http://dbpedia.org/resource/History_of_Chinese_Americans
+
+boating - http://dbpedia.org/resource/Boating
+
+william burgess - http://dbpedia.org/resource/William_Burgess_(painter)
+
+john sutter - http://dbpedia.org/resource/John_Sutter
+limestone - http://dbpedia.org/resource/Limestone
+
+free man - http://dbpedia.org/resource/Free_Man
+
+california indians - http://dbpedia.org/resource/Indigenous_peoples_of_California
+
+california - http://dbpedia.org/resource/California_Trail
+
+lounge - http://dbpedia.org/resource/Bar
+
+holocaust - http://dbpedia.org/resource/The_Holocaust
+
+san francisco - http://dbpedia.org/resource/San_Francisco
+
+enslaved african americans - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+april 25 - http://dbpedia.org/resource/April_25_SC
+
+massachusetts - http://dbpedia.org/resource/Massachusetts
+
+gold mountain - http://dbpedia.org/resource/Jinshan_District
+
+currency - http://dbpedia.org/resource/United_States_dollar
+
+hidalgo - http://dbpedia.org/resource/Hidalgo_(nobility)
+
+republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
+
+spencer hill - http://dbpedia.org/resource/Midpoint_Trade_Books
+
+sacramento river - http://dbpedia.org/resource/Sacramento_River
+
+webster - http://dbpedia.org/resource/Martell_Webster
+
+san francisco - http://dbpedia.org/resource/History_of_San_Francisco
+
+varieties - http://dbpedia.org/resource/Varieties_of_Chinese
+
+utah - http://dbpedia.org/resource/Utah_Territory
+
+loneliness - http://dbpedia.org/resource/Loneliness
+
+public schools - http://dbpedia.org/resource/Education_in_the_United_States
+
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+land grant - http://dbpedia.org/resource/Land_grant
+
+atherton - http://dbpedia.org/resource/Atherton_Tableland
+
+crime - http://dbpedia.org/resource/Crime
+
+rusha - http://dbpedia.org/resource/SS_Race_and_Settlement_Main_Office
+
+family - http://dbpedia.org/resource/Family
+
+transcontinental railroad - http://dbpedia.org/resource/First_Transcontinental_Railroad
+
+trail - http://dbpedia.org/resource/Trail
+
+swashbuckling - http://dbpedia.org/resource/Adventure_fiction
+
+ireland - http://dbpedia.org/resource/Republic_of_Ireland
+
+suffrage - http://dbpedia.org/resource/Suffrage
+
+bret harte - http://dbpedia.org/resource/Bret_Harte
+
+joaquín murieta - http://dbpedia.org/resource/Joaquin_Murrieta
+
+newspaper publisher - http://dbpedia.org/resource/Publishing
+
+fugitive slave - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
+weather - http://dbpedia.org/resource/Weathering
+
+court - http://dbpedia.org/resource/Federal_judiciary_of_the_United_States
+
+population growth - http://dbpedia.org/resource/Population_growth
+
+bridge - http://dbpedia.org/resource/Bridge
+
+homesteaders - http://dbpedia.org/resource/Homestead_Acts
+
+merced - http://dbpedia.org/resource/Merced_River
 
 senator - http://dbpedia.org/resource/United_States_Senate
 
 gold watch - http://dbpedia.org/resource/Norwegian_Football_Association_Gold_Watch
 
-newspaper publisher - http://dbpedia.org/resource/Publishing
+russians - http://dbpedia.org/resource/Russian_Empire
 
-boat fishing - http://dbpedia.org/resource/Recreational_boat_fishing
-
-texan - http://dbpedia.org/resource/Republic_of_Texas
-
-sierra nevada - http://dbpedia.org/resource/Trans-Mexican_Volcanic_Belt
-
-pot - http://dbpedia.org/resource/Pottery
-
-miwok - http://dbpedia.org/resource/Miwok
-
-snowfall - http://dbpedia.org/resource/Snow
-
-american president - http://dbpedia.org/resource/President_of_the_United_States
-
-custer - http://dbpedia.org/resource/George_Armstrong_Custer
-
-fog - http://dbpedia.org/resource/Fog
-
-pine - http://dbpedia.org/resource/Pine
-
-squatter - http://dbpedia.org/resource/Squatting
-
-sleep - http://dbpedia.org/resource/Sleep
-
-multiracial - http://dbpedia.org/resource/Multiracial
-
-quintet - http://dbpedia.org/resource/Quintet
-
-native american history - http://dbpedia.org/resource/Native_Americans_in_the_United_States
-
-stud - http://dbpedia.org/resource/Stud_farm
-
-runoff - http://dbpedia.org/resource/Surface_runoff
-
-cash - http://dbpedia.org/resource/Money
-
-race - http://dbpedia.org/resource/Racing
-
-heart - http://dbpedia.org/resource/Heart
-
-sunny day - http://dbpedia.org/resource/Sunny_Day_(TV_series)
-
-herbalist - http://dbpedia.org/resource/Herbal_medicine
-
-sidewalk - http://dbpedia.org/resource/Sidewalk
-
-fear - http://dbpedia.org/resource/Fear
-
-mining - http://dbpedia.org/resource/Gold_mining
-
-mexican land grant - http://dbpedia.org/resource/Ranchos_of_California
-
-precious metal - http://dbpedia.org/resource/Precious_metal
-
-california - http://dbpedia.org/resource/California_Trail
-
-meander - http://dbpedia.org/resource/Meander
-
-agriculturist - http://dbpedia.org/resource/Agriculture
-
-ireland - http://dbpedia.org/resource/Republic_of_Ireland
-
-native gold - http://dbpedia.org/resource/Gold
-
-clutch - http://dbpedia.org/resource/Clutch
-
-public opinion - http://dbpedia.org/resource/Public_opinion
-
-wine - http://dbpedia.org/resource/Viticulture
-
-metal - http://dbpedia.org/resource/Metal
-
-chile - http://dbpedia.org/resource/Chile
-
-egalitarianism - http://dbpedia.org/resource/Egalitarianism
-
-oregon - http://dbpedia.org/resource/Oregon_Trail
-
-white water rafting - http://dbpedia.org/resource/Rafting
-
-ravine - http://dbpedia.org/resource/Ravine
-
-judge - http://dbpedia.org/resource/Judge
-
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-germany - http://dbpedia.org/resource/Nazi_Germany
-
-settler - http://dbpedia.org/resource/Settler
-
-daniel webster - http://dbpedia.org/resource/Daniel_Webster
-
-steamer - http://dbpedia.org/resource/Steamboat
-
-town - http://dbpedia.org/resource/Town
-
-boom town - http://dbpedia.org/resource/Boomtown
-
-swift - http://dbpedia.org/resource/Swift
-
-winery - http://dbpedia.org/resource/Winery
-
-49er - http://dbpedia.org/resource/California_Gold_Rush
-
-swashbuckling - http://dbpedia.org/resource/Adventure_fiction
-
-summer - http://dbpedia.org/resource/Summer
-
-tax - http://dbpedia.org/resource/Tax
-
-san francisco - http://dbpedia.org/resource/History_of_San_Francisco
-ivan - http://dbpedia.org/resource/Ivan_the_Terrible
-
-loneliness - http://dbpedia.org/resource/Loneliness
-
-marbleized - http://dbpedia.org/resource/Marbleizing
-
-california - http://dbpedia.org/resource/History_of_California
-
-john sutter - http://dbpedia.org/resource/John_Sutter
-
-oregon - http://dbpedia.org/resource/Oregon
-
-california goldfields - http://dbpedia.org/resource/Lasthenia_californica
-
-foreign miners tax - http://dbpedia.org/resource/Foreign_Miners'_Tax_Act_of_1850
-
-limestone - http://dbpedia.org/resource/Limestone
-
-mass hysteria - http://dbpedia.org/resource/Mass_psychogenic_illness
-
-settlement - http://dbpedia.org/resource/Town
-
-western u.s. - http://dbpedia.org/resource/Western_United_States
-
-digitize - http://dbpedia.org/resource/Digitization
-
-law - http://dbpedia.org/resource/Law
-
-public school - http://dbpedia.org/resource/State_school
-
-carte de visite - http://dbpedia.org/resource/Carte_de_visite
-
-extricate - http://dbpedia.org/resource/Extricate
-
-susan lee - http://dbpedia.org/resource/Susan_Lee
-
-boredom - http://dbpedia.org/resource/Boredom
-
-hawaii - http://dbpedia.org/resource/Hawaiian_Islands
-
-legal title - http://dbpedia.org/resource/Title_(property)
-
-bankrupt - http://dbpedia.org/resource/Bankruptcy
-
-arkansas - http://dbpedia.org/resource/Arkansas
-
-water power - http://dbpedia.org/resource/Water_wheel
-
-don pedro - http://dbpedia.org/resource/Don_Pedro_Dam
-
-high hill - http://dbpedia.org/resource/High_Hill,_Missouri
-
-mexican american war - http://dbpedia.org/resource/Mexican–American_War
-
-james marshall - http://dbpedia.org/resource/James_W._Marshall
-
-gape - http://dbpedia.org/resource/Beak
-
-germany - http://dbpedia.org/resource/Germany
-
-north south - http://dbpedia.org/resource/North_South_MRT_line
-
-mokelumne - http://dbpedia.org/resource/Mokelumne_River
-
-tuolumne - http://dbpedia.org/resource/Tuolumne_River
-
-grape - http://dbpedia.org/resource/Grape
-
-environmental problem - http://dbpedia.org/resource/Environmentalism
-
-food - http://dbpedia.org/resource/Food
-
-york herald - http://dbpedia.org/resource/York_Herald
-
-mormons - http://dbpedia.org/resource/Mormons
-
-sandwich - http://dbpedia.org/resource/Sandwich
-
-gold - http://dbpedia.org/resource/Gold
-
-east bay - http://dbpedia.org/resource/East_Bay
-
-hiking - http://dbpedia.org/resource/Hiking
-
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-
-merced - http://dbpedia.org/resource/Merced_River
-
-multitudes - http://dbpedia.org/resource/Multitudes
-
-white americans - http://dbpedia.org/resource/White_Americans
-
-chinese exclusion - http://dbpedia.org/resource/Chinese_Exclusion_Act
-
-peru - http://dbpedia.org/resource/Peru
-
-echo - http://dbpedia.org/resource/Echo
-
-continent - http://dbpedia.org/resource/Continent
-
-discrimination - http://dbpedia.org/resource/Discrimination
-
-colony - http://dbpedia.org/resource/Colony
-
-enchant - http://dbpedia.org/resource/Enchant_(band)
-
-california gold country - http://dbpedia.org/resource/Gold_Country
-
-charles - http://dbpedia.org/resource/Charles_II_of_England
-
-northern california - http://dbpedia.org/resource/Northern_California
-
-bear - http://dbpedia.org/resource/Bear
-
-rozier - http://dbpedia.org/resource/Mike_Rozier
-
-bug - http://dbpedia.org/resource/Software_bug
-
-land claim - http://dbpedia.org/resource/Land_claim
-
-statehood - http://dbpedia.org/resource/U.S._state
-
-constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
-
-restaurant - http://dbpedia.org/resource/Restaurant
-
-utopian ideal - http://dbpedia.org/resource/Utopia
-
-furth - http://dbpedia.org/resource/Lists_of_mountains_and_hills_in_the_British_Isles
-
-massachusetts - http://dbpedia.org/resource/Massachusetts
-
-mortar - http://dbpedia.org/resource/Mortar_and_pestle
-
-spanish mexican - http://dbpedia.org/resource/Spaniards_in_Mexico
-
-california constitutional convention - http://dbpedia.org/resource/California_Constitutional_Conventions
-
-kowalewski - http://dbpedia.org/resource/Jan_Kowalewski
-
-utah territory - http://dbpedia.org/resource/Utah_Territory
-
-slave owner - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-webster - http://dbpedia.org/resource/Martell_Webster
-
-african americans - http://dbpedia.org/resource/African_Americans
-
-breakfast - http://dbpedia.org/resource/Breakfast
-
-emigration - http://dbpedia.org/resource/Emigration
-
-synonym - http://dbpedia.org/resource/Synonym
-
-john bigler - http://dbpedia.org/resource/John_Bigler
-
-native american tribe - http://dbpedia.org/resource/Indigenous_peoples_of_California
-
-bret harte - http://dbpedia.org/resource/Bret_Harte
-
-newspaper - http://dbpedia.org/resource/Newspaper
-
-california governor - http://dbpedia.org/resource/Governor_of_California
-
-communication - http://dbpedia.org/resource/Communication
-
-plank - http://dbpedia.org/resource/Lumber
-
-glad - http://dbpedia.org/resource/The_Glad_Products_Company
-
-sacramento river - http://dbpedia.org/resource/Sacramento_River
-
-slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-gold - http://dbpedia.org/resource/Gold_mining
-
-president - http://dbpedia.org/resource/President_of_the_United_States
-
-utensil - http://dbpedia.org/resource/Tool
-
-gold prospector - http://dbpedia.org/resource/Prospecting
-
-lumber mill - http://dbpedia.org/resource/Sutter's_Mill
-
-grinding - http://dbpedia.org/resource/Grinding_machine
-
-handbill - http://dbpedia.org/resource/Wanted_poster
-
-mexican war - http://dbpedia.org/resource/Mexican–American_War
-
-marshall james - http://dbpedia.org/resource/Marshall_James
+mexico - http://dbpedia.org/resource/Mexico
 
 emigrant - http://dbpedia.org/resource/Emigration
 
-san joaquin - http://dbpedia.org/resource/San_Joaquin_River
+melones - http://dbpedia.org/resource/Melones,_California
 
-homesteader - http://dbpedia.org/resource/Homestead_Acts
-
-flood - http://dbpedia.org/resource/Flood
-
-fluke - http://dbpedia.org/resource/Whale
-
-nisenan - http://dbpedia.org/resource/Nisenan
-
-wood - http://dbpedia.org/resource/Lumber
-
-middle fork american river - http://dbpedia.org/resource/Middle_Fork_American_River
-
-soot - http://dbpedia.org/resource/Soot
-
-downtown - http://dbpedia.org/resource/Downtown
-
-westward movement - http://dbpedia.org/resource/Westward_movement
-
-coast - http://dbpedia.org/resource/West_Coast_of_the_United_States
-
-norman - http://dbpedia.org/resource/Normans
-
-news - http://dbpedia.org/resource/News_media
-
-igr - http://dbpedia.org/resource/International_Gay_Rugby
-
-weber - http://dbpedia.org/resource/Weber_(unit)
-
-listed - http://dbpedia.org/resource/Initial_public_offering
-statehood - http://dbpedia.org/resource/Admission_to_the_Union
-
-rush peak - http://dbpedia.org/resource/Rush_Peak
-
-ounce - http://dbpedia.org/resource/Ounce
-
-african american - http://dbpedia.org/resource/African_Americans
-
-trent - http://dbpedia.org/resource/River_Trent
-
-root - http://dbpedia.org/resource/Root
-
-bedrock mortar - http://dbpedia.org/resource/Bedrock_mortar
-
-prejudice - http://dbpedia.org/resource/Racism
-
-high sierra - http://dbpedia.org/resource/Ecology_of_the_Sierra_Nevada
-
-sutter - http://dbpedia.org/resource/John_Sutter
-
-legislature - http://dbpedia.org/resource/California_State_Legislature
-
-heat wave - http://dbpedia.org/resource/Heat_wave
-
-fair wage - http://dbpedia.org/resource/Living_wage
-
-holocaust - http://dbpedia.org/resource/The_Holocaust
-
-pocket - http://dbpedia.org/resource/Billiard_table
-
-pistol - http://dbpedia.org/resource/Handgun
-
-gun - http://dbpedia.org/resource/Gun
-
-lake - http://dbpedia.org/resource/Lake
-
-resemble - http://dbpedia.org/resource/SoltyRei
-
-grass valley - http://dbpedia.org/resource/Grass_valley
-
-federal government - http://dbpedia.org/resource/Federal_government_of_the_United_States
-
-native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
-
-henry childs - http://dbpedia.org/resource/Henry_Childs
+switzerland - http://dbpedia.org/resource/Switzerland
 
 spring - http://dbpedia.org/resource/Mineral_spring
 
-climate - http://dbpedia.org/resource/Alpine_climate
-
-news - http://dbpedia.org/resource/News
-
-san joaquin - http://dbpedia.org/resource/San_Joaquin_Valley
-
-chileans - http://dbpedia.org/resource/Chile
-
-vigilante - http://dbpedia.org/resource/Vigilantism
-
-reservoir - http://dbpedia.org/resource/Reservoir
-
-heyday books - http://dbpedia.org/resource/Heyday_Books
-
-violence - http://dbpedia.org/resource/Violence
-
-owen - http://dbpedia.org/resource/Richard_Owen
-
-chaotic - http://dbpedia.org/resource/Chaos_theory
-
-wing - http://dbpedia.org/resource/Rugby_union_positions
-
-thump - http://dbpedia.org/resource/Vice_Media
-
-multicultural - http://dbpedia.org/resource/Multiculturalism
-
-city - http://dbpedia.org/resource/City
-
-mining - http://dbpedia.org/resource/Mining
-
-slave trade - http://dbpedia.org/resource/Slavery_in_the_United_States
-
-mifflin wistar gibbs - http://dbpedia.org/resource/Mifflin_Wistar_Gibbs
-
-federal law - http://dbpedia.org/resource/Law_of_the_United_States
-
-miner - http://dbpedia.org/resource/Mining
-
-harvard university - http://dbpedia.org/resource/Harvard_University
-
-fugitive - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
-
-lounge - http://dbpedia.org/resource/Bar
-
-soil - http://dbpedia.org/resource/Soil
-
-jamestown - http://dbpedia.org/resource/Jamestown,_Virginia
-
-europeans - http://dbpedia.org/resource/White_people
-
-religion - http://dbpedia.org/resource/Freedom_of_religion
-
-nestle - http://dbpedia.org/resource/Eberhard_Nestle
-bridge - http://dbpedia.org/resource/Bridge
-
 citizenship - http://dbpedia.org/resource/Citizenship
 
-murieta - http://dbpedia.org/resource/Murieta
-
-coloma - http://dbpedia.org/resource/Coloma_High_School
-
-constitution - http://dbpedia.org/resource/Constitution_of_Indiana
-
-farming - http://dbpedia.org/resource/Agriculture
-
-texas - http://dbpedia.org/resource/Texas
-
-nfl - http://dbpedia.org/resource/National_Football_League
-
-foresthill bridge - http://dbpedia.org/resource/Foresthill_Bridge
-
-sacramento - http://dbpedia.org/resource/Sacramento_River
-
-family - http://dbpedia.org/resource/Family
-
-abolitionist - http://dbpedia.org/resource/Slavery
-
-frontier - http://dbpedia.org/resource/American_frontier
-acre - http://dbpedia.org/resource/Acre
-
-infrastructure - http://dbpedia.org/resource/Infrastructure
-
-ammon - http://dbpedia.org/resource/Ammon
-
-auburn - http://dbpedia.org/resource/Auburn_hair
-
-hidalgo - http://dbpedia.org/resource/Hidalgo_(nobility)
-
-berkeley university - http://dbpedia.org/resource/University_of_California,_Berkeley
-
-currency - http://dbpedia.org/resource/United_States_dollar
-
-sail ship - http://dbpedia.org/resource/Sailing_ship
-
-st. charles - http://dbpedia.org/resource/St._Charles_East_High_School
-
-shopkeeper - http://dbpedia.org/resource/Shopkeeper
+california governor - http://dbpedia.org/resource/Governor_of_California
 
 central valley - http://dbpedia.org/resource/Chilean_Central_Valley
 
-republican - http://dbpedia.org/resource/Republicanism_in_the_United_States
+statehood - http://dbpedia.org/resource/Admission_to_the_Union
 
-agriculturalist - http://dbpedia.org/resource/Agriculture
+white water rafting - http://dbpedia.org/resource/Rafting
 
-crystal clear - http://dbpedia.org/resource/Everaldo_Coelho
+native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
 
-patwin - http://dbpedia.org/resource/Patwin
+american river - http://dbpedia.org/resource/American_River
+american history - http://dbpedia.org/resource/History_of_the_United_States
 
-monterey - http://dbpedia.org/resource/Battle_of_Monterey
+foreign miners tax - http://dbpedia.org/resource/Foreign_Miners'_Tax_Act_of_1850
 
-wagon - http://dbpedia.org/resource/Conestoga_wagon
+reminders - http://dbpedia.org/resource/Reminders_(miniseries)
 
-wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+yuba - http://dbpedia.org/resource/Tofu_skin
 
-vineyard - http://dbpedia.org/resource/Vineyard
+jessica - http://dbpedia.org/resource/Jessica_Buchanan
 
-spit - http://dbpedia.org/resource/Shoal
+mines - http://dbpedia.org/resource/Mining
 
-bear - http://dbpedia.org/resource/American_black_bear
+station - http://dbpedia.org/resource/Train_station
 
-mineral deposit - http://dbpedia.org/resource/Ore
-
-gertrude franklin horn - http://dbpedia.org/resource/Gertrude_Atherton
-
-tent - http://dbpedia.org/resource/Tent
-
-mountain biking - http://dbpedia.org/resource/Mountain_biking
-
-californios - http://dbpedia.org/resource/Californio
-
-sierra nevada mountains - http://dbpedia.org/resource/Sierra_Nevada_(U.S.)
-
-dust - http://dbpedia.org/resource/Dust
-
-fort - http://dbpedia.org/resource/Fortification
-
-trigger - http://dbpedia.org/resource/Hypnosis
-
-mexico - http://dbpedia.org/resource/New_Spain
-
-goldfield - http://dbpedia.org/resource/Gold_mining
-
-mother lode - http://dbpedia.org/resource/Mother_lode
-
-immigrant - http://dbpedia.org/resource/Immigration
-
-region - http://dbpedia.org/resource/Region
-
-coast - http://dbpedia.org/resource/Coast
-
-wind - http://dbpedia.org/resource/Aeolian_processes
-
-san francisco - http://dbpedia.org/resource/San_Francisco
-
-san francisco - http://dbpedia.org/resource/History_of_San_Francisco
-
-joaquín murieta - http://dbpedia.org/resource/Joaquin_Murrieta
-
-migration - http://dbpedia.org/resource/Human_migration
-
-minnesota - http://dbpedia.org/resource/Minnesota
-
-ranching - http://dbpedia.org/resource/Ranch
-
-secede - http://dbpedia.org/resource/Secession_in_the_United_States
-
-population growth - http://dbpedia.org/resource/Population_growth
-
-latin america - http://dbpedia.org/resource/Latin_America
-
-police - http://dbpedia.org/resource/Police
-
-california frontier - http://dbpedia.org/resource/California_Frontier
-
-ranch - http://dbpedia.org/resource/Ranch
-
-entail - http://dbpedia.org/resource/Fee_tail
-
-dollar - http://dbpedia.org/resource/United_States_dollar
-
-mexicans - http://dbpedia.org/resource/Mexican_Americans
-
-harry love - http://dbpedia.org/resource/Harry_Love_(lawman)
-
-militia - http://dbpedia.org/resource/Militia
+continent - http://dbpedia.org/resource/Continent
 
 landscape - http://dbpedia.org/resource/Landscape
 
-black hole - http://dbpedia.org/resource/Black_hole
+pine - http://dbpedia.org/resource/Pine
 
-sonora - http://dbpedia.org/resource/Sonora
+washington - http://dbpedia.org/resource/George_Washington
 
-russians - http://dbpedia.org/resource/Russian_Empire
+james polk - http://dbpedia.org/resource/James_K._Polk
 
-social custom - http://dbpedia.org/resource/Social_norm
-
-atherton - http://dbpedia.org/resource/Atherton_Tableland
-
-miner - http://dbpedia.org/resource/Miner
-sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
-
-transcontinental railroad - http://dbpedia.org/resource/First_Transcontinental_Railroad
-
-mining town - http://dbpedia.org/resource/Ghost_town
-
-boys hill - http://dbpedia.org/resource/Holnest
-
-ranger station - http://dbpedia.org/resource/Park_ranger
-
-gold mountain - http://dbpedia.org/resource/Jinshan_District
-
-intrusion - http://dbpedia.org/resource/Intrusive_rock
-
-single - http://dbpedia.org/resource/Extended_play
-
-wheelchair accessible - http://dbpedia.org/resource/Accessibility
-
-foothill - http://dbpedia.org/resource/Foothills
-
-recall - http://dbpedia.org/resource/Recall_election
-
-petition - http://dbpedia.org/resource/Petition
-
-californio - http://dbpedia.org/resource/Californio
-
-digit - http://dbpedia.org/resource/Toe
-
-artifact - http://dbpedia.org/resource/Cultural_artifact
-
-economy - http://dbpedia.org/resource/Economy
-
-wave - http://dbpedia.org/resource/Wind_wave
-
-immigration - http://dbpedia.org/resource/Immigration
-
-ghost town - http://dbpedia.org/resource/Ghost_town
-
-court - http://dbpedia.org/resource/Court
-
-crop - http://dbpedia.org/resource/Agriculture
-
-1849 gold rush - http://dbpedia.org/resource/California_Gold_Rush
-
-nevada city - http://dbpedia.org/resource/Nevada_City,_California
-
-san francisco 49er - http://dbpedia.org/resource/San_Francisco_49ers
-
-don juan - http://dbpedia.org/resource/Don_Juan
-
-helvetia - http://dbpedia.org/resource/Helvetia
-
-wide range - http://dbpedia.org/resource/Fender_Wide_Range
-
-april 25 - http://dbpedia.org/resource/April_25_SC
-
-sacramento bee - http://dbpedia.org/resource/The_Sacramento_Bee
-
-william perkins - http://dbpedia.org/resource/William_Perkins_(theologian)
-
-fugitive slave - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
-
-mexico - http://dbpedia.org/resource/First_Mexican_Republic
-
-merchant - http://dbpedia.org/resource/Merchant
-
-hwy 49 - http://dbpedia.org/resource/California_State_Route_49
-
-belgium - http://dbpedia.org/resource/Belgium
-
-frank norris - http://dbpedia.org/resource/Frank_Norris
-
-rusha - http://dbpedia.org/resource/SS_Race_and_Settlement_Main_Office
-
-land grant - http://dbpedia.org/resource/Ranchos_of_California
-
-subsistence - http://dbpedia.org/resource/Subsistence_agriculture
-
-eds - http://dbpedia.org/resource/Electronic_Data_Systems
-
-prospector - http://dbpedia.org/resource/Prospecting
-
-trail - http://dbpedia.org/resource/Trail
-
-ohv - http://dbpedia.org/resource/Overhead_valve_engine
-
-set sail - http://dbpedia.org/resource/Set_Sail_(The_Movement_album)
-
-solano - http://dbpedia.org/resource/Solano_Avenue
-
-early summer - http://dbpedia.org/resource/Early_Summer
-
-native americans - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
-
-map - http://dbpedia.org/resource/Map
-
-california - http://dbpedia.org/resource/California
-
-native californians - http://dbpedia.org/resource/Indigenous_peoples_of_California
-
-hiding place - http://dbpedia.org/resource/Hiding_Place_(Tori_Kelly_album)
-
-pablo - http://dbpedia.org/resource/Pablo_P._Garcia
-
-north fork american river - http://dbpedia.org/resource/North_Fork_American_River
-
-jostle - http://dbpedia.org/resource/Jostle_(horse)
+restaurant - http://dbpedia.org/resource/Restaurant
 
 samuel brannan - http://dbpedia.org/resource/Samuel_Brannan
 
+winter - http://dbpedia.org/resource/Winter
+
+bug - http://dbpedia.org/resource/Software_bug
+
+rozier - http://dbpedia.org/resource/Mike_Rozier
+
+speculators - http://dbpedia.org/resource/Speculation
+
+latin american - http://dbpedia.org/resource/Latin_America
+
+ireland - http://dbpedia.org/resource/Ireland
+
+ai - http://dbpedia.org/resource/Artificial_intelligence
+
+california goldfields - http://dbpedia.org/resource/Lasthenia_californica
+
+agriculturist - http://dbpedia.org/resource/Agriculture
+
+gun - http://dbpedia.org/resource/Gun
+
+fog - http://dbpedia.org/resource/Fog
+
+nisenan - http://dbpedia.org/resource/Nisenan
+
+multicultural - http://dbpedia.org/resource/Multiculturalism
+
+involuntary servitude - http://dbpedia.org/resource/Involuntary_servitude
+
+native americans - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
+
+hiking - http://dbpedia.org/resource/Hiking
+
+constitution - http://dbpedia.org/resource/Constitution_of_the_United_States
+
+abolitionist - http://dbpedia.org/resource/Slavery
+
+forty niners - http://dbpedia.org/resource/California_Gold_Rush
+
+synonyms - http://dbpedia.org/resource/Synonym
+
+mass hysteria - http://dbpedia.org/resource/Mass_psychogenic_illness
+
+california - http://dbpedia.org/resource/California
+
+norman - http://dbpedia.org/resource/Normans
+
+sacramento bee - http://dbpedia.org/resource/The_Sacramento_Bee
+
+east bay - http://dbpedia.org/resource/East_Bay
+san joaquin - http://dbpedia.org/resource/San_Joaquin_River
+
+western u.s. - http://dbpedia.org/resource/Western_United_States
+
+melting - http://dbpedia.org/resource/Global_warming
+
+sutter - http://dbpedia.org/resource/John_Sutter
+
+bankrupt - http://dbpedia.org/resource/Bankruptcy
+
+california constitutional convention - http://dbpedia.org/resource/California_Constitutional_Conventions
+
+mexican land grants - http://dbpedia.org/resource/Ranchos_of_California
+
+henry childs - http://dbpedia.org/resource/Henry_Childs
+
+chinese exclusion - http://dbpedia.org/resource/Chinese_Exclusion_Act
+
+demographic - http://dbpedia.org/resource/Demography
+
+john sutter - http://dbpedia.org/resource/John_Sutter
+
+daniel webster - http://dbpedia.org/resource/Daniel_Webster
+
+prospector - http://dbpedia.org/resource/Prospecting
+
+wine - http://dbpedia.org/resource/Viticulture
+
+slavery - http://dbpedia.org/resource/Slavery_in_the_United_States
+
 latin americans - http://dbpedia.org/resource/Latin_Americans
 
-california gold rush - http://dbpedia.org/resource/California_Gold_Rush
+eds - http://dbpedia.org/resource/Electronic_Data_Systems
 
-chinatown - http://dbpedia.org/resource/Chinatown
+herbalists - http://dbpedia.org/resource/Herbal_medicine
 
-san diego - http://dbpedia.org/resource/San_Diego
+agriculturalist - http://dbpedia.org/resource/Agriculture
 
-church - http://dbpedia.org/resource/Catholic_Church
+californios - http://dbpedia.org/resource/Californio
 
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
+library - http://dbpedia.org/resource/Library
 
-lawyer - http://dbpedia.org/resource/Lawyer
+custer - http://dbpedia.org/resource/George_Armstrong_Custer
 
-north america - http://dbpedia.org/resource/North_America
+texan - http://dbpedia.org/resource/Republic_of_Texas
 
-temperature - http://dbpedia.org/resource/Temperature
+49ers - http://dbpedia.org/resource/San_Francisco_49ers
 
-speculator - http://dbpedia.org/resource/Speculation
+frederick douglass - http://dbpedia.org/resource/Frederick_Douglass
 
-western slope - http://dbpedia.org/resource/Colorado_Western_Slope
+soil - http://dbpedia.org/resource/Soil
+
+fort - http://dbpedia.org/resource/Fortification
+
+pablo - http://dbpedia.org/resource/Pablo_P._Garcia
+
+law - http://dbpedia.org/resource/Law
+
+james wilson - http://dbpedia.org/resource/James_Wilson_(justice)
+
+tuolumne - http://dbpedia.org/resource/Tuolumne_River
+
+shopkeeper - http://dbpedia.org/resource/Shopkeeper
+
+sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
+
+kowalewski - http://dbpedia.org/resource/Jan_Kowalewski
+
+sawmill - http://dbpedia.org/resource/Sawmill
+
+attorney - http://dbpedia.org/resource/Lawyer
+
+chile - http://dbpedia.org/resource/Chile
+
+hwy 49 - http://dbpedia.org/resource/California_State_Route_49
+
+land claims - http://dbpedia.org/resource/Land_claim
+
+charles - http://dbpedia.org/resource/Charles_II_of_England
+
+minnesota - http://dbpedia.org/resource/Minnesota
+
+president - http://dbpedia.org/resource/President_of_the_United_States
+
+dissolution - http://dbpedia.org/resource/Dissolution_of_the_Soviet_Union
+
+sidewalk - http://dbpedia.org/resource/Sidewalk
+
+texas - http://dbpedia.org/resource/Texas
+
+forty niner - http://dbpedia.org/resource/Forty_Niner_(horse)
+
+water - http://dbpedia.org/resource/Water
+
+mexicans - http://dbpedia.org/resource/Mexican_Americans
+
+miner - http://dbpedia.org/resource/Miner
+
+columbia - http://dbpedia.org/resource/Cuban_rumba
+
+ammon - http://dbpedia.org/resource/Ammon
+
+arkansas - http://dbpedia.org/resource/Arkansas
+
+multiracial - http://dbpedia.org/resource/Multiracial
+
+marbleized - http://dbpedia.org/resource/Marbleizing
+
+equal rights - http://dbpedia.org/resource/Civil_and_political_rights
+
+race - http://dbpedia.org/resource/Racing
+
+sierra nevada mountains - http://dbpedia.org/resource/Sierra_Nevada_(U.S.)
+
+don pedro - http://dbpedia.org/resource/Don_Pedro_Dam
+
+fair wage - http://dbpedia.org/resource/Living_wage
+
+james marshall - http://dbpedia.org/resource/James_W._Marshall
+
+handbill - http://dbpedia.org/resource/Wanted_poster
+
+steamer - http://dbpedia.org/resource/Steamboat
+
+st. charles - http://dbpedia.org/resource/St._Charles_East_High_School
+
+map - http://dbpedia.org/resource/Map
+
+berkeley university - http://dbpedia.org/resource/University_of_California,_Berkeley
+
+listed - http://dbpedia.org/resource/Initial_public_offering
+
+oakland - http://dbpedia.org/resource/History_of_the_Oakland_Raiders
+
+foresthill bridge - http://dbpedia.org/resource/Foresthill_Bridge
+
+solano - http://dbpedia.org/resource/Solano_Avenue
+
+language - http://dbpedia.org/resource/Ukrainian_language
+
+chileans - http://dbpedia.org/resource/Chile
+
+legal title - http://dbpedia.org/resource/Title_(property)
+
+gold - http://dbpedia.org/resource/Gold
+
+wave - http://dbpedia.org/resource/Wind_wave
+
+sierra nevada - http://dbpedia.org/resource/Trans-Mexican_Volcanic_Belt
+
+york herald - http://dbpedia.org/resource/York_Herald
+
+millertown - http://dbpedia.org/resource/Millertown,_Newfoundland_and_Labrador
+
+helvetia - http://dbpedia.org/resource/Helvetia
+
+egalitarianism - http://dbpedia.org/resource/Egalitarianism
+
+william perkins - http://dbpedia.org/resource/William_Perkins_(theologian)
+
+indentured servants - http://dbpedia.org/resource/Indentured_servitude
+
+ranch - http://dbpedia.org/resource/Ranch
+
+san joaquin - http://dbpedia.org/resource/San_Joaquin_Valley
+
+public opinion - http://dbpedia.org/resource/Public_opinion
+
+westward movement - http://dbpedia.org/resource/Westward_movement
+
+california - http://dbpedia.org/resource/History_of_California
+
+dust - http://dbpedia.org/resource/Dust
+
+crystal clear - http://dbpedia.org/resource/Everaldo_Coelho
+
+grapes - http://dbpedia.org/resource/Vineyard
+
+pistol - http://dbpedia.org/resource/Handgun
+
+ranching - http://dbpedia.org/resource/Ranch
+
+north fork - http://dbpedia.org/resource/North_Fork_American_River
+
+newspaper - http://dbpedia.org/resource/Newspaper
+
+guadalupe - http://dbpedia.org/resource/Our_Lady_of_Guadalupe
+
+spit - http://dbpedia.org/resource/Shoal
+
+dollar - http://dbpedia.org/resource/United_States_dollar
+
+white southerners - http://dbpedia.org/resource/White_Southerners
+
+high sierra - http://dbpedia.org/resource/Ecology_of_the_Sierra_Nevada
+
+sonora - http://dbpedia.org/resource/Sonora
+
+greasers - http://dbpedia.org/resource/Greaser_(subculture)
+
+fugitive slave - http://dbpedia.org/resource/Fugitive_slaves_in_the_United_States
+
+hiding places - http://dbpedia.org/resource/Hiding_Places
+
+gold nuggets - http://dbpedia.org/resource/Calochortus_luteus
+
+mining town - http://dbpedia.org/resource/Mining
+
+sacramento - http://dbpedia.org/resource/Sacramento_River
+
+mormons - http://dbpedia.org/resource/Mormons
+
+frontier - http://dbpedia.org/resource/American_frontier
+
+rich bar - http://dbpedia.org/resource/Rich_Bar,_British_Columbia
+
+mining - http://dbpedia.org/resource/Gold_mining
+
+carte de visite - http://dbpedia.org/resource/Carte_de_visite
+
+frank norris - http://dbpedia.org/resource/Frank_Norris
+
+bear - http://dbpedia.org/resource/Bear
+
+quintet - http://dbpedia.org/resource/Quintet
+
+mineral - http://dbpedia.org/resource/Mining
+
+agriculture - http://dbpedia.org/resource/Agriculture
+
+wilson - http://dbpedia.org/resource/Will_Horton_and_Sonny_Kiriakis
+
+californio - http://dbpedia.org/resource/Californio
+
+south yuba river - http://dbpedia.org/resource/South_Yuba_River
+
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
+
+extricate - http://dbpedia.org/resource/Extricate
+
+tax - http://dbpedia.org/resource/Tax
+
+demographic - http://dbpedia.org/resource/Demography_of_the_United_States
+
+customs - http://dbpedia.org/resource/Customs
+
+rock - http://dbpedia.org/resource/Rock_music
+
+hogan - http://dbpedia.org/resource/Hogan
 
 mountain bike - http://dbpedia.org/resource/Mountain_biking
 
-prey - http://dbpedia.org/resource/Predation
+gold nugget - http://dbpedia.org/resource/Gold_nugget
 
-american company - http://dbpedia.org/resource/Old_American_Company
+single - http://dbpedia.org/resource/Phonograph_record
 
-inspire - http://dbpedia.org/resource/Infrastructure_for_Spatial_Information_in_the_European_Community
+religion - http://dbpedia.org/resource/Freedom_of_religion
+
+downieville - http://dbpedia.org/resource/Downieville,_California
+
+born free - http://dbpedia.org/resource/Born_Free
+
+nevada city - http://dbpedia.org/resource/Nevada_City,_California
+
+police - http://dbpedia.org/resource/Police
+
+monterey - http://dbpedia.org/resource/Battle_of_Monterey
+
+susan lee - http://dbpedia.org/resource/Susan_Lee
+
+mortar - http://dbpedia.org/resource/Mortar_and_pestle
+
+california frontier - http://dbpedia.org/resource/California_Frontier
+
+goods - http://dbpedia.org/resource/Goods
+
+fishing - http://dbpedia.org/resource/Fishing
+
+middle fork - http://dbpedia.org/resource/Middle_Fork_American_River
+
+untold - http://dbpedia.org/resource/Untold_(musician)
+
+northern california - http://dbpedia.org/resource/Northern_California
+
+culture - http://dbpedia.org/resource/Culture
+
+farming - http://dbpedia.org/resource/Agriculture
+
+boredom - http://dbpedia.org/resource/Boredom
+
+prospectors - http://dbpedia.org/resource/Prospecting
+
+lured - http://dbpedia.org/resource/Lured
+
+city - http://dbpedia.org/resource/City
+
+bear - http://dbpedia.org/resource/American_black_bear
+
+emigration - http://dbpedia.org/resource/Emigration
+
+jamestown - http://dbpedia.org/resource/Jamestown,_Virginia
+
+black holes - http://dbpedia.org/resource/Black_hole
+
+merchant - http://dbpedia.org/resource/Merchant
+
+mexico - http://dbpedia.org/resource/New_Spain
+
+murieta - http://dbpedia.org/resource/Murieta
+
+reservoirs - http://dbpedia.org/resource/Reservoir
+
+lake - http://dbpedia.org/resource/Lake
+
+heyday books - http://dbpedia.org/resource/Heyday_Books
+
+rolling hills - http://dbpedia.org/resource/Fort_Wayne,_Indiana
+
+snowfall - http://dbpedia.org/resource/Snow

@@ -5,11 +5,11 @@ csi - http://dbpedia.org/resource/Forensic_science
 perception - http://dbpedia.org/resource/Perception
 forensic science - http://dbpedia.org/resource/Forensic_science
 criminal justice system - http://dbpedia.org/resource/Criminal_justice
-sensationalise - http://dbpedia.org/resource/Sensationalism
+sensationalised - http://dbpedia.org/resource/Sensationalism
 forensic science - http://dbpedia.org/resource/Forensic_science
 crime scene - http://dbpedia.org/resource/Crime_scene
-television drama - http://dbpedia.org/resource/Television_show
-juror - http://dbpedia.org/resource/Jury
+television dramas - http://dbpedia.org/resource/Korean_drama
+jurors - http://dbpedia.org/resource/Jury
 forensic - http://dbpedia.org/resource/Forensic_science
 csi - http://dbpedia.org/resource/Forensic_science
 prosecutor - http://dbpedia.org/resource/Prosecutor
@@ -19,41 +19,38 @@ forensic evidence - http://dbpedia.org/resource/Forensic_identification
 prosecutor - http://dbpedia.org/resource/Prosecutor
 csi - http://dbpedia.org/resource/Forensic_science
 csi - http://dbpedia.org/resource/Forensic_science
-summation - http://dbpedia.org/resource/Summation
 forensic - http://dbpedia.org/resource/Forensic_science
 defendant - http://dbpedia.org/resource/Defendant
 csi - http://dbpedia.org/resource/Forensic_science
-television program - http://dbpedia.org/resource/Television_show
-forensic scientist - http://dbpedia.org/resource/Forensic_science
-producer - http://dbpedia.org/resource/Television_producer
+television - http://dbpedia.org/resource/Television
+forensic scientists - http://dbpedia.org/resource/Forensic_science
+infallible - http://dbpedia.org/resource/Biblical_inerrancy
 csi - http://dbpedia.org/resource/Forensic_science
-television program - http://dbpedia.org/resource/Television_show
+television - http://dbpedia.org/resource/Television
 educator - http://dbpedia.org/resource/Education
 csi - http://dbpedia.org/resource/Forensic_science
 forensic science - http://dbpedia.org/resource/Forensic_science
 police chief - http://dbpedia.org/resource/Chief_of_police
 csi - http://dbpedia.org/resource/Forensic_science
 forensic science - http://dbpedia.org/resource/Forensic_science
-drama - http://dbpedia.org/resource/Drama
 forensic science - http://dbpedia.org/resource/Forensic_science
 truth - http://dbpedia.org/resource/Truth
 elusive - http://dbpedia.org/resource/Elusive
 forensic science - http://dbpedia.org/resource/Forensic_science
 forensic science - http://dbpedia.org/resource/Forensic_science
-drama - http://dbpedia.org/resource/Drama
 technology - http://dbpedia.org/resource/Technology
 csi - http://dbpedia.org/resource/Forensic_science
-forensic - http://dbpedia.org/resource/Forensic_science
+forensics - http://dbpedia.org/resource/Forensic_science
 forensic science - http://dbpedia.org/resource/Forensic_science
 forensic science - http://dbpedia.org/resource/Forensic_science
 fantasy - http://dbpedia.org/resource/Fantasy
 truth - http://dbpedia.org/resource/Truth
 csi - http://dbpedia.org/resource/Forensic_science
 juror - http://dbpedia.org/resource/Jury
-forensic - http://dbpedia.org/resource/Forensic_science
+forensic techniques - http://dbpedia.org/resource/Forensic_science
 csi - http://dbpedia.org/resource/Forensic_science
 csi - http://dbpedia.org/resource/Forensic_science
 forensic - http://dbpedia.org/resource/Forensic_science
 fiction - http://dbpedia.org/resource/Fiction
-resolution - http://dbpedia.org/resource/Image_resolution
+resolutions - http://dbpedia.org/resource/Image_resolution
 education - http://dbpedia.org/resource/Education

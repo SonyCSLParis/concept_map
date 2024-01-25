@@ -1,33 +1,32 @@
 stereoscopic - http://dbpedia.org/resource/Stereopsis
+long lost - http://dbpedia.org/resource/Long_Lost
 illumination - http://dbpedia.org/resource/Illuminated_manuscript
+long lost - http://dbpedia.org/resource/Long_Lost
 illumination - http://dbpedia.org/resource/Illuminated_manuscript
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 cisne - http://dbpedia.org/resource/Nevado_El_Cisne
 perception - http://dbpedia.org/resource/Depth_perception
 .38 - http://dbpedia.org/resource/.38_Special
 abstract - http://dbpedia.org/resource/Abstraction
-illuminator - http://dbpedia.org/resource/Illuminated_manuscript
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-stereoscopic image - http://dbpedia.org/resource/Stereoscopy
+illuminators - http://dbpedia.org/resource/Illuminated_manuscript
+stereoscopic - http://dbpedia.org/resource/Stereopsis
 micro - http://dbpedia.org/resource/Microscopic_scale
+lenses - http://dbpedia.org/resource/Camera_lens
 interlace - http://dbpedia.org/resource/Interlaced_video
 freehand - http://dbpedia.org/resource/Adobe_FreeHand
-space - http://dbpedia.org/resource/Space
-fuse - http://dbpedia.org/resource/Nuclear_fusion
-stereoscopic image - http://dbpedia.org/resource/Stereoscopy
-relief - http://dbpedia.org/resource/Relief
-precision - http://dbpedia.org/resource/Accuracy_and_precision
-renaissance - http://dbpedia.org/resource/Renaissance
-interpupillary distance - http://dbpedia.org/resource/Pupillary_distance
 stereoscopic - http://dbpedia.org/resource/Stereopsis
 relief - http://dbpedia.org/resource/Relief
-illuminator - http://dbpedia.org/resource/Illuminated_manuscript
+precision - http://dbpedia.org/resource/Accuracy_and_precision
+astronomical - http://dbpedia.org/resource/Astronomical_object
+renaissance - http://dbpedia.org/resource/Renaissance
+stereoscopic - http://dbpedia.org/resource/Stereopsis
+relief - http://dbpedia.org/resource/Relief
+illuminators - http://dbpedia.org/resource/Illuminated_manuscript
 successive approximation - http://dbpedia.org/resource/Successive_approximation_ADC
-eye - http://dbpedia.org/resource/Human_eye
 camera lucida - http://dbpedia.org/resource/Camera_lucida
 grid - http://dbpedia.org/resource/Lattice_graph
 relief - http://dbpedia.org/resource/Relief
-stereoscopic image - http://dbpedia.org/resource/Stereoscopy
+stereoscopic - http://dbpedia.org/resource/Stereopsis
 howard - http://dbpedia.org/resource/John_Howard
 stereoacuity - http://dbpedia.org/resource/Stereopsis
 paper - http://dbpedia.org/resource/Paper
@@ -36,23 +35,23 @@ fusion - http://dbpedia.org/resource/Nuclear_fusion
 gifted - http://dbpedia.org/resource/Gifted_education
 early medieval - http://dbpedia.org/resource/Early_Middle_Ages
 british isles - http://dbpedia.org/resource/British_Isles
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 microscopic - http://dbpedia.org/resource/Microscope
+lenses - http://dbpedia.org/resource/Camera_lens
 durrow - http://dbpedia.org/resource/Durrow_Abbey
 lindisfarne gospels - http://dbpedia.org/resource/Lindisfarne_Gospels
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-family monastery - http://dbpedia.org/resource/House_monastery
+family - http://dbpedia.org/resource/Family
+monasteries - http://dbpedia.org/resource/Celtic_Christianity
 scribe - http://dbpedia.org/resource/Insular_script
+miracles - http://dbpedia.org/resource/Miracle
 proofreading - http://dbpedia.org/resource/Proofreading
-proofreader - http://dbpedia.org/resource/Proofreading
 fusion - http://dbpedia.org/resource/Nuclear_fusion
 fusion - http://dbpedia.org/resource/Nuclear_fusion
 stereoscopic - http://dbpedia.org/resource/Stereopsis
-magnification - http://dbpedia.org/resource/Microscope
+magnification - http://dbpedia.org/resource/Magnification
 microscopic - http://dbpedia.org/resource/Microscope
 insular illumination - http://dbpedia.org/resource/Insular_illumination
-magnification - http://dbpedia.org/resource/Microscope
+magnification - http://dbpedia.org/resource/Magnification
 technology - http://dbpedia.org/resource/Technology
 illumination - http://dbpedia.org/resource/Illuminated_manuscript
 insular illumination - http://dbpedia.org/resource/Insular_illumination
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript

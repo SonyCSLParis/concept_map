@@ -29,15 +29,14 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 knights - http://dbpedia.org/resource/Knight
 defense - http://dbpedia.org/resource/Military
 medieval - http://dbpedia.org/resource/Middle_Ages
-lead castle - http://dbpedia.org/resource/Lead_castle
 outline - http://dbpedia.org/resource/Nutrition
 ron - http://dbpedia.org/resource/Ron_Weasley
 medieval - http://dbpedia.org/resource/Middle_Ages
 knights - http://dbpedia.org/resource/Knight
 defense - http://dbpedia.org/resource/Military
-crusade - http://dbpedia.org/resource/Crusades
 crusades - http://dbpedia.org/resource/Crusades
-crusade - http://dbpedia.org/resource/Crusades
+crusades - http://dbpedia.org/resource/Crusades
+crusades - http://dbpedia.org/resource/Crusades
 fantasy - http://dbpedia.org/resource/Fantasy
 medieval - http://dbpedia.org/resource/Middle_Ages
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -66,7 +65,6 @@ fairy tale - http://dbpedia.org/resource/Fairy_tale
 clip art - http://dbpedia.org/resource/Clip_art
 princess cinderella - http://dbpedia.org/resource/Princess_Cinderella
 medieval - http://dbpedia.org/resource/Middle_Ages
-toy - http://dbpedia.org/resource/Toy
 knights - http://dbpedia.org/resource/Knight
 defense - http://dbpedia.org/resource/Military
 medieval - http://dbpedia.org/resource/Middle_Ages
@@ -99,4 +97,3 @@ medieval - http://dbpedia.org/resource/Middle_Ages
 church - http://dbpedia.org/resource/Church_architecture
 dover - http://dbpedia.org/resource/Dover
 medieval - http://dbpedia.org/resource/Middle_Ages
-castle hill - http://dbpedia.org/resource/Electoral_district_of_Castle_Hill

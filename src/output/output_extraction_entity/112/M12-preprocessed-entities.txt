@@ -2,16 +2,14 @@ kells - http://dbpedia.org/resource/Abbey_of_Kells
 sistine chapel - http://dbpedia.org/resource/Sistine_Chapel
 analogy - http://dbpedia.org/resource/Analogy
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-great work - http://dbpedia.org/resource/Opus_Majus
 visual art - http://dbpedia.org/resource/Visual_arts
 library - http://dbpedia.org/resource/Library
 trinity college dublin - http://dbpedia.org/resource/Trinity_College_Dublin
 library - http://dbpedia.org/resource/Library
 ireland - http://dbpedia.org/resource/Republic_of_Ireland
-object - http://dbpedia.org/resource/Object-oriented_programming
 app - http://dbpedia.org/resource/Mobile_app
 ipad - http://dbpedia.org/resource/IPad
 kindle fire - http://dbpedia.org/resource/Amazon_Fire_tablet
 android - http://dbpedia.org/resource/Gynoid
-tablet - http://dbpedia.org/resource/Tablet_computer
+tablets - http://dbpedia.org/resource/Tablet_computer
 ebook - http://dbpedia.org/resource/E-book

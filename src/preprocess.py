@@ -16,7 +16,7 @@ class PreProcessor:
     def __call__(self, text: str):
         """ Preprocessing one string text """
         doc = self.nlp(text)
-        cleaned_tokens = [token.text for token in doc if not (token.is_stop or token.is_punct)]
+        cleaned_tokens = [token.text for token in doc if not (token.is_punct)]
 
         cleaned_text = ' '.join(cleaned_tokens).lower()
         cleaned_text_1 = re.sub(r'\s+', ' ', cleaned_text)

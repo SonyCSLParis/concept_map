@@ -1,7 +1,6 @@
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
 west virginia - http://dbpedia.org/resource/West_Virginia
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
-wind - http://dbpedia.org/resource/Wind
 weather - http://dbpedia.org/resource/Weather
 winchester - http://dbpedia.org/resource/Winchester
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
@@ -15,7 +14,6 @@ church - http://dbpedia.org/resource/Church_architecture
 hampshire county - http://dbpedia.org/resource/Hampshire
 wv - http://dbpedia.org/resource/Wv_(software)
 elevation - http://dbpedia.org/resource/Elevation
-meter - http://dbpedia.org/resource/Metre
 sea level - http://dbpedia.org/resource/Sea_level
 capon - http://dbpedia.org/resource/Capon
 baptist - http://dbpedia.org/resource/Baptists

@@ -1,7 +1,7 @@
 jacobean architecture - http://dbpedia.org/resource/Jacobean_architecture
 jacobean architecture - http://dbpedia.org/resource/Jacobean_architecture
 english architecture - http://dbpedia.org/resource/Architecture_of_England
-king james vi - http://dbpedia.org/resource/James_VI_and_I
+king james - http://dbpedia.org/resource/James_VI_and_I
 elizabethan architecture - http://dbpedia.org/resource/Elizabethan_architecture
 charles - http://dbpedia.org/resource/Charles_I_of_England
 mélange - http://dbpedia.org/resource/Mélange
@@ -13,15 +13,15 @@ jewelled - http://dbpedia.org/resource/Gemstone
 strapwork - http://dbpedia.org/resource/Strapwork
 grotesque - http://dbpedia.org/resource/Grotesque
 ornament - http://dbpedia.org/resource/Decorative_arts
-assemblage - http://dbpedia.org/resource/Glossary_of_archaeology
-emblem - http://dbpedia.org/resource/Emblem
-heraldic device - http://dbpedia.org/resource/Heraldry
-herm - http://dbpedia.org/resource/Herma
-obelisk - http://dbpedia.org/resource/Obelisk
-dutch gable - http://dbpedia.org/resource/Dutch_gable
+assemblages - http://dbpedia.org/resource/Glossary_of_archaeology
+heraldic devices - http://dbpedia.org/resource/Heraldry
+herms - http://dbpedia.org/resource/Herma
+obelisks - http://dbpedia.org/resource/Obelisk
+dutch gables - http://dbpedia.org/resource/Dutch_gable
 gothic - http://dbpedia.org/resource/Gothic_architecture
 perpendicular architecture - http://dbpedia.org/resource/English_Gothic_architecture
 mullioned - http://dbpedia.org/resource/Mullion
+transomed - http://dbpedia.org/resource/Transom_(architectural)
 late medieval - http://dbpedia.org/resource/Middle_Ages
 jacobean architecture - http://dbpedia.org/resource/Jacobean_architecture
 hatfield house - http://dbpedia.org/resource/Hatfield_House
@@ -30,11 +30,10 @@ surrey - http://dbpedia.org/resource/Surrey
 audley - http://dbpedia.org/resource/Baron_Audley
 essex - http://dbpedia.org/resource/Essex
 inigo jones - http://dbpedia.org/resource/Inigo_Jones
-james vi - http://dbpedia.org/resource/James_VI_and_I
 charles - http://dbpedia.org/resource/Charles_I_of_England
 jacobean - http://dbpedia.org/resource/Jacobean_architecture
 jacobean revival - http://dbpedia.org/resource/Jacobean_architecture
-country house - http://dbpedia.org/resource/English_country_house
+country houses - http://dbpedia.org/resource/English_country_house
 queen anne style - http://dbpedia.org/resource/Queen_Anne_style_architecture
 hybrid - http://dbpedia.org/resource/Cross-genre
 shaw - http://dbpedia.org/resource/Shaw_(woodland)

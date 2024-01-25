@@ -32,11 +32,10 @@ city - http://dbpedia.org/resource/City
 byzantium - http://dbpedia.org/resource/Byzantium
 a.d. - http://dbpedia.org/resource/Anno_Domini
 defensive wall - http://dbpedia.org/resource/Defensive_wall
-theodosian wall - http://dbpedia.org/resource/Walls_of_Constantinople
+theodosian walls - http://dbpedia.org/resource/Walls_of_Constantinople
 westward - http://dbpedia.org/resource/Westward_Television
 city - http://dbpedia.org/resource/City
 city - http://dbpedia.org/resource/City
-defense - http://dbpedia.org/resource/Military
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 city - http://dbpedia.org/resource/City
 capital - http://dbpedia.org/resource/Capital_city
@@ -45,13 +44,12 @@ water - http://dbpedia.org/resource/Water
 city - http://dbpedia.org/resource/City
 promontory - http://dbpedia.org/resource/Promontory
 bosphorus - http://dbpedia.org/resource/Bosporus
-bosporus strait - http://dbpedia.org/resource/Bosporus
+bosporus - http://dbpedia.org/resource/Bosporus
 marmara - http://dbpedia.org/resource/Sea_of_Marmara
 propontis - http://dbpedia.org/resource/Sea_of_Marmara
 pontus euxinus - http://dbpedia.org/resource/Black_Sea
-north city - http://dbpedia.org/resource/San_Diego_Continuing_Education
+city - http://dbpedia.org/resource/City
 golden horn - http://dbpedia.org/resource/Golden_Horn
-fortification - http://dbpedia.org/resource/Fortification
 marmara - http://dbpedia.org/resource/Sea_of_Marmara
 golden horn - http://dbpedia.org/resource/Golden_Horn
 theodosius ii - http://dbpedia.org/resource/Theodosius_II
@@ -62,13 +60,12 @@ theodosius - http://dbpedia.org/resource/Theodosius_I
 praetorian prefect - http://dbpedia.org/resource/Praetorian_prefecture_of_the_East
 anthemius - http://dbpedia.org/resource/Anthemius
 a.d. - http://dbpedia.org/resource/Anno_Domini
-theodosian wall - http://dbpedia.org/resource/Walls_of_Constantinople
+theodosian walls - http://dbpedia.org/resource/Walls_of_Constantinople
 city - http://dbpedia.org/resource/City
-map - http://dbpedia.org/resource/Map
 constantinople - http://dbpedia.org/resource/Constantinople
 rome - http://dbpedia.org/resource/Roman_Empire
 encyclopedia - http://dbpedia.org/resource/Encyclopedia
-geographic coordinate - http://dbpedia.org/resource/Geographic_coordinate_system
+geographic coordinates - http://dbpedia.org/resource/Geographic_coordinate_system
 constantinople - http://dbpedia.org/resource/Constantinople
 byzantion - http://dbpedia.org/resource/Byzantium
 byzantium - http://dbpedia.org/resource/Byzantium
@@ -76,7 +73,6 @@ istanbul - http://dbpedia.org/resource/Istanbul
 nova roma - http://dbpedia.org/resource/New_Rome
 constantinople - http://dbpedia.org/resource/Constantinople
 rome - http://dbpedia.org/resource/Roman_Empire
-forum - http://dbpedia.org/resource/Roman_Forum
 constantinople - http://dbpedia.org/resource/Constantinople
 constantine - http://dbpedia.org/resource/Constantine_the_Great
 arcadius - http://dbpedia.org/resource/Arcadius

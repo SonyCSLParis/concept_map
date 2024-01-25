@@ -1,18 +1,15 @@
 birmingham - http://dbpedia.org/resource/University_of_Birmingham
-nuclear weapon - http://dbpedia.org/resource/Nuclear_weapon
+nuclear weapons - http://dbpedia.org/resource/Nuclear_weapon
 edgbaston - http://dbpedia.org/resource/Edgbaston
-physicist - http://dbpedia.org/resource/Physicist
 peter douglas - http://dbpedia.org/resource/Peter_Douglas
 nuclear bomb - http://dbpedia.org/resource/Nuclear_weapon
 birmingham - http://dbpedia.org/resource/University_of_Birmingham
-scientist - http://dbpedia.org/resource/Scientist
 nuclear bomb - http://dbpedia.org/resource/Nuclear_weapon
 memorandum - http://dbpedia.org/resource/Memorandum
 birmingham - http://dbpedia.org/resource/University_of_Birmingham
-physicist - http://dbpedia.org/resource/Physicist
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
 otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
-refugee - http://dbpedia.org/resource/Refugee
+refugees - http://dbpedia.org/resource/Refugee
 nazis - http://dbpedia.org/resource/Nazism
 weapon - http://dbpedia.org/resource/Nuclear_weapon
 bomb - http://dbpedia.org/resource/Nuclear_weapon
@@ -23,7 +20,7 @@ set free - http://dbpedia.org/resource/Set_Free_(film)
 birmingham - http://dbpedia.org/resource/University_of_Birmingham
 professor - http://dbpedia.org/resource/Professor
 mark oliphant - http://dbpedia.org/resource/Mark_Oliphant
-refugee - http://dbpedia.org/resource/Refugee
+refugees - http://dbpedia.org/resource/Refugee
 professor - http://dbpedia.org/resource/Professor
 physics - http://dbpedia.org/resource/Physics
 apprenticeship - http://dbpedia.org/resource/Apprenticeship
@@ -33,7 +30,6 @@ ernest rutherford - http://dbpedia.org/resource/Ernest_Rutherford
 oliphant - http://dbpedia.org/resource/Olifant_(instrument)
 lord nuffield - http://dbpedia.org/resource/William_Morris,_1st_Viscount_Nuffield
 cyclotron - http://dbpedia.org/resource/Cyclotron
-atom smash - http://dbpedia.org/resource/Atom_Smash
 britain - http://dbpedia.org/resource/United_Kingdom
 stem - http://dbpedia.org/resource/Stem_cell
 nazi - http://dbpedia.org/resource/Nazism
@@ -46,39 +42,34 @@ britain - http://dbpedia.org/resource/United_Kingdom
 denmark - http://dbpedia.org/resource/Denmark
 vulnerable - http://dbpedia.org/resource/Vulnerability
 nazis - http://dbpedia.org/resource/Nazism
-mathematic - http://dbpedia.org/resource/Mathematics
+applied mathematics - http://dbpedia.org/resource/Applied_mathematics
 oliphant - http://dbpedia.org/resource/Olifant_(instrument)
 british people - http://dbpedia.org/resource/United_Kingdom
+knighted - http://dbpedia.org/resource/Knight_Bachelor
 revolutionary - http://dbpedia.org/resource/Revolutionary
-scientist - http://dbpedia.org/resource/Scientist
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 quantum - http://dbpedia.org/resource/Quantum_mechanics
 theory - http://dbpedia.org/resource/Theory
 relativity - http://dbpedia.org/resource/Theory_of_relativity
 einstein - http://dbpedia.org/resource/Albert_Einstein
-energy release - http://dbpedia.org/resource/Energy_release_rate_(fracture_mechanics)
+energy - http://dbpedia.org/resource/Energy
 agency - http://dbpedia.org/resource/Institution
 einstein - http://dbpedia.org/resource/Albert_Einstein
 great britain - http://dbpedia.org/resource/United_Kingdom
 nazis - http://dbpedia.org/resource/Nazism
+physics - http://dbpedia.org/resource/Physics
 prophet - http://dbpedia.org/resource/Prophet
 nuclear power - http://dbpedia.org/resource/Nuclear_reactor
-bird - http://dbpedia.org/resource/Bird
-dark country - http://dbpedia.org/resource/Dark_Country
-bird - http://dbpedia.org/resource/Bird
 niels bohr - http://dbpedia.org/resource/Niels_Bohr
 nobel prize - http://dbpedia.org/resource/Nobel_Prize
 physics - http://dbpedia.org/resource/Physics
 nuclear fission - http://dbpedia.org/resource/Nuclear_fission
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-stumble - http://dbpedia.org/resource/Stumble
 uranium 235 - http://dbpedia.org/resource/Uranium-235
+atoms - http://dbpedia.org/resource/Atom
 u235 - http://dbpedia.org/resource/Uranium-235
 colossal - http://dbpedia.org/resource/Colossal_(film)
 industrial - http://dbpedia.org/resource/Industrial_Revolution
 u235 - http://dbpedia.org/resource/Uranium-235
-ton - http://dbpedia.org/resource/Tonne
-kilo - http://dbpedia.org/resource/Kilogram
 chain reaction - http://dbpedia.org/resource/Nuclear_fission
 temperature - http://dbpedia.org/resource/Temperature
 sun - http://dbpedia.org/resource/Sun
@@ -86,10 +77,8 @@ memorandum - http://dbpedia.org/resource/Memorandum
 haste - http://dbpedia.org/resource/Haste_(Han)_station
 nazis - http://dbpedia.org/resource/Nazism
 churchill - http://dbpedia.org/resource/Winston_Churchill
-scientist - http://dbpedia.org/resource/Scientist
 harbour - http://dbpedia.org/resource/Harbor
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
-bear - http://dbpedia.org/resource/Teddy_bear
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 birmingham - http://dbpedia.org/resource/University_of_Birmingham
 royal shakespeare company - http://dbpedia.org/resource/Royal_Shakespeare_Company
@@ -100,6 +89,7 @@ moreton - http://dbpedia.org/resource/Moreton_Bay
 smith - http://dbpedia.org/resource/Metalsmith
 heart - http://dbpedia.org/resource/Heart
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
+making history - http://dbpedia.org/resource/Making_History_(TV_series)
 peter douglas - http://dbpedia.org/resource/Peter_Douglas
 birmingham city - http://dbpedia.org/resource/Birmingham
 councillor - http://dbpedia.org/resource/Privy_council

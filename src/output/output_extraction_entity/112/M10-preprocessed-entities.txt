@@ -1,33 +1,28 @@
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-monk - http://dbpedia.org/resource/Monk
 medieval ireland - http://dbpedia.org/resource/Ireland_in_the_Middle_Ages
-illuminated manuscript - http://dbpedia.org/resource/Illuminated_manuscript
+illuminated manuscripts - http://dbpedia.org/resource/Illuminated_manuscript
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 village - http://dbpedia.org/resource/Village
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 monastery - http://dbpedia.org/resource/Monastery
-book hand - http://dbpedia.org/resource/Book_hand
 vellum - http://dbpedia.org/resource/Vellum
 calf skin - http://dbpedia.org/resource/Calfskin
+tanned - http://dbpedia.org/resource/Sun_tanning
 paper - http://dbpedia.org/resource/Paper
 black box - http://dbpedia.org/resource/Black_box_theater
 silver - http://dbpedia.org/resource/Silver
 medieval - http://dbpedia.org/resource/Middle_Ages
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 reproduction - http://dbpedia.org/resource/Copying
 kells - http://dbpedia.org/resource/Abbey_of_Kells
-manuscript - http://dbpedia.org/resource/Illuminated_manuscript
 kells - http://dbpedia.org/resource/Abbey_of_Kells
+gospels - http://dbpedia.org/resource/Gospel
 latin - http://dbpedia.org/resource/Latin
 insular majuscule - http://dbpedia.org/resource/Insular_script
 manuscript - http://dbpedia.org/resource/Illuminated_manuscript
-bird - http://dbpedia.org/resource/Bird
-face figure - http://dbpedia.org/resource/Vertex_figure
-entwine - http://dbpedia.org/resource/Entwine
-color dye - http://dbpedia.org/resource/Dye
+dyes - http://dbpedia.org/resource/Dye
 painting - http://dbpedia.org/resource/Painting
-illumination - http://dbpedia.org/resource/Illuminated_manuscript
+illuminations - http://dbpedia.org/resource/Illuminated_manuscript
 ireland - http://dbpedia.org/resource/Ireland
 kells - http://dbpedia.org/resource/Abbey_of_Kells
 kells - http://dbpedia.org/resource/Abbey_of_Kells
@@ -43,6 +38,7 @@ library - http://dbpedia.org/resource/Library
 library - http://dbpedia.org/resource/Library
 display case - http://dbpedia.org/resource/Display_case
 kells - http://dbpedia.org/resource/Abbey_of_Kells
+listed - http://dbpedia.org/resource/Listed_building
 display case - http://dbpedia.org/resource/Display_case
 facsimile - http://dbpedia.org/resource/Facsimile
 kells - http://dbpedia.org/resource/Abbey_of_Kells

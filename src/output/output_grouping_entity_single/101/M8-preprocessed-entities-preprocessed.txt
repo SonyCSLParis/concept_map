@@ -1,91 +1,65 @@
-endeavor - http://dbpedia.org/resource/Space_Shuttle_Endeavour
-unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
-code - http://dbpedia.org/resource/Source_code
-die - http://dbpedia.org/resource/Death
-veil - http://dbpedia.org/resource/Hijab
-steel building - http://dbpedia.org/resource/Steel_building
-trigger - http://dbpedia.org/resource/Hypnosis
-microsecond - http://dbpedia.org/resource/Microsecond
-building 7 - http://dbpedia.org/resource/7_World_Trade_Center
-coat - http://dbpedia.org/resource/Fur
-metal - http://dbpedia.org/resource/Metal
-princeton - http://dbpedia.org/resource/Princeton_University
-professor - http://dbpedia.org/resource/Academy
-plane - http://dbpedia.org/resource/Airplane
-light - http://dbpedia.org/resource/Light
-york - http://dbpedia.org/resource/York
-magnitude - http://dbpedia.org/resource/Richter_magnitude_scale
-emergency response - http://dbpedia.org/resource/Emergency_management
-steel - http://dbpedia.org/resource/Steel
-lead change - http://dbpedia.org/resource/Lead_(leg)
-guy nordenson - http://dbpedia.org/resource/Guy_Nordenson
-water supply - http://dbpedia.org/resource/Plumbing
-remarkable - http://dbpedia.org/resource/ReMarkable
-sciam - http://dbpedia.org/resource/Scientific_American
-computer model - http://dbpedia.org/resource/Computer_simulation
-progressive collapse - http://dbpedia.org/resource/Progressive_collapse
-committee - http://dbpedia.org/resource/Working_group
-news - http://dbpedia.org/resource/News_media
-datum - http://dbpedia.org/resource/Data
-safety - http://dbpedia.org/resource/Safety
-structural engineer - http://dbpedia.org/resource/Structural_engineering
-calamity - http://dbpedia.org/resource/Disaster
-security - http://dbpedia.org/resource/Computer_security
-architecture - http://dbpedia.org/resource/Software_architecture
-impact analysis - http://dbpedia.org/resource/Change_impact_analysis
-tragedy - http://dbpedia.org/resource/Tragedy
-girder - http://dbpedia.org/resource/Girder
-building codes - http://dbpedia.org/resource/Building_code
-water - http://dbpedia.org/resource/Water
-technology - http://dbpedia.org/resource/Technology
-disaster - http://dbpedia.org/resource/Disaster
-scientific american - http://dbpedia.org/resource/Scientific_American
-tower - http://dbpedia.org/resource/Air_traffic_control
-heat - http://dbpedia.org/resource/Heat
-building safety - http://dbpedia.org/resource/Building_code
-office building - http://dbpedia.org/resource/Office
-agency - http://dbpedia.org/resource/Institution
-sunder - http://dbpedia.org/resource/Sunder_Deodhar
-fire protection - http://dbpedia.org/resource/Fire_protection
-forensic investigation - http://dbpedia.org/resource/Forensic_science
-robustness - http://dbpedia.org/resource/Robust_statistics
-general services administration - http://dbpedia.org/resource/General_Services_Administration
-column - http://dbpedia.org/resource/Column
-federal agency - http://dbpedia.org/resource/Regulatory_agency
-reserve - http://dbpedia.org/resource/Bank_reserves
-health technology - http://dbpedia.org/resource/Health_technology_in_the_United_States
-elevator - http://dbpedia.org/resource/Elevator
-port authority - http://dbpedia.org/resource/Port_authority
-city - http://dbpedia.org/resource/City
-sprinkler - http://dbpedia.org/resource/Fire_sprinkler_system
-resistive - http://dbpedia.org/resource/Electrical_resistance_and_conductance
-local authority - http://dbpedia.org/resource/Local_government
 twitter - http://dbpedia.org/resource/Twitter
-litigation - http://dbpedia.org/resource/Lawsuit
-jet fuel - http://dbpedia.org/resource/Jet_fuel
-simulation - http://dbpedia.org/resource/Computer_simulation
-mystery - http://dbpedia.org/resource/Mystery_fiction
-shyam - http://dbpedia.org/resource/Shyam_(composer)
-international building code - http://dbpedia.org/resource/International_Building_Code
-nist - http://dbpedia.org/resource/National_Institute_of_Standards_and_Technology
-structural steel - http://dbpedia.org/resource/Structural_steel
-beam - http://dbpedia.org/resource/Laser
-international code council - http://dbpedia.org/resource/International_Building_Code
+steel - http://dbpedia.org/resource/Steel
+international building - http://dbpedia.org/resource/International_Building_(Rockefeller_Center)
+building safety - http://dbpedia.org/resource/Building_code
+security - http://dbpedia.org/resource/Computer_security
 structural engineering - http://dbpedia.org/resource/Structural_engineering
-september 11 2001 - http://dbpedia.org/resource/September_11_attacks
-high rise - http://dbpedia.org/resource/High-rise_building
-airliner - http://dbpedia.org/resource/Airliner
-earthquake - http://dbpedia.org/resource/Earthquake
-high glow - http://dbpedia.org/resource/High_Glow
-aircraft - http://dbpedia.org/resource/Aircraft
-recall - http://dbpedia.org/resource/Product_recall
-collision - http://dbpedia.org/resource/Collision
-fireproofing - http://dbpedia.org/resource/Fireproofing
-flame spread - http://dbpedia.org/resource/Flame_spread
-computation - http://dbpedia.org/resource/Computation
+light - http://dbpedia.org/resource/Light
+sunder - http://dbpedia.org/resource/Sunder_Deodhar
+princeton - http://dbpedia.org/resource/Princeton_University
+international code council - http://dbpedia.org/resource/International_Building_Code
+scientific american - http://dbpedia.org/resource/Scientific_American
+magnitude - http://dbpedia.org/resource/Richter_magnitude_scale
+professor - http://dbpedia.org/resource/Academy
+structural engineer - http://dbpedia.org/resource/Structural_engineering
+impact analysis - http://dbpedia.org/resource/Change_impact_analysis
+guy nordenson - http://dbpedia.org/resource/Guy_Nordenson
+tower - http://dbpedia.org/resource/Air_traffic_control
+general services administration - http://dbpedia.org/resource/General_Services_Administration
+calamity - http://dbpedia.org/resource/Disaster
+water - http://dbpedia.org/resource/Water
+progressive collapse - http://dbpedia.org/resource/Progressive_collapse
+news - http://dbpedia.org/resource/News_media
+peer reviewed - http://dbpedia.org/resource/Peer_review
+earthquakes - http://dbpedia.org/resource/Earthquake
+robustness - http://dbpedia.org/resource/Robust_statistics
+structural steel - http://dbpedia.org/resource/Structural_steel
+disaster - http://dbpedia.org/resource/Disaster
+hits - http://dbpedia.org/resource/Contract_killing
+forensic investigation - http://dbpedia.org/resource/Forensic_science
 vulnerable - http://dbpedia.org/resource/Vulnerability
-photographer - http://dbpedia.org/resource/Photography
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-skeleton - http://dbpedia.org/resource/Skeleton
-temperature - http://dbpedia.org/resource/Temperature
+building codes - http://dbpedia.org/resource/Building_code
+city - http://dbpedia.org/resource/City
+architecture - http://dbpedia.org/resource/Architecture
+health - http://dbpedia.org/resource/Health
 insulation - http://dbpedia.org/resource/Thermal_insulation
+port authority - http://dbpedia.org/resource/Port_authority
+computer models - http://dbpedia.org/resource/Computer_simulation
+jet fuel - http://dbpedia.org/resource/Jet_fuel
+physical properties - http://dbpedia.org/resource/Physics
+resistive - http://dbpedia.org/resource/Electrical_resistance_and_conductance
+code - http://dbpedia.org/resource/Source_code
+office building - http://dbpedia.org/resource/Office
+veil - http://dbpedia.org/resource/Hijab
+september 11 2001 - http://dbpedia.org/resource/September_11_attacks
+shyam - http://dbpedia.org/resource/Shyam_(composer)
+litigation - http://dbpedia.org/resource/Lawsuit
+local authorities - http://dbpedia.org/resource/Local_government
+remarkable - http://dbpedia.org/resource/ReMarkable
+fireproofing - http://dbpedia.org/resource/Fireproofing
+fire protection - http://dbpedia.org/resource/Fire_protection
+federal agency - http://dbpedia.org/resource/Regulatory_agency
+metal - http://dbpedia.org/resource/Metal
+technology - http://dbpedia.org/resource/Technology
+building 7 - http://dbpedia.org/resource/7_World_Trade_Center
+safety - http://dbpedia.org/resource/Safety
+york - http://dbpedia.org/resource/York
+runs - http://dbpedia.org/resource/Glossary_of_cricket_terms
+elevator - http://dbpedia.org/resource/Elevator
+sciam - http://dbpedia.org/resource/Scientific_American
+microseconds - http://dbpedia.org/resource/Microsecond
+plane - http://dbpedia.org/resource/Airplane
+aircraft - http://dbpedia.org/resource/Aircraft
+unexpected - http://dbpedia.org/resource/Unexpected_(Michelle_Williams_album)
+nist - http://dbpedia.org/resource/National_Institute_of_Standards_and_Technology
+tragedies - http://dbpedia.org/resource/Tragedy

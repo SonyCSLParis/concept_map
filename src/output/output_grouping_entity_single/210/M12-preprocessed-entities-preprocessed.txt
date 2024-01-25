@@ -1,81 +1,79 @@
-jerusalem - http://dbpedia.org/resource/Jerusalem
-silver royal - http://dbpedia.org/resource/Ancema_blanka
-sudan - http://dbpedia.org/resource/Sudan
-shaw - http://dbpedia.org/resource/Shaw_(woodland)
 nubian - http://dbpedia.org/resource/Nubia
-god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
+hermopolis - http://dbpedia.org/resource/Hermopolis
 precious metal - http://dbpedia.org/resource/Precious_metal
-ian - http://dbpedia.org/resource/Ian_Chesterton
-tanis - http://dbpedia.org/resource/Tanis
+independence - http://dbpedia.org/resource/Independence
+coalition - http://dbpedia.org/resource/Coalition
 osorkon iv - http://dbpedia.org/resource/Osorkon_IV
 faience - http://dbpedia.org/resource/Egyptian_faience
-sphere - http://dbpedia.org/resource/Sphere_of_influence
-rebirth - http://dbpedia.org/resource/Reincarnation
-sack - http://dbpedia.org/resource/Looting
-takelot ii - http://dbpedia.org/resource/Takelot_II
-bronze - http://dbpedia.org/resource/Bronze
 iuput ii - http://dbpedia.org/resource/Iuput_II
-dynasty 21 - http://dbpedia.org/resource/Twenty-first_Dynasty_of_Egypt
-york - http://dbpedia.org/resource/York
-shishak - http://dbpedia.org/resource/Shishak
-art history - http://dbpedia.org/resource/Art_history
-statuary - http://dbpedia.org/resource/Sculpture
-delta - http://dbpedia.org/resource/Nile_Delta
-yale university press - http://dbpedia.org/resource/Yale_University_Press
-egyptians - http://dbpedia.org/resource/Ancient_Egypt
-sheshonq - http://dbpedia.org/resource/Shoshenq
-aspiration - http://dbpedia.org/resource/Aspirated_consonant
-napata - http://dbpedia.org/resource/Napata
-james allen - http://dbpedia.org/resource/James_Allen_(New_Zealand_politician)
-nubia - http://dbpedia.org/resource/Nubia
-sun god - http://dbpedia.org/resource/Ra
-power center - http://dbpedia.org/resource/Retail_park
-high priest - http://dbpedia.org/resource/High_priest
-egyptian history - http://dbpedia.org/resource/History_of_ancient_Egypt
 peftjaubast - http://dbpedia.org/resource/Peftjauawybast
-rehoboam - http://dbpedia.org/resource/Rehoboam
-independent - http://dbpedia.org/resource/Independence
-bible - http://dbpedia.org/resource/Hebrew_Bible
-safety - http://dbpedia.org/resource/Safety
-year 5 - http://dbpedia.org/resource/Year_Five
-solomon - http://dbpedia.org/resource/Solomon
-kush - http://dbpedia.org/resource/Kush_(cannabis)
-tefnakht - http://dbpedia.org/resource/Tefnakht
-relief - http://dbpedia.org/resource/Relief
-ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-deborah - http://dbpedia.org/resource/Deborah
-mammisi - http://dbpedia.org/resource/Mammisi
-smendes - http://dbpedia.org/resource/Smendes
-dynasty 22 - http://dbpedia.org/resource/Twenty-second_Dynasty_of_Egypt
-ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt
-gold - http://dbpedia.org/resource/Gold
 b.c. - http://dbpedia.org/resource/Figured_bass
-rivalry - http://dbpedia.org/resource/National_Football_League_rivalries
-memphis - http://dbpedia.org/resource/Memphis_Tigers_football
-egyptian - http://dbpedia.org/resource/Ancient_Egypt
-piankhy - http://dbpedia.org/resource/Piye
-observable - http://dbpedia.org/resource/Observation
-independence - http://dbpedia.org/resource/Independence
-thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+tanis - http://dbpedia.org/resource/Tanis
+dynasty 22 - http://dbpedia.org/resource/Twenty-second_Dynasty_of_Egypt
 dominant - http://dbpedia.org/resource/Dominance_hierarchy
-libyan - http://dbpedia.org/resource/Ancient_Libya
-culture - http://dbpedia.org/resource/Culture
-heracleopolis - http://dbpedia.org/resource/Heracleopolis_Magna
-coffin - http://dbpedia.org/resource/Coffin
-family - http://dbpedia.org/resource/Family
-oxford university - http://dbpedia.org/resource/University_of_Oxford
-high priests - http://dbpedia.org/resource/High_Priest_of_Ptah
-coalition - http://dbpedia.org/resource/Coalition
-eds - http://dbpedia.org/resource/Electronic_Data_Systems
-amun - http://dbpedia.org/resource/Amun
-pharaoh - http://dbpedia.org/resource/Pharaoh
-temple - http://dbpedia.org/resource/Egyptian_temple
-network - http://dbpedia.org/resource/Social_network
-ramesses xi - http://dbpedia.org/resource/Ramesses_XI
-bear - http://dbpedia.org/resource/Bear
-invasion - http://dbpedia.org/resource/Invasion
-object - http://dbpedia.org/resource/Physical_object
-upper egypt - http://dbpedia.org/resource/Upper_Egypt
+jerusalem - http://dbpedia.org/resource/Jerusalem
+shishak - http://dbpedia.org/resource/Shishak
+deborah - http://dbpedia.org/resource/Deborah
+gold - http://dbpedia.org/resource/Gold
+memphis - http://dbpedia.org/resource/Memphis_Tigers_football
+sphere - http://dbpedia.org/resource/Sphere_of_influence
+safety - http://dbpedia.org/resource/Safety
+statuary - http://dbpedia.org/resource/Sculpture
+kush - http://dbpedia.org/resource/Kush_(cannabis)
+nubia - http://dbpedia.org/resource/Nubia
 egyptian art - http://dbpedia.org/resource/Art_of_ancient_Egypt
+sudan - http://dbpedia.org/resource/Sudan
+network - http://dbpedia.org/resource/Social_network
+heracleopolis - http://dbpedia.org/resource/Heracleopolis_Magna
+tefnakht - http://dbpedia.org/resource/Tefnakht
+year 5 - http://dbpedia.org/resource/Year_Five
+libyan - http://dbpedia.org/resource/Ancient_Libya
+delta - http://dbpedia.org/resource/Nile_Delta
 great temple - http://dbpedia.org/resource/Templo_Mayor
-hermopolis - http://dbpedia.org/resource/Hermopolis
+pharaohs - http://dbpedia.org/resource/Pharaoh
+ramesses xi - http://dbpedia.org/resource/Ramesses_XI
+upper egypt - http://dbpedia.org/resource/Upper_Egypt
+god - http://dbpedia.org/resource/Ancient_Egyptian_deities
+napata - http://dbpedia.org/resource/Napata
+york - http://dbpedia.org/resource/York
+relief - http://dbpedia.org/resource/Relief
+gods - http://dbpedia.org/resource/Ancient_Egyptian_deities
+preoccupied - http://dbpedia.org/resource/International_Code_of_Zoological_Nomenclature
+james allen - http://dbpedia.org/resource/James_Allen_(New_Zealand_politician)
+eds - http://dbpedia.org/resource/Electronic_Data_Systems
+yale university press - http://dbpedia.org/resource/Yale_University_Press
+independent - http://dbpedia.org/resource/Independence
+bear - http://dbpedia.org/resource/Bear
+high priests - http://dbpedia.org/resource/High_Priest_of_Ptah
+high priest - http://dbpedia.org/resource/High_priest
+takelot ii - http://dbpedia.org/resource/Takelot_II
+mammisi - http://dbpedia.org/resource/Mammisi
+power center - http://dbpedia.org/resource/Retail_park
+piankhy - http://dbpedia.org/resource/Piye
+oxford university - http://dbpedia.org/resource/University_of_Oxford
+amun - http://dbpedia.org/resource/Amun
+ian - http://dbpedia.org/resource/Ian_Chesterton
+observable - http://dbpedia.org/resource/Observation
+dynasty 21 - http://dbpedia.org/resource/Twenty-first_Dynasty_of_Egypt
+bible - http://dbpedia.org/resource/Hebrew_Bible
+family - http://dbpedia.org/resource/Family
+rehoboam - http://dbpedia.org/resource/Rehoboam
+bronze - http://dbpedia.org/resource/Bronze
+art history - http://dbpedia.org/resource/Art_history
+culture - http://dbpedia.org/resource/Culture
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+temple - http://dbpedia.org/resource/Egyptian_temple
+sheshonq - http://dbpedia.org/resource/Shoshenq
+sun god - http://dbpedia.org/resource/Ra
+thebes - http://dbpedia.org/resource/Phthiotic_Thebes
+shaw - http://dbpedia.org/resource/Shaw_(woodland)
+invasion - http://dbpedia.org/resource/Invasion
+egyptians - http://dbpedia.org/resource/Ancient_Egypt
+solomon - http://dbpedia.org/resource/Solomon
+rebirth - http://dbpedia.org/resource/Reincarnation
+dynasties - http://dbpedia.org/resource/Dynasty
+silver royal - http://dbpedia.org/resource/Ancema_blanka
+egyptian - http://dbpedia.org/resource/Ancient_Egypt
+smendes - http://dbpedia.org/resource/Smendes
+ancient egyptian - http://dbpedia.org/resource/Ancient_Egypt

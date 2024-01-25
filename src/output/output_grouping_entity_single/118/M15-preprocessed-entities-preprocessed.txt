@@ -1,41 +1,36 @@
-lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-english heritage - http://dbpedia.org/resource/English_Heritage
-decay - http://dbpedia.org/resource/Urban_decay
-roman fort - http://dbpedia.org/resource/Castra
-family - http://dbpedia.org/resource/Family
-english civil war - http://dbpedia.org/resource/English_Civil_War
-stone - http://dbpedia.org/resource/Stonemasonry
-vipont - http://dbpedia.org/resource/Vieuxpont
-battlement - http://dbpedia.org/resource/Battlement
-lake - http://dbpedia.org/resource/Lake
-thomas - http://dbpedia.org/resource/THOMAS
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-die - http://dbpedia.org/resource/Death
-daily 10 - http://dbpedia.org/resource/The_Daily_10
-defence - http://dbpedia.org/resource/Military
-vieuxpont - http://dbpedia.org/resource/Vieuxpont
-oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
-nov - http://dbpedia.org/resource/NOV_(gene)
-thanet - http://dbpedia.org/resource/Isle_of_Thanet
-parliamentary - http://dbpedia.org/resource/Roundhead
-norman - http://dbpedia.org/resource/Normans
-broom - http://dbpedia.org/resource/Genisteae
-robert clifford - http://dbpedia.org/resource/Bob_Clifford
-gentrification - http://dbpedia.org/resource/Gentrification
-bear - http://dbpedia.org/resource/Bear
-telephone - http://dbpedia.org/resource/Telephone
-earl - http://dbpedia.org/resource/Earl
-sept - http://dbpedia.org/resource/Sept
-pallisade - http://dbpedia.org/resource/Palisade
-church - http://dbpedia.org/resource/Church_architecture
 timber - http://dbpedia.org/resource/Timber_framing
-ullswater - http://dbpedia.org/resource/Ullswater
-brougham - http://dbpedia.org/resource/Brougham_(carriage)
-river eamont - http://dbpedia.org/resource/River_Eamont
-brougham castle - http://dbpedia.org/resource/Brougham_Castle
-roundhead - http://dbpedia.org/resource/Roundhead
+family - http://dbpedia.org/resource/Family
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+battlements - http://dbpedia.org/resource/Battlement
 appleby castle - http://dbpedia.org/resource/Appleby_Castle
 cumbria - http://dbpedia.org/resource/Cumbria
-cumberland - http://dbpedia.org/resource/Cumberland
+broom - http://dbpedia.org/resource/Genisteae
+earl - http://dbpedia.org/resource/Earl
+pallisade - http://dbpedia.org/resource/Palisade
+roman fort - http://dbpedia.org/resource/Castra
+thomas - http://dbpedia.org/resource/THOMAS
 robert bruce - http://dbpedia.org/resource/Robert_the_Bruce
+oliver cromwell - http://dbpedia.org/resource/Oliver_Cromwell
+roundheads - http://dbpedia.org/resource/Roundhead
+english heritage - http://dbpedia.org/resource/English_Heritage
+gentrification - http://dbpedia.org/resource/Gentrification
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+telephone - http://dbpedia.org/resource/Telephone
+norman - http://dbpedia.org/resource/Normans
+ullswater - http://dbpedia.org/resource/Ullswater
+brougham - http://dbpedia.org/resource/Brougham_(carriage)
+sept - http://dbpedia.org/resource/Sept
+brougham castle - http://dbpedia.org/resource/Brougham_Castle
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+parliamentary - http://dbpedia.org/resource/Roundhead
+nov - http://dbpedia.org/resource/NOV_(gene)
+decay - http://dbpedia.org/resource/Urban_decay
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
+stone - http://dbpedia.org/resource/Stonemasonry
+english civil war - http://dbpedia.org/resource/English_Civil_War
+lady anne - http://dbpedia.org/resource/Anne_Hyde
+river eamont - http://dbpedia.org/resource/River_Eamont
+lake - http://dbpedia.org/resource/Lake
+cumberland - http://dbpedia.org/resource/Cumberland
+vipont - http://dbpedia.org/resource/Vieuxpont

@@ -2,9 +2,9 @@ brougham castle - http://dbpedia.org/resource/Brougham_Castle
 cumbria - http://dbpedia.org/resource/Cumbria
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
 robert de vieuxpont - http://dbpedia.org/resource/Vieuxpont
-penrith castle - http://dbpedia.org/resource/Penrith_Castle
+penrith - http://dbpedia.org/resource/Penrith_railway_station
 confluence - http://dbpedia.org/resource/Confluence
-river lowther - http://dbpedia.org/resource/River_Lowther
+lowther - http://dbpedia.org/resource/River_Lowther
 eamont - http://dbpedia.org/resource/River_Eamont
 eden valley - http://dbpedia.org/resource/Eden_Valley_Railway
 roman fort - http://dbpedia.org/resource/Castra
@@ -27,9 +27,7 @@ baron de clifford - http://dbpedia.org/resource/Baron_de_Clifford
 anglo - http://dbpedia.org/resource/Anglo
 scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
 defence - http://dbpedia.org/resource/Military
-defence - http://dbpedia.org/resource/Military
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-defence - http://dbpedia.org/resource/Military
 stone - http://dbpedia.org/resource/Stonemasonry
 gatehouse - http://dbpedia.org/resource/Gatehouse
 robert de clifford - http://dbpedia.org/resource/Robert_Clifford,_1st_Baron_Clifford
@@ -44,11 +42,11 @@ warden - http://dbpedia.org/resource/Lord_Warden_of_the_Marches
 baron de clifford - http://dbpedia.org/resource/Baron_de_Clifford
 traitor - http://dbpedia.org/resource/Treason
 edward ii - http://dbpedia.org/resource/Edward_II_of_England
+cliffords - http://dbpedia.org/resource/Baron_de_Clifford
 family - http://dbpedia.org/resource/Family
 edward iii - http://dbpedia.org/resource/Edward_II_of_England
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
-sack - http://dbpedia.org/resource/Looting
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
 administrative centre - http://dbpedia.org/resource/County_town
 cliffords - http://dbpedia.org/resource/Baron_de_Clifford
@@ -59,7 +57,6 @@ george clifford - http://dbpedia.org/resource/George_Clifford_III
 earl - http://dbpedia.org/resource/Earl
 cumberland - http://dbpedia.org/resource/Cumberland
 earl - http://dbpedia.org/resource/Earl
-south england - http://dbpedia.org/resource/Southern_England
 queens - http://dbpedia.org/resource/Queen_consort
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
@@ -71,9 +68,8 @@ brougham - http://dbpedia.org/resource/Brougham_(carriage)
 brough - http://dbpedia.org/resource/Brough_Castle
 lady anne - http://dbpedia.org/resource/Anne_Neville
 lady anne - http://dbpedia.org/resource/Anne_Neville
-die - http://dbpedia.org/resource/Death
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
-lord thanet - http://dbpedia.org/resource/Sackville_Tufton,_8th_Earl_of_Thanet
+thanet - http://dbpedia.org/resource/Isle_of_Thanet
 appleby castle - http://dbpedia.org/resource/Appleby_Castle
 english heritage - http://dbpedia.org/resource/English_Heritage

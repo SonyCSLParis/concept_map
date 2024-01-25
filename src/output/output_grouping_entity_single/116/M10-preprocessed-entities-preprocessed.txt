@@ -1,44 +1,39 @@
-queen anne - http://dbpedia.org/resource/Queen_Anne_style_architecture_in_the_United_States
-national police library - http://dbpedia.org/resource/National_Police_Library
-european police college - http://dbpedia.org/resource/European_Police_College
-queen - http://dbpedia.org/resource/Queen_consort
-property developer - http://dbpedia.org/resource/Real_estate_development
-antique - http://dbpedia.org/resource/Antique
-king michael - http://dbpedia.org/resource/Michael_I_of_Romania
-hampshire - http://dbpedia.org/resource/Hampshire
-apprentice - http://dbpedia.org/resource/Apprenticeship
-spiral staircase - http://dbpedia.org/resource/Stairs
-email - http://dbpedia.org/resource/Email
-sconce - http://dbpedia.org/resource/Sconce_(fortification)
-red cross - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
-kilburn - http://dbpedia.org/resource/Kilburn_tube_station
-jacobean - http://dbpedia.org/resource/Jacobean_architecture
 police - http://dbpedia.org/resource/Police
-auction - http://dbpedia.org/resource/Auction
-armchair - http://dbpedia.org/resource/Chair
-james lee - http://dbpedia.org/resource/James_Yimm_Lee
-exile - http://dbpedia.org/resource/Exile
-refectory table - http://dbpedia.org/resource/Refectory_table
-bramshill house - http://dbpedia.org/resource/Bramshill_House
-bramshill - http://dbpedia.org/resource/Bramshill
-flesh - http://dbpedia.org/resource/Pith
-auctioneer - http://dbpedia.org/resource/Auction
-prince phillip - http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh
-mansion - http://dbpedia.org/resource/English_country_house
-police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
-single - http://dbpedia.org/resource/Phonograph_record
-thompson - http://dbpedia.org/resource/Thompson_River
-piano - http://dbpedia.org/resource/Piano
-object - http://dbpedia.org/resource/Object-oriented_programming
-hrh - http://dbpedia.org/resource/Royal_Highness
-candelabra - http://dbpedia.org/resource/Candelabra
 anthony blunt - http://dbpedia.org/resource/Anthony_Blunt
-heritage - http://dbpedia.org/resource/Cultural_heritage
-helmet - http://dbpedia.org/resource/Helmet
-city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
-english architecture - http://dbpedia.org/resource/Architecture_of_England
+sconce - http://dbpedia.org/resource/Sconce_(fortification)
 west sussex - http://dbpedia.org/resource/West_Sussex
-fox - http://dbpedia.org/resource/Fox_hunting
 great hall - http://dbpedia.org/resource/Great_hall
-historian - http://dbpedia.org/resource/History
+hampshire - http://dbpedia.org/resource/Hampshire
+red cross - http://dbpedia.org/resource/International_Red_Cross_and_Red_Crescent_Movement
+manager - http://dbpedia.org/resource/Talent_manager
+antiques - http://dbpedia.org/resource/Antique
+city - http://dbpedia.org/resource/City_status_in_the_United_Kingdom
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+spiral staircase - http://dbpedia.org/resource/Stairs
+national police library - http://dbpedia.org/resource/National_Police_Library
+piano - http://dbpedia.org/resource/Piano
+king michael - http://dbpedia.org/resource/Michael_I_of_Romania
+kilburn - http://dbpedia.org/resource/Kilburn_tube_station
+helmet - http://dbpedia.org/resource/Helmet
 auction house - http://dbpedia.org/resource/Auction
+thompson - http://dbpedia.org/resource/Thompson_River
+fox - http://dbpedia.org/resource/Fox_hunting
+queen - http://dbpedia.org/resource/Queen_consort
+auction - http://dbpedia.org/resource/Auction
+property developers - http://dbpedia.org/resource/Real_estate_development
+prince phillip - http://dbpedia.org/resource/Prince_Philip,_Duke_of_Edinburgh
+queen anne - http://dbpedia.org/resource/Queen_Anne_style_architecture_in_the_United_States
+english architecture - http://dbpedia.org/resource/Architecture_of_England
+police staff college - http://dbpedia.org/resource/Police_Staff_College,_Bramshill
+heritage - http://dbpedia.org/resource/Cultural_heritage
+email - http://dbpedia.org/resource/Email
+hrh - http://dbpedia.org/resource/Royal_Highness
+listed building - http://dbpedia.org/resource/Listed_building
+single - http://dbpedia.org/resource/Phonograph_record
+european police college - http://dbpedia.org/resource/European_Police_College
+james lee - http://dbpedia.org/resource/James_Yimm_Lee
+apprentice - http://dbpedia.org/resource/Apprenticeship
+refectory table - http://dbpedia.org/resource/Refectory_table
+flesh - http://dbpedia.org/resource/Pith
+bramshill - http://dbpedia.org/resource/Bramshill

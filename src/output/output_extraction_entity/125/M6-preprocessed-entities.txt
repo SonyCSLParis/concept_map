@@ -1,4 +1,3 @@
-church - http://dbpedia.org/resource/Christian_denomination
 capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
 west virginia - http://dbpedia.org/resource/West_Virginia
 amazing grace - http://dbpedia.org/resource/Amazing_Grace
@@ -15,7 +14,7 @@ capon - http://dbpedia.org/resource/Capon
 bible - http://dbpedia.org/resource/Bible
 fellowship - http://dbpedia.org/resource/Koinonia
 church - http://dbpedia.org/resource/Christian_denomination
-christian missionary - http://dbpedia.org/resource/Christian_mission
+missionary - http://dbpedia.org/resource/Evangelism
 capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
 foursquare church - http://dbpedia.org/resource/International_Church_of_the_Foursquare_Gospel
 church - http://dbpedia.org/resource/Christian_denomination

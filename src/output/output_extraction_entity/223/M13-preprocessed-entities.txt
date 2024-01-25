@@ -13,19 +13,21 @@ phocas - http://dbpedia.org/resource/Phocas
 khosrau - http://dbpedia.org/resource/Khosrow_II
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 maurice - http://dbpedia.org/resource/Saint_Maurice
-reclaim land - http://dbpedia.org/resource/Land_reclamation
+reclaiming land - http://dbpedia.org/resource/Land_reclamation
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 invasion - http://dbpedia.org/resource/Invasion
+narses - http://dbpedia.org/resource/Narses
 governor - http://dbpedia.org/resource/Roman_governor
 mesopotamia - http://dbpedia.org/resource/Mesopotamia
 phocas - http://dbpedia.org/resource/Phocas
-independence - http://dbpedia.org/resource/Independence
+declared independence - http://dbpedia.org/resource/United_States_Declaration_of_Independence
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 phocas - http://dbpedia.org/resource/Phocas
 germanus - http://dbpedia.org/resource/Germanus_I_of_Constantinople
 edessa - http://dbpedia.org/resource/Edessa
 region - http://dbpedia.org/resource/Region
 capital - http://dbpedia.org/resource/Capital_punishment
+narses - http://dbpedia.org/resource/Narses
 khosrau - http://dbpedia.org/resource/Khosrow_II
 kardarigan - http://dbpedia.org/resource/Kardarigan_(6th_century)
 siege - http://dbpedia.org/resource/Siege
@@ -38,20 +40,16 @@ sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
 persia - http://dbpedia.org/resource/Sasanian_Empire
 dara - http://dbpedia.org/resource/Battle_of_Dara
 sassanids - http://dbpedia.org/resource/Sasanian_Empire
-compound - http://dbpedia.org/resource/Chemical_compound
-rebellion - http://dbpedia.org/resource/Rebellion
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
+provinces - http://dbpedia.org/resource/Roman_province
 west africa - http://dbpedia.org/resource/French_West_Africa
 syria - http://dbpedia.org/resource/Syria
 palestine - http://dbpedia.org/resource/Jund_Filastin
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 phocas - http://dbpedia.org/resource/Phocas
 sassanids - http://dbpedia.org/resource/Sasanian_Empire
-rebellion - http://dbpedia.org/resource/Rebellion
-flare - http://dbpedia.org/resource/Flare
 khosrau - http://dbpedia.org/resource/Khosrow_II
 frontier - http://dbpedia.org/resource/Frontier
-town - http://dbpedia.org/resource/Town
 resistance - http://dbpedia.org/resource/Resistance_movement
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 sassanid - http://dbpedia.org/resource/Sasanian_Empire
@@ -63,9 +61,9 @@ byzantine army - http://dbpedia.org/resource/Byzantine_Empire
 bonosus - http://dbpedia.org/resource/Bonosus_of_Sardica
 phocas - http://dbpedia.org/resource/Phocas
 heraclius - http://dbpedia.org/resource/Heraclius
-sail - http://dbpedia.org/resource/Sail
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 phocas - http://dbpedia.org/resource/Phocas
+defected - http://dbpedia.org/resource/Defection
 heraclius - http://dbpedia.org/resource/Heraclius
 phocas - http://dbpedia.org/resource/Phocas
 heraclius - http://dbpedia.org/resource/Heraclius
@@ -73,6 +71,7 @@ city - http://dbpedia.org/resource/City
 phocas - http://dbpedia.org/resource/Phocas
 emperor - http://dbpedia.org/resource/Byzantine_Empire
 sassanid empire - http://dbpedia.org/resource/Sasanian_Empire
+emperor - http://dbpedia.org/resource/Byzantine_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
 peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
 khosrau ii - http://dbpedia.org/resource/Khosrow_II
@@ -89,15 +88,14 @@ persian - http://dbpedia.org/resource/Persian_language
 shahrbaraz - http://dbpedia.org/resource/Shahrbaraz
 syria - http://dbpedia.org/resource/Syria
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-south head - http://dbpedia.org/resource/Sydney_Heads
 jerusalem - http://dbpedia.org/resource/Jerusalem
 jerusalem - http://dbpedia.org/resource/Jerusalem
-assault city - http://dbpedia.org/resource/Assault_City
-die - http://dbpedia.org/resource/Death
+assault - http://dbpedia.org/resource/Amphibious_warfare
+city - http://dbpedia.org/resource/City
+enslaved - http://dbpedia.org/resource/Slavery
 jerusalem - http://dbpedia.org/resource/Jerusalem
 sassanid empire - http://dbpedia.org/resource/Sasanian_Empire
 lull - http://dbpedia.org/resource/Ramon_Llull
-interrupt - http://dbpedia.org/resource/Interrupt
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 sassanids - http://dbpedia.org/resource/Sasanian_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
@@ -107,9 +105,8 @@ siege - http://dbpedia.org/resource/Siege
 alexandria - http://dbpedia.org/resource/Alexandria
 khosrau - http://dbpedia.org/resource/Khosrow_II
 heraclius - http://dbpedia.org/resource/Heraclius
-urge - http://dbpedia.org/resource/Urge_(digital_music_service)
 khosrau - http://dbpedia.org/resource/Khosrow_II
-god - http://dbpedia.org/resource/God
+gods - http://dbpedia.org/resource/Twelve_Olympians
 heraclius - http://dbpedia.org/resource/Heraclius
 slave - http://dbpedia.org/resource/Slavery
 greeks - http://dbpedia.org/resource/Ancient_Greece
@@ -119,16 +116,11 @@ jerusalem - http://dbpedia.org/resource/Jerusalem
 alexandria - http://dbpedia.org/resource/Alexandria
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
 pardon - http://dbpedia.org/resource/Pardon
-fault - http://dbpedia.org/resource/Electrical_fault
-vineyard - http://dbpedia.org/resource/Vineyard
-olive grove - http://dbpedia.org/resource/Olive
+faults - http://dbpedia.org/resource/Vice
 christ - http://dbpedia.org/resource/Jesus
 heraclius - http://dbpedia.org/resource/Heraclius
-bankrupt - http://dbpedia.org/resource/Bankruptcy
 currency - http://dbpedia.org/resource/Pound_sterling
 constantinople - http://dbpedia.org/resource/Byzantine_Empire
-wage - http://dbpedia.org/resource/Wage
-promise land - http://dbpedia.org/resource/Promised_Land
 persians - http://dbpedia.org/resource/Sasanian_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
 byzantine emperor - http://dbpedia.org/resource/Byzantine_Empire
@@ -141,7 +133,6 @@ sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
 capital - http://dbpedia.org/resource/Capital_punishment
 ctesiphon - http://dbpedia.org/resource/Ctesiphon
 shahrbaraz - http://dbpedia.org/resource/Shahrbaraz
-communication - http://dbpedia.org/resource/Communication
 shahrbaraz - http://dbpedia.org/resource/Shahrbaraz
 heraclius - http://dbpedia.org/resource/Heraclius
 heraclius - http://dbpedia.org/resource/Heraclius
@@ -155,8 +146,8 @@ emperor maurice - http://dbpedia.org/resource/Maurice_(emperor)
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
 sassanids - http://dbpedia.org/resource/Sasanian_Empire
-solidus - http://dbpedia.org/resource/Solidus_(coin)
-gold coin - http://dbpedia.org/resource/Gold_coin
+solidi - http://dbpedia.org/resource/Solidus_(coin)
+gold - http://dbpedia.org/resource/Gold
 heraclius - http://dbpedia.org/resource/Heraclius
 peace - http://dbpedia.org/resource/Armistice_of_11_November_1918
 khosrau - http://dbpedia.org/resource/Khosrow_II
@@ -178,7 +169,6 @@ sassanid - http://dbpedia.org/resource/Sasanian_Empire
 khosrau - http://dbpedia.org/resource/Khosrow_II
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
-soldier - http://dbpedia.org/resource/Soldier
 khosrau - http://dbpedia.org/resource/Khosrow_II
 sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
@@ -187,16 +177,15 @@ fire temple - http://dbpedia.org/resource/Fire_temple
 takht - http://dbpedia.org/resource/Takht_(music)
 solomon - http://dbpedia.org/resource/Solomon
 khosrau - http://dbpedia.org/resource/Khosrow_II
-foothill - http://dbpedia.org/resource/Foothills
 caucus - http://dbpedia.org/resource/Caucus
-sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
+sassanid armies - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
-soldier - http://dbpedia.org/resource/Soldier
-deserter - http://dbpedia.org/resource/Desertion
+odds - http://dbpedia.org/resource/Odds
+deserters - http://dbpedia.org/resource/Desertion
 shahraplakan - http://dbpedia.org/resource/Shahraplakan
 shahin - http://dbpedia.org/resource/Shahin_Vahmanzadegan
-law - http://dbpedia.org/resource/Sharia
+law - http://dbpedia.org/resource/Roman_law
 shahraplakan - http://dbpedia.org/resource/Shahraplakan
 ambush - http://dbpedia.org/resource/Ambush
 tigranakert - http://dbpedia.org/resource/Tigranocerta
@@ -237,26 +226,20 @@ sassanids - http://dbpedia.org/resource/Sasanian_Empire
 heraclius - http://dbpedia.org/resource/Heraclius
 shahrbaraz - http://dbpedia.org/resource/Shahrbaraz
 trap - http://dbpedia.org/resource/Booby_trap
-feign - http://dbpedia.org/resource/Feign_(album)
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
-ambush - http://dbpedia.org/resource/Ambush
 sassanids - http://dbpedia.org/resource/Sasanian_Empire
 bridge - http://dbpedia.org/resource/Bridge
 heraclius - http://dbpedia.org/resource/Heraclius
 sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
-arrow - http://dbpedia.org/resource/Bow_and_arrow
 heraclius - http://dbpedia.org/resource/Heraclius
 shahrbaraz - http://dbpedia.org/resource/Shahrbaraz
 emperor - http://dbpedia.org/resource/Byzantine_Empire
-fear - http://dbpedia.org/resource/Sinestro_Corps
-arrow - http://dbpedia.org/resource/Bow_and_arrow
 anvil - http://dbpedia.org/resource/Anvil
 skirmish - http://dbpedia.org/resource/Skirmisher
 byzantines - http://dbpedia.org/resource/Byzantine_Empire
 byzantine - http://dbpedia.org/resource/Byzantine_Empire
 sassanid - http://dbpedia.org/resource/Sasanian_Empire
 byzantine empire - http://dbpedia.org/resource/Byzantine_Empire
-rope - http://dbpedia.org/resource/Rope
 khosrau - http://dbpedia.org/resource/Khosrow_II
 knockout - http://dbpedia.org/resource/Tournament
 shahin - http://dbpedia.org/resource/Shahin_Vahmanzadegan
@@ -282,12 +265,9 @@ city - http://dbpedia.org/resource/City
 gunpowder - http://dbpedia.org/resource/Gunpowder
 slavs - http://dbpedia.org/resource/Slavs
 avars - http://dbpedia.org/resource/Pannonian_Avars
-assault - http://dbpedia.org/resource/Amphibious_warfare
 sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
 bosphorus - http://dbpedia.org/resource/Bosporus
 byzantine navy - http://dbpedia.org/resource/Byzantine_navy
-scout - http://dbpedia.org/resource/Reconnaissance
-raft - http://dbpedia.org/resource/Raft
 persians - http://dbpedia.org/resource/Sasanian_Empire
 slavs - http://dbpedia.org/resource/Slavs
 avars - http://dbpedia.org/resource/Pannonian_Avars
@@ -306,7 +286,6 @@ turks - http://dbpedia.org/resource/Seljuq_dynasty
 tiflis - http://dbpedia.org/resource/Tbilisi
 tbilisi - http://dbpedia.org/resource/Tbilisi
 khosrau - http://dbpedia.org/resource/Khosrow_II
-reinforcement - http://dbpedia.org/resource/Reinforced_concrete
 city - http://dbpedia.org/resource/City
 siege - http://dbpedia.org/resource/Siege
 heraclius - http://dbpedia.org/resource/Heraclius
@@ -321,7 +300,6 @@ nineveh - http://dbpedia.org/resource/Nineveh
 sassanid army - http://dbpedia.org/resource/Military_of_the_Sasanian_Empire
 khosrau - http://dbpedia.org/resource/Khosrow_II
 ctesiphon - http://dbpedia.org/resource/Ctesiphon
-fear - http://dbpedia.org/resource/Sinestro_Corps
 heraclius - http://dbpedia.org/resource/Heraclius
 capital - http://dbpedia.org/resource/Capital_punishment
 sassanid empire - http://dbpedia.org/resource/Sasanian_Empire

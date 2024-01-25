@@ -7,69 +7,61 @@ czechoslovakia - http://dbpedia.org/resource/Czechoslovakia
 czechoslovakia - http://dbpedia.org/resource/Czechoslovakia
 hitler - http://dbpedia.org/resource/Adolf_Hitler
 peace - http://dbpedia.org/resource/Peace
-magazine - http://dbpedia.org/resource/Magazine
+atoms - http://dbpedia.org/resource/Atom
 chemical element - http://dbpedia.org/resource/Chemical_element
 uranium - http://dbpedia.org/resource/Uranium-235
-neutron - http://dbpedia.org/resource/Neutron
+atoms - http://dbpedia.org/resource/Atom
+neutrons - http://dbpedia.org/resource/Neutron
 energy - http://dbpedia.org/resource/Energy
-author - http://dbpedia.org/resource/Arthur_Schopenhauer
-scientist - http://dbpedia.org/resource/Scientist
 lise meitner - http://dbpedia.org/resource/Lise_Meitner
 otto robert frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
 nazi germany - http://dbpedia.org/resource/Nazi_Germany
-physicist - http://dbpedia.org/resource/Nuclear_physics
 germany - http://dbpedia.org/resource/Nazi_Germany
 albert einstein - http://dbpedia.org/resource/Albert_Einstein
 nazi germany - http://dbpedia.org/resource/Nazi_Germany
-scientist - http://dbpedia.org/resource/Scientist
-nuclear - http://dbpedia.org/resource/Nuclear_weapon
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
 einstein - http://dbpedia.org/resource/Albert_Einstein
 theory - http://dbpedia.org/resource/Theory
 relativity - http://dbpedia.org/resource/Theory_of_relativity
 revolutionary - http://dbpedia.org/resource/Revolutionary
-scientist - http://dbpedia.org/resource/Scientist
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
 nazi regime - http://dbpedia.org/resource/Nazi_Germany
 physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
 chain reaction - http://dbpedia.org/resource/Nuclear_fission
 energy - http://dbpedia.org/resource/Energy
+atoms - http://dbpedia.org/resource/Atom
 explosion - http://dbpedia.org/resource/Nuclear_explosion
 nuclear fission - http://dbpedia.org/resource/Nuclear_fission
-neutron - http://dbpedia.org/resource/Neutron
+neutrons - http://dbpedia.org/resource/Neutron
 uranium - http://dbpedia.org/resource/Uranium-235
+atoms - http://dbpedia.org/resource/Atom
 energy - http://dbpedia.org/resource/Energy
-neutron - http://dbpedia.org/resource/Neutron
+neutrons - http://dbpedia.org/resource/Neutron
 uranium - http://dbpedia.org/resource/Uranium-235
+atoms - http://dbpedia.org/resource/Atom
 chain reaction - http://dbpedia.org/resource/Nuclear_fission
 chain reaction - http://dbpedia.org/resource/Nuclear_fission
 explosion - http://dbpedia.org/resource/Nuclear_explosion
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-weapon - http://dbpedia.org/resource/Nuclear_weapon
-physicist - http://dbpedia.org/resource/Nuclear_physics
 britain - http://dbpedia.org/resource/British_Empire
-technology - http://dbpedia.org/resource/Nuclear_technology
 radar - http://dbpedia.org/resource/Radar
-nuclear - http://dbpedia.org/resource/Nuclear_weapon
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
 security clearance - http://dbpedia.org/resource/Security_clearance
-refugee - http://dbpedia.org/resource/Refugee
+jewish refugees - http://dbpedia.org/resource/Expulsions_and_exoduses_of_Jews
 nazi germany - http://dbpedia.org/resource/Nazi_Germany
 britain - http://dbpedia.org/resource/British_Empire
-bear - http://dbpedia.org/resource/Bear
 rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-physicist - http://dbpedia.org/resource/Nuclear_physics
-ton - http://dbpedia.org/resource/Tonne
 uranium - http://dbpedia.org/resource/Uranium-235
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 weapon - http://dbpedia.org/resource/Nuclear_weapon
 uranium 235 - http://dbpedia.org/resource/Uranium-235
 isotope - http://dbpedia.org/resource/Isotope
 uranium - http://dbpedia.org/resource/Uranium-235
-kilogram - http://dbpedia.org/resource/Kilogram
 chain reaction - http://dbpedia.org/resource/Nuclear_fission
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-explosive - http://dbpedia.org/resource/Explosive
-power bomb - http://dbpedia.org/resource/Powerbomb
-ton - http://dbpedia.org/resource/Tonne
+explosive - http://dbpedia.org/resource/Explosion
+bomb - http://dbpedia.org/resource/Nuclear_weapon
 nuclear fission - http://dbpedia.org/resource/Nuclear_fission
 memorandum - http://dbpedia.org/resource/Memorandum
 sir henry tizard - http://dbpedia.org/resource/Henry_Tizard
@@ -80,7 +72,7 @@ committee - http://dbpedia.org/resource/Committee
 uranium - http://dbpedia.org/resource/Uranium-235
 detonation - http://dbpedia.org/resource/Nuclear_chain_reaction
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
+occupied france - http://dbpedia.org/resource/German_military_administration_in_occupied_France_during_World_War_II
 uranium 235 - http://dbpedia.org/resource/Uranium-235
 natural uranium - http://dbpedia.org/resource/Natural_uranium
 metal - http://dbpedia.org/resource/Metal
@@ -102,8 +94,8 @@ tube alloys - http://dbpedia.org/resource/Tube_Alloys
 nuclear fission - http://dbpedia.org/resource/Nuclear_fission
 uranium - http://dbpedia.org/resource/Uranium-235
 hungarian jewish - http://dbpedia.org/resource/History_of_the_Jews_in_Hungary
-physicist - http://dbpedia.org/resource/Nuclear_physics
 physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
+universities - http://dbpedia.org/resource/University
 nazism - http://dbpedia.org/resource/Nazism
 president - http://dbpedia.org/resource/President_of_the_United_States
 germany - http://dbpedia.org/resource/Nazi_Germany
@@ -117,8 +109,6 @@ president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
 committee - http://dbpedia.org/resource/Committee
 token - http://dbpedia.org/resource/Lexical_analysis
 summer - http://dbpedia.org/resource/Summer
-british american - http://dbpedia.org/resource/British_Americans
-physicist - http://dbpedia.org/resource/Nuclear_physics
 nuclear - http://dbpedia.org/resource/Nuclear_weapon
 decision making - http://dbpedia.org/resource/Decision-making
 president roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
@@ -128,20 +118,19 @@ nuclear fission - http://dbpedia.org/resource/Nuclear_fission
 uranium - http://dbpedia.org/resource/Uranium-235
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 race - http://dbpedia.org/resource/Racing
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 weapon - http://dbpedia.org/resource/Nuclear_weapon
-american british - http://dbpedia.org/resource/Americans_in_the_United_Kingdom
 army corps - http://dbpedia.org/resource/Corps
 manhattan - http://dbpedia.org/resource/Manhattan
 york - http://dbpedia.org/resource/York
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
+progressed - http://dbpedia.org/resource/Progressed_(EP)
 vannevar bush - http://dbpedia.org/resource/Vannevar_Bush
 leslie groves - http://dbpedia.org/resource/Leslie_Groves
 army engineer - http://dbpedia.org/resource/Military_engineering
 pentagon - http://dbpedia.org/resource/Pentagon
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-main task - http://dbpedia.org/resource/Main_Task
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 uranium - http://dbpedia.org/resource/Uranium-235
 ore - http://dbpedia.org/resource/Uranium_ore
@@ -169,12 +158,10 @@ bomb - http://dbpedia.org/resource/Nuclear_weapon
 precision - http://dbpedia.org/resource/Accuracy_and_precision
 uranium 235 - http://dbpedia.org/resource/Uranium-235
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-skilled worker - http://dbpedia.org/resource/Skilled_worker
-engineer - http://dbpedia.org/resource/Engineer
-scientist - http://dbpedia.org/resource/Scientist
 technology - http://dbpedia.org/resource/Nuclear_technology
-nuclear - http://dbpedia.org/resource/Nuclear_weapon
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
 city - http://dbpedia.org/resource/City
+top secret - http://dbpedia.org/resource/Classified_information
 enriched uranium - http://dbpedia.org/resource/Enriched_uranium
 uranium 235 - http://dbpedia.org/resource/Uranium-235
 isotope - http://dbpedia.org/resource/Isotope
@@ -188,29 +175,26 @@ los alamos - http://dbpedia.org/resource/Manhattan_Project
 mexico - http://dbpedia.org/resource/Mexico
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
 atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
-grove - http://dbpedia.org/resource/Orchard
 oppenheimer - http://dbpedia.org/resource/J._Robert_Oppenheimer
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
 explosion - http://dbpedia.org/resource/Nuclear_explosion
-ton - http://dbpedia.org/resource/Tonne
-explosive - http://dbpedia.org/resource/Explosive
+explosives - http://dbpedia.org/resource/Explosive
 uranium 235 - http://dbpedia.org/resource/Uranium-235
 bomb - http://dbpedia.org/resource/Nuclear_weapon
 plutonium - http://dbpedia.org/resource/Plutonium
 bomb - http://dbpedia.org/resource/Nuclear_weapon
-city - http://dbpedia.org/resource/City
 hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-nagasaki - http://dbpedia.org/resource/Fat_Man
+nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
 heat radiation - http://dbpedia.org/resource/Thermal_radiation
 radiation - http://dbpedia.org/resource/Radioactive_decay
 pollution - http://dbpedia.org/resource/Pollution
 manhattan project - http://dbpedia.org/resource/Manhattan_Project
 conventional war - http://dbpedia.org/resource/Conventional_warfare
-atomic bomb - http://dbpedia.org/resource/Manhattan_Project
-nuclear - http://dbpedia.org/resource/Nuclear_weapon
-race - http://dbpedia.org/resource/Racing
+atomic bombs - http://dbpedia.org/resource/Nuclear_weapon
+nuclear arms race - http://dbpedia.org/resource/Nuclear_arms_race
 grave danger - http://dbpedia.org/resource/Grave_Danger
 nuclear war - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+mutually assured destruction - http://dbpedia.org/resource/Mutual_assured_destruction
 atomic bomb - http://dbpedia.org/resource/Manhattan_Project
 physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
 experiment - http://dbpedia.org/resource/Experiment

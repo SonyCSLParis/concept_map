@@ -1,31 +1,28 @@
 gold - http://dbpedia.org/resource/Gold
-gold nugget - http://dbpedia.org/resource/Gold_nugget
+gold nuggets - http://dbpedia.org/resource/Calochortus_luteus
 sacramento valley - http://dbpedia.org/resource/Sacramento_Valley
 gold - http://dbpedia.org/resource/Gold
 american history - http://dbpedia.org/resource/History_of_the_United_States
 news - http://dbpedia.org/resource/News
-gold miner - http://dbpedia.org/resource/Gold_mining
+gold - http://dbpedia.org/resource/Gold
 san francisco - http://dbpedia.org/resource/History_of_San_Francisco
 california - http://dbpedia.org/resource/California_Trail
 precious metal - http://dbpedia.org/resource/Precious_metal
 gold - http://dbpedia.org/resource/Gold
-rush peak - http://dbpedia.org/resource/Rush_Peak
 james wilson - http://dbpedia.org/resource/James_Wilson_(justice)
 gold - http://dbpedia.org/resource/Gold
 american river - http://dbpedia.org/resource/American_River
 sierra nevada mountains - http://dbpedia.org/resource/Sierra_Nevada_(U.S.)
 coloma - http://dbpedia.org/resource/Coloma_High_School
 california - http://dbpedia.org/resource/California_Trail
-water power - http://dbpedia.org/resource/Water_wheel
+water - http://dbpedia.org/resource/Water
 sawmill - http://dbpedia.org/resource/Sawmill
 john sutter - http://dbpedia.org/resource/John_Sutter
-bear - http://dbpedia.org/resource/Bear
 colony - http://dbpedia.org/resource/Colony
 helvetia - http://dbpedia.org/resource/Helvetia
 switzerland - http://dbpedia.org/resource/Switzerland
 colony - http://dbpedia.org/resource/Colony
 city - http://dbpedia.org/resource/City
 sacramento - http://dbpedia.org/resource/Sacramento_River
-recall - http://dbpedia.org/resource/Recall_election
 heart - http://dbpedia.org/resource/Heart
 thump - http://dbpedia.org/resource/Vice_Media

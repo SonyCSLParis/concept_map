@@ -8,8 +8,8 @@ american history - http://dbpedia.org/resource/History_of_the_United_States
 mass hysteria - http://dbpedia.org/resource/Mass_psychogenic_illness
 gold - http://dbpedia.org/resource/Gold
 northern california - http://dbpedia.org/resource/Northern_California
-mass - http://dbpedia.org/resource/Mass
-migration - http://dbpedia.org/resource/Human_migration
+mass - http://dbpedia.org/resource/Mass_in_the_Catholic_Church
+migrations - http://dbpedia.org/resource/Human_migration
 california - http://dbpedia.org/resource/History_of_California
 gold - http://dbpedia.org/resource/Gold
 sutter - http://dbpedia.org/resource/John_Sutter
@@ -28,16 +28,16 @@ merchant - http://dbpedia.org/resource/Merchant
 samuel brannan - http://dbpedia.org/resource/Samuel_Brannan
 wave - http://dbpedia.org/resource/Wind_wave
 immigration - http://dbpedia.org/resource/Immigration
-49er - http://dbpedia.org/resource/California_Gold_Rush
+49ers - http://dbpedia.org/resource/San_Francisco_49ers
 gold - http://dbpedia.org/resource/Gold
 california - http://dbpedia.org/resource/History_of_California
 gold nugget - http://dbpedia.org/resource/Gold_nugget
 sutter - http://dbpedia.org/resource/John_Sutter
 gold - http://dbpedia.org/resource/Gold
-squatter - http://dbpedia.org/resource/Squatting
-crop - http://dbpedia.org/resource/Agriculture
-immigrant - http://dbpedia.org/resource/Immigration
-california gold country - http://dbpedia.org/resource/Gold_Country
+squatters - http://dbpedia.org/resource/Squatting
+chinese immigrants - http://dbpedia.org/resource/History_of_Chinese_Americans
+california - http://dbpedia.org/resource/History_of_California
+gold - http://dbpedia.org/resource/Gold
 san francisco - http://dbpedia.org/resource/History_of_San_Francisco
 york herald - http://dbpedia.org/resource/York_Herald
 newspaper - http://dbpedia.org/resource/Newspaper
@@ -51,28 +51,21 @@ panama - http://dbpedia.org/resource/Panama
 city - http://dbpedia.org/resource/City
 san francisco - http://dbpedia.org/resource/History_of_San_Francisco
 ghost town - http://dbpedia.org/resource/Ghost_town
-boom - http://dbpedia.org/resource/Boomtown
-miner - http://dbpedia.org/resource/Miner
-wage - http://dbpedia.org/resource/Wage
 ivan - http://dbpedia.org/resource/Ivan_the_Terrible
 ammon - http://dbpedia.org/resource/Ammon
 city - http://dbpedia.org/resource/City
 fair wage - http://dbpedia.org/resource/Living_wage
 shopkeeper - http://dbpedia.org/resource/Shopkeeper
-city - http://dbpedia.org/resource/City
-infrastructure - http://dbpedia.org/resource/Infrastructure
 san francisco - http://dbpedia.org/resource/History_of_San_Francisco
-boom town - http://dbpedia.org/resource/Boomtown
-strain - http://dbpedia.org/resource/Cannabis_strains
-cigar box - http://dbpedia.org/resource/Cigar_box
-plank - http://dbpedia.org/resource/Lumber
+boom - http://dbpedia.org/resource/Boomtown
+cigar - http://dbpedia.org/resource/Cigar
 sidewalk - http://dbpedia.org/resource/Sidewalk
 crime - http://dbpedia.org/resource/Crime
-vigilante - http://dbpedia.org/resource/Vigilantism
+vigilantes - http://dbpedia.org/resource/Vigilantism
 police - http://dbpedia.org/resource/Police
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush
 gold - http://dbpedia.org/resource/Gold
-san francisco 49er - http://dbpedia.org/resource/San_Francisco_49ers
+san francisco 49ers - http://dbpedia.org/resource/San_Francisco_49ers
 nfl - http://dbpedia.org/resource/National_Football_League
-prospector - http://dbpedia.org/resource/Prospecting
+prospectors - http://dbpedia.org/resource/Prospecting
 california gold rush - http://dbpedia.org/resource/California_Gold_Rush

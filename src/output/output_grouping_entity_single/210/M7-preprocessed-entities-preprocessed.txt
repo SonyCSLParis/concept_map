@@ -1,19 +1,18 @@
+akhenaten - http://dbpedia.org/resource/Akhenaten
+iv - http://dbpedia.org/resource/Intravenous_therapy
+amenophis - http://dbpedia.org/resource/Amenhotep_III
+b.c. - http://dbpedia.org/resource/Figured_bass
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+hatshepsut - http://dbpedia.org/resource/Hatshepsut
+alexander - http://dbpedia.org/resource/Alexander_the_Great
+cleopatra - http://dbpedia.org/resource/Cleopatra
+greco - http://dbpedia.org/resource/Ancient_Greece
+roman times - http://dbpedia.org/resource/Ancient_Rome
+central government - http://dbpedia.org/resource/Central_government
+octavius - http://dbpedia.org/resource/Augustus
+tutankhamun - http://dbpedia.org/resource/Tutankhamun
+chephren - http://dbpedia.org/resource/Khafra
 dynastic - http://dbpedia.org/resource/Dynasty
 roman period - http://dbpedia.org/resource/Roman_Empire
-cleopatra - http://dbpedia.org/resource/Cleopatra
-roman time - http://dbpedia.org/resource/Roman_Empire
-hatshepsut - http://dbpedia.org/resource/Hatshepsut
-iv - http://dbpedia.org/resource/Intravenous_therapy
-ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-octavius - http://dbpedia.org/resource/Augustus
-ramesses ii - http://dbpedia.org/resource/Ramesses_II
-tutankhamun - http://dbpedia.org/resource/Tutankhamun
-egypt central - http://dbpedia.org/resource/Egypt_Central
-alexander - http://dbpedia.org/resource/Alexander_the_Great
-tuthmosis ii - http://dbpedia.org/resource/Thutmose_II
-b.c. - http://dbpedia.org/resource/Figured_bass
-amenophis ii - http://dbpedia.org/resource/Amenhotep_II
-chephren - http://dbpedia.org/resource/Khafra
-greco - http://dbpedia.org/resource/Ancient_Greece
 ptolemy - http://dbpedia.org/resource/Ptolemy_I_Soter
-akhenaten - http://dbpedia.org/resource/Akhenaten
+ramesses ii - http://dbpedia.org/resource/Ramesses_II

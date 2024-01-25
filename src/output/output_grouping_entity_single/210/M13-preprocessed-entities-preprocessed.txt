@@ -1,26 +1,25 @@
-native egyptian - http://dbpedia.org/resource/Ancient_Egyptian_religion
-alan - http://dbpedia.org/resource/Alan_Dawa_Dolma
-dynasties - http://dbpedia.org/resource/Dynasty
-shaw - http://dbpedia.org/resource/Shaw_(woodland)
-ninth dynasty - http://dbpedia.org/resource/Ninth_Dynasty_of_Egypt
-pharaohs - http://dbpedia.org/resource/Pharaoh
-dover publications - http://dbpedia.org/resource/Dover_Publications
-343 bc - http://dbpedia.org/resource/343_BC
-ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
-saite period - http://dbpedia.org/resource/Twenty-sixth_Dynasty_of_Egypt
 persian occupation - http://dbpedia.org/resource/History_of_Persian_Egypt
-persians - http://dbpedia.org/resource/Achaemenid_Empire
-ian - http://dbpedia.org/resource/Ian_Chappell
-eighth dynasty - http://dbpedia.org/resource/Eighth_Dynasty_of_Egypt
 persian empire - http://dbpedia.org/resource/Achaemenid_Empire
-thirtieth dynasty - http://dbpedia.org/resource/Thirtieth_Dynasty_of_Egypt
-cambyses - http://dbpedia.org/resource/Cambyses_II
-sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
+persians - http://dbpedia.org/resource/Achaemenid_Empire
+single - http://dbpedia.org/resource/Extended_play
+ninth dynasty - http://dbpedia.org/resource/Ninth_Dynasty_of_Egypt
+native egyptian - http://dbpedia.org/resource/Ancient_Egyptian_religion
+achaemenid dynasty - http://dbpedia.org/resource/Achaemenid_Empire
 persian - http://dbpedia.org/resource/Persian_language
 oxford university - http://dbpedia.org/resource/Oxford_University_Press
-monument - http://dbpedia.org/resource/Monument
 culture - http://dbpedia.org/resource/Culture
+cambyses - http://dbpedia.org/resource/Cambyses_II
+ancient egypt - http://dbpedia.org/resource/Ancient_Egypt
+eighth dynasty - http://dbpedia.org/resource/Eighth_Dynasty_of_Egypt
+sixth dynasty - http://dbpedia.org/resource/Sixth_Dynasty_of_Egypt
 amyrtaeus - http://dbpedia.org/resource/Amyrtaeus
-achaemenid dynasty - http://dbpedia.org/resource/Achaemenid_Empire
+ian - http://dbpedia.org/resource/Ian_Chappell
+shaw - http://dbpedia.org/resource/Shaw_(woodland)
+dover publications - http://dbpedia.org/resource/Dover_Publications
+thirtieth dynasty - http://dbpedia.org/resource/Thirtieth_Dynasty_of_Egypt
+pharaohs - http://dbpedia.org/resource/Pharaoh
+alan - http://dbpedia.org/resource/Alan_Dawa_Dolma
+343 bc - http://dbpedia.org/resource/343_BC
+dynasties - http://dbpedia.org/resource/Dynasty
+saite period - http://dbpedia.org/resource/Twenty-sixth_Dynasty_of_Egypt
 york - http://dbpedia.org/resource/York
-single - http://dbpedia.org/resource/Extended_play

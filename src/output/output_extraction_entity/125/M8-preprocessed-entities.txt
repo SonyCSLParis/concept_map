@@ -1,76 +1,84 @@
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 encyclopedia - http://dbpedia.org/resource/Encyclopedia
 wold - http://dbpedia.org/resource/The_Wolds
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 unincorporated community - http://dbpedia.org/resource/Unincorporated_area
 purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
 west virginia - http://dbpedia.org/resource/West_Virginia
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 extant - http://dbpedia.org/resource/Neontology
-log church - http://dbpedia.org/resource/Log_cabin
 hampshire county - http://dbpedia.org/resource/Hampshire
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
-mount - http://dbpedia.org/resource/Mountain
 mount bethel church - http://dbpedia.org/resource/Mount_Bethel_Church_(Three_Churches,_West_Virginia)
+mount - http://dbpedia.org/resource/Mountain
 church - http://dbpedia.org/resource/Church_architecture
+nondenominational - http://dbpedia.org/resource/Nondenominational_Christianity
 church - http://dbpedia.org/resource/Church_architecture
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
-settler - http://dbpedia.org/resource/Settler
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 schwarzenau brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
-dunker - http://dbpedia.org/resource/Wilhelm_Dunker
-dunkard - http://dbpedia.org/resource/Schwarzenau_Brethren
+dunkers - http://dbpedia.org/resource/Slam_dunk
+dunkards - http://dbpedia.org/resource/Schwarzenau_Brethren
 church - http://dbpedia.org/resource/Church_architecture
 methodist - http://dbpedia.org/resource/Methodism
-settler - http://dbpedia.org/resource/Settler
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 denomination - http://dbpedia.org/resource/Christian_denomination
 church - http://dbpedia.org/resource/Church_architecture
 white pine - http://dbpedia.org/resource/Pinus_strobus
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 settlement - http://dbpedia.org/resource/Town
 rural - http://dbpedia.org/resource/Rural_area
 religious architecture - http://dbpedia.org/resource/Sacral_architecture
 potomac highlands - http://dbpedia.org/resource/Potomac_Highlands
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 gable - http://dbpedia.org/resource/Gable
 log building - http://dbpedia.org/resource/Log_cabin
-beam - http://dbpedia.org/resource/Bending
 church - http://dbpedia.org/resource/Church_architecture
 bark - http://dbpedia.org/resource/Birch_bark
 church - http://dbpedia.org/resource/Church_architecture
-metal - http://dbpedia.org/resource/Metalworking
+pressed metal panels - http://dbpedia.org/resource/Tin_ceiling
 church - http://dbpedia.org/resource/Church_architecture
 extant - http://dbpedia.org/resource/Neontology
 gravestone - http://dbpedia.org/resource/Headstone
-interment site - http://dbpedia.org/resource/Burial
 architectural historian - http://dbpedia.org/resource/Architectural_historian
 sandra - http://dbpedia.org/resource/List_of_Heroes_characters
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 rural - http://dbpedia.org/resource/Rural_area
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
-slope - http://dbpedia.org/resource/Slope
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 west virginia - http://dbpedia.org/resource/West_Virginia
 unincorporated community - http://dbpedia.org/resource/Unincorporated_area
 purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
 church - http://dbpedia.org/resource/Church_architecture
-acre - http://dbpedia.org/resource/Acre
 ha - http://dbpedia.org/resource/Hectare
 bluff - http://dbpedia.org/resource/Hill
 u.s. route 220 - http://dbpedia.org/resource/U.S._Route_220
 elevation - http://dbpedia.org/resource/Multiview_projection
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 rural area - http://dbpedia.org/resource/Rural_area
 hampshire county - http://dbpedia.org/resource/Hampshire
@@ -79,14 +87,14 @@ patterson creek mountain - http://dbpedia.org/resource/Patterson_Creek_Mountain
 anticlinal - http://dbpedia.org/resource/Anticline
 ridge - http://dbpedia.org/resource/Ridge
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
-foothill - http://dbpedia.org/resource/Foothills
 anticlinal - http://dbpedia.org/resource/Anticline
 mill creek mountain - http://dbpedia.org/resource/Mill_Creek_Mountain
-valley east - http://dbpedia.org/resource/Valley_East
 trough - http://dbpedia.org/resource/Watering_trough
 south branch potomac river - http://dbpedia.org/resource/Potomac_River
 mill creek mountain - http://dbpedia.org/resource/Mill_Creek_Mountain
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 northern neck proprietary - http://dbpedia.org/resource/Northern_Neck_Proprietary
 land grant - http://dbpedia.org/resource/Land_grant
@@ -101,11 +109,10 @@ church - http://dbpedia.org/resource/Church_architecture
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
 native americans - http://dbpedia.org/resource/Native_Americans_in_the_United_States
 lord fairfax - http://dbpedia.org/resource/Lord_Fairfax_of_Cameron
-settler - http://dbpedia.org/resource/Settler
 northern neck proprietary - http://dbpedia.org/resource/Northern_Neck_Proprietary
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
 hampshire county - http://dbpedia.org/resource/Hampshire
-settler - http://dbpedia.org/resource/Settler
+whites - http://dbpedia.org/resource/White_people
 fertility - http://dbpedia.org/resource/Soil_fertility
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
 unincorporated community - http://dbpedia.org/resource/Unincorporated_area
@@ -113,19 +120,17 @@ purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
 trading post - http://dbpedia.org/resource/Trading_post
 village - http://dbpedia.org/resource/Administrative_divisions_of_Wisconsin
 henry - http://dbpedia.org/resource/Henry_(unit)
-acre - http://dbpedia.org/resource/Acre
 ha - http://dbpedia.org/resource/Hectare
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
-acre - http://dbpedia.org/resource/Acre
 ha - http://dbpedia.org/resource/Hectare
 purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
 post office - http://dbpedia.org/resource/Post_office
 blacksmith - http://dbpedia.org/resource/Blacksmith
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
-early church - http://dbpedia.org/resource/History_of_Christianity
-trustee - http://dbpedia.org/resource/Trustee
-church house - http://dbpedia.org/resource/Church_House_Publishing
+church - http://dbpedia.org/resource/Church_architecture
+church - http://dbpedia.org/resource/Church_architecture
 denominations - http://dbpedia.org/resource/Christian_denomination
 deed - http://dbpedia.org/resource/Deed
 meeting house - http://dbpedia.org/resource/Meeting_house
@@ -134,27 +139,29 @@ architectural historian - http://dbpedia.org/resource/Architectural_historian
 sandra - http://dbpedia.org/resource/List_of_Heroes_characters
 christian denomination - http://dbpedia.org/resource/Christian_denomination
 church - http://dbpedia.org/resource/Church_architecture
+nondenominational - http://dbpedia.org/resource/Nondenominational_Christianity
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 resident minister - http://dbpedia.org/resource/Resident_(title)
 leatherman - http://dbpedia.org/resource/Leather_subculture
 elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
 george - http://dbpedia.org/resource/George_(band)
-high church - http://dbpedia.org/resource/High_church
-trustee - http://dbpedia.org/resource/Trustee
-church history - http://dbpedia.org/resource/History_of_Christianity
+church - http://dbpedia.org/resource/Church_architecture
+church - http://dbpedia.org/resource/Church_architecture
 single - http://dbpedia.org/resource/Phonograph_record
 denomination - http://dbpedia.org/resource/Christian_denomination
-christian denomination - http://dbpedia.org/resource/Christian_denomination
+christian denominations - http://dbpedia.org/resource/Christian_denomination
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 schwarzenau brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
 german baptist brethren - http://dbpedia.org/resource/Schwarzenau_Brethren
 church - http://dbpedia.org/resource/Church_architecture
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
-settler - http://dbpedia.org/resource/Settler
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
-dunker - http://dbpedia.org/resource/Wilhelm_Dunker
-dunkard - http://dbpedia.org/resource/Schwarzenau_Brethren
+dunkers - http://dbpedia.org/resource/Slam_dunk
+dunkards - http://dbpedia.org/resource/Schwarzenau_Brethren
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 methodists - http://dbpedia.org/resource/Methodism
 christian denomination - http://dbpedia.org/resource/Christian_denomination
@@ -163,7 +170,7 @@ baptism - http://dbpedia.org/resource/Baptism
 triune - http://dbpedia.org/resource/Trinity
 immersion - http://dbpedia.org/resource/Baptism
 nonresistance - http://dbpedia.org/resource/Nonresistance
-creed - http://dbpedia.org/resource/Creed
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 single - http://dbpedia.org/resource/Phonograph_record
 space - http://dbpedia.org/resource/Space
@@ -174,8 +181,7 @@ church - http://dbpedia.org/resource/Church_architecture
 slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
 hampshire county - http://dbpedia.org/resource/Hampshire
 american civil war - http://dbpedia.org/resource/American_Civil_War
-slaveholder - http://dbpedia.org/resource/Slavery_in_the_United_States
-slave - http://dbpedia.org/resource/Slavery_in_the_United_States
+slaves - http://dbpedia.org/resource/Slavery_in_the_United_States
 slave labor - http://dbpedia.org/resource/Slavery_in_the_United_States
 denomination - http://dbpedia.org/resource/Christian_denomination
 south branch potomac river - http://dbpedia.org/resource/Potomac_River
@@ -188,76 +194,96 @@ hampshire county - http://dbpedia.org/resource/Hampshire
 allegheny - http://dbpedia.org/resource/Allegheny_Mountains
 church - http://dbpedia.org/resource/Church_architecture
 denomination - http://dbpedia.org/resource/Christian_denomination
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 hampshire county - http://dbpedia.org/resource/Hampshire
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 region - http://dbpedia.org/resource/Region
 mill creek valley - http://dbpedia.org/resource/Mill_Creek_(South_Branch_Potomac_River)
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 hardy county - http://dbpedia.org/resource/Hardy_County,_West_Virginia
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
+counties - http://dbpedia.org/resource/County
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 denomination - http://dbpedia.org/resource/Christian_denomination
 church - http://dbpedia.org/resource/Church_architecture
 leatherman - http://dbpedia.org/resource/Leather_subculture
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
+church - http://dbpedia.org/resource/Church_architecture
+white pine - http://dbpedia.org/resource/Pinus_strobus
+church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
+church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 white pine - http://dbpedia.org/resource/Pinus_strobus
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
-church - http://dbpedia.org/resource/Church_architecture
-white pine - http://dbpedia.org/resource/Pinus_strobus
-church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
-church - http://dbpedia.org/resource/Church_architecture
-church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 collective ownership - http://dbpedia.org/resource/Common_ownership
-christian denomination - http://dbpedia.org/resource/Christian_denomination
-brethren church - http://dbpedia.org/resource/Brethren_Church
-shareholder - http://dbpedia.org/resource/Shareholder
+christian denominations - http://dbpedia.org/resource/Christian_denomination
+church - http://dbpedia.org/resource/Church_architecture
 white pine - http://dbpedia.org/resource/Pinus_strobus
 church - http://dbpedia.org/resource/Church_architecture
+listed - http://dbpedia.org/resource/Listed_building
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
-petition - http://dbpedia.org/resource/Petition
+pine - http://dbpedia.org/resource/Pine
 white pine - http://dbpedia.org/resource/Pinus_strobus
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 façade - http://dbpedia.org/resource/Facade
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 extant - http://dbpedia.org/resource/Neontology
 church - http://dbpedia.org/resource/Church_architecture
-weatherboard - http://dbpedia.org/resource/Clapboard_(architecture)
+weatherboards - http://dbpedia.org/resource/Clapboard_(architecture)
 wood floor - http://dbpedia.org/resource/Wood_flooring
 pressed metal ceiling - http://dbpedia.org/resource/Tin_ceiling
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
-revival meeting - http://dbpedia.org/resource/Revival_meeting
+revival meetings - http://dbpedia.org/resource/Revival_meeting
 church service - http://dbpedia.org/resource/Church_service
-church service - http://dbpedia.org/resource/Church_service
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
+church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 hampshire county - http://dbpedia.org/resource/Hampshire
 county commission - http://dbpedia.org/resource/County_commission
-embark - http://dbpedia.org/resource/Embark_(transit_authority)
+districts - http://dbpedia.org/resource/Districts_of_England
 surveying - http://dbpedia.org/resource/Surveying
 hampshire county - http://dbpedia.org/resource/Hampshire
 architecture - http://dbpedia.org/resource/Architecture
 historic preservation - http://dbpedia.org/resource/Historic_preservation
 west virginia - http://dbpedia.org/resource/West_Virginia
-culture history - http://dbpedia.org/resource/Culture-historical_archaeology
+culture - http://dbpedia.org/resource/Archaeological_culture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
 fort - http://dbpedia.org/resource/Fortification
@@ -270,46 +296,46 @@ valley view - http://dbpedia.org/resource/Valley_View_(Romney,_West_Virginia)
 county commission - http://dbpedia.org/resource/County_commission
 compliance officer - http://dbpedia.org/resource/Regulatory_compliance
 charles baker - http://dbpedia.org/resource/Charlie_Baker
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 capon chapel - http://dbpedia.org/resource/Capon_Chapel
-meeting house - http://dbpedia.org/resource/Meeting_house
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
+listed - http://dbpedia.org/resource/Listed_building
 settlement - http://dbpedia.org/resource/Town
 rural - http://dbpedia.org/resource/Rural_area
 religious architecture - http://dbpedia.org/resource/Sacral_architecture
 potomac highlands - http://dbpedia.org/resource/Potomac_Highlands
 architecture - http://dbpedia.org/resource/Architecture
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 gable - http://dbpedia.org/resource/Gable
 log building - http://dbpedia.org/resource/Log_cabin
 church - http://dbpedia.org/resource/Church_architecture
 façade - http://dbpedia.org/resource/Facade
-encompass - http://dbpedia.org/resource/Encompass
+concrete - http://dbpedia.org/resource/Reinforced_concrete
 metal - http://dbpedia.org/resource/Metalworking
 balustrade - http://dbpedia.org/resource/Baluster
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 sash - http://dbpedia.org/resource/Sash_window
 church - http://dbpedia.org/resource/Church_architecture
-elevation - http://dbpedia.org/resource/Multiview_projection
-north south - http://dbpedia.org/resource/North_South_MRT_line
 sash - http://dbpedia.org/resource/Sash_window
 church - http://dbpedia.org/resource/Church_architecture
 elevation - http://dbpedia.org/resource/Multiview_projection
 concrete block - http://dbpedia.org/resource/Masonry
 chimney - http://dbpedia.org/resource/Chimney
-elevation church - http://dbpedia.org/resource/Elevation_Church
+elevation - http://dbpedia.org/resource/Multiview_projection
+church - http://dbpedia.org/resource/Church_architecture
 sash - http://dbpedia.org/resource/Sash_window
-church window - http://dbpedia.org/resource/Church_window
+church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 uncut - http://dbpedia.org/resource/Uncut_(magazine)
 stone - http://dbpedia.org/resource/Sandstone
 church - http://dbpedia.org/resource/Church_architecture
-fieldstone - http://dbpedia.org/resource/Fieldstone
-building construction - http://dbpedia.org/resource/Construction
 intrusion - http://dbpedia.org/resource/Intrusive_rock
-beam - http://dbpedia.org/resource/Bending
 church - http://dbpedia.org/resource/Church_architecture
 bark - http://dbpedia.org/resource/Birch_bark
 church - http://dbpedia.org/resource/Church_architecture
@@ -317,12 +343,12 @@ seam - http://dbpedia.org/resource/Coal_mining
 metal - http://dbpedia.org/resource/Metalworking
 architectural historian - http://dbpedia.org/resource/Architectural_historian
 sandra - http://dbpedia.org/resource/List_of_Heroes_characters
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 indicative - http://dbpedia.org/resource/Realis_mood
-settler - http://dbpedia.org/resource/Settler
 religious architecture - http://dbpedia.org/resource/Sacral_architecture
 hampshire county - http://dbpedia.org/resource/Hampshire
-settler - http://dbpedia.org/resource/Settler
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 ecclesiastical - http://dbpedia.org/resource/Church_architecture
 rural - http://dbpedia.org/resource/Rural_area
@@ -333,31 +359,32 @@ architectural plan - http://dbpedia.org/resource/Architectural_plan
 east wall - http://dbpedia.org/resource/East_Wall
 pulpit - http://dbpedia.org/resource/Pulpit
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
-metal - http://dbpedia.org/resource/Metalworking
+pressed metal panels - http://dbpedia.org/resource/Tin_ceiling
 church - http://dbpedia.org/resource/Church_architecture
 attic - http://dbpedia.org/resource/Attic
-decorative molding - http://dbpedia.org/resource/Molding_(decorative)
+decorative moldings - http://dbpedia.org/resource/Molding_(decorative)
 plasterboard - http://dbpedia.org/resource/Drywall
 church - http://dbpedia.org/resource/Church_architecture
-wood - http://dbpedia.org/resource/Lumber
-stove - http://dbpedia.org/resource/Wood-burning_stove
+wood burning stove - http://dbpedia.org/resource/Wood-burning_stove
 sanctuary - http://dbpedia.org/resource/Sanctuary
 church - http://dbpedia.org/resource/Church_architecture
 north wall - http://dbpedia.org/resource/North_Wall_railway_station
-wood - http://dbpedia.org/resource/Lumber
-stove - http://dbpedia.org/resource/Wood-burning_stove
+wood burning stove - http://dbpedia.org/resource/Wood-burning_stove
 church - http://dbpedia.org/resource/Church_architecture
 heat - http://dbpedia.org/resource/Central_heating
 church - http://dbpedia.org/resource/Church_architecture
 minimalist - http://dbpedia.org/resource/Minimalism
 plank - http://dbpedia.org/resource/Lumber
 rail - http://dbpedia.org/resource/Handrail
-spindle - http://dbpedia.org/resource/Axle
+spindles - http://dbpedia.org/resource/Spinning_mule
 mortise - http://dbpedia.org/resource/Mortise_and_tenon
 tenon - http://dbpedia.org/resource/Mortise_and_tenon
+nails - http://dbpedia.org/resource/Holy_Nail
 church - http://dbpedia.org/resource/Church_architecture
+nails - http://dbpedia.org/resource/Holy_Nail
 timber - http://dbpedia.org/resource/Timber_framing
 church - http://dbpedia.org/resource/Church_architecture
 elevation - http://dbpedia.org/resource/Multiview_projection
@@ -368,35 +395,26 @@ pulpit - http://dbpedia.org/resource/Pulpit
 elevation - http://dbpedia.org/resource/Multiview_projection
 upright piano - http://dbpedia.org/resource/Piano
 church - http://dbpedia.org/resource/Church_architecture
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
-south church - http://dbpedia.org/resource/South_Zelenchuksky_Church
+church - http://dbpedia.org/resource/Church_architecture
 extant - http://dbpedia.org/resource/Neontology
 gravestone - http://dbpedia.org/resource/Headstone
-interment site - http://dbpedia.org/resource/Burial
 church - http://dbpedia.org/resource/Church_architecture
 u.s. route 220 - http://dbpedia.org/resource/U.S._Route_220
-interment site - http://dbpedia.org/resource/Burial
-headstone - http://dbpedia.org/resource/Headstone
-east west - http://dbpedia.org/resource/East_West_MRT_line
-stone - http://dbpedia.org/resource/Sandstone
-stone - http://dbpedia.org/resource/Sandstone
-obelisk - http://dbpedia.org/resource/Obelisk
+obelisks - http://dbpedia.org/resource/Obelisk
 limestone - http://dbpedia.org/resource/Limestone
-stone - http://dbpedia.org/resource/Sandstone
-footstone - http://dbpedia.org/resource/Footstone
-gravestone - http://dbpedia.org/resource/Headstone
 granite - http://dbpedia.org/resource/Granite
 stone - http://dbpedia.org/resource/Sandstone
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
-tree - http://dbpedia.org/resource/Tree
 oak tree - http://dbpedia.org/resource/Oak
-overhang - http://dbpedia.org/resource/Overhang_seat
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 chicken wire - http://dbpedia.org/resource/Chicken_wire
 cattle - http://dbpedia.org/resource/Cattle
 gate - http://dbpedia.org/resource/Gate
 church - http://dbpedia.org/resource/Church_architecture
-historic site - http://dbpedia.org/resource/National_Register_of_Historic_Places
 hampshire county - http://dbpedia.org/resource/Hampshire
 west virginia - http://dbpedia.org/resource/West_Virginia
 hampshire county - http://dbpedia.org/resource/Hampshire
@@ -410,6 +428,7 @@ geological survey - http://dbpedia.org/resource/Geological_survey
 geological survey - http://dbpedia.org/resource/Geological_survey
 purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
 geological survey - http://dbpedia.org/resource/Geological_survey
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 kerns - http://dbpedia.org/resource/Kern_(soldier)
 mary - http://dbpedia.org/resource/Mary_II_of_England
@@ -439,7 +458,6 @@ west virginia - http://dbpedia.org/resource/West_Virginia
 bibliography - http://dbpedia.org/resource/Bibliography
 bittinger - http://dbpedia.org/resource/Bittinger,_Maryland
 allegheny - http://dbpedia.org/resource/Allegheny_Mountains
-church - http://dbpedia.org/resource/Church_architecture
 church - http://dbpedia.org/resource/Church_architecture
 camden - http://dbpedia.org/resource/Camden_Town
 penobscot - http://dbpedia.org/resource/Penobscot
@@ -500,6 +518,7 @@ virginia - http://dbpedia.org/resource/Virginia
 historical society - http://dbpedia.org/resource/Historical_society
 google books - http://dbpedia.org/resource/Google_Books
 sandra - http://dbpedia.org/resource/List_of_Heroes_characters
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 national park service - http://dbpedia.org/resource/National_Park_Service
 mary - http://dbpedia.org/resource/Mary_II_of_England
@@ -511,7 +530,9 @@ williamsburg - http://dbpedia.org/resource/Colonial_Williamsburg
 virginia college - http://dbpedia.org/resource/Virginia_College
 mary - http://dbpedia.org/resource/Mary_II_of_England
 issn - http://dbpedia.org/resource/International_Standard_Book_Number
+pine - http://dbpedia.org/resource/Pine
 inventory - http://dbpedia.org/resource/Inventory
+pine - http://dbpedia.org/resource/Pine
 church - http://dbpedia.org/resource/Church_architecture
 purgitsville - http://dbpedia.org/resource/Purgitsville,_West_Virginia
 west virginia - http://dbpedia.org/resource/West_Virginia

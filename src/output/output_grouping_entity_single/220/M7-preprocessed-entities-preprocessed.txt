@@ -1,65 +1,52 @@
-british india - http://dbpedia.org/resource/Company_rule_in_India
-mughal empire - http://dbpedia.org/resource/Mughal_Empire
-east indies - http://dbpedia.org/resource/East_Indies
-theory - http://dbpedia.org/resource/Microeconomics
-slave - http://dbpedia.org/resource/History_of_slavery
-american revolution - http://dbpedia.org/resource/American_Revolution
-plantation island - http://dbpedia.org/resource/Plantation_Island,_Florida
+navigation acts - http://dbpedia.org/resource/Navigation_Acts
 coffee - http://dbpedia.org/resource/Plantation
-british empire - http://dbpedia.org/resource/British_Empire
-friction - http://dbpedia.org/resource/Friction
-columbia - http://dbpedia.org/resource/Cuban_rumba
-monopoly - http://dbpedia.org/resource/Monopoly
-plantation - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
-electronic - http://dbpedia.org/resource/Electronics
-columbia university press - http://dbpedia.org/resource/Columbia_University_Press
-absorption - http://dbpedia.org/resource/Small_intestine
-colonial charter - http://dbpedia.org/resource/Colonial_charters_in_the_Thirteen_Colonies
-encyclopedia - http://dbpedia.org/resource/Encyclopedia
-navigation - http://dbpedia.org/resource/Navigation
-colony - http://dbpedia.org/resource/Colony
-anglo - http://dbpedia.org/resource/Anglo
-dissenter - http://dbpedia.org/resource/English_Dissenters
-tea - http://dbpedia.org/resource/Tea
-tobacco - http://dbpedia.org/resource/Tobacco
-article - http://dbpedia.org/resource/Falklands_War
-protestant - http://dbpedia.org/resource/Protestantism
-copyright - http://dbpedia.org/resource/Copyright
-charter - http://dbpedia.org/resource/Royal_charter
-sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
-spice - http://dbpedia.org/resource/Spice_trade
-coast - http://dbpedia.org/resource/Pacific_coast
-british irish - http://dbpedia.org/resource/Irish_migration_to_Great_Britain
-rivalry - http://dbpedia.org/resource/College_rivalry
-british government - http://dbpedia.org/resource/British_Empire
-royal governor - http://dbpedia.org/resource/Governor
-molasse - http://dbpedia.org/resource/Molasse
-indigenous - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
-roman catholics - http://dbpedia.org/resource/Catholic_Church
-market - http://dbpedia.org/resource/Market_economy
-timber - http://dbpedia.org/resource/Lumber
-chronic - http://dbpedia.org/resource/Chronic_condition
-trading post - http://dbpedia.org/resource/French_colonization_of_the_Americas
-cloth - http://dbpedia.org/resource/Textile
-east india company - http://dbpedia.org/resource/Dutch_East_India_Company
-portuguese - http://dbpedia.org/resource/Portuguese_language
-commonwealth - http://dbpedia.org/resource/Commonwealth_of_England
-west indian - http://dbpedia.org/resource/British_West_Indies
 hudson bay - http://dbpedia.org/resource/Hudson_Bay
-defy - http://dbpedia.org/resource/Motorola_Defy
-involve - http://dbpedia.org/resource/INVOLVE_(UK_National_Advisory_group)
-newfoundland - http://dbpedia.org/resource/Newfoundland_Colony
-dutch empire - http://dbpedia.org/resource/Dutch_Empire
-fragmentation - http://dbpedia.org/resource/Habitat_fragmentation
-governor - http://dbpedia.org/resource/Governor
-settler - http://dbpedia.org/resource/Settler
-paris - http://dbpedia.org/resource/Paris
+commonwealth - http://dbpedia.org/resource/Commonwealth_of_England
+molasses - http://dbpedia.org/resource/Molasses_Act
+monopolies - http://dbpedia.org/resource/Monopoly
+slaves - http://dbpedia.org/resource/History_of_slavery
+anglo - http://dbpedia.org/resource/Anglo
+copyright - http://dbpedia.org/resource/Copyright
+chronic - http://dbpedia.org/resource/Chronic_condition
+rivalry - http://dbpedia.org/resource/College_rivalry
+african slaves - http://dbpedia.org/resource/History_of_slavery
+east india company - http://dbpedia.org/resource/Dutch_East_India_Company
 north america - http://dbpedia.org/resource/North_America
-manufactured good - http://dbpedia.org/resource/Final_good
+governing body - http://dbpedia.org/resource/Government
+roman catholics - http://dbpedia.org/resource/Catholic_Church
+american colonies - http://dbpedia.org/resource/Thirteen_Colonies
+east indies - http://dbpedia.org/resource/East_Indies
+article - http://dbpedia.org/resource/Falklands_War
 fish - http://dbpedia.org/resource/Fishing
-hegemony - http://dbpedia.org/resource/Hegemony
-colonial assembly - http://dbpedia.org/resource/Colonial_government_in_the_Thirteen_Colonies
+paris - http://dbpedia.org/resource/Paris
+goods - http://dbpedia.org/resource/Final_good
 african slave trade - http://dbpedia.org/resource/Atlantic_slave_trade
-american west - http://dbpedia.org/resource/Western_United_States
-reserve - http://dbpedia.org/resource/Indian_reserve
-fur - http://dbpedia.org/resource/Fur_trade
+west indian - http://dbpedia.org/resource/British_West_Indies
+spices - http://dbpedia.org/resource/Spice_trade
+electronic - http://dbpedia.org/resource/Electronics
+tea - http://dbpedia.org/resource/Tea
+sugar - http://dbpedia.org/resource/Sugar_plantations_in_the_Caribbean
+mughal empire - http://dbpedia.org/resource/Mughal_Empire
+american revolution - http://dbpedia.org/resource/American_Revolution
+columbia - http://dbpedia.org/resource/Cuban_rumba
+columbia university press - http://dbpedia.org/resource/Columbia_University_Press
+hegemony - http://dbpedia.org/resource/Hegemony
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+cloth - http://dbpedia.org/resource/Textile
+market - http://dbpedia.org/resource/Market_economy
+newfoundland - http://dbpedia.org/resource/Newfoundland_Colony
+portuguese - http://dbpedia.org/resource/Portuguese_language
+absorption - http://dbpedia.org/resource/Small_intestine
+friction - http://dbpedia.org/resource/Friction
+indigenous - http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas
+indian colonies - http://dbpedia.org/resource/Indian_colony
+tobacco - http://dbpedia.org/resource/Tobacco
+protestant dissenters - http://dbpedia.org/resource/English_Dissenters
+plantations - http://dbpedia.org/resource/Plantation_economy
+colonies - http://dbpedia.org/resource/Thirteen_Colonies
+british government - http://dbpedia.org/resource/British_Empire
+fragmentation - http://dbpedia.org/resource/Habitat_fragmentation
+british empire - http://dbpedia.org/resource/British_Empire
+irish history - http://dbpedia.org/resource/History_of_Ireland
+chartered companies - http://dbpedia.org/resource/Chartered_company
+timber - http://dbpedia.org/resource/Lumber

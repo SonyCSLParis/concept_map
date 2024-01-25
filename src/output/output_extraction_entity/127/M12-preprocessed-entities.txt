@@ -3,7 +3,6 @@ arnulf de montgomery - http://dbpedia.org/resource/Arnulf_de_Montgomery
 bailey - http://dbpedia.org/resource/Motte-and-bailey_castle
 promontory - http://dbpedia.org/resource/Promontory
 siege - http://dbpedia.org/resource/Siege
-defender - http://dbpedia.org/resource/Defendant
 starvation - http://dbpedia.org/resource/Starvation
 tower - http://dbpedia.org/resource/Keep
 stone - http://dbpedia.org/resource/Masonry
@@ -18,16 +17,13 @@ strongbow - http://dbpedia.org/resource/Richard_de_Clare,_2nd_Earl_of_Pembroke
 ireland - http://dbpedia.org/resource/Ireland
 wholesale - http://dbpedia.org/resource/Wholesaling
 stone - http://dbpedia.org/resource/Masonry
-castle gatehouse - http://dbpedia.org/resource/Castle_Gatehouse,_Washington_Aqueduct
+gatehouse - http://dbpedia.org/resource/Gatehouse
 barbican - http://dbpedia.org/resource/Barbican
-portcullis - http://dbpedia.org/resource/Portcullis
-arch - http://dbpedia.org/resource/Arch
+flying arch - http://dbpedia.org/resource/Flying_arch
 gatehouse - http://dbpedia.org/resource/Gatehouse
 puzzle - http://dbpedia.org/resource/Puzzle
-repel - http://dbpedia.org/resource/Repel
 gatehouse - http://dbpedia.org/resource/Gatehouse
 defence - http://dbpedia.org/resource/Military
-military architect - http://dbpedia.org/resource/Military_engineering
 medieval - http://dbpedia.org/resource/Middle_Ages
 pembroke - http://dbpedia.org/resource/Pembroke_Parish
 britain - http://dbpedia.org/resource/Roman_Britain
@@ -37,12 +33,10 @@ pembroke - http://dbpedia.org/resource/Pembroke_Parish
 masonry - http://dbpedia.org/resource/Masonry
 henry vii - http://dbpedia.org/resource/Henry_VII_of_England
 tudor - http://dbpedia.org/resource/House_of_Tudor
-bear - http://dbpedia.org/resource/Bear
 tower - http://dbpedia.org/resource/Keep
 henry vii - http://dbpedia.org/resource/Henry_VII_of_England
 tower - http://dbpedia.org/resource/Keep
 king charles - http://dbpedia.org/resource/Charles_I_of_England
-charles castle - http://dbpedia.org/resource/Charles_Castle
 royalist - http://dbpedia.org/resource/Cavalier
 roundheads - http://dbpedia.org/resource/Roundhead
 cromwell - http://dbpedia.org/resource/Oliver_Cromwell
@@ -52,7 +46,7 @@ charitable trust - http://dbpedia.org/resource/Charitable_trust
 arnulf de montgomery - http://dbpedia.org/resource/Arnulf_de_Montgomery
 tableaux - http://dbpedia.org/resource/Tableau_vivant
 henry vii - http://dbpedia.org/resource/Henry_VII_of_England
-stock - http://dbpedia.org/resource/Livestock
+stocked - http://dbpedia.org/resource/Fish_stock
 gift shop - http://dbpedia.org/resource/Gift_shop
 cafe - http://dbpedia.org/resource/Coffeehouse
 brass rubbing - http://dbpedia.org/resource/Brass_rubbing

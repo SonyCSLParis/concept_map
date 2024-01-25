@@ -1,59 +1,54 @@
-atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
-otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
-contamination - http://dbpedia.org/resource/Radioactive_contamination
-strictly confidential - http://dbpedia.org/resource/Strictly_Confidential_(TV_series)
-nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-cold war - http://dbpedia.org/resource/Cold_War
-lb - http://dbpedia.org/resource/Rail_profile
-committee - http://dbpedia.org/resource/Committee
-rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
-public record office - http://dbpedia.org/resource/Public_Record_Office
-roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
-radioactivity - http://dbpedia.org/resource/Radioactive_decay
-explosion - http://dbpedia.org/resource/Nuclear_explosion
-britain - http://dbpedia.org/resource/United_Kingdom
-radiation - http://dbpedia.org/resource/Radioactive_decay
-big city - http://dbpedia.org/resource/Lenny_White
-deterrence - http://dbpedia.org/resource/Deterrence_theory
-radioactive - http://dbpedia.org/resource/Radioactive_decay
-downwind - http://dbpedia.org/resource/Windward_and_leeward
-encyclopedia - http://dbpedia.org/resource/Encyclopedia
-air defence - http://dbpedia.org/resource/Anti-aircraft_warfare
-kew - http://dbpedia.org/resource/Kew_Gardens
-albert einstein - http://dbpedia.org/resource/Albert_Einstein
-franklin - http://dbpedia.org/resource/The_Franklin's_Tale
-blue plaque - http://dbpedia.org/resource/Blue_plaque
-memorandum - http://dbpedia.org/resource/Memorandum
 uranium-235 - http://dbpedia.org/resource/Uranium-235
-kilogram - http://dbpedia.org/resource/Kilogram
-uranium - http://dbpedia.org/resource/Uranium-235
-leó szilárd - http://dbpedia.org/resource/Leo_Szilard
-birmingham - http://dbpedia.org/resource/University_of_Birmingham
-isotope - http://dbpedia.org/resource/Isotope
-geopolitic - http://dbpedia.org/resource/Geopolitics
-energy - http://dbpedia.org/resource/Energy
-president - http://dbpedia.org/resource/President_of_the_United_States
-set free - http://dbpedia.org/resource/Set_Free_(film)
-ton - http://dbpedia.org/resource/Ton
-sun - http://dbpedia.org/resource/Sun
-outline - http://dbpedia.org/resource/Nutrition
-physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
-critical mass - http://dbpedia.org/resource/Critical_mass
-manhattan project - http://dbpedia.org/resource/Manhattan_Project
-scientist - http://dbpedia.org/resource/Scientist
-hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
-wind - http://dbpedia.org/resource/Wind
-oliphant - http://dbpedia.org/resource/Olifant_(instrument)
-atomic nucleus - http://dbpedia.org/resource/Atomic_nucleus
-atomic bombing - http://dbpedia.org/resource/Nuclear_weapon
-germany - http://dbpedia.org/resource/Nazi_Germany
-decay - http://dbpedia.org/resource/Radioactive_decay
-defence - http://dbpedia.org/resource/National_security
-atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
-bomb - http://dbpedia.org/resource/Nuclear_weapon
-temperature - http://dbpedia.org/resource/Temperature
-maud committee - http://dbpedia.org/resource/MAUD_Committee
+kew - http://dbpedia.org/resource/Kew_Gardens
 henry tizard - http://dbpedia.org/resource/Henry_Tizard
-source energy - http://dbpedia.org/resource/Primary_energy
-tube alloys - http://dbpedia.org/resource/Tube_Alloys
+atomic weapon - http://dbpedia.org/resource/Nuclear_weapon
+set free - http://dbpedia.org/resource/Set_Free_(film)
+rudolf peierls - http://dbpedia.org/resource/Rudolf_Peierls
+physics - http://dbpedia.org/resource/Nobel_Prize_in_Physics
+public record office - http://dbpedia.org/resource/Public_Record_Office
+president - http://dbpedia.org/resource/President_of_the_United_States
+deterrence - http://dbpedia.org/resource/Deterrence_theory
+lb - http://dbpedia.org/resource/Rail_profile
+atomic nuclei - http://dbpedia.org/resource/Atomic_nucleus
+birmingham - http://dbpedia.org/resource/University_of_Birmingham
+memorandum - http://dbpedia.org/resource/Memorandum
+nagasaki - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+franklin - http://dbpedia.org/resource/The_Franklin's_Tale
+bomb - http://dbpedia.org/resource/Nuclear_weapon
+strictly confidential - http://dbpedia.org/resource/Strictly_Confidential_(TV_series)
+explosion - http://dbpedia.org/resource/Nuclear_explosion
+albert einstein - http://dbpedia.org/resource/Albert_Einstein
+defence - http://dbpedia.org/resource/National_security
+big city - http://dbpedia.org/resource/Lenny_White
+manhattan project - http://dbpedia.org/resource/Manhattan_Project
+critical mass - http://dbpedia.org/resource/Critical_mass
+roosevelt - http://dbpedia.org/resource/Franklin_D._Roosevelt
+contamination - http://dbpedia.org/resource/Radioactive_contamination
 weapon - http://dbpedia.org/resource/Nuclear_weapon
+maud committee - http://dbpedia.org/resource/MAUD_Committee
+geopolitics - http://dbpedia.org/resource/Geopolitics
+committee - http://dbpedia.org/resource/Committee
+sun - http://dbpedia.org/resource/Sun
+radioactivity - http://dbpedia.org/resource/Radioactive_decay
+encyclopedia - http://dbpedia.org/resource/Encyclopedia
+temperature - http://dbpedia.org/resource/Temperature
+germany - http://dbpedia.org/resource/Nazi_Germany
+outline - http://dbpedia.org/resource/Nutrition
+energy - http://dbpedia.org/resource/Energy
+kilogram - http://dbpedia.org/resource/Kilogram
+air defence - http://dbpedia.org/resource/Anti-aircraft_warfare
+blue plaque - http://dbpedia.org/resource/Blue_plaque
+britain - http://dbpedia.org/resource/United_Kingdom
+downwind - http://dbpedia.org/resource/Windward_and_leeward
+atomic bomb - http://dbpedia.org/resource/Nuclear_weapon
+tube alloys - http://dbpedia.org/resource/Tube_Alloys
+atomic bombings - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+cold war - http://dbpedia.org/resource/Cold_War
+isotope - http://dbpedia.org/resource/Isotope
+leó szilárd - http://dbpedia.org/resource/Leo_Szilard
+oliphant - http://dbpedia.org/resource/Olifant_(instrument)
+otto frisch - http://dbpedia.org/resource/Otto_Robert_Frisch
+uranium - http://dbpedia.org/resource/Uranium-235
+hiroshima - http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki
+radioactive - http://dbpedia.org/resource/Radioactive_decay
+wind - http://dbpedia.org/resource/Wind

@@ -1,105 +1,101 @@
-defendant - http://dbpedia.org/resource/Defendant
-spit - http://dbpedia.org/resource/Shoal
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
-sabbath - http://dbpedia.org/resource/Shabbat
-katherine - http://dbpedia.org/resource/Katherine_Jackson
-die - http://dbpedia.org/resource/Death
-acquit - http://dbpedia.org/resource/Acquittal
-town - http://dbpedia.org/resource/Market_town
-convict - http://dbpedia.org/resource/Conviction
-christine - http://dbpedia.org/resource/Christine_Blair
-abraham - http://dbpedia.org/resource/Abraham
-object - http://dbpedia.org/resource/Non-physical_entity
-primary source - http://dbpedia.org/resource/Primary_source
-james alison - http://dbpedia.org/resource/James_Alison
-evil - http://dbpedia.org/resource/Evil
-sir edward bromley - http://dbpedia.org/resource/Edward_Bromley
-penny - http://dbpedia.org/resource/Penny
-hidden agenda - http://dbpedia.org/resource/Parasol_Records
-isobel - http://dbpedia.org/resource/Isabella_Burns
-james ready - http://dbpedia.org/resource/James_Ready
-seal - http://dbpedia.org/resource/Pinniped
-judge - http://dbpedia.org/resource/Judge
-bedside - http://dbpedia.org/resource/Bedside
-peddler - http://dbpedia.org/resource/Peddler
-gunpowder plot - http://dbpedia.org/resource/Gunpowder_Plot
-roast lamb - http://dbpedia.org/resource/Lamb_and_mutton
-witchcraft - http://dbpedia.org/resource/Witchcraft
-law - http://dbpedia.org/resource/Common_law
-crime - http://dbpedia.org/resource/Crime
-forgiveness - http://dbpedia.org/resource/Forgiveness
-summer assize - http://dbpedia.org/resource/Assizes
-murder - http://dbpedia.org/resource/Murder
-inescapable - http://dbpedia.org/resource/Inescapable_(song)
-alice - http://dbpedia.org/resource/Alice_and_Bob
 assize - http://dbpedia.org/resource/Assizes
-guy fawkes - http://dbpedia.org/resource/Guy_Fawkes
-alison - http://dbpedia.org/resource/Alison_DiLaurentis
-thomas potts - http://dbpedia.org/resource/Thomas_Potts
-dock - http://dbpedia.org/resource/Space_rendezvous
-magistrate - http://dbpedia.org/resource/Magistrate
-hearsay evidence - http://dbpedia.org/resource/Hearsay
-memory - http://dbpedia.org/resource/Memory
-lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
-drag - http://dbpedia.org/resource/Cross-dressing
-mount pony - http://dbpedia.org/resource/National_Audio-Visual_Conservation_Center
-curse - http://dbpedia.org/resource/Curse
-clay - http://dbpedia.org/resource/Clay
-indoctrinate - http://dbpedia.org/resource/Indoctrination
-henry - http://dbpedia.org/resource/Henry_(unit)
-john law - http://dbpedia.org/resource/John_Law_(economist)
-northern circuit - http://dbpedia.org/resource/Northern_Circuit
-bromley - http://dbpedia.org/resource/Bromley
-jennet - http://dbpedia.org/resource/Jennet
-hinge - http://dbpedia.org/resource/Hinge
-mitton - http://dbpedia.org/resource/Great_Mitton
-infertile - http://dbpedia.org/resource/Infertility
-roby - http://dbpedia.org/resource/Roby_railway_station
-court - http://dbpedia.org/resource/Court
-scattered hamlet - http://dbpedia.org/resource/Scattered_Hamlet
-health - http://dbpedia.org/resource/Health
-jane - http://dbpedia.org/resource/Jane_Beale
-lancashire - http://dbpedia.org/resource/Lancashire
-lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
-catholic - http://dbpedia.org/resource/Catholic_Church
-horse - http://dbpedia.org/resource/Horse
+witchcraft trials - http://dbpedia.org/resource/Witch-hunt
 brush - http://dbpedia.org/resource/Brush
-elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
-inn - http://dbpedia.org/resource/Pub
-rhetoric - http://dbpedia.org/resource/Rhetoric
-stark - http://dbpedia.org/resource/House_of_Night
-bias - http://dbpedia.org/resource/Prejudice
-bewitch - http://dbpedia.org/resource/Bewitch
-halifax - http://dbpedia.org/resource/Handley_Page_Halifax
-witchcraft trial - http://dbpedia.org/resource/Witch-hunt
-hag - http://dbpedia.org/resource/Hag
-thomas covell - http://dbpedia.org/resource/Thomas_Covell
-gentlewoman - http://dbpedia.org/resource/Landed_gentry
-family - http://dbpedia.org/resource/Family
-robert nutter - http://dbpedia.org/resource/Robert_Nutter
-malkin tower - http://dbpedia.org/resource/Malkin_Tower
-countie - http://dbpedia.org/resource/Uyezd
-margaret - http://dbpedia.org/resource/Margaret_of_Anjou
-samlesbury - http://dbpedia.org/resource/Samlesbury
-image order - http://dbpedia.org/resource/Image_and_object_order_rendering
-pendle witches - http://dbpedia.org/resource/Pendle_witches
+john law - http://dbpedia.org/resource/John_Law_(economist)
 alice nutter - http://dbpedia.org/resource/Alice_Nutter_(writer)
-witches - http://dbpedia.org/resource/Witchcraft
-familiar spirit - http://dbpedia.org/resource/Familiar_spirit
-anne - http://dbpedia.org/resource/Anne_of_Denmark
-dog - http://dbpedia.org/resource/Dog
-pendle forest - http://dbpedia.org/resource/Forest_of_Pendle
-snowball - http://dbpedia.org/resource/Snowball
-pin - http://dbpedia.org/resource/Pin
-grace - http://dbpedia.org/resource/Divine_grace
-roughlee - http://dbpedia.org/resource/Roughlee
-stroke - http://dbpedia.org/resource/Stroke
+summer assize - http://dbpedia.org/resource/Assizes
+sabbath - http://dbpedia.org/resource/Shabbat
+april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings
+gentlewoman - http://dbpedia.org/resource/Landed_gentry
+christine - http://dbpedia.org/resource/Christine_Blair
+intruded - http://dbpedia.org/resource/Intrusive_rock
+abraham - http://dbpedia.org/resource/Abraham
+hamlets - http://dbpedia.org/resource/Hamlet_(place)
+witchcraft - http://dbpedia.org/resource/Witchcraft
 pendle - http://dbpedia.org/resource/Pendle_witches
-spring day - http://dbpedia.org/resource/Spring_Day
-assize court - http://dbpedia.org/resource/Assizes
-governor - http://dbpedia.org/resource/Governor
-windle - http://dbpedia.org/resource/Windle,_St_Helens
-good friday - http://dbpedia.org/resource/Good_Friday
+lancaster castle - http://dbpedia.org/resource/Lancaster_Castle
+evil - http://dbpedia.org/resource/Evil
+pin - http://dbpedia.org/resource/Pin
 colne - http://dbpedia.org/resource/Colne
-moor - http://dbpedia.org/resource/Moorland
+mitton - http://dbpedia.org/resource/Great_Mitton
+samlesbury - http://dbpedia.org/resource/Samlesbury
+murder - http://dbpedia.org/resource/Murder
+infertile - http://dbpedia.org/resource/Infertility
+sir edward bromley - http://dbpedia.org/resource/Edward_Bromley
+court - http://dbpedia.org/resource/Court
+gunpowder plot - http://dbpedia.org/resource/Gunpowder_Plot
+grace - http://dbpedia.org/resource/Divine_grace
+clay - http://dbpedia.org/resource/Clay
+law - http://dbpedia.org/resource/Common_law
+familiar spirit - http://dbpedia.org/resource/Familiar_spirit
+countie - http://dbpedia.org/resource/Uyezd
+lancashire - http://dbpedia.org/resource/Lancashire
+rhetoric - http://dbpedia.org/resource/Rhetoric
+dock - http://dbpedia.org/resource/Space_rendezvous
+health - http://dbpedia.org/resource/Health
+spit - http://dbpedia.org/resource/Shoal
+inn - http://dbpedia.org/resource/Pub
+stark - http://dbpedia.org/resource/House_of_Night
+halifax - http://dbpedia.org/resource/Handley_Page_Halifax
+witches - http://dbpedia.org/resource/Witchcraft
+object - http://dbpedia.org/resource/Non-physical_entity
+robert nutter - http://dbpedia.org/resource/Robert_Nutter
+hidden agenda - http://dbpedia.org/resource/Parasol_Records
+windle - http://dbpedia.org/resource/Windle,_St_Helens
+acquitted - http://dbpedia.org/resource/Acquittal
+thomas covell - http://dbpedia.org/resource/Thomas_Covell
+seal - http://dbpedia.org/resource/Pinniped
+inescapable - http://dbpedia.org/resource/Inescapable_(song)
+peddler - http://dbpedia.org/resource/Peddler
+governor - http://dbpedia.org/resource/Governor
+primary source - http://dbpedia.org/resource/Primary_source
+roughlee - http://dbpedia.org/resource/Roughlee
+memory - http://dbpedia.org/resource/Memory
+magistrate - http://dbpedia.org/resource/Magistrate
+margaret - http://dbpedia.org/resource/Margaret_of_Anjou
+penny - http://dbpedia.org/resource/Penny
+katherine - http://dbpedia.org/resource/Katherine_Jackson
+malkin tower - http://dbpedia.org/resource/Malkin_Tower
+town - http://dbpedia.org/resource/Market_town
+assize court - http://dbpedia.org/resource/Assizes
+bromley - http://dbpedia.org/resource/Bromley
+ponies - http://dbpedia.org/resource/Pony
+bedside - http://dbpedia.org/resource/Bedside
+spring day - http://dbpedia.org/resource/Spring_Day
+guy fawkes - http://dbpedia.org/resource/Guy_Fawkes
+crime - http://dbpedia.org/resource/Crime
+isobel - http://dbpedia.org/resource/Isabella_Burns
+thomas potts - http://dbpedia.org/resource/Thomas_Potts
+elizabeth - http://dbpedia.org/resource/Elizabeth_I_of_England
+stroke - http://dbpedia.org/resource/Stroke
+hearsay evidence - http://dbpedia.org/resource/Hearsay
+roby - http://dbpedia.org/resource/Roby_railway_station
+familiar spirits - http://dbpedia.org/resource/Familiar_spirit
+pendle forest - http://dbpedia.org/resource/Forest_of_Pendle
+family - http://dbpedia.org/resource/Family
+judge - http://dbpedia.org/resource/Judge
+roasted - http://dbpedia.org/resource/Rotisserie
+good friday - http://dbpedia.org/resource/Good_Friday
+alison - http://dbpedia.org/resource/Alison_DiLaurentis
+jane - http://dbpedia.org/resource/Jane_Beale
+northern circuit - http://dbpedia.org/resource/Northern_Circuit
+king james - http://dbpedia.org/resource/James_VI_and_I
+alice - http://dbpedia.org/resource/Alice_and_Bob
+pendle witches - http://dbpedia.org/resource/Pendle_witches
+gallows - http://dbpedia.org/resource/Gallows
+horse - http://dbpedia.org/resource/Horse
 religion - http://dbpedia.org/resource/Religion
+anne - http://dbpedia.org/resource/Anne_of_Denmark
+lancaster - http://dbpedia.org/resource/Duchy_of_Lancaster
+hanged - http://dbpedia.org/resource/Hanging
+hag - http://dbpedia.org/resource/Hag
+paralysed - http://dbpedia.org/resource/Paralysis
+dog - http://dbpedia.org/resource/Dog
+riding - http://dbpedia.org/resource/Equestrianism
+jennet - http://dbpedia.org/resource/Jennet
+begging - http://dbpedia.org/resource/Begging
+curse - http://dbpedia.org/resource/Curse
+forgiveness - http://dbpedia.org/resource/Forgiveness
+moors - http://dbpedia.org/resource/Moorland
+henry - http://dbpedia.org/resource/Henry_(unit)
+catholic - http://dbpedia.org/resource/Catholic_Church

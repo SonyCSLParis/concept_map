@@ -1,19 +1,14 @@
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-day dawn - http://dbpedia.org/resource/Day_Dawn,_Western_Australia
 sunny - http://dbpedia.org/resource/Nissan_Sunny
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-penrith - http://dbpedia.org/resource/Penrith_Panthers
 cumbria - http://dbpedia.org/resource/Cumbria
 norman - http://dbpedia.org/resource/Norman_conquest_of_England
 family - http://dbpedia.org/resource/Family
 vieuxpont - http://dbpedia.org/resource/Vieuxpont
 stone - http://dbpedia.org/resource/Stonemasonry
 timber - http://dbpedia.org/resource/Lumber
-scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
 robert clifford - http://dbpedia.org/resource/Bob_Clifford
-edward - http://dbpedia.org/resource/Edward_I_of_England
 gcse - http://dbpedia.org/resource/General_Certificate_of_Secondary_Education
-historian - http://dbpedia.org/resource/Historian
-remainder term - http://dbpedia.org/resource/Series_(mathematics)
 ms - http://dbpedia.org/resource/Millisecond
 lomas - http://dbpedia.org/resource/Lomas

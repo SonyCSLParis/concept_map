@@ -2,12 +2,13 @@ great britain - http://dbpedia.org/resource/Kingdom_of_Great_Britain
 drakon - http://dbpedia.org/resource/Dragons_in_Greek_mythology
 agriculture - http://dbpedia.org/resource/Agriculture
 food - http://dbpedia.org/resource/Food
-soldier - http://dbpedia.org/resource/British_Army
+nt - http://dbpedia.org/resource/Nucleotide
+colonial empires - http://dbpedia.org/resource/Colonialism
 ancient régime - http://dbpedia.org/resource/Ancien_Régime
-colony - http://dbpedia.org/resource/Colony
-colony - http://dbpedia.org/resource/Colony
+colonies - http://dbpedia.org/resource/Spanish_Empire
+colonies - http://dbpedia.org/resource/Spanish_Empire
 napoléon - http://dbpedia.org/resource/Napoleon
-french colonial empire - http://dbpedia.org/resource/French_colonial_empire
+nt - http://dbpedia.org/resource/Nucleotide
 sq - http://dbpedia.org/resource/Stereo_Quadraphonic
 sq - http://dbpedia.org/resource/Stereo_Quadraphonic
 british empire - http://dbpedia.org/resource/British_Empire

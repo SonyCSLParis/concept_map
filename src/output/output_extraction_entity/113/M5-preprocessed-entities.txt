@@ -3,7 +3,7 @@ civilization - http://dbpedia.org/resource/Maya_civilization
 theology - http://dbpedia.org/resource/Theology
 faith - http://dbpedia.org/resource/Faith
 city - http://dbpedia.org/resource/City
-missionary - http://dbpedia.org/resource/Missionary
+missionaries - http://dbpedia.org/resource/Missionary
 gautama buddha - http://dbpedia.org/resource/Gautama_Buddha
 city - http://dbpedia.org/resource/City
 missionaries - http://dbpedia.org/resource/Missionary
@@ -19,10 +19,9 @@ borobudur - http://dbpedia.org/resource/Borobudur
 buddhist - http://dbpedia.org/resource/Buddhism
 candi - http://dbpedia.org/resource/Candi_of_Indonesia
 magelang - http://dbpedia.org/resource/Magelang
-stupa - http://dbpedia.org/resource/Stupa
+stupas - http://dbpedia.org/resource/Stupa
 stupa - http://dbpedia.org/resource/Stupa
 bas relief - http://dbpedia.org/resource/Relief
-relief carving - http://dbpedia.org/resource/Relief_carving
 buddhist - http://dbpedia.org/resource/Buddhism
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 buddhist cosmology - http://dbpedia.org/resource/Buddhist_cosmology
@@ -30,8 +29,8 @@ borobudur - http://dbpedia.org/resource/Borobudur
 sailendra - http://dbpedia.org/resource/Shailendra_dynasty
 capital - http://dbpedia.org/resource/Capital_city
 medang kingdom - http://dbpedia.org/resource/Medang_Kingdom
-volcanic eruption - http://dbpedia.org/resource/Types_of_volcanic_eruptions
-pilgrimage - http://dbpedia.org/resource/Pilgrimage
+volcanic eruptions - http://dbpedia.org/resource/Volcano
+pilgrimages - http://dbpedia.org/resource/Pilgrimage
 borobudur - http://dbpedia.org/resource/Borobudur
 temple - http://dbpedia.org/resource/Candi_of_Indonesia
 jungle - http://dbpedia.org/resource/Jungle
@@ -40,7 +39,6 @@ sir stamford raffles - http://dbpedia.org/resource/Stamford_Raffles
 shrine - http://dbpedia.org/resource/Shrine
 lord buddha - http://dbpedia.org/resource/Gautama_Buddha
 buddhist pilgrimage - http://dbpedia.org/resource/Buddhist_pilgrimage_sites
-pilgrim - http://dbpedia.org/resource/Pilgrimage
 narrative - http://dbpedia.org/resource/Narrative
 relief - http://dbpedia.org/resource/Relief
-balustrade - http://dbpedia.org/resource/Baluster
+balustrades - http://dbpedia.org/resource/Baluster

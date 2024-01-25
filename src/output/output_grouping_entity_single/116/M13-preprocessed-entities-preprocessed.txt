@@ -1,11 +1,12 @@
-heritage - http://dbpedia.org/resource/Cultural_heritage
-jacobean - http://dbpedia.org/resource/Jacobean_architecture
-police - http://dbpedia.org/resource/Police
-grade ii - http://dbpedia.org/resource/Listed_building
-land registry - http://dbpedia.org/resource/Land_registration
 public knowledge - http://dbpedia.org/resource/Public_Knowledge
-property developer - http://dbpedia.org/resource/Real_estate_development
-city - http://dbpedia.org/resource/City
-bramshill house - http://dbpedia.org/resource/Bramshill_House
-medieval - http://dbpedia.org/resource/Middle_Ages
+police - http://dbpedia.org/resource/Police
 government department - http://dbpedia.org/resource/Departments_of_the_Government_of_the_United_Kingdom
+land registry - http://dbpedia.org/resource/Land_registration
+jacobean - http://dbpedia.org/resource/Jacobean_architecture
+bramshill house - http://dbpedia.org/resource/Bramshill_House
+listed building - http://dbpedia.org/resource/Listed_building
+grade ii listed - http://dbpedia.org/resource/Listed_building
+medieval - http://dbpedia.org/resource/Middle_Ages
+property developers - http://dbpedia.org/resource/Real_estate_development
+heritage - http://dbpedia.org/resource/Cultural_heritage
+city - http://dbpedia.org/resource/City

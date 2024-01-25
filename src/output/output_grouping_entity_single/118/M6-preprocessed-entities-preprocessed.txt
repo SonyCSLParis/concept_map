@@ -1,49 +1,41 @@
-lord brougham - http://dbpedia.org/resource/Henry_Brougham,_1st_Baron_Brougham_and_Vaux
-pooley bridge - http://dbpedia.org/resource/Pooley_Bridge
-english heritage - http://dbpedia.org/resource/English_Heritage
-roman fort - http://dbpedia.org/resource/Castra
-family - http://dbpedia.org/resource/Family
-culgaith - http://dbpedia.org/resource/Culgaith
-stone - http://dbpedia.org/resource/Stonemasonry
-lady anne - http://dbpedia.org/resource/Anne_Neville
-brough - http://dbpedia.org/resource/Brough_Castle
-lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
-die - http://dbpedia.org/resource/Death
-shap - http://dbpedia.org/resource/Shap
-guide book - http://dbpedia.org/resource/Guide_book
-defence - http://dbpedia.org/resource/Military
-vieuxpont - http://dbpedia.org/resource/Vieuxpont
-a66 - http://dbpedia.org/resource/A66_road
-river eden - http://dbpedia.org/resource/River_Eden,_Cumbria
-penrith - http://dbpedia.org/resource/Penrith_railway_station
-scottish war - http://dbpedia.org/resource/Wars_of_Scottish_Independence
-fortress - http://dbpedia.org/resource/Castra
-chamber - http://dbpedia.org/resource/Debate_chamber
-river lowther - http://dbpedia.org/resource/River_Lowther
-pendragon - http://dbpedia.org/resource/Pendragon
-robert clifford - http://dbpedia.org/resource/Bob_Clifford
-tombstone - http://dbpedia.org/resource/Headstone
-wet sleddale reservoir - http://dbpedia.org/resource/Wet_Sleddale_Reservoir
-historic county - http://dbpedia.org/resource/Historic_counties_of_England
-westmorland - http://dbpedia.org/resource/Westmorland
-admire - http://dbpedia.org/resource/Admire,_Kansas
-castle building - http://dbpedia.org/resource/Castle_Building
-eamont bridge - http://dbpedia.org/resource/Eamont_Bridge
-grid - http://dbpedia.org/resource/Grid_plan
-skipton - http://dbpedia.org/resource/Skipton_Castle
-brocavum - http://dbpedia.org/resource/Brocavum
-fort - http://dbpedia.org/resource/Castra
-pallisade - http://dbpedia.org/resource/Palisade
-church - http://dbpedia.org/resource/Church_architecture
-bear - http://dbpedia.org/resource/Teddy_bear
 askham - http://dbpedia.org/resource/Askham_Bryan
-norman - http://dbpedia.org/resource/Norman_conquest_of_England
 timber - http://dbpedia.org/resource/Timber_framing
-eamont - http://dbpedia.org/resource/River_Eamont
+culgaith - http://dbpedia.org/resource/Culgaith
+castle buildings - http://dbpedia.org/resource/Castle_Buildings
+brocavum - http://dbpedia.org/resource/Brocavum
+family - http://dbpedia.org/resource/Family
+guide book - http://dbpedia.org/resource/Guide_book
+historic county - http://dbpedia.org/resource/Historic_counties_of_England
+lady anne clifford - http://dbpedia.org/resource/Lady_Anne_Clifford,_14th_Baroness_de_Clifford
+skipton - http://dbpedia.org/resource/Skipton_Castle
+brough - http://dbpedia.org/resource/Brough_Castle
 roman - http://dbpedia.org/resource/Roman_Empire
+pendragon - http://dbpedia.org/resource/Pendragon
+chamber - http://dbpedia.org/resource/Debate_chamber
+pallisade - http://dbpedia.org/resource/Palisade
+roman fort - http://dbpedia.org/resource/Castra
+wet sleddale reservoir - http://dbpedia.org/resource/Wet_Sleddale_Reservoir
+river lowther - http://dbpedia.org/resource/River_Lowther
+lady anne - http://dbpedia.org/resource/Anne_Neville
+eamont - http://dbpedia.org/resource/River_Eamont
+penrith - http://dbpedia.org/resource/Penrith_railway_station
+english heritage - http://dbpedia.org/resource/English_Heritage
+eamont bridge - http://dbpedia.org/resource/Eamont_Bridge
 brougham - http://dbpedia.org/resource/Brougham_(carriage)
-river eamont - http://dbpedia.org/resource/River_Eamont
+grid - http://dbpedia.org/resource/Grid_plan
 brougham castle - http://dbpedia.org/resource/Brougham_Castle
-sleep - http://dbpedia.org/resource/Sleep
-midsummer - http://dbpedia.org/resource/Midsummer
 appleby - http://dbpedia.org/resource/Appleby_Castle
+a66 - http://dbpedia.org/resource/A66_road
+vieuxpont - http://dbpedia.org/resource/Vieuxpont
+midsummer - http://dbpedia.org/resource/Midsummer
+fortress - http://dbpedia.org/resource/Castra
+robert clifford - http://dbpedia.org/resource/Bob_Clifford
+westmorland - http://dbpedia.org/resource/Westmorland
+stone - http://dbpedia.org/resource/Stonemasonry
+river eamont - http://dbpedia.org/resource/River_Eamont
+shap - http://dbpedia.org/resource/Shap
+fort - http://dbpedia.org/resource/Castra
+norman - http://dbpedia.org/resource/Norman_architecture
+scottish wars - http://dbpedia.org/resource/Wars_of_Scottish_Independence
+pooley bridge - http://dbpedia.org/resource/Pooley_Bridge
+river eden - http://dbpedia.org/resource/River_Eden,_Cumbria

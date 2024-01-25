@@ -1,7 +1,7 @@
 bruce castle museum - http://dbpedia.org/resource/Bruce_Castle
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
+listed - http://dbpedia.org/resource/Listed_building
 manor house - http://dbpedia.org/resource/Manor_house
-acre - http://dbpedia.org/resource/Acre
 william compton - http://dbpedia.org/resource/William_Compton_(courtier)
 henry viii - http://dbpedia.org/resource/Henry_VIII_of_England
 court - http://dbpedia.org/resource/Royal_court
@@ -16,7 +16,6 @@ victorian period - http://dbpedia.org/resource/Victorian_era
 british postal system - http://dbpedia.org/resource/Royal_Mail
 penny post - http://dbpedia.org/resource/Penny_Post
 bruce castle - http://dbpedia.org/resource/Bruce_Castle
-open museum - http://dbpedia.org/resource/Open_Museum
 borough - http://dbpedia.org/resource/Borough
 haringey - http://dbpedia.org/resource/London_Borough_of_Haringey
 local history - http://dbpedia.org/resource/Local_history
