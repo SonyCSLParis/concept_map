@@ -5,23 +5,18 @@ from settings import *
 
 
 def transform_content(input_content):
-    result = []
+    results = []
     for item in input_content:
-        # Use regular expression to find all dictionary-like structures in the string
-        matches = re.findall(r'\{.*?\}', item)
-        for match in matches:
-            # Safely evaluate each dictionary-like structure
-            item_dict = ast.literal_eval(match)
-
-            head = item_dict['head']
-            type_ = re.sub(r'ed in$', 'ed, entered, in', item_dict['type'])
-            type_ = re.sub(r' by$', ' by, entered, by', type_)
-            type_ = re.sub(r'$', ', placed, ', type_)
-
-            tail = item_dict['tail']
-            result.append(f"{head}, {type_}, {tail}")
-
-    return result
+        regex = r"('head'|'type'|'tail')"
+        subst = ""
+        result = re.sub(regex, subst, item, 0, re.MULTILINE)
+        regex_2 = r"(:|\[\{|\s{2,})"
+        result_2 = re.sub(regex_2, subst, result, 0, re.MULTILINE)
+        regex_3 = r"\[\{"
+        subst_2= "\\n"
+        result_3 = re.sub(regex_3, subst_2, result_2, 0, re.MULTILINE)
+        results.append(result_3)
+    return results
 
 def save_to_file(output_text, output_file_path):
     with open(output_file_path, 'w') as output_file:

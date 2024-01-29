@@ -2,17 +2,20 @@
 """
 Running experiments
 """
-import os
 import json
-from tqdm import tqdm
-from typing import Union, List
+import os
+import time
 from datetime import datetime
-import spacy
-from data_load import DataLoader
-from pipeline import CMPipeline
-from evaluation import EvaluationMetrics
-from loguru import logger
+from typing import Union, List
 
+import spacy
+from loguru import logger
+from tqdm import tqdm
+
+from data_load import DataLoader
+from evaluation import EvaluationMetrics
+from pipeline import CMPipeline
+from settings import *
 
 def get_save_folder():
     """ Save folder """
@@ -30,16 +33,17 @@ def create_folders(folder_path: str):
 def save_data(preprocess, entities, relations, save_folder, name):
     """ Save intermediate steps data """
     with open(os.path.join(
-        save_folder, "relation", f"{name}.txt"), "w", encoding="utf-8") as output_file:
+            save_folder, "relation", f"{name}.txt"), "w", encoding="utf-8") as output_file:
         output_file.write("\n".join([", ".join([x for x in rel]) for rel in relations]))
 
     with open(os.path.join(
-        save_folder, "preprocess", f"{name}.txt"), "w", encoding="utf-8") as output_file:
+            save_folder, "preprocess", f"{name}.txt"), "w", encoding="utf-8") as output_file:
         output_file.write("\n".join(preprocess))
 
     with open(os.path.join(
-        save_folder, "entity", f"{name}.json"), "w", encoding="utf-8") as openfile:
+            save_folder, "entity", f"{name}.json"), "w", encoding="utf-8") as openfile:
         json.dump({"entities": entities}, openfile, indent=4)
+
 
 def get_gs_triples(file_path):
     res = open(file_path, "r").readlines()
@@ -48,6 +52,7 @@ def get_gs_triples(file_path):
 
 class ExperimentRun:
     """ Running a full experiment """
+
     def __init__(self,
                  # Param for data
                  folder_path: str, type_data: str, one_cm: bool,
@@ -59,8 +64,11 @@ class ExperimentRun:
                  confidence: Union[float, None] = None,
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
-                 local_rm: Union[bool, None] = None ):
+                 local_rm: Union[bool, None] = None):
         self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm)
+
+        print("Data Loader done!")
+
         self.pipeline = CMPipeline(
             options_rel=options_rel, preprocess=preprocess, spacy_model=spacy_model,
             options_ent=options_ent, confidence=confidence,
@@ -113,12 +121,14 @@ class ExperimentRun:
                     save_data(relations=relations, preprocess=preprocess, entities=entities,
                               save_folder=curr_folder, name=name)
                     all_relations += relations
+                print("Pipeline & Preprocessing done")
 
                 #  Run evaluation
                 gs_triples = get_gs_triples(file_path=folder_info["gs"])
                 all_relations = list(set(all_relations))
                 curr_metrics = self.evaluation_metrics(triples=all_relations, gold_triples=gs_triples)
                 metrics[folder] = curr_metrics
+                print("Evaluation done, saving metrics..")
 
                 # Save metrics
                 with open(os.path.join(save_folder, "metrics.json"), "w", encoding="utf-8") as openfile:
@@ -127,13 +137,14 @@ class ExperimentRun:
 
 if __name__ == '__main__':
     EXPERIMENTR = ExperimentRun(
-        folder_path="./src/data/Corpora_Falke/Wiki/train/111",
-        type_data="multi", one_cm=True,
+        # folder_path=WIKI_TRAIN + "101",
+        folder_path=WIKI_TRAIN,
+        type_data="multi", one_cm=False,
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["dbpedia_spotlight"],
         confidence=0.35,
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True)
+        rebel_model=REBEL_DIR, local_rm=True)
     print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")

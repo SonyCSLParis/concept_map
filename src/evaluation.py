@@ -13,7 +13,7 @@ class EvaluationMetrics:
     def __init__(self):
         self.meteor = meteor_score
 
-        self.rouge_metrics = ['rouge1', 'rouge2', 'rougeL']
+        self.rouge_metrics = ['rouge1', 'rouge2']
         self.rouge = rouge_scorer.RougeScorer(self.rouge_metrics, use_stemmer=True)
     
     @staticmethod

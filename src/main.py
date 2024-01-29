@@ -3,7 +3,6 @@ from loguru import logger
 from settings import WIKI_TRAIN, OUTPUT_PREPROCESSING, OUTPUT_EXTRACTION_ENTITY, \
      OUTPUT_GROUPING_ENTITY_SINGLE_FILES, OUTPUT_GROUPING_ENTITY_SUBFOLDERS, HTML_CONCEPTS
 from preprocess import PreProcessor
-from extract_entities import EntityExtractor
 from group_entities import EntityGrouper
 from graph import GraphBuilder
 
