@@ -14,6 +14,7 @@ ROOT_DIR = os.getcwd()
 # DATA DIR
 DATA_DIR = os.path.join(ROOT_DIR + '/data')
 REBEL_DIR = os.path.join(ROOT_DIR + '/triples_from_text/finetuned_rebel.pth')
+EXPERIMENTS = os.path.join(ROOT_DIR + '/experiments')
 
 # corpora Falke
 CORPORA_FALKE = os.path.join(DATA_DIR + '/Corpora_Falke')

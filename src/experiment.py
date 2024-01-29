@@ -137,11 +137,11 @@ class ExperimentRun:
 
 if __name__ == '__main__':
     EXPERIMENTR = ExperimentRun(
-        # folder_path=WIKI_TRAIN + "101",
-        folder_path=WIKI_TRAIN,
-        type_data="multi", one_cm=False,
+        folder_path=WIKI_TRAIN + "101",
+        # folder_path=WIKI_TRAIN,
+        type_data="multi", one_cm=True,
         preprocess=True, spacy_model="en_core_web_lg",
-        options_ent=["dbpedia_spotlight"],
+        options_ent=["wordnet"],
         confidence=0.35,
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",

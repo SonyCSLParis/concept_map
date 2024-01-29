@@ -85,7 +85,12 @@ class RelationExtractor:
             res = []
             #TO CHECK (triples can appear multiple times)
             for entity in entities:
-                cands = [x for x in output_m if entity in x]
+                # Extract strings from the list of tuples
+                entity_strings = [item for tuple_item in entities for item in tuple_item]
+
+                # Filter the candidates based on the extracted entity strings
+                cands = [x for x in output_m if any(entity_string in x for entity_string in entity_strings)]
+
                 res += [y for x in cands for y in self.post_process_rebel(x)]
         return res
 

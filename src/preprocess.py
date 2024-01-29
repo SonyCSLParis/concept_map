@@ -91,8 +91,8 @@ class PreProcessor:
             if keyword_index is not None:
                 new_doc = PreProcessor.create_new_doc(self, doc=doc, end_index = keyword_index)
                 new_text = new_doc.text
-                print(f"{keyword.capitalize()} found. New document:")
-                print(new_text)
+                # print(f"{keyword.capitalize()} found. New document:")
+                # print(new_text)
             else:
                 new_doc = doc
                 new_text = new_doc.text
@@ -107,8 +107,8 @@ class PreProcessor:
             if keyword_index is not None:
                 new_doc = PreProcessor.create_new_doc(self, doc=doc, end_index=keyword_index)
                 new_text = new_doc.text
-                print(f"{' '.join(keywords).capitalize()} found. New document:")
-                print(new_text)
+                # print(f"{' '.join(keywords).capitalize()} found. New document:")
+                # print(new_text)
             else:
                 new_doc = doc
                 new_text = new_doc.text
