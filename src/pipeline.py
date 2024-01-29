@@ -8,7 +8,8 @@ from loguru import logger
 from preprocess import PreProcessor
 from entity import EntityExtractor
 from relation import RelationExtractor
-
+from nltk.corpus import wordnet as wn
+from settings import *
 class CMPipeline:
     """ class for the whole pipeline """
     def __init__(self, options_rel: List[str],
@@ -61,7 +62,25 @@ class CMPipeline:
             logger.info("Entity extraction")
         if self.entity:
             entities = self.entity(text="\n".join(sentences))
-            entities = [x[1] for x in entities["dbpedia_spotlight"]]
+            unique_tuples_set = set()  # Set to keep track of unique tuples
+
+            if 'wordnet' in self.params["entity"]["options_ent"]:
+                found_wordnet_entities_set = set()
+                for pos, synset in entities.get('wordnet', []):
+                    words = [lemma.name() for lemma in wn.synset(synset).lemmas()]
+                    found_wordnet_entities_set.update(
+                        {token.text for token in nlp(text) if token.text.lower() in words})
+
+                found_wordnet_entities = list(found_wordnet_entities_set)
+                entities['wordnet'] = found_wordnet_entities
+                unique_tuples_set.add(tuple(found_wordnet_entities))  # Add the tuple to the set
+
+            if 'dbpedia_spotlight' in self.params["entity"]["options_ent"]:
+                dbpedia_entities = [x[1] for x in entities["dbpedia_spotlight"]]
+                unique_tuples_set.add(tuple(dbpedia_entities))  # Add the tuple to the set
+
+            entities = list(unique_tuples_set)  # Convert set back to list
+
         else:
             entities = None
 
@@ -77,7 +96,7 @@ class CMPipeline:
 if __name__ == '__main__':
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
-        options_ent=["dbpedia_spotlight"],
+        options_ent=["wordnet"],#dbpedia_spotlight
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],

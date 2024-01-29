@@ -3,11 +3,12 @@ Running spacy pipeline on data with DBpedia Spotlight
 """
 from typing import Union, List
 import requests
+from nltk.corpus import wordnet as wn
 
 
 class EntityExtractor:
     """ Extracting entities from text """
-    def __init__(self, options: List[str] = ["dbpedia_spotlight"],
+    def __init__(self, options: List[str] = ["dbpedia_spotlight","wordnet"],
                  confidence: Union[float, None] = None,
                  db_spotlight_api: str = 'https://api.dbpedia-spotlight.org/en/annotate'):
         """ Init main params 
@@ -15,9 +16,10 @@ class EntityExtractor:
         
         Default: calls Spotlight API
         Custom: using local spacy model """
-        self.options_p = ["dbpedia_spotlight"]
+        self.options_p = ["dbpedia_spotlight", "wordnet"]
         self.options_to_f = {
-            "dbpedia_spotlight": self.get_dbs_ent
+            "dbpedia_spotlight": self.get_dbs_ent,
+            "wordnet": self.get_wordnet_ent
         }
         self.check_params(options=options, confidence=confidence)
 
@@ -56,6 +58,15 @@ class EntityExtractor:
             except:
                 return []
         return "error"
+
+    def get_wordnet_ent(self, text: str):
+        words = text.split()
+        entities = []
+        for word in words:
+            synsets = wn.synsets(word)
+            for synset in synsets:
+                entities.append((synset.pos(), synset.name()))
+        return entities
 
     def get_payload(self, text: str):
         """ Payload for requests """

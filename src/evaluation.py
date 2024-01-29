@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Evaluation metrics
 """
@@ -8,14 +7,16 @@ from nltk.tokenize import word_tokenize
 from nltk.translate.meteor_score import meteor_score
 from rouge_score import rouge_scorer
 
+
 class EvaluationMetrics:
     """ evaluation """
+
     def __init__(self):
         self.meteor = meteor_score
 
-        self.rouge_metrics = ['rouge1', 'rouge2', 'rougeL']
+        self.rouge_metrics = ['rouge1', 'rouge2']
         self.rouge = rouge_scorer.RougeScorer(self.rouge_metrics, use_stemmer=True)
-    
+
     @staticmethod
     def get_rouge_input(triples_input):
         triples_input = [" ".join(x) for x in triples_input]
@@ -47,21 +48,19 @@ class EvaluationMetrics:
                 meteor_cached_recall[i][j] = self.meteor([meteor_t], meteor_t_gold)
                 meteor_cached_precision[i][j] = self.meteor([meteor_t_gold], meteor_t)
 
-        meteor_r = np.sum(np.max(meteor_cached_recall, axis=1))/nb_t
-        meteor_p = np.sum(np.max(meteor_cached_recall, axis=0))/nb_gt
+        meteor_r = np.sum(np.max(meteor_cached_recall, axis=1)) / nb_t
+        meteor_p = np.sum(np.max(meteor_cached_recall, axis=0)) / nb_gt
 
         return {
             "meteor": {
-                "precision": 100*meteor_p,
-                "recall": 100*meteor_r,
-                "f1": 100*2*meteor_p*meteor_r/(meteor_p+meteor_r)},
+                "precision": 100 * meteor_p,
+                "recall": 100 * meteor_r,
+                "f1": 100 * 2 * meteor_p * meteor_r / (meteor_p + meteor_r)},
             "rouge-2": {
-                "precision": 100*scores["rouge2"].precision,
-                "recall": 100*scores["rouge2"].recall,
-                "f1": 100*scores["rouge2"].fmeasure}
+                "precision": 100 * scores["rouge2"].precision,
+                "recall": 100 * scores["rouge2"].recall,
+                "f1": 100 * scores["rouge2"].fmeasure}
         }
-
-
 
 
 if __name__ == '__main__':
