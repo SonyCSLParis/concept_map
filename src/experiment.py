@@ -72,7 +72,7 @@ class ExperimentRun:
                  local_rm: Union[bool, None] = None):
         self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm)
 
-        print("Data Loader done!")
+        logger.info("Data Loader done!")
 
         self.pipeline = CMPipeline(
             options_rel=options_rel, preprocess=preprocess, spacy_model=spacy_model,
@@ -139,7 +139,7 @@ class ExperimentRun:
                     save_data(relations=relations, preprocess=preprocess, entities=entities,
                               save_folder=curr_folder, name=name)
                     all_relations += relations
-                print("Pipeline & Preprocessing done")
+                logger.info("Pipeline & Preprocessing done")
 
                 #  Run evaluation
                 gs_triples = get_gs_triples(file_path=folder_info["gs"])
@@ -147,7 +147,7 @@ class ExperimentRun:
                 curr_metrics = self.evaluation_metrics(
                     triples=all_relations, gold_triples=gs_triples)
                 metrics[folder] = curr_metrics
-                print("Evaluation done, saving metrics..")
+                logger.info("Evaluation done, saving metrics..")
 
                 # Save metrics and logs
                 with open(os.path.join(save_folder, "metrics.json"),
@@ -163,15 +163,14 @@ class ExperimentRun:
 
 if __name__ == '__main__':
     EXPERIMENTR = ExperimentRun(
-        folder_path=WIKI_TRAIN + "101",
+        folder_path="./src/data/Corpora_Falke/Wiki/train/101",
         # folder_path=WIKI_TRAIN,
         type_data="multi", one_cm=True,
         preprocess=True, spacy_model="en_core_web_lg",
-        options_ent=["wordnet"],
+        options_ent=["wordnet", "dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model=REBEL_DIR, local_rm=True)
-    print(EXPERIMENTR.params)
+        rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True)
     EXPERIMENTR(save_folder="experiments")

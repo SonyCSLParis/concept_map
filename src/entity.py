@@ -81,7 +81,7 @@ class EntityExtractor:
 
 
 if __name__ == '__main__':
-    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight"], confidence=0.35, db_spotlight_api="http://localhost:2222/rest/annotate")
+    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight", "wordnet"], confidence=0.35, db_spotlight_api="http://localhost:2222/rest/annotate")
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
     7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer

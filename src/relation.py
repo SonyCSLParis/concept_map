@@ -107,7 +107,8 @@ class RelationExtractor:
         """ Extract relations for one string text """
         res = {}
         for option in self.options:
-            res[option] = self.options_to_f[option](sentences=sentences, entities=entities)
+            curr_res = self.options_to_f[option](sentences=sentences, entities=entities)
+            res[option] = list(set(curr_res))
         return res
 
 
@@ -116,11 +117,10 @@ if __name__ == '__main__':
         options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True,
         spacy_model="en_core_web_lg")
-    TEXT = """
-    The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
-    7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer
-    Hale.
-    """
+    SENTENCES = [
+        "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
+        "7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale."
+    ]
     ENTITIES = {'dbpedia_spotlight': [
         ('http://dbpedia.org/resource/7_World_Trade_Center', '7 World Trade Center'),
         ('http://dbpedia.org/resource/Benchmarking', 'benchmark'),
@@ -135,9 +135,9 @@ if __name__ == '__main__':
     ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
 
     print("## WITHOUT ENTITIES")
-    RES = REL_EXTRACTOR(text=TEXT)
+    RES = REL_EXTRACTOR(sentences=SENTENCES)
     print(RES)
     print("==========")
     print("## WITH ENTITIES")
-    RES = REL_EXTRACTOR(text=TEXT, entities=ENTITIES)
+    RES = REL_EXTRACTOR(sentences=SENTENCES, entities=ENTITIES)
     print(RES)

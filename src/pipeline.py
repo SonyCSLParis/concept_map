@@ -96,7 +96,7 @@ class CMPipeline:
 if __name__ == '__main__':
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
-        options_ent=["wordnet"],#dbpedia_spotlight
+        options_ent=["wordnet", "dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
