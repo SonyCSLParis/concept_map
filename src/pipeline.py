@@ -4,6 +4,7 @@ Full pipeline
 """
 from typing import Union, List
 import spacy
+from loguru import logger
 from preprocess import PreProcessor
 from entity import EntityExtractor
 from relation import RelationExtractor
@@ -15,6 +16,7 @@ class CMPipeline:
                  spacy_model: Union[str, None] = None,
                  options_ent: Union[List[str], None] = None,
                  confidence: Union[float, None] = None,
+                 db_spotlight_api: Union[str, None] = 'https://api.dbpedia-spotlight.org/en/annotate',
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
                  local_rm: Union[bool, None] = None):
@@ -26,19 +28,18 @@ class CMPipeline:
 
         self.params = {
             "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model,},
-            "entity": {"options_ent": options_ent, "confidence": confidence,},
+            "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
             "relation": {
                 "model_tokenizer": rebel_tokenizer, "model": rebel_model,
                 "local_rm": local_rm}
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
-        self.entity = EntityExtractor(options=options_ent, confidence=confidence) \
+        self.entity = EntityExtractor(options=options_ent, confidence=confidence, db_spotlight_api=db_spotlight_api) \
             if options_ent else None
         self.relation = RelationExtractor(
             options=options_rel, rebel_tokenizer=rebel_tokenizer,
-            rebel_model=rebel_model, local_rm=local_rm)
-
+            rebel_model=rebel_model, local_rm=local_rm, spacy_model=spacy_model)
         self.nlp = spacy.load(spacy_model)
 
     @staticmethod
@@ -47,23 +48,30 @@ class CMPipeline:
         if preprocess and (not spacy_model):
             raise ValueError("For preprocessing, you need to enter `spacy_model`")
 
-    def __call__(self, text: str):
+    def __call__(self, text: str, verbose: bool = False):
+        doc = self.nlp(text)
+        sentences = [sent.text.strip() for sent in doc.sents]
+
+        if verbose:
+            logger.info("Preprocessing")
         if self.preprocess:
-            text = self.preprocess(text)
+            sentences = [self.preprocess(x) for x in sentences]
+
+        if verbose:
+            logger.info("Entity extraction")
         if self.entity:
-            entities = self.entity(text=text)
+            entities = self.entity(text="\n".join(sentences))
             entities = [x[1] for x in entities["dbpedia_spotlight"]]
         else:
             entities = None
 
-        doc = self.nlp(text)
-        sentences = [sent.text.strip() for sent in doc.sents]
-        res = []
-        for sent in sentences:
-            res.append(self.relation(text=sent, entities=entities))
+        if verbose:
+            logger.info("Relation extraction")
+
+        res = self.relation(sentences=sentences, entities=entities)
 
         # ADD POST PROCESSING? (TBD)
-        return [x for elt in res for option, val in elt.items() for x in val], {"text": text, "entities": entities}
+        return [x for _, val in res.items() for x in val], {"text": "\n".join(sentences), "entities": entities}
 
 
 if __name__ == '__main__':
@@ -71,6 +79,7 @@ if __name__ == '__main__':
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["dbpedia_spotlight"],
         confidence=0.35,
+        db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="Babelscape/rebel-large", local_rm=False)

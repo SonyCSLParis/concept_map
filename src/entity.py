@@ -8,9 +8,13 @@ import requests
 class EntityExtractor:
     """ Extracting entities from text """
     def __init__(self, options: List[str] = ["dbpedia_spotlight"],
-                 confidence: Union[float, None] = None):
+                 confidence: Union[float, None] = None,
+                 db_spotlight_api: str = 'https://api.dbpedia-spotlight.org/en/annotate'):
         """ Init main params 
-        - options: how to extract entities """
+        - options: how to extract entities 
+        
+        Default: calls Spotlight API
+        Custom: using local spacy model """
         self.options_p = ["dbpedia_spotlight"]
         self.options_to_f = {
             "dbpedia_spotlight": self.get_dbs_ent
@@ -19,14 +23,15 @@ class EntityExtractor:
 
         self.params = {
             "options": options,
-            "confidence": confidence
+            "confidence": confidence,
+            "db_spotlight_api": db_spotlight_api
         }
         self.options = options
 
         # DBpedia Spotlight params
         self.confidence = confidence
         self.headers = {'Accept': 'application/json'}
-        self.dbpedia_spotlight_api = 'https://api.dbpedia-spotlight.org/en/annotate'
+        self.dbpedia_spotlight_api = db_spotlight_api
         self.timeout = 3600
 
     def check_params(self, options, confidence):
@@ -65,7 +70,7 @@ class EntityExtractor:
 
 
 if __name__ == '__main__':
-    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight"], confidence=0.35)
+    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight"], confidence=0.35, db_spotlight_api="http://localhost:2222/rest/annotate")
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
     7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer

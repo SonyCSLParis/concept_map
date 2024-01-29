@@ -2,6 +2,7 @@
 """
 Relation extractor
 """
+import spacy
 from typing import Union, List
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
@@ -10,7 +11,7 @@ from fine_tuning_rebel.run_rebel import extract_triples
 
 class RelationExtractor:
     """ Extracting relations from text """
-    def __init__(self, options: List["str"] = ["rebel"],
+    def __init__(self, spacy_model: str, options: List["str"] = ["rebel"],
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None, local_rm: Union[bool, None] = None):
         """ local_m: whether the model is locally stored or not """
@@ -39,6 +40,8 @@ class RelationExtractor:
             }
         else:
             self.rebel = None
+        
+        self.nlp = spacy.load(spacy_model)
 
     @staticmethod
     def get_rmodel(model: str, local_rm: bool):
@@ -74,9 +77,9 @@ class RelationExtractor:
         decoded_preds = self.rebel['tokenizer'].batch_decode(output, skip_special_tokens=False)
         return decoded_preds
 
-    def get_rebel_rel(self, text: str, entities: Union[List[str], None]):
+    def get_rebel_rel(self, sentences: List[str], entities: Union[List[str], None]):
         """ Extracting relations with rebel """
-        input_m = self.tokenize(text=text)
+        input_m = self.tokenize(text=sentences)
         output_m = self.predict(input_m=input_m)
 
         if not entities:
@@ -95,18 +98,19 @@ class RelationExtractor:
         res = extract_triples(x)
         return [(elt['head'], elt['type'], elt['tail']) for elt in res]
 
-    def __call__(self, text: str, entities: Union[List[str], None] = None):
+    def __call__(self, sentences: List[str], entities: Union[List[str], None] = None):
         """ Extract relations for one string text """
         res = {}
         for option in self.options:
-            res[option] = self.options_to_f[option](text=text, entities=entities)
+            res[option] = self.options_to_f[option](sentences=sentences, entities=entities)
         return res
 
 
 if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
         options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="Babelscape/rebel-large", local_rm=False)
+        rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True,
+        spacy_model="en_core_web_lg")
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
     7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer
