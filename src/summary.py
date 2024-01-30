@@ -55,7 +55,7 @@ class TextSummarizer:
 
 
 if __name__ == '__main__':
-    API_KEY_GPT = "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"
+    API_KEY_GPT = ""
     summarizer = TextSummarizer(api_key_gpt=API_KEY_GPT, engine="davinci-002")
 
     TEXT = """

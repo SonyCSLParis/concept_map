@@ -11,7 +11,8 @@ from fine_tuning_rebel.run_rebel import extract_triples
 
 class RelationExtractor:
     """ Extracting relations from text """
-    def __init__(self, spacy_model: str, options: List["str"] = ["rebel"],
+
+    def __init__(self, spacy_model: str, options: List[str] = ["rebel"],
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None, local_rm: Union[bool, None] = None):
         """ local_m: whether the model is locally stored or not """
@@ -36,11 +37,11 @@ class RelationExtractor:
                 "tokenizer": AutoTokenizer.from_pretrained(rebel_tokenizer),
                 "model": self.get_rmodel(model=rebel_model, local_rm=local_rm),
                 "gen_kwargs": {"max_length": 256, "length_penalty": 0,
-                               "num_beams": 3, "num_return_sequences": 3,}
+                               "num_beams": 3, "num_return_sequences": 3, }
             }
         else:
             self.rebel = None
-        
+
         self.nlp = spacy.load(spacy_model)
 
     @staticmethod
@@ -57,9 +58,9 @@ class RelationExtractor:
 
         if "rebel" in options:
             if any(not isinstance(x, y) for (x, y) in \
-                [(rebel_t, str), (rebel_m, str), (local_rm, bool)]):
+                   [(rebel_t, str), (rebel_m, str), (local_rm, bool)]):
                 raise ValueError("To extract relations with REBEL, you need to specify: " + \
-                    "`rebel_tokenizer` as string, `rebel_model` as string, `local_rm` as bool")
+                                 "`rebel_tokenizer` as string, `rebel_model` as string, `local_rm` as bool")
 
     def tokenize(self, text: str):
         """ Text > tensor """
@@ -72,7 +73,7 @@ class RelationExtractor:
         output = self.rebel['model'].generate(
             input_m["input_ids"].to(self.rebel['model'].device),
             attention_mask=input_m["attention_mask"].to(self.rebel['model'].device),
-            **self.rebel['gen_kwargs'],)
+            **self.rebel['gen_kwargs'], )
 
         decoded_preds = self.rebel['tokenizer'].batch_decode(output, skip_special_tokens=False)
         return decoded_preds
@@ -82,19 +83,26 @@ class RelationExtractor:
         input_m = self.tokenize(text=sentences)
         output_m = self.predict(input_m=input_m)
 
-        if not entities:
-            res = [y for x in output_m for y in self.post_process_rebel(x)]
-        else:
-            res = []
-            #TO CHECK (triples can appear multiple times)
-            for entity in entities:
-                # Extract strings from the list of tuples
-                entity_strings = [item for tuple_item in entities for item in tuple_item]
+        unique_triples_set = set()  # Set to store unique triples
+        res = []
 
-                # Filter the candidates based on the extracted entity strings
+        if not entities:
+            for x in output_m:
+                for triple in self.post_process_rebel(x):
+                    if triple not in unique_triples_set:
+                        res.append(triple)
+                        unique_triples_set.add(triple)
+        else:
+            for entity in entities:
+                entity_strings = [item for tuple_item in entities for item in tuple_item]
                 cands = [x for x in output_m if any(entity_string in x for entity_string in entity_strings)]
 
-                res += [y for x in cands for y in self.post_process_rebel(x)]
+                for x in cands:
+                    for triple in self.post_process_rebel(x):
+                        if triple not in unique_triples_set:
+                            res.append(triple)
+                            unique_triples_set.add(triple)
+
         return res
 
     @staticmethod

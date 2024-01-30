@@ -3,13 +3,12 @@
 Running experiments
 """
 import json
-import os  # Add this import
-from typing import Union, List
-
+import os
 from datetime import datetime
 from loguru import logger
 from tqdm import tqdm
-import spacy  # Add this import
+import spacy
+import time  # Add this import
 
 from data_load import DataLoader
 from evaluation import EvaluationMetrics
@@ -87,7 +86,6 @@ class ExperimentRun:
 
         self.nlp = spacy.load(spacy_model)
 
-
     def __call__(self, save_folder: str):
         """ A folder will be created in save_folder to store the results of experiments """
         metrics = {}
@@ -154,10 +152,11 @@ class ExperimentRun:
                           "w", encoding="utf-8") as openfile:
                     json.dump(logs, openfile, indent=4)
 
+                # Log timing information
+                logger.info(f"Total execution time: {(end_ - start_).total_seconds():.4f}s")
 
 if __name__ == '__main__':
     EXPERIMENTR = ExperimentRun(
-        # folder_path="./src/data/Corpora_Falke/Wiki/train/101",
         folder_path=WIKI_TRAIN + "101",
         type_data="multi", one_cm=True,
         preprocess=True, spacy_model="en_core_web_lg",
@@ -166,7 +165,6 @@ if __name__ == '__main__':
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        #rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True,
         rebel_model=REBEL_DIR, local_rm=True,
         summary_parameters="chat-gpt")  # or "lex-rank"
     print(EXPERIMENTR.params)

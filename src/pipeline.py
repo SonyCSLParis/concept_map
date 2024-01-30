@@ -4,6 +4,7 @@ Full pipeline
 """
 from typing import Union, List
 import spacy
+import time
 from loguru import logger
 from preprocess import PreProcessor
 from nltk.corpus import wordnet as wn
@@ -13,7 +14,6 @@ from preprocess import PreProcessor
 from relation import RelationExtractor
 from settings import *
 from summary import *
-
 
 class CMPipeline:
     """ class for the whole pipeline """
@@ -49,7 +49,6 @@ class CMPipeline:
             rebel_model=rebel_model, local_rm=local_rm, spacy_model=spacy_model)
         self.summarizer = TextSummarizer(api_key_gpt=API_KEY_GPT, engine="davinci-002")  # Replace with your actual API key
 
-
     @staticmethod
     def check_params(preprocess, spacy_model):
         """ Check consistency of params """
@@ -74,18 +73,23 @@ class CMPipeline:
         else:
             raise ValueError(f"Invalid summary method: {method}")
 
-
     def __call__(self, text: str, verbose: bool = False, summary_method: str = "lex-rank"):
+        start_time = time.time()
+
         if verbose:
             logger.info("Preprocessing")
         if self.preprocess:
             sentences = [self.preprocess(x) for x in text]
+
+        preprocessing_time = time.time() - start_time
+
         summary = self.generate_summary(text, method=summary_method)
 
         if verbose:
             logger.info("Entity extraction")
 
         if self.entity:
+            entities_start_time = time.time()
             entities = self.entity(text=summary)
             unique_tuples_set = set()
 
@@ -106,18 +110,29 @@ class CMPipeline:
 
             entities = list(unique_tuples_set)
 
+            entities_extraction_time = time.time() - entities_start_time
+
         else:
             entities = None
+            entities_extraction_time = 0
 
         if verbose:
             logger.info("Relation extraction")
 
+        relation_extraction_start_time = time.time()
         res = self.relation(sentences=sentences, entities=entities)
+        relation_extraction_time = time.time() - relation_extraction_start_time
+
+        total_time = time.time() - start_time
 
         # ADD POST PROCESSING? (TBD)
+        logger.info(f"Total execution time: {total_time:.4f}s")
+        logger.info(f"Preprocessing time: {preprocessing_time:.4f}s")
+        logger.info(f"Entity extraction time: {entities_extraction_time:.4f}s")
+        logger.info(f"Relation extraction time: {relation_extraction_time:.4f}s")
+
         return [x for elt in res for option, val in elt.items() for x in val], {"text": text, "entities": entities,
                                                                                 "summary": summary}
-
 
 if __name__ == '__main__':
     API_KEY_GPT = "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"
@@ -134,10 +149,9 @@ if __name__ == '__main__':
     print(PIPELINE.params)
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
-    7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer
-    Hale.
+    7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale.
     """
-    RES = PIPELINE(text=TEXT)
+    RES = PIPELINE(text=TEXT, verbose=True)
     print(RES[0])
     print("Summary:")
     print(RES[1]["summary"])
