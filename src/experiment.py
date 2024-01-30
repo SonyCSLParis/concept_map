@@ -122,6 +122,8 @@ class ExperimentRun:
                     # Check if "entities" key is present and not None
                     if "entities" in c_info and c_info["entities"] is not None:
                         entities += c_info["entities"]
+                    else :
+                        print("entities is None!!!!")
 
                     relations += c_relations
                     save_data(relations=relations, preprocess=preprocess, entities=entities, save_folder=curr_folder,
