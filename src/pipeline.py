@@ -6,12 +6,18 @@ from typing import Union, List
 import spacy
 from loguru import logger
 from preprocess import PreProcessor
-from entity import EntityExtractor
-from relation import RelationExtractor
 from nltk.corpus import wordnet as wn
+
+from entity import EntityExtractor
+from preprocess import PreProcessor
+from relation import RelationExtractor
 from settings import *
+from summary import *
+
+
 class CMPipeline:
     """ class for the whole pipeline """
+
     def __init__(self, options_rel: List[str],
                  preprocess: bool = False,
                  spacy_model: Union[str, None] = None,
@@ -20,19 +26,19 @@ class CMPipeline:
                  db_spotlight_api: Union[str, None] = 'https://api.dbpedia-spotlight.org/en/annotate',
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
-                 local_rm: Union[bool, None] = None):
-
+                 local_rm: Union[bool, None] = None,
+                 summary_parameters: Union[str, None] = None):
         self.check_params(
-            # Preprocessing
             preprocess=preprocess, spacy_model=spacy_model,
-            )
+        )
 
         self.params = {
             "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model,},
             "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
             "relation": {
                 "model_tokenizer": rebel_tokenizer, "model": rebel_model,
-                "local_rm": local_rm}
+                "local_rm": local_rm},
+            "summary_parameters": summary_parameters
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
@@ -41,7 +47,8 @@ class CMPipeline:
         self.relation = RelationExtractor(
             options=options_rel, rebel_tokenizer=rebel_tokenizer,
             rebel_model=rebel_model, local_rm=local_rm, spacy_model=spacy_model)
-        self.nlp = spacy.load(spacy_model)
+        self.summarizer = TextSummarizer(api_key_gpt=API_KEY_GPT, engine="davinci-002")  # Replace with your actual API key
+
 
     @staticmethod
     def check_params(preprocess, spacy_model):
@@ -49,20 +56,38 @@ class CMPipeline:
         if preprocess and (not spacy_model):
             raise ValueError("For preprocessing, you need to enter `spacy_model`")
 
-    def __call__(self, text: str, verbose: bool = False):
-        doc = self.nlp(text)
-        sentences = [sent.text.strip() for sent in doc.sents]
+    def generate_summary(self, text: str, method: str = "lex-rank") -> str:
+        """
+        Generate a summary of the given text using the specified method.
 
+        Parameters:
+            text (str): The input text to summarize.
+            method (str): The summarization method to use ("lex-rank" or "chat-gpt").
+
+        Returns:
+            str: The generated summary.
+        """
+        if method == "lex-rank":
+            return self.summarizer.generate_lex_rank_summary(text)
+        elif method == "chat-gpt":
+            return self.summarizer.generate_summary_with_gpt(text, summary_percentage=80, temperature=0.7)
+        else:
+            raise ValueError(f"Invalid summary method: {method}")
+
+
+    def __call__(self, text: str, verbose: bool = False, summary_method: str = "lex-rank"):
         if verbose:
             logger.info("Preprocessing")
         if self.preprocess:
-            sentences = [self.preprocess(x) for x in sentences]
+            sentences = [self.preprocess(x) for x in text]
+        summary = self.generate_summary(text, method=summary_method)
 
         if verbose:
             logger.info("Entity extraction")
+
         if self.entity:
-            entities = self.entity(text="\n".join(sentences))
-            unique_tuples_set = set()  # Set to keep track of unique tuples
+            entities = self.entity(text=summary)
+            unique_tuples_set = set()
 
             if 'wordnet' in self.params["entity"]["options_ent"]:
                 found_wordnet_entities_set = set()
@@ -79,7 +104,7 @@ class CMPipeline:
                 dbpedia_entities = [x[1] for x in entities["dbpedia_spotlight"]]
                 unique_tuples_set.add(tuple(dbpedia_entities))  # Add the tuple to the set
 
-            entities = list(unique_tuples_set)  # Convert set back to list
+            entities = list(unique_tuples_set)
 
         else:
             entities = None
@@ -90,10 +115,12 @@ class CMPipeline:
         res = self.relation(sentences=sentences, entities=entities)
 
         # ADD POST PROCESSING? (TBD)
-        return [x for _, val in res.items() for x in val], {"text": "\n".join(sentences), "entities": entities}
+        return [x for elt in res for option, val in elt.items() for x in val], {"text": text, "entities": entities,
+                                                                                "summary": summary}
 
 
 if __name__ == '__main__':
+    API_KEY_GPT = "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"
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["wordnet", "dbpedia_spotlight"],
@@ -101,7 +128,9 @@ if __name__ == '__main__':
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="Babelscape/rebel-large", local_rm=False)
+        rebel_model="Babelscape/rebel-large", local_rm=False,
+        summary_parameters=["lex-rank", "chat-gpt"]
+    )
     print(PIPELINE.params)
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
@@ -110,3 +139,5 @@ if __name__ == '__main__':
     """
     RES = PIPELINE(text=TEXT)
     print(RES[0])
+    print("Summary:")
+    print(RES[1]["summary"])

@@ -3,17 +3,13 @@
 Running experiments
 """
 import json
-import os
-import time
-from datetime import datetime
+import os  # Add this import
 from typing import Union, List
 
 from datetime import datetime
-from tqdm import tqdm
-import spacy
-from loguru import logger
 from loguru import logger
 from tqdm import tqdm
+import spacy  # Add this import
 
 from data_load import DataLoader
 from evaluation import EvaluationMetrics
@@ -69,16 +65,17 @@ class ExperimentRun:
                  db_spotlight_api: Union[str, None] = 'https://api.dbpedia-spotlight.org/en/annotate',
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
-                 local_rm: Union[bool, None] = None):
+                 local_rm: Union[bool, None] = None,
+                 summary_parameters: Union[str, None] = None):  # Add summary_parameters
         self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm)
 
         logger.info("Data Loader done!")
 
         self.pipeline = CMPipeline(
             options_rel=options_rel, preprocess=preprocess, spacy_model=spacy_model,
-            options_ent=options_ent, confidence=confidence,
             db_spotlight_api=db_spotlight_api,
-            rebel_tokenizer=rebel_tokenizer, rebel_model=rebel_model, local_rm=local_rm
+            rebel_tokenizer=rebel_tokenizer, rebel_model=rebel_model, local_rm=local_rm,  # Add comma here
+            summary_parameters=summary_parameters  # Pass summary_parameters to CMPipeline
         )
         self.evaluation_metrics = EvaluationMetrics()
 
@@ -86,7 +83,10 @@ class ExperimentRun:
 
         data = self.data.params
         data.update({"files": self.data.files})
-        self.params.update({"data": data})
+        self.params.update({"data": data, "summary_parameters": summary_parameters})  # Add summary_parameters to params
+
+        self.nlp = spacy.load(spacy_model)
+
 
     def __call__(self, save_folder: str):
         """ A folder will be created in save_folder to store the results of experiments """
@@ -124,14 +124,8 @@ class ExperimentRun:
                 logs[folder][name] = {"start": str(start_)}
                 with open(path, "r", encoding="utf-8") as openfile:
                     text = openfile.read()
-                    # doc = self.nlp(text)
-                    # sentences = [sent.text.strip() for sent in doc.sents]
                     preprocess, entities, relations = [], [], []
 
-                    # nb_sent = len(sentences)
-                    # for i_sent, sent in enumerate(sentences):
-                        # sent_t_log = f"[Sentence {i_sent+1}][{i_sent+1}/{nb_sent} ({round(100*(i_sent+1)/nb_sent)}%)]"
-                        # logger.info(sent_t_log + file_t_log + folder_t_log)
                     c_relations, c_info = self.pipeline(text=text, verbose=True)
                     preprocess.append(c_info["text"])
                     entities += c_info["entities"]
@@ -163,8 +157,8 @@ class ExperimentRun:
 
 if __name__ == '__main__':
     EXPERIMENTR = ExperimentRun(
-        folder_path="./src/data/Corpora_Falke/Wiki/train/101",
-        # folder_path=WIKI_TRAIN,
+        # folder_path="./src/data/Corpora_Falke/Wiki/train/101",
+        folder_path=WIKI_TRAIN + "101",
         type_data="multi", one_cm=True,
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["wordnet", "dbpedia_spotlight"],
@@ -172,5 +166,8 @@ if __name__ == '__main__':
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True)
+        #rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True,
+        rebel_model=REBEL_DIR, local_rm=True,
+        summary_parameters="chat-gpt")  # or "lex-rank"
+    print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")
