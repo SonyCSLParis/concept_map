@@ -1,6 +1,3 @@
-"""
-Running spacy pipeline on data with DBpedia Spotlight
-"""
 from typing import Union, List
 import requests
 from nltk.corpus import wordnet as wn
@@ -8,12 +5,13 @@ from nltk.corpus import wordnet as wn
 
 class EntityExtractor:
     """ Extracting entities from text """
-    def __init__(self, options: List[str] = ["dbpedia_spotlight","wordnet"],
+
+    def __init__(self, options: List[str] = ["dbpedia_spotlight", "wordnet"],
                  confidence: Union[float, None] = None,
                  db_spotlight_api: str = 'https://api.dbpedia-spotlight.org/en/annotate'):
-        """ Init main params 
-        - options: how to extract entities 
-        
+        """ Init main params
+        - options: how to extract entities
+
         Default: calls Spotlight API
         Custom: using local spacy model """
         self.options_p = ["dbpedia_spotlight", "wordnet"]
@@ -44,7 +42,7 @@ class EntityExtractor:
         if "dbpedia_spotlight" in options:
             if not isinstance(confidence, float):
                 raise ValueError("To extract entities with DBpedia Spotlight, " + \
-                    "you need to specify `confidence` as a float") 
+                                 "you need to specify `confidence` as a float")
 
     def get_dbs_ent(self, text: str):
         """ Retrieve entities with Spotlight """
@@ -53,19 +51,19 @@ class EntityExtractor:
             headers=self.headers, timeout=self.timeout)
         if response.status_code == 200:
             try:
-                return [(resource["@URI"], resource["@surfaceForm"]) \
-                    for resource in response.json()["Resources"]]
+                return set([(resource["@URI"], resource["@surfaceForm"]) \
+                            for resource in response.json()["Resources"]])
             except:
-                return []
-        return "error"
+                return set()
+        return set()
 
     def get_wordnet_ent(self, text: str):
         words = text.split()
-        entities = []
+        entities = set()
         for word in words:
             synsets = wn.synsets(word)
             for synset in synsets:
-                entities.append((synset.pos(), synset.name()))
+                entities.add((synset.pos(), synset.name()))
         return entities
 
     def get_payload(self, text: str):
@@ -76,12 +74,14 @@ class EntityExtractor:
         """ Extract entities for one string text """
         res = {}
         for option in self.options:
-            res[option] = self.options_to_f[option](text=text)
+            entities = self.options_to_f[option](text=text)
+            res[option] = entities
         return res
 
 
 if __name__ == '__main__':
-    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight", "wordnet"], confidence=0.35, db_spotlight_api="http://localhost:2222/rest/annotate")
+    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight", "wordnet"], confidence=0.35,
+                                       db_spotlight_api="http://localhost:2222/rest/annotate")
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
     7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer
