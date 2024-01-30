@@ -163,9 +163,9 @@ class ExperimentRun:
 
 if __name__ == '__main__':
     EXPERIMENTR = ExperimentRun(
-        folder_path="./src/data/Corpora_Falke/Wiki/train/101",
+        folder_path="./src/data/Corpora_Falke/Wiki/train",
         # folder_path=WIKI_TRAIN,
-        type_data="multi", one_cm=True,
+        type_data="multi", one_cm=False,
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["wordnet", "dbpedia_spotlight"],
         confidence=0.35,
