@@ -47,6 +47,7 @@ class CMPipeline:
         self.relation = RelationExtractor(
             options=options_rel, rebel_tokenizer=rebel_tokenizer,
             rebel_model=rebel_model, local_rm=local_rm, spacy_model=spacy_model)
+        self.nlp = spacy.load(spacy_model)
         self.summarizer = TextSummarizer(api_key_gpt=API_KEY_GPT, engine="davinci-002")  # Replace with your actual API key
 
     @staticmethod
@@ -75,6 +76,8 @@ class CMPipeline:
 
     def __call__(self, text: str, verbose: bool = False, summary_method: str = "lex-rank"):
         start_time = time.time()
+        doc = self.nlp(text)
+        sentences = [sent.text.strip() for sent in doc.sents]
 
         if verbose:
             logger.info("Preprocessing")
@@ -83,7 +86,13 @@ class CMPipeline:
 
         preprocessing_time = time.time() - start_time
 
-        summary = self.generate_summary(text, method=summary_method)
+        summary = self.generate_summary(sentences, method=summary_method)
+
+        if verbose:
+            logger.info("Summary generation")
+        summary_generation_start_time = time.time()
+        summary = self.generate_summary(sentences, method=summary_method)
+        summary_generation_time = time.time() - summary_generation_start_time
 
         if verbose:
             logger.info("Entity extraction")
@@ -128,14 +137,15 @@ class CMPipeline:
         # ADD POST PROCESSING? (TBD)
         logger.info(f"Total execution time: {total_time:.4f}s")
         logger.info(f"Preprocessing time: {preprocessing_time:.4f}s")
+        logger.info(f"Summary generation time: {summary_generation_time:.4f}s")
         logger.info(f"Entity extraction time: {entities_extraction_time:.4f}s")
         logger.info(f"Relation extraction time: {relation_extraction_time:.4f}s")
 
-        return [x for elt in res for option, val in elt.items() for x in val], {"text": text, "entities": entities,
-                                                                                "summary": summary}
+        return [x for _, val in res.items() for x in val], {"text": "\n".join(sentences), "entities": entities,"summary": summary}
+
 
 if __name__ == '__main__':
-    API_KEY_GPT = "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"
+    API_KEY_GPT = ""
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["wordnet", "dbpedia_spotlight"],
