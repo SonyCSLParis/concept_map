@@ -82,11 +82,9 @@ class CMPipeline:
         if verbose:
             logger.info("Preprocessing")
         if self.preprocess:
-            sentences = [self.preprocess(x) for x in text]
+            sentences = [self.preprocess(x) for x in sentences]
 
         preprocessing_time = time.time() - start_time
-
-        summary = self.generate_summary(sentences, method=summary_method)
 
         if verbose:
             logger.info("Summary generation")

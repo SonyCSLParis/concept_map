@@ -76,6 +76,8 @@ class EntityExtractor:
         for option in self.options:
             entities = self.options_to_f[option](text=text)
             res[option] = entities
+            print("Found entities:", entities)
+
         return res
 
 

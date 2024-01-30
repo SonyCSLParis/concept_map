@@ -3,18 +3,14 @@
 Running experiments
 """
 import json
-import os
+from typing import List, Union
 from datetime import datetime
 from loguru import logger
 from tqdm import tqdm
-import spacy
-import time  # Add this import
-
 from data_load import DataLoader
 from evaluation import EvaluationMetrics
 from pipeline import CMPipeline
 from settings import *
-
 
 def get_save_folder():
     """ Save folder """
@@ -122,10 +118,14 @@ class ExperimentRun:
 
                     c_relations, c_info = self.pipeline(text=text, verbose=True)
                     preprocess.append(c_info["text"])
-                    entities += c_info["entities"]
+
+                    # Check if "entities" key is present and not None
+                    if "entities" in c_info and c_info["entities"] is not None:
+                        entities += c_info["entities"]
+
                     relations += c_relations
-                    save_data(relations=relations, preprocess=preprocess, entities=entities,
-                              save_folder=curr_folder, name=name)
+                    save_data(relations=relations, preprocess=preprocess, entities=entities, save_folder=curr_folder,
+                              name=name)
                     all_relations += relations
                 logger.info("Pipeline & Preprocessing done")
 
@@ -161,7 +161,7 @@ if __name__ == '__main__':
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        #rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True)
+        #rebel_model="./src/rebel_fine_tuned/finetuned_rebel.pth", local_rm=True)
         rebel_model=REBEL_DIR, local_rm=True,
         summary_parameters="chat-gpt")  # or "lex-rank"
     # print(EXPERIMENTR.params)

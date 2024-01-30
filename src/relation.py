@@ -6,7 +6,7 @@ import spacy
 from typing import Union, List
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-from fine_tuning_rebel.run_rebel import extract_triples
+from fine_tune_rebel.run_rebel import extract_triples
 
 
 class RelationExtractor:
@@ -123,7 +123,7 @@ class RelationExtractor:
 if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
         options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True,
+        rebel_model="./src/rebel_fine_tuned/finetuned_rebel.pth", local_rm=True,
         spacy_model="en_core_web_lg")
     SENTENCES = [
         "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
