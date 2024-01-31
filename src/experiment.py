@@ -66,7 +66,7 @@ class ExperimentRun:
 
         self.pipeline = CMPipeline(
             options_rel=options_rel, preprocess=preprocess, spacy_model=spacy_model,
-            db_spotlight_api=db_spotlight_api,
+            options_ent=options_ent, confidence=confidence, db_spotlight_api=db_spotlight_api,
             rebel_tokenizer=rebel_tokenizer, rebel_model=rebel_model, local_rm=local_rm,  # Add comma here
             summary_parameters=summary_parameters  # Pass summary_parameters to CMPipeline
         )

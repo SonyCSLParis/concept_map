@@ -88,9 +88,12 @@ class CMPipeline:
 
         if verbose:
             logger.info("Summary generation")
-        summary_generation_start_time = time.time()
-        summary = self.generate_summary(sentences, method=summary_method)
-        summary_generation_time = time.time() - summary_generation_start_time
+
+        if self.summarizer:
+            summary_generation_start_time = time.time()
+            summary = self.generate_summary(sentences, method=summary_method)
+            summary_generation_time = time.time() - summary_generation_start_time
+            print(summary)
 
         if verbose:
             logger.info("Entity extraction")

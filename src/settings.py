@@ -6,7 +6,7 @@ import os
 import spacy
 
 nlp = spacy.load("en_core_web_lg")
-API_KEY_GPT = "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"
+API_KEY_GPT = ""
 RND_SEED = 42
 
 ROOT_DIR = os.getcwd()
