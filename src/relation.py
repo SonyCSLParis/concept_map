@@ -134,6 +134,7 @@ class RelationExtractor:
         res = {}
         for option in self.options:
             curr_res = self.options_to_f[option](sentences=sentences, entities=entities)
+            curr_res = [x for x in curr_res if x[0].lower() != x[2].lower()]
             res[option] = list(set(curr_res))
         return res
 

@@ -2,9 +2,11 @@
 """
 Full pipeline
 """
+import sys
 from typing import Union, List
 import spacy
 import time
+from tqdm import tqdm
 from loguru import logger
 from preprocess import PreProcessor
 from nltk.corpus import wordnet as wn
@@ -12,8 +14,8 @@ from nltk.corpus import wordnet as wn
 from entity import EntityExtractor
 from preprocess import PreProcessor
 from relation import RelationExtractor
-from settings import *
-from summary import *
+from settings import API_KEY_GPT
+from summary import TextSummarizer
 
 class CMPipeline:
     """ class for the whole pipeline """
@@ -27,9 +29,21 @@ class CMPipeline:
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
                  local_rm: Union[bool, None] = None,
-                 summary_parameters: Union[str, None] = None):
+                 summary_how: Union[str, None] = None,
+                 summary_method: Union[str, None] = None,
+                 api_key_gpt: Union[str, None] = None,
+                 engine: Union[str, None] = None,
+                 temperature: Union[str, None] = None,
+                 summary_percentage: Union[str, None] = None,
+                 num_sentences: Union[int, None] = None):
+
+        # Summary options: 
+        # - `single`: summarising each text one by one
+        # - `all`: summarising all texts
+        self.summary_p = ["single", "all"]
         self.check_params(
             preprocess=preprocess, spacy_model=spacy_model,
+            summary_method=summary_method, summary_how=summary_how
         )
 
         self.params = {
@@ -38,7 +52,7 @@ class CMPipeline:
             "relation": {
                 "model_tokenizer": rebel_tokenizer, "model": rebel_model,
                 "local_rm": local_rm},
-            "summary_parameters": summary_parameters
+            "summary": {"method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage, "num_sentences": num_sentences}
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
@@ -48,89 +62,90 @@ class CMPipeline:
             options=options_rel, rebel_tokenizer=rebel_tokenizer,
             rebel_model=rebel_model, local_rm=local_rm, spacy_model=spacy_model)
         self.nlp = spacy.load(spacy_model)
-        self.summarizer = TextSummarizer(api_key_gpt=API_KEY_GPT, engine="davinci-002")  # Replace with your actual API key
+        self.summary_how = summary_how
+        self.summarizer = TextSummarizer(
+            method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature, summary_percentage=summary_percentage, num_sentences=num_sentences
+        ) if summary_method else None
 
-    @staticmethod
-    def check_params(preprocess, spacy_model):
+    def check_params(self, preprocess, spacy_model, summary_method, summary_how):
         """ Check consistency of params """
         if preprocess and (not spacy_model):
             raise ValueError("For preprocessing, you need to enter `spacy_model`")
+        if summary_how and summary_how not in self.summary_p:
+            raise ValueError(f"For summarisation, `summary_how` should be in {self.summary_p}")
 
-    def generate_summary(self, text: str, method: str = "lex-rank") -> str:
-        """
-        Generate a summary of the given text using the specified method.
+    def __call__(self, input_content: Union[str, List[str]], verbose: bool = False):
 
-        Parameters:
-            text (str): The input text to summarize.
-            method (str): The summarization method to use ("lex-rank" or "chat-gpt").
-
-        Returns:
-            str: The generated summary.
-        """
-        if method == "lex-rank":
-            return self.summarizer.generate_lex_rank_summary(text)
-        elif method == "chat-gpt":
-            return self.summarizer.generate_summary_with_gpt(text, summary_percentage=80, temperature=0.7)
-        else:
-            raise ValueError(f"Invalid summary method: {method}")
-
-    def __call__(self, text: str, verbose: bool = False, summary_method: str = "lex-rank"):
+        if isinstance(input_content, str):
+            input_content = [input_content]
         start_time = time.time()
-        doc = self.nlp(text)
-        sentences = [sent.text.strip() for sent in doc.sents if sent.text.strip()]
 
+        # Retrieving sentences for each element in input_content
+        docs = [self.nlp(text) for text in input_content]
+        docs = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in docs]
+
+        # Preprocessing
         if verbose:
             logger.info("Preprocessing")
         if self.preprocess:
-            sentences = [self.preprocess(x) for x in sentences]
-
+            sentences = [[self.preprocess(x) for x in sentences] for sentences in docs]
+        else:
+            sentences = docs
         preprocessing_time = time.time() - start_time
 
+        # Summary generation
         if verbose:
             logger.info("Summary generation")
 
         if self.summarizer:
             summary_generation_start_time = time.time()
-            summary = self.generate_summary(sentences, method=summary_method)
+            if self.summary_how == "single":  # summarising each document one by one
+                texts = ["\n".join(elt) for elt in sentences]
+                summary = []
+                for text in tqdm(texts):
+                    summary.append(self.summarizer(text=text))
+                sentences_input = [self.nlp(text) for text in summary]
+                sentences_input = list(set([sent.text.strip() for x in sentences_input for sent in x.sents if sent.text.strip()]))
+            else:  # self.summary_how == "all" -> summarising all documents in one go
+                test = "\n".join(["\n".join(elt) for elt in sentences])
+                print(f'SUMMARY INPUT: {test}')
+                summary = self.summarizer("\n".join(["\n".join(elt) for elt in sentences]))
+                sentences_input = self.nlp(summary)
+                sentences_input = list(set([sent.text.strip() for sent in sentences_input.sents if sent.text.strip()])) 
+
             summary_generation_time = time.time() - summary_generation_start_time
-            print(f"summary found is :{summary}")
-            doc = self.nlp(summary)
-            sentences_input = [sent.text.strip() for sent in doc.sents if sent.text.strip()]
+            # logger.info(f"Summary found is :{summary}")
         else:
-            sentences_input = sentences
+            sentences_input = [x for y in sentences for x in y]
+            summary = None
 
         if verbose:
             logger.info("Entity extraction")
 
+        sentences_input = [x for x in sentences_input if len(x.split(" ")) > 10]
+
+        # Entity extraction
         if self.entity:
-            if 'wordnet' in self.params["entity"]["options_ent"]:
-                entities_start_time = time.time()
-                entities = self.entity(text=summary if self.summarizer else "\n".join(sentences_input))
+            entities_start_time = time.time()
+            entities = self.entity(text="\n".join(sentences_input))
+            if "dbpedia_spotlight" in self.params["entity"]["options_ent"]:
+                entities["dbpedia_spotlight"] = [x[1] for x in entities["dbpedia_spotlight"]]
+            entities = list(set(x for _, v in entities.items() for x in v))
 
-            if 'spacy' in self.params["entity"]["options_ent"]:
-                entities_start_time = time.time()
-                entities = self.entity(text=summary if self.summarizer else "\n".join(sentences_input))
-
-            if 'dbpedia_spotlight' in self.params["entity"]["options_ent"]:
-                unique_tuples_set = set()
-                dbpedia_entities = [x[1] for x in entities["dbpedia_spotlight"]]
-                unique_tuples_set.add(tuple(dbpedia_entities))
-                print(f"dbpedia entities extracted : {unique_tuples_set}")
-                entities = list(unique_tuples_set)
-
-
-            print(f"entities extracted : {entities}")
-
+            logger.info(f"Entities extracted : {entities}")
             entities_extraction_time = time.time() - entities_start_time
 
         else:
             entities = None
             entities_extraction_time = 0
 
+        # Relation Extraction
         if verbose:
             logger.info("Relation extraction")
 
         relation_extraction_start_time = time.time()
+        for sent in sentences_input:
+            print(sent)
         res = self.relation(sentences=sentences_input, entities=entities)
         relation_extraction_time = time.time() - relation_extraction_start_time
 
@@ -143,28 +158,29 @@ class CMPipeline:
         logger.info(f"Entity extraction time: {entities_extraction_time:.4f}s")
         logger.info(f"Relation extraction time: {relation_extraction_time:.4f}s")
 
-        return [x for _, val in res.items() for x in val], {"text": "\n".join(sentences), "entities": entities,"summary": summary}
+        text_to_save = "\n".join(["\n".join(x) for x in sentences])
+        return [x for _, val in res.items() for x in val], {"text": "\n".join(["\n".join(x) for x in sentences]), "entities": entities,"summary": summary}
 
 
 if __name__ == '__main__':
-    API_KEY_GPT = ""
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
         # options_ent=["wordnet", "dbpedia_spotlight", "spacy"],
-        options_ent=["wordnet","spacy"],
+        options_ent=["dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="Babelscape/rebel-large", local_rm=False,
-        summary_parameters=["lex-rank", "chat-gpt"]
-    )
+        summary_how="all", summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT, engine="davinci-002",
+        summary_percentage=80, temperature=0.0, num_sentences=3)
     print(PIPELINE.params)
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
     7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale.
     """
-    RES = PIPELINE(text=TEXT, verbose=True)
+    RES = PIPELINE(input_content=TEXT, verbose=True)
     print(RES[0])
     print("Summary:")
     print(RES[1]["summary"])
