@@ -30,6 +30,12 @@ class EvaluationMetrics:
         nb of columns = nb of `gold_triples`
         """
         nb_t, nb_gt = len(triples), len(gold_triples)
+
+        if nb_t == 0:
+            return {
+                "meteor": {"precision": 0, "recall": 0, "f1": 0},
+                "rouge-2": {"precision": 0, "recall": 0, "f1": 0}
+            }
         # meteor[i][j] -> meteor(i, j)
         meteor_cached_recall = np.zeros((nb_t, nb_gt))
         # meteor[i][j] -> meteor(j, i)

@@ -77,7 +77,7 @@ class CMPipeline:
     def __call__(self, text: str, verbose: bool = False, summary_method: str = "lex-rank"):
         start_time = time.time()
         doc = self.nlp(text)
-        sentences = [sent.text.strip() for sent in doc.sents]
+        sentences = [sent.text.strip() for sent in doc.sents if sent.text.strip()]
 
         if verbose:
             logger.info("Preprocessing")
@@ -94,13 +94,17 @@ class CMPipeline:
             summary = self.generate_summary(sentences, method=summary_method)
             summary_generation_time = time.time() - summary_generation_start_time
             print(summary)
+            doc = self.nlp(summary)
+            sentences_input = [sent.text.strip() for sent in doc.sents if sent.text.strip()]
+        else:
+            sentences_input = sentences
 
         if verbose:
             logger.info("Entity extraction")
 
         if self.entity:
             entities_start_time = time.time()
-            entities = self.entity(text=summary)
+            entities = self.entity(text=summary if self.summarizer else "\n".join(sentences_input))
             unique_tuples_set = set()
 
             if 'wordnet' in self.params["entity"]["options_ent"]:
@@ -130,7 +134,7 @@ class CMPipeline:
             logger.info("Relation extraction")
 
         relation_extraction_start_time = time.time()
-        res = self.relation(sentences=sentences, entities=entities)
+        res = self.relation(sentences=sentences_input, entities=entities)
         relation_extraction_time = time.time() - relation_extraction_start_time
 
         total_time = time.time() - start_time

@@ -51,7 +51,7 @@ class PreProcessor:
             r'ß\?\?\?t\?\?\?Saßß?t\?\?\?st\?\?\?a\?\?;'
         ]
 
-        text_without_patterns = PreProcessor.remove_patterns(self, text=text, patterns= patterns_to_remove)
+        text_without_patterns = self.remove_patterns(text=text, patterns= patterns_to_remove)
         doc = self.nlp(text_without_patterns)
         tokens_to_filter = [
             "Note:", "Please be patient until they appear.",
@@ -86,10 +86,10 @@ class PreProcessor:
                             "BibliographyArmitage", "copyright", "notes", "note", "notes1"]
 
         for keyword in keywords_to_find:
-            keyword_index = PreProcessor.find_index(self, doc=cleaned_text, keywords =[keyword])
+            keyword_index = self.find_index(doc=cleaned_text, keywords =[keyword])
 
             if keyword_index is not None:
-                new_doc = PreProcessor.create_new_doc(self, doc=doc, end_index = keyword_index)
+                new_doc = self.create_new_doc(doc=doc, end_index = keyword_index)
                 new_text = new_doc.text
                 # print(f"{keyword.capitalize()} found. New document:")
                 # print(new_text)
@@ -102,10 +102,10 @@ class PreProcessor:
                                       ["about", "the", "water"], ["go", "to", "text"]]
 
         for keywords in two_token_keywords_to_find:
-            keyword_index = PreProcessor.find_two_token_index(self, doc=doc, two_tokens=keywords)
+            keyword_index = self.find_two_token_index(doc=doc, two_tokens=keywords)
 
             if keyword_index is not None:
-                new_doc = PreProcessor.create_new_doc(self, doc=doc, end_index=keyword_index)
+                new_doc = self.create_new_doc(doc=doc, end_index=keyword_index)
                 new_text = new_doc.text
                 # print(f"{' '.join(keywords).capitalize()} found. New document:")
                 # print(new_text)

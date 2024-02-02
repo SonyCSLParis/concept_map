@@ -154,17 +154,17 @@ class ExperimentRun:
 
 if __name__ == '__main__':
     EXPERIMENTR = ExperimentRun(
-        #folder_path="./src/data/Corpora_Falke/Wiki/train/101",
-        folder_path=WIKI_TRAIN + "101",
-        type_data="multi", one_cm=True,
+        folder_path="./src/data/Corpora_Falke/Wiki/train",
+        # folder_path=WIKI_TRAIN + "101",
+        type_data="multi", one_cm=False,
         preprocess=True, spacy_model="en_core_web_lg",
-        options_ent=["wordnet", "dbpedia_spotlight"],
+        options_ent=["dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        #rebel_model="./src/rebel_fine_tuned/finetuned_rebel.pth", local_rm=True)
-        rebel_model=REBEL_DIR, local_rm=True,
+        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+        # rebel_model=REBEL_DIR, local_rm=True,
         summary_parameters="chat-gpt")  # or "lex-rank"
     # print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")

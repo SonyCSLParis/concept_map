@@ -37,3 +37,8 @@ This project  was part of a bigger project : the AI for SEND students project.[M
 
 Distributed under the terms of the Apache License 2.0.
 
+
+
+Install:
+
+nltk.download('punkt')

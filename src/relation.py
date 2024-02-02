@@ -5,6 +5,8 @@ Relation extractor
 import spacy
 from typing import Union, List
 import torch
+from torch.utils.data import DataLoader
+from datasets import Dataset
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from fine_tune_rebel.run_rebel import extract_triples
 
@@ -47,9 +49,14 @@ class RelationExtractor:
     @staticmethod
     def get_rmodel(model: str, local_rm: bool):
         """ Load rebel (fine-tuned or not) model """
+        device = "cuda:0" if torch.cuda.is_available() else "cpu"
+        # device = "cpu"
         if not local_rm:  # Downloading from huggingface
-            return AutoModelForSeq2SeqLM.from_pretrained(model)
-        return torch.load(model)
+            model =  AutoModelForSeq2SeqLM.from_pretrained(model)
+        else:
+            model = torch.load(model)
+        model.to(device)
+        return model
 
     def check_params(self, options, rebel_t, rebel_m, local_rm):
         """ Check that each parameter is correct for the options """
@@ -62,11 +69,11 @@ class RelationExtractor:
                 raise ValueError("To extract relations with REBEL, you need to specify: " + \
                                  "`rebel_tokenizer` as string, `rebel_model` as string, `local_rm` as bool")
 
-    def tokenize(self, text: str):
-        """ Text > tensor """
-        return self.rebel['tokenizer'](
-            text, max_length=256, padding=True,
-            truncation=True, return_tensors='pt')
+    # def tokenize(self, text: str):
+    #     """ Text > tensor """
+    #     return self.rebel['tokenizer'](
+    #         text, max_length=256, padding=True,
+    #         truncation=True, return_tensors='pt')
 
     def predict(self, input_m):
         """ Text > predict > human-readable """
@@ -77,11 +84,22 @@ class RelationExtractor:
 
         decoded_preds = self.rebel['tokenizer'].batch_decode(output, skip_special_tokens=False)
         return decoded_preds
+    
+    def get_dataloader(self, sent_l: List[str], batch_size: int = 16):
+        dataset = Dataset.from_dict({"text": sent_l})
+        dataset = dataset.map(lambda examples: self.rebel['tokenizer'](examples["text"], max_length=256, padding=True,
+                              truncation=True, return_tensors='pt'), batched=True)
+        dataset.set_format(type="torch", columns=['input_ids', 'attention_mask'])
+        return DataLoader(dataset, batch_size=batch_size)
 
     def get_rebel_rel(self, sentences: List[str], entities: Union[List[str], None]):
         """ Extracting relations with rebel """
-        input_m = self.tokenize(text=sentences)
-        output_m = self.predict(input_m=input_m)
+
+        # input_m = self.tokenize(text=sentences)
+        dataloader = self.get_dataloader(sent_l=sentences)
+        output_m = []
+        for batch in dataloader:
+            output_m += self.predict(input_m=batch)
 
         unique_triples_set = set()  # Set to store unique triples
         res = []
@@ -123,7 +141,7 @@ class RelationExtractor:
 if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
         options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/rebel_fine_tuned/finetuned_rebel.pth", local_rm=True,
+        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         spacy_model="en_core_web_lg")
     SENTENCES = [
         "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
