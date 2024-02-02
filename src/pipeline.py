@@ -93,7 +93,7 @@ class CMPipeline:
             summary_generation_start_time = time.time()
             summary = self.generate_summary(sentences, method=summary_method)
             summary_generation_time = time.time() - summary_generation_start_time
-            print(summary)
+            print(f"summary found is :{summary}")
             doc = self.nlp(summary)
             sentences_input = [sent.text.strip() for sent in doc.sents if sent.text.strip()]
         else:
@@ -103,26 +103,23 @@ class CMPipeline:
             logger.info("Entity extraction")
 
         if self.entity:
-            entities_start_time = time.time()
-            entities = self.entity(text=summary if self.summarizer else "\n".join(sentences_input))
-            unique_tuples_set = set()
-
             if 'wordnet' in self.params["entity"]["options_ent"]:
-                found_wordnet_entities_set = set()
-                for pos, synset in entities.get('wordnet', []):
-                    words = [lemma.name() for lemma in wn.synset(synset).lemmas()]
-                    found_wordnet_entities_set.update(
-                        {token.text for token in nlp(text) if token.text.lower() in words})
+                entities_start_time = time.time()
+                entities = self.entity(text=summary if self.summarizer else "\n".join(sentences_input))
 
-                found_wordnet_entities = list(found_wordnet_entities_set)
-                entities['wordnet'] = found_wordnet_entities
-                unique_tuples_set.add(tuple(found_wordnet_entities))  # Add the tuple to the set
+            if 'spacy' in self.params["entity"]["options_ent"]:
+                entities_start_time = time.time()
+                entities = self.entity(text=summary if self.summarizer else "\n".join(sentences_input))
 
             if 'dbpedia_spotlight' in self.params["entity"]["options_ent"]:
+                unique_tuples_set = set()
                 dbpedia_entities = [x[1] for x in entities["dbpedia_spotlight"]]
-                unique_tuples_set.add(tuple(dbpedia_entities))  # Add the tuple to the set
+                unique_tuples_set.add(tuple(dbpedia_entities))
+                print(f"dbpedia entities extracted : {unique_tuples_set}")
+                entities = list(unique_tuples_set)
 
-            entities = list(unique_tuples_set)
+
+            print(f"entities extracted : {entities}")
 
             entities_extraction_time = time.time() - entities_start_time
 
@@ -153,7 +150,8 @@ if __name__ == '__main__':
     API_KEY_GPT = ""
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
-        options_ent=["wordnet", "dbpedia_spotlight"],
+        # options_ent=["wordnet", "dbpedia_spotlight", "spacy"],
+        options_ent=["wordnet","spacy"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],

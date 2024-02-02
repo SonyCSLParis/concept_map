@@ -11,7 +11,7 @@ def main(df_input):
 
 
 if __name__ == '__main__':
-    FOLDER = "src/fine_tuning_rebel/"
+    FOLDER = "src/fine_tune_rebel/"
     DF_INPUT = pd.read_csv(os.path.join(FOLDER, "cm_biology.csv"))
     DF_INPUT = DF_INPUT[[col for col in DF_INPUT.columns if col != "Unnamed: 0"]]
 

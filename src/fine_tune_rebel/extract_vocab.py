@@ -10,6 +10,6 @@ def get_vocab(df_input):
     return list(set(res))
 
 if __name__ == '__main__':
-    DF_INPUT = pd.read_csv("src/fine_tuning_rebel/cm_biology_train.csv")
+    DF_INPUT = pd.read_csv("src/fine_tune_rebel/cm_biology_train.csv")
     VOCAB = get_vocab(df_input=DF_INPUT)
     print(VOCAB)

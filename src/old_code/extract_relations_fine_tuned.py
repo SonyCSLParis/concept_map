@@ -41,7 +41,7 @@ def entity_extracted_rebel(entity_path, text_path, output_path):
 
                 tokenizer = AutoTokenizer.from_pretrained("Babelscape/rebel-large")
                 model = AutoModelForSeq2SeqLM.from_pretrained("Babelscape/rebel-large")
-                # model = torch.load("src/fine_tuning_rebel/finetuned_rebel.pth")
+                # model = torch.load("src/fine_tune_rebel/finetuned_rebel.pth")
                 gen_kwargs = {
                     "max_length": 256,
                     "length_penalty": 0,

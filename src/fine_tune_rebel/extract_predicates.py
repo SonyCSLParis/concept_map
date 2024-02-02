@@ -24,7 +24,7 @@ def get_unique(folder):
 
 
 if __name__ == '__main__':
-    FOLDER = "src/fine_tuning_rebel/all_gs_single"
+    FOLDER = "src/fine_tune_rebel/all_gs_single"
     pred_distrib = get_unique(folder=FOLDER)
     print(pred_distrib)
 

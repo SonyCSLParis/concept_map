@@ -159,6 +159,7 @@ if __name__ == '__main__':
         type_data="multi", one_cm=False,
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["dbpedia_spotlight"],
+        # options_ent=["wordnet", "dbpedia_spotlight","spacy"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel"],

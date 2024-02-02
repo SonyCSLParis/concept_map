@@ -27,14 +27,14 @@ if __name__ == '__main__':
     NB_TRIPLES, NB_TRIPLES_HYPER, NB_TRIPLES_HYPO,  NB_TRIPLES_MAPPED = 0, 0, 0, 0
     CONTEXT, TRIPLETS = [], []
 
-    for topic in sorted(os.listdir("src/fine_tuning_rebel/Corpora/Biology/")):
+    for topic in sorted(os.listdir("src/fine_tune_rebel/Corpora/Biology/")):
         print(topic)
         
         try:
-            file_n = os.listdir(f"src/fine_tuning_rebel/Corpora/Biology/{topic}/gold/")[0]
-            triples = pd.read_csv(f"src/fine_tuning_rebel/Corpora/Biology/{topic}/gold/{file_n}", header=None)
-            file_n = os.listdir(f"src/fine_tuning_rebel/Corpora/Biology/{topic}/text/")[0]
-            text = open(f"src/fine_tuning_rebel/Corpora/Biology/{topic}/text/{file_n}", 'r').read()
+            file_n = os.listdir(f"src/fine_tune_rebel/Corpora/Biology/{topic}/gold/")[0]
+            triples = pd.read_csv(f"src/fine_tune_rebel/Corpora/Biology/{topic}/gold/{file_n}", header=None)
+            file_n = os.listdir(f"src/fine_tune_rebel/Corpora/Biology/{topic}/text/")[0]
+            text = open(f"src/fine_tune_rebel/Corpora/Biology/{topic}/text/{file_n}", 'r').read()
             doc = NLP(text)
             sents = list(doc.sents)
 
@@ -57,6 +57,6 @@ if __name__ == '__main__':
         print("===============")
 
     print(NB_TRIPLES, NB_TRIPLES_HYPER, NB_TRIPLES_HYPO, NB_TRIPLES_MAPPED)
-    pd.DataFrame({"context": CONTEXT, "triplets": TRIPLETS}).to_csv("src/fine_tuning_rebel/cm_biology.csv")
+    pd.DataFrame({"context": CONTEXT, "triplets": TRIPLETS}).to_csv("src/fine_tune_rebel/cm_biology.csv")
     T_END = datetime.now()
     print(f"Finished at {T_END}, took {T_END-T_START}")

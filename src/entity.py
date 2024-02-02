@@ -1,7 +1,7 @@
 from typing import Union, List
 import requests
 from nltk.corpus import wordnet as wn
-
+from settings import *
 
 class EntityExtractor:
     """ Extracting entities from text """
@@ -14,10 +14,12 @@ class EntityExtractor:
 
         Default: calls Spotlight API
         Custom: using local spacy model """
-        self.options_p = ["dbpedia_spotlight", "wordnet"]
+        self.options_p = ["dbpedia_spotlight", "wordnet","spacy"]
         self.options_to_f = {
             "dbpedia_spotlight": self.get_dbs_ent,
-            "wordnet": self.get_wordnet_ent
+            "wordnet": self.get_wordnet_ent,
+            "spacy": self.get_spacy_ent,
+
         }
         self.check_params(options=options, confidence=confidence)
 
@@ -59,12 +61,37 @@ class EntityExtractor:
 
     def get_wordnet_ent(self, text: str):
         words = text.split()
-        entities = set()
+        entities = {"wordnet": []}
+
         for word in words:
             synsets = wn.synsets(word)
             for synset in synsets:
-                entities.add((synset.pos(), synset.name()))
-        return entities
+                entities["wordnet"].append((synset.pos(), synset.name()))
+
+        unique_tuples_set = set(entities["wordnet"])
+
+        found_wordnet_entities_set = set()
+
+        for pos, synset in unique_tuples_set:
+            words = [lemma.name() for lemma in wn.synset(synset).lemmas()]
+            found_wordnet_entities_set.update(
+                {token.text for token in nlp(text) if token.text.lower() in words and token.ent_type_ != ''}
+            )
+
+        found_wordnet_entities = list(found_wordnet_entities_set)
+        entities['wordnet'] = found_wordnet_entities
+        unique_tuples_set.add(tuple(found_wordnet_entities))
+
+        return entities['wordnet']
+
+    def get_spacy_ent(self, text: str):
+        doc = nlp(text)
+        found_spacy_entities_set = set()
+
+        for ent in doc.ents:
+            found_spacy_entities_set.add(ent.text.lower())
+        found_spacy_entities_set = list(found_spacy_entities_set)
+        return found_spacy_entities_set
 
     def get_payload(self, text: str):
         """ Payload for requests """
@@ -76,7 +103,7 @@ class EntityExtractor:
         for option in self.options:
             entities = self.options_to_f[option](text=text)
             res[option] = entities
-            print("Found entities:", entities)
+            # print("Found entities:", entities)
 
         return res
 

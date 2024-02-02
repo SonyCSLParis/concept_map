@@ -18,7 +18,7 @@ LEARNING_RATE = 0.000025
 EPOCHS = 10
 BATCH_SIZE = 4
 SEED = 1
-SAVE_PATH = 'src/fine_tuning_rebel/finetuned_rebel.pth'
+SAVE_PATH = 'src/fine_tune_rebel/finetuned_rebel.pth'
 
 STATS_REPORTS = {
     'best_metric': None, 'epoch': None, 'loss': None, 'val_loss': None
@@ -406,8 +406,8 @@ def make_predictions(texts, path_to_model):
 if __name__ == "__main__":
     #data = pd.read_csv('drive/MyDrive/rebel_format_v2.csv')
     # df_train, df_val = train_test_split(data, test_size=0.1, random_state=SEED)
-    DF_TRAIN = pd.read_csv('src/fine_tuning_rebel/cm_biology_train.csv')
-    DF_VAL = pd.read_csv('src/fine_tuning_rebel/cm_biology_eval.csv')
+    DF_TRAIN = pd.read_csv('src/fine_tune_rebel/cm_biology_train.csv')
+    DF_VAL = pd.read_csv('src/fine_tune_rebel/cm_biology_eval.csv')
     #del data
 
     MODEL_CHECKPOINT = "Babelscape/rebel-large"
@@ -415,15 +415,15 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained(MODEL_CHECKPOINT)
 
     train_loop(MODEL, DF_TRAIN, DF_VAL)
-    f = open("src/fine_tuning_rebel/finetuning_report.txt", "w+", encoding='utf-8')
+    f = open("src/fine_tune_rebel/finetuning_report.txt", "w+", encoding='utf-8')
     f.write("TRAINING & EVAL\n\n")
     f.write(f"Best metric: {STATS_REPORTS['best_metric']}\n")
     f.write(f"Epoch: {STATS_REPORTS['epoch']}\n")
     f.write(f"Training loss: {STATS_REPORTS['loss']}\n")
     f.write(f"Validation loss: {STATS_REPORTS['val_loss']}\n======\n\n======\n\n")
 
-    test_data = pd.read_csv('src/fine_tuning_rebel/cm_biology_test.csv')
-    MODEL = torch.load('src/fine_tuning_rebel/finetuned_rebel.pth')
+    test_data = pd.read_csv('src/fine_tune_rebel/cm_biology_test.csv')
+    MODEL = torch.load('src/fine_tune_rebel/finetuned_rebel.pth')
     test_model(test_data, MODEL)
 
     f.write("TEST\n\n")
@@ -437,5 +437,5 @@ if __name__ == "__main__":
         f.write("======\n\n")
     f.close()
 
-    texts, results = make_predictions(texts=test_data.context.to_list(), path_to_model='src/fine_tuning_rebel/finetuned_rebel.pth')
-    pd.DataFrame({"context": texts, "triplets": results}).to_csv("src/fine_tuning_rebel/cm_biology_test_predicted.csv")
+    texts, results = make_predictions(texts=test_data.context.to_list(), path_to_model='src/fine_tune_rebel/finetuned_rebel.pth')
+    pd.DataFrame({"context": texts, "triplets": results}).to_csv("src/fine_tune_rebel/cm_biology_test_predicted.csv")
