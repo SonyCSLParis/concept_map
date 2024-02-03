@@ -31,7 +31,8 @@ class TextSummarizer:
         self.num_sentences = num_sentences
 
         self.nlp = spacy.load("en_core_web_lg")
-        self.limit = 16385
+        # self.limit = 16385
+        self.limit = 14000
     
     def check_params(self, method, api_key_gpt, engine, temperature, summary_percentage, num_sentences):
         if method not in self.method_p:
