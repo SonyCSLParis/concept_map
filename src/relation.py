@@ -9,18 +9,20 @@ from torch.utils.data import DataLoader
 from datasets import Dataset
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from fine_tune_rebel.run_rebel import extract_triples
-
+from settings import *
 
 class RelationExtractor:
     """ Extracting relations from text """
 
-    def __init__(self, spacy_model: str, options: List[str] = ["rebel"],
+    def __init__(self, spacy_model: str, options: List[str] = ["rebel","dependency"],
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None, local_rm: Union[bool, None] = None):
         """ local_m: whether the model is locally stored or not """
-        self.options_p = ["rebel"]
+        self.options_p = ["rebel", "dependency"]
         self.options_to_f = {
-            "rebel": self.get_rebel_rel
+            "rebel": self.get_rebel_rel,
+            "dependency": self.get_dependencymodel
+
         }
         self.check_params(options=options, rebel_t=rebel_tokenizer,
                           rebel_m=rebel_model, local_rm=local_rm)
@@ -57,6 +59,74 @@ class RelationExtractor:
             model = torch.load(model)
         model.to(device)
         return model
+
+    @staticmethod
+    def get_dependencymodel(sentences: str, entities: Union[List[str], None]):
+
+        triplets = []
+        for sentence in sentences:
+            doc = nlp(sentence)
+            if entities == None :
+                for token in doc:
+                    if token.dep_ in ["nsubj", "nsubjpass", "agent", "csubjpass",
+                                      "csubj"] and token.head.pos_ in ["VERB", "AUX", "ROOT"] :
+                        subject = token.text
+                        verb = token.head.text
+                        for child in token.head.children:
+                            if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
+                                              "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"]:
+                                obj = child.text
+                                triplets.append((subject, verb, obj))
+                            elif child.dep_ in ["prep"]:
+                                obj = child.text
+                                prep_s = [childx.text for childx in child.children if
+                                          childx.dep_ == 'appos']
+                                prep = ''.join(prep_s)
+                                triplets.append((subject, verb, obj + " " + prep))
+                    elif token.dep_ == 'prep':
+                        pobj = [child.text for child in token.children if child.dep_ == 'pobj']
+                        right_edge = [child.right_edge.text for child in token.children if
+                                      child.dep_ == 'pobj' and child.right_edge.dep_ == "appos"]
+                        left_edge = [child.right_edge.text for child in token.children if
+                                     child.dep_ == 'pobj' and child.left_edge.dep_ == "appos"]
+                        if pobj and right_edge:
+                            object_ = ' '.join([token.text] + pobj + right_edge)
+                            triplets.append((subject, verb, object_))
+                        if pobj and left_edge:
+                            object_ = ' '.join([token.text] + pobj + right_edge)
+                            triplets.append((subject, verb, object_))
+            else:
+                for token in doc:
+                    for ent in entities:
+                        if token.text in ent :
+                            if token.dep_ in ["nsubj", "nsubjpass", "agent", "csubjpass",
+                                              "csubj"] and token.head.pos_ in ["VERB", "AUX", "ROOT"] :
+                                subject = token.text
+                                verb = token.head.text
+                                for child in token.head.children:
+                                    if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
+                                                      "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"] :
+                                        obj = child.text
+                                        triplets.append((subject, verb, obj))
+                                    elif child.dep_ in ["prep"]:
+                                        obj = child.text
+                                        prep_s = [childx.text for childx in child.children if
+                                                  childx.dep_ == 'appos' ]
+                                        prep = ''.join(prep_s)
+                                        triplets.append((subject, verb, obj + " " + prep))
+                            elif token.dep_ == 'prep':
+                                pobj = [child.text for child in token.children if child.dep_ == 'pobj']
+                                right_edge = [child.right_edge.text for child in token.children if
+                                              child.dep_ == 'pobj' and child.right_edge.dep_ == "appos" ]
+                                left_edge = [child.right_edge.text for child in token.children if
+                                             child.dep_ == 'pobj' and child.left_edge.dep_ == "appos"]
+                                if pobj and right_edge:
+                                    object_ = ' '.join([token.text] + pobj + right_edge)
+                                    triplets.append((subject, verb, object_))
+                                if pobj and left_edge:
+                                    object_ = ' '.join([token.text] + pobj + right_edge)
+                                    triplets.append((subject, verb, object_))
+        return triplets
 
     def check_params(self, options, rebel_t, rebel_m, local_rm):
         """ Check that each parameter is correct for the options """
@@ -141,7 +211,7 @@ class RelationExtractor:
 
 if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
-        options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
+        options=["dependency"], rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         spacy_model="en_core_web_lg")
     SENTENCES = [
@@ -162,9 +232,9 @@ if __name__ == '__main__':
     ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
 
     print("## WITHOUT ENTITIES")
-    RES = REL_EXTRACTOR(sentences=SENTENCES)
-    print(RES)
-    print("==========")
+    # RES = REL_EXTRACTOR(sentences=SENTENCES)
+    # print(RES)
+    # print("==========")
     print("## WITH ENTITIES")
     RES = REL_EXTRACTOR(sentences=SENTENCES, entities=ENTITIES)
     print(RES)

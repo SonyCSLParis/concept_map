@@ -10,7 +10,6 @@ from tqdm import tqdm
 from loguru import logger
 from preprocess import PreProcessor
 from nltk.corpus import wordnet as wn
-
 from entity import EntityExtractor
 from preprocess import PreProcessor
 from relation import RelationExtractor
@@ -143,6 +142,7 @@ class CMPipeline:
         if verbose:
             logger.info("Relation extraction")
 
+        # total_time = time.time() - start_time
         relation_extraction_start_time = time.time()
         for sent in sentences_input:
             print(sent)
@@ -169,7 +169,7 @@ if __name__ == '__main__':
         options_ent=["dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
-        options_rel=["rebel"],
+        options_rel=["rebel","dependency"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="Babelscape/rebel-large", local_rm=False,
         summary_how="all", summary_method="chat-gpt",

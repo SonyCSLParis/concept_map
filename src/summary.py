@@ -131,7 +131,6 @@ if __name__ == '__main__':
         method="chat-gpt",
         summary_percentage=60,
         temperature=0.0)
-
     TEXT = """
         James Madison’s Biography
 James & Dolley Madison Born on March 16, 1751 at his grandmother’s home in Port Conway, Virginia, James Madison was the eldest of the twelve children of James Madison Sr. and Nelly Conway Madison.

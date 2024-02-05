@@ -11,6 +11,7 @@ from tqdm import tqdm
 from data_load import DataLoader
 from evaluation import EvaluationMetrics
 from pipeline import CMPipeline
+from settings import *
 
 def get_save_folder():
     """ Save folder """
@@ -176,9 +177,9 @@ if __name__ == '__main__':
     from settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
-        folder_path="./src/data/Corpora_Falke/Wiki/train",
+        #folder_path="./src/data/Corpora_Falke/Wiki/train",
         # folder_path="./data",
-        # folder_path=WIKI_TRAIN + "101",
+        folder_path=WIKI_TRAIN + "101",
         type_data="multi", one_cm=False,
 
         # PIPELINE PARAMS
@@ -186,7 +187,7 @@ if __name__ == '__main__':
         options_ent=["dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
-        options_rel=["rebel"],
+        options_rel=["dependency"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         summary_how = "single", summary_method="chat-gpt",
