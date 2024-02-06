@@ -15,6 +15,7 @@ from preprocess import PreProcessor
 from relation import RelationExtractor
 from settings import API_KEY_GPT
 from summary import TextSummarizer
+from importance_ranking import *
 
 class CMPipeline:
     """ class for the whole pipeline """
@@ -34,6 +35,7 @@ class CMPipeline:
                  engine: Union[str, None] = None,
                  temperature: Union[str, None] = None,
                  summary_percentage: Union[str, None] = None,
+                 options_ranker : Union[List[str], None] = None,
                  num_sentences: Union[int, None] = None):
 
         # Summary options: 
@@ -50,7 +52,7 @@ class CMPipeline:
             "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
             "relation": {
                 "model_tokenizer": rebel_tokenizer, "model": rebel_model,
-                "local_rm": local_rm},
+                "local_rm": local_rm}, "importance_ranker": {"options_ranker": options_ranker},
             "summary": {"method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage, "num_sentences": num_sentences}
         }
 
@@ -65,6 +67,8 @@ class CMPipeline:
         self.summarizer = TextSummarizer(
             method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature, summary_percentage=summary_percentage, num_sentences=num_sentences
         ) if summary_method else None
+        self.importance_ranker = ImportanceRanker(options=options_ranker) \
+            if options_ranker else None
 
     def check_params(self, preprocess, spacy_model, summary_method, summary_how):
         """ Check consistency of params """
@@ -72,6 +76,9 @@ class CMPipeline:
             raise ValueError("For preprocessing, you need to enter `spacy_model`")
         if summary_how and summary_how not in self.summary_p:
             raise ValueError(f"For summarisation, `summary_how` should be in {self.summary_p}")
+
+    def is_list_of_lists(self,lst):
+        return isinstance(lst, list) and all(isinstance(elem, list) for elem in lst)
 
     def __call__(self, input_content: Union[str, List[str]], verbose: bool = False):
 
@@ -91,6 +98,35 @@ class CMPipeline:
         else:
             sentences = docs
         preprocessing_time = time.time() - start_time
+
+        # importance ranking
+        if verbose:
+            logger.info("Importance Ranking")
+
+        if self.importance_ranker:
+            if not isinstance(sentences, list):
+                raise ValueError("Input must be a list of sentences")
+            else :
+                print(sentences)
+                flattened_list = [sentence for sublist in sentences for sentence in sublist]
+                print(flattened_list)
+                ranking_generation_start_time = time.time()
+                if "page_rank" in self.params["importance_ranker"]["options_ranker"]:
+                    ranking = ImportanceRanker.compute_page_rank(self,flattened_list)
+                if "text_rank" in self.params["importance_ranker"]["options_ranker"]:
+                    ranking = ImportanceRanker.compute_text_rank(self,flattened_list)
+                if "tfidf" in self.params["importance_ranker"]["options_ranker"]:
+                    ranking = ImportanceRanker.compute_page_rank(self,flattened_list)
+                if "word2vec" in self.params["importance_ranker"]["options_ranker"]:
+                    ranker.train_word2vec_model(sentences)
+                    ranking = ImportanceRanker.word_embedding_similarity(self,flattened_list)
+                logger.info(f"Ranking : {ranking}")
+                print(ranking)
+                ranking_extraction_time = time.time() - ranking_generation_start_time
+
+        else:
+            ranking = None
+            ranking_extraction_time = 0
 
         # Summary generation
         if verbose:
@@ -154,6 +190,7 @@ class CMPipeline:
         # ADD POST PROCESSING? (TBD)
         logger.info(f"Total execution time: {total_time:.4f}s")
         logger.info(f"Preprocessing time: {preprocessing_time:.4f}s")
+        logger.info(f"Ranking extraction time: {ranking_extraction_time:.4f}s")
         logger.info(f"Summary generation time: {summary_generation_time:.4f}s")
         logger.info(f"Entity extraction time: {entities_extraction_time:.4f}s")
         logger.info(f"Relation extraction time: {relation_extraction_time:.4f}s")
@@ -167,6 +204,7 @@ if __name__ == '__main__':
         preprocess=True, spacy_model="en_core_web_lg",
         # options_ent=["wordnet", "dbpedia_spotlight", "spacy"],
         options_ent=["dbpedia_spotlight"],
+        options_ranker=["page_rank","text_rank","tfidf","word2vec"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel","dependency"],
@@ -182,5 +220,5 @@ if __name__ == '__main__':
     """
     RES = PIPELINE(input_content=TEXT, verbose=True)
     print(RES[0])
-    print("Summary:")
-    print(RES[1]["summary"])
+    print("Ranker:")
+    print(RES[1]["ranker"])
