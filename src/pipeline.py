@@ -97,11 +97,11 @@ class CMPipeline:
             logger.info(message)
     
     @staticmethod
-    def check_input_summary(input, summary):
+    def check_input_summary(input_, summary):
         if summary:
-            if isinstance(input_content, str) and len(summary) != 1:
+            if isinstance(input_, str) and len(summary) != 1:
                 raise ValueError("`input_content` is a string, hence `summary` should have length 1")
-            if isinstance(input_content, list) and len(input_content) != len(summary):
+            if isinstance(input_, list) and len(input_) != len(summary):
                 raise ValueError("`summary` should be the same length as `input_content`")
         return
     
@@ -118,7 +118,7 @@ class CMPipeline:
             * if non null, SKIPPING sentence formatting, preprocessing and summary
         - verbose: whether to output info during the process or no (better for debugging/tracking)
         """
-        self.check_input_summary(input=input_content, summary=summaries_list)
+        self.check_input_summary(input_=input_content, summary=summaries_list)
 
         if isinstance(input_content, str):
             input_content = [input_content]
@@ -160,6 +160,7 @@ class CMPipeline:
         
         else:  # cached summaries > formatting them to be used as inputs for the rest of the pipeline
             summary = None
+            sentences = []
             preprocessing_time = 0
             summary_generation_time = 0
             sentences_input = [self.nlp(text) for text in summaries_list]

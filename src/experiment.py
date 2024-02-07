@@ -95,6 +95,7 @@ class ExperimentRun:
         metrics = {}
         logs = {}
         logger.info(f"Running experiments for the following parameters: {self.params}")
+        logger.info(f"Running experiments for the following summaries: {self.data.summaries}")
 
         # Save folder
         if not os.path.exists(save_folder):
@@ -123,7 +124,7 @@ class ExperimentRun:
             input_content = [open(path, "r", encoding="utf-8").read() for _, path in folder_info["text"]]
 
             if self.data.summaries:
-                file_order = [x[0] for x, _ in folder_info["text"]]
+                file_order = [x for x, _ in folder_info["text"]]
                 summaries_list = [self.data.summaries[folder][x] for x in file_order]
                 summaries_list = [open(path, "r", encoding="utf-8").read() for path in summaries_list]
             else:
