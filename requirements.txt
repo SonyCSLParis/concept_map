@@ -118,7 +118,6 @@ sentence-transformers==2.2.2
 sentencepiece==0.1.99
 shellingham==1.5.0.post1
 setuptools  == 67.7.2
-sklearn==0.0.post5
 six== 1.16.0
 spacy-dbpedia-spotlight==0.2.6
 smart-open==6.3.0
