@@ -35,7 +35,6 @@ class CMPipeline:
                  engine: Union[str, None] = None,
                  temperature: Union[str, None] = None,
                  summary_percentage: Union[str, None] = None,
-                 num_sentences: Union[int, None] = None,
                  ranking: Union[str, None] = None,
                  ranking_how: Union[str, None] = None,
                  ranking_int_threshold: Union[int, None] = None,
@@ -58,7 +57,7 @@ class CMPipeline:
             "relation": {
                 "model_tokenizer": rebel_tokenizer, "model": rebel_model,
                 "local_rm": local_rm},
-            "summary": {"method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage, "num_sentences": num_sentences},
+            "summary": {"method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage},
             "ranking": {"ranking": ranking, "ranking_how": ranking_how,
                         "int_threshold": ranking_int_threshold,
                         "perc_threshold": ranking_perc_threshold}
@@ -73,7 +72,7 @@ class CMPipeline:
         self.nlp = spacy.load(spacy_model)
         self.summary_how = summary_how
         self.summarizer = TextSummarizer(
-            method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature, summary_percentage=summary_percentage, num_sentences=num_sentences
+            method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature, summary_percentage=summary_percentage
         ) if summary_method else None
         self.ranking_how = ranking_how
         self.importance_ranker = ImportanceRanker(ranking=ranking, int_threshold=ranking_int_threshold, perc_threshold=ranking_perc_threshold) \
@@ -189,7 +188,7 @@ class CMPipeline:
         return [x for _, val in res.items() for x in val], \
             {"text": "\n".join(["\n".join(x) for x in sentences]),
             "entities": entities,"summary": summary,
-            "ranked": "\n".join(["\n".join(x) for x in ranked_ents])}
+            "ranked": "\n".join(["\n".join(x) for x in ranked_sents])}
 
 
 if __name__ == '__main__':
@@ -205,7 +204,7 @@ if __name__ == '__main__':
         summary_how="single", summary_method="chat-gpt",
         api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
         summary_percentage=80, temperature=0.0,
-        num_sentences=None, ranking="word2vec", ranking_how="single",
+        ranking="word2vec", ranking_how="single",
         ranking_perc_threshold=0.8, ranking_int_threshold=None)
     print(PIPELINE.params)
     TEXT = """
@@ -215,4 +214,4 @@ if __name__ == '__main__':
     RES = PIPELINE(input_content=TEXT, verbose=True)
     print(RES[0])
     print("Ranker:")
-    print(RES[1]["ranker"])
+    print(RES[1]["ranked"])

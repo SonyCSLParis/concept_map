@@ -1,40 +1,38 @@
 import spacy
 import time
 import openai
+from openai import OpenAI
 from datetime import datetime
 import requests
 from typing import Union
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.summarizers.lex_rank import LexRankSummarizer
-from settings import API_KEY_GPT
+from settings import API_KEY_GPT, nlp
 
-openai.api_key = API_KEY_GPT
+client = OpenAI(api_key=API_KEY_GPT)
 
 class TextSummarizer:
     def __init__(self, method: str,
                  api_key_gpt: Union[str, None] = None,
                  engine: Union[str, None] = None,
                  temperature: Union[str, None] = None,
-                 summary_percentage: Union[str, None] = None,
-                 num_sentences: Union[int, None] = None):
+                 summary_percentage: Union[str, None] = None):
         self.method_p = ["lex-rank", "chat-gpt"]
         self.check_params(method=method, api_key_gpt=api_key_gpt, engine=engine,
-                          temperature=temperature, summary_percentage=summary_percentage,
-                          num_sentences=num_sentences)
+                          temperature=temperature, summary_percentage=summary_percentage)
 
         self.method = method
         self.api_key_gpt = api_key_gpt
         self.engine = engine
         self.temperature = temperature
         self.summary_percentage = summary_percentage
-        self.num_sentences = num_sentences
 
         self.nlp = spacy.load("en_core_web_lg")
         # self.limit = 16385
         self.limit = 14000
     
-    def check_params(self, method, api_key_gpt, engine, temperature, summary_percentage, num_sentences):
+    def check_params(self, method, api_key_gpt, engine, temperature, summary_percentage):
         if method not in self.method_p:
             raise ValueError(f"Invalid summary method: {method}, possible options are: {self.method_p}")
         if method == "chat-gpt":
@@ -42,13 +40,10 @@ class TextSummarizer:
                 raise ValueError(f"For {method} summarisation, `api_key_gpt` must be non-empty string")
             if (not isinstance(engine, str)) or (not engine):
                 raise ValueError(f"For {method} summarisation, `engine` must be non-empty string")
-            if not isinstance(summary_percentage, int):
-                raise ValueError(f"For {method} summarisation, `summary_percentage` must be int")
             if not isinstance(temperature, float):
                 raise ValueError(f"For {method} summarisation, `temperature` must be int")
-        if method == "lex-rank":
-            if not isinstance(num_sentences, int):
-                raise ValueError(f"For {method} summarisation, `num_sentences` must be int")
+        if not isinstance(summary_percentage, int):
+                raise ValueError(f"For {method} summarisation, `summary_percentage` must be int")
 
     def calculate_max_tokens(self, text: str, percentage: int):
         doc = self.nlp(text)
@@ -92,22 +87,32 @@ class TextSummarizer:
         # response.raise_for_status()
         # result = response.json()
 
-        summary = openai.ChatCompletion.create(
-            engine=self.engine,
-            prompt=f"Please summarize this text in {max_tokens} words or fewer:\n{text}\n\nSummary:",
+        # summary = openai.Completion.create(
+        #     engine=self.engine,
+        #     prompt=f"Please summarize this text in {max_tokens} words or fewer:\n{text}\n\nSummary:",
+        #     max_tokens=max_tokens,
+        #     temperature=self.temperature,
+        # )
+
+        completion = client.chat.completions.create(
+            model=self.engine,
+            messages = [
+                {"role": "user",
+                "content": f"Summarize this text in {max_tokens} words or fewer:\n{text}\n"}
+            ],
+            # prompt=f"Summarize this text in {max_tokens} words or fewer:\n{text}\n",
             max_tokens=max_tokens,
-            temperature=self.temperature,
-        )
+            temperature=self.temperature)
 
         try:
-            summary = summary["choices"][0]["text"].strip()
-            summary = summary.split("\n")[0]
-            return summary
+            return completion.choices[0].message.content
         except Exception as e:
             print(e)
             raise ValueError("Something went wrong with the summary")
 
-    def generate_lex_rank_summary(self, text: str, num_sentences: int):
+    def generate_lex_rank_summary(self, text: str):
+        doc = nlp(text)
+        num_sentences = int(self.summary_percentage/100 * len([x for x in doc.sents]))
         parser = PlaintextParser.from_string(text, Tokenizer("english"))
         summarizer = LexRankSummarizer()
         summary = summarizer(parser.document, num_sentences)
@@ -119,7 +124,7 @@ class TextSummarizer:
         - output = generated summary
         """
         if self.method == "lex-rank":
-            return self.generate_lex_rank_summary(text, self.num_sentences)
+            return self.generate_lex_rank_summary(text)
         # self.method == "chat-gpt"
         return self.generate_summary_with_gpt(text, self.summary_percentage, self.temperature)
 
@@ -127,7 +132,7 @@ class TextSummarizer:
 if __name__ == '__main__':
     summarizer = TextSummarizer(
         api_key_gpt=API_KEY_GPT,
-        engine="davinci-002",
+        engine="gpt-3.5-turbo",
         method="chat-gpt",
         summary_percentage=60,
         temperature=0.0)
@@ -148,6 +153,6 @@ In poor health, he returned to Montpelier, where he continued to read on a varie
     print(f"ChatGPT summary: \n {summary}")
 
     summarizer = TextSummarizer(
-        method="lex-rank", num_sentences=3)
+        method="lex-rank", summary_percentage=60)
     summary = summarizer(TEXT)
     print(f"LexRank summary: \n {summary}")
