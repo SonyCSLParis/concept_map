@@ -92,7 +92,7 @@ class TextSummarizer:
         # response.raise_for_status()
         # result = response.json()
 
-        summary = openai.Completion.create(
+        summary = openai.ChatCompletion.create(
             engine=self.engine,
             prompt=f"Please summarize this text in {max_tokens} words or fewer:\n{text}\n\nSummary:",
             max_tokens=max_tokens,

@@ -1,3 +1,4 @@
+import os
 import networkx as nx
 import numpy as np
 from gensim.models import Word2Vec
@@ -5,28 +6,38 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from summa import summarizer
 from typing import Union, List
+from loguru import logger
+
 
 class ImportanceRanker:
-    def __init__(self, options: List[str] = ["page_rank", "text_rank", "tfidf","word2vec"]):
+    def __init__(self, ranking: str, int_threshold: Union[int, None] = None,
+                 perc_threshold: Union[float, None] = None):
         self.options_ranker = ["page_rank", "text_rank", "tfidf","word2vec"]
         self.options_to_f = {
             "page_rank": self.compute_page_rank,
             "text_rank": self.compute_text_rank,
             "tfidf": self.tfidf_importance_ranking,
             "word2vec": self.word_embedding_similarity,
-
         }
-        self.check_params(options=options)
 
         self.params = {
-            "options": options,
+            "ranking": ranking,
         }
-        self.options = options
+        self.ranking = ranking
+        self.int_threshold = int_threshold
+        self.perc_threshold = perc_threshold
 
-    def check_params(self, options):
-        """ Check that each parameter is correct for the options """
-        if any(x not in self.options_ranker for x in options):
-            raise ValueError(f"All options in `options` must be from {self.options_ranker}")
+    def check_params(self, ranking, int_threshold, perc_threshold):
+        if ranking not in self.options_ranker:
+            raise ValueError(f"`ranking` param should be in {self.options_ranker}")
+        if (int_threshold and perc_threshold) or ((not int_threshold) and (not perc_threshold)):
+            raise ValueError("Either `int_threshold` or `perc_threshold` should be non-null (only one)")
+        if int_threshold:
+            if not isinstance(int_threshold, int):
+                raise ValueError("`int_threshold` should be int")
+        if perc_threshold:
+            if (not isinstance(perc_threshold, float)) or  not (0 < perc_threshold < 1):
+                raise ValueError("`perc_threshold` should be a float between 0 and 1")
 
     def compute_page_rank(self, sentences):
         """Compute the importance ranking of a list of sentences based on page rank"""
@@ -43,8 +54,7 @@ class ImportanceRanker:
         graph = nx.from_numpy_array(similarity_matrix)
         scores = nx.pagerank(graph)
         ranked_sentences = sorted(((scores[i], s) for i, s in enumerate(sentences)), reverse=True)
-        print(ranked_sentences)
-        return ranked_sentences
+        return [x[1] for x in ranked_sentences]
 
     def tfidf_importance_ranking(self, sentences):
         """Compute the importance ranking of a list of sentences based on tf-idf embedding"""
@@ -53,7 +63,6 @@ class ImportanceRanker:
         tfidf_scores = tfidf_matrix.sum(axis=1).A1
         ranked_indices = tfidf_scores.argsort()[::-1]
         ranked_sentences = [sentences[i] for i in ranked_indices]
-        print(ranked_sentences)
         return ranked_sentences
 
     def compute_text_rank(self, sentences):
@@ -62,7 +71,6 @@ class ImportanceRanker:
         summary = summarizer.summarize(text)
         sentences = summary.split('.')
         sentences = [sentence.strip() for sentence in sentences if sentence.strip()]
-        print(sentences)
         return sentences
 
     def train_word2vec_model(self, sentences, model_path='word2vec.model'):
@@ -88,27 +96,53 @@ class ImportanceRanker:
 
     def word_embedding_similarity(self, sentences, model_path='word2vec.model'):
         """Compute the importance ranking of a list of sentences based on Word2Vec embeddings"""
-        word2vec_model = ImportanceRanker.load_word2vec_model(model_path)
-        sentence_embeddings = [ImportanceRanker.average_embedding(sentence, word2vec_model) for sentence in sentences]
+        if not os.path.exists(model_path):
+            self.train_word2vec_model(sentences=sentences, model_path=model_path)
+        word2vec_model = self.load_word2vec_model(model_path)
+        sentence_embeddings = [self.average_embedding(sentence, word2vec_model) for sentence in sentences]
         similarity_matrix = cosine_similarity(sentence_embeddings)
         importance_scores = np.sum(similarity_matrix, axis=1)
         ranked_indices = importance_scores.argsort()[::-1]
         ranked_sentences = [sentences[i] for i in ranked_indices]
-        print(ranked_sentences)
         return ranked_sentences
+    
+    def __call__(self, sentences: List[str]):
+        if not isinstance(sentences, list):
+            raise ValueError("Input must be a list of sentences")
+        ranked_sent = self.options_to_f[self.ranking](sentences)
+        if not ranked_sent:
+            ranked_sent = sentences
+
+        if self.int_threshold:
+            limit = min(self.int_threshold, len(ranked_sent))
+            ranked_sent = ranked_sent[:limit]
+        if self.perc_threshold:
+            limit = int(self.perc_threshold * len(ranked_sent))
+            ranked_sent = ranked_sent[:limit]
+
+        return ranked_sent
+
 
 if __name__ == '__main__':
-    if __name__ == "__main__":
-        sentences = [
-            "Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document",
-            "As the problem of information overload has grown, and as the quantity of data has increased, so has interest in automatic summarization",
-            "Technologies that can make a coherent summary take into account variables such as length, writing style and syntax",
-            "An example of the use of summarization technology is search engines such as Google. Document summarization is another."
-        ]
+    sentences = [
+        "Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document",
+        "As the problem of information overload has grown, and as the quantity of data has increased, so has interest in automatic summarization",
+        "Technologies that can make a coherent summary take into account variables such as length, writing style and syntax",
+        "An example of the use of summarization technology is search engines such as Google. Document summarization is another."
+    ]
+    # ["page_rank", "text_rank", "tfidf","word2vec"]
+    ranker = ImportanceRanker(ranking="page_rank")
+    ranked_page_rank = ranker(sentences)
+    print(f"PAGE RANK\n{ranked_page_rank}\n==========")
 
-        ranker = ImportanceRanker()
-        ranked_page_rank = ranker.compute_page_rank(sentences)
-        ranked_tfidf = ranker.tfidf_importance_ranking(sentences)
-        ranked_text_rank = ranker.compute_text_rank(sentences)
-        ranker.train_word2vec_model(sentences)
-        ranked_word2vec = ranker.word_embedding_similarity(sentences)
+    ranker = ImportanceRanker(ranking="tfidf")
+    ranked_tfidf = ranker(sentences)
+    print(f"TFIDF\n{ranked_tfidf}\n==========")
+
+    ranker = ImportanceRanker(ranking="text_rank")
+    ranked_text_rank = ranker(sentences)
+    print(f"TEXT RANK\n{ranked_text_rank}\n==========")
+
+    ranker = ImportanceRanker(ranking="word2vec")
+    ranked_word2vec = ranker(sentences)
+    print(f"WORD2VEC\n{ranked_word2vec}\n==========")

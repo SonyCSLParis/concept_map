@@ -35,16 +35,21 @@ class CMPipeline:
                  engine: Union[str, None] = None,
                  temperature: Union[str, None] = None,
                  summary_percentage: Union[str, None] = None,
-                 options_ranker : Union[List[str], None] = None,
-                 num_sentences: Union[int, None] = None):
+                 num_sentences: Union[int, None] = None,
+                 ranking: Union[str, None] = None,
+                 ranking_how: Union[str, None] = None,
+                 ranking_int_threshold: Union[int, None] = None,
+                 ranking_perc_threshold: Union[float, None] = None):
 
         # Summary options: 
         # - `single`: summarising each text one by one
         # - `all`: summarising all texts
         self.summary_p = ["single", "all"]
+        self.ranking_p = ["single", "all"]
         self.check_params(
             preprocess=preprocess, spacy_model=spacy_model,
-            summary_method=summary_method, summary_how=summary_how
+            summary_method=summary_method, summary_how=summary_how,
+            ranking=ranking, ranking_how=ranking_how
         )
 
         self.params = {
@@ -52,8 +57,11 @@ class CMPipeline:
             "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
             "relation": {
                 "model_tokenizer": rebel_tokenizer, "model": rebel_model,
-                "local_rm": local_rm}, "importance_ranker": {"options_ranker": options_ranker},
-            "summary": {"method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage, "num_sentences": num_sentences}
+                "local_rm": local_rm},
+            "summary": {"method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage, "num_sentences": num_sentences},
+            "ranking": {"ranking": ranking, "ranking_how": ranking_how,
+                        "int_threshold": ranking_int_threshold,
+                        "perc_threshold": ranking_perc_threshold}
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
@@ -67,71 +75,46 @@ class CMPipeline:
         self.summarizer = TextSummarizer(
             method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature, summary_percentage=summary_percentage, num_sentences=num_sentences
         ) if summary_method else None
-        self.importance_ranker = ImportanceRanker(options=options_ranker) \
-            if options_ranker else None
+        self.ranking_how = ranking_how
+        self.importance_ranker = ImportanceRanker(ranking=ranking, int_threshold=ranking_int_threshold, perc_threshold=ranking_perc_threshold) \
+            if ranking else None
 
-    def check_params(self, preprocess, spacy_model, summary_method, summary_how):
+    def check_params(self, preprocess, spacy_model, summary_method, summary_how,
+                     ranking, ranking_how):
         """ Check consistency of params """
         if preprocess and (not spacy_model):
             raise ValueError("For preprocessing, you need to enter `spacy_model`")
         if summary_how and summary_how not in self.summary_p:
             raise ValueError(f"For summarisation, `summary_how` should be in {self.summary_p}")
+        if ranking and ranking_how not in self.ranking_p:
+            raise ValueError(f"For ranking, `ranking_how` should be in {self.ranking_p}")
+        if summary_how == 'all' and ranking_how == 'single':
+            raise ValueError(f"If `summary_how` is `all`, then `ranking_how` can only be `all`") 
 
-    def is_list_of_lists(self,lst):
-        return isinstance(lst, list) and all(isinstance(elem, list) for elem in lst)
-
+    @staticmethod
+    def log_info(message, verbose):
+        if verbose:
+            logger.info(message)
+    
     def __call__(self, input_content: Union[str, List[str]], verbose: bool = False):
 
         if isinstance(input_content, str):
             input_content = [input_content]
         start_time = time.time()
 
-        # Retrieving sentences for each element in input_content
+        # SENTENCE FORMATTING
         docs = [self.nlp(text) for text in input_content]
         docs = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in docs]
 
-        # Preprocessing
-        if verbose:
-            logger.info("Preprocessing")
-        if self.preprocess:
-            sentences = [[self.preprocess(x) for x in sentences] for sentences in docs]
-        else:
-            sentences = docs
+        # PREPROCESSING
+        self.log_info(message="Preprocessing", verbose=verbose)
+        sentences = [[self.preprocess(x) for x in sentences] for sentences in docs] \
+            if self.preprocess else docs
         preprocessing_time = time.time() - start_time
+        self.log_info(message="Preprocessing done", verbose=verbose)
 
-        # importance ranking
-        if verbose:
-            logger.info("Importance Ranking")
-
-        if self.importance_ranker:
-            if not isinstance(sentences, list):
-                raise ValueError("Input must be a list of sentences")
-            else :
-                print(sentences)
-                flattened_list = [sentence for sublist in sentences for sentence in sublist]
-                print(flattened_list)
-                ranking_generation_start_time = time.time()
-                if "page_rank" in self.params["importance_ranker"]["options_ranker"]:
-                    ranking = ImportanceRanker.compute_page_rank(self,flattened_list)
-                if "text_rank" in self.params["importance_ranker"]["options_ranker"]:
-                    ranking = ImportanceRanker.compute_text_rank(self,flattened_list)
-                if "tfidf" in self.params["importance_ranker"]["options_ranker"]:
-                    ranking = ImportanceRanker.compute_page_rank(self,flattened_list)
-                if "word2vec" in self.params["importance_ranker"]["options_ranker"]:
-                    ranker.train_word2vec_model(sentences)
-                    ranking = ImportanceRanker.word_embedding_similarity(self,flattened_list)
-                logger.info(f"Ranking : {ranking}")
-                print(ranking)
-                ranking_extraction_time = time.time() - ranking_generation_start_time
-
-        else:
-            ranking = None
-            ranking_extraction_time = 0
-
-        # Summary generation
-        if verbose:
-            logger.info("Summary generation")
-
+        # SUMMARY -> input list of list, outputs sentences_input list of lists
+        self.log_info(message="Summary generation", verbose=verbose)
         if self.summarizer:
             summary_generation_start_time = time.time()
             if self.summary_how == "single":  # summarising each document one by one
@@ -140,29 +123,41 @@ class CMPipeline:
                 for text in tqdm(texts):
                     summary.append(self.summarizer(text=text))
                 sentences_input = [self.nlp(text) for text in summary]
-                sentences_input = list(set([sent.text.strip() for x in sentences_input for sent in x.sents if sent.text.strip()]))
+                sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
             else:  # self.summary_how == "all" -> summarising all documents in one go
-                test = "\n".join(["\n".join(elt) for elt in sentences])
-                print(f'SUMMARY INPUT: {test}')
                 summary = self.summarizer("\n".join(["\n".join(elt) for elt in sentences]))
-                sentences_input = self.nlp(summary)
-                sentences_input = list(set([sent.text.strip() for sent in sentences_input.sents if sent.text.strip()])) 
+                sentences_input = [self.nlp(summary)]
+                sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
 
             summary_generation_time = time.time() - summary_generation_start_time
-            # logger.info(f"Summary found is :{summary}")
+            logger.info(f"Summary found is :{summary}")
         else:
-            sentences_input = [x for y in sentences for x in y]
+            sentences_input = sentences
             summary = None
 
-        if verbose:
-            logger.info("Entity extraction")
+        # IMPORTANCE RANKING, input sentences_input list of list, output ranked_sents list of str
+        self.log_info(message="Importance Ranking", verbose=verbose)
+        if self.importance_ranker:
+            ranking_generation_start_time = time.time()
+            if self.ranking_how == "single":
+                ranked_sents = []
+                for sent in tqdm(sentences_input):
+                    ranked_sents += self.importance_ranker(sentences=sent)
+            if self.ranking_how == "all":
+                ranked_sents = self.importance_ranker(sentences=[sent for x in sentences_input for sent in x])
+            ranking_extraction_time = time.time() - ranking_generation_start_time
+            logger.info(f"Ranked : {ranked_sents}")
 
-        sentences_input = [x for x in sentences_input if len(x.split(" ")) > 10]
-
-        # Entity extraction
+        else:
+            ranked_sents = [sent for x in sentences_input for sent in x]
+            ranking_extraction_time = 0
+        
+        # ENTITY EXTRACTION, input entity_input list of str, outputs entities list of str ()
+        entity_input = ranked_sents
+        self.log_info(message="Entity extraction", verbose=verbose)
         if self.entity:
             entities_start_time = time.time()
-            entities = self.entity(text="\n".join(sentences_input))
+            entities = self.entity(text="\n".join(entity_input))
             if "dbpedia_spotlight" in self.params["entity"]["options_ent"]:
                 entities["dbpedia_spotlight"] = [x[1] for x in entities["dbpedia_spotlight"]]
             entities = list(set(x for _, v in entities.items() for x in v))
@@ -174,29 +169,27 @@ class CMPipeline:
             entities = None
             entities_extraction_time = 0
 
-        # Relation Extraction
-        if verbose:
-            logger.info("Relation extraction")
-
+        # RELATION EXTRACTION
+        self.log_info(message="Relation extraction", verbose=verbose)
         # total_time = time.time() - start_time
         relation_extraction_start_time = time.time()
-        for sent in sentences_input:
-            print(sent)
-        res = self.relation(sentences=sentences_input, entities=entities)
+        res = self.relation(sentences=ranked_sents, entities=entities)
         relation_extraction_time = time.time() - relation_extraction_start_time
 
         total_time = time.time() - start_time
 
-        # ADD POST PROCESSING? (TBD)
         logger.info(f"Total execution time: {total_time:.4f}s")
         logger.info(f"Preprocessing time: {preprocessing_time:.4f}s")
-        logger.info(f"Ranking extraction time: {ranking_extraction_time:.4f}s")
         logger.info(f"Summary generation time: {summary_generation_time:.4f}s")
+        logger.info(f"Ranking extraction time: {ranking_extraction_time:.4f}s")
         logger.info(f"Entity extraction time: {entities_extraction_time:.4f}s")
         logger.info(f"Relation extraction time: {relation_extraction_time:.4f}s")
 
         text_to_save = "\n".join(["\n".join(x) for x in sentences])
-        return [x for _, val in res.items() for x in val], {"text": "\n".join(["\n".join(x) for x in sentences]), "entities": entities,"summary": summary}
+        return [x for _, val in res.items() for x in val], \
+            {"text": "\n".join(["\n".join(x) for x in sentences]),
+            "entities": entities,"summary": summary,
+            "ranked": "\n".join(["\n".join(x) for x in ranked_ents])}
 
 
 if __name__ == '__main__':
@@ -204,15 +197,16 @@ if __name__ == '__main__':
         preprocess=True, spacy_model="en_core_web_lg",
         # options_ent=["wordnet", "dbpedia_spotlight", "spacy"],
         options_ent=["dbpedia_spotlight"],
-        options_ranker=["page_rank","text_rank","tfidf","word2vec"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         options_rel=["rebel","dependency"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="Babelscape/rebel-large", local_rm=False,
-        summary_how="all", summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT, engine="davinci-002",
-        summary_percentage=80, temperature=0.0, num_sentences=3)
+        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+        summary_how="single", summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
+        summary_percentage=80, temperature=0.0,
+        num_sentences=None, ranking="word2vec", ranking_how="single",
+        ranking_perc_threshold=0.8, ranking_int_threshold=None)
     print(PIPELINE.params)
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
