@@ -1,7 +1,7 @@
 from typing import Union, List
 import requests
 from nltk.corpus import wordnet as wn
-from settings import *
+from src.settings import *
 
 class EntityExtractor:
     """ Extracting entities from text """

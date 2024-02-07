@@ -1,7 +1,7 @@
 import os
 import ast
 import re
-from settings import *
+from src.settings import *
 
 
 def transform_content(input_content):

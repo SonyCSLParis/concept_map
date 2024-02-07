@@ -8,7 +8,7 @@ from typing import Union
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.summarizers.lex_rank import LexRankSummarizer
-from settings import API_KEY_GPT, nlp
+from src.settings import API_KEY_GPT, nlp
 
 client = OpenAI(api_key=API_KEY_GPT)
 
@@ -31,6 +31,7 @@ class TextSummarizer:
         self.nlp = spacy.load("en_core_web_lg")
         # self.limit = 16385
         self.limit = 14000
+        self.output_limit = 4096
     
     def check_params(self, method, api_key_gpt, engine, temperature, summary_percentage):
         if method not in self.method_p:
@@ -49,6 +50,7 @@ class TextSummarizer:
         doc = self.nlp(text)
         total_tokens = len(doc)
         max_tokens = int(total_tokens * (percentage / 100))
+        max_tokens = min(max_tokens, self.output_limit)
 
         len_prompt = 500
         if total_tokens + max_tokens < self.limit - len_prompt:
@@ -58,6 +60,7 @@ class TextSummarizer:
         new = int((self.limit - len_prompt)/(1+percentage/100))
         text = doc[:new].text
         max_tokens = int(new * (percentage / 100))
+        max_tokens = min(max_tokens, self.output_limit)
         return max_tokens, text
 
     def generate_summary_with_gpt(self, text: str, summary_percentage: int, temperature: float):

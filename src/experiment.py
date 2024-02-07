@@ -8,10 +8,10 @@ from typing import List, Union
 from datetime import datetime
 from loguru import logger
 from tqdm import tqdm
-from data_load import DataLoader
-from evaluation import EvaluationMetrics
-from pipeline import CMPipeline
-from settings import *
+from src.data_load import DataLoader
+from src.evaluation import EvaluationMetrics
+from src.pipeline import CMPipeline
+from src.settings import *
 
 def get_save_folder():
     """ Save folder """
@@ -52,6 +52,7 @@ class ExperimentRun:
     def __init__(self,
                  folder_path: str, type_data: str, one_cm: bool,
                  options_rel: List[str],
+                 summary_path: Union[str, None] = None,
                  preprocess: bool = False,
                  spacy_model: Union[str, None] = None,
                  options_ent: Union[List[str], None] = None,
@@ -65,9 +66,9 @@ class ExperimentRun:
                  api_key_gpt: Union[str, None] = None,
                  engine: Union[str, None] = None,
                  temperature: Union[str, None] = None,
-                 summary_percentage: Union[str, None] = None,
-                 num_sentences: Union[int, None] = None):  # Add summary_parameters
-        self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm)
+                 summary_percentage: Union[str, None] = None):  # Add summary_parameters
+        self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm,
+                               summary_path=summary_path)
 
         logger.info("Data Loader done!")
 
@@ -80,8 +81,7 @@ class ExperimentRun:
             api_key_gpt=api_key_gpt,
             engine=engine,
             temperature=temperature,
-            summary_percentage=summary_percentage,
-            num_sentences=num_sentences)
+            summary_percentage=summary_percentage)
         self.evaluation_metrics = EvaluationMetrics()
 
         self.params = self.pipeline.params
@@ -121,9 +121,17 @@ class ExperimentRun:
             nb_file = len(folder_info["text"])
             # Open all files to be taken into account for that subfolder
             input_content = [open(path, "r", encoding="utf-8").read() for _, path in folder_info["text"]]
+
+            if self.data.summaries:
+                file_order = [x[0] for x, _ in folder_info["text"]]
+                summaries_list = [self.data.summaries[folder][x] for x in file_order]
+                summaries_list = [open(path, "r", encoding="utf-8").read() for path in summaries_list]
+            else:
+                summaries_list = None
+
             start_ = datetime.now()
             logs[folder]["start"] =  str(start_)
-            c_relations, c_info = self.pipeline(input_content=input_content, verbose=True)
+            c_relations, c_info = self.pipeline(input_content=input_content, summaries_list=summaries_list, verbose=True)
 
             # for i_file, (name, path) in enumerate(tqdm(folder_info["text"])):
                 # file_t_log = f"[File {name}][{i_file+1}/{nb_file} ({round(100*(i_file+1)/nb_file)}%)]"
@@ -177,10 +185,12 @@ if __name__ == '__main__':
     from settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
-        #folder_path="./src/data/Corpora_Falke/Wiki/train",
+        folder_path="./src/data/Corpora_Falke/Wiki/train/101",
         # folder_path="./data",
-        folder_path=WIKI_TRAIN + "101",
-        type_data="multi", one_cm=False,
+        # folder_path=WIKI_TRAIN + "101",
+        type_data="multi", one_cm=True,
+        # summary_path=None,
+        summary_path="./summaries/chat-gpt/50/101",
 
         # PIPELINE PARAMS
         preprocess=True, spacy_model="en_core_web_lg",
@@ -190,8 +200,9 @@ if __name__ == '__main__':
         options_rel=["dependency"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
-        summary_how = "single", summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT, engine="davinci-002",
-        temperature=0.0, summary_percentage=80)
+        # summary_how = "single", summary_method="chat-gpt",
+        # api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
+        # temperature=0.0, summary_percentage=80
+        )
     # print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")

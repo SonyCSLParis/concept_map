@@ -8,8 +8,8 @@ import torch
 from torch.utils.data import DataLoader
 from datasets import Dataset
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-from fine_tune_rebel.run_rebel import extract_triples
-from settings import *
+from src.fine_tune_rebel.run_rebel import extract_triples
+from src.settings import *
 
 class RelationExtractor:
     """ Extracting relations from text """

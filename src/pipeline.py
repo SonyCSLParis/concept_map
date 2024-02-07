@@ -3,19 +3,20 @@
 Full pipeline
 """
 import sys
+from types import NoneType
 from typing import Union, List
 import spacy
 import time
 from tqdm import tqdm
 from loguru import logger
-from preprocess import PreProcessor
+from src.preprocess import PreProcessor
 from nltk.corpus import wordnet as wn
-from entity import EntityExtractor
-from preprocess import PreProcessor
-from relation import RelationExtractor
+from src.entity import EntityExtractor
+from src.preprocess import PreProcessor
+from src.relation import RelationExtractor
 from settings import API_KEY_GPT
-from summary import TextSummarizer
-from importance_ranking import *
+from src.summary import TextSummarizer
+from src.importance_ranking import ImportanceRanker
 
 class CMPipeline:
     """ class for the whole pipeline """
@@ -95,44 +96,74 @@ class CMPipeline:
         if verbose:
             logger.info(message)
     
-    def __call__(self, input_content: Union[str, List[str]], verbose: bool = False):
+    @staticmethod
+    def check_input_summary(input, summary):
+        if summary:
+            if isinstance(input_content, str) and len(summary) != 1:
+                raise ValueError("`input_content` is a string, hence `summary` should have length 1")
+            if isinstance(input_content, list) and len(input_content) != len(summary):
+                raise ValueError("`summary` should be the same length as `input_content`")
+        return
+    
+    def __call__(self, input_content: Union[str, List[str]],
+                 summaries_list: Union[List[str], None] = None,
+                 verbose: bool = False):
+        """
+        Parameters:
+        - input_content: either a string text, or a list of texts to process with the pipeline.
+            If string text > converted into list of one text to make it consistent
+        - summaries (optional, default to None):
+            * must be the same length as input_content
+            * summaries[i] is the text input_content[i] that was summarised, and cached beforehand
+            * if non null, SKIPPING sentence formatting, preprocessing and summary
+        - verbose: whether to output info during the process or no (better for debugging/tracking)
+        """
+        self.check_input_summary(input=input_content, summary=summaries_list)
 
         if isinstance(input_content, str):
             input_content = [input_content]
         start_time = time.time()
+        if isinstance(summaries_list, NoneType):  # no cached summaries > doing this on the spot
+            # SENTENCE FORMATTING
+            docs = [self.nlp(text) for text in input_content]
+            docs = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in docs]
 
-        # SENTENCE FORMATTING
-        docs = [self.nlp(text) for text in input_content]
-        docs = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in docs]
+            # PREPROCESSING
+            self.log_info(message="Preprocessing", verbose=verbose)
+            sentences = [[self.preprocess(x) for x in sentences] for sentences in docs] \
+                if self.preprocess else docs
+            preprocessing_time = time.time() - start_time
+            self.log_info(message="Preprocessing done", verbose=verbose)
 
-        # PREPROCESSING
-        self.log_info(message="Preprocessing", verbose=verbose)
-        sentences = [[self.preprocess(x) for x in sentences] for sentences in docs] \
-            if self.preprocess else docs
-        preprocessing_time = time.time() - start_time
-        self.log_info(message="Preprocessing done", verbose=verbose)
+            # SUMMARY -> input list of list, outputs sentences_input list of lists
+            self.log_info(message="Summary generation", verbose=verbose)
+            if self.summarizer:
+                summary_generation_start_time = time.time()
+                if self.summary_how == "single":  # summarising each document one by one
+                    texts = ["\n".join(elt) for elt in sentences]
+                    summary = []
+                    for text in tqdm(texts):
+                        summary.append(self.summarizer(text=text))
+                    sentences_input = [self.nlp(text) for text in summary]
+                    sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
+                else:  # self.summary_how == "all" -> summarising all documents in one go
+                    summary = self.summarizer("\n".join(["\n".join(elt) for elt in sentences]))
+                    sentences_input = [self.nlp(summary)]
+                    sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
 
-        # SUMMARY -> input list of list, outputs sentences_input list of lists
-        self.log_info(message="Summary generation", verbose=verbose)
-        if self.summarizer:
-            summary_generation_start_time = time.time()
-            if self.summary_how == "single":  # summarising each document one by one
-                texts = ["\n".join(elt) for elt in sentences]
-                summary = []
-                for text in tqdm(texts):
-                    summary.append(self.summarizer(text=text))
-                sentences_input = [self.nlp(text) for text in summary]
-                sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
-            else:  # self.summary_how == "all" -> summarising all documents in one go
-                summary = self.summarizer("\n".join(["\n".join(elt) for elt in sentences]))
-                sentences_input = [self.nlp(summary)]
-                sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
-
-            summary_generation_time = time.time() - summary_generation_start_time
-            logger.info(f"Summary found is :{summary}")
-        else:
-            sentences_input = sentences
+                summary_generation_time = time.time() - summary_generation_start_time
+                logger.info(f"Summary found is :{summary}")
+            else:
+                summary_generation_time = 0
+                sentences_input = sentences
+                summary = None
+        
+        else:  # cached summaries > formatting them to be used as inputs for the rest of the pipeline
             summary = None
+            preprocessing_time = 0
+            summary_generation_time = 0
+            sentences_input = [self.nlp(text) for text in summaries_list]
+            sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
 
         # IMPORTANCE RANKING, input sentences_input list of list, output ranked_sents list of str
         self.log_info(message="Importance Ranking", verbose=verbose)
