@@ -134,3 +134,8 @@ dmypy.json
 misc/*
 experiments/*
 summaries_wiki_train
+summaries/
+req_log.txt
+word2vec.model
+test/
+install_req.py

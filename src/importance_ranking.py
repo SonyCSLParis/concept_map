@@ -11,21 +11,23 @@ from loguru import logger
 
 class ImportanceRanker:
     def __init__(self, ranking: str, int_threshold: Union[int, None] = None,
-                 perc_threshold: Union[float, None] = None):
+                 perc_threshold: Union[float, None] = None,
+                 word2vec_model_path: Union[str, None] = None):
         self.options_ranker = ["page_rank", "text_rank", "tfidf","word2vec"]
+        self.word2vec_model_path = word2vec_model_path if word2vec_model_path else "word2vec.model"
         self.options_to_f = {
             "page_rank": self.compute_page_rank,
             "text_rank": self.compute_text_rank,
             "tfidf": self.tfidf_importance_ranking,
             "word2vec": self.word_embedding_similarity,
         }
-
         self.params = {
             "ranking": ranking,
         }
         self.ranking = ranking
         self.int_threshold = int_threshold
         self.perc_threshold = perc_threshold
+        
 
     def check_params(self, ranking, int_threshold, perc_threshold):
         if ranking not in self.options_ranker:
@@ -73,10 +75,10 @@ class ImportanceRanker:
         sentences = [sentence.strip() for sentence in sentences if sentence.strip()]
         return sentences
 
-    def train_word2vec_model(self, sentences, model_path='word2vec.model'):
+    def train_word2vec_model(self, sentences):
         """Train and save a Word2Vec model"""
         model = Word2Vec(sentences=sentences, vector_size=100, window=5, min_count=1, workers=4)
-        model.save(model_path)
+        model.save(self.word2vec_model_path)
 
     def load_word2vec_model(self, word2vec_file):
         """Load Word2Vec model from file"""
@@ -94,11 +96,11 @@ class ImportanceRanker:
             embedding /= count
         return embedding
 
-    def word_embedding_similarity(self, sentences, model_path='word2vec.model'):
+    def word_embedding_similarity(self, sentences):
         """Compute the importance ranking of a list of sentences based on Word2Vec embeddings"""
-        if not os.path.exists(model_path):
-            self.train_word2vec_model(sentences=sentences, model_path=model_path)
-        word2vec_model = self.load_word2vec_model(model_path)
+        if not os.path.exists(self.word2vec_model_path):
+            self.train_word2vec_model(sentences=sentences)
+        word2vec_model = self.load_word2vec_model(self.word2vec_model_path)
         sentence_embeddings = [self.average_embedding(sentence, word2vec_model) for sentence in sentences]
         similarity_matrix = cosine_similarity(sentence_embeddings)
         importance_scores = np.sum(similarity_matrix, axis=1)

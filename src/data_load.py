@@ -41,14 +41,14 @@ class DataLoader:
                     if os.path.isdir(os.path.join(path, x))]
                 self.files = [self.get_sd_one_folder(path=path, folder=x) for path, x in directories]
 
-        self.summaries = self.get_summaries(summary_path=summary_path, type_d=type_d) if summary_path else None
+        self.summaries = self.get_summaries(summary_path=summary_path, one_cm=one_cm) if summary_path else None
 
-    def get_summaries(self, summary_path: str, type_d: str):
-        if type_d == "single":
+    def get_summaries(self, summary_path: str, one_cm: bool):
+        if one_cm:
             folder = summary_path.split("/")[-1]
             res = {folder: self.get_summaries_one_folder(summary_path)}
             
-        else:  # type_md == "multi"
+        else:  # one_cm == False
             res = {}
             info = [(x, os.path.join(summary_path, x)) for x in os.listdir(summary_path)]
             info = [x for x in info if os.path.isdir(x[1])]

@@ -14,7 +14,7 @@ from nltk.corpus import wordnet as wn
 from src.entity import EntityExtractor
 from src.preprocess import PreProcessor
 from src.relation import RelationExtractor
-from settings import API_KEY_GPT
+from src.settings import API_KEY_GPT
 from src.summary import TextSummarizer
 from src.importance_ranking import ImportanceRanker
 
@@ -39,7 +39,8 @@ class CMPipeline:
                  ranking: Union[str, None] = None,
                  ranking_how: Union[str, None] = None,
                  ranking_int_threshold: Union[int, None] = None,
-                 ranking_perc_threshold: Union[float, None] = None):
+                 ranking_perc_threshold: Union[float, None] = None,
+                 word2vec_model_path: Union[str, None] = None):
 
         # Summary options: 
         # - `single`: summarising each text one by one
@@ -56,12 +57,12 @@ class CMPipeline:
             "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model,},
             "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
             "relation": {
-                "model_tokenizer": rebel_tokenizer, "model": rebel_model,
+                "rebel_tokenizer": rebel_tokenizer, "rebel_model": rebel_model,
                 "local_rm": local_rm},
-            "summary": {"method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage},
+            "summary": {"summary_method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage},
             "ranking": {"ranking": ranking, "ranking_how": ranking_how,
-                        "int_threshold": ranking_int_threshold,
-                        "perc_threshold": ranking_perc_threshold}
+                        "ranking_int_threshold": ranking_int_threshold,
+                        "ranking_perc_threshold": ranking_perc_threshold}
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
@@ -76,7 +77,7 @@ class CMPipeline:
             method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature, summary_percentage=summary_percentage
         ) if summary_method else None
         self.ranking_how = ranking_how
-        self.importance_ranker = ImportanceRanker(ranking=ranking, int_threshold=ranking_int_threshold, perc_threshold=ranking_perc_threshold) \
+        self.importance_ranker = ImportanceRanker(ranking=ranking, int_threshold=ranking_int_threshold, perc_threshold=ranking_perc_threshold, word2vec_model_path=word2vec_model_path) \
             if ranking else None
 
     def check_params(self, preprocess, spacy_model, summary_method, summary_how,

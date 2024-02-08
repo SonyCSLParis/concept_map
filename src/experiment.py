@@ -4,6 +4,7 @@ Running experiments
 """
 import os
 import json
+import subprocess
 from typing import List, Union
 from datetime import datetime
 from loguru import logger
@@ -66,7 +67,12 @@ class ExperimentRun:
                  api_key_gpt: Union[str, None] = None,
                  engine: Union[str, None] = None,
                  temperature: Union[str, None] = None,
-                 summary_percentage: Union[str, None] = None):  # Add summary_parameters
+                 summary_percentage: Union[str, None] = None,
+                 ranking: Union[str, None] = None,
+                 ranking_how: Union[str, None] = None,
+                 ranking_int_threshold: Union[int, None] = None,
+                 ranking_perc_threshold: Union[float, None] = None,
+                 word2vec_model_path: Union[str, None] = None):  # Add summary_parameters
         self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm,
                                summary_path=summary_path)
 
@@ -81,7 +87,12 @@ class ExperimentRun:
             api_key_gpt=api_key_gpt,
             engine=engine,
             temperature=temperature,
-            summary_percentage=summary_percentage)
+            summary_percentage=summary_percentage,
+            ranking=ranking,
+            ranking_how=ranking_how,
+            ranking_int_threshold=ranking_int_threshold,
+            ranking_perc_threshold=ranking_perc_threshold,
+            word2vec_model_path=word2vec_model_path)
         self.evaluation_metrics = EvaluationMetrics()
 
         self.params = self.pipeline.params
@@ -130,31 +141,11 @@ class ExperimentRun:
             else:
                 summaries_list = None
 
+            # Run pipeline
             start_ = datetime.now()
             logs[folder]["start"] =  str(start_)
             c_relations, c_info = self.pipeline(input_content=input_content, summaries_list=summaries_list, verbose=True)
 
-            # for i_file, (name, path) in enumerate(tqdm(folder_info["text"])):
-                # file_t_log = f"[File {name}][{i_file+1}/{nb_file} ({round(100*(i_file+1)/nb_file)}%)]"
-                # logger.info(file_t_log + folder_t_log)
-                # start_ = datetime.now()
-                # logs[folder][name] = {"start": str(start_)}
-                # with open(path, "r", encoding="utf-8") as openfile:
-                    # text = openfile.read()
-                    # preprocess, entities, relations = [], [], []
-
-                    # c_relations, c_info = self.pipeline(text=text, verbose=True)
-                    # preprocess.append(c_info["text"])
-
-                    # Check if "entities" key is present and not None
-                    # if "entities" in c_info and c_info["entities"] is not None:
-                        # entities += c_info["entities"]
-                    # else :
-                        # print("entities is None!!!!")
-
-                    # relations += c_relations
-                    # save_data(relations=relations, preprocess=preprocess, entities=entities, save_folder=curr_folder, name=name)
-                    # all_relations += relations
             save_data(relations=c_relations, preprocess=c_info["text"], entities=c_info["entities"], save_folder=curr_folder, name=folder)
             logger.info("Pipeline & Preprocessing done")
 
@@ -176,34 +167,42 @@ class ExperimentRun:
             end_ = datetime.now()
             # logs[folder][name].update({"end": str(end_), "total": str(end_-start_)})
             logs[folder].update({"end": str(end_), "total": str(end_-start_)})
+
             with open(os.path.join(save_folder, "logs.json"),
                         "w", encoding="utf-8") as openfile:
                 json.dump(logs, openfile, indent=4)
 
             logger.info(f"Total execution time: {(end_ - start_).total_seconds():.4f}s")
 
+            # Save word2vec model
+            if os.path.exists("word2vec.model"):
+                subprocess.call(f"mv word2vec.model {os.path.join(save_folder, folder)}", shell=True)
+        
+        logs["finished"] = "yes"
+        with open(os.path.join(save_folder, "logs.json"),
+                  "w", encoding="utf-8") as openfile:
+            json.dump(logs, openfile, indent=4)
+
 if __name__ == '__main__':
     from settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
         folder_path="./src/data/Corpora_Falke/Wiki/train/101",
-        # folder_path="./data",
-        # folder_path=WIKI_TRAIN + "101",
         type_data="multi", one_cm=True,
-        # summary_path=None,
-        summary_path="./summaries/chat-gpt/50/101",
+        summary_path="./summaries/chat-gpt/70/101",
 
         # PIPELINE PARAMS
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["dbpedia_spotlight"],
-        confidence=0.35,
+        confidence=0.8,
         db_spotlight_api="http://localhost:2222/rest/annotate",
-        options_rel=["dependency"],
+        options_rel=["rebel", "dependency"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
-        # summary_how = "single", summary_method="chat-gpt",
-        # api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
-        # temperature=0.0, summary_percentage=80
+        summary_how = "single", summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
+        temperature=0.0, summary_percentage=70,
+        ranking="word2vec", ranking_how="single", ranking_perc_threshold=0.8
         )
     # print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")

@@ -55,7 +55,7 @@ class EvaluationMetrics:
                 meteor_cached_precision[i][j] = self.meteor([meteor_t_gold], meteor_t)
 
         meteor_r = np.sum(np.max(meteor_cached_recall, axis=1)) / nb_t
-        meteor_p = np.sum(np.max(meteor_cached_recall, axis=0)) / nb_gt
+        meteor_p = np.sum(np.max(meteor_cached_precision, axis=0)) / nb_gt
 
         return {
             "meteor": {

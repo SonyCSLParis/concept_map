@@ -6,7 +6,7 @@ from src.settings import *
 class EntityExtractor:
     """ Extracting entities from text """
 
-    def __init__(self, options: List[str] = ["dbpedia_spotlight", "wordnet"],
+    def __init__(self, options: List[str] = ["dbpedia_spotlight"],
                  confidence: Union[float, None] = None,
                  db_spotlight_api: str = 'https://api.dbpedia-spotlight.org/en/annotate'):
         """ Init main params
@@ -103,7 +103,6 @@ class EntityExtractor:
         for option in self.options:
             entities = self.options_to_f[option](text=text)
             res[option] = entities
-            # print("Found entities:", entities)
 
         return res
 
