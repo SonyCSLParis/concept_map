@@ -57,7 +57,7 @@ class CMPipeline:
             "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model,},
             "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
             "relation": {
-                "rebel_tokenizer": rebel_tokenizer, "rebel_model": rebel_model,
+                "rebel_tokenizer": rebel_tokenizer, "rebel_model": rebel_model, "options_rel": options_rel,
                 "local_rm": local_rm},
             "summary": {"summary_method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage},
             "ranking": {"ranking": ranking, "ranking_how": ranking_how,
@@ -166,6 +166,7 @@ class CMPipeline:
             summary_generation_time = 0
             sentences_input = [self.nlp(text) for text in summaries_list]
             sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
+            sentences_input = [x for x in sentences_input if x]
 
         # IMPORTANCE RANKING, input sentences_input list of list, output ranked_sents list of str
         self.log_info(message="Importance Ranking", verbose=verbose)
@@ -174,6 +175,7 @@ class CMPipeline:
             if self.ranking_how == "single":
                 ranked_sents = []
                 for sent in tqdm(sentences_input):
+                    logger.info(f"SENTENCES RANKING: {sent}")
                     ranked_sents += self.importance_ranker(sentences=sent)
             if self.ranking_how == "all":
                 ranked_sents = self.importance_ranker(sentences=[sent for x in sentences_input for sent in x])

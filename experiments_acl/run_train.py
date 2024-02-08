@@ -42,7 +42,7 @@ FIXED_PARAMS = {
 VARIABLE_PARAMS = {
     # Summarisation
     "summary_percentage": [50, 70],
-    "summary_method": ["chat-gpt", "lex-rank"],
+    "summary_method": ["lex-rank", "chat-gpt"],
     # Importance ranking
     "ranking": ["word2vec", "page_rank"],
     "ranking_perc_threshold": [0.5, 0.7],
@@ -66,7 +66,7 @@ def get_folders_exp_finished():
             for y in ["metrics.json", "params.json", "logs.json"] + FOLDERS_CMAP) and \
                 x >= DATE_START]
     exps = [(x, read_json(os.path.join(SAVE_FOLDER, x, "params.json")), read_json(os.path.join(SAVE_FOLDER, x, "logs.json"))) for x in exps]
-    # exps = [x for x in exps if x[2].get("finished") == "yes"]
+    exps = [x for x in exps if x[2].get("finished") == "yes"]
     return [x[:2] for x in exps]
 
 def format_params(params):
@@ -123,7 +123,7 @@ def run_one_exp(params):
         logs_txt = "logs_exp_run.txt"
         f_log = open(logs_txt, "a" if os.path.exists(logs_txt) else "w")
         f_log.write("==========\n" + f"DATE: {str(datetime.now())}" + "\n")
-        f_log.write("Could not run experiment for the following params:\n" + params + "\n\nException: \n" + e + "\n==========\n\n")
+        f_log.write("Could not run experiment for the following params:\n" + str(params) + "\n\nException: \n" + str(e) + "\n==========\n\n")
         f_log.close()
 
 

@@ -147,6 +147,11 @@ class RelationExtractor:
 
     def predict(self, input_m):
         """ Text > predict > human-readable """
+        for key in ["input_ids", "attention_mask"]:
+            if len(input_m[key].shape) == 1:
+                #  Reshaping, has a single sample
+                input_m[key] = input_m[key].reshape(1, -1)
+
         output = self.rebel['model'].generate(
             input_m["input_ids"].to(self.rebel['model'].device),
             attention_mask=input_m["attention_mask"].to(self.rebel['model'].device),
