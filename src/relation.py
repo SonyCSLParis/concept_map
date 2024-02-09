@@ -9,23 +9,22 @@ from torch.utils.data import DataLoader
 from datasets import Dataset
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from src.fine_tune_rebel.run_rebel import extract_triples
-from src.rule_based_np import get_triple_from_text_rb_np
 from src.settings import *
+
 
 class RelationExtractor:
     """ Extracting relations from text """
 
-    def __init__(self, spacy_model: str, options: List[str] = ["rebel","dependency"],
+    def __init__(self, spacy_model: str, options: List[str] = ["rebel", "dependency"],
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None, local_rm: Union[bool, None] = None):
         """ local_m: whether the model is locally stored or not """
+        self.options_p = ["rebel", "dependency"]
         self.options_to_f = {
             "rebel": self.get_rebel_rel,
-            "dependency": self.get_dependencymodel,
-            "dependency_np": self.get_rel_dependency_np,
+            "dependency": self.get_dependencymodel
 
         }
-        self.options_p = list(self.options_to_f.keys())
         self.check_params(options=options, rebel_t=rebel_tokenizer,
                           rebel_m=rebel_model, local_rm=local_rm)
         self.params = {
@@ -49,15 +48,6 @@ class RelationExtractor:
             self.rebel = None
 
         self.nlp = spacy.load(spacy_model)
-    
-    @staticmethod
-    def get_rel_dependency_np(sentences: str, entities: Union[List[str], None]):
-        triples = []
-        for sent in sentences:
-            triples += get_triple_from_text_rb_np(text=sent, filtering=True, merging=True)
-        if entities:
-            triples = [(subj, pred, obj) for subj, pred, obj in triples if any(((ent in subj) or (ent in obj)) for ent in entities)]
-        return list(set(triples))
 
     @staticmethod
     def get_rmodel(model: str, local_rm: bool):
@@ -65,7 +55,7 @@ class RelationExtractor:
         device = "cuda:0" if torch.cuda.is_available() else "cpu"
         # device = "cpu"
         if not local_rm:  # Downloading from huggingface
-            model =  AutoModelForSeq2SeqLM.from_pretrained(model)
+            model = AutoModelForSeq2SeqLM.from_pretrained(model)
         else:
             model = torch.load(model)
         model.to(device)
@@ -78,36 +68,31 @@ class RelationExtractor:
             doc = nlp(sentence)
             for token in doc:
                 if token.dep_ in ["nsubj", "nsubjpass", "agent", "csubjpass",
-                                  "csubj","compound","ROOT"] and token.head.pos_ in ["VERB", "AUX", "ROOT","VB","VBD","VBG","VBN","VBZ"]:
+                                  "csubj", "compound"] and token.head.pos_ in ["VERB", "AUX", "ROOT", "VB", "VBD", "VBG", "VBN", "VBZ"]:
                     subject = token.text
                     verb = token.head.text
-                    for child in token.head.children:
-                        if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
-                                          "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"]:
-                            obj = child.text
-                            if any(entity in obj for entity in entities):
-                                triplets.append((subject, verb, obj))
-                        elif child.dep_ == "prep":
-                            obj = child.text
-                            prep_s = [childx.text for childx in child.children if childx.dep_ == 'appos']
-                            prep = ''.join(prep_s)
-                            if any(entity in (obj + " " + prep) for entity in entities):
-                                triplets.append((subject, verb, obj + " " + prep))
-                elif token.dep_ == 'prep':
-                    pobj = [child.text for child in token.children if child.dep_ == 'pobj']
-                    right_edge = [child.right_edge.text for child in token.children if
-                                  child.dep_ == 'pobj' and child.right_edge.dep_ == "appos"]
-                    left_edge = [child.right_edge.text for child in token.children if
-                                 child.dep_ == 'pobj' and child.left_edge.dep_ == "appos"]
-                    if pobj and right_edge:
-                        object_ = ' '.join([token.text] + pobj + right_edge)
-                        if any(entity in object_ for entity in entities):
-                            triplets.append((subject, verb, object_))
-                    if pobj and left_edge:
-                        object_ = ' '.join([token.text] + pobj + right_edge)
-                        if any(entity in object_ for entity in entities):
-                            triplets.append((subject, verb, object_))
+                    subject_pos = token.pos_
+                    print(subject_pos)
+                    obj = None
+                    if any(entity in subject for entity in entities):
+                        for child in token.head.children:
+                            if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
+                                              "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"] :
+                                obj = child.text
+                                obj_pos = child.pos_
+                                print(obj_pos)
 
+                                if subject_pos in ["NOUN", "PROPN"] and obj_pos in ["NOUN", "PROPN"]:
+                                    triplets.append((subject, verb, obj))
+                    else:
+                        for child in token.head.children:
+                            if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
+                                              "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"] :
+                                obj = child.text
+                                obj_pos = child.pos_
+                                print(obj_pos)
+                                if subject_pos in ["NOUN", "PROPN","ADP"] and obj_pos in ["NOUN", "PROPN"] and any(entity in obj for entity in entities):
+                                    triplets.append((subject, verb, obj))
         return triplets
 
     def check_params(self, options, rebel_t, rebel_m, local_rm):
@@ -141,11 +126,12 @@ class RelationExtractor:
 
         decoded_preds = self.rebel['tokenizer'].batch_decode(output, skip_special_tokens=False)
         return decoded_preds
-    
+
     def get_dataloader(self, sent_l: List[str], batch_size: int = 16):
         dataset = Dataset.from_dict({"text": sent_l})
         dataset = dataset.map(lambda examples: self.rebel['tokenizer'](examples["text"], max_length=256, padding=True,
-                              truncation=True, return_tensors='pt'), batched=True)
+                                                                       truncation=True, return_tensors='pt'),
+                              batched=True)
         dataset.set_format(type="torch", columns=['input_ids', 'attention_mask'])
         return DataLoader(dataset, batch_size=batch_size)
 
@@ -197,35 +183,28 @@ class RelationExtractor:
 
 
 if __name__ == '__main__':
-    # REL_EXTRACTOR = RelationExtractor(
-    #     options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
-    #     rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
-    #     spacy_model="en_core_web_lg")
     REL_EXTRACTOR = RelationExtractor(
-        options=["dependency_np"], rebel_tokenizer=None,
-        rebel_model=None, local_rm=None,
+        options=["dependency"], rebel_tokenizer="Babelscape/rebel-large",
+        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         spacy_model="en_core_web_lg")
-    SENTENCES = [
-        "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
-        "7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale."
-    ]
-    ENTITIES = {'dbpedia_spotlight': [
-        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 World Trade Center'),
-        ('http://dbpedia.org/resource/Benchmarking', 'benchmark'),
-        ('http://dbpedia.org/resource/Safety', 'safety'),
-        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 WTC'),
-        ("http://dbpedia.org/resource/Moody's_Investors_Service", 'Moody'),
-        ('http://dbpedia.org/resource/New_York_City', 'New York'),
-        ('http://dbpedia.org/resource/Joe_Mansueto', 'Mansueto Ventures'),
-        ('http://dbpedia.org/resource/MSCI', 'MSCI'),
-        ('http://dbpedia.org/resource/Elisha_Cook_Jr.', 'Wilmer'),
-        ('http://dbpedia.org/resource/Hale,_Greater_Manchester', 'Hale')]}
-    ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
+    from nltk.tokenize import sent_tokenize
+    from entity import *
 
-    print("## WITHOUT ENTITIES")
-    RES = REL_EXTRACTOR(sentences=SENTENCES)
-    print(RES)
-    print("==========")
-    print("## WITH ENTITIES")
-    RES = REL_EXTRACTOR(sentences=SENTENCES, entities=ENTITIES)
-    print(RES)
+    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight", "wordnet"], confidence=0.35,
+                                       db_spotlight_api="http://localhost:2222/rest/annotate")
+    folder_path = WIKI_TRAIN + "/116"
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.txt'):
+            file_path = os.path.join(folder_path, filename)
+            with open(file_path, 'r', encoding='utf-8') as file:
+                text = file.read()
+                RES = ENTITY_EXTRACTOR(text=text)
+                extracted_strings_2 = [item[1] for item in RES['dbpedia_spotlight']]
+                print("## ENTITIES")
+                print(extracted_strings_2)
+                sentences = sent_tokenize(text)
+                print("## SENTENCES")
+                print(sentences)
+                RES = REL_EXTRACTOR(sentences=sentences, entities=extracted_strings_2)
+                print("## RELATION")
+                print(RES)
