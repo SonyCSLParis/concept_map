@@ -62,70 +62,41 @@ class RelationExtractor:
 
     @staticmethod
     def get_dependencymodel(sentences: str, entities: Union[List[str], None]):
-
         triplets = []
         for sentence in sentences:
             doc = nlp(sentence)
-            if entities == None :
-                for token in doc:
-                    if token.dep_ in ["nsubj", "nsubjpass", "agent", "csubjpass",
-                                      "csubj"] and token.head.pos_ in ["VERB", "AUX", "ROOT"] :
-                        subject = token.text
-                        verb = token.head.text
-                        for child in token.head.children:
-                            if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
-                                              "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"]:
-                                obj = child.text
+            for token in doc:
+                if token.dep_ in ["nsubj", "nsubjpass", "agent", "csubjpass",
+                                  "csubj","compound","ROOT"] and token.head.pos_ in ["VERB", "AUX", "ROOT","VB","VBD","VBG","VBN","VBZ"]:
+                    subject = token.text
+                    verb = token.head.text
+                    for child in token.head.children:
+                        if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
+                                          "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"]:
+                            obj = child.text
+                            if any(entity in obj for entity in entities):
                                 triplets.append((subject, verb, obj))
-                            elif child.dep_ in ["prep"]:
-                                obj = child.text
-                                prep_s = [childx.text for childx in child.children if
-                                          childx.dep_ == 'appos']
-                                prep = ''.join(prep_s)
+                        elif child.dep_ == "prep":
+                            obj = child.text
+                            prep_s = [childx.text for childx in child.children if childx.dep_ == 'appos']
+                            prep = ''.join(prep_s)
+                            if any(entity in (obj + " " + prep) for entity in entities):
                                 triplets.append((subject, verb, obj + " " + prep))
-                    elif token.dep_ == 'prep':
-                        pobj = [child.text for child in token.children if child.dep_ == 'pobj']
-                        right_edge = [child.right_edge.text for child in token.children if
-                                      child.dep_ == 'pobj' and child.right_edge.dep_ == "appos"]
-                        left_edge = [child.right_edge.text for child in token.children if
-                                     child.dep_ == 'pobj' and child.left_edge.dep_ == "appos"]
-                        if pobj and right_edge:
-                            object_ = ' '.join([token.text] + pobj + right_edge)
+                elif token.dep_ == 'prep':
+                    pobj = [child.text for child in token.children if child.dep_ == 'pobj']
+                    right_edge = [child.right_edge.text for child in token.children if
+                                  child.dep_ == 'pobj' and child.right_edge.dep_ == "appos"]
+                    left_edge = [child.right_edge.text for child in token.children if
+                                 child.dep_ == 'pobj' and child.left_edge.dep_ == "appos"]
+                    if pobj and right_edge:
+                        object_ = ' '.join([token.text] + pobj + right_edge)
+                        if any(entity in object_ for entity in entities):
                             triplets.append((subject, verb, object_))
-                        if pobj and left_edge:
-                            object_ = ' '.join([token.text] + pobj + right_edge)
+                    if pobj and left_edge:
+                        object_ = ' '.join([token.text] + pobj + right_edge)
+                        if any(entity in object_ for entity in entities):
                             triplets.append((subject, verb, object_))
-            else:
-                for token in doc:
-                    for ent in entities:
-                        if token.text in ent :
-                            if token.dep_ in ["nsubj", "nsubjpass", "agent", "csubjpass",
-                                              "csubj"] and token.head.pos_ in ["VERB", "AUX", "ROOT"] :
-                                subject = token.text
-                                verb = token.head.text
-                                for child in token.head.children:
-                                    if child.dep_ in ["dobj", "pobj", "acomp", "attr", "agent", "ccomp", "pcomp",
-                                                      "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"] :
-                                        obj = child.text
-                                        triplets.append((subject, verb, obj))
-                                    elif child.dep_ in ["prep"]:
-                                        obj = child.text
-                                        prep_s = [childx.text for childx in child.children if
-                                                  childx.dep_ == 'appos' ]
-                                        prep = ''.join(prep_s)
-                                        triplets.append((subject, verb, obj + " " + prep))
-                            elif token.dep_ == 'prep':
-                                pobj = [child.text for child in token.children if child.dep_ == 'pobj']
-                                right_edge = [child.right_edge.text for child in token.children if
-                                              child.dep_ == 'pobj' and child.right_edge.dep_ == "appos" ]
-                                left_edge = [child.right_edge.text for child in token.children if
-                                             child.dep_ == 'pobj' and child.left_edge.dep_ == "appos"]
-                                if pobj and right_edge:
-                                    object_ = ' '.join([token.text] + pobj + right_edge)
-                                    triplets.append((subject, verb, object_))
-                                if pobj and left_edge:
-                                    object_ = ' '.join([token.text] + pobj + right_edge)
-                                    triplets.append((subject, verb, object_))
+
         return triplets
 
     def check_params(self, options, rebel_t, rebel_m, local_rm):
@@ -219,27 +190,23 @@ if __name__ == '__main__':
         options=["dependency"], rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         spacy_model="en_core_web_lg")
-    SENTENCES = [
-        "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
-        "7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale."
-    ]
-    ENTITIES = {'dbpedia_spotlight': [
-        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 World Trade Center'),
-        ('http://dbpedia.org/resource/Benchmarking', 'benchmark'),
-        ('http://dbpedia.org/resource/Safety', 'safety'),
-        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 WTC'),
-        ("http://dbpedia.org/resource/Moody's_Investors_Service", 'Moody'),
-        ('http://dbpedia.org/resource/New_York_City', 'New York'),
-        ('http://dbpedia.org/resource/Joe_Mansueto', 'Mansueto Ventures'),
-        ('http://dbpedia.org/resource/MSCI', 'MSCI'),
-        ('http://dbpedia.org/resource/Elisha_Cook_Jr.', 'Wilmer'),
-        ('http://dbpedia.org/resource/Hale,_Greater_Manchester', 'Hale')]}
-    ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
-
-    print("## WITHOUT ENTITIES")
-    # RES = REL_EXTRACTOR(sentences=SENTENCES)
-    # print(RES)
-    # print("==========")
-    print("## WITH ENTITIES")
-    RES = REL_EXTRACTOR(sentences=SENTENCES, entities=ENTITIES)
-    print(RES)
+    from nltk.tokenize import sent_tokenize
+    from entity import  *
+    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight", "wordnet"], confidence=0.35,
+                                       db_spotlight_api="http://localhost:2222/rest/annotate")
+    folder_path = WIKI_TRAIN + "/116"
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.txt'):
+            file_path = os.path.join(folder_path, filename)
+            with open(file_path, 'r', encoding='utf-8') as file:
+                text = file.read()
+                RES = ENTITY_EXTRACTOR(text=text)
+                extracted_strings_2 = [item[1] for item in RES['dbpedia_spotlight']]
+                print("## ENTITIES")
+                print(extracted_strings_2)
+                sentences = sent_tokenize(text)
+                print("## SENTENCES")
+                print(sentences)
+                RES = REL_EXTRACTOR(sentences=sentences, entities=extracted_strings_2)
+                print("## RELATION")
+                print(RES)
