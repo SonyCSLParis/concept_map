@@ -166,21 +166,22 @@ class CMPipeline:
             summary_generation_time = 0
             sentences_input = [self.nlp(text) for text in summaries_list]
             sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
-            sentences_input = [x for x in sentences_input if x]
 
         # IMPORTANCE RANKING, input sentences_input list of list, output ranked_sents list of str
+        sentences_input = [x for x in sentences_input if x]
+        # logger.info("SENTENCES:\n"+str(sentences_input[:2]))
         self.log_info(message="Importance Ranking", verbose=verbose)
         if self.importance_ranker:
             ranking_generation_start_time = time.time()
             if self.ranking_how == "single":
                 ranked_sents = []
                 for sent in tqdm(sentences_input):
-                    logger.info(f"SENTENCES RANKING: {sent}")
+                    # logger.info(f"SENTENCES RANKING: {sent}")
                     ranked_sents += self.importance_ranker(sentences=sent)
             if self.ranking_how == "all":
                 ranked_sents = self.importance_ranker(sentences=[sent for x in sentences_input for sent in x])
             ranking_extraction_time = time.time() - ranking_generation_start_time
-            logger.info(f"Ranked : {ranked_sents}")
+            # logger.info(f"Ranked : {ranked_sents}")
 
         else:
             ranked_sents = [sent for x in sentences_input for sent in x]
@@ -196,7 +197,7 @@ class CMPipeline:
                 entities["dbpedia_spotlight"] = [x[1] for x in entities["dbpedia_spotlight"]]
             entities = list(set(x for _, v in entities.items() for x in v))
 
-            logger.info(f"Entities extracted : {entities}")
+            # logger.info(f"Entities extracted : {entities}")
             entities_extraction_time = time.time() - entities_start_time
 
         else:

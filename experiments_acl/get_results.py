@@ -4,6 +4,7 @@ Get aggregated results from all experiments
 """
 import os
 import json
+import scipy
 import numpy as np
 import pandas as pd
 from loguru import logger
@@ -21,7 +22,7 @@ COLUMNS = [
     'confidence',
     'relation',
     'meteor_pr', 'meteor_re', 'meteor_f1',
-    'rouge-2-pr', 'rouge-2-re', 'rouge-2-f1'
+    'rouge-2_pr', 'rouge-2_re', 'rouge-2_f1'
 ]
 
 def read_json(json_path):
@@ -63,9 +64,36 @@ def get_rebel_opt(params):
     local_rm = params["relation"]["local_rm"]
     if "rebel" in options_rel:
         x1 = "rebel\\_ft" if local_rm else "rebel\\_hf"
-        x2 = "\\_dependency" if "dependency" in options_rel else ""
+        x2 = "+dependency" if "dependency" in options_rel else ""
         return x1+x2
     return "+".join(options_rel)
+
+def get_correlations(df_, feat_cols, metric_cols):
+    mappings = {
+        "summary_method": {1: "chat-gpt", 2: "lex-rank"},
+        "summary_percentage": {1: 50, 2: 70},
+        "ranking": {1: "word2vec", 2: "page\_rank"},
+        "ranking_perc_threshold": {1: 50, 2: 70},
+        "confidence": {1: 0.5, 2: 0.7},
+    }
+    for x, info in mappings.items():
+        vals_1 = df_[df_[x] == mappings[x][1]]["meteor_f1"]
+        vals_2 = df_[df_[x] == mappings[x][2]]["meteor_f1"]
+        vals_1 = vals_1[:min(len(vals_1), len(vals_2))]
+        vals_2 = vals_2[:min(len(vals_1), len(vals_2))]
+        corr, pvalue = scipy.stats.spearmanr(vals_1, vals_2, alternative="less")
+        print(f"[{x}] Ranking {mappings[x][1]} < {mappings[x][2]}\tCorr: {corr}\tPvalue: {pvalue}")
+    
+    relations = {1: "rebel\_ft", 2: "rebel\_hf", 3: "dependency", 4: "rebel\_ft+dependency", 5: "rebel\_hf+dependency"}
+    rels = sorted(relations.keys())
+    for index, i in enumerate(rels):
+        for j in rels[index+1:]:
+            vals_1 = df_[df_["relation"] == relations[i]]["meteor_f1"]
+            vals_2 = df_[df_["relation"] == relations[j]]["meteor_f1"]
+            vals_1 = vals_1[:min(len(vals_1), len(vals_2))]
+            vals_2 = vals_2[:min(len(vals_1), len(vals_2))]
+            corr, pvalue = scipy.stats.spearmanr(vals_1, vals_2, alternative="less")
+            print(f"[Relations] Ranking {relations[i]} < {relations[j]}\tCorr: {corr}\tPvalue: {pvalue}")
 
 def main():
     df_output = pd.DataFrame(columns=COLUMNS)
@@ -75,9 +103,9 @@ def main():
     for params, metrics in folders_exp:
         avg_metrics = avg_results(metrics)
         curr_l = [
-            params["summary"]["summary_method"],
+            params["summary"]["summary_method"].replace("_", "\\_"),
             params["summary"]["summary_percentage"],
-            params["ranking"]["ranking"],
+            params["ranking"]["ranking"].replace("_", "\\_"),
             params["ranking"]["ranking_perc_threshold"] * 100,
             params["entity"]["confidence"],
             get_rebel_opt(params)
@@ -101,6 +129,8 @@ def main():
         resize_col=2
     )
     print(latex_table)
+
+    get_correlations(df_=df_output, feat_cols=COLUMNS[:6], metric_cols=["meteor_f1", "rouge-2_f1"])
     
     
 

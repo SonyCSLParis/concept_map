@@ -9,6 +9,7 @@ from torch.utils.data import DataLoader
 from datasets import Dataset
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from src.fine_tune_rebel.run_rebel import extract_triples
+from src.rule_based_np import get_triple_from_text_rb_np
 from src.settings import *
 
 class RelationExtractor:
@@ -18,12 +19,13 @@ class RelationExtractor:
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None, local_rm: Union[bool, None] = None):
         """ local_m: whether the model is locally stored or not """
-        self.options_p = ["rebel", "dependency"]
         self.options_to_f = {
             "rebel": self.get_rebel_rel,
-            "dependency": self.get_dependencymodel
+            "dependency": self.get_dependencymodel,
+            "dependency_np": self.get_rel_dependency_np,
 
         }
+        self.options_p = list(self.options_to_f.keys())
         self.check_params(options=options, rebel_t=rebel_tokenizer,
                           rebel_m=rebel_model, local_rm=local_rm)
         self.params = {
@@ -47,6 +49,15 @@ class RelationExtractor:
             self.rebel = None
 
         self.nlp = spacy.load(spacy_model)
+    
+    @staticmethod
+    def get_rel_dependency_np(sentences: str, entities: Union[List[str], None]):
+        triples = []
+        for sent in sentences:
+            triples += get_triple_from_text_rb_np(text=sent, filtering=True, merging=True)
+        if entities:
+            triples = [(subj, pred, obj) for subj, pred, obj in triples if any(((ent in subj) or (ent in obj)) for ent in entities)]
+        return list(set(triples))
 
     @staticmethod
     def get_rmodel(model: str, local_rm: bool):
@@ -186,27 +197,35 @@ class RelationExtractor:
 
 
 if __name__ == '__main__':
+    # REL_EXTRACTOR = RelationExtractor(
+    #     options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
+    #     rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+    #     spacy_model="en_core_web_lg")
     REL_EXTRACTOR = RelationExtractor(
-        options=["dependency"], rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+        options=["dependency_np"], rebel_tokenizer=None,
+        rebel_model=None, local_rm=None,
         spacy_model="en_core_web_lg")
-    from nltk.tokenize import sent_tokenize
-    from entity import  *
-    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight", "wordnet"], confidence=0.35,
-                                       db_spotlight_api="http://localhost:2222/rest/annotate")
-    folder_path = WIKI_TRAIN + "/116"
-    for filename in os.listdir(folder_path):
-        if filename.endswith('.txt'):
-            file_path = os.path.join(folder_path, filename)
-            with open(file_path, 'r', encoding='utf-8') as file:
-                text = file.read()
-                RES = ENTITY_EXTRACTOR(text=text)
-                extracted_strings_2 = [item[1] for item in RES['dbpedia_spotlight']]
-                print("## ENTITIES")
-                print(extracted_strings_2)
-                sentences = sent_tokenize(text)
-                print("## SENTENCES")
-                print(sentences)
-                RES = REL_EXTRACTOR(sentences=sentences, entities=extracted_strings_2)
-                print("## RELATION")
-                print(RES)
+    SENTENCES = [
+        "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
+        "7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale."
+    ]
+    ENTITIES = {'dbpedia_spotlight': [
+        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 World Trade Center'),
+        ('http://dbpedia.org/resource/Benchmarking', 'benchmark'),
+        ('http://dbpedia.org/resource/Safety', 'safety'),
+        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 WTC'),
+        ("http://dbpedia.org/resource/Moody's_Investors_Service", 'Moody'),
+        ('http://dbpedia.org/resource/New_York_City', 'New York'),
+        ('http://dbpedia.org/resource/Joe_Mansueto', 'Mansueto Ventures'),
+        ('http://dbpedia.org/resource/MSCI', 'MSCI'),
+        ('http://dbpedia.org/resource/Elisha_Cook_Jr.', 'Wilmer'),
+        ('http://dbpedia.org/resource/Hale,_Greater_Manchester', 'Hale')]}
+    ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
+
+    print("## WITHOUT ENTITIES")
+    RES = REL_EXTRACTOR(sentences=SENTENCES)
+    print(RES)
+    print("==========")
+    print("## WITH ENTITIES")
+    RES = REL_EXTRACTOR(sentences=SENTENCES, entities=ENTITIES)
+    print(RES)

@@ -1,4 +1,5 @@
 import os
+import spacy
 import networkx as nx
 import numpy as np
 from gensim.models import Word2Vec
@@ -27,6 +28,7 @@ class ImportanceRanker:
         self.ranking = ranking
         self.int_threshold = int_threshold
         self.perc_threshold = perc_threshold
+        self.nlp = spacy.load("en_core_web_lg")
         
 
     def check_params(self, ranking, int_threshold, perc_threshold):
@@ -78,7 +80,8 @@ class ImportanceRanker:
     def train_word2vec_model(self, sentences):
         """Train and save a Word2Vec model"""
         model = Word2Vec(sentences=sentences, vector_size=100, window=5, min_count=1, workers=4)
-        model.save(self.word2vec_model_path)
+        # model.save(self.word2vec_model_path)
+        return model
 
     def load_word2vec_model(self, word2vec_file):
         """Load Word2Vec model from file"""
@@ -88,7 +91,7 @@ class ImportanceRanker:
         """Compute the average word embedding for a sentence"""
         embedding = np.zeros(dim)
         count = 0
-        for word in sentence.split():
+        for word in sentence:
             if word in model.wv:
                 embedding += model.wv[word]
                 count += 1
@@ -98,10 +101,16 @@ class ImportanceRanker:
 
     def word_embedding_similarity(self, sentences):
         """Compute the importance ranking of a list of sentences based on Word2Vec embeddings"""
+
+        # transforming sentences into list of list of tokens
+        sentences_tokens = [self.nlp(sent) for sent in sentences]
+        sentences_tokens = [[x.text for x in doc] for doc in sentences_tokens]
+
         if not os.path.exists(self.word2vec_model_path):
-            self.train_word2vec_model(sentences=sentences)
-        word2vec_model = self.load_word2vec_model(self.word2vec_model_path)
-        sentence_embeddings = [self.average_embedding(sentence, word2vec_model) for sentence in sentences]
+            word2vec_model = self.train_word2vec_model(sentences=sentences_tokens)
+        else:
+            word2vec_model = self.load_word2vec_model(self.word2vec_model_path)
+        sentence_embeddings = [self.average_embedding(sentence, word2vec_model) for sentence in sentences_tokens]
         similarity_matrix = cosine_similarity(sentence_embeddings)
         importance_scores = np.sum(similarity_matrix, axis=1)
         ranked_indices = importance_scores.argsort()[::-1]

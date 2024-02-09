@@ -187,22 +187,22 @@ if __name__ == '__main__':
     from settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
-        folder_path="./src/data/Corpora_Falke/Wiki/train/101",
-        type_data="multi", one_cm=True,
-        summary_path="./summaries/chat-gpt/70/101",
+        folder_path="./src/data/Corpora_Falke/Wiki/train",
+        type_data="multi", one_cm=False,
+        summary_path="./summaries/lex-rank/70/",
 
         # PIPELINE PARAMS
         preprocess=True, spacy_model="en_core_web_lg",
         options_ent=["dbpedia_spotlight"],
-        confidence=0.8,
+        confidence=0.5,
         db_spotlight_api="http://localhost:2222/rest/annotate",
-        options_rel=["rebel", "dependency"],
-        rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
-        summary_how = "single", summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
+        options_rel=["dependency_np"],
+        rebel_tokenizer=None,
+        rebel_model=None, local_rm=None,
+        summary_how = "single", summary_method="lex-rank",
+        api_key_gpt=API_KEY_GPT, engine=None,
         temperature=0.0, summary_percentage=70,
-        ranking="word2vec", ranking_how="single", ranking_perc_threshold=0.8
+        ranking="word2vec", ranking_how="single", ranking_perc_threshold=0.5
         )
     # print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")
