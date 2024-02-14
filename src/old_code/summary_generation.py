@@ -4,6 +4,33 @@ from sumy.summarizers.lex_rank import LexRankSummarizer
 import requests
 from settings import *
 import os
+from sumy.nlp.tokenizers import Tokenizer
+from sumy.summarizers.lex_rank import LexRankSummarizer
+import requests
+import os
+
+def generate_summary(text, num_sentences=3):
+    parser = PlaintextParser.from_string(text, Tokenizer("english"))
+    summarizer = LexRankSummarizer()
+    summary = summarizer(parser.document, num_sentences)
+    return " ".join(str(sentence) for sentence in summary)
+
+# TO BE TESTED AND INTEGRATED
+def generate_summary_with_gpt(text, API_KEY_GPT):
+    response = requests.post(
+        "https://api.openai.com/v1/engines/davinci-codex/completions",
+        headers={
+            "Authorization": f"Bearer {API_KEY_GPT}",
+            "Content-Type": "application/json",
+        },
+        json={
+            "prompt": text,
+        }
+    )
+    response.raise_for_status()
+    result = response.json()
+    summary = result["choices"][0]["text"].strip()
+    return summary
 
 def generate_summary(text, num_sentences=3):
     parser = PlaintextParser.from_string(text, Tokenizer("english"))
