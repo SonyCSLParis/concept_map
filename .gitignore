@@ -138,3 +138,4 @@ word2vec.model
 test/
 install_req.py
 summaries/*/logs.json
+summaries_bio/

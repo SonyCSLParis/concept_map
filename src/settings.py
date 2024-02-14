@@ -16,6 +16,11 @@ DATA_DIR = os.path.join(ROOT_DIR + '/data')
 REBEL_DIR = os.path.join(ROOT_DIR + '/rebel_fine_tuned/finetuned_rebel.pth')
 EXPERIMENTS = os.path.join(ROOT_DIR + '/experiments')
 
+# fine tuning rebel
+REBEL = os.path.join(SRC_DIR + '/fine_tuning_rebel')
+BIO = os.path.join(REBEL + '/cm_biology.csv')
+BIO_TEST = os.path.join(REBEL + '/cm_biology_test.csv')
+
 # corpora Falke
 CORPORA_FALKE = os.path.join(DATA_DIR + '/Corpora_Falke')
 ACL = os.path.join(CORPORA_FALKE + '/ACL')
@@ -37,6 +42,7 @@ OUTPUT_DIR = os.path.join(ROOT_DIR + '/output')
 OUTPUT_EVALUATION = os.path.join(OUTPUT_DIR + '/evaluation')
 OUTPUT_PREPROCESSING = os.path.join(OUTPUT_DIR + '/output_preprocessing')
 OUTPUT_PREPROCESSING_TEST = os.path.join(OUTPUT_DIR + '/output_preprocessing_test')
+# OUTPUT_PREPROCESSING_TEST_BIO = os.path.join(OUTPUT_DIR + '/output_preprocessing_test_bio.csv')
 
 OUTPUT_EXTRACTION_ENTITY = os.path.join(OUTPUT_DIR + '/output_extraction_entity')
 OUTPUT_EXTRACTION_ENTITY_TEST = os.path.join(OUTPUT_DIR + '/output_extraction_entity_test')
