@@ -49,7 +49,7 @@ class TextSummarizer:
     def calculate_max_tokens(self, text: str, percentage: int):
         doc = self.nlp(text)
         total_tokens = len(doc)
-        max_tokens = int(total_tokens * (percentage / 100))
+        max_tokens = int(total_tokens * (percentage / 100)) + 1
         max_tokens = min(max_tokens, self.output_limit)
 
         len_prompt = 500
@@ -59,43 +59,12 @@ class TextSummarizer:
         # st. the percentage is respected
         new = int((self.limit - len_prompt)/(1+percentage/100))
         text = doc[:new].text
-        max_tokens = int(new * (percentage / 100))
+        max_tokens = int(new * (percentage / 100)) + 1
         max_tokens = min(max_tokens, self.output_limit)
         return max_tokens, text
 
     def generate_summary_with_gpt(self, text: str, summary_percentage: int, temperature: float):
         max_tokens, text = self.calculate_max_tokens(text, summary_percentage)
-
-        # endpoint = f"https://api.openai.com/v1/engines/{self.engine}/completions"
-        # response = requests.post(
-        #     endpoint,
-        #     headers={
-        #         "Authorization": f"Bearer {self.api_key_gpt}",
-        #         "Content-Type": "application/json",
-        #     },
-        #     json={
-        #         "prompt": f'Please summarize the following text:\n"{text}"\n\nSummary:',
-        #         "max_tokens": max_tokens,
-        #         "temperature": temperature,
-        #     }
-        # )
-
-        # if response.status_code == 429:
-        #     # Handle rate-limiting by waiting for a specified duration
-        #     wait_time = int(response.headers.get("Retry-After", 10))
-        #     print(f"Rate limited. Waiting for {wait_time} seconds.")
-        #     time.sleep(wait_time)
-        #     return self.generate_summary_with_gpt(text)  # Retry the request
-
-        # response.raise_for_status()
-        # result = response.json()
-
-        # summary = openai.Completion.create(
-        #     engine=self.engine,
-        #     prompt=f"Please summarize this text in {max_tokens} words or fewer:\n{text}\n\nSummary:",
-        #     max_tokens=max_tokens,
-        #     temperature=self.temperature,
-        # )
 
         completion = client.chat.completions.create(
             model=self.engine,
@@ -103,7 +72,6 @@ class TextSummarizer:
                 {"role": "user",
                 "content": f"Summarize this text in {max_tokens} words or fewer:\n{text}\n"}
             ],
-            # prompt=f"Summarize this text in {max_tokens} words or fewer:\n{text}\n",
             max_tokens=max_tokens,
             temperature=self.temperature)
 

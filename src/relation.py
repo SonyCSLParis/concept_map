@@ -72,7 +72,7 @@ class RelationExtractor:
                     subject = token.text
                     verb = token.head.text
                     subject_pos = token.pos_
-                    print(subject_pos)
+                    # print(subject_pos)
                     obj = None
                     if any(entity in subject for entity in entities):
                         for child in token.head.children:
@@ -80,7 +80,7 @@ class RelationExtractor:
                                               "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"] :
                                 obj = child.text
                                 obj_pos = child.pos_
-                                print(obj_pos)
+                                # print(obj_pos)
 
                                 if subject_pos in ["NOUN", "PROPN"] and obj_pos in ["NOUN", "PROPN"]:
                                     triplets.append((subject, verb, obj))
@@ -90,7 +90,7 @@ class RelationExtractor:
                                               "xcomp", "csubjpass", "dative", "nmod", "oprd", "obj", "obl"] :
                                 obj = child.text
                                 obj_pos = child.pos_
-                                print(obj_pos)
+                                # print(obj_pos)
                                 if subject_pos in ["NOUN", "PROPN","ADP"] and obj_pos in ["NOUN", "PROPN"] and any(entity in obj for entity in entities):
                                     triplets.append((subject, verb, obj))
         return triplets
@@ -128,10 +128,13 @@ class RelationExtractor:
         return decoded_preds
 
     def get_dataloader(self, sent_l: List[str], batch_size: int = 16):
+        if not sent_l:
+            return None
+        sent_l = [x for x in sent_l if x]
+        sent_l = [x for x in sent_l if len(x.split()) <= 256]
+        
         dataset = Dataset.from_dict({"text": sent_l})
-        dataset = dataset.map(lambda examples: self.rebel['tokenizer'](examples["text"], max_length=256, padding=True,
-                                                                       truncation=True, return_tensors='pt'),
-                              batched=True)
+        dataset = dataset.map(lambda examples: self.rebel['tokenizer'](examples["text"], max_length=256, padding=True, truncation=True, return_tensors='pt'), batched=True)
         dataset.set_format(type="torch", columns=['input_ids', 'attention_mask'])
         return DataLoader(dataset, batch_size=batch_size)
 
@@ -140,9 +143,14 @@ class RelationExtractor:
 
         # input_m = self.tokenize(text=sentences)
         dataloader = self.get_dataloader(sent_l=sentences)
+        if not dataloader:  # empty sentences
+            return []
         output_m = []
         for batch in dataloader:
-            output_m += self.predict(input_m=batch)
+            try:
+                output_m += self.predict(input_m=batch)
+            except:
+                pass
 
         unique_triples_set = set()  # Set to store unique triples
         res = []
@@ -184,7 +192,7 @@ class RelationExtractor:
 
 if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
-        options=["dependency"], rebel_tokenizer="Babelscape/rebel-large",
+        options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         spacy_model="en_core_web_lg")
     from nltk.tokenize import sent_tokenize

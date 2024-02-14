@@ -61,7 +61,7 @@ class EvaluationMetrics:
             "meteor": {
                 "precision": 100 * meteor_p,
                 "recall": 100 * meteor_r,
-                "f1": 100 * 2 * meteor_p * meteor_r / (meteor_p + meteor_r)},
+                "f1": 100 * 2 * meteor_p * meteor_r / (meteor_p + meteor_r) if (meteor_p + meteor_r) else 0},
             "rouge-2": {
                 "precision": 100 * scores["rouge2"].precision,
                 "recall": 100 * scores["rouge2"].recall,

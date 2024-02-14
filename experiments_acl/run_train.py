@@ -35,23 +35,24 @@ FIXED_PARAMS = {
     "api_key_gpt": API_KEY_GPT,
     "engine": "gpt-3.5-turbo",
     "temperature": 0.0,
-    "ranking_how": "single"
+    # "ranking_how": "single"
 }
 
 
 VARIABLE_PARAMS = {
     # Summarisation
-    "summary_percentage": [50, 70],
+    "summary_percentage": [15, 30, 50, 70],
     "summary_method": ["lex-rank", "chat-gpt"],
     # Importance ranking
-    "ranking": ["word2vec", "page_rank"],
-    "ranking_perc_threshold": [0.5, 0.7],
+    "ranking": ["word2vec", "page_rank", "tfidf"],
+    "ranking_how": ["single", "all"],
+    "ranking_perc_threshold": [0.15, 0.3, 0.5, 0.7],
     # Entity
     "confidence": [0.5, 0.7],
     # Relation extraction
-    "options_rel": [["rebel"], ["dependency"], ["rebel", "dependency"]],
-    "local_rm": [True, False, None],
-    "rebel_model": [HF_RM_MODEL, LOCAL_RM_MODEL, None],
+    "options_rel": [["rebel"]],
+    "local_rm": [True, False],
+    "rebel_model": [HF_RM_MODEL, LOCAL_RM_MODEL],
 }
 
 def read_json(json_path):
@@ -64,7 +65,7 @@ def get_folders_exp_finished():
     exps = [x for x in exps if \
         all(y in os.listdir(os.path.join(SAVE_FOLDER, x)) \
             for y in ["metrics.json", "params.json", "logs.json"] + FOLDERS_CMAP) and \
-                x >= DATE_START]
+                x[:19] >= DATE_START]
     exps = [(x, read_json(os.path.join(SAVE_FOLDER, x, "params.json")), read_json(os.path.join(SAVE_FOLDER, x, "logs.json"))) for x in exps]
     exps = [x for x in exps if x[2].get("finished") == "yes"]
     return [x[:2] for x in exps]
@@ -101,7 +102,7 @@ def init_exp(params):
         summary_percentage=params["summary_percentage"],
         # IMPORTANCE RANKING
         ranking=params["ranking"],
-        ranking_how=FIXED_PARAMS["ranking_how"],
+        ranking_how=params["ranking_how"],
         ranking_perc_threshold=params["ranking_perc_threshold"],
         # ENTITY
         options_ent=FIXED_PARAMS["options_ent"],
@@ -132,8 +133,7 @@ if __name__ == '__main__':
 
     FILTERED_PARAMS = [x for x in PARAMS if \
         (("rebel" in x["options_rel"]) and x["local_rm"] and x["rebel_model"] == LOCAL_RM_MODEL) or \
-            (("rebel" in x["options_rel"]) and x["local_rm"] == False and x["rebel_model"] == HF_RM_MODEL) or \
-                (x["options_rel"] == ["dependency"] and x["local_rm"] == None and x["rebel_model"] == None)]
+            (("rebel" in x["options_rel"]) and x["local_rm"] == False and x["rebel_model"] == HF_RM_MODEL)]
     PARAMS_TO_RUN = get_params_to_run(filtered_params=FILTERED_PARAMS)
     PERC = round(100*len(PARAMS_TO_RUN)/len(FILTERED_PARAMS))
     logger.info(f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")

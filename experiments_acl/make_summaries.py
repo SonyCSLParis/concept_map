@@ -44,13 +44,32 @@ def save_json(json_path, data):
 @click.command()
 @click.argument("data_path")
 @click.argument('root_folder')
-def main(data_path, root_folder):
-    summary_options = ["chat-gpt", "lex-rank"]
-    perc_options = [50, 70]
+@click.argument('type_data')
+@click.argument('dataset')
+def main(data_path, root_folder, type_data, dataset):
+    types_data = ["train", "test"]
+    if type_data not in types_data:
+        raise ValueError(f"`type_data` must be in {types_data}")
+    datasets = ["wiki", "bio"]
+    if dataset not in datasets:
+        raise ValueError(f"`dataset` must be in {datasets}")
+    if dataset == "wiki":
+        if type_data == "train":
+            summary_options = ["chat-gpt", "lex-rank"]
+            perc_options = [5, 15, 30, 50, 70]
+        else:  # type_data == "test"
+            summary_options = ["chat-gpt"]
+            perc_options = [15]
+        data_loader = DataLoader(path=data_path, type_d="multi", one_cm=False)
+    else:
+        summary_options = ["chat-gpt"]
+        perc_options = [15]
+        data_loader = DataLoader(path=data_path, type_d="single", one_cm=False)
+
     make_dirs(root_folder, summary_options, perc_options)
 
     spacy_model = "en_core_web_lg"
-    data_loader = DataLoader(path=data_path, type_d="multi", one_cm=False)
+    
     preprocessor = PreProcessor(model=spacy_model)
     nlp = spacy.load(spacy_model)
     nb_folder = len(data_loader.files)
