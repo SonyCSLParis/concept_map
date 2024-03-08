@@ -13,21 +13,17 @@ def read_json(json_path):
     return data
 
 def avg_results(metrics):
-
     res = {
         "meteor": {x: [] for x in ["precision", "recall", "f1"]},
         "rouge-2": {x: [] for x in ["precision", "recall", "f1"]}
     }
-
     for _, info in metrics.items():
         for k1, val in info.items():
             for k2, metric in val.items():
                 res[k1][k2].append(metric)
-    
     for k1, v in res.items():
         for k2, l in v.items():
             res[k1][k2] = np.mean(l)
-
     return res
 
 @click.command()

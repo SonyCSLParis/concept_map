@@ -106,10 +106,10 @@ if __name__ == '__main__':
     print(f"SINGLE - MULTI CM\n{DATA_LOADER.files}\n==========")
 
 
-from src.data_load import DataLoader
-path="./src/data/Corpora_Falke/Wiki/train/101"
-type_d="multi"
-one_cm=False
-path="./src/data/Corpora_Falke/Wiki/train"
-summary_path = "./summaries/chat-gpt/50"
-dl=DataLoader(path=path, type_d=type_d, one_cm=one_cm, summary_path=summary_path)
+# from src.data_load import DataLoader
+# path="./src/data/Corpora_Falke/Wiki/train/101"
+# type_d="multi"
+# one_cm=False
+# path="./src/data/Corpora_Falke/Wiki/train"
+# summary_path = "./summaries/chat-gpt/50"
+# dl=DataLoader(path=path, type_d=type_d, one_cm=one_cm, summary_path=summary_path)

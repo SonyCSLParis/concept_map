@@ -27,6 +27,7 @@ class CMPipeline:
                  options_ent: Union[List[str], None] = None,
                  confidence: Union[float, None] = None,
                  db_spotlight_api: Union[str, None] = 'https://api.dbpedia-spotlight.org/en/annotate',
+                 threshold: Union[int, None] = None,
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
                  local_rm: Union[bool, None] = None,
@@ -55,7 +56,7 @@ class CMPipeline:
 
         self.params = {
             "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model,},
-            "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
+            "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api, "threshold": threshold},
             "relation": {
                 "rebel_tokenizer": rebel_tokenizer, "rebel_model": rebel_model, "options_rel": options_rel,
                 "local_rm": local_rm},
@@ -66,7 +67,7 @@ class CMPipeline:
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
-        self.entity = EntityExtractor(options=options_ent, confidence=confidence, db_spotlight_api=db_spotlight_api) \
+        self.entity = EntityExtractor(options=options_ent, confidence=confidence, db_spotlight_api=db_spotlight_api, threshold=threshold) \
             if options_ent else None
         self.relation = RelationExtractor(
             options=options_rel, rebel_tokenizer=rebel_tokenizer,
@@ -234,6 +235,7 @@ if __name__ == '__main__':
         options_ent=["dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
+        threshold=None,
         options_rel=["rebel","dependency"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
