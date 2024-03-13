@@ -61,7 +61,7 @@ class RelationExtractor:
         with StanfordOpenIE() as client:
             triples = client.annotate("\n".join(sentences))
         triples = [(x["subject"], x["relation"], x["object"]) for x in triples]
-        if entities:
+        if isinstance(entities, List):
             triples = [(a, b, c) for a, b, c in triples if any((x.lower() in a.lower()) or (x.lower() in b.lower()) for x in entities)]
         return triples
 

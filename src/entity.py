@@ -58,10 +58,11 @@ class EntityExtractor:
     def get_np_ent(self, text: str):
         """ Retrieve entities based on noun phrases + threshold """
         doc = self.nlp(text.replace("\n", "").strip())
-        nps = list([x.text for x in doc.noun_chunks if x.root.pos_=="NOUN"])
+        nps = list([x for x in doc.noun_chunks if x.root.pos_=="NOUN"])
         if self.threshold:
-            counts = Counter(nps)
-            return [k for k, v in counts.items() if v >= self.threshold]
+            counts = Counter([x.root.text for x in nps])
+            return [np.text for np in nps if counts[np.root.text] >= self.threshold]
+            # return [k for k, v in counts.items() if v >= self.threshold]
         return nps
 
     def get_dbs_ent(self, text: str):
