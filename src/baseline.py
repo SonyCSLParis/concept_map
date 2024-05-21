@@ -3,10 +3,15 @@
 LLM Baselines for CM building
 """
 import os
+import json
 from typing import List, Union
 from tqdm import tqdm
 from loguru import logger
 from openai import OpenAI
+import pandas as pd
+from src.data_load import DataLoader
+from src.preprocess import PreProcessor
+from src.evaluation import EvaluationMetrics
 from settings import API_KEY_GPT
 
 CLIENT = OpenAI(api_key=API_KEY_GPT)
@@ -44,18 +49,24 @@ def save_to_folder(folder: str, content: Union[List[str], str], names: str):
     if isinstance(content, list):
         for i, name in enumerate(names):
             f = open(os.path.join(folder, name), 'w', encoding='utf-8')
-            f.write(content[i])
+            f.write(content[i].replace("```csv", "").replace("```", "").strip())
             f.close()
     else:
         f = open(os.path.join(folder, names[0]), 'w', encoding='utf-8')
         f.write(content)
         f.close()
 
+def get_gs_triples(file_path):
+    """ Get ground truth triples """
+    res = open(file_path, "r", encoding='utf-8').readlines()
+    return [x.replace("\n", "").split("\t") for x in res]
+
 class LLMCOTBaseline:
     """ LLM Baseline (using one model of OpenAI) for CM extraction """
     def __init__(self, model: str = MODEL):
         self.model = model
         self.start_prompt = self.get_start_prompt()
+        self.preprocess = PreProcessor()
 
         self.prompt_summary = """
         You need to write a summary of the text that will be sent in the following message.
@@ -83,7 +94,7 @@ class LLMCOTBaseline:
         self.prompt_relation = """
         You need to extract all the relations from the text that will be sent in the following message. Each relation is in the form of a triple (subject, predicate, object), where subject and object are entities that you idenfitied in the previous step. `subject` and `object` should be from the list of entities you will be sent.
 
-        In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`.
+        In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
 
         The output is:
         ```csv
@@ -92,16 +103,16 @@ class LLMCOTBaseline:
         self.prompt_group_relation = """
         You need to group all the relations from the .csv that will be sent in the following messages.
 
-        In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`.
+        In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
 
         The output is:
         ```csv
         ```
         """
         self.prompt_ir = """
-        You need to select the most important triples from the set of triples that will be sent. To select the most important triples, you can take a PageRank approach. You should also avoid redundancy across triples.
+        You first need to process the triples by removing redundant triples, i.e. triples that have the same meaning. Then, you need to select the most important triples from the set of triples that will be sent. 
 
-        In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`.
+        In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
 
         The output is:
         ```csv
@@ -132,8 +143,16 @@ class LLMCOTBaseline:
         logger.info(f"Generating concept maps from texts in folder {folder}")
         names, texts = get_texts_from_folder(folder=folder)
 
+        logger.info("Preprocessing texts")
+        texts = [self.preprocess(x) for x in texts]
+
         if save_folder and not os.path.exists(save_folder):
             os.makedirs(save_folder)
+
+        if save_folder:
+            save_to_folder(folder=os.path.join(save_folder, "preprocess"),
+                           content=texts, names=names)
+
 
         logger.info("Generating summaries")
         summaries = []
@@ -185,6 +204,45 @@ class LLMCOTBaseline:
                            content=output, names=["output.csv"])
 
         logger.success("Finished process")
+
+
+class LLMCOTExperimentRun:
+    """ Running experiment on a dataset """
+    def __init__(self, data_path: str, type_d: str = "multi", one_cm: bool = False):
+        """ Init dataset """
+        self.dataset = DataLoader(
+            path=data_path, type_d=type_d, one_cm=one_cm
+        )
+        self.model = LLMCOTBaseline()
+        self.evaluation_metrics = EvaluationMetrics()
+
+    def run_evaluation(self, gs_path, rel_path):
+        """ Running evaluation metrics """
+        gs_triples = get_gs_triples(file_path=gs_path)
+        system_triples = pd.read_csv(rel_path, sep=";")
+        system_triples = [list(x) for x in system_triples.values]
+
+        return self.evaluation_metrics(
+            triples=system_triples, gold_triples=gs_triples)
+
+    def __call__(self, save_folder):
+        """ Running on all files of the dataset """
+        metrics = {}
+        for info in self.dataset.files:
+            folder = os.path.join(self.dataset.path, info["folder"])
+            curr_sf = os.path.join(save_folder, info["folder"])
+            if not os.path.exists(curr_sf):
+                os.makedirs(curr_sf)
+                self.model(folder=folder, save_folder=curr_sf)
+                curr_metrics = self.run_evaluation(
+                    gs_path=info['gs'], rel_path=os.path.join(curr_sf, 'output.csv'))
+
+                metrics[info["folder"]] = curr_metrics
+                with open(os.path.join(curr_sf, "metrics.json"),
+                            "w", encoding="utf-8") as openfile:
+                    json.dump(metrics, openfile, indent=4)
+
+
 
 
 if __name__ == '__main__':

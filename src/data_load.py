@@ -15,6 +15,7 @@ class DataLoader:
         type_d_p = ["single", "multi"]
         if type_d not in type_d_p:
             raise ValueError(f"`type_d` must be in {type_d_p}")
+        self.path = path
 
         if not isinstance(one_cm, bool):
             raise ValueError("`one_cm` must be boolean")
