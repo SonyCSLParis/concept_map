@@ -30,6 +30,12 @@ class EvaluationMetrics:
         nb of columns = nb of `gold_triples`
         """
         nb_t, nb_gt = len(triples), len(gold_triples)
+
+        if nb_t == 0:
+            return {
+                "meteor": {"precision": 0, "recall": 0, "f1": 0},
+                "rouge-2": {"precision": 0, "recall": 0, "f1": 0}
+            }
         # meteor[i][j] -> meteor(i, j)
         meteor_cached_recall = np.zeros((nb_t, nb_gt))
         # meteor[i][j] -> meteor(j, i)
@@ -50,13 +56,13 @@ class EvaluationMetrics:
                 meteor_cached_precision[i][j] = self.meteor([meteor_t_gold], meteor_t)
 
         meteor_r = np.sum(np.max(meteor_cached_recall, axis=1)) / nb_t
-        meteor_p = np.sum(np.max(meteor_cached_recall, axis=0)) / nb_gt
+        meteor_p = np.sum(np.max(meteor_cached_precision, axis=0)) / nb_gt
 
         return {
             "meteor": {
                 "precision": 100 * meteor_p,
                 "recall": 100 * meteor_r,
-                "f1": 100 * 2 * meteor_p * meteor_r / (meteor_p + meteor_r)},
+                "f1": 100 * 2 * meteor_p * meteor_r / (meteor_p + meteor_r) if (meteor_p + meteor_r) else 0},
             "rouge-2": {
                 "precision": 100 * scores["rouge2"].precision,
                 "recall": 100 * scores["rouge2"].recall,

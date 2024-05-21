@@ -2,19 +2,17 @@
 """
 Running experiments
 """
-import json
 import os
+import json
+import subprocess
+from typing import List, Union
 from datetime import datetime
 from loguru import logger
 from tqdm import tqdm
-import spacy
-import time  # Add this import
-
-from data_load import DataLoader
-from evaluation import EvaluationMetrics
-from pipeline import CMPipeline
-from settings import *
-
+from src.data_load import DataLoader
+from src.evaluation import EvaluationMetrics
+from src.pipeline import CMPipeline
+from src.settings import *
 
 def get_save_folder():
     """ Save folder """
@@ -55,38 +53,62 @@ class ExperimentRun:
     def __init__(self,
                  folder_path: str, type_data: str, one_cm: bool,
                  options_rel: List[str],
+                 summary_path: Union[str, None] = None,
                  preprocess: bool = False,
                  spacy_model: Union[str, None] = None,
                  options_ent: Union[List[str], None] = None,
                  confidence: Union[float, None] = None,
                  db_spotlight_api: Union[str, None] = 'https://api.dbpedia-spotlight.org/en/annotate',
+                 threshold: Union[int, None] = None,
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
                  local_rm: Union[bool, None] = None,
-                 summary_parameters: Union[str, None] = None):  # Add summary_parameters
-        self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm)
+                 summary_how: Union[str, None] = None,
+                 summary_method: Union[str, None] = None,
+                 api_key_gpt: Union[str, None] = None,
+                 engine: Union[str, None] = None,
+                 temperature: Union[str, None] = None,
+                 summary_percentage: Union[str, None] = None,
+                 ranking: Union[str, None] = None,
+                 ranking_how: Union[str, None] = None,
+                 ranking_int_threshold: Union[int, None] = None,
+                 ranking_perc_threshold: Union[float, None] = None,
+                 word2vec_model_path: Union[str, None] = None):  # Add summary_parameters
+        self.data = DataLoader(path=folder_path, type_d=type_data, one_cm=one_cm,
+                               summary_path=summary_path)
 
         logger.info("Data Loader done!")
 
         self.pipeline = CMPipeline(
             options_rel=options_rel, preprocess=preprocess, spacy_model=spacy_model,
-            db_spotlight_api=db_spotlight_api,
-            rebel_tokenizer=rebel_tokenizer, rebel_model=rebel_model, local_rm=local_rm,  # Add comma here
-            summary_parameters=summary_parameters  # Pass summary_parameters to CMPipeline
-        )
+            options_ent=options_ent, confidence=confidence, db_spotlight_api=db_spotlight_api,
+            threshold=threshold,
+            rebel_tokenizer=rebel_tokenizer, rebel_model=rebel_model, local_rm=local_rm,  
+            summary_how=summary_how,
+            summary_method=summary_method,
+            api_key_gpt=api_key_gpt,
+            engine=engine,
+            temperature=temperature,
+            summary_percentage=summary_percentage,
+            ranking=ranking,
+            ranking_how=ranking_how,
+            ranking_int_threshold=ranking_int_threshold,
+            ranking_perc_threshold=ranking_perc_threshold,
+            word2vec_model_path=word2vec_model_path)
         self.evaluation_metrics = EvaluationMetrics()
 
         self.params = self.pipeline.params
 
         data = self.data.params
         data.update({"files": self.data.files})
-        self.params.update({"data": data, "summary_parameters": summary_parameters})  # Add summary_parameters to params
+        self.params.update({"data": data})  
 
     def __call__(self, save_folder: str):
         """ A folder will be created in save_folder to store the results of experiments """
         metrics = {}
         logs = {}
         logger.info(f"Running experiments for the following parameters: {self.params}")
+        logger.info(f"Running experiments for the following summaries: {self.data.summaries}")
 
         # Save folder
         if not os.path.exists(save_folder):
@@ -98,71 +120,92 @@ class ExperimentRun:
         with open(os.path.join(save_folder, "params.json"), "w", encoding="utf-8") as openfile:
             json.dump(self.params, openfile, indent=4)
 
-        # Run pipeline for each folder and each file
+        # Run pipeline for each folder 
         nb_folder = len(self.data.files)
         for i_folder, folder_info in enumerate(tqdm(self.data.files)):
             folder = folder_info['folder']
             all_relations = []
             logs[folder] = {}
 
-            curr_folder = os.path.join(save_folder, folder_info["folder"])
+            curr_folder = os.path.join(save_folder, folder)
             folder_t_log = f"[Folder {folder}][{i_folder+1}/{nb_folder} ({round(100*(i_folder+1)/nb_folder)}%)]"
             logger.info(folder_t_log)
             create_folders(folder_path=curr_folder)
 
             nb_file = len(folder_info["text"])
-            for i_file, (name, path) in enumerate(tqdm(folder_info["text"])):
-                file_t_log = f"[File {name}][{i_file+1}/{nb_file} ({round(100*(i_file+1)/nb_file)}%)]"
-                logger.info(file_t_log + folder_t_log)
-                start_ = datetime.now()
-                logs[folder][name] = {"start": str(start_)}
-                with open(path, "r", encoding="utf-8") as openfile:
-                    text = openfile.read()
-                    preprocess, entities, relations = [], [], []
+            # Open all files to be taken into account for that subfolder
+            input_content = [open(path, "r", encoding="utf-8").read() for _, path in folder_info["text"]]
 
-                    c_relations, c_info = self.pipeline(text=text, verbose=True)
-                    preprocess.append(c_info["text"])
-                    entities += c_info["entities"]
-                    relations += c_relations
-                    save_data(relations=relations, preprocess=preprocess, entities=entities,
-                              save_folder=curr_folder, name=name)
-                    all_relations += relations
-                logger.info("Pipeline & Preprocessing done")
+            if self.data.summaries:
+                file_order = [x for x, _ in folder_info["text"]]
+                summaries_list = [self.data.summaries[folder][x] for x in file_order]
+                summaries_list = [open(path, "r", encoding="utf-8").read() for path in summaries_list]
+            else:
+                summaries_list = None
 
-                #  Run evaluation
-                gs_triples = get_gs_triples(file_path=folder_info["gs"])
-                all_relations = list(set(all_relations))
-                curr_metrics = self.evaluation_metrics(
-                    triples=all_relations, gold_triples=gs_triples)
-                metrics[folder] = curr_metrics
-                logger.info("Evaluation done, saving metrics..")
+            # Run pipeline
+            start_ = datetime.now()
+            logs[folder]["start"] =  str(start_)
+            c_relations, c_info = self.pipeline(input_content=input_content, summaries_list=summaries_list, verbose=True)
 
-                # Save metrics and logs
-                with open(os.path.join(save_folder, "metrics.json"),
-                          "w", encoding="utf-8") as openfile:
-                    json.dump(metrics, openfile, indent=4)
+            save_data(relations=c_relations, preprocess=c_info["text"], entities=c_info["entities"], save_folder=curr_folder, name=folder)
+            logger.info("Pipeline & Preprocessing done")
 
-                end_ = datetime.now()
-                logs[folder][name].update({"end": str(end_), "total": str(end_-start_)})
-                with open(os.path.join(save_folder, "logs.json"),
-                          "w", encoding="utf-8") as openfile:
-                    json.dump(logs, openfile, indent=4)
+            all_relations = c_relations
 
-                logger.info(f"Total execution time: {(end_ - start_).total_seconds():.4f}s")
+            #  Run evaluation
+            gs_triples = get_gs_triples(file_path=folder_info["gs"])
+            all_relations = list(set(all_relations))
+            curr_metrics = self.evaluation_metrics(
+                triples=all_relations, gold_triples=gs_triples)
+            metrics[folder] = curr_metrics
+            logger.info("Evaluation done, saving metrics..")
+
+            # Save metrics and logs
+            with open(os.path.join(save_folder, "metrics.json"),
+                        "w", encoding="utf-8") as openfile:
+                json.dump(metrics, openfile, indent=4)
+
+            end_ = datetime.now()
+            # logs[folder][name].update({"end": str(end_), "total": str(end_-start_)})
+            logs[folder].update({"end": str(end_), "total": str(end_-start_)})
+
+            with open(os.path.join(save_folder, "logs.json"),
+                        "w", encoding="utf-8") as openfile:
+                json.dump(logs, openfile, indent=4)
+
+            logger.info(f"Total execution time: {(end_ - start_).total_seconds():.4f}s")
+
+            # Save word2vec model
+            if os.path.exists("word2vec.model"):
+                subprocess.call(f"mv word2vec.model {os.path.join(save_folder, folder)}", shell=True)
+        
+        logs["finished"] = "yes"
+        with open(os.path.join(save_folder, "logs.json"),
+                  "w", encoding="utf-8") as openfile:
+            json.dump(logs, openfile, indent=4)
 
 if __name__ == '__main__':
+    from settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
-        #folder_path="./src/data/Corpora_Falke/Wiki/train/101",
-        folder_path=WIKI_TRAIN + "101",
-        type_data="multi", one_cm=True,
+        # EXPERIMENT PARAMS
+        folder_path="./src/data/Corpora_Falke/Wiki/test",
+        type_data="multi", one_cm=False,
+        summary_path="./summaries/wiki_test/chat-gpt/15/",
+
+        # PIPELINE PARAMS
         preprocess=True, spacy_model="en_core_web_lg",
-        options_ent=["wordnet", "dbpedia_spotlight"],
-        confidence=0.35,
+        options_ent=["dbpedia_spotlight", "nps"],
+        confidence=0.5,
         db_spotlight_api="http://localhost:2222/rest/annotate",
-        options_rel=["rebel"],
-        rebel_tokenizer="Babelscape/rebel-large",
-        #rebel_model="./src/triples_from_text/finetuned_rebel.pth", local_rm=True)
-        rebel_model=REBEL_DIR, local_rm=True,
-        summary_parameters="chat-gpt")  # or "lex-rank"
+        threshold=10,
+        options_rel=["corenlp"],
+        # rebel_tokenizer="Babelscape/rebel-large",
+        # rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+        summary_how = "single", summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
+        temperature=0.0, summary_percentage=15,
+        # ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15
+        )
     # print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")

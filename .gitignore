@@ -133,3 +133,9 @@ dmypy.json
 
 misc/*
 experiments/*
+req_log.txt
+word2vec.model
+test/
+install_req.py
+summaries/*/logs.json
+summaries_bio/
