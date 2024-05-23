@@ -19,7 +19,7 @@ client = OpenAI(api_key=API_KEY_GPT)
 class RelationExtractor:
     """ Extracting relations from text """
 
-    def __init__(self, spacy_model: str, options: List[str] = ["rebel", "dependency", "chat-gpt"],
+    def __init__(self, spacy_model: str, options: List[str] = ["rebel", "dependency", "chat-gpt", "corenlp"],
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None, local_rm: Union[bool, None] = None):
         """ local_m: whether the model is locally stored or not """
@@ -54,16 +54,24 @@ class RelationExtractor:
             self.rebel = None
 
         self.nlp = spacy.load(spacy_model)
-    
-    def get_corenlp_rel(self, sentences: List[str], entities: Union[List[str], None]):
-        """ Extracting relations with rebel """
-        triples = []
+
+    def get_corenlp_rel(self, sentences: List[str], entities: Union[List[Union[str, spacy.tokens.Span, spacy.tokens.Token]], None]):
+        """ Extracting relations with corenlp"""
         with StanfordOpenIE() as client:
             triples = client.annotate("\n".join(sentences))
         triples = [(x["subject"], x["relation"], x["object"]) for x in triples]
-        if isinstance(entities, List):
-            triples = [(a, b, c) for a, b, c in triples if any((x.lower() in a.lower()) or (x.lower() in b.lower()) for x in entities)]
+        if entities is not None:
+            # Convert all entities to their string representations
+            entity_strings = [self._to_string(entity) for entity in entities]
+            triples = [(a, b, c) for a, b, c in triples if
+                       any((x in a) or (x in b) for x in entity_strings)]
         return triples
+
+    def _to_string(self, entity):
+        """ Helper method to convert entities to string representations """
+        if isinstance(entity, spacy.tokens.Span) or isinstance(entity, spacy.tokens.Token):
+            return entity.text
+        return str(entity)
 
     @staticmethod
     def get_rmodel(model: str, local_rm: bool):
@@ -154,30 +162,37 @@ class RelationExtractor:
         dataset.set_format(type="torch", columns=['input_ids', 'attention_mask'])
         return DataLoader(dataset, batch_size=batch_size)
     
-    def get_chat_gpt(self, sentences: List[str], entities: Union[List[str], None]):
+    def get_chat_gpt(self, sentences: List[str], entities: Union[List[Union[str, spacy.tokens.Span, spacy.tokens.Token]], None]):
         res = []
         for sent in sentences:
             completion = client.chat.completions.create(
                 model="gpt-3.5-turbo",
-                messages = [
-                    {"role": "user",
-                    "content": f"Extract triples from this sentence:\n{sent}\n\n. One triple per line, in the format a|b|c"}
+                messages=[
+                    {"role": "user", "content": f"Extract triples from this sentence:\n{sent}\n\n. One triple per line, in the format a|b|c"}
                 ],
-                temperature=0)
+                temperature=0
+            )
 
             try:
-                output = completion.choices[0].message.content.split("\n")
+                output = completion.choices[0].message['content'].strip().split("\n")
                 output = [tuple(x.split('|')) for x in output]
                 output = [x for x in output if len(x) == 3]
                 res += output
             except Exception as e:
                 print(e)
                 raise ValueError("Something went wrong with the summary")
-        
+
         if entities:
-            res = [(a, b, c) for a, b, c in res if any((x.lower() in a) or (x.lower() in b) for x in entities)]
-        
+            entity_strings = [self._to_string(entity) for entity in entities]
+            res = [(a, b, c) for a, b, c in res if any((x.lower() in a.lower()) or (x.lower() in b.lower()) or (x.lower() in c.lower()) for x in entity_strings)]
+
         return res
+
+    def _to_string(self, entity):
+        """ Helper method to convert entities to string representations """
+        if isinstance(entity, spacy.tokens.Span) or isinstance(entity, spacy.tokens.Token):
+            return entity.text
+        return str(entity)
 
     def get_rebel_rel(self, sentences: List[str], entities: Union[List[str], None]):
         """ Extracting relations with rebel """

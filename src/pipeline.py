@@ -3,9 +3,8 @@
 Full pipeline
 """
 import time
-from types import NoneType
+# from types import NoneType
 from typing import Union, List
-
 import spacy
 from loguru import logger
 from tqdm import tqdm
@@ -15,7 +14,7 @@ from src.importance_ranking import ImportanceRanker
 from src.postprocess import PostProcessor
 from src.preprocess import PreProcessor
 from src.relation import RelationExtractor
-from src.settings import API_KEY_GPT
+from src.settings import API_KEY_GPT, REBEL_DIR
 from src.summary import TextSummarizer
 
 
@@ -43,7 +42,8 @@ class CMPipeline:
                  ranking_how: Union[str, None] = None,
                  ranking_int_threshold: Union[int, None] = None,
                  ranking_perc_threshold: Union[float, None] = None,
-                 word2vec_model_path: Union[str, None] = None):
+                 word2vec_model_path: Union[str, None] = None,
+                 options_rel_post: Union[List[str], None] = None):
 
         # Summary options: 
         # - `single`: summarising each text one by one
@@ -88,9 +88,10 @@ class CMPipeline:
                                                   word2vec_model_path=word2vec_model_path) \
             if ranking else None
         self.postprocess = PostProcessor() if postprocess else None
+        self.options_rel_post = options_rel_post
 
     def check_params(self, preprocess, spacy_model, summary_method, summary_how,
-                     ranking, ranking_how):
+                     ranking, ranking_how, postprocess):
         """ Check consistency of params """
         if preprocess and (not spacy_model):
             raise ValueError("For preprocessing, you need to enter `spacy_model`")
@@ -133,6 +134,8 @@ class CMPipeline:
         if isinstance(input_content, str):
             input_content = [input_content]
         start_time = time.time()
+        NoneType = type(None)
+
         if isinstance(summaries_list, NoneType):  # no cached summaries > doing this on the spot
             # SENTENCE FORMATTING
             docs = [self.nlp(text) for text in input_content]
@@ -207,6 +210,11 @@ class CMPipeline:
             entities = self.entity(text="\n".join(entity_input))
             if "dbpedia_spotlight" in self.params["entity"]["options_ent"]:
                 entities["dbpedia_spotlight"] = [x[1] for x in entities["dbpedia_spotlight"]]
+            elif "wordnet" in self.params["entity"]["options_ent"]:
+                entities["wordnet"] = entities["wordnet"]
+            elif "nps" in self.params["entity"]["options_ent"]:
+                entities["nps"] = [x.text for x in entities["nps"]]
+
             entities = list(set(x for _, v in entities.items() for x in v))
 
             # logger.info(f"Entities extracted : {entities}")
@@ -220,13 +228,20 @@ class CMPipeline:
         self.log_info(message="Relation extraction", verbose=verbose)
         # total_time = time.time() - start_time
         relation_extraction_start_time = time.time()
-        res = self.relation(sentences=ranked_sents, entities=entities)
+        if "corenlp" in self.params["relation"]["options_rel"]:
+            res = self.relation(sentences=ranked_sents, entities=entities)
+        elif "rebel" in self.params["relation"]["options_rel"]:
+            res = self.relation(sentences=ranked_sents, entities=entities)
+        elif "chat-gpt" in self.params["relation"]["options_rel"]:
+            res = self.relation(sentences=ranked_sents, entities=entities)
+        elif "dependency" in self.params["relation"]["options_rel"]:
+            res = self.relation(sentences=ranked_sents, entities=entities)
         relation_extraction_time = time.time() - relation_extraction_start_time
 
-        # PREPROCESSING
+        # POSTPROCESSING
         self.log_info(message="Postprocessing", verbose=verbose)
-        sentences = [[self.postprocess(x) for x in sentences] for sentences in docs] \
-            if self.postprocess else docs
+        if self.postprocess:
+            res_post = self.postprocess.remove_redundant_triples(res)
         post_processing_time = time.time() - start_time
         self.log_info(message="Postprocessing done", verbose=verbose)
 
@@ -243,33 +258,36 @@ class CMPipeline:
         text_to_save = "\n".join(["\n".join(x) for x in sentences])
         return [x for _, val in res.items() for x in val], \
                {"text": "\n".join(["\n".join(x) for x in sentences]),
-                "entities": entities, "summary": summary,
-                "ranked": "\n".join(["\n".join(x) for x in ranked_sents])}
-
+                "entities": entities,
+                "summary": summary,
+                "before_postprocess": res,
+                "postprocess": res_post,
+                "ranked": ranked_sents}
 
 if __name__ == '__main__':
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
         postprocess=True,
         # options_ent=["wordnet", "dbpedia_spotlight", "spacy"],
-        options_ent=["dbpedia_spotlight"],
+        options_ent=["dbpedia_spotlight","wordnet","nps"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         threshold=None,
-        options_rel=["rebel","dependency"],
+        options_rel=["rebel"], #rebel #chat-gpt #corenlp
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+        rebel_model=REBEL_DIR,
+        local_rm=True,
         summary_how="single", summary_method="chat-gpt",
         api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
         summary_percentage=80, temperature=0.0,
         ranking="word2vec", ranking_how="single",
-        ranking_perc_threshold=0.8, ranking_int_threshold=None)
+        ranking_perc_threshold=0.8, ranking_int_threshold=None,
+        options_rel_post=["rebel","corenlp","dependency", "chat-gpt"])
     print(PIPELINE.params)
     TEXT = """
     The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
     7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale.
     """
     RES = PIPELINE(input_content=TEXT, verbose=True)
-    print(RES[0])
-    print("Ranker:")
-    print(RES[1]["ranked"])
+    print(RES)
+    # print(RES[0])

@@ -8,7 +8,7 @@ from collections import Counter
 class EntityExtractor:
     """ Extracting entities from text """
 
-    def __init__(self, options: List[str] = ["dbpedia_spotlight"],
+    def __init__(self, options: List[str] = ["dbpedia_spotlight", "nps","wordnet"],
                  confidence: Union[float, None] = None,
                  db_spotlight_api: str = 'https://api.dbpedia-spotlight.org/en/annotate',
                  threshold: Union[int, None] = 10):

@@ -6,7 +6,7 @@ import os
 import spacy
 
 nlp = spacy.load("en_core_web_lg")
-API_KEY_GPT = ""
+API_KEY_GPT = "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"
 RND_SEED = 42
 
 ROOT_DIR = os.getcwd()
@@ -17,9 +17,9 @@ REBEL_DIR = os.path.join(ROOT_DIR + '/rebel_fine_tuned/finetuned_rebel.pth')
 EXPERIMENTS = os.path.join(ROOT_DIR + '/experiments')
 
 # fine tuning rebel
-REBEL = os.path.join(SRC_DIR + '/fine_tuning_rebel')
-BIO = os.path.join(REBEL + '/cm_biology.csv')
-BIO_TEST = os.path.join(REBEL + '/cm_biology_test.csv')
+# REBEL = os.path.join(SRC_DIR + '/fine_tuning_rebel')
+# BIO = os.path.join(REBEL + '/cm_biology.csv')
+# BIO_TEST = os.path.join(REBEL + '/cm_biology_test.csv')
 
 # corpora Falke
 CORPORA_FALKE = os.path.join(DATA_DIR + '/Corpora_Falke')
