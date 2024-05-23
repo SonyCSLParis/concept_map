@@ -24,7 +24,6 @@ class PostProcessor:
     def _find_unique_triples(self, triples: List[str]) -> List[str]:
         """ Find unique triples """
         unique_triples = []
-        processed_triples = set()
         for triple in triples:
             elements = triple.split(', ')
             unique_elements = set(elements)

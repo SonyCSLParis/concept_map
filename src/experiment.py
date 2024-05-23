@@ -23,11 +23,11 @@ def get_save_folder():
 def create_folders(folder_path: str):
     """ Create folders to save intermediate steps """
     os.makedirs(folder_path)
-    for name in ["preprocess", "entity", "relation"]:
+    for name in ["preprocess", "entity", "relation", "postprocess"]:
         os.makedirs(os.path.join(folder_path, name))
 
 
-def save_data(preprocess, entities, relations, save_folder, name):
+def save_data(preprocess, entities, relations, postprocess, save_folder, name):
     """ Save intermediate steps data """
     with open(os.path.join(
             save_folder, "relation", f"{name}.txt"), "w", encoding="utf-8") as output_file:
@@ -40,6 +40,10 @@ def save_data(preprocess, entities, relations, save_folder, name):
     with open(os.path.join(
             save_folder, "entity", f"{name}.json"), "w", encoding="utf-8") as openfile:
         json.dump({"entities": entities}, openfile, indent=4)
+
+    with open(os.path.join(
+            save_folder, "postprocess", f"{name}.txt"), "w", encoding="utf-8") as openfile:
+        output_file.write("\n".join(postprocess))
 
 
 def get_gs_triples(file_path):
@@ -55,6 +59,7 @@ class ExperimentRun:
                  options_rel: List[str],
                  summary_path: Union[str, None] = None,
                  preprocess: bool = False,
+                 postprocess: bool = False,
                  spacy_model: Union[str, None] = None,
                  options_ent: Union[List[str], None] = None,
                  confidence: Union[float, None] = None,
@@ -90,6 +95,7 @@ class ExperimentRun:
             summary_percentage=summary_percentage,
             ranking=ranking,
             ranking_how=ranking_how,
+            postprocess=postprocess,
             ranking_int_threshold=ranking_int_threshold,
             ranking_perc_threshold=ranking_perc_threshold,
             word2vec_model_path=word2vec_model_path)
@@ -146,7 +152,7 @@ class ExperimentRun:
             logs[folder]["start"] =  str(start_)
             c_relations, c_info = self.pipeline(input_content=input_content, summaries_list=summaries_list, verbose=True)
 
-            save_data(relations=c_relations, preprocess=c_info["text"], entities=c_info["entities"], save_folder=curr_folder, name=folder)
+            save_data(relations=c_relations, preprocess=c_info["text"], entities=c_info["entities"], postprocess=c_relations, save_folder=curr_folder, name=folder)
             logger.info("Pipeline & Preprocessing done")
 
             all_relations = c_relations
@@ -193,6 +199,7 @@ if __name__ == '__main__':
 
         # PIPELINE PARAMS
         preprocess=True, spacy_model="en_core_web_lg",
+        postprocess=True,
         options_ent=["dbpedia_spotlight"],
         confidence=0.5,
         db_spotlight_api="http://localhost:2222/rest/annotate",

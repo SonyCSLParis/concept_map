@@ -2,27 +2,29 @@
 """
 Full pipeline
 """
-import sys
+import time
 from types import NoneType
 from typing import Union, List
+
 import spacy
-import time
-from tqdm import tqdm
 from loguru import logger
-from src.preprocess import PreProcessor
-from nltk.corpus import wordnet as wn
+from tqdm import tqdm
+
 from src.entity import EntityExtractor
+from src.importance_ranking import ImportanceRanker
+from src.postprocess import PostProcessor
 from src.preprocess import PreProcessor
 from src.relation import RelationExtractor
 from src.settings import API_KEY_GPT
 from src.summary import TextSummarizer
-from src.importance_ranking import ImportanceRanker
+
 
 class CMPipeline:
     """ class for the whole pipeline """
 
     def __init__(self, options_rel: List[str],
                  preprocess: bool = False,
+                 postprocess: bool = False,
                  spacy_model: Union[str, None] = None,
                  options_ent: Union[List[str], None] = None,
                  confidence: Union[float, None] = None,
@@ -50,19 +52,21 @@ class CMPipeline:
         self.check_params(
             preprocess=preprocess, spacy_model=spacy_model,
             summary_method=summary_method, summary_how=summary_how,
-            ranking=ranking, ranking_how=ranking_how
+            ranking=ranking, ranking_how=ranking_how, postprocess=postprocess,
         )
 
         self.params = {
-            "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model,},
+            "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model, },
             "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api},
             "relation": {
                 "rebel_tokenizer": rebel_tokenizer, "rebel_model": rebel_model, "options_rel": options_rel,
                 "local_rm": local_rm},
-            "summary": {"summary_method": summary_method, "engine": engine, "temperature": temperature, "summary_percentage": summary_percentage},
+            "summary": {"summary_method": summary_method, "engine": engine, "temperature": temperature,
+                        "summary_percentage": summary_percentage},
             "ranking": {"ranking": ranking, "ranking_how": ranking_how,
                         "ranking_int_threshold": ranking_int_threshold,
-                        "ranking_perc_threshold": ranking_perc_threshold}
+                        "ranking_perc_threshold": ranking_perc_threshold},
+            "postprocess": {"postprocess": postprocess},
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
@@ -74,11 +78,15 @@ class CMPipeline:
         self.nlp = spacy.load(spacy_model)
         self.summary_how = summary_how
         self.summarizer = TextSummarizer(
-            method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature, summary_percentage=summary_percentage
+            method=summary_method, api_key_gpt=api_key_gpt, engine=engine, temperature=temperature,
+            summary_percentage=summary_percentage
         ) if summary_method else None
         self.ranking_how = ranking_how
-        self.importance_ranker = ImportanceRanker(ranking=ranking, int_threshold=ranking_int_threshold, perc_threshold=ranking_perc_threshold, word2vec_model_path=word2vec_model_path) \
+        self.importance_ranker = ImportanceRanker(ranking=ranking, int_threshold=ranking_int_threshold,
+                                                  perc_threshold=ranking_perc_threshold,
+                                                  word2vec_model_path=word2vec_model_path) \
             if ranking else None
+        self.postprocess = PostProcessor() if postprocess else None
 
     def check_params(self, preprocess, spacy_model, summary_method, summary_how,
                      ranking, ranking_how):
@@ -90,13 +98,13 @@ class CMPipeline:
         if ranking and ranking_how not in self.ranking_p:
             raise ValueError(f"For ranking, `ranking_how` should be in {self.ranking_p}")
         if summary_how == 'all' and ranking_how == 'single':
-            raise ValueError(f"If `summary_how` is `all`, then `ranking_how` can only be `all`") 
+            raise ValueError(f"If `summary_how` is `all`, then `ranking_how` can only be `all`")
 
     @staticmethod
     def log_info(message, verbose):
         if verbose:
             logger.info(message)
-    
+
     @staticmethod
     def check_input_summary(input_, summary):
         if summary:
@@ -105,7 +113,7 @@ class CMPipeline:
             if isinstance(input_, list) and len(input_) != len(summary):
                 raise ValueError("`summary` should be the same length as `input_content`")
         return
-    
+
     def __call__(self, input_content: Union[str, List[str]],
                  summaries_list: Union[List[str], None] = None,
                  verbose: bool = False):
@@ -146,11 +154,13 @@ class CMPipeline:
                     for text in tqdm(texts):
                         summary.append(self.summarizer(text=text))
                     sentences_input = [self.nlp(text) for text in summary]
-                    sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
+                    sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in
+                                       sentences_input]
                 else:  # self.summary_how == "all" -> summarising all documents in one go
                     summary = self.summarizer("\n".join(["\n".join(elt) for elt in sentences]))
                     sentences_input = [self.nlp(summary)]
-                    sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
+                    sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in
+                                       sentences_input]
 
                 summary_generation_time = time.time() - summary_generation_start_time
                 logger.info(f"Summary found is :{summary}")
@@ -158,14 +168,15 @@ class CMPipeline:
                 summary_generation_time = 0
                 sentences_input = sentences
                 summary = None
-        
+
         else:  # cached summaries > formatting them to be used as inputs for the rest of the pipeline
             summary = None
             sentences = []
             preprocessing_time = 0
             summary_generation_time = 0
             sentences_input = [self.nlp(text) for text in summaries_list]
-            sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in sentences_input]
+            sentences_input = [[sent.text.strip() for sent in doc.sents if sent.text.strip()] for doc in
+                               sentences_input]
 
         # IMPORTANCE RANKING, input sentences_input list of list, output ranked_sents list of str
         sentences_input = [x for x in sentences_input if x]
@@ -186,7 +197,7 @@ class CMPipeline:
         else:
             ranked_sents = [sent for x in sentences_input for sent in x]
             ranking_extraction_time = 0
-        
+
         # ENTITY EXTRACTION, input entity_input list of str, outputs entities list of str ()
         entity_input = ranked_sents
         self.log_info(message="Entity extraction", verbose=verbose)
@@ -211,6 +222,13 @@ class CMPipeline:
         res = self.relation(sentences=ranked_sents, entities=entities)
         relation_extraction_time = time.time() - relation_extraction_start_time
 
+        # PREPROCESSING
+        self.log_info(message="Postprocessing", verbose=verbose)
+        sentences = [[self.postprocess(x) for x in sentences] for sentences in docs] \
+            if self.postprocess else docs
+        post_processing_time = time.time() - start_time
+        self.log_info(message="Postprocessing done", verbose=verbose)
+
         total_time = time.time() - start_time
 
         logger.info(f"Total execution time: {total_time:.4f}s")
@@ -219,22 +237,24 @@ class CMPipeline:
         logger.info(f"Ranking extraction time: {ranking_extraction_time:.4f}s")
         logger.info(f"Entity extraction time: {entities_extraction_time:.4f}s")
         logger.info(f"Relation extraction time: {relation_extraction_time:.4f}s")
+        logger.info(f"Postprocessing time: {post_processing_time:.4f}s")
 
         text_to_save = "\n".join(["\n".join(x) for x in sentences])
         return [x for _, val in res.items() for x in val], \
-            {"text": "\n".join(["\n".join(x) for x in sentences]),
-            "entities": entities,"summary": summary,
-            "ranked": "\n".join(["\n".join(x) for x in ranked_sents])}
+               {"text": "\n".join(["\n".join(x) for x in sentences]),
+                "entities": entities, "summary": summary,
+                "ranked": "\n".join(["\n".join(x) for x in ranked_sents])}
 
 
 if __name__ == '__main__':
     PIPELINE = CMPipeline(
         preprocess=True, spacy_model="en_core_web_lg",
+        postprocess=True,
         # options_ent=["wordnet", "dbpedia_spotlight", "spacy"],
         options_ent=["dbpedia_spotlight"],
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
-        options_rel=["rebel","dependency"],
+        options_rel=["rebel", "dependency"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         summary_how="single", summary_method="chat-gpt",
