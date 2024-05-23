@@ -7,24 +7,30 @@ from typing import Union, List
 import torch
 from torch.utils.data import DataLoader
 from datasets import Dataset
+from openai import OpenAI
+from openie import StanfordOpenIE
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from src.fine_tune_rebel.run_rebel import extract_triples
 from src.settings import *
+
+client = OpenAI(api_key=API_KEY_GPT)
 
 
 class RelationExtractor:
     """ Extracting relations from text """
 
-    def __init__(self, spacy_model: str, options: List[str] = ["rebel", "dependency"],
+    def __init__(self, spacy_model: str, options: List[str] = ["rebel", "dependency", "chat-gpt"],
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None, local_rm: Union[bool, None] = None):
         """ local_m: whether the model is locally stored or not """
-        self.options_p = ["rebel", "dependency"]
         self.options_to_f = {
             "rebel": self.get_rebel_rel,
-            "dependency": self.get_dependencymodel
+            "dependency": self.get_dependencymodel,
+            "chat-gpt": self.get_chat_gpt,
+            "corenlp": self.get_corenlp_rel,
 
         }
+        self.options_p = list(self.options_to_f.keys())
         self.check_params(options=options, rebel_t=rebel_tokenizer,
                           rebel_m=rebel_model, local_rm=local_rm)
         self.params = {
@@ -48,6 +54,16 @@ class RelationExtractor:
             self.rebel = None
 
         self.nlp = spacy.load(spacy_model)
+    
+    def get_corenlp_rel(self, sentences: List[str], entities: Union[List[str], None]):
+        """ Extracting relations with rebel """
+        triples = []
+        with StanfordOpenIE() as client:
+            triples = client.annotate("\n".join(sentences))
+        triples = [(x["subject"], x["relation"], x["object"]) for x in triples]
+        if isinstance(entities, List):
+            triples = [(a, b, c) for a, b, c in triples if any((x.lower() in a.lower()) or (x.lower() in b.lower()) for x in entities)]
+        return triples
 
     @staticmethod
     def get_rmodel(model: str, local_rm: bool):
@@ -137,6 +153,31 @@ class RelationExtractor:
         dataset = dataset.map(lambda examples: self.rebel['tokenizer'](examples["text"], max_length=256, padding=True, truncation=True, return_tensors='pt'), batched=True)
         dataset.set_format(type="torch", columns=['input_ids', 'attention_mask'])
         return DataLoader(dataset, batch_size=batch_size)
+    
+    def get_chat_gpt(self, sentences: List[str], entities: Union[List[str], None]):
+        res = []
+        for sent in sentences:
+            completion = client.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages = [
+                    {"role": "user",
+                    "content": f"Extract triples from this sentence:\n{sent}\n\n. One triple per line, in the format a|b|c"}
+                ],
+                temperature=0)
+
+            try:
+                output = completion.choices[0].message.content.split("\n")
+                output = [tuple(x.split('|')) for x in output]
+                output = [x for x in output if len(x) == 3]
+                res += output
+            except Exception as e:
+                print(e)
+                raise ValueError("Something went wrong with the summary")
+        
+        if entities:
+            res = [(a, b, c) for a, b, c in res if any((x.lower() in a) or (x.lower() in b) for x in entities)]
+        
+        return res
 
     def get_rebel_rel(self, sentences: List[str], entities: Union[List[str], None]):
         """ Extracting relations with rebel """
@@ -186,33 +227,35 @@ class RelationExtractor:
         for option in self.options:
             curr_res = self.options_to_f[option](sentences=sentences, entities=entities)
             curr_res = [x for x in curr_res if x[0].lower() != x[2].lower()]
+            # print(curr_res)
             res[option] = list(set(curr_res))
         return res
 
 
 if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
-        options=["rebel"], rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
-        spacy_model="en_core_web_lg")
-    from nltk.tokenize import sent_tokenize
-    from entity import *
+        options=["corenlp"], spacy_model="en_core_web_lg")
+    SENTENCES = [
+        "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
+        "7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale."
+    ]
+    ENTITIES = {'dbpedia_spotlight': [
+        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 World Trade Center'),
+        ('http://dbpedia.org/resource/Benchmarking', 'benchmark'),
+        ('http://dbpedia.org/resource/Safety', 'safety'),
+        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 WTC'),
+        ("http://dbpedia.org/resource/Moody's_Investors_Service", 'Moody'),
+        ('http://dbpedia.org/resource/New_York_City', 'New York'),
+        ('http://dbpedia.org/resource/Joe_Mansueto', 'Mansueto Ventures'),
+        ('http://dbpedia.org/resource/MSCI', 'MSCI'),
+        ('http://dbpedia.org/resource/Elisha_Cook_Jr.', 'Wilmer'),
+        ('http://dbpedia.org/resource/Hale,_Greater_Manchester', 'Hale')]}
+    ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
 
-    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight", "wordnet"], confidence=0.35,
-                                       db_spotlight_api="http://localhost:2222/rest/annotate")
-    folder_path = WIKI_TRAIN + "/116"
-    for filename in os.listdir(folder_path):
-        if filename.endswith('.txt'):
-            file_path = os.path.join(folder_path, filename)
-            with open(file_path, 'r', encoding='utf-8') as file:
-                text = file.read()
-                RES = ENTITY_EXTRACTOR(text=text)
-                extracted_strings_2 = [item[1] for item in RES['dbpedia_spotlight']]
-                print("## ENTITIES")
-                print(extracted_strings_2)
-                sentences = sent_tokenize(text)
-                print("## SENTENCES")
-                print(sentences)
-                RES = REL_EXTRACTOR(sentences=sentences, entities=extracted_strings_2)
-                print("## RELATION")
-                print(RES)
+    print("## WITHOUT ENTITIES")
+    RES = REL_EXTRACTOR(sentences=SENTENCES)
+    print(RES)
+    print("==========")
+    print("## WITH ENTITIES")
+    RES = REL_EXTRACTOR(sentences=SENTENCES, entities=ENTITIES)
+    print(RES)

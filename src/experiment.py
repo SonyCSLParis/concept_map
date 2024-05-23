@@ -64,6 +64,7 @@ class ExperimentRun:
                  options_ent: Union[List[str], None] = None,
                  confidence: Union[float, None] = None,
                  db_spotlight_api: Union[str, None] = 'https://api.dbpedia-spotlight.org/en/annotate',
+                 threshold: Union[int, None] = None,
                  rebel_tokenizer: Union[str, None] = None,
                  rebel_model: Union[str, None] = None,
                  local_rm: Union[bool, None] = None,
@@ -86,6 +87,7 @@ class ExperimentRun:
         self.pipeline = CMPipeline(
             options_rel=options_rel, preprocess=preprocess, spacy_model=spacy_model,
             options_ent=options_ent, confidence=confidence, db_spotlight_api=db_spotlight_api,
+            threshold=threshold,
             rebel_tokenizer=rebel_tokenizer, rebel_model=rebel_model, local_rm=local_rm,  
             summary_how=summary_how,
             summary_method=summary_method,
@@ -193,23 +195,24 @@ if __name__ == '__main__':
     from settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
-        folder_path="./src/data/Corpora_Falke/Wiki/test/212",
-        type_data="multi", one_cm=True,
-        summary_path="./summaries_test/chat-gpt/15/212",
+        folder_path="./src/data/Corpora_Falke/Wiki/test",
+        type_data="multi", one_cm=False,
+        summary_path="./summaries/wiki_test/chat-gpt/15/",
 
         # PIPELINE PARAMS
         preprocess=True, spacy_model="en_core_web_lg",
         postprocess=True,
-        options_ent=["dbpedia_spotlight"],
+        options_ent=["dbpedia_spotlight", "nps"],
         confidence=0.5,
         db_spotlight_api="http://localhost:2222/rest/annotate",
-        options_rel=["rebel"],
-        rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+        threshold=10,
+        options_rel=["corenlp"],
+        # rebel_tokenizer="Babelscape/rebel-large",
+        # rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
         summary_how = "single", summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT, engine="gpt3.5-turbo",
+        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
         temperature=0.0, summary_percentage=15,
-        ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15
+        # ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15
         )
     # print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")

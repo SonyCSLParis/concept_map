@@ -119,20 +119,23 @@ class PreProcessor:
 
         return cleaned_text
 
+    def get_sentences(self, file_path: str):
+        """ Self explanatory """
+        with open(file_path, "r", encoding='utf-8') as file:
+            text = file.read()
+            doc = self.nlp(text)
+        return [sent.text.strip() for sent in doc.sents]
 
-def preprocess_folder(input_folder, output_folder):
-    for root, dirs, files in os.walk(input_folder):
-        for file_name in files:
-            if file_name.endswith(".txt"):
+    def main_folder(self, input_folder: str, output_folder: str):
+        """ Instead of one text, running for one folder"""
+        for root, _, files in os.walk(input_folder):
+            logger.info(f"[Preprocessing] Root: {root}")
+            for file_name in tqdm([x for x in files if x.endswith(".txt")]):
                 file_path = os.path.join(root, file_name)
+                sentences = self.get_sentences(file_path=file_path)
 
-                with open(file_path, "r") as file:
-                    text = file.read()
-                    doc = nlp(text)
-                    sentences = [sent.text.strip() for sent in doc.sents]
-
-                    cleaned_text = [preprocess_text(sent) for sent in sentences]
-                    my_string = '\n'.join(cleaned_text)
+                cleaned_text = [self(sent) for sent in sentences]
+                my_string = '\n'.join(cleaned_text)
 
                 output_root = root.replace(input_folder, output_folder)
                 os.makedirs(output_root, exist_ok=True)
@@ -140,5 +143,5 @@ def preprocess_folder(input_folder, output_folder):
                 output_file_name = file_name.replace(".txt", "-preprocessed.txt")
                 output_file_path = os.path.join(output_root, output_file_name)
 
-                with open(output_file_path, "w") as output_file:
+                with open(output_file_path, "w", encoding='utf-8') as output_file:
                     output_file.write(my_string)
