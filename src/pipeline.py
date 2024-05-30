@@ -58,7 +58,7 @@ class CMPipeline:
 
         self.params = {
             "preprocess": {"preprocess": preprocess, "spacy_model": spacy_model,},
-            "entity": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api, "threshold": threshold},
+            "entities": {"options_ent": options_ent, "confidence": confidence, "db_spotlight_api": db_spotlight_api, "threshold": threshold},
             "relation": {
                 "rebel_tokenizer": rebel_tokenizer, "rebel_model": rebel_model, "options_rel": options_rel,
                 "local_rm": local_rm},
@@ -71,8 +71,11 @@ class CMPipeline:
         }
 
         self.preprocess = PreProcessor(model=spacy_model) if preprocess else None
-        self.entity = EntityExtractor(options=options_ent, confidence=confidence, db_spotlight_api=db_spotlight_api, threshold=threshold) \
-            if options_ent else None
+        if options_ent:
+            self.entities = EntityExtractor(options=options_ent, confidence=confidence,
+                                            db_spotlight_api=db_spotlight_api, threshold=threshold)
+        else:
+            self.entities = None
         self.relation = RelationExtractor(
             options=options_rel, rebel_tokenizer=rebel_tokenizer,
             rebel_model=rebel_model, local_rm=local_rm, spacy_model=spacy_model)
@@ -89,6 +92,7 @@ class CMPipeline:
             if ranking else None
         self.postprocess = PostProcessor() if postprocess else None
         self.options_rel_post = options_rel_post
+
 
     def check_params(self, preprocess, spacy_model, summary_method, summary_how,
                      ranking, ranking_how, postprocess):
@@ -205,37 +209,40 @@ class CMPipeline:
         # ENTITY EXTRACTION, input entity_input list of str, outputs entities list of str ()
         entity_input = ranked_sents
         self.log_info(message="Entity extraction", verbose=verbose)
-        if self.entity:
+        # entities_x= None
+        if self.entities:
             entities_start_time = time.time()
-            entities = self.entity(text="\n".join(entity_input))
-            if "dbpedia_spotlight" in self.params["entity"]["options_ent"]:
-                entities["dbpedia_spotlight"] = [x[1] for x in entities["dbpedia_spotlight"]]
-            elif "wordnet" in self.params["entity"]["options_ent"]:
-                entities["wordnet"] = entities["wordnet"]
-            elif "nps" in self.params["entity"]["options_ent"]:
-                entities["nps"] = [x.text for x in entities["nps"]]
-
-            entities = list(set(x for _, v in entities.items() for x in v))
-
-            # logger.info(f"Entities extracted : {entities}")
+            entities_result = self.entities(text="\n".join(entity_input))
+            if "dbpedia_spotlight" in self.params["entities"]["options_ent"]:
+                entities_result["dbpedia_spotlight"] = [x[1] for x in entities_result["dbpedia_spotlight"]]
+            elif "wordnet" in self.params["entities"]["options_ent"]:
+                entities_result["wordnet"] = entities_result["wordnet"]
+            elif "nps" in self.params["entities"]["options_ent"]:
+                entities_result["nps"] = [x.text for x in entities_result["nps"]]
+            entities = list(set(x for _, v in entities_result.items() for x in v))
+            print(entities)
             entities_extraction_time = time.time() - entities_start_time
-
         else:
             entities = None
+            print("THE ENTITIES ARE", entities)
             entities_extraction_time = 0
 
         # RELATION EXTRACTION
         self.log_info(message="Relation extraction", verbose=verbose)
         # total_time = time.time() - start_time
         relation_extraction_start_time = time.time()
-        if "corenlp" in self.params["relation"]["options_rel"]:
-            res = self.relation(sentences=ranked_sents, entities=entities)
-        elif "rebel" in self.params["relation"]["options_rel"]:
-            res = self.relation(sentences=ranked_sents, entities=entities)
-        elif "chat-gpt" in self.params["relation"]["options_rel"]:
-            res = self.relation(sentences=ranked_sents, entities=entities)
-        elif "dependency" in self.params["relation"]["options_rel"]:
-            res = self.relation(sentences=ranked_sents, entities=entities)
+        if self.entities and entities:  # Check if entities were extracted
+            if "corenlp" in self.params["relation"]["options_rel"]:
+                res = self.relation(text=ranked_sents, entities=entities)
+            elif "rebel" in self.params["relation"]["options_rel"]:
+                res = self.relation(text=ranked_sents, entities=entities)
+            elif "chat-gpt" in self.params["relation"]["options_rel"]:
+                res = self.relation(text=ranked_sents, entities=entities)
+            elif "dependency" in self.params["relation"]["options_rel"]:
+                res = self.relation(text=ranked_sents, entities=entities)
+        else:
+            # Perform relation extraction without relying on pre-extracted entities
+            res = self.relation(text=ranked_sents)
         relation_extraction_time = time.time() - relation_extraction_start_time
 
         # POSTPROCESSING
@@ -264,30 +271,79 @@ class CMPipeline:
                 "postprocess": res_post,
                 "ranked": ranked_sents}
 
-if __name__ == '__main__':
-    PIPELINE = CMPipeline(
-        preprocess=True, spacy_model="en_core_web_lg",
+
+def run_pipeline_test(input_text):
+    # Initialize CMPipeline with entity filtering enabled
+    pipeline_with_entity_filtering = CMPipeline(
+        preprocess=True,
+        spacy_model="en_core_web_lg",
         postprocess=True,
-        # options_ent=["wordnet", "dbpedia_spotlight", "spacy"],
-        options_ent=["dbpedia_spotlight","wordnet","nps"],
+        options_ent=["dbpedia_spotlight", "wordnet", "nps"],  # Specify entity extraction options here
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         threshold=None,
-        options_rel=["rebel"], #rebel #chat-gpt #corenlp
+        options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model=REBEL_DIR,
         local_rm=True,
-        summary_how="single", summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
-        summary_percentage=80, temperature=0.0,
-        ranking="word2vec", ranking_how="single",
-        ranking_perc_threshold=0.8, ranking_int_threshold=None,
-        options_rel_post=["rebel","corenlp","dependency", "chat-gpt"])
-    print(PIPELINE.params)
+        summary_how="single",
+        summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT,
+        engine="gpt-3.5-turbo",
+        summary_percentage=80,
+        temperature=0.0,
+        ranking="word2vec",
+        ranking_how="single",
+        ranking_perc_threshold=0.8,
+        ranking_int_threshold=None,
+        options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"]
+    )
+
+    # Execute the pipeline with entity filtering
+    result_with_entity_filtering = pipeline_with_entity_filtering(input_content=input_text, verbose=True)
+
+    # Initialize CMPipeline without entity filtering
+    pipeline_without_entity_filtering = CMPipeline(
+        preprocess=True,
+        spacy_model="en_core_web_lg",
+        postprocess=True,
+        options_rel=["rebel"],
+        rebel_tokenizer="Babelscape/rebel-large",
+        rebel_model=REBEL_DIR,
+        local_rm=True,
+        summary_how="single",
+        summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT,
+        engine="gpt-3.5-turbo",
+        summary_percentage=80,
+        temperature=0.0,
+        ranking="word2vec",
+        ranking_how="single",
+        options_ent=None,
+        ranking_perc_threshold=0.8,
+        ranking_int_threshold=None,
+        options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"],
+    )
+
+    # Execute the pipeline without entity filtering
+    result_without_entity_filtering = pipeline_without_entity_filtering(input_content=input_text, verbose=True)
+
+    print("RESULT WITH ENTITY FILTERING:")
+    print("Entities:", result_with_entity_filtering[1]["entities"])
+    print("Relations:", result_with_entity_filtering[0])
+
+    print("\nRESULT WITHOUT ENTITY FILTERING:")
+    print("Entities: None (Entities not extracted)")
+    print("Relations:", result_without_entity_filtering[0])
+
+
+if __name__ == '__main__':
     TEXT = """
-    The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
-    7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale.
-    """
-    RES = PIPELINE(input_content=TEXT, verbose=True)
-    print(RES)
-    # print(RES[0])
+        The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
+        7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale.
+        The quick brown fox jumps over the lazy dog.
+        This is a test sentence without any entities.
+        A long list of random words: apple, banana, orange, pineapple, watermelon, kiwi, mango, strawberry, blueberry, raspberry.
+        """
+
+    run_pipeline_test(TEXT)
