@@ -77,8 +77,8 @@ class ZeroBaseline:
 if __name__ == '__main__':
     api_key = api_key
     model = "gpt-3.5-turbo-0125"
-    test_folder = "/Users/martina/Desktop/concept_map/src/data/Corpora_Falke/Wiki/test"
-    output_folder = "/Users/martina/Desktop/concept_map/src/baselines/output_baseline/zero"
+    test_folder = "/Users/martina/Desktop/concept_map/src/data/Corpora_Falke/Wiki/train"
+    output_folder = "/Users/martina/Desktop/concept_map/src/baselines/output_baseline/zero-train"
     concept_map_extractor = ZeroBaseline(api_key=api_key, model=model)
 
     for folder_name in os.listdir(test_folder):
