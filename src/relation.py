@@ -12,6 +12,7 @@ from openie import StanfordOpenIE
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from src.fine_tune_rebel.run_rebel import extract_triples
 from src.settings import *
+from src.entity import *
 
 client = OpenAI(api_key=API_KEY_GPT)
 
@@ -28,7 +29,6 @@ class RelationExtractor:
             "dependency": self.get_dependencymodel,
             "chat-gpt": self.get_chat_gpt,
             "corenlp": self.get_corenlp_rel,
-
         }
         self.options_p = list(self.options_to_f.keys())
         self.check_params(options=options, rebel_t=rebel_tokenizer,
@@ -54,6 +54,7 @@ class RelationExtractor:
             self.rebel = None
 
         self.nlp = spacy.load(spacy_model)
+
 
     def get_corenlp_rel(self, sentences: List[str], entities: Union[List[Union[str, spacy.tokens.Span, spacy.tokens.Token]], None]):
         """ Extracting relations with corenlp"""
@@ -88,7 +89,8 @@ class RelationExtractor:
     @staticmethod
     def get_dependencymodel(sentences: str, entities: Union[List[str], None]):
         triplets = []
-        for sentence in sentences:
+        SENTENCES = [sent.strip() for sent in TEXT.split('\n') if sent.strip()]  # Split text into sentences
+        for sentence in SENTENCES:
             doc = nlp(sentence)
             for token in doc:
                 if token.dep_ in ["nsubj", "nsubjpass", "agent", "csubjpass",
@@ -209,24 +211,26 @@ class RelationExtractor:
                 pass
 
         unique_triples_set = set()  # Set to store unique triples
+        unique_triples_set_2 = set()  # Set to store unique triples
+
         res = []
 
-        if not entities:
+        if entities:
+            entity_strings = [str(entity).lower() for entity in entities if
+                              isinstance(entity, str)]  # Convert entities to lowercase strings
             for x in output_m:
                 for triple in self.post_process_rebel(x):
-                    if triple not in unique_triples_set:
-                        res.append(triple)
-                        unique_triples_set.add(triple)
-        else:
-            for entity in entities:
-                entity_strings = [item for tuple_item in entities for item in tuple_item]
-                cands = [x for x in output_m if any(entity_string in x for entity_string in entity_strings)]
-
-                for x in cands:
-                    for triple in self.post_process_rebel(x):
+                    if any(entity.lower() in triple_part.lower() for entity in entity_strings for triple_part in
+                           triple):
                         if triple not in unique_triples_set:
                             res.append(triple)
                             unique_triples_set.add(triple)
+        else :
+            for x in output_m:
+                for triple in self.post_process_rebel(x):
+                    if triple not in unique_triples_set_2:
+                        res.append(triple)
+                        unique_triples_set_2.add(triple)
 
         return res
 
@@ -236,41 +240,64 @@ class RelationExtractor:
         res = extract_triples(x)
         return [(elt['head'], elt['type'], elt['tail']) for elt in res]
 
-    def __call__(self, sentences: List[str], entities: Union[List[str], None] = None):
-        """ Extract relations for one string text """
+    def __call__(self, text: Union[str, List[str]], entities: Union[List[str], None] = None):
+        """ Extract relations for input text """
+        if isinstance(text, list):
+            sentences = text
+        elif isinstance(text, str):
+            sentences = [sent.strip() for sent in text.split('\n') if sent.strip()]
+        else:
+            raise ValueError("Input text must be either a string or a list of strings.")
+
         res = {}
         for option in self.options:
             curr_res = self.options_to_f[option](sentences=sentences, entities=entities)
             curr_res = [x for x in curr_res if x[0].lower() != x[2].lower()]
-            # print(curr_res)
             res[option] = list(set(curr_res))
         return res
 
 
 if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
-        options=["corenlp"], spacy_model="en_core_web_lg")
-    SENTENCES = [
-        "The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.",
-        "7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale."
-    ]
-    ENTITIES = {'dbpedia_spotlight': [
-        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 World Trade Center'),
-        ('http://dbpedia.org/resource/Benchmarking', 'benchmark'),
-        ('http://dbpedia.org/resource/Safety', 'safety'),
-        ('http://dbpedia.org/resource/7_World_Trade_Center', '7 WTC'),
-        ("http://dbpedia.org/resource/Moody's_Investors_Service", 'Moody'),
-        ('http://dbpedia.org/resource/New_York_City', 'New York'),
-        ('http://dbpedia.org/resource/Joe_Mansueto', 'Mansueto Ventures'),
-        ('http://dbpedia.org/resource/MSCI', 'MSCI'),
-        ('http://dbpedia.org/resource/Elisha_Cook_Jr.', 'Wilmer'),
-        ('http://dbpedia.org/resource/Hale,_Greater_Manchester', 'Hale')]}
+        options=["rebel"],
+        rebel_tokenizer="Babelscape/rebel-large",
+        rebel_model=REBEL_DIR,
+        local_rm=True,
+        spacy_model="en_core_web_lg",
+    )
+    TEXT = """
+            The 52-story, 1.7-million-square-foot 7 World Trade Center is a benchmark of innovative design, safety, and sustainability.
+            7 WTC has drawn a diverse roster of tenants, including Moody's Corporation, New York Academy of Sciences, Mansueto Ventures, MSCI, and Wilmer Hale.
+            The quick brown fox jumps over the lazy dog.
+            This is a test sentence without any entities.
+            A long list of random words: apple, banana, orange, pineapple, watermelon, kiwi, mango, strawberry, blueberry, raspberry.
+            """
+    # SENTENCES = [sent.strip() for sent in TEXT.split('\n') if sent.strip()]  # Split text into sentences
+    # ENTITIES = {'dbpedia_spotlight': [
+    #     ('http://dbpedia.org/resource/7_World_Trade_Center', '7 World Trade Center'),
+    #     ('http://dbpedia.org/resource/Benchmarking', 'benchmark'),
+    #     ('http://dbpedia.org/resource/Safety', 'safety'),
+    #     ('http://dbpedia.org/resource/7_World_Trade_Center', '7 WTC'),
+    #     # ("http://dbpedia.org/resource/Moody's_Investors_Service", 'Moody'),
+    #     # ('http://dbpedia.org/resource/New_York_City', 'New York'),
+    #     ('http://dbpedia.org/resource/Joe_Mansueto', 'Mansueto Ventures'),
+    #     ('http://dbpedia.org/resource/MSCI', 'MSCI'),
+    #     ('http://dbpedia.org/resource/Elisha_Cook_Jr.', 'Wilmer'),
+    #     ('http://dbpedia.org/resource/Hale,_Greater_Manchester', 'Hale')]}
+    # ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
+
+    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight"], confidence=0.35,
+                                       db_spotlight_api="http://localhost:2222/rest/annotate",
+                                       threshold=1)
+    ENTITIES = ENTITY_EXTRACTOR(text=TEXT)
     ENTITIES = [x[1] for x in ENTITIES["dbpedia_spotlight"]]
+    print(ENTITIES)
+
 
     print("## WITHOUT ENTITIES")
-    RES = REL_EXTRACTOR(sentences=SENTENCES)
+    RES = REL_EXTRACTOR(text=TEXT)
     print(RES)
     print("==========")
     print("## WITH ENTITIES")
-    RES = REL_EXTRACTOR(sentences=SENTENCES, entities=ENTITIES)
+    RES = REL_EXTRACTOR(text=TEXT, entities=ENTITIES)
     print(RES)
