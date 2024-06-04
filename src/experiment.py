@@ -31,7 +31,7 @@ def save_data(preprocess, entities, relations, postprocess, save_folder, name):
     """ Save intermediate steps data """
     with open(os.path.join(
             save_folder, "relation", f"{name}.txt"), "w", encoding="utf-8") as output_file:
-        output_file.write("\n".join([", ".join([x for x in rel]) for rel in relations]))
+        output_file.write("\n".join([", ".join(map(str, rel)) for rel in relations]))
 
     with open(os.path.join(
             save_folder, "preprocess", f"{name}.txt"), "w", encoding="utf-8") as output_file:
@@ -43,8 +43,7 @@ def save_data(preprocess, entities, relations, postprocess, save_folder, name):
 
     with open(os.path.join(
             save_folder, "postprocess", f"{name}.txt"), "w", encoding="utf-8") as openfile:
-        output_file.write("\n".join(postprocess))
-
+        openfile.write("\n".join(map(str, postprocess)))
 
 def get_gs_triples(file_path):
     res = open(file_path, "r").readlines()
@@ -195,24 +194,25 @@ if __name__ == '__main__':
     from settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
-        folder_path="./src/data/Corpora_Falke/Wiki/test",
+        folder_path="/Users/martina/Desktop/concept_map/src/data/Corpora_Falke/Wiki/test",
         type_data="multi", one_cm=False,
-        summary_path="./summaries/wiki_test/chat-gpt/15/",
+        summary_path="/Users/martina/Desktop/concept_map/summaries/wiki_test/chat-gpt/15/",
 
         # PIPELINE PARAMS
-        preprocess=True, spacy_model="en_core_web_lg",
+        preprocess=True,
+        spacy_model="en_core_web_lg",
         postprocess=True,
-        options_ent=["dbpedia_spotlight", "nps"],
-        confidence=0.5,
-        db_spotlight_api="http://localhost:2222/rest/annotate",
-        threshold=10,
-        options_rel=["corenlp"],
-        # rebel_tokenizer="Babelscape/rebel-large",
-        # rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth", local_rm=True,
+        # options_ent=["dbpedia_spotlight"],#"nps"
+        # confidence=0.5,
+        # db_spotlight_api="http://localhost:2222/rest/annotate",
+        # threshold=10,
+        options_rel=["rebel"],
+        rebel_tokenizer="Babelscape/rebel-large",
+        rebel_model="/Users/martina/Desktop/concept_map/src/rebel_fine_tuned/finetuned_rebel.pth", local_rm=True,
         summary_how = "single", summary_method="chat-gpt",
         api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
         temperature=0.0, summary_percentage=15,
-        # ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15
+        ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15
         )
-    # print(EXPERIMENTR.params)
+    print(EXPERIMENTR.params)
     EXPERIMENTR(save_folder="experiments")

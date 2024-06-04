@@ -42,8 +42,7 @@ class CMPipeline:
                  ranking_how: Union[str, None] = None,
                  ranking_int_threshold: Union[int, None] = None,
                  ranking_perc_threshold: Union[float, None] = None,
-                 word2vec_model_path: Union[str, None] = None,
-                 options_rel_post: Union[List[str], None] = None):
+                 word2vec_model_path: Union[str, None] = None):
 
         # Summary options: 
         # - `single`: summarising each text one by one
@@ -91,7 +90,7 @@ class CMPipeline:
                                                   word2vec_model_path=word2vec_model_path) \
             if ranking else None
         self.postprocess = PostProcessor() if postprocess else None
-        self.options_rel_post = options_rel_post
+        # self.options_rel_post = options_rel_post
 
 
     def check_params(self, preprocess, spacy_model, summary_method, summary_how,
@@ -232,14 +231,7 @@ class CMPipeline:
         # total_time = time.time() - start_time
         relation_extraction_start_time = time.time()
         if self.entities and entities:  # Check if entities were extracted
-            if "corenlp" in self.params["relation"]["options_rel"]:
-                res = self.relation(text=ranked_sents, entities=entities)
-            elif "rebel" in self.params["relation"]["options_rel"]:
-                res = self.relation(text=ranked_sents, entities=entities)
-            elif "chat-gpt" in self.params["relation"]["options_rel"]:
-                res = self.relation(text=ranked_sents, entities=entities)
-            elif "dependency" in self.params["relation"]["options_rel"]:
-                res = self.relation(text=ranked_sents, entities=entities)
+            res = self.relation(text=ranked_sents, entities=entities)
         else:
             # Perform relation extraction without relying on pre-extracted entities
             res = self.relation(text=ranked_sents)
@@ -278,25 +270,25 @@ def run_pipeline_test(input_text):
         preprocess=True,
         spacy_model="en_core_web_lg",
         postprocess=True,
-        options_ent=["dbpedia_spotlight", "wordnet", "nps"],  # Specify entity extraction options here
+        options_ent=["dbpedia_spotlight"],  # Specify entity extraction options here
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         threshold=None,
-        options_rel=["rebel"],
+        options_rel=["corenlp"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model=REBEL_DIR,
         local_rm=True,
-        summary_how="single",
-        summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT,
-        engine="gpt-3.5-turbo",
-        summary_percentage=80,
-        temperature=0.0,
-        ranking="word2vec",
-        ranking_how="single",
-        ranking_perc_threshold=0.8,
-        ranking_int_threshold=None,
-        options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"]
+        # summary_how="single",
+        # summary_method="chat-gpt",
+        # api_key_gpt=API_KEY_GPT,
+        # engine="gpt-3.5-turbo",
+        # summary_percentage=80,
+        # temperature=0.0,
+        # ranking="word2vec",
+        # ranking_how="single",
+        # ranking_perc_threshold=0.8,
+        # ranking_int_threshold=None,
+        # options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"]
     )
 
     # Execute the pipeline with entity filtering
@@ -306,23 +298,23 @@ def run_pipeline_test(input_text):
     pipeline_without_entity_filtering = CMPipeline(
         preprocess=True,
         spacy_model="en_core_web_lg",
-        postprocess=True,
-        options_rel=["rebel"],
+        postprocess=False,
+        options_rel=["corenlp"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model=REBEL_DIR,
         local_rm=True,
-        summary_how="single",
-        summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT,
-        engine="gpt-3.5-turbo",
-        summary_percentage=80,
-        temperature=0.0,
-        ranking="word2vec",
-        ranking_how="single",
-        options_ent=None,
-        ranking_perc_threshold=0.8,
-        ranking_int_threshold=None,
-        options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"],
+        # summary_how="single",
+        # summary_method="chat-gpt",
+        # api_key_gpt=API_KEY_GPT,
+        # engine="gpt-3.5-turbo",
+        # summary_percentage=80,
+        # temperature=0.0,
+        # ranking="word2vec",
+        # ranking_how="single",
+        # options_ent=None,
+        # ranking_perc_threshold=0.8,
+        # ranking_int_threshold=None,
+        # options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"],
     )
 
     # Execute the pipeline without entity filtering

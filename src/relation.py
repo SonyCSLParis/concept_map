@@ -211,6 +211,8 @@ class RelationExtractor:
                 pass
 
         unique_triples_set = set()  # Set to store unique triples
+        unique_triples_set_2 = set()  # Set to store unique triples
+
         res = []
 
         if entities:
@@ -226,9 +228,9 @@ class RelationExtractor:
         else :
             for x in output_m:
                 for triple in self.post_process_rebel(x):
-                    if triple not in unique_triples_set:
+                    if triple not in unique_triples_set_2:
                         res.append(triple)
-                        unique_triples_set.add(triple)
+                        unique_triples_set_2.add(triple)
 
         return res
 
