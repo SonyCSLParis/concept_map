@@ -1,3 +1,0 @@
-(0.3442037845623339, 'Do I and my co-borrower need to be members of SESLOC Federal Credit Union to be eligible for a Credit Union Student Choice Loan ?')
-(0.3375666862435565, 'You can apply for a loan without loan a member of SESLOC , but in order to fund the loan , loan will need to become a credit union member .')
-(0.31822952919410924, 'Unfortunately , if your school is not included in our approved list , you are not eligible for a Credit Union Student Choice loan at this time .')

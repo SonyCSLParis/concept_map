@@ -1,7 +1,0 @@
-edinburgh castle - http://dbpedia.org/resource/Edinburgh_Castle
-chess - http://dbpedia.org/resource/Chess
-medieval period - http://dbpedia.org/resource/Middle_Ages
-battlements - http://dbpedia.org/resource/Battlement
-moat - http://dbpedia.org/resource/Moat
-castle howard - http://dbpedia.org/resource/Castle_Howard
-mansion - http://dbpedia.org/resource/Mansion

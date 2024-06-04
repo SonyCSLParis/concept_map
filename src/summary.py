@@ -1,9 +1,5 @@
 import spacy
-import time
-import openai
 from openai import OpenAI
-from datetime import datetime
-import requests
 from typing import Union
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.parsers.plaintext import PlaintextParser

@@ -1,2 +1,0 @@
-monument, locate, valley
-statue, destroy, site

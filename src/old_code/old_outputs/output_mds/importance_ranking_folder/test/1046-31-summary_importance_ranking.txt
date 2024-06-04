@@ -1,3 +1,0 @@
-(0.3385204688106554, 'If it is difficult for you to help your child with homework or school projects , see if you can find someone else who can help .')
-(0.33274126575937146, 'If your child is not keeping up , especially when school comes to reading , ask what you or the school can do to help .')
-(0.3287382654299725, "If you are reluctant to help your child with homework because you feel that you do n't know the subject well enough or because you do n't speak or read English , you can help by showing that you are interested , helping your child get organized , providing the necessary materials , asking your child about daily assignments , monitoring work to make sure that work is completed , and praising all of your child 's efforts .")

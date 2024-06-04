@@ -1,5 +1,0 @@
-parents, ages, one
-Solution, offers, solutions
-group, get, rest
-Solution, tackles, obstacles
-she, gives, tools

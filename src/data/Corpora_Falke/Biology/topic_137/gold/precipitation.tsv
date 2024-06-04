@@ -1,7 +1,0 @@
-precipitation	includes	rain
-precipitation	includes	snow
-precipitation	includes	sleet
-precipitation	is product of	condensation
-precipitation	condenses	water
-precipitation	falls from	cloud
-precipitation	$HYPONYM	weather

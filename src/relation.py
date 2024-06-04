@@ -11,8 +11,8 @@ from openai import OpenAI
 from openie import StanfordOpenIE
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from src.fine_tune_rebel.run_rebel import extract_triples
-from src.settings import *
-from src.entity import *
+from src.settings import API_KEY_GPT, nlp
+from src.entity import EntityExtractor
 
 client = OpenAI(api_key=API_KEY_GPT)
 
@@ -261,7 +261,7 @@ if __name__ == '__main__':
     REL_EXTRACTOR = RelationExtractor(
         options=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model=REBEL_DIR,
+        rebel_model="./fine_tune_rebel/finetuned_rebel.pth",
         local_rm=True,
         spacy_model="en_core_web_lg",
     )

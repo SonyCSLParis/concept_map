@@ -1,4 +1,0 @@
-purpose, is, play
-library, is, is
-library, is, open
-Library, is, collection

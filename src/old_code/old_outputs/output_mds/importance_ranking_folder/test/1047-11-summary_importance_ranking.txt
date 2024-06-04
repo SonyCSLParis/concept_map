@@ -1,4 +1,0 @@
-(0.26810362562101087, 'Students identified with gifted learning needs may seek access to a wide array of school programs within the CBE , including : Students designated CBE community or neighbourhood school CBE Alternative Programs Gifted and Talented Education Program ( GATE )')
-(0.24748805894312423, 'For parents of children who do not currently attend a CBE school often the services of a psychologist in private practice are required in order to determine , through assessment , whether services child meets the Alberta Education criteria to be considered a gifted learner .')
-(0.24371028998452432, 'Your CBE Community or Neighbourhood School Many gifted learners attend learners designated CBE community school where learners exceptional learning needs are addressed through learners Individual Program Plan ( IPP ) .')
-(0.240698025451341, "Schools require evidence of a child 's special needs , including giftedness , in order to provide an appropriate school program .")

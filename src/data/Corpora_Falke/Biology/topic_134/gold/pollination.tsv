@@ -1,8 +1,0 @@
-pollination	enabling	fertilization
-pollination	requires	pollinators
-pollination	$HYPONYM	process
-pollination	requires	pollinator
-pollination	$HYPERNYM	self-pollination
-pollination	$HYPERNYM	cross-pollination
-pollination	a necessary step in the reproduction of	flowering plant
-pollination	a necessary step in the reproduction of	flower

@@ -1,7 +1,0 @@
-virginia - http://dbpedia.org/resource/Virginia
-capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
-chain bridge - http://dbpedia.org/resource/Suspension_bridge
-capon chapel - http://dbpedia.org/resource/Capon_Chapel
-architecture - http://dbpedia.org/resource/Architecture
-potomac river - http://dbpedia.org/resource/Potomac_River
-west virginia - http://dbpedia.org/resource/West_Virginia

@@ -1,2 +1,0 @@
-monument - http://dbpedia.org/resource/Monument
-buddhist - http://dbpedia.org/resource/Buddhism

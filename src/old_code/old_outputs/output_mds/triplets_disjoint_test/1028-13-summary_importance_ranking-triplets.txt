@@ -1,2 +1,0 @@
-predictor, is, income
-parents, involved, in 

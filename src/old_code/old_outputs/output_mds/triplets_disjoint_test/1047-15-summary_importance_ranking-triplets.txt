@@ -1,9 +1,0 @@
-provide, needs, units
-special, needs, PTA
-special, needs, committees
-by, provided, by
-by, provided, to
-committee, take, into 
-committee, take, purposes
-needs, encompass, impairments
-that, limit, activities

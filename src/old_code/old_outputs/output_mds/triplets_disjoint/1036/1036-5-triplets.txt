@@ -1,6 +1,0 @@
-children, attended, pre
-children, attended, -
-children, attended, school
-kids, attended, pre
-kids, attended, -
-kids, attended, school

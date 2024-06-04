@@ -1,7 +1,0 @@
-trinity college - http://dbpedia.org/resource/Trinity_College_Dublin
-vulgate - http://dbpedia.org/resource/Vulgate
-st. jerome - http://dbpedia.org/resource/Jerome
-latin - http://dbpedia.org/resource/Latin
-kells - http://dbpedia.org/resource/Abbey_of_Kells
-gospels - http://dbpedia.org/resource/Gospel
-dublin city - http://dbpedia.org/resource/Dublin

@@ -1,9 +1,0 @@
-temple - http://dbpedia.org/resource/Temple
-temple - http://dbpedia.org/resource/Temple
-city - http://dbpedia.org/resource/City
-monument - http://dbpedia.org/resource/Monument
-green valley - http://dbpedia.org/resource/Green_Valley,_Arizona
-dome - http://dbpedia.org/resource/Dome
-relief - http://dbpedia.org/resource/Relief
-buddha statues - http://dbpedia.org/resource/Buddhist_art
-april - http://dbpedia.org/resource/Asia_Pacific_Resources_International_Holdings

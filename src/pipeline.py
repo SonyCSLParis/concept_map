@@ -14,7 +14,6 @@ from src.importance_ranking import ImportanceRanker
 from src.postprocess import PostProcessor
 from src.preprocess import PreProcessor
 from src.relation import RelationExtractor
-from src.settings import API_KEY_GPT, REBEL_DIR
 from src.summary import TextSummarizer
 
 
@@ -274,9 +273,9 @@ def run_pipeline_test(input_text):
         confidence=0.35,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         threshold=None,
-        options_rel=["corenlp"],
+        options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model=REBEL_DIR,
+        rebel_model="./fine_tune_rebel/finetuned_rebel.pth",
         local_rm=True,
         # summary_how="single",
         # summary_method="chat-gpt",
@@ -299,9 +298,9 @@ def run_pipeline_test(input_text):
         preprocess=True,
         spacy_model="en_core_web_lg",
         postprocess=False,
-        options_rel=["corenlp"],
+        options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model=REBEL_DIR,
+        rebel_model="src/fine_tune_rebel/finetuned_rebel.pth",
         local_rm=True,
         # summary_how="single",
         # summary_method="chat-gpt",

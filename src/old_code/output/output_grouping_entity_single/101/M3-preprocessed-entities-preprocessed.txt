@@ -1,8 +1,0 @@
-9/11 - http://dbpedia.org/resource/September_11_attacks
-conspiracy theories - http://dbpedia.org/resource/Conspiracy_theory
-charlie sheen - http://dbpedia.org/resource/Charlie_Sheen
-rosie o'donnell - http://dbpedia.org/resource/Rosie_O'Donnell
-physics - http://dbpedia.org/resource/Physics
-mainstream media - http://dbpedia.org/resource/Mainstream_media
-york - http://dbpedia.org/resource/York
-city - http://dbpedia.org/resource/City

@@ -1,3 +1,0 @@
-(0.3585425400572381, 'For alternative private loans , the lender will review the credit score of the student and the cosigner ( usually a parent ) to determine if the student is eligible for a loan and what interest rate will be offered .')
-(0.3546605929453586, "For the Parent PLUS loan , the credit score of the parent will be reviewed by the lender to determine the parent 's loan eligibility .")
-(0.286796866997403, 'It is a score that lenders use to determine credit risk .')

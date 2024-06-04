@@ -25,7 +25,7 @@ We run our code on both Mac M1 and Ubuntu machines, with conda for virtual envir
 
 To install the requirements
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_old.txt
 ```
 
 If one of the dependency yield error, you can alternatively run the following Python script which will install them one by one:

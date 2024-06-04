@@ -1,5 +1,0 @@
-article - http://dbpedia.org/resource/Equality_Mississippi
-capon chapel - http://dbpedia.org/resource/Capon_Chapel
-town - http://dbpedia.org/resource/Market_town
-capon bridge - http://dbpedia.org/resource/Capon_Bridge,_West_Virginia
-bit.ly - http://dbpedia.org/resource/Bitly

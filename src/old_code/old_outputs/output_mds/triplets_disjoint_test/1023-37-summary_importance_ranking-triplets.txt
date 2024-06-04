@@ -1,9 +1,0 @@
-Headmaster, notify, parents
-Headmaster, notify, about 
-designee, notify, parents
-designee, notify, about 
-Bullying, is, Retaliation
-who, reports, Bullying
-Reporting, report, to 
-member, becomes, aware
-that, be, Bullying

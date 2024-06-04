@@ -1,5 +1,0 @@
-employee, cause, inflicted
-punishment, inflicted, upon 
-punishment, inflicted, as 
-Employees, be, subject
-who, violate, provisions

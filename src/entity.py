@@ -2,7 +2,7 @@ from typing import Union, List
 import requests
 import spacy
 from nltk.corpus import wordnet as wn
-from src.settings import *
+from src.settings import nlp
 from collections import Counter
 
 class EntityExtractor:

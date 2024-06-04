@@ -1,4 +1,0 @@
-NetSmartz, has, list
-program, gives, you
-program, gives, parents
-program, gives, visits

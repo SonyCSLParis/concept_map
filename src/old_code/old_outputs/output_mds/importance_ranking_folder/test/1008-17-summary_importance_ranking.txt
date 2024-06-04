@@ -1,3 +1,0 @@
-(0.3502588899257523, 'Assure the children that you are there to help children solve the problem .')
-(0.33167453582064926, "And Jimmy wo n't listen to you while Rachel still has the toy phone .")
-(0.31806657425359813, 'Adults can help toddlers deal with conflict in two ways .')

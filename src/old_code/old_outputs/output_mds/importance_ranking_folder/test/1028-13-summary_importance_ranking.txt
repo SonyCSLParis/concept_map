@@ -1,3 +1,0 @@
-(0.35623608101388016, "The most accurate predictor of a student 's achievement in school is not income or social status , but the extent to which that student 's family is able to ( 1 ) create a home environment that encourages learning ; ( 2 ) communicate high , yet reasonable , expectations for family children 's achievement and future careers ; and ( 3 ) become involved in family children 's education at school and in the community .")
-(0.33090120816318186, 'The more extensive the parent involvement , the higher the student achievement .')
-(0.3128627108229379, "When parents are involved in parents students ' education , those students have higher grades and test scores , better attendance , and complete homework more consistently .")

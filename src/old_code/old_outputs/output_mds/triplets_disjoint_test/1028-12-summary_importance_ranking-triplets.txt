@@ -1,4 +1,0 @@
-minor, leaves, house
-adult, is, subject
-Davis, head, Boosters
-Davis, head, as 

@@ -1,3 +1,0 @@
-borobudur - http://dbpedia.org/resource/Borobudur
-temple - http://dbpedia.org/resource/Candi_of_Indonesia
-java island - http://dbpedia.org/resource/Java

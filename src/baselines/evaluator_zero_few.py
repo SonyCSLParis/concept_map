@@ -70,9 +70,9 @@ def read_gold_triples(file_path):
     return gold_triples
 
 if __name__ == '__main__':
-    base_path = "/Users/martina/Desktop/concept_map/src/baselines/output_baseline/zero-train/"
-    gold_base_path = "/Users/martina/Desktop/concept_map/src/data/Corpora_Falke/Wiki/train/"
-    save_folder = "/Users/martina/Desktop/concept_map/results-zero-train/"
+    base_path = "./experiments_emnlp/baselines/zero_baseline/results-zero-train"
+    gold_base_path = "./data/Corpora_Falke/Wiki/train/"
+    save_folder = "./experiments_emnlp/baselines/zero_baseline/results-zero-train"
     os.makedirs(save_folder, exist_ok=True)
 
     logs = {}

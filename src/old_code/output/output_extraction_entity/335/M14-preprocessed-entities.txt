@@ -1,3 +1,0 @@
-memory - http://dbpedia.org/resource/Memory
-pendle witches - http://dbpedia.org/resource/Pendle_witches
-pendle - http://dbpedia.org/resource/Pendle_witches

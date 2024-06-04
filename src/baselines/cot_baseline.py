@@ -13,7 +13,7 @@ import pandas as pd
 from src.data_load import DataLoader
 from src.preprocess import PreProcessor
 from src.evaluation import EvaluationMetrics
-from settings import API_KEY_GPT
+from src.settings import API_KEY_GPT
 
 CLIENT = OpenAI(api_key=API_KEY_GPT)
 MODEL = "gpt-3.5-turbo-0125"
@@ -301,23 +301,23 @@ class LLMCOTExperimentRun:
 
 
 if __name__ == '__main__':
-    # FOLDER = "src/data/Corpora_Falke/Wiki/test/102"
+    # FOLDER = "./data/Corpora_Falke/Wiki/test/102"
     # SAVE_FOLDER = "test"
     # BASELINE = LLMCOTBaseline()
     # BASELINE(folder=FOLDER, save_folder=SAVE_FOLDER)
 
-    # FOLDER = "src/data/Corpora_Falke/Wiki/train/"
+    # FOLDER = "./data/Corpora_Falke/Wiki/train/"
     # EXP = LLMCOTExperimentRun(data_path=FOLDER)
-    # EXP(save_folder="cot_baseline/train")
+    # EXP(save_folder="experiments_emnlp/baselines/cot_baseline/train")
 
-    # FOLDER = "src/data/Corpora_Falke/Wiki/test/"
+    # FOLDER = "./data/Corpora_Falke/Wiki/test/"
     # EXP = LLMCOTExperimentRun(data_path=FOLDER)
-    # EXP(save_folder="cot_baseline/test")
+    # EXP(save_folder="experiments_emnlp/baselines/cot_baseline/test")
 
-    # FOLDER = "src/data/Corpora_Falke/Wiki/train/"
+    # FOLDER = "./data/Corpora_Falke/Wiki/train/"
     # EXP = LLMCOTExperimentRun(data_path=FOLDER)
-    # EXP(save_folder="cot_baseline/two-step/train", ir="two-step")
+    # EXP(save_folder="experiments_emnlp/baselines/cot_baseline/two-step/train", ir="two-step")
 
-    FOLDER = "src/data/Corpora_Falke/Wiki/test/"
+    FOLDER = "./data/Corpora_Falke/Wiki/test/"
     EXP = LLMCOTExperimentRun(data_path=FOLDER)
-    EXP(save_folder="cot_baseline/two-step/test", ir="two-step")
+    EXP(save_folder="experiments_emnlp/baselines/cot_baseline/two-step/test", ir="two-step")

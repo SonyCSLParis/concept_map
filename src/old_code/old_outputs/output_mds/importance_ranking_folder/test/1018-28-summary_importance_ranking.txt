@@ -1,3 +1,0 @@
-(0.3443251853185816, 'So if school costs $ 10,000 per year and the student is receiving $ 8,000 from other sources , the maximum PLUS Loan would be $ 2,000 .')
-(0.32951828632888286, "Subsidized loans are advantageous because the student does n't have to worry about making payments on loans until six months after graduation , when a good paying job is more likely .")
-(0.3261565283525354, "Now Loan 's debt for college education .")

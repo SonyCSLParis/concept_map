@@ -1,3 +1,0 @@
-*.zip -filter=lfs -text
-*.tar.gz -filter=lfs -text
-/path/to/large_file.mp4 -filter=lfs -text

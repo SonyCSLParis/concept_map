@@ -1,3 +1,0 @@
-(0.35309019666634617, 'Attendance Improves With Parent Involvement Kids whose parents are involved with parents schoolwork attend school more regularly than kids whose parents are uninvolved .')
-(0.3489229127338249, 'Mental Health Is Better With Parent Involvement Finally , kids with involved parents have better mental health than children whose parents do not get involved with parents education .')
-(0.29798689059982864, "For one , parent involvement in education fosters kids ' self-esteem .")

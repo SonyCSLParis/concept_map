@@ -1,3 +1,0 @@
-(0.33746912517927996, 'Sixty obese children (more than 20% over ideal weight for age, height and gender) aged between 6 and 11 years, with both parents living at home, were assigned randomly to either an experimental programme (targeting parents only) or a conventional programme (targeting children only).')
-(0.3374691251792799, "Risk factors for cardiovascular disease The only risk factors to show a significant improvement in parents in the experimental programme, compared with the conventional programme, were fathers' glucose levels and mothers' total and LDL cholesterol levels (Table 1).")
-(0.32506174964143963, 'Obesity treatment is usually targeted at either the parents or the children.')

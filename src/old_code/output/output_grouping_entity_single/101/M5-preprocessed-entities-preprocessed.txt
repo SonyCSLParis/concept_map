@@ -1,6 +1,0 @@
-9/11 - http://dbpedia.org/resource/September_11_attacks
-terrorism - http://dbpedia.org/resource/Terrorism
-terrorist - http://dbpedia.org/resource/Terrorism
-hijacked - http://dbpedia.org/resource/Aircraft_hijacking
-terrorists - http://dbpedia.org/resource/Terrorism
-11 september 2001 - http://dbpedia.org/resource/September_11_attacks

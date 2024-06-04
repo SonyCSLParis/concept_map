@@ -1,8 +1,0 @@
-Prometaphase is the phase of mitosis following prophase and preceding metaphase, in eukaryotic somatic cells. Prometaphase is sometimes simply included as part of the end of prophase and early metaphase.
-In prometaphase, the nuclear membrane breaks apart into numerous "membrane vesicles", and the chromosomes inside form protein structures called kinetochores. Kinetochore microtubules emerging from the centrosomes at the poles (ends) of the spindle reach the chromosomes and attach to the kinetochores, throwing the chromosomes into agitated motion. Other spindle microtubules make contact with microtubules coming from the opposite pole. Forces exerted by protein "motors" associated with spindle microtubules move the chromosomes toward the center of the cell.
-
-
-The role of prometaphase is completed when all of the kinetochore microtubules have attached to their kinetochores, upon which metaphase begins. An unattached kinetochore, and thus a non-aligned chromosome, even when most of the other chromosomes have lined up, will trigger the spindle checkpoint signal. This prevents premature progression into anaphase by inhibiting the anaphase-promoting complex until all kinetochores are attached and all the chromosomes aligned.
-Early events of metaphase can coincide with the later events of prometaphase, as chromosomes with connected kinetochores will start the events of metaphase individually before other chromosomes with unconnected kinetochores that are still lingering in the events of prometaphase.
-
-

@@ -1,6 +1,0 @@
-data, indicate, matched
-data, indicate, spent
-children, matched, FASD
-TD, matched, FASD
-by, followed, by
-performance, divided, into 

@@ -12,7 +12,6 @@ from tqdm import tqdm
 from src.data_load import DataLoader
 from src.evaluation import EvaluationMetrics
 from src.pipeline import CMPipeline
-from src.settings import *
 
 def get_save_folder():
     """ Save folder """
@@ -191,7 +190,7 @@ class ExperimentRun:
             json.dump(logs, openfile, indent=4)
 
 if __name__ == '__main__':
-    from settings import API_KEY_GPT
+    from src.settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
         folder_path="/Users/martina/Desktop/concept_map/src/data/Corpora_Falke/Wiki/test",

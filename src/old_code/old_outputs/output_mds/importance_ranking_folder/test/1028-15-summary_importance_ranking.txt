@@ -1,4 +1,0 @@
-(0.2644526658427596, 'For the purposes of this review , a family strengthening program will be defined as any intervention that works with either a parent or caretaker of a child or some members of a family ( including at least one target child ) with the goal of reducing risk or increasing protective factors for problem behaviors .')
-(0.2483922027847592, 'Family skills training programs have been evaluated rigorously by researchers and found to be effective in reducing a number of family , parent , and child risk factors for delinquency .')
-(0.2454199295199115, 'The literature suggests that children with a large number of risk factors are those most in need of prevention interventions because of children increased risk for delinquency .')
-(0.2417352018525696, "DEFINITION OF `` FAMILY STRENGTHENING PROGRAMS ''")

@@ -1,8 +1,0 @@
-lancashire - http://dbpedia.org/resource/Lancashire
-pendle witch trials - http://dbpedia.org/resource/Pendle_witches
-pendle - http://dbpedia.org/resource/Pendle_witches
-halloween - http://dbpedia.org/resource/Halloween
-haunted - http://dbpedia.org/resource/Haunted_house
-region - http://dbpedia.org/resource/Regions_of_France
-pendle hill - http://dbpedia.org/resource/Pendle_Hill
-witches - http://dbpedia.org/resource/Witchcraft

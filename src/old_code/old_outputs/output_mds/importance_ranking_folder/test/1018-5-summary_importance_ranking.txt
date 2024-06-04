@@ -1,3 +1,0 @@
-(0.35260783644460625, 'If you have a bad credit score, a cosigner with a good credit score can make you eligible for a private student loan.')
-(0.3393297830151731, 'In most cases you will not be able to obtain a private student loan if you have a FICO score below about 630-650.')
-(0.3080623805402202, 'More than five inquiries is likely to reduce your credit score enough to have an impact on the interest rates and fees for subsequent applications.')

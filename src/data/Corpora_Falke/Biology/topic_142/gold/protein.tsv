@@ -1,7 +1,0 @@
-protein	consist of	amino acid
-protein	$HYPERNYM	enzyme
-protein	$HYPERNYM	structural protein
-protein	$HYPERNYM	toxin
-protein	links	carbon
-protein	links	nitrogen
-protein	links	oxygen

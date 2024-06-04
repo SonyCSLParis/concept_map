@@ -1,5 +1,0 @@
-coloma - http://dbpedia.org/resource/Coloma_High_School
-california - http://dbpedia.org/resource/California
-california gold rush - http://dbpedia.org/resource/California_Gold_Rush
-sutter - http://dbpedia.org/resource/John_Sutter
-gold - http://dbpedia.org/resource/Gold

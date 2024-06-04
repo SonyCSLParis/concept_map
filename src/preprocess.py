@@ -6,7 +6,7 @@ import spacy
 import regex as re
 from tqdm import tqdm
 from loguru import logger
-from src.settings import *
+from src.settings import nlp
 
 class PreProcessor:
     """ Main class for preprocessing """
