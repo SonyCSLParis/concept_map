@@ -2,7 +2,7 @@ import os
 
 from openai import OpenAI
 
-api_key = "sk-proj-JXQ8tA8Q0DHFlgA0t5XjT3BlbkFJ6pkJka4pPAunZtqV1iK4"
+api_key = ""
 
 class ZeroBaseline:
     def __init__(self, api_key, model):
