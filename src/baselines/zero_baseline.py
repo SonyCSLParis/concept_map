@@ -77,7 +77,7 @@ class ZeroBaseline:
 if __name__ == '__main__':
     api_key = api_key
     model = "gpt-3.5-turbo-0125"
-    test_folder = "./data/Corpora_Falke/Wiki/train"
+    test_folder = "./data/Corpora_Falke/Wiki/test"
     output_folder = "./experiments_emnlp/baselines/zero_baseline/results-zero-train"
     concept_map_extractor = ZeroBaseline(api_key=api_key, model=model)
 
