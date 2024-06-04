@@ -4,6 +4,7 @@ LLM Baselines for CM building
 """
 import os
 import json
+import spacy
 from typing import List, Union
 from tqdm import tqdm
 from loguru import logger
@@ -25,17 +26,24 @@ def get_texts_from_folder(folder):
 def run_gpt(prompt: str, content: Union[str, List[str]], **add_content):
     """ Get answer from GPT from prompt + content """
     if isinstance(content, str):
+        content = " ".join(content.split()[:10000])
         messages = [
             {"role": "system", "content": prompt},
             {"role": "user", "content": content}
         ]
     else:  # list of text
-        messages = \
-            [{"role": "system", "content": prompt}] + \
-            [{"role": "user", "content": c} for c in content]
+        len_prompt = len(prompt.split())
+        messages = [{"role": "system", "content": prompt}]
+        for c in content:
+            if 10000 - len_prompt > len(c.split()):
+                messages.append({"role": "user", "content": c})
+                len_prompt += len(c.split())
+            else:
+                break
 
     if add_content and add_content.get("entities"):
-        messages += [{"role": "user", "content": add_content.get("entities")}]
+        messages += [{"role": "user", "content": 'The entities are:\n' + \
+            add_content.get("entities")}]
     completion = CLIENT.chat.completions.create(
         model=MODEL,
         messages=messages,
@@ -49,11 +57,22 @@ def save_to_folder(folder: str, content: Union[List[str], str], names: str):
     if isinstance(content, list):
         for i, name in enumerate(names):
             f = open(os.path.join(folder, name), 'w', encoding='utf-8')
-            f.write(content[i].replace("```csv", "").replace("```", "").strip())
+
+            if "```csv" in content[i]:
+                for line in content[i].replace("```csv", "").replace("```", "").strip().split("\n"):
+                    if len(line.split(';')) == 3:
+                        f.write(line + "\n")
+            else:
+                f.write(content[i].strip())
             f.close()
     else:
         f = open(os.path.join(folder, names[0]), 'w', encoding='utf-8')
-        f.write(content)
+        if "```csv" in content:
+            for line in content.replace("```csv", "").replace("```", "").strip().split("\n"):
+                if len(line.split(';')) == 3:
+                    f.write(line + "\n")
+        else:
+            f.write(content.strip())
         f.close()
 
 def get_gs_triples(file_path):
@@ -65,16 +84,15 @@ class LLMCOTBaseline:
     """ LLM Baseline (using one model of OpenAI) for CM extraction """
     def __init__(self, model: str = MODEL):
         self.model = model
-        self.start_prompt = self.get_start_prompt()
         self.preprocess = PreProcessor()
 
         self.prompt_summary = """
-        You need to write a summary of the text that will be sent in the following message.
+        You need to write a summary of the text that will be sent in the following message. The summary should be in the same style as the original text. For instance, focus on the content of the text, and do not start with "this text is about" or equivalent.
 
         The summary is:
         """
         self.prompt_entity = """
-        You need to extract all the entities from the text that will be sent in the following message.
+        You need to extract all the entities from the text that will be sent in the following message. You must not introduce a hierarchy over the entities, such as Person or Concept. Each entity should appear in the text as is.
 
         In your answer, you must give the output in a .csv file with the columns `entity` and `surface`. `entity` contains one label, whereas `surface` contains all the surface forms of that entity. The columns are separated by `;`, and the surface forms in the `surface` column by `,`.
 
@@ -83,7 +101,7 @@ class LLMCOTBaseline:
         ```
         """
         self.prompt_group_entity = """
-        You need to group all the entities from the .csv that will be sent in the following messages.
+        You need to group all the entities from the .csv that will be sent in the following messages into one file. 
 
         In your answer, you must give the output in a .csv file with the columns `entity` and `surface`. `entity` contains one label, whereas `surface` contains all the surface forms of that entity. The columns are separated by `;`, and the surface forms in the `surface` column by `,`.
 
@@ -92,7 +110,7 @@ class LLMCOTBaseline:
         ```
         """
         self.prompt_relation = """
-        You need to extract all the relations from the text that will be sent in the following message. Each relation is in the form of a triple (subject, predicate, object), where subject and object are entities that you idenfitied in the previous step. `subject` and `object` should be from the list of entities you will be sent.
+        You need to extract all the relations from the text that will be sent in the following message. Each relation is in the form of a triple (subject, predicate, object), where subject and object are entities that you identified in the previous step. `subject` and `object` should be from the list of entities you will be sent. Each relation must be unique, no repetitions.
 
         In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
 
@@ -101,7 +119,7 @@ class LLMCOTBaseline:
         ```
         """
         self.prompt_group_relation = """
-        You need to group all the relations from the .csv that will be sent in the following messages.
+        You need to group all the relations from the .csv that will be sent in the following messages. If there are duplicates, only keep one relation and ensure that each relation is unique. 
 
         In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
 
@@ -110,7 +128,7 @@ class LLMCOTBaseline:
         ```
         """
         self.prompt_ir = """
-        You first need to process the triples by removing redundant triples, i.e. triples that have the same meaning. Then, you need to select the most important triples from the set of triples that will be sent. 
+        You will be provided with a set of triples, where each triple consists of a subject, predicate, and object. Your task is to remove redundant triples, and to extract a subset of these triples that represent the most important information from the original set.
 
         In your answer, you must give the output in a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
 
@@ -119,32 +137,44 @@ class LLMCOTBaseline:
         ```
         """
 
-    def get_start_prompt(self):
-        """ [deprecated] old prompt for whole pipeline """
-        return """
-        You need to extract concept maps from a set of documents. 
+        self.prompt_ir_1 = """
+        You will be provided with a set of triples, where each triple consists of a subject, predicate, and object. You need to make the triples more compact, ie. remove redundant information.
 
-        Concept Map Extraction can be framed as a summarisation task where the output is a graph, i.e. a set of triples with entities as nodes.
+        The answer must be in the same format as in the input, as a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
 
-        This task will be decomposed into the following subtasks:
-        1- Summarization. Summarize the content from the set of documents. The output must be a .csv file with the columns `id` and `summary`. `id` is the text number and `summary` its summary.
-
-        From step 2 on, you work on the summarised text from step 1.
-        2- Entity extraction. Extract entities from the text. This include named entities and noun phrase entities. If entities refer to the same entity, they should have only one representant. The output must be a .csv file with the columns `entity` and `surface`. `entity` contains one label, whereas `surface` contains all the surface forms of that entity.
-        3- Relation extraction. Extract relation from the text. Each relation is in the form of a triple (subject, predicate, object), where subject and object are entities. The output must be a .csv file with the columns `subject`,  `predicate` and `object`.
-        4- Importance ranking. Select the most important triples that will constitute the final concept map. The output must be a .csv file with the columns `subject`,  `predicate` and `object`.
-
-        The following messages will each contain one text from the set of documents. When the set of documents are done, I will send one last message containing: `[END]`
-
-        In your answer, you must give one output per step.
+        The output is:
+        ```csv
+        ```
         """
 
-    def __call__(self, folder: str, save_folder: Union[str, None] = None):
+        self.prompt_ir_2 = """
+        You will be provided with a set of triples, where each triple consists of a subject, predicate, and object. You need to retrieve the most important triples, ie. summarise the triples content.
+
+        The answer must be in the same format as in the input, as a .csv file with the columns with the columns `subject`,  `predicate` and `object`. The columns are separated by `;`.
+
+        The output is:
+        ```csv
+        ```
+        """
+
+        self.nlp = spacy.load("en_core_web_lg")
+        self.ir_o = ["one-step", "two-step"]
+
+
+    def __call__(self, folder: str, save_folder: Union[str, None] = None, ir: str = "one-step"):
+        if ir not in self.ir_o:
+            raise ValueError(f"The `ir` param must be in {self.ir_o}")
+
         logger.info(f"Generating concept maps from texts in folder {folder}")
         names, texts = get_texts_from_folder(folder=folder)
 
         logger.info("Preprocessing texts")
-        texts = [self.preprocess(x) for x in texts]
+
+        # Pre-processing
+        texts = [self.nlp(text) for text in texts]
+        texts = [[sent.text.strip() for sent in text.sents if sent.text.strip()] for text in texts]
+        texts = [[self.preprocess(x) for x in sentences] for sentences in texts] 
+        texts = ["\n".join(x) for x in texts]
 
         if save_folder and not os.path.exists(save_folder):
             os.makedirs(save_folder)
@@ -196,12 +226,28 @@ class LLMCOTBaseline:
             save_to_folder(folder=os.path.join(save_folder, "grouped_relation"),
                            content=grouped_relations, names=["grouped_relations.csv"])
 
-        logger.info("Extracting most important relations")
-        output = run_gpt(
-            prompt=self.prompt_ir, content=grouped_relations)
-        if save_folder:
-            save_to_folder(folder=save_folder,
-                           content=output, names=["output.csv"])
+        if ir == "one-step":
+            logger.info("Extracting most important relations in one step")
+            output = run_gpt(
+                prompt=self.prompt_ir, content=grouped_relations)
+            if save_folder:
+                save_to_folder(folder=save_folder,
+                               content=output, names=["output.csv"])
+
+        if ir == "two-step":
+            logger.info("Making triples more compact")
+            compact_triples = run_gpt(
+                prompt=self.prompt_ir_1, content=grouped_relations)
+            if save_folder:
+                save_to_folder(folder=os.path.join(save_folder, "compact_triples"),
+                               content=compact_triples, names=["compact_triples.csv"])
+            
+            logger.info("Retrieving most important triples")
+            output = run_gpt(
+                prompt=self.prompt_ir_2, content=compact_triples)
+            if save_folder:
+                save_to_folder(folder=save_folder,
+                               content=output, names=["output.csv"])
 
         logger.success("Finished process")
 
@@ -221,32 +267,57 @@ class LLMCOTExperimentRun:
         gs_triples = get_gs_triples(file_path=gs_path)
         system_triples = pd.read_csv(rel_path, sep=";")
         system_triples = [list(x) for x in system_triples.values]
+        system_triples = [x for x in system_triples if all(isinstance(y, str) for y in x)]
 
         return self.evaluation_metrics(
             triples=system_triples, gold_triples=gs_triples)
 
-    def __call__(self, save_folder):
+    def __call__(self, save_folder, ir = "one-step"):
         """ Running on all files of the dataset """
-        metrics = {}
+        if not os.path.exists(save_folder):
+            os.makedirs(save_folder)
+
+        metrics_path = os.path.join(save_folder, "metrics.json")
+        if os.path.exists(metrics_path):
+            with open(metrics_path, "r", encoding="utf-8") as openfile:
+                metrics = json.load(openfile)
+        else:
+            metrics = {}
         for info in self.dataset.files:
+            logger.info(f"Processing folder {info['folder']}")
             folder = os.path.join(self.dataset.path, info["folder"])
             curr_sf = os.path.join(save_folder, info["folder"])
             if not os.path.exists(curr_sf):
                 os.makedirs(curr_sf)
-                self.model(folder=folder, save_folder=curr_sf)
+                self.model(folder=folder, save_folder=curr_sf, ir=ir)
                 curr_metrics = self.run_evaluation(
                     gs_path=info['gs'], rel_path=os.path.join(curr_sf, 'output.csv'))
 
                 metrics[info["folder"]] = curr_metrics
-                with open(os.path.join(curr_sf, "metrics.json"),
-                            "w", encoding="utf-8") as openfile:
+                with open(metrics_path, "w", encoding="utf-8") as openfile:
                     json.dump(metrics, openfile, indent=4)
 
 
 
 
 if __name__ == '__main__':
-    FOLDER = "src/data/Corpora_Falke/Wiki/test/102"
-    SAVE_FOLDER = "test"
-    BASELINE = LLMCOTBaseline()
-    BASELINE(folder=FOLDER, save_folder=SAVE_FOLDER)
+    # FOLDER = "src/data/Corpora_Falke/Wiki/test/102"
+    # SAVE_FOLDER = "test"
+    # BASELINE = LLMCOTBaseline()
+    # BASELINE(folder=FOLDER, save_folder=SAVE_FOLDER)
+
+    # FOLDER = "src/data/Corpora_Falke/Wiki/train/"
+    # EXP = LLMCOTExperimentRun(data_path=FOLDER)
+    # EXP(save_folder="cot_baseline/train")
+
+    # FOLDER = "src/data/Corpora_Falke/Wiki/test/"
+    # EXP = LLMCOTExperimentRun(data_path=FOLDER)
+    # EXP(save_folder="cot_baseline/test")
+
+    # FOLDER = "src/data/Corpora_Falke/Wiki/train/"
+    # EXP = LLMCOTExperimentRun(data_path=FOLDER)
+    # EXP(save_folder="cot_baseline/two-step/train", ir="two-step")
+
+    FOLDER = "src/data/Corpora_Falke/Wiki/test/"
+    EXP = LLMCOTExperimentRun(data_path=FOLDER)
+    EXP(save_folder="cot_baseline/two-step/test", ir="two-step")
