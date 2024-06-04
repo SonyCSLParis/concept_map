@@ -1,6 +1,6 @@
 # ConceptMapsSummaries
 
-[Code for a paper submitted to ACL 2024]
+[Code for a paper submitted to EMNLP 2024]
 
 ## Contributors
 
@@ -25,12 +25,7 @@ We run our code on both Mac M1 and Ubuntu machines, with conda for virtual envir
 
 To install the requirements
 ```bash
-pip install -r requirements_old.txt
-```
-
-If one of the dependency yield error, you can alternatively run the following Python script which will install them one by one:
-```bash
-python install_req.py
+pip install -r requirements.txt
 ```
 
 To run the pipeline, you need to have an OpenAI account with the API token. In the `src/settings.py` file, update it in the `API_KEY_GPT` variable.
@@ -41,11 +36,6 @@ python setup.py install
 ```
 
 Lastly, you need to pre-download some resources:
-* From Terminal
-```bash
-pip install coreferee python -m coreferee install en
-```
-
 * From Python
 ```python
 import nltk
@@ -53,8 +43,10 @@ nltk.download('punkt')
 nltk.download('wordnet')
 ```
 
-
-
+Finally, you would need to download the en_core_web_lg model of Spacy
+```python
+python -m spacy download en_core_web_lg
+```
 
 ## Running the Pipeline
 

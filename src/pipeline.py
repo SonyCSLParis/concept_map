@@ -15,6 +15,7 @@ from src.postprocess import PostProcessor
 from src.preprocess import PreProcessor
 from src.relation import RelationExtractor
 from src.summary import TextSummarizer
+from src.settings import *
 
 
 class CMPipeline:
@@ -259,7 +260,6 @@ class CMPipeline:
                 "entities": entities,
                 "summary": summary,
                 "before_postprocess": res,
-                "postprocess": res_post,
                 "ranked": ranked_sents}
 
 
@@ -277,16 +277,16 @@ def run_pipeline_test(input_text):
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="./fine_tune_rebel/finetuned_rebel.pth",
         local_rm=True,
-        # summary_how="single",
-        # summary_method="chat-gpt",
-        # api_key_gpt=API_KEY_GPT,
-        # engine="gpt-3.5-turbo",
-        # summary_percentage=80,
-        # temperature=0.0,
-        # ranking="word2vec",
-        # ranking_how="single",
-        # ranking_perc_threshold=0.8,
-        # ranking_int_threshold=None,
+        summary_how="single",
+        summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT,
+        engine="gpt-3.5-turbo",
+        summary_percentage=80,
+        temperature=0.0,
+        ranking="word2vec",
+        ranking_how="single",
+        ranking_perc_threshold=0.8,
+        ranking_int_threshold=None,
         # options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"]
     )
 
@@ -300,19 +300,19 @@ def run_pipeline_test(input_text):
         postprocess=False,
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="src/fine_tune_rebel/finetuned_rebel.pth",
+        rebel_model="./fine_tune_rebel/finetuned_rebel.pth",
         local_rm=True,
-        # summary_how="single",
-        # summary_method="chat-gpt",
-        # api_key_gpt=API_KEY_GPT,
-        # engine="gpt-3.5-turbo",
-        # summary_percentage=80,
-        # temperature=0.0,
-        # ranking="word2vec",
-        # ranking_how="single",
-        # options_ent=None,
-        # ranking_perc_threshold=0.8,
-        # ranking_int_threshold=None,
+        summary_how="single",
+        summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT,
+        engine="gpt-3.5-turbo",
+        summary_percentage=80,
+        temperature=0.0,
+        ranking="word2vec",
+        ranking_how="single",
+        options_ent=None,
+        ranking_perc_threshold=0.8,
+        ranking_int_threshold=None,
         # options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"],
     )
 
