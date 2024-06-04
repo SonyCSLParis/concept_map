@@ -12,13 +12,13 @@ from src.settings import API_KEY_GPT
 from src.experiment import ExperimentRun
 
 ####### PARAMS BELOW TO UPDATE 
-SAVE_FOLDER = "./experiments/pipeline"
+SAVE_FOLDER = "./experiments"
 HF_RM_MODEL = "Babelscape/rebel-large"
 LOCAL_RM_MODEL = "./src/fine_tune_rebel/finetuned_rebel.pth"
 # Date from which to consider the folders in the experiments 
 # (to check whether this parameters have been run already or not)
 DATE_START = "2024-06-04-11:00:00"
-DATA_PATH = "/data/Corpora_Falke/Wiki/train/"
+DATA_PATH = "./data/Corpora_Falke/Wiki/train/"
 FOLDERS_CMAP = [x for x in os.listdir(DATA_PATH) if os.path.isdir(os.path.join(DATA_PATH, x))]
 TYPE_DATA = "multi"
 ONE_CM = False
@@ -28,31 +28,31 @@ SUMMARY_FOLDER = "summaries"
 FIXED_PARAMS = {
     "preprocess": True,
     "spacy_model": "en_core_web_lg",
-    "options_ent": ["dbpedia_spotlight"],
+    "confidence": 0.7,
     "db_spotlight_api": "http://localhost:2222/rest/annotate",
     "rebel_tokenizer": "Babelscape/rebel-large",
     "summary_how": "single",
     "api_key_gpt": API_KEY_GPT,
     "engine": "gpt-3.5-turbo",
     "temperature": 0.0,
-    # "ranking_how": "single"
+    "ranking_how": "all"
 }
 
 
 VARIABLE_PARAMS = {
     # Summarisation
-    "summary_percentage": [15, 30, 50, 70],
-    "summary_method": ["lex-rank", "chat-gpt"],
+    "summary_percentage": [15, 30, None],
+    "summary_method": ["lex-rank", "chat-gpt", None],
     # Importance ranking
-    "ranking": ["word2vec", "page_rank", "tfidf"],
-    "ranking_how": ["single", "all"],
-    "ranking_perc_threshold": [0.15, 0.3, 0.5, 0.7],
+    "ranking": ["word2vec", "page_rank", None],
+    # "ranking_how": ["single", "all"],
+    "ranking_perc_threshold": [0.15, 0.3, None],
     # Entity
-    "confidence": [0.5, 0.7],
+    "options_ent": ["dbpedia_spotlight", "nps"],
     # Relation extraction
-    "options_rel": [["rebel"]],
-    "local_rm": [True, False],
-    "rebel_model": [HF_RM_MODEL, LOCAL_RM_MODEL],
+    "options_rel": [["rebel"], ["corenlp"]],
+    "local_rm": [True, False, None],
+    "rebel_model": [HF_RM_MODEL, LOCAL_RM_MODEL, None],
 }
 
 def read_json(json_path):
@@ -132,11 +132,18 @@ if __name__ == '__main__':
     PARAMS = list(ParameterGrid(VARIABLE_PARAMS))
 
     FILTERED_PARAMS = [x for x in PARAMS if \
-        (("rebel" in x["options_rel"]) and x["local_rm"] and x["rebel_model"] == LOCAL_RM_MODEL) or \
-            (("rebel" in x["options_rel"]) and x["local_rm"] == False and x["rebel_model"] == HF_RM_MODEL)]
+        ((("rebel" in x["options_rel"]) and x["local_rm"] and x["rebel_model"] == LOCAL_RM_MODEL) or \
+            (("rebel" in x["options_rel"]) and x["local_rm"] == False and x["rebel_model"] == HF_RM_MODEL) or \
+                (("corenlp" in x["options_rel"]) & (x["local_rm"] is None) & (x["rebel_model"] is None))) and \
+                    (((x["ranking"] is not None) and (x["ranking_perc_threshold"] is not None)) or \
+                        ((x["ranking"] is None) and (x["ranking_perc_threshold"] is None))) and \
+                            (((x["summary_percentage"] is not None) and (x["summary_method"] is not None)) or \
+                                ((x["summary_percentage"] is None) and (x["summary_method"] is None))) and \
+                                    (x["ranking"] or x["summary_method"])]
+                    
     PARAMS_TO_RUN = get_params_to_run(filtered_params=FILTERED_PARAMS)
     PERC = round(100*len(PARAMS_TO_RUN)/len(FILTERED_PARAMS))
     logger.info(f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
 
-    for params in PARAMS_TO_RUN:
-        run_one_exp(params=params)
+    # for params in PARAMS_TO_RUN:
+    #     run_one_exp(params=params)

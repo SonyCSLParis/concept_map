@@ -143,3 +143,6 @@ en/*
 en.tar.gz
 rest-1.1-jar-with-dependencies.jar
 venv-5/*
+
+experiments/
+experiments_acl/

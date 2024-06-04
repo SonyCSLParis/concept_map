@@ -77,7 +77,7 @@ class RelationExtractor:
     @staticmethod
     def get_rmodel(model: str, local_rm: bool):
         """ Load rebel (fine-tuned or not) model """
-        device = "cuda:0" if torch.cuda.is_available() else "cpu"
+        device = "cuda:1" if torch.cuda.is_available() else "cpu"
         # device = "cpu"
         if not local_rm:  # Downloading from huggingface
             model = AutoModelForSeq2SeqLM.from_pretrained(model)
