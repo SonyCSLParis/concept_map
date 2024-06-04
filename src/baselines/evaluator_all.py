@@ -56,7 +56,7 @@ def main():
     folder_path = "./experiments_emnlp/baselines/zero_baseline/results-zero-train"
     average_metrics = compute_average_metrics(folder_path)
 
-    with open(".experiments_emnlp/baselines/zero_baseline/results-zero-train/average_metrics_zero.json", "w") as outfile:
+    with open("./experiments_emnlp/baselines/zero_baseline/results-zero-train/average_metrics_zero.json", "w") as outfile:
         json.dump(average_metrics, outfile, indent=4)
 
     print("Average metrics computed and saved successfully.")
