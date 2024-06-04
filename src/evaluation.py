@@ -44,7 +44,8 @@ class EvaluationMetrics:
         # ROUGE
         rouge_t = self.get_rouge_input(triples_input=triples)
         rouge_t_gold = self.get_rouge_input(triples_input=gold_triples)
-        scores = self.rouge.score(rouge_t, rouge_t_gold)
+        # scores = self.rouge.score(rouge_t, rouge_t_gold)
+        scores = self.rouge.score(rouge_t_gold, rouge_t)
 
         # Meteor
         for i, t_i in enumerate(triples):
