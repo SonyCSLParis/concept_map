@@ -127,7 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-/venv-martina/
 /.idea/
 .DS_Store
 

@@ -148,5 +148,5 @@ def main():
     PERC = round(100*len(PARAMS_TO_RUN)/len(FILTERED_PARAMS))
     logger.info(f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
 
-    for params in PARAMS_TO_RUN:
-        run_one_exp(params=params)
+    # for params in PARAMS_TO_RUN:
+    #     run_one_exp(params=params)
