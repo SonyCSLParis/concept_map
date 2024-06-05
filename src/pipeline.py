@@ -100,8 +100,8 @@ class CMPipeline:
             raise ValueError("For preprocessing, you need to enter `spacy_model`")
         if summary_how and summary_how not in self.summary_p:
             raise ValueError(f"For summarisation, `summary_how` should be in {self.summary_p}")
-        if ranking and ranking_how not in self.ranking_p:
-            raise ValueError(f"For ranking, `ranking_how` should be in {self.ranking_p}")
+        # if ranking and ranking_how not in self.ranking_p:
+        #     raise ValueError(f"For ranking, `ranking_how` should be in {self.ranking_p}")
         if summary_how == 'all' and ranking_how == 'single':
             raise ValueError(f"If `summary_how` is `all`, then `ranking_how` can only be `all`")
 

@@ -14,15 +14,15 @@ from src.experiment import ExperimentRun
 ####### PARAMS BELOW TO UPDATE 
 SAVE_FOLDER = "./experiments"
 HF_RM_MODEL = "Babelscape/rebel-large"
-LOCAL_RM_MODEL = "./src/fine_tune_rebel/finetuned_rebel.pth"
+LOCAL_RM_MODEL = "./fine_tune_rebel/finetuned_rebel.pth"
 # Date from which to consider the folders in the experiments 
 # (to check whether this parameters have been run already or not)
-DATE_START = "2024-06-04-11:00:00"
-DATA_PATH = "./data/Corpora_Falke/Wiki/train/"
+DATE_START = "2024-06-05-11:00:00"
+DATA_PATH = "./data/Corpora_Falke/Wiki/train"
 FOLDERS_CMAP = [x for x in os.listdir(DATA_PATH) if os.path.isdir(os.path.join(DATA_PATH, x))]
 TYPE_DATA = "multi"
 ONE_CM = False
-SUMMARY_FOLDER = "summaries"
+SUMMARY_FOLDER = "./experiments_emnlp/summaries/wiki_train"
 ####################
 
 FIXED_PARAMS = {
@@ -35,6 +35,7 @@ FIXED_PARAMS = {
     "api_key_gpt": API_KEY_GPT,
     "engine": "gpt-3.5-turbo",
     "temperature": 0.0,
+    "options_ent": ["dbpedia_spotlight", "nps"],
     "ranking_how": "all"
 }
 
@@ -49,6 +50,7 @@ VARIABLE_PARAMS = {
     "ranking_perc_threshold": [0.15, 0.3, None],
     # Entity
     "options_ent": ["dbpedia_spotlight", "nps"],
+    "confidence": [0.7, 0.8],
     # Relation extraction
     "options_rel": [["rebel"], ["corenlp"]],
     "local_rm": [True, False, None],
@@ -85,11 +87,14 @@ def get_params_to_run(filtered_params):
     return [x for x in filtered_params if x not in run_exps]
 
 def init_exp(params):
+    summary_path = None
+    if params["summary_method"] and params["summary_percentage"]:
+        summary_path = os.path.join(SUMMARY_FOLDER, params["summary_method"], str(params["summary_percentage"]))
+
     experiment = ExperimentRun(
         # DATA INFO
         folder_path=DATA_PATH, type_data=TYPE_DATA, one_cm=ONE_CM,
-        summary_path=os.path.join(
-            SUMMARY_FOLDER, params["summary_method"], str(params["summary_percentage"])),
+        summary_path=summary_path,
         # PREPROCESS
         preprocess=FIXED_PARAMS["preprocess"],
         spacy_model=FIXED_PARAMS["spacy_model"],
@@ -102,7 +107,7 @@ def init_exp(params):
         summary_percentage=params["summary_percentage"],
         # IMPORTANCE RANKING
         ranking=params["ranking"],
-        ranking_how=params["ranking_how"],
+        # ranking_how=params["ranking_how"],
         ranking_perc_threshold=params["ranking_perc_threshold"],
         # ENTITY
         options_ent=FIXED_PARAMS["options_ent"],
@@ -145,5 +150,5 @@ if __name__ == '__main__':
     PERC = round(100*len(PARAMS_TO_RUN)/len(FILTERED_PARAMS))
     logger.info(f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
 
-    # for params in PARAMS_TO_RUN:
-    #     run_one_exp(params=params)
+    for params in PARAMS_TO_RUN:
+        run_one_exp(params=params)

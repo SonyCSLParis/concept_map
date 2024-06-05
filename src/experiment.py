@@ -193,9 +193,9 @@ if __name__ == '__main__':
     from src.settings import API_KEY_GPT
     EXPERIMENTR = ExperimentRun(
         # EXPERIMENT PARAMS
-        folder_path="/Users/martina/Desktop/concept_map/src/data/Corpora_Falke/Wiki/test",
+        folder_path="./data/Corpora_Falke/Wiki/test",
         type_data="multi", one_cm=False,
-        summary_path="/Users/martina/Desktop/concept_map/summaries/wiki_test/chat-gpt/15/",
+        summary_path="./summaries/wiki_test/chat-gpt/15/",
 
         # PIPELINE PARAMS
         preprocess=True,
@@ -207,7 +207,7 @@ if __name__ == '__main__':
         # threshold=10,
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="/Users/martina/Desktop/concept_map/src/rebel_fine_tuned/finetuned_rebel.pth", local_rm=True,
+        rebel_model="./rebel_fine_tuned/finetuned_rebel.pth", local_rm=True,
         summary_how = "single", summary_method="chat-gpt",
         api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
         temperature=0.0, summary_percentage=15,
