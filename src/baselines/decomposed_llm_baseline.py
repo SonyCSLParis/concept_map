@@ -80,7 +80,7 @@ def get_gs_triples(file_path):
     res = open(file_path, "r", encoding='utf-8').readlines()
     return [x.replace("\n", "").split("\t") for x in res]
 
-class LLMCOTBaseline:
+class DecomposedLLMBaseline:
     """ LLM Baseline (using one model of OpenAI) for CM extraction """
     def __init__(self, model: str = MODEL):
         self.model = model
@@ -241,7 +241,7 @@ class LLMCOTBaseline:
             if save_folder:
                 save_to_folder(folder=os.path.join(save_folder, "compact_triples"),
                                content=compact_triples, names=["compact_triples.csv"])
-            
+
             logger.info("Retrieving most important triples")
             output = run_gpt(
                 prompt=self.prompt_ir_2, content=compact_triples)
@@ -252,14 +252,14 @@ class LLMCOTBaseline:
         logger.success("Finished process")
 
 
-class LLMCOTExperimentRun:
+class DecomposedLLMExperimentRun:
     """ Running experiment on a dataset """
     def __init__(self, data_path: str, type_d: str = "multi", one_cm: bool = False):
         """ Init dataset """
         self.dataset = DataLoader(
             path=data_path, type_d=type_d, one_cm=one_cm
         )
-        self.model = LLMCOTBaseline()
+        self.model = DecomposedLLMBaseline()
         self.evaluation_metrics = EvaluationMetrics()
 
     def run_evaluation(self, gs_path, rel_path):
@@ -303,21 +303,21 @@ class LLMCOTExperimentRun:
 if __name__ == '__main__':
     # FOLDER = "./data/Corpora_Falke/Wiki/test/102"
     # SAVE_FOLDER = "test"
-    # BASELINE = LLMCOTBaseline()
+    # BASELINE = DecomposedLLMBaseline()
     # BASELINE(folder=FOLDER, save_folder=SAVE_FOLDER)
 
     # FOLDER = "./data/Corpora_Falke/Wiki/train/"
-    # EXP = LLMCOTExperimentRun(data_path=FOLDER)
+    # EXP = DecomposedLLMExperimentRun(data_path=FOLDER)
     # EXP(save_folder="experiments_emnlp/baselines/cot_baseline/train")
 
     # FOLDER = "./data/Corpora_Falke/Wiki/test/"
-    # EXP = LLMCOTExperimentRun(data_path=FOLDER)
-    # EXP(save_folder="experiments_emnlp/baselines/cot_baseline/test")
+    # EXP = DecomposedLLMExperimentRun(data_path=FOLDER)
+    # EXP(save_folder="experiments_emnlp/baselines/decomposed_baseline/test")
 
     # FOLDER = "./data/Corpora_Falke/Wiki/train/"
-    # EXP = LLMCOTExperimentRun(data_path=FOLDER)
-    # EXP(save_folder="experiments_emnlp/baselines/cot_baseline/two-step/train", ir="two-step")
+    # EXP = DecomposedLLMExperimentRun(data_path=FOLDER)
+    # EXP(save_folder="experiments_emnlp/baselines/decomposed_baseline/two-step/train", ir="two-step")
 
     FOLDER = "./data/Corpora_Falke/Wiki/test/"
-    EXP = LLMCOTExperimentRun(data_path=FOLDER)
-    EXP(save_folder="experiments_emnlp/baselines/cot_baseline/two-step/test", ir="two-step")
+    EXP = DecomposedLLMExperimentRun(data_path=FOLDER)
+    EXP(save_folder="experiments_emnlp/baselines/decomposed_baseline/two-step/test", ir="two-step")
