@@ -131,7 +131,7 @@ def run_one_exp(params):
         f_log.close()
 
 
-if __name__ == '__main__':
+def main():
     PARAMS = list(ParameterGrid(VARIABLE_PARAMS))
 
     FILTERED_PARAMS = [x for x in PARAMS if \
