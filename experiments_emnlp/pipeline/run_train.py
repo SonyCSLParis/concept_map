@@ -14,7 +14,7 @@ from src.experiment import ExperimentRun
 ####### PARAMS BELOW TO UPDATE 
 SAVE_FOLDER = "./experiments"
 HF_RM_MODEL = "Babelscape/rebel-large"
-LOCAL_RM_MODEL = "./fine_tune_rebel/finetuned_rebel.pth"
+LOCAL_RM_MODEL = "./src/fine_tune_rebel/finetuned_rebel.pth"
 # Date from which to consider the folders in the experiments 
 # (to check whether this parameters have been run already or not)
 DATE_START = "2024-06-05-11:00:00"
@@ -35,7 +35,6 @@ FIXED_PARAMS = {
     "api_key_gpt": API_KEY_GPT,
     "engine": "gpt-3.5-turbo",
     "temperature": 0.0,
-    "options_ent": ["dbpedia_spotlight", "nps"],
     "ranking_how": "all"
 }
 
@@ -49,8 +48,7 @@ VARIABLE_PARAMS = {
     # "ranking_how": ["single", "all"],
     "ranking_perc_threshold": [0.15, 0.3, None],
     # Entity
-    "options_ent": ["dbpedia_spotlight", "nps"],
-    "confidence": [0.7, 0.8],
+    "options_ent": [["dbpedia_spotlight"], ["nps"]],
     # Relation extraction
     "options_rel": [["rebel"], ["corenlp"]],
     "local_rm": [True, False, None],
@@ -99,20 +97,20 @@ def init_exp(params):
         preprocess=FIXED_PARAMS["preprocess"],
         spacy_model=FIXED_PARAMS["spacy_model"],
         # SUMMARY
-        summary_how=FIXED_PARAMS["summary_how"],
+        summary_how=FIXED_PARAMS["summary_how"] if params["summary_method"] else None,
         summary_method=params["summary_method"],
         api_key_gpt=API_KEY_GPT if params["summary_method"] == "chat-gpt" else None,
         engine=FIXED_PARAMS["engine"] if params["summary_method"] == "chat-gpt" else None,
         temperature=FIXED_PARAMS["temperature"] if params["summary_method"] == "chat-gpt" else None,
-        summary_percentage=params["summary_percentage"],
+        summary_percentage=params["summary_percentage"] if params["summary_method"] else None,
         # IMPORTANCE RANKING
         ranking=params["ranking"],
-        # ranking_how=params["ranking_how"],
-        ranking_perc_threshold=params["ranking_perc_threshold"],
+        ranking_how=FIXED_PARAMS["ranking_how"] if params["ranking"] else None,
+        ranking_perc_threshold=params["ranking_perc_threshold"] if params["ranking"] else None,
         # ENTITY
-        options_ent=FIXED_PARAMS["options_ent"],
-        confidence=params["confidence"],
-        db_spotlight_api=FIXED_PARAMS["db_spotlight_api"],
+        options_ent=params["options_ent"],
+        confidence=FIXED_PARAMS["confidence"],
+        db_spotlight_api=FIXED_PARAMS["db_spotlight_api"] if "dbpedia_spotlight" in params["options_ent"] else None,
         # RELATION EXTRACTION
         options_rel=params["options_rel"],
         rebel_tokenizer=FIXED_PARAMS["rebel_tokenizer"] if "rebel" in params["options_rel"] else None,
