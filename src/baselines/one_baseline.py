@@ -4,7 +4,7 @@ from openai import OpenAI
 
 api_key = ""
 
-class ZeroBaseline:
+class OneBaseline:
     def __init__(self, api_key, model):
         self.client = OpenAI(api_key=api_key)
         self.model = model
@@ -76,7 +76,7 @@ if __name__ == '__main__':
     model = "gpt-3.5-turbo-0125"
     test_folder = "./data/Corpora_Falke/Wiki/train"
     output_folder = "./experiments_emnlp/baselines/one_baseline/results-one-train"
-    concept_map_extractor = ZeroBaseline(api_key=api_key, model=model)
+    concept_map_extractor = OneBaseline(api_key=api_key, model=model)
 
     for folder_name in os.listdir(test_folder):
         folder_path = os.path.join(test_folder, folder_name)

@@ -130,7 +130,7 @@ def run_one_exp(params):
         f_log.close()
 
 
-if __name__ == '__main__':
+def main():
     PARAMS = list(ParameterGrid(VARIABLE_PARAMS))
 
     FILTERED_PARAMS = [x for x in PARAMS if \
@@ -147,5 +147,5 @@ if __name__ == '__main__':
     PERC = round(100*len(PARAMS_TO_RUN)/len(FILTERED_PARAMS))
     logger.info(f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
 
-    for params in PARAMS_TO_RUN:
-        run_one_exp(params=params)
+    # for params in PARAMS_TO_RUN:
+    #     run_one_exp(params=params)

@@ -8,7 +8,7 @@ from nltk.translate.meteor_score import meteor_score
 from rouge_score import rouge_scorer
 
 class EvaluationMetrics:
-    """Evaluation"""
+    """Evaluation metrics for each file"""
 
     def __init__(self):
         self.meteor = meteor_score
