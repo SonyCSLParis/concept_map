@@ -35,7 +35,6 @@ FIXED_PARAMS = {
     "api_key_gpt": API_KEY_GPT,
     "engine": "gpt-3.5-turbo",
     "temperature": 0.0,
-    "ranking_how": "all"
 }
 
 
@@ -45,7 +44,7 @@ VARIABLE_PARAMS = {
     "summary_method": ["lex-rank", "chat-gpt", None],
     # Importance ranking
     "ranking": ["word2vec", "page_rank", None],
-    # "ranking_how": ["single", "all"],
+    "ranking_how": ["single", "all"],
     "ranking_perc_threshold": [0.15, 0.3, None],
     # Entity
     "options_ent": [["dbpedia_spotlight"], ["nps"]],
@@ -105,7 +104,7 @@ def init_exp(params):
         summary_percentage=params["summary_percentage"] if params["summary_method"] else None,
         # IMPORTANCE RANKING
         ranking=params["ranking"],
-        ranking_how=FIXED_PARAMS["ranking_how"] if params["ranking"] else None,
+        ranking_how=VARIABLE_PARAMS["ranking_how"] if params["ranking"] else None,
         ranking_perc_threshold=params["ranking_perc_threshold"] if params["ranking"] else None,
         # ENTITY
         options_ent=params["options_ent"],

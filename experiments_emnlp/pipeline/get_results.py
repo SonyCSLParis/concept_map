@@ -10,8 +10,8 @@ import pandas as pd
 from loguru import logger
 from src.build_table import build_table
 ####### PARAMS BELOW TO UPDATE
-SAVE_FOLDER = "./experiments/pipeline"
-DATA_PATH = "/data/Corpora_Falke/Wiki/train/"
+SAVE_FOLDER = "./experiments/"
+DATA_PATH = "./data/Corpora_Falke/Wiki/train/"
 FOLDERS_CMAP = [x for x in os.listdir(DATA_PATH) if os.path.isdir(os.path.join(DATA_PATH, x))]
 DATE_START = "2024-06-04-11:00:00"
 ####################
@@ -19,8 +19,7 @@ DATE_START = "2024-06-04-11:00:00"
 COLUMNS = [
     'summary_method', 'summary_percentage',
     'ranking', 'ranking_how', 'ranking_perc_threshold',
-    'confidence',
-    'relation',
+    'entity', 'relation',
     'meteor_pr', 'meteor_re', 'meteor_f1',
     'rouge-2_pr', 'rouge-2_re', 'rouge-2_f1'
 ]
@@ -75,9 +74,9 @@ def get_correlations(df_, feat_cols, metric_cols):
     mappings = {
         "summary_method": {1: "chat-gpt", 2: "lex-rank"},
         "ranking_how": {1: "all", 2: "single"},
-        "confidence": {1: 0.5, 2: 0.7},
-        "relation": {1: "rebel\_ft", 2: "rebel\_hf"},
-        
+        # "relation": {1: "rebel\_ft", 2: "rebel\_hf"},
+        "ranking": {1: "word2vec", 2: "page_rank"},
+        "entity": {1: "dbpedia\_spotlight", 2: "nps"}
     }
 
     cols_df_corr_binary = ["Feature", "Val1", "Val2", "Metric", "Correlation", "Pvalue"]
@@ -109,11 +108,11 @@ def get_correlations(df_, feat_cols, metric_cols):
     )
     print(f"{latex_table}\n=====")
 
-    rankings = [
-        ["page\_rank", "word2vec"],
-        ["page\_rank", "tfidf"],
-        ["word2vec", "tfidf"]]
-    for [r_a, r_b] in rankings:
+    relations = [
+        ["rebel\_ft", "rebel\_hf"],
+        ["rebel\_ft", "corenlp"],
+        ["rebel\_hf", "corenlp"]]
+    for [r_a, r_b] in relations:
         for metric in ["meteor_f1", "rouge-2_f1"]:
             print(f"FEATURE: ranking | METRIC {metric} | VAL1 {r_a} | VAL2 {r_b}")
             curr_df = df_[df_.ranking.isin([r_a, r_b])]
@@ -122,7 +121,7 @@ def get_correlations(df_, feat_cols, metric_cols):
             corr, pvalue = scipy.stats.spearmanr(vals_1, vals_2)
             print(f"Corr: {corr} | Pvalue: {pvalue}")
     print("==========")
-    for r_a in ["page\_rank", "word2vec", "tfidf"]:
+    for r_a in ["rebel\_ft", "rebel\_hf", "corenlp"]:
         for metric in ["meteor_f1", "rouge-2_f1"]:
             print(f"FEATURE: ranking | METRIC {metric} | VAL1 {r_a} | VAL2 Other")
             vals_1 = format_vals(df_.ranking, r_a)
@@ -148,7 +147,7 @@ def main():
             params["ranking"]["ranking"].replace("_", "\\_"),
             params["ranking"]["ranking_how"],
             params["ranking"]["ranking_perc_threshold"] * 100,
-            params["entity"]["confidence"],
+            "+".join(params["entities"]["options_ent"]).replace("_", "\\_"),
             get_rebel_opt(params)
         ] + \
             [avg_metrics[f"{x}_{y}"] for x in ["meteor", "rouge-2"] \
@@ -157,7 +156,7 @@ def main():
         # df_output = df_output.append(pd.Series(curr_l, index=COLUMNS), ignore_index=True)
     print(df_output)
     df_output.meteor_f1 = df_output.apply(f1_helper, axis=1)
-    df_output.sort_values(by=COLUMNS[:6]).to_csv("experiments_acl/results.csv")
+    df_output.sort_values(by=COLUMNS[:6]).to_csv("./experiments_emnlp/pipeline/hp_search_results.csv")
 
     # latex_table = build_table(
     #     columns=["Summary", "Ranking", "Entity", "Relation", "METEOR", "ROUGE-2"],
