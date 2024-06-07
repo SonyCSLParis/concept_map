@@ -10,6 +10,7 @@ from loguru import logger
 from sklearn.model_selection import ParameterGrid
 from src.settings import API_KEY_GPT
 from src.experiment import ExperimentRun
+from itertools import product
 
 ####### PARAMS BELOW TO UPDATE 
 SAVE_FOLDER = "./experiments"
@@ -45,7 +46,7 @@ VARIABLE_PARAMS = {
     "summary_method": ["lex-rank", "chat-gpt", None],
     # Importance ranking
     "ranking": ["word2vec", "page_rank", None],
-    "ranking_how": ["single", "all"],
+    "ranking_how": ["single"],
     "ranking_perc_threshold": [0.15, 0.3, None],
     # Entity
     "options_ent": [["dbpedia_spotlight"], ["nps"]],
@@ -139,7 +140,6 @@ def get_params_to_run(filtered_params):
     params_not_run = [x for x in filtered_params if x not in run_exps]
     print("Parameters not run:", params_not_run)
     return params_not_run
-
 if __name__ == '__main__':
     PARAMS = list(ParameterGrid(VARIABLE_PARAMS))
 
@@ -158,9 +158,9 @@ if __name__ == '__main__':
     logger.info(
         f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
 
-    for params in PARAMS_TO_RUN:
+    # for params in PARAMS_TO_RUN:
         # print("Running experiment with parameters:", params)
         # start_time = datetime.now()
-        run_one_exp(params=params)
+        # run_one_exp(params=params)
         # end_time = datetime.now()
         # print("Time taken:", end_time - start_time)
