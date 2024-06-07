@@ -27,6 +27,7 @@ SUMMARY_FOLDER = "./experiments_emnlp/summaries/wiki_train"
 
 FIXED_PARAMS = {
     "preprocess": True,
+    "postprocess": True,
     "spacy_model": "en_core_web_lg",
     "confidence": 0.7,
     "db_spotlight_api": "http://localhost:2222/rest/annotate",
@@ -94,6 +95,7 @@ def init_exp(params):
         summary_path=summary_path,
         # PREPROCESS
         preprocess=FIXED_PARAMS["preprocess"],
+        postprocess=FIXED_PARAMS["postprocess"],
         spacy_model=FIXED_PARAMS["spacy_model"],
         # SUMMARY
         summary_how=FIXED_PARAMS["summary_how"] if params["summary_method"] else None,
@@ -130,7 +132,15 @@ def run_one_exp(params):
         f_log.close()
 
 
-def main():
+def get_params_to_run(filtered_params):
+    folders = get_folders_exp_finished()
+    run_exps = [format_params(x[1]) for x in folders]
+    run_exps = [x for x in run_exps if x]
+    params_not_run = [x for x in filtered_params if x not in run_exps]
+    print("Parameters not run:", params_not_run)
+    return params_not_run
+
+if __name__ == '__main__':
     PARAMS = list(ParameterGrid(VARIABLE_PARAMS))
 
     FILTERED_PARAMS = [x for x in PARAMS if \
@@ -142,10 +152,15 @@ def main():
                             (((x["summary_percentage"] is not None) and (x["summary_method"] is not None)) or \
                                 ((x["summary_percentage"] is None) and (x["summary_method"] is None))) and \
                                     (x["ranking"] or x["summary_method"])]
-                    
-    PARAMS_TO_RUN = get_params_to_run(filtered_params=FILTERED_PARAMS)
-    PERC = round(100*len(PARAMS_TO_RUN)/len(FILTERED_PARAMS))
-    logger.info(f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
 
-    # for params in PARAMS_TO_RUN:
-    #     run_one_exp(params=params)
+    PARAMS_TO_RUN = get_params_to_run(filtered_params=FILTERED_PARAMS)
+    PERC = round(100 * len(PARAMS_TO_RUN) / len(FILTERED_PARAMS))
+    logger.info(
+        f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
+
+    for params in PARAMS_TO_RUN:
+        # print("Running experiment with parameters:", params)
+        # start_time = datetime.now()
+        run_one_exp(params=params)
+        # end_time = datetime.now()
+        # print("Time taken:", end_time - start_time)
