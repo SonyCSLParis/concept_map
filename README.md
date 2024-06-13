@@ -130,6 +130,8 @@ Regrettably, we are unable to provide access to the corpus as it is not within o
     * `pipeline.run_single_and_ablation.py`: running final experiments (all the components and ablation studies)
     ```bash
     python experiments_acl/run_single_and_ablation.py <data-path> <save-folder> <summary-folder>
+
+    python experiments_emnlp/pipeline/run_single_and_ablation.py ./data/Corpora_Falke/Wiki/train experiments_emnlp/pipeline/final_exps/wiki_train/ experiments_emnlp/summaries/wiki_train/
     ```
     * `pipeline/wiki_test` and `pipeline/wiki_train`: results on the test and train sets of WIKI
     * `pipeline/get_final_results.py`: analyse final results

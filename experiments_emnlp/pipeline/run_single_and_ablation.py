@@ -29,11 +29,10 @@ FIXED_PARAMS = {
     "summary_percentage": 15,
     "summary_method": "chat-gpt",
     # IMPORTANCE RANKING
-    "ranking": "page_rank",
     "ranking_how": "all",
     "ranking_perc_threshold": 0.15,
     # ENTITY
-    "confidence": 0.5,
+    "confidence": 0.7,
     "options_ent": ["dbpedia_spotlight"],
     "db_spotlight_api": "http://localhost:2222/rest/annotate",
     # RELATION
@@ -43,8 +42,14 @@ FIXED_PARAMS = {
     "engine": "gpt-3.5-turbo",
     "temperature": 0.0,
     "options_rel": ["rebel"],
-    "local_rm": True,
-    "rebel_model": "./src/fine_tune_rebel/finetuned_rebel.pth"
+    "local_rm": False,
+    "rebel_model": "Babelscape/rebel-large",
+    # POSTPROCESS
+    "postprocess": True,
+}
+
+VARIABLE_PARAMS = {
+    "ranking": {"all": "word2vec", "ir": "page_rank"}
 }
 
 def init_exps(data_path, summary_folder):
@@ -69,7 +74,7 @@ def init_exps(data_path, summary_folder):
         temperature=FIXED_PARAMS["temperature"],
         summary_percentage=FIXED_PARAMS["summary_percentage"],
         # IMPORTANCE RANKING
-        ranking=FIXED_PARAMS["ranking"],
+        ranking=VARIABLE_PARAMS["ranking"]["all"],
         ranking_how=FIXED_PARAMS["ranking_how"],
         ranking_perc_threshold=FIXED_PARAMS["ranking_perc_threshold"],
         # ENTITY
@@ -80,7 +85,9 @@ def init_exps(data_path, summary_folder):
         options_rel=FIXED_PARAMS["options_rel"],
         rebel_tokenizer=FIXED_PARAMS["rebel_tokenizer"],
         rebel_model=FIXED_PARAMS["rebel_model"],
-        local_rm=FIXED_PARAMS["local_rm"])
+        local_rm=FIXED_PARAMS["local_rm"],
+        # POSTPROCESS
+        postprocess=FIXED_PARAMS["postprocess"])
     res.append(experiment)
     experiment = ExperimentRun(
         # DATA INFO
@@ -105,7 +112,9 @@ def init_exps(data_path, summary_folder):
         options_rel=FIXED_PARAMS["options_rel"],
         rebel_tokenizer=FIXED_PARAMS["rebel_tokenizer"],
         rebel_model=FIXED_PARAMS["rebel_model"],
-        local_rm=FIXED_PARAMS["local_rm"])
+        local_rm=FIXED_PARAMS["local_rm"],
+        # POSTPROCESS
+        postprocess=FIXED_PARAMS["postprocess"])
     res.append(experiment)
     experiment = ExperimentRun(
         # DATA INFO
@@ -114,7 +123,7 @@ def init_exps(data_path, summary_folder):
         preprocess=FIXED_PARAMS["preprocess"],
         spacy_model=FIXED_PARAMS["spacy_model"],
         # IMPORTANCE RANKING
-        ranking=FIXED_PARAMS["ranking"],
+        ranking=VARIABLE_PARAMS["ranking"]["ir"],
         ranking_how=FIXED_PARAMS["ranking_how"],
         ranking_perc_threshold=FIXED_PARAMS["ranking_perc_threshold"],
         # ENTITY
@@ -125,7 +134,9 @@ def init_exps(data_path, summary_folder):
         options_rel=FIXED_PARAMS["options_rel"],
         rebel_tokenizer=FIXED_PARAMS["rebel_tokenizer"],
         rebel_model=FIXED_PARAMS["rebel_model"],
-        local_rm=FIXED_PARAMS["local_rm"])
+        local_rm=FIXED_PARAMS["local_rm"],
+        # POSTPROCESS
+        postprocess=FIXED_PARAMS["postprocess"])
     res.append(experiment)
     return res
 
