@@ -1,0 +1,119 @@
+Robertsbridge, instance of, village
+Bodiam Castle, owned by, Sir Edward Dalyngrigge
+Bodiam Castle, located in the administrative territorial entity, Battle
+bats, subclass of, wildlife
+Lord Curzon, member of, National Trust
+The National Trust, owned by, Lord Curzon
+Lord Curzon, owner of, National Trust
+portcullis, part of, battlements
+East Sussex, shares border with, Sussex
+Bodiam Castle, located in the administrative territorial entity, Hastings
+Lord Curzon, field of work, restoration work on the castle
+Gray Nicolls, headquarters location, Bodiam Castle
+Bodiam Castle, owned by, English Country Walks
+Bodiam Castle, instance of, castle
+Bodiam Castle, time period, medieval history
+train station, located in the administrative territorial entity, Robertsbridge
+Lord Curzon, field of work, restoration work
+Edward Dallingridge, owner of, Bodiam Castle
+Bodiam Castle, owned by, Edward Dallingridge
+Monty Python, notable work, Holy Grail
+Lord Curzon, owner of, The National Trust
+Holy Grail, creator, Monty Python
+Windsor Castle, located in the administrative territorial entity, Windsor
+analysis, facet of, landscape archaeology
+Lord Curzon, employer, National Trust
+London Charing Cross station, instance of, evening
+Gray Nicolls, location, Bodiam Castle
+Bodiam Castle, instance of, sandcastle
+Dalyngrigge family, owner of, castle
+Bodiam Castle, country, Britain
+Bonfire night, located in the administrative territorial entity, Robertsbridge
+castle, studied by, landscape archaeology
+Affleck Castle, located in the administrative territorial entity, Angus
+Charing Cross station, located in the administrative territorial entity, London
+Bodiam Castle, instance of, Castle
+Easter egg hunt, part of, Easter
+prepare to invade England, point in time, 1386
+Easter Egg Trail, organizer, Cadbury
+castle, maintained by, National Trust
+Edward Dalyngrigge, owner of, Bodiam Castle
+Angle Castle, located in the administrative territorial entity, Pembrokeshire
+Bodiam, maintained by, National Trust
+tea room, part of, shop
+Easter Egg Trail, named after, Cadbury
+Easter Egg Trail, manufacturer, Cadbury
+Robertsbridge, located in the administrative territorial entity, East Sussex
+Bodiam Castle, instance of, wedding venue
+Sir Edward Dalyngrigge, place of birth, Sussex
+Sir Edward Dalyngrigge, employer, Richard II
+Battle Abbey, located in the administrative territorial entity, Bodiam Castle
+Lord Curzon, has works in the collection, National Trust
+Bodiam Castle, inception, 1385
+Bodiam Castle, instance of, picturesque setting
+Bodiam, heritage designation, Scheduled Monument
+Matthew H. Johnson, employer, Northwestern University
+castle, owned by, Dalyngrigge family
+Bodiam, owned by, National Trust
+National Trust for Historic Preservation, located in the administrative territorial entity, Washington, D.C.
+Lord Curzon, has works in the collection, The National Trust
+tea room, subclass of, shop
+Bodiam Castle, architectural style, medieval structure
+castles, studied by, landscape archaeology
+Bodiam Castle, instance of, Scheduled Monument
+tea, subclass of, food
+a train station, named after, Robertsbridge
+National Trust, inception, 1925
+Loyola University, located in the administrative territorial entity, New Orleans
+Bodiam Castle, located in the administrative territorial entity, Bodiam
+Monty Python and the Holy Grail, instance of, films
+Bodiam Castle, instance of, historic significance
+train station, named after, Robertsbridge
+moat, located in the administrative territorial entity, East Sussex
+Gray Nicolls, located in the administrative territorial entity, Bruderhof
+Gray Nicolls, location, Bruderhof
+Easter egg hunt, facet of, Easter
+Bodiam Castle, instance of, castles
+castle, located in the administrative territorial entity, London
+Sir Edward Dalyngrigge, residence, Sussex
+portcullis, part of, castle
+the castle, maintained by, National Trust
+Bodiam Castle, maintained by, English Country Walks
+Bodiam Castle, time period, medieval
+Bruderhof, located in the administrative territorial entity, Gray Nicolls
+Lord Curzon, field of work, restoration
+Dalyngrigge, instance of, castle
+Bodiam Castle, instance of, moated castle
+bats, instance of, wildlife
+Bodiam Castle, instance of, castles beyond defense
+John 'Mad Jack' Fuller, work period (start), 1815
+French prepared to invade England, point in time, 1386
+John 'Mad Jack' Fuller, inception, 1829
+French prepared to invade England, start time, 1386
+railway, located in the administrative territorial entity, London
+portcullis, part of, gatehouse
+Bodiam Castle, architect, Edward Dallingridge
+National Trust, owner of, Bodiam
+Sir Edward Dalyngrigge, owner of, Bodiam Castle
+Bodiam Castle, owned by, Edward Dalyngrigge
+analysis, subclass of, landscape archaeology
+Bodiam Castle, use, wedding venue
+cake, subclass of, tea
+John 'Mad Jack' Fuller, work period (start), 1829
+Sussex, shares border with, East Sussex
+bat, instance of, wildlife
+Robertsbridge, located in the administrative territorial entity, England
+Sir Edward Dalyngrigge, country of citizenship, Sussex
+tea, has part, cake
+Edward Dalyngrigge, employer, Richard II
+London Charing Cross, instance of, station
+analysis, part of, landscape archaeology
+landscape archaeology, studies, castles
+John 'Mad Jack' Fuller, date of death, 1815
+tea, subclass of, cake
+rail fare, located in the administrative territorial entity, London
+Bodiam Castle, heritage designation, Scheduled Monument
+Bonfire night celebration, location, Robertsbridge
+Bonfire night, location, Robertsbridge
+Easter egg hunt, part of, springtime
+Bodiam Castle, located in the administrative territorial entity, East Sussex
