@@ -91,6 +91,9 @@ Miscellaneous
 
 ## Running Baseline 
 
+All the folder is in the `baselines` folder. 
+We also have notebooks that illustrate the results in `notebooks` folder. 
+
 ### Code structure
 
 Main components : 
@@ -99,6 +102,13 @@ Main components :
 * `zero_baseline.py`. Main class `ZeroBaseline`
 * `evaluator_all.py`. Main function `compute_average_metrics`
 * `evaluator_zero_one.py`. Main class `EvaluationMetrics`
+
+Main notebooks : 
+* `decomposed_llm_notebook`: decomposed prompting
+* `one-shot-notebook`: one-shot prompting
+* `zero-notebook`: zero-shot prompting
+
+## Running Baseline 
 
 ## Data used
 

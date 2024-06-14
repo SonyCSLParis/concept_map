@@ -13,13 +13,13 @@ from src.experiment import ExperimentRun
 from itertools import product
 
 ####### PARAMS BELOW TO UPDATE 
-SAVE_FOLDER = "./experiments"
+SAVE_FOLDER = "/Users/martina/Desktop/concept_map/experiments"
 HF_RM_MODEL = "Babelscape/rebel-large"
-LOCAL_RM_MODEL = "./src/fine_tune_rebel/finetuned_rebel.pth"
+LOCAL_RM_MODEL = "/Users/martina/Desktop/concept_map/src/fine_tune_rebel/finetuned_rebel.pth"
 # Date from which to consider the folders in the experiments 
 # (to check whether this parameters have been run already or not)
 DATE_START = "2024-06-05-11:00:00"
-DATA_PATH = "./data/Corpora_Falke/Wiki/train"
+DATA_PATH = "/Users/martina/Desktop/concept_map/data/Corpora_Falke/Wiki/train"
 FOLDERS_CMAP = [x for x in os.listdir(DATA_PATH) if os.path.isdir(os.path.join(DATA_PATH, x))]
 TYPE_DATA = "multi"
 ONE_CM = False
@@ -158,9 +158,9 @@ if __name__ == '__main__':
     logger.info(
         f"{len(FILTERED_PARAMS)} set of parameters to be run in total, still {len(PARAMS_TO_RUN)}({PERC}%) to go")
 
-    # for params in PARAMS_TO_RUN:
+    for params in PARAMS_TO_RUN:
         # print("Running experiment with parameters:", params)
         # start_time = datetime.now()
-        # run_one_exp(params=params)
+        run_one_exp(params=params)
         # end_time = datetime.now()
         # print("Time taken:", end_time - start_time)
