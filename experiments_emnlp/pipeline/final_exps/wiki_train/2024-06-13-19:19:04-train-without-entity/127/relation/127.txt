@@ -1,0 +1,64 @@
+knight, uses, horseback
+gunpowder, instance of, weapons
+knights, uses, horseback
+England, shares border with, Wales
+multiple walls, part of, castle defenses
+Bornholm, country, Denmark
+castle, subclass of, status symbol
+Pontefract Castle, located in the administrative territorial entity, England
+English supremacy, facet of, Wales
+multiple walls, facet of, castle defenses
+Hunyad Castle, architectural style, Gothic architecture
+Pontefract Castle, instance of, medieval castle
+castle, instance of, status symbol
+Scotland, shares border with, England
+castle keep, part of, castle
+moat, part of, castle
+Cite de Carcassonne, instance of, castle
+administrative, subclass of, Castle
+Castle, use, administrative
+curtain walls, part of, castle
+Caernarfon Castle, instance of, castle
+Warwick, instance of, castle
+Rothenburg, country, Germany
+castle, part of, towns
+siege, location, castle
+England, shares border with, Scotland
+Leeds Castle, instance of, castle
+Warwick, instance of, castles
+Castle, subclass of, administrative
+Welsh uprisings, location, Wales
+Windsor Castle, instance of, medieval castle
+English supremacy in Wales, significant event, Welsh uprisings
+Tower of London, instance of, castle
+Scotland, shares border with, Wales
+Malbork Castle, country, Poland
+Tower of London, instance of, castles
+Chateau Gaillard, instance of, castle
+horseback, used by, knight
+castles, part of, towns
+Edward, student of, James of St. George
+Wales, diplomatic relation, English
+motte and bailey castles, subclass of, castle
+Windsor, instance of, castle
+horseback, used by, knights
+Malbork Castle, architectural style, Gothic architecture
+Windsor Castle, instance of, castle
+wooden castles, subclass of, castles
+multiple walls, subclass of, castle defenses
+castles, instance of, status symbol
+castles, part of, villages
+James of St. George, country of citizenship, English
+Windsor, instance of, castles
+English, diplomatic relation, Wales
+Wales, shares border with, Scotland
+Tower house, time period, medieval Europe
+Rothenburg, instance of, castle
+gunpowder, use, weapons
+gunpowder, subclass of, weapons
+wooden castle, subclass of, castle
+battlements, part of, castle
+Tower houses, subclass of, castle
+castle defenses, part of, castle
+Tower house, subclass of, castle
+Wales, shares border with, England

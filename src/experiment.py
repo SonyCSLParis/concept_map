@@ -195,23 +195,30 @@ if __name__ == '__main__':
         # EXPERIMENT PARAMS
         folder_path="./data/Corpora_Falke/Wiki/test",
         type_data="multi", one_cm=False,
-        summary_path="./summaries/wiki_test/chat-gpt/15/",
+        summary_path="./experiments_emnlp/summaries/wiki_test/chat-gpt/15/",
 
         # PIPELINE PARAMS
+        # PREPROCESS
         preprocess=True,
         spacy_model="en_core_web_lg",
-        postprocess=True,
+        # SUMMARY
+        summary_how = "single", summary_method="chat-gpt",
+        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
+        temperature=0.0, summary_percentage=15,
+        # RANKING
+        ranking="word2vec", ranking_how="all", ranking_perc_threshold=0.15,
+        # ENTITY
         # options_ent=["dbpedia_spotlight"],#"nps"
         # confidence=0.5,
         # db_spotlight_api="http://localhost:2222/rest/annotate",
         # threshold=10,
+        # RELATION
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./rebel_fine_tuned/finetuned_rebel.pth", local_rm=True,
-        summary_how = "single", summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
-        temperature=0.0, summary_percentage=15,
-        ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15
+        rebel_model="Babelscape/rebel-large",
+        local_rm=False,
+        # POSTPROCESS
+        postprocess=True,
         )
     print(EXPERIMENTR.params)
-    EXPERIMENTR(save_folder="experiments")
+    EXPERIMENTR(save_folder="ablations")
