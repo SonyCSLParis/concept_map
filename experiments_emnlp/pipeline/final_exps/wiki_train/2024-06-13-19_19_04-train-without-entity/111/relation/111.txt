@@ -1,0 +1,32 @@
+Bodiam, owned by, National Trust
+castle, located in the administrative territorial entity, London
+Bodiam Castle, located in the administrative territorial entity, Battle
+Sussex, shares border with, East Sussex
+Sir Edward Dalyngrigge, residence, Sussex
+Bodiam Castle, inception, 1385
+Bodiam Castle, located in the administrative territorial entity, Hastings
+moat, part of, castle
+East Sussex, shares border with, Sussex
+National Trust, owner of, Bodiam
+The National Trust, owned by, Lord Curzon
+Bodiam, maintained by, National Trust
+Bodiam Castle, heritage designation, Scheduled Monument
+murder holes, instance of, ghost stories
+moat, located in the administrative territorial entity, East Sussex
+Bodiam, heritage designation, Scheduled Monument
+Bodiam Castle, instance of, Scheduled Monument
+murder holes, facet of, ghost stories
+Bodiam Castle, time period, medieval history
+railway, located in the administrative territorial entity, London
+murder holes, part of, ghost stories
+Lord Curzon, has works in the collection, National Trust
+Sir Edward Dalyngrigge, country of citizenship, Sussex
+Lord Curzon, owner of, The National Trust
+history, facet of, medieval
+Bodiam Castle, located in the administrative territorial entity, East Sussex
+Sir Edward Dalyngrigge, place of birth, Sussex
+Lord Curzon, has works in the collection, The National Trust
+rail fare, located in the administrative territorial entity, London
+medieval life, facet of, history
+medieval life, part of, history
+Bodiam Castle, located in the administrative territorial entity, Bodiam

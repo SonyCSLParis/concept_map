@@ -1,0 +1,31 @@
+forensic evidence, facet of, crime
+forensic, studies, crime shows
+jury, part of, court
+CSI Effect, facet of, CSI
+judges, different from, jurors
+CSI, genre, crime-related television show
+conviction, has effect, jury verdicts
+forensic evidence, part of, trial
+CSI, main subject, crime
+Judge, subclass of, jurors
+crime shows, studied by, forensic
+forensic, subclass of, legal
+CSI Effect, facet of, forensic evidence
+jury verdicts, has effect, convict
+CSI Effect theory, facet of, CSI
+jurors, different from, judge
+trial, participant, jury
+forensic science, uses, scientific evidence
+conviction, has part, jury verdicts
+forensic, part of, legal
+criminal trial, has part, jurors
+jury verdicts, part of, court procedures
+judge, different from, jurors
+jurors, different from, judges
+CSI, genre, crime-related television shows
+CSI Effect, facet of, forensic evidence in criminal trials
+CSI Effect, main subject, forensic evidence
+jurors, facet of, criminal trial
+forensic science, studies, scientific evidence
+misconceptions, facet of, forensic science
+scientific evidence, studied by, forensic science

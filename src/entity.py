@@ -54,7 +54,7 @@ class EntityExtractor:
                                  "you need to specify `confidence` as a float")
         if threshold and not isinstance(threshold, int):
             raise ValueError("`threshold` param, if not null, must be an integer")
-    
+
     def get_np_ent(self, text: str):
         """ Retrieve entities based on noun phrases + threshold """
         doc = self.nlp(text.replace("\n", "").strip())

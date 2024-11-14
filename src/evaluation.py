@@ -71,12 +71,13 @@ class EvaluationMetrics:
 
 
 if __name__ == '__main__':
-    TRIPLES = open("experiments/2024-01-26-12:18:28/data_test/relation/M1.txt", encoding="utf-8").readlines()
+    FOLDER = "225"
+    TRIPLES = open(f"2024_11_14_test/2024-11-14-12_17_54/{FOLDER}/postprocess/{FOLDER}.txt", encoding="utf-8").readlines()
     TRIPLES = list(set(TRIPLES))
     TRIPLES = [x.replace("\n", "").split(", ") for x in TRIPLES]
     print(len(TRIPLES))
 
-    GOLD_TRIPLES = open("./data_test/101.cmap", encoding="utf-8").readlines()
+    GOLD_TRIPLES = open(f"data/Corpora_Falke/Wiki/test/{FOLDER}/{FOLDER}.cmap", encoding="utf-8").readlines()
     GOLD_TRIPLES = [x.replace("\n", "").split("\t") for x in GOLD_TRIPLES]
     print(len(GOLD_TRIPLES))
 

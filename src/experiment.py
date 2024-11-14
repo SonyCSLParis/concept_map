@@ -16,7 +16,7 @@ from src.pipeline import CMPipeline
 def get_save_folder():
     """ Save folder """
     date = str(datetime.now())
-    return f"{date[:10]}-{date[11:19]}"
+    return f"{date[:10]}-{date[11:19]}".replace(":", "_")
 
 
 def create_folders(folder_path: str):
@@ -30,7 +30,8 @@ def save_data(preprocess, entities, relations, postprocess, save_folder, name):
     """ Save intermediate steps data """
     with open(os.path.join(
             save_folder, "relation", f"{name}.txt"), "w", encoding="utf-8") as output_file:
-        output_file.write("\n".join([", ".join(map(str, rel)) for rel in relations]))
+        output_file.write("\n".join(map(str, relations)))
+        # output_file.write("\n".join([", ".join(map(str, rel)) for rel in relations]))
 
     with open(os.path.join(
             save_folder, "preprocess", f"{name}.txt"), "w", encoding="utf-8") as output_file:
@@ -43,6 +44,7 @@ def save_data(preprocess, entities, relations, postprocess, save_folder, name):
     with open(os.path.join(
             save_folder, "postprocess", f"{name}.txt"), "w", encoding="utf-8") as openfile:
         openfile.write("\n".join(map(str, postprocess)))
+
 
 def get_gs_triples(file_path):
     res = open(file_path, "r").readlines()
@@ -152,7 +154,7 @@ class ExperimentRun:
             logs[folder]["start"] =  str(start_)
             c_relations, c_info = self.pipeline(input_content=input_content, summaries_list=summaries_list, verbose=True)
 
-            save_data(relations=c_relations, preprocess=c_info["text"], entities=c_info["entities"], postprocess=c_relations, save_folder=curr_folder, name=folder)
+            save_data(relations=c_info["before_postprocess"], preprocess=c_info["text"], entities=c_info["entities"], postprocess=c_relations, save_folder=curr_folder, name=folder)
             logger.info("Pipeline & Preprocessing done")
 
             all_relations = c_relations
@@ -202,16 +204,20 @@ if __name__ == '__main__':
         preprocess=True,
         spacy_model="en_core_web_lg",
         # SUMMARY
-        summary_how = "single", summary_method="chat-gpt",
+        summary_how = "single", 
+        # chat-gpt
+        summary_method="chat-gpt",
         api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
         temperature=0.0, summary_percentage=15,
+        # lex-rank
+        # summary_method="lex-rank", summary_percentage=50,
         # RANKING
-        ranking="word2vec", ranking_how="all", ranking_perc_threshold=0.15,
+        ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15,
         # ENTITY
-        # options_ent=["dbpedia_spotlight"],#"nps"
-        # confidence=0.5,
-        # db_spotlight_api="http://localhost:2222/rest/annotate",
-        # threshold=10,
+        options_ent=["dbpedia_spotlight"],#"nps"
+        confidence=0.5,
+        db_spotlight_api="http://localhost:2222/rest/annotate",
+        threshold=10,
         # RELATION
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
@@ -221,4 +227,4 @@ if __name__ == '__main__':
         postprocess=True,
         )
     print(EXPERIMENTR.params)
-    EXPERIMENTR(save_folder="ablations")
+    EXPERIMENTR(save_folder="2024_11_14_test")

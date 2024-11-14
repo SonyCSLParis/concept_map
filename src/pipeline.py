@@ -209,10 +209,14 @@ class CMPipeline:
         entity_input = ranked_sents
         self.log_info(message="Entity extraction", verbose=verbose)
         # entities_x= None
+        mapping_label_to_iri = {}
+        entities_save = None
         if self.entities:
             entities_start_time = time.time()
             entities_result = self.entities(text="\n".join(entity_input))
+            entities_save = entities_result
             if "dbpedia_spotlight" in self.params["entities"]["options_ent"]:
+                mapping_label_to_iri = {x[1]: x[0] for x in entities_result["dbpedia_spotlight"]}
                 entities_result["dbpedia_spotlight"] = [x[1] for x in entities_result["dbpedia_spotlight"]]
             elif "wordnet" in self.params["entities"]["options_ent"]:
                 entities_result["wordnet"] = entities_result["wordnet"]
@@ -239,8 +243,9 @@ class CMPipeline:
 
         # POSTPROCESSING
         self.log_info(message="Postprocessing", verbose=verbose)
+        before_postprocess = [x for _, val in res.items() for x in val]
         if self.postprocess:
-            res_post = self.postprocess.remove_redundant_triples(res)
+            res = self.postprocess(res, mapping_label_to_iri)
         post_processing_time = time.time() - start_time
         self.log_info(message="Postprocessing done", verbose=verbose)
 
@@ -257,9 +262,9 @@ class CMPipeline:
         text_to_save = "\n".join(["\n".join(x) for x in sentences])
         return [x for _, val in res.items() for x in val], \
                {"text": "\n".join(["\n".join(x) for x in sentences]),
-                "entities": entities,
+                "entities": entities_save,
                 "summary": summary,
-                "before_postprocess": res,
+                "before_postprocess": before_postprocess,
                 "ranked": ranked_sents}
 
 
@@ -294,38 +299,38 @@ def run_pipeline_test(input_text):
     result_with_entity_filtering = pipeline_with_entity_filtering(input_content=input_text, verbose=True)
 
     # Initialize CMPipeline without entity filtering
-    pipeline_without_entity_filtering = CMPipeline(
-        preprocess=True,
-        spacy_model="en_core_web_lg",
-        postprocess=False,
-        options_rel=["rebel"],
-        rebel_tokenizer="Babelscape/rebel-large",
-        rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth",
-        local_rm=True,
-        summary_how="single",
-        summary_method="chat-gpt",
-        api_key_gpt=API_KEY_GPT,
-        engine="gpt-3.5-turbo",
-        summary_percentage=80,
-        temperature=0.0,
-        ranking="word2vec",
-        ranking_how="single",
-        options_ent=None,
-        ranking_perc_threshold=0.8,
-        ranking_int_threshold=None,
-        # options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"],
-    )
+    # pipeline_without_entity_filtering = CMPipeline(
+    #     preprocess=True,
+    #     spacy_model="en_core_web_lg",
+    #     postprocess=False,
+    #     options_rel=["rebel"],
+    #     rebel_tokenizer="Babelscape/rebel-large",
+    #     rebel_model="./src/fine_tune_rebel/finetuned_rebel.pth",
+    #     local_rm=True,
+    #     summary_how="single",
+    #     summary_method="chat-gpt",
+    #     api_key_gpt=API_KEY_GPT,
+    #     engine="gpt-3.5-turbo",
+    #     summary_percentage=80,
+    #     temperature=0.0,
+    #     ranking="word2vec",
+    #     ranking_how="single",
+    #     options_ent=None,
+    #     ranking_perc_threshold=0.8,
+    #     ranking_int_threshold=None,
+    #     # options_rel_post=["rebel", "corenlp", "dependency", "chat-gpt"],
+    # )
 
     # Execute the pipeline without entity filtering
-    result_without_entity_filtering = pipeline_without_entity_filtering(input_content=input_text, verbose=True)
+    # result_without_entity_filtering = pipeline_without_entity_filtering(input_content=input_text, verbose=True)
 
     print("RESULT WITH ENTITY FILTERING:")
     print("Entities:", result_with_entity_filtering[1]["entities"])
     print("Relations:", result_with_entity_filtering[0])
 
-    print("\nRESULT WITHOUT ENTITY FILTERING:")
-    print("Entities: None (Entities not extracted)")
-    print("Relations:", result_without_entity_filtering[0])
+    # print("\nRESULT WITHOUT ENTITY FILTERING:")
+    # print("Entities: None (Entities not extracted)")
+    # print("Relations:", result_without_entity_filtering[0])
 
 
 if __name__ == '__main__':
