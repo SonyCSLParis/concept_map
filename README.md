@@ -30,6 +30,7 @@ python setup.py install
 import nltk
 nltk.download('punkt')
 nltk.download('wordnet')
+python -m spacy_entity_linker "download_knowledge_base"
 ```
 
 (V) You would need to download the en_core_web_lg model of Spacy

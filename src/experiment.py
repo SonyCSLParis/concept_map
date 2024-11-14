@@ -204,25 +204,28 @@ if __name__ == '__main__':
         preprocess=True,
         spacy_model="en_core_web_lg",
         # SUMMARY
-        summary_how = "single", 
+        summary_how = "single",
         # chat-gpt
         summary_method="chat-gpt",
         api_key_gpt=API_KEY_GPT, engine="gpt-3.5-turbo",
         temperature=0.0, summary_percentage=15,
         # lex-rank
-        # summary_method="lex-rank", summary_percentage=50,
+        # summary_method="lex-rank", summary_percentage=30,
         # RANKING
-        ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.15,
+        ranking="page_rank", ranking_how="all", ranking_perc_threshold=0.3,
         # ENTITY
         options_ent=["dbpedia_spotlight"],#"nps"
         confidence=0.5,
         db_spotlight_api="http://localhost:2222/rest/annotate",
         threshold=10,
         # RELATION
+        # rebel, hugging face
         options_rel=["rebel"],
         rebel_tokenizer="Babelscape/rebel-large",
         rebel_model="Babelscape/rebel-large",
         local_rm=False,
+        # corenlp
+        # options_rel=["corenlp"],
         # POSTPROCESS
         postprocess=True,
         )

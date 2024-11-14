@@ -1,7 +1,35 @@
+import numpy as np
 from typing import Dict, List
+from sentence_transformers import SentenceTransformer, util
 
 class PostProcessor:
     """ Main class for post-processing """
+    def __init__(self, embed_model: str = 'sentence-transformers/all-MiniLM-L6-v2',
+                 threshold: float = 0.7):
+        self.embed_model = SentenceTransformer(embed_model)
+        self.threshold = threshold
+
+    def filter_on_embeddings(self, triples: Dict[str, List[tuple]]):
+        """ filter based on cosine similarity of embeddings """
+        output = {"output": []}
+        triples_orig = [x for _, v in triples.items() for x in v]
+        triples = [" ".join(x) for _, v in triples.items() for x in v]
+        nb = len(triples)
+        embeddings = self.embed_model.encode(triples)
+
+        cosine_similarity = np.zeros((nb, nb))
+        for i in range(nb):
+            for j in range(nb):
+                cosine_similarity[i][j]=util.pytorch_cos_sim(embeddings[i], embeddings[j])
+
+        indexes_triples = []
+        for i, triple in enumerate(triples_orig):
+            values = cosine_similarity[i, indexes_triples]
+            if all(x < self.threshold for x in values):
+                indexes_triples.append(i)
+                output["output"].append(triple)
+        return output
+
 
     def remove_redundant_triples(self, triples: Dict[str, List[tuple]]) -> Dict[str, List[tuple]]:
         """ Find unique triples """
@@ -55,10 +83,10 @@ class PostProcessor:
 
     def __call__(self, res, mapping):
         """ Complete postprocessing """
-        print(mapping)
         new_mapping = self.update_mapping(mapping=mapping)
         res = self.replace_ulabel(res=res, mapping=new_mapping)
-        triples = self.remove_redundant_triples(triples=res)
+        # triples = self.remove_redundant_triples(triples=res)
+        triples = self.filter_on_embeddings(triples=res)
 
         return triples
 
