@@ -8,4 +8,3 @@ nlp = spacy.load("en_core_web_sm", exclude=["static_vectors"])
 nlp.add_pipe("entityLinker", last=True)
 
 # nlp = spacy.load("en_core_web_lg")
-API_KEY_GPT = "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"
