@@ -41,7 +41,7 @@ class EntityExtractor:
         self.timeout = 3600
 
         self.threshold = threshold
-        self.nlp = spacy.load("en_core_web_lg")
+        self.nlp = spacy.load("en_core_web_sm")
 
     def check_params(self, options, confidence, threshold):
         """ Check that each parameter is correct for the options """
@@ -104,13 +104,27 @@ class EntityExtractor:
 
         return entities['wordnet']
 
+    # def get_spacy_ent(self, text: str):
+    #     doc = nlp(text)
+    #
+    #     found_spacy_entities_set = set()
+    #
+    #     linked_entities = doc._.linkedEntities
+    #     # iterates over sentences and prints linked entities
+    #     for sent in doc.sents:
+    #         sent._.linkedEntities.pretty_print()
     def get_spacy_ent(self, text: str):
         doc = nlp(text)
+
         found_spacy_entities_set = set()
 
-        for ent in doc.ents:
-            found_spacy_entities_set.add(ent.text.lower())
-        found_spacy_entities_set = list(found_spacy_entities_set)
+        for sent in doc.sents:
+            for entity in sent._.linkedEntities:
+                entity_id = entity.get_id()
+                uri = f"https://www.wikidata.org/wiki/Q{entity_id}" if isinstance(entity_id, int) else entity_id
+                surface_form = entity.get_label()
+                found_spacy_entities_set.add((uri, surface_form))
+        print(found_spacy_entities_set)
         return found_spacy_entities_set
 
     def get_payload(self, text: str):
@@ -128,7 +142,7 @@ class EntityExtractor:
 
 
 if __name__ == '__main__':
-    ENTITY_EXTRACTOR = EntityExtractor(options=["dbpedia_spotlight"], confidence=0.35,
+    ENTITY_EXTRACTOR = EntityExtractor(options=["spacy"], confidence=0.35,
                                        db_spotlight_api="http://localhost:2222/rest/annotate",
                                        threshold=1)
     TEXT = """
