@@ -1,4 +1,4 @@
-# ConceptMapsSummaries
+# Automated Concept Map Extraction from Text
 
 Code for Paper "Automated Concept Map Extraction from Text" submitted to LDK 2025 - Research Track
 
